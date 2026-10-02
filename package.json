@@ -1,11 +1,21 @@
 {
   "name": "votape",
   "version": "0.1.0",
-  "description": "CLI agent-first para consultar candidatos a elecciones peruanas, con todas sus fuentes.",
-  "type": "module",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jibaru/votape.git"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  },
   "bin": {
     "votape": "dist/cli.js"
+  },
+  "description": "CLI agent-first para consultar candidatos a elecciones peruanas, con todas sus fuentes.",
+  "engines": {
+    "node": ">=20"
   },
   "files": [
     "dist",
@@ -14,8 +24,17 @@
     "skills",
     "CORRECTIONS.md"
   ],
-  "engines": {
-    "node": ">=20"
+  "keywords": [
+    "peru",
+    "elecciones",
+    "candidatos",
+    "jne",
+    "cli",
+    "erm-2026"
+  ],
+  "license": "MIT",
+  "registries": {
+    "@cligentic": "https://cligentic.railly.dev/r/{name}.json"
   },
   "scripts": {
     "dev": "bun run src/cli.ts",
@@ -25,27 +44,5 @@
     "prepublishOnly": "bun run build && bun test",
     "ingest": "bun run scripts/ingest/jne-fetch.ts && bun run scripts/ingest/jne-normalize.ts"
   },
-  "registries": {
-    "@cligentic": "https://cligentic.railly.dev/r/{name}.json"
-  },
-  "dependencies": {
-    "picocolors": "^1.1.1"
-  },
-  "devDependencies": {
-    "@types/bun": "^1.4.2",
-    "@types/node": "^26.6.4",
-    "typescript": "^7.0.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jibaru/votape.git"
-  },
-  "keywords": [
-    "peru",
-    "elecciones",
-    "candidatos",
-    "jne",
-    "cli",
-    "erm-2026"
-  ]
+  "type": "module"
 }
