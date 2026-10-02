@@ -3,10 +3,13 @@
 Candidatos a elecciones peruanas, con todas sus fuentes, desde la terminal. Primer dataset: **Elecciones Regionales y Municipales 2026** (4 de octubre de 2026), alcaldías de **Lima Metropolitana y sus 43 distritos**.
 
 ```bash
-npx votape bruce                          # buscar
-npx votape jurisdiction get miraflores    # candidatos de un distrito
-npx votape candidate get <id>             # perfil completo, antecedentes y fuentes
-npx votape candidate list --has-fact criminal_sentence
+npm i -g @jibaru/votape                   # instala el comando `votape`
+votape bruce                              # buscar
+votape jurisdiction get miraflores        # candidatos de un distrito
+votape candidate get <id>                 # perfil completo, antecedentes y fuentes
+votape candidate list --has-fact criminal_sentence
+
+npx @jibaru/votape bruce                  # sin instalar
 ```
 
 ## Qué incluye

@@ -15,7 +15,7 @@ Planificado con `grill-me` el 2026-10-02. Cada decisión lleva su número de pre
 | Q5 | Cada fuente guarda `url`, `archivedUrl`, `accessedAt`, `publisher`, `quote` y `extractedBy` (`api`\|`scraper`\|`agent`\|`manual`). Lo que extrae un LLM entra con `needsReview: true` y no se publica sin aprobación |
 | Q6 | Solo hechos: sin puntajes, rankings ni semáforos. Se puede filtrar y contar |
 | Q7 | Comandos y claves JSON en inglés; salida humana en español |
-| Q8 | TypeScript sobre la API de Node, desarrollo con Bun, build a Node, publicación en npm como `votape`, bloques de cligentic |
+| Q8 | TypeScript sobre la API de Node, desarrollo con Bun, build a Node, publicación en npm como `@jibaru/votape` (npm rechazó `votape` por parecerse a `tape`; el comando sigue siendo `votape`), bloques de cligentic |
 | Q9/Q18 | Perfil completo: datos de la candidatura, educación, experiencia, cargos previos, renuncias, ingresos y bienes. El plan de gobierno va como link al PDF + resumen oficial del JNE (`jne-plan-resumen`); no hay resúmenes hechos con LLM |
 | Q10 | `votape-dev review` para aprobar, rechazar o editar hechos pendientes (`reviewedBy`, `reviewedAt`). Es la única escritura y va con log de auditoría |
 | Q11/Q17 | Un JSON por candidato, con id = `idHojaVida` del JNE; la CLI carga todo en memoria (sin índice compilado: ver friction.md). **Sin DNI, sin fecha de nacimiento (solo edad), sin fotos** (la URL de la foto contiene el DNI). Ingresos y bienes sí, tal como fueron declarados |
