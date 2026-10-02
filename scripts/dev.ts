@@ -138,8 +138,12 @@ async function check(p: Proposal): Promise<QueueItem["check"]> {
     if (res.ok) {
       fetched = true;
       sha256 = createHash("sha256").update(html).digest("hex");
-      // Compare accent-, case- and punctuation-insensitively: outlets re-encode quotes and dashes.
-      quoteVerified = fold(htmlToText(html)).includes(fold(p.quote));
+      // Compare accent-, case-, punctuation- and whitespace-insensitively:
+      // outlets re-encode quotes and dashes, and split words with inline tags
+      // ("públic<span>a</span>"), so spaces carry no signal. The letters
+      // themselves must still appear in the same exact sequence.
+      const squash = (t: string) => fold(t).replace(/ /g, "");
+      quoteVerified = squash(htmlToText(html)).includes(squash(p.quote));
       note = quoteVerified ? "cita encontrada en la página" : "la cita NO aparece en la página";
     } else {
       note = `la página respondió HTTP ${res.status}; la cita no se pudo verificar`;
