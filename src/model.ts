@@ -28,6 +28,8 @@ export type Provider = {
   permission: "n/a" | "pending" | "granted" | "denied";
   methodologyUrl?: string;
   notes?: string;
+  /** Press outlets: the only domains a press fact may cite. */
+  domains?: string[];
 };
 
 export type Source = {
@@ -39,8 +41,16 @@ export type Source = {
   sha256?: string;
   accessedAt: string;
   publisher: string;
+  title?: string;
   extractedBy: "api" | "scraper" | "agent" | "manual";
 };
+
+/**
+ * Facts that do not come from the JNE ingest (press, aggregators, manual
+ * lookups) live apart from the candidate file, so re-running the JNE ingest
+ * never drops a reviewed fact. Only reviewed facts are ever written here.
+ */
+export type ExtraFacts = { candidateId: string; facts: Fact[]; sources: Source[] };
 
 export type Fact = {
   id: string;
@@ -52,6 +62,10 @@ export type Fact = {
   details: Record<string, string | null>;
   /** Verbatim text from the source backing this fact. */
   quote?: string;
+  /** Checked at queue time: the quote appears in the fetched page. */
+  quoteVerified?: boolean;
+  /** Why the source is about this candidate and not a namesake. */
+  identityEvidence?: string;
   sourceIds: string[];
   needsReview: boolean;
   reviewedBy?: string;

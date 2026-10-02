@@ -44,7 +44,7 @@ export function fail(ctx: Ctx, err: unknown): number {
     err instanceof AppError
       ? err
       : new AppError("INTERNAL", { name: "InternalError", human: err instanceof Error ? err.message : String(err) });
-  const code = app.code === "USAGE" ? EXIT.usage : app.code === "NOT_FOUND" ? EXIT.notFound : EXIT.internal;
+  const code = app.code === "USAGE" || app.code === "REQUIRES_TTY" ? EXIT.usage : app.code === "NOT_FOUND" ? EXIT.notFound : EXIT.internal;
   if (isJson(ctx)) {
     process.stdout.write(
       `${JSON.stringify({ ok: false, error: { code: app.code, message: app.human, hint: app.hint }, meta: meta(ctx) })}\n`,

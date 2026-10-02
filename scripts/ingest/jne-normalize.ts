@@ -403,6 +403,12 @@ function main() {
     jurisdictionIds.push(jurisdictionId);
   }
 
+  // Coverage for non-JNE providers is maintained by hand at release time
+  // (e.g. press research progress); re-running this ingest must keep it.
+  const electionFile = join(OUT, "election.json");
+  const previousCoverage = existsSync(electionFile)
+    ? (JSON.parse(readFileSync(electionFile, "utf8")) as Election).coverage.filter((c) => c.providerId !== "jne-voto-informado")
+    : null;
   const election: Election = {
     id: ELECTION_ID,
     name: "Elecciones Regionales y Municipales 2026",
@@ -414,11 +420,13 @@ function main() {
     snapshotAt: lastFetch,
     coverage: [
       { providerId: "jne-voto-informado", status: missing ? "partial" : "complete", note: "Hojas de vida, sentencias declaradas, anotaciones marginales y resumen del plan de gobierno." },
-      { providerId: "rtc", status: "pending", note: "Pendiente de permiso del Consorcio RTC." },
-      { providerId: "prensa", status: "pending", note: "Investigación de prensa pendiente (v0.2)." },
+      ...(previousCoverage ?? [
+        { providerId: "rtc", status: "pending" as const, note: "Pendiente de permiso del Consorcio RTC." },
+        { providerId: "prensa", status: "pending" as const, note: "Investigación de prensa pendiente (v0.2)." },
+      ]),
     ],
   };
-  writeFileSync(join(OUT, "election.json"), `${JSON.stringify(election, null, 2)}\n`);
+  writeFileSync(electionFile, `${JSON.stringify(election, null, 2)}\n`);
   const stale = readdirSync(join(OUT, "candidates")).length - candidates;
   process.stderr.write(
     `normalizado: ${jurisdictionIds.length} circunscripciones, ${candidates} candidatos` +

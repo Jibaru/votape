@@ -42,7 +42,8 @@
     "typecheck": "tsc --noEmit",
     "test": "bun test",
     "prepublishOnly": "bun run build && bun test",
-    "ingest": "bun run scripts/ingest/jne-fetch.ts && bun run scripts/ingest/jne-normalize.ts"
+    "ingest": "bun run scripts/ingest/jne-fetch.ts && bun run scripts/ingest/jne-normalize.ts",
+    "votape-dev": "bun run scripts/dev.ts"
   },
   "type": "module"
 }

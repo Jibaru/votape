@@ -6,7 +6,7 @@ import {
   summarize,
   visibleFacts,
 } from "./data.js";
-import type { Candidate, Candidacy, Election, Fact, FactCategory, Jurisdiction } from "./model.js";
+import type { Candidate, Candidacy, Election, Fact, FactCategory, Jurisdiction, Source } from "./model.js";
 import { type Ctx, type NextStep, notFound, respond, safe, usage } from "./output.js";
 import {
   bold,
@@ -36,6 +36,9 @@ export const CATEGORY_LABEL: Record<FactCategory, string> = {
   press_report: "Reportes de prensa",
 };
 const CATEGORY_SHORT: Partial<Record<FactCategory, string>> = {
+  press_report: "prensa",
+  judicial_process: "proceso",
+  sanction: "sanción",
   criminal_sentence: "penal",
   civil_obligation: "oblig.",
   marginal_note: "anot.",
@@ -138,7 +141,7 @@ function candidateTable(rows: CandidateSummary[], showJurisdiction: boolean): st
     padVisible(dim("Organización política"), cols.party),
     showJurisdiction ? padVisible(dim("Circunscripción"), cols.jur) : "",
     padVisible(dim("Estado"), cols.status),
-    dim("Antecedentes declarados"),
+    dim("Antecedentes"),
   ]
     .filter(Boolean)
     .join("  ");
@@ -158,7 +161,7 @@ function candidateTable(rows: CandidateSummary[], showJurisdiction: boolean): st
 
 const legend = () =>
   muted(
-    "  Antecedentes declarados = lo que el propio candidato declaró en su hoja de vida del JNE.\n  penal = sentencia penal · oblig. = sentencia por obligación (alimentos, contractual…) · anot. = anotación marginal del JNE",
+    "  penal / oblig. = sentencia penal o por obligación DECLARADA por el candidato en su hoja de vida del JNE · anot. = anotación marginal del JNE\n  prensa / proceso / sanción = hallazgos de prensa revisados por una persona; su estado legal está en el perfil (votape candidate get)",
   );
 
 // ---------------------------------------------------------------- candidate
@@ -267,7 +270,7 @@ function renderCandidate(c: Candidate, j: Jurisdiction | undefined, facts: Fact[
     if (!list.length && !cats.includes(cat)) continue;
     const none = cat === "marginal_note" ? "— ninguna" : "— ninguna declarada";
     out.push(`  ${bold(CATEGORY_LABEL[cat])} ${list.length ? `(${list.length})` : muted(none)}`);
-    for (const f of list) out.push(renderFact(f));
+    for (const f of list) out.push(renderFact(f, c.sources));
   }
 
   out.push(section("Educación"));
@@ -323,7 +326,24 @@ function renderCandidate(c: Candidate, j: Jurisdiction | undefined, facts: Fact[
   return out.join("\n");
 }
 
-function renderFact(f: Fact): string {
+const LEGAL_LABEL: Record<string, string> = {
+  sentencia: "sentencia",
+  proceso: "proceso judicial en curso",
+  investigacion: "investigación (sin acusación ni sentencia)",
+  denuncia: "denuncia",
+  "n/a": "",
+};
+
+function renderFact(f: Fact, sources: Source[] = []): string {
+  if (f.evidence === "prensa" || f.evidence === "agregador") {
+    const src = sources.filter((s) => f.sourceIds.includes(s.id));
+    const lines = [`    • ${[f.date, safe(f.summary)].filter(Boolean).join("  ")}`];
+    if (LEGAL_LABEL[f.legalStatus]) lines.push(`      ${muted("Estado:")} ${LEGAL_LABEL[f.legalStatus]}`);
+    if (f.quote) lines.push(`      ${muted(`“${safe(f.quote)}”`)}`);
+    for (const s of src) lines.push(`      ${muted(`${safe(s.publisher)}${s.title ? ` — ${safe(s.title)}` : ""}`)}\n      ${info(s.url)}`);
+    lines.push(`      ${dim(`${EVIDENCE_LABEL[f.evidence]} · revisado por ${f.reviewedBy ?? "?"} el ${(f.reviewedAt ?? "").slice(0, 10)}`)}`);
+    return lines.join("\n");
+  }
   const d = f.details;
   const head = [f.date, d.materia ?? d.rubro].filter(Boolean).map((x) => safe(String(x))).join("  ");
   const lines = [`    • ${head}`];
@@ -493,7 +513,7 @@ export function factList(ds: Dataset, ctx: Ctx, args: Args): number {
         last = f.candidate.id;
       }
       out.push(`    ${muted(CATEGORY_LABEL[f.category])}`);
-      out.push(renderFact(f));
+      out.push(renderFact(f, f.sources));
     }
     if (d.total > d.results.length) out.push(muted(`\n  … y ${d.total - d.results.length} más`));
     return out.join("\n");

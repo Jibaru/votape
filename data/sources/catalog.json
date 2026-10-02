@@ -26,10 +26,23 @@
     "name": "Investigación de prensa (lista blanca)",
     "publisher": "Varios medios",
     "kind": "prensa",
-    "access": "manual",
+    "access": "html",
     "url": "https://github.com/Jibaru/votape/blob/main/PLAN.md",
     "license": "Se citan fragmentos breves con enlace al artículo original.",
     "permission": "n/a",
-    "notes": "Ojo Público, Convoca, IDL-Reporteros, Salud con Lupa, Epicentro, El Comercio, La República, RPP, Infobae Perú, Transparencia y el fact-checking del JNE. Cada hallazgo pasa por revisión humana. Pendiente para la v0.2."
+    "notes": "Solo medios y organizaciones de la lista blanca (domains). Cada hallazgo se valida automáticamente (dominio y cita textual presente en la página) y después lo revisa una persona antes de publicarse.",
+    "domains": [
+      "ojo-publico.com",
+      "convoca.pe",
+      "idl-reporteros.pe",
+      "saludconlupa.com",
+      "epicentro.tv",
+      "elcomercio.pe",
+      "larepublica.pe",
+      "rpp.pe",
+      "infobae.com",
+      "transparencia.org.pe",
+      "factchecking.jne.gob.pe"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import type { Candidate, Election, Fact, Jurisdiction, Provider } from "./model.js";
+import type { Candidate, Election, ExtraFacts, Fact, Jurisdiction, Provider } from "./model.js";
 
 // src/cli.ts and dist/cli.js both sit one level below the package root.
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -38,6 +38,15 @@ export function load(): Dataset {
     for (const f of readdirSync(join(dir, "candidates"))) {
       const c = readJson<Candidate>(join(dir, "candidates", f));
       candidates.set(c.id, c);
+    }
+    // Reviewed facts from outside the JNE ingest (press, aggregators).
+    const factsDir = join(dir, "facts");
+    for (const f of existsSync(factsDir) ? readdirSync(factsDir) : []) {
+      const extra = readJson<ExtraFacts>(join(factsDir, f));
+      const c = candidates.get(extra.candidateId);
+      if (!c) continue;
+      c.facts.push(...extra.facts);
+      c.sources.push(...extra.sources);
     }
   }
   elections.sort((a, b) => b.date.localeCompare(a.date));

@@ -25,3 +25,10 @@ Registro de fricción del build (skill cli-build). Al final se incorpora al case
 - **El JNE devuelve 404 con cuerpo JSON cuando un plan de gobierno no está disponible.** La primera descarga lo trató como fallo, agotó los reintentos y abortó todo en el distrito 16 de 44. Ahora un 404 con JSON se guarda como respuesta.
 - **Los textos libres traen DNI.** Un candidato escribió un DNI en "información adicional". Las reglas por campo no alcanzan: ahora `redact()` reemplaza cualquier 'DNI … 8 dígitos' en texto libre, y un test lo verifica.
 - **npm rechazó el nombre `votape` con un 403 por "too similar to existing package tape".** `npm view votape` daba 404 (el nombre parecía libre), pero eso no garantiza que se pueda publicar. Se publicó como `@jibaru/votape`; el bin sigue siendo `votape`. Lección: verificar la disponibilidad real con un publish de prueba antes de escribir los comandos de instalación en la documentación.
+
+## 2026-10-02 — v0.2: prensa y revisión
+
+- **La cola de revisión vive en `.cache/` (gitignored), no en `data/`.** Lo que plantea PLAN.md (`needsReview: true` dentro de los datos) habría puesto afirmaciones sin revisar sobre personas en un repo público. Solo lo aprobado llega a `data/elections/*/facts/`, separado del archivo del candidato para que reingestar el JNE no lo pise.
+- **La validación automática filtra antes que la persona.** El dominio tiene que estar en la lista blanca y la cita textual tiene que aparecer en la página descargada (comparación sin tildes ni puntuación). Una cita que no está en una página que sí se pudo descargar se rechaza sin pasar al revisor: es la defensa contra citas inventadas o mal recordadas por el agente.
+- **Aprobar exige TTY y no tiene `--yes`** (es la regla de consent gate de cli-build). Así el agente que investiga no puede aprobar su propio trabajo. Rechazar funciona sin TTY porque no publica nada.
+- La lista blanca se fijó en la Q16. Al escribir el catálogo agregué tres medios (Proética, Andina, El Peruano) y los quité antes del commit: ampliar la lista es decisión del usuario.
