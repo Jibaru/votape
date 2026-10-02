@@ -1,0 +1,38 @@
+{
+  "candidateId": "UzLWGIgjNnjYEo-fJETLJPEd1njU0d82",
+  "facts": [
+    {
+      "id": "press-338d77815c",
+      "category": "judicial_process",
+      "summary": "Según Infobae, el Tribunal Constitucional anuló la condena de 12 años de prisión que se le había impuesto por el asesinato del periodista Hugo Bustíos y ordenó su libertad.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-02-20",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Daniel Urresti saldrá en libertad: TC anula su condena de 12 años de prisión por el caso Bustíos"
+      },
+      "quote": "El Tribunal Constitucional anuló la condena de 12 años de prisión del exministro del Interior Daniel Urresti por el asesinato con alevosía del periodista Hugo Bustíos y ordenó su inmediata libertad.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Daniel Urresti, exministro del Interior y militar en retiro condenado en el caso Bustíos; es el mismo político de Podemos Perú (excongresista 2020-2021 según el input). Nombre completo coincide (Daniel Belizario Urresti Elera) y no hay homónimos públicos relevantes. El caso Bustíos no figura en lo declarado al JNE (solo difamación agravada).",
+      "sourceIds": [
+        "src-press-338d77815c"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:49.744Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-338d77815c",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/02/20/daniel-urresti-saldra-en-libertad-tc-anula-condena-de-12-anos-de-prision-por-el-caso-bustios/",
+      "sha256": "77356f016cf8a88b5734f3e707ca63acc85d1287a648866192011cef588ebc50",
+      "accessedAt": "2026-10-02T23:28:27.135Z",
+      "publisher": "Infobae",
+      "title": "Daniel Urresti saldrá en libertad: TC anula su condena de 12 años de prisión por el caso Bustíos",
+      "extractedBy": "agent"
+    }
+  ]
+}

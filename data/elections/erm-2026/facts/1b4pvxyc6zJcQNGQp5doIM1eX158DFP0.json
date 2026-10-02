@@ -1,0 +1,71 @@
+{
+  "candidateId": "1b4pvxyc6zJcQNGQp5doIM1eX158DFP0",
+  "facts": [
+    {
+      "id": "press-9794f527f6",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en febrero de 2015 la Fiscalía Especializada en Delitos de Lavado de Activos abrió una investigación por 180 días a Francis Allison, entonces alcalde de Magdalena del Mar, por el presunto delito de lavado de activos.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2015-02-25",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Francis Allison es investigado nuevamente por lavado de activos"
+      },
+      "quote": "El alcalde de Magdalena del Mar, Francis Allison, es nuevamente investigado por el presunto delito de lavado de activos. La Fiscalía Especializada en Delitos de Lavado de Activos abrió la investigación a inicios de este mes por un plazo de 180 días.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a 'el alcalde de Magdalena del Mar, Francis Allison', menciona la empresa 'Allison Abogados Asociados' y su paso por el Ministerio de Vivienda en 2009 y la detención en Miami. Coincide con el candidato Francis James Allison Oyague: alcalde de Magdalena del Mar (2015-2018 y 2023-2026) y gerente general de Allison Abogados Asociados SAC. Es un hecho distinto a la sentencia ya declarada (omisión de declaración en EE.UU.). Nota para revisión: en 2024 (La República/Infobae) Allison afirmó que esa investigación fue archivada/sobreseída en 2015; no se encontró en fuentes permitidas confirmación independiente del desenlace.",
+      "sourceIds": [
+        "src-press-9794f527f6"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:41.547Z"
+    },
+    {
+      "id": "press-8623e95d3d",
+      "category": "press_report",
+      "summary": "Según RPP, la Municipalidad Metropolitana de Lima anunció que EMAPE iniciará acciones legales y penales contra Francis Allison, alcalde de Magdalena del Mar, por el presunto daño a una cámara de seguridad vial instalada en ese distrito.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-08-17",
+      "details": {
+        "medio": "RPP",
+        "titulo": "MML anuncia acciones legales contra Francis Allison por retiro de cámara de EMAPE en Magdalena del Mar"
+      },
+      "quote": "La Municipalidad Metropolitana de Lima (MML) anunció que la Empresa Municipal de Apoyo a Proyectos Estratégicos (EMAPE) iniciará \"acciones legales y penales\" contra el alcalde de Magdalena del Mar, Francis Allison, por el \"daño y afectación\" que habría hecho contra una cámara de seguridad vial, instalada en dicho distrito.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo describe como 'Francis Allison, alcalde de Magdalena y candidato a la alcaldía de Lima', lo que coincide con el candidato (alcalde de Magdalena del Mar 2023-2026, postulante a Lima por Avanza País). El propio Allison difundió un video del retiro de la cámara, citado en la nota. Estado: anuncio de acciones legales, no se confirma denuncia presentada.",
+      "sourceIds": [
+        "src-press-8623e95d3d"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:42.304Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-9794f527f6",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/francis-allison-investigado-nuevamente-lavado-activos-337291-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20251026155312/https://elcomercio.pe/lima/francis-allison-investigado-nuevamente-lavado-activos-337291-noticia/",
+      "sha256": "3132cf9da899aba23d61029be30558850953d33a83a01d5c457dce1f5357d96a",
+      "accessedAt": "2026-10-02T23:28:53.577Z",
+      "publisher": "El Comercio",
+      "title": "Francis Allison es investigado nuevamente por lavado de activos",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-8623e95d3d",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/lima/actualidad/mml-anuncia-acciones-legales-contra-francis-allison-por-retiro-de-camara-de-emape-en-magdalena-del-mar-noticia-1701847",
+      "archivedUrl": "http://web.archive.org/web/20260824195250/https://rpp.pe/lima/actualidad/mml-anuncia-acciones-legales-contra-francis-allison-por-retiro-de-camara-de-emape-en-magdalena-del-mar-noticia-1701847",
+      "sha256": "bcdbac293ab258cab3b1d84cde53e72983b34dd4b511b2610747ecfebaa4b3ea",
+      "accessedAt": "2026-10-02T23:28:55.974Z",
+      "publisher": "RPP",
+      "title": "MML anuncia acciones legales contra Francis Allison por retiro de cámara de EMAPE en Magdalena del Mar",
+      "extractedBy": "agent"
+    }
+  ]
+}

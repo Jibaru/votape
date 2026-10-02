@@ -1,0 +1,38 @@
+{
+  "candidateId": "tkdqsJxB6tLzf25-irhLPA2aOC815bMz",
+  "facts": [
+    {
+      "id": "press-530fa144f2",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en 2007 la Contraloría General de la República investigó a Alberto Tejada, entonces alcalde de San Borja, por los constantes viajes al exterior que realizó durante su gestión.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2012-02-23",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Tarjeta roja: el cuestionado entorno de Alberto Tejada copa su ministerio"
+      },
+      "quote": "La Contraloría General de la República investigó al alcalde de San Borja, Alberto Tejada, por los constantes viajes al exterior que realizó durante su gestión.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Alberto Tejada Noriega', 'médico urólogo', 'ex alcalde de San Borja' con 'sus dos períodos como alcalde (2003-2010)' y su movimiento 'Democracia con Valores'. Coincide con el candidato Carlos Alberto Tejada Noriega: médico cirujano urólogo, alcalde distrital por Democracia con Valores 2007-2010 (y otra vez 2019-2022 por Acción Popular). Otros medios (Infobae/RPP 2026) confirman que el candidato de Acción Popular es el exministro de Salud y urólogo Alberto Tejada.",
+      "sourceIds": [
+        "src-press-530fa144f2"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:49.212Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-530fa144f2",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/gobierno/entorno-alberto-tejada-copa-su-ministerio-noticia-1378209/",
+      "sha256": "e309b530b0a1eeeac1b02f6efc46de73960b491c0a69b37eac391f1edda0f4e7",
+      "accessedAt": "2026-10-02T23:28:47.621Z",
+      "publisher": "El Comercio",
+      "title": "Tarjeta roja: el cuestionado entorno de Alberto Tejada copa su ministerio",
+      "extractedBy": "agent"
+    }
+  ]
+}

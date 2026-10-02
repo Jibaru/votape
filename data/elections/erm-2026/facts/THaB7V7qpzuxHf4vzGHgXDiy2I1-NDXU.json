@@ -1,0 +1,38 @@
+{
+  "candidateId": "THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU",
+  "facts": [
+    {
+      "id": "press-ba88aa5440",
+      "category": "sanction",
+      "summary": "Según RPP, en agosto de 2025 el Primer Juzgado de Investigación Preparatoria Especializada en Delitos de Corrupción de Funcionarios y Crimen Organizado inhabilitó por tres meses a Elio Riera para ejercer la abogacía.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2025-08-18",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Elio Riera: Poder Judicial ordena su inhabilitación temporal para ejercer la abogacía por tres meses"
+      },
+      "quote": "El abogado Elio Riera, actual defensa legal de Andrés Hurtado y vocero de Alianza Para el Progreso, fue inhabilitado por tres meses para ejercer la abogacía por el Primer Juzgado de Investigación Preparatoria Especializada en Delitos de Corrupción de Funcionarios y Crimen Organizado.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo describe como abogado y 'vocero de Alianza Para el Progreso' y cita la resolución nombrándolo 'Riera Garro'; coincide con el nombre completo Elio Fernando Riera Garro, el partido (ALIANZA PARA EL PROGRESO) y su ocupación de abogado (Riera Law Office).",
+      "sourceIds": [
+        "src-press-ba88aa5440"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:48.687Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-ba88aa5440",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/judiciales/elio-riera-poder-judicial-ordena-su-inhabilitacion-temporal-para-ejercer-la-abogacia-por-tres-meses-noticia-1651142",
+      "sha256": "5eb0e2893eeeb70e91478ce289d264cc1539c3514b4dbb75ef14c08b16c662ca",
+      "accessedAt": "2026-10-02T23:27:49.366Z",
+      "publisher": "RPP",
+      "title": "Elio Riera: Poder Judicial ordena su inhabilitación temporal para ejercer la abogacía por tres meses",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -64,12 +64,12 @@
     {
       "providerId": "rtc",
       "status": "pending",
-      "note": "Pendiente de permiso del Consorcio RTC."
+      "note": "Pendiente de permiso del Consorcio RTC (su robots.txt excluye /api/)."
     },
     {
       "providerId": "prensa",
-      "status": "pending",
-      "note": "Investigación de prensa: Lima Metropolitana en revisión humana; distritos pendientes. Que no haya hallazgos no prueba que no existan."
+      "status": "partial",
+      "note": "Prensa: Lima Metropolitana revisada (18 hallazgos sobre 10 candidatos, 2026-10-02); distritos pendientes. Que no haya hallazgos no prueba que no existan."
     }
   ]
 }

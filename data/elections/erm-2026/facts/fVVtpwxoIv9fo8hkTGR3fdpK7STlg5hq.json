@@ -1,0 +1,103 @@
+{
+  "candidateId": "fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq",
+  "facts": [
+    {
+      "id": "press-a09104b8a7",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, el 29 de septiembre de 2021 la 2.ª Fiscalía Provincial Corporativa Especializada en Delitos de Corrupción de Funcionarios de Lima abrió una investigación a Samuel Daza por negociación incompatible o aprovechamiento indebido de cargo.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2021-09-29",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Samuel Daza: el expediente del candidato a la alcaldía de Lima de Fuerza Popular y sus nexos con colectiveros informales"
+      },
+      "quote": "El 29 de septiembre de 2021, la 2° Fiscalía Provincial Corporativa Especializada en Delitos de Corrupción de Funcionarios de Lima le abrió una investigación por negociación incompatible o aprovechamiento indebido de cargo.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Samuel Daza como actual alcalde de Ancón y candidato de Fuerza Popular a la alcaldía de Lima, y señala que en 2021 fue designado Director General de la Oficina General de Articulación, Monitoreo y Evaluación de Impacto del MTC; coincide con el partido (FUERZA POPULAR), el cargo de alcalde de Ancón (2023-2026) y el puesto 'DIRECTOR GENERAL OGAME — MTC (2021)' de la hoja de vida.",
+      "sourceIds": [
+        "src-press-a09104b8a7"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:45.025Z"
+    },
+    {
+      "id": "press-8abaa52254",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, citando un reporte del Ministerio Público, el 19 de marzo de 2025 se inició una investigación preliminar contra Samuel Daza en la Fiscalía Especializada en Delitos de Materia Ambiental de Ventanilla.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2025-03-19",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Samuel Daza: el expediente del candidato a la alcaldía de Lima de Fuerza Popular y sus nexos con colectiveros informales"
+      },
+      "quote": "Según el reporte del Ministerio Público, el 19 de marzo de 2025 se le inició una investigación preliminar en la Fiscalía Especializada en Delitos de Materia Ambiental de Ventanilla.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Samuel Daza como actual alcalde de Ancón y candidato de Fuerza Popular a la alcaldía de Lima, y señala que en 2021 fue designado Director General de la Oficina General de Articulación, Monitoreo y Evaluación de Impacto del MTC; coincide con el partido (FUERZA POPULAR), el cargo de alcalde de Ancón (2023-2026) y el puesto 'DIRECTOR GENERAL OGAME — MTC (2021)' de la hoja de vida. El párrafo precisa que esta investigación ocurrió 'mientras ejercía sus funciones como alcalde distrital de Ancón'.",
+      "sourceIds": [
+        "src-press-8abaa52254"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:45.456Z"
+    },
+    {
+      "id": "press-75db8e71e3",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, Samuel Daza registra dos carpetas fiscales, de agosto de 2023 y octubre de 2024, por presuntos delitos contra la propiedad intelectual.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-08-10",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Samuel Daza: el expediente del candidato a la alcaldía de Lima de Fuerza Popular y sus nexos con colectiveros informales"
+      },
+      "quote": "A este proceso se suman otras dos carpetas fiscales durante su actual mandato municipal, en agosto de 2023 y octubre de 2024, por presuntos delitos contra la propiedad intelectual relacionados con la reproducción y distribución de obras sin autorización del autor.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Samuel Daza como actual alcalde de Ancón y candidato de Fuerza Popular a la alcaldía de Lima, y señala que en 2021 fue designado Director General de la Oficina General de Articulación, Monitoreo y Evaluación de Impacto del MTC; coincide con el partido (FUERZA POPULAR), el cargo de alcalde de Ancón (2023-2026) y el puesto 'DIRECTOR GENERAL OGAME — MTC (2021)' de la hoja de vida.",
+      "sourceIds": [
+        "src-press-75db8e71e3"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:45.848Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a09104b8a7",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/samuel-daza-fuerza-popular-elecciones-municipales-colectivos-informales-denuncias-juan-silva-keiko-fujimori-tlcnota-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260924043439/https://elcomercio.pe/politica/samuel-daza-fuerza-popular-elecciones-municipales-colectivos-informales-denuncias-juan-silva-keiko-fujimori-tlcnota-noticia/",
+      "sha256": "f0413dccfb57ecd70e8558dc46a855904c25ccaf925c189769e6bfca0c95695b",
+      "accessedAt": "2026-10-02T23:27:32.093Z",
+      "publisher": "El Comercio",
+      "title": "Samuel Daza: el expediente del candidato a la alcaldía de Lima de Fuerza Popular y sus nexos con colectiveros informales",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-8abaa52254",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/samuel-daza-fuerza-popular-elecciones-municipales-colectivos-informales-denuncias-juan-silva-keiko-fujimori-tlcnota-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260924043439/https://elcomercio.pe/politica/samuel-daza-fuerza-popular-elecciones-municipales-colectivos-informales-denuncias-juan-silva-keiko-fujimori-tlcnota-noticia/",
+      "sha256": "eb5a9a76088e53e378da4134235eeec58cb50bb46944ee17200d15ba2b862092",
+      "accessedAt": "2026-10-02T23:27:32.425Z",
+      "publisher": "El Comercio",
+      "title": "Samuel Daza: el expediente del candidato a la alcaldía de Lima de Fuerza Popular y sus nexos con colectiveros informales",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-75db8e71e3",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/samuel-daza-fuerza-popular-elecciones-municipales-colectivos-informales-denuncias-juan-silva-keiko-fujimori-tlcnota-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260924043439/https://elcomercio.pe/politica/samuel-daza-fuerza-popular-elecciones-municipales-colectivos-informales-denuncias-juan-silva-keiko-fujimori-tlcnota-noticia/",
+      "sha256": "285f3970fc30b85070c6d56560e63cb9b8fe958c9e05ef902ca55b24daf616a6",
+      "accessedAt": "2026-10-02T23:27:32.808Z",
+      "publisher": "El Comercio",
+      "title": "Samuel Daza: el expediente del candidato a la alcaldía de Lima de Fuerza Popular y sus nexos con colectiveros informales",
+      "extractedBy": "agent"
+    }
+  ]
+}

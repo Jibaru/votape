@@ -1,0 +1,39 @@
+{
+  "candidateId": "r5knKcTGc3ZdSI9xih9uGNMdN3HZ6dg1",
+  "facts": [
+    {
+      "id": "press-efb5c95a18",
+      "category": "judicial_process",
+      "summary": "Según RPP, sigue afrontando bajo comparecencia con restricciones la investigación preparatoria que se le sigue por el caso del Proyecto de Irrigación Olmos, vinculado a Odebrecht.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2023-11-05",
+      "details": {
+        "medio": "RPP",
+        "titulo": "PJ rechazó pedido de Yehude Simon para afrontar sin restricciones investigación por Proyecto Irrigación Olmos"
+      },
+      "quote": "El exjefe del Gabinete Ministerial, Yehude Simon, seguirá afrontando bajo mandato de comparecencia con restricciones la investigación preparatoria que se le sigue por el caso del Proyecto de Irrigación Olmos, vinculado a Odebrecht.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Yehude Simon (Simón Munaro) como exjefe del Gabinete y exgobernador regional de Lambayeque; coincide con el input (Yehude Simon Munaro, gobernador regional 2007-2010, excongresista). Nombre único. El caso Olmos/Odebrecht es distinto de la sentencia por apología declarada al JNE.",
+      "sourceIds": [
+        "src-press-efb5c95a18"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:47.194Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-efb5c95a18",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/judiciales/pj-rechazo-pedido-de-yehude-simon-para-afrontar-sin-restricciones-investigacion-por-proyecto-irrigacion-olmos-noticia-1515612",
+      "archivedUrl": "http://web.archive.org/web/20251125175140/https://rpp.pe/politica/judiciales/pj-rechazo-pedido-de-yehude-simon-para-afrontar-sin-restricciones-investigacion-por-proyecto-irrigacion-olmos-noticia-1515612",
+      "sha256": "85f5d5d3914ee46c40e4cbb97edc9f2baf7276e3fe1be0ecab8ea850af648eed",
+      "accessedAt": "2026-10-02T23:28:29.853Z",
+      "publisher": "RPP",
+      "title": "PJ rechazó pedido de Yehude Simon para afrontar sin restricciones investigación por Proyecto Irrigación Olmos",
+      "extractedBy": "agent"
+    }
+  ]
+}

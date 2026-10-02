@@ -1,0 +1,102 @@
+{
+  "candidateId": "24PfKYKBrbTRS4GAQW8a2NNjeGa7__zS",
+  "facts": [
+    {
+      "id": "press-144da2c8d4",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en octubre de 2025 una fiscalía penal de Surco y Barranco abrió investigación al alcalde de Surco, Carlos Bruce, por la demolición de parte de la vivienda de la congresista María Acuña durante un operativo municipal de recuperación de áreas públicas.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2025-10-30",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "María Acuña: Fiscalía abre investigación a Carlos Bruce por demolición de parte de la casa de la congresista"
+      },
+      "quote": "El Segundo Despacho de la Primera Fiscalía Corporativa Penal de Surco y Barranco abrió investigación al alcalde de Surco, Carlos Bruce, por la demolición de parte de la vivienda de la congresista María Acuña (Alianza para el Progreso) en un operativo de recuperación de áreas públicas en ese distrito.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica al investigado como 'alcalde de Surco, Carlos Bruce' y 'Bruce Montes de Oca', lo que coincide con el nombre completo del candidato (Carlos Ricardo Bruce Montes De Oca) y su cargo declarado de Alcalde Distrital de Santiago de Surco (2023-2026).",
+      "sourceIds": [
+        "src-press-144da2c8d4"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:42.780Z"
+    },
+    {
+      "id": "press-5840fcc8f7",
+      "category": "judicial_process",
+      "summary": "Según El Comercio (PerúCheck), en abril de 2019 la entonces fiscal de la Nación abrió una investigación preliminar contra Carlos Bruce, entonces ministro de Vivienda y congresista, por presuntos vínculos con el caso Los Temerarios del Crimen; el mismo medio indica que no consta una sentencia condenatoria.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-10-02",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "PerúCheck: ¿Carlos Bruce y Luiz Carlos Reátegui son alcaldes “sin investigaciones fiscales”?"
+      },
+      "quote": "En abril de 2019, cuando Carlos Bruce se desempeñaba como ministro de Vivienda y congresista, la entonces fiscal de la Nación, Zoraida Ávalos, abrió una investigación preliminar en su contra y contra otros cuatro parlamentarios por sus presuntos vínculos con el caso Los Temerarios del Crimen.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo describe como ministro de Vivienda y congresista en 2019 y como candidato de Somos Perú a Lima y alcalde de Surco, lo que coincide con su trayectoria declarada (Congresista, Ministro de Vivienda 2019, Alcalde de Surco) y su partido actual (Somos Perú). Fecha: se usa la del artículo (2026-10-02) porque el hecho solo se fecha como abril de 2019.",
+      "sourceIds": [
+        "src-press-5840fcc8f7"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:43.238Z"
+    },
+    {
+      "id": "press-986839566c",
+      "category": "press_report",
+      "summary": "Según Infobae, en mayo de 2026 Sunafil emitió una orden de inspección a la Municipalidad de Surco para verificar los hechos de un video en el que el alcalde Carlos Bruce utiliza una pistola eléctrica contra su asesor dentro de una oficina; el alcalde afirmó que fue una simulación voluntaria.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-05-21",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Sunafil ordena inspección a la Municipalidad de Surco tras polémico video de Carlos Bruce disparando con un taser a su asesor"
+      },
+      "quote": "Ante el video difundido en redes sociales en el que el alcalde de Santiago de Surco, Carlos Bruce Montes de Oca, utiliza una pistola eléctrica contra su asesor Arturo Bobbio Carranza dentro de una oficina, la Intendencia de Lima Metropolitana emitió una orden de inspección en verificación de hechos",
+      "quoteVerified": true,
+      "identityEvidence": "El texto citado (comunicado de Sunafil) nombra al 'alcalde de Santiago de Surco, Carlos Bruce Montes de Oca', coincidente con el nombre completo y el cargo de alcalde distrital de Surco (2023-2026) del candidato.",
+      "sourceIds": [
+        "src-press-986839566c"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:43.684Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-144da2c8d4",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/actualidad/maria-acuna-fiscalia-abre-investigacion-a-carlos-bruce-por-demolicion-de-parte-de-la-casa-de-la-congresista-surco-ultimas-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20251116012251/https://elcomercio.pe/politica/actualidad/maria-acuna-fiscalia-abre-investigacion-a-carlos-bruce-por-demolicion-de-parte-de-la-casa-de-la-congresista-surco-ultimas-noticia/",
+      "sha256": "8091f5036121022f0ed266265d81c6a8dc4da1283e1bf85aab742abde80ab59e",
+      "accessedAt": "2026-10-02T23:27:07.355Z",
+      "publisher": "El Comercio",
+      "title": "María Acuña: Fiscalía abre investigación a Carlos Bruce por demolición de parte de la casa de la congresista",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-5840fcc8f7",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/perucheck-carlos-bruce-y-luiz-carlos-reategui-son-alcaldes-sin-investigaciones-fiscales-noticia/",
+      "sha256": "9f2ff8c9f4de096af96d42ae42083e663e7cea108390b1a285dc1bd0481ba8b0",
+      "accessedAt": "2026-10-02T23:27:10.798Z",
+      "publisher": "El Comercio",
+      "title": "PerúCheck: ¿Carlos Bruce y Luiz Carlos Reátegui son alcaldes “sin investigaciones fiscales”?",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-986839566c",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/05/21/sunafil-ordena-inspeccion-a-la-municipalidad-de-surco-tras-polemico-video-de-carlos-bruce-disparando-con-un-taser-a-su-asesor/",
+      "archivedUrl": "http://web.archive.org/web/20260522122213/https://www.infobae.com/peru/2026/05/21/sunafil-ordena-inspeccion-a-la-municipalidad-de-surco-tras-polemico-video-de-carlos-bruce-disparando-con-un-taser-a-su-asesor/",
+      "sha256": "250900227bc5f5632b67d140f360d5dc4060e6859d6fdbcdaf02e39ccf79b9a7",
+      "accessedAt": "2026-10-02T23:27:12.529Z",
+      "publisher": "Infobae",
+      "title": "Sunafil ordena inspección a la Municipalidad de Surco tras polémico video de Carlos Bruce disparando con un taser a su asesor",
+      "extractedBy": "agent"
+    }
+  ]
+}

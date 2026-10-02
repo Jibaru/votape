@@ -1,0 +1,70 @@
+{
+  "candidateId": "Hf1lOR1BgkEQy_AQzeu9AENvMQixfE8q",
+  "facts": [
+    {
+      "id": "press-8b435c9b4f",
+      "category": "judicial_process",
+      "summary": "Según Infobae, el Poder Judicial ordenó en segunda instancia a Ricardo Belmont pagar una reparación civil de 50 mil soles a Phillip Butters por atribuirle sin pruebas una serie de delitos; el mismo medio señala que la acción penal por difamación agravada fue declarada prescrita y que Belmont recurrió en casación.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2026-04-07",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Ricardo Belmont es sentenciado a pagar una reparación civil de 50 mil soles a Phillip Butters"
+      },
+      "quote": "El Poder Judicial sentenció al candidato presidencial del Partido Cívico Obras, Ricardo Belmont, a pagar una reparación civil de 50 mil soles al conductor de televisión Phillip Butters por atribuirle sin pruebas una serie de delitos y expresar calificativos denigrantes sobre su salud mental.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como candidato presidencial 2026 del Partido Cívico Obras y fundador de RBC (conflicto por la caseta del Morro Solar), lo que coincide con su partido actual (Partido Cívico Obras) y su experiencia en Red Bicolor de Comunicaciones; el artículo indica que tenía 77 años en 2022, coherente con sus 81 años actuales. Nota: la condena penal de primera instancia quedó sin efecto por prescripción; por eso se marca 'proceso' y no 'sentencia'.",
+      "sourceIds": [
+        "src-press-8b435c9b4f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:46.266Z"
+    },
+    {
+      "id": "press-0d200834dd",
+      "category": "judicial_process",
+      "summary": "Según Infobae, Ricardo Belmont enfrenta un proceso penal en Chorrillos en el que la Fiscalía le imputa presuntos delitos de usurpación agravada y hurto agravado por la toma de la caseta del Morro Solar en 2022 y pide 7 años de prisión; el juicio oral está estancado desde noviembre de 2024.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2026-04-09",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Juicio contra Ricardo Belmont por la toma a la fuerza de PBO se encuentra estancado"
+      },
+      "quote": "Por este proceso penal, la Fiscalía imputa al fundador de RBC la presunta comisión de los delitos de usurpación agravada y hurto agravado, y pide una pena de 7 años de prisión.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como 'candidato presidencial de Obras, Ricardo Belmont', 'fundador de RBC' y 'Belmont Cassinelli', coincidente con su nombre completo, su partido (Partido Cívico Obras) y su trayectoria en Red Bicolor de Comunicaciones.",
+      "sourceIds": [
+        "src-press-0d200834dd"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:46.713Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-8b435c9b4f",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/04/07/ricardo-belmont-es-sentenciado-a-pagar-una-reparacion-civil-de-50-mil-soles-a-phillip-butters/",
+      "archivedUrl": "http://web.archive.org/web/20260414082421/https://www.infobae.com/peru/2026/04/07/ricardo-belmont-es-sentenciado-a-pagar-una-reparacion-civil-de-50-mil-soles-a-phillip-butters/",
+      "sha256": "9b2b3cae5f42fca333bda14981c2dd2499217ec1e537c8da521dcd491ed0986a",
+      "accessedAt": "2026-10-02T23:27:13.719Z",
+      "publisher": "Infobae",
+      "title": "Ricardo Belmont es sentenciado a pagar una reparación civil de 50 mil soles a Phillip Butters",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-0d200834dd",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/04/09/juicio-contra-ricardo-belmont-por-la-toma-a-la-fuerza-de-pbo-se-encuentra-estancado/",
+      "sha256": "a9408ebe40cd36d0e1378c8d75c1e636d56613b1b0d7416ff5f29cb3f6496ceb",
+      "accessedAt": "2026-10-02T23:27:19.033Z",
+      "publisher": "Infobae",
+      "title": "Juicio contra Ricardo Belmont por la toma a la fuerza de PBO se encuentra estancado",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "candidateId": "TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r",
+  "facts": [
+    {
+      "id": "press-40c09c3120",
+      "category": "press_report",
+      "summary": "Según Infobae, se pidió al JEE Lima Centro excluir su candidatura luego de que el Poder Judicial dispusiera su inscripción en el REDAM por una deuda de 5,292.94 soles en pensiones alimenticias.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-09-23",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Piden excluir a Luis Miguel Llanos tras ser inscrito en el registro de deudores alimentarios"
+      },
+      "quote": "Ello luego de que el Poder Judicial dispusiera su inscripción en el Registro de Deudores Alimentarios Morosos (REDAM) por una deuda de 5,292.94 soles en pensiones alimenticias.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Luis Miguel Llanos Carrillo, candidato a la alcaldía de Lima por Progresemos; coincide con nombre completo y partido del input. Aporta un hecho distinto a las obligaciones alimentarias declaradas: inscripción en REDAM (17 set 2026) y pedido de exclusión ante el JEE.",
+      "sourceIds": [
+        "src-press-40c09c3120"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:47.696Z"
+    },
+    {
+      "id": "press-85a6efa62d",
+      "category": "sanction",
+      "summary": "Según La República, en 2021 el JEE Lima Centro 2 lo excluyó como candidato al Congreso por no consignar en su hoja de vida una condena por difamación.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2021-01-18",
+      "details": {
+        "medio": "La República",
+        "titulo": "Excluyen candidatura de Luis Miguel Llanos tras omitir condena por difamación"
+      },
+      "quote": "Esto debido a que el empresario, recordado por enfrentarse a delincuentes con su arma de fuego, no colocó en su hoja de vida la condena de dos años de pena privativa de libertad condicional en su contra por el delito de difamación.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo cita la resolución que excluye a 'Luis Miguel Llanos Carrillo' (nombre completo idéntico al input), empresario conocido por enfrentarse a delincuentes; la condena por difamación coincide con la declarada ahora al JNE. El hecho distinto es la exclusión de 2021 por omitirla.",
+      "sourceIds": [
+        "src-press-85a6efa62d"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-02T23:32:48.173Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-40c09c3120",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/09/23/piden-excluir-a-luis-miguel-llanos-tras-ser-inscrito-en-el-registro-de-deudores-alimentarios/",
+      "archivedUrl": "http://web.archive.org/web/20260924151123/https://www.infobae.com/peru/2026/09/23/piden-excluir-a-luis-miguel-llanos-tras-ser-inscrito-en-el-registro-de-deudores-alimentarios/",
+      "sha256": "3aa7a71cab39c26483c953e0d1d5b6911f2a0614901834d21eb2d3ef70aa3b2d",
+      "accessedAt": "2026-10-02T23:28:33.794Z",
+      "publisher": "Infobae",
+      "title": "Piden excluir a Luis Miguel Llanos tras ser inscrito en el registro de deudores alimentarios",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-85a6efa62d",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/elecciones/2021/01/19/excluyen-candidatura-de-luis-miguel-llanos-tras-omitir-condena-por-difamacion-pltc",
+      "archivedUrl": "http://web.archive.org/web/20260326005023/https://larepublica.pe/elecciones/2021/01/19/excluyen-candidatura-de-luis-miguel-llanos-tras-omitir-condena-por-difamacion-pltc",
+      "sha256": "72c1724ab7ebf706e9485967e46edbec476bd2ea8491efe0afc6bfeecff65517",
+      "accessedAt": "2026-10-02T23:28:36.164Z",
+      "publisher": "La República",
+      "title": "Excluyen candidatura de Luis Miguel Llanos tras omitir condena por difamación",
+      "extractedBy": "agent"
+    }
+  ]
+}
