@@ -1,0 +1,192 @@
+{
+  "id": "IFMw9YTaU5A_T5AqhF7XQ2Cdo--UZoKh",
+  "slug": "judith-soledad-aguero-tinco",
+  "electionId": "erm-2026",
+  "name": "Judith Soledad Aguero Tinco",
+  "givenNames": "Judith Soledad",
+  "surnames": "Aguero Tinco",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:23.458Z",
+      "sourceId": "jne-hv-IFMw9YTaU5A_T5AqhF7XQ2Cdo--UZoKh"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "REMAX ACCIÓN",
+      "role": "ASESORA COMERCIAL",
+      "from": "2023",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTO MODELO NISSAN SENTRA COLOR PLATA",
+        "value": 18000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/50513be9-6caf-4ecc-9336-9a30d301264d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cf08a74d-7d4d-4d05-aa03-7c47deaced7e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de infraestructura y equipamiento en centros educativos de nivel inicial y primaria.",
+            "objective": "Mejorar la calidad y la cobertura educativa en el distrito.",
+            "goal": "Rehabilitar 12 instituciones educativas para el 2028 y lograr que 1,500 niños adicionales tengan acceso a cuna-jardín municipal.",
+            "indicator": "Número de instituciones educativas con infraestructura rehabilitada y número de niños matriculados en cuna-jardines municipales."
+          },
+          {
+            "problem": "Altos índices de inseguridad ciudadana y percepción de riesgo permanente.",
+            "objective": "Reducir la victimización y mejorar la percepción de seguridad en el distrito.",
+            "goal": "Reducir en un 30% los delitos contra la persona para el año 2028 y contar con 80 cámaras operativas para el 2027.",
+            "indicator": "Número de delitos contra la persona registrados anualmente y porcentaje de población que percibe inseguridad en la encuesta vecinal anual."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y atención primaria oportuna.",
+            "objective": "Ampliar la cobertura de salud preventiva y atención primaria en la población vulnerable.",
+            "goal": "Realizar 15,000 atenciones preventivas anuales y fortalecer 3 establecimientos de salud para el 2027.",
+            "indicator": "Número de atenciones preventivas realizadas por año y número de establecimientos de salud fortalecidos."
+          },
+          {
+            "problem": "Altos índices de violencia familiar y vulnerabilidad de grupos en riesgo como niños, adultos mayores y mujeres.",
+            "objective": "Proteger los derechos de los grupos vulnerables y reducir la violencia familiar.",
+            "goal": "Reducir en un 25% los casos de violencia familiar reportados para el 2028 y tener 2 Centros Integrales de Atención al Adulto Mayor (CIAM) operativos para el 2027.",
+            "indicator": "Número de casos de violencia familiar registrados."
+          },
+          {
+            "problem": "Escasos espacios de recreación, deporte y cultura accesibles para la población joven.",
+            "objective": "Ampliar la oferta de espacios públicos recreativos, deportivos y culturales.",
+            "goal": "Rehabilitar 4 espacios recreativos e inscribir a 2,000 jóvenes en programas deportivos y culturales anuales.",
+            "indicator": "Número de espacios recreativos rehabilitados o construidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado aprovechamiento del potencial del Gran Mercado Mayorista de Lima como motor económico local.",
+            "objective": "Articular la economía local con el Gran Mercado Mayorista y fortalecer las cadenas productivas.",
+            "goal": "Articular a 200 pequeños comerciantes al GMML para el 2028 y tener una feria permanente operativa para el 2027.",
+            "indicator": "Número de comerciantes articulados al Gran Mercado Mayorista de Lima (GMML), número de ferias realizadas por año y volumen de ventas registrado."
+          },
+          {
+            "problem": "Alta informalidad laboral y comercial, con escasa capacitación técnica de la Población Económicamente Activa (PEA).",
+            "objective": "Promover la formalización empresarial y el empleo digno en el distrito.",
+            "goal": "Formalizar 500 MYPES para el 2028 y capacitar a 1,000 trabajadores anualmente.",
+            "indicator": "Número de MYPES formalizadas por año, número de trabajadores capacitados con certificación y tiempo promedio para la obtención de licencia de funcionamiento en días."
+          },
+          {
+            "problem": "Escasa promoción del turismo, la gastronomía y la economía cultural del distrito.",
+            "objective": "Desarrollar el turismo y la economía creativa como fuentes de empleo e ingreso.",
+            "goal": "Tener 1 circuito turístico activo para el 2027 y alcanzar 2,000 visitantes mensuales a la feria gastronómica para el 2028.",
+            "indicator": "Número de visitantes al circuito turístico-gastronómico por mes y número de emprendedores culturales y gastronómicos registrados y activos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Elevada contaminación del aire por tráfico vehicular e industria, con niveles de PM2.5 de 23.4 µg/m3.",
+            "objective": "Mejorar la calidad del aire y reducir la contaminación atmosférica en el distrito.",
+            "goal": "Reducir el PM2.5 a 18 µg/m3 para el 2030 y plantar 5,000 árboles para el 2030.",
+            "indicator": "Valor de PM2.5 medido en la estación SENAMHI Santa Anita (µg/m3) y número de árboles plantados y sobrevivientes al año."
+          },
+          {
+            "problem": "Inadecuada gestión de residuos sólidos y presencia de puntos críticos de acumulación.",
+            "objective": "Garantizar una gestión integral y eficiente de los residuos sólidos municipales.",
+            "goal": "Valorizar el 20% de los residuos sólidos para el 2028 y eliminar los puntos críticos permanentes para el 2027.",
+            "indicator": "Porcentaje de residuos sólidos valorizados sobre el total generado."
+          },
+          {
+            "problem": "Escasa cobertura de áreas verdes por habitante, por debajo del estándar de la OMS de 9 m2/hab.",
+            "objective": "Incrementar las áreas verdes urbanas y mejorar el ornato del distrito.",
+            "goal": "Incrementar la cobertura de áreas verdes a 6 m2 por habitante para el 2030.",
+            "indicator": "Metros cuadrados (M2) de áreas verdes por habitante."
+          },
+          {
+            "problem": "Vulnerabilidad de la población ante riesgos de desastres como sismos y deslizamientos.",
+            "objective": "Reducir la vulnerabilidad ante riesgos de desastres naturales en el distrito.",
+            "goal": "Publicar el mapa de riesgos para el 2026 y activar 10 brigadas de Defensa Civil para el 2027.",
+            "indicator": "Número de sectores con mapa de riesgos actualizado y número de brigadas de Defensa Civil operativas y capacitadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja recaudación tributaria y limitada capacidad financiera municipal.",
+            "objective": "Incrementar la recaudación tributaria y mejorar la gestión financiera municipal.",
+            "goal": "Incrementar la recaudación propia en un 30% para el 2028 y tener el catastro municipal actualizado para el 2027.",
+            "indicator": "Porcentaje de variación anual de la recaudación propia municipal y porcentaje de predios registrados en el catastro actualizado."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la gestión municipal y desconfianza institucional.",
+            "objective": "Fortalecer la gobernanza participativa y la transparencia municipal.",
+            "goal": "Alcanzar un 80% de satisfacción ciudadana en la encuesta anual para el 2030 y tener 5 oficinas zonales operativas para el 2027.",
+            "indicator": "Porcentaje de satisfacción ciudadana con la gestión municipal (encuesta anual) y número de proyectos priorizados mediante presupuesto participativo ejecutados."
+          },
+          {
+            "problem": "Deficiente estado del espacio público, con pistas, veredas y alumbrado público deteriorados.",
+            "objective": "Mejorar la infraestructura urbana y la calidad del espacio público distrital.",
+            "goal": "Repavimentar 15 km de vías para el 2029 y alcanzar el 100% de cobertura de alumbrado LED para el 2030.",
+            "indicator": "Kilómetros de vías repavimentadas por año, número de puntos de alumbrado LED instalados y porcentaje de cobertura de alumbrado público en el distrito."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-IFMw9YTaU5A_T5AqhF7XQ2Cdo--UZoKh",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/IFMw9YTaU5A_T5AqhF7XQ2Cdo--UZoKh",
+      "sha256": "f2ebc5c3d828e4a754a357098c2d7602446c5d73f687352b0973fec35c360ad6",
+      "accessedAt": "2026-10-02T23:05:23.458Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021871",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021871",
+      "sha256": "f3c1d126e020e9fcae3c9aa6e3bac4b5bdfb2d03b82a7c321cd1c26e98540879",
+      "accessedAt": "2026-10-02T23:05:23.982Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

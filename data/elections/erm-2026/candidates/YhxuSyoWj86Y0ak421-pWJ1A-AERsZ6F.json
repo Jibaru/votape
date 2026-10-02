@@ -1,0 +1,236 @@
+{
+  "id": "YhxuSyoWj86Y0ak421-pWJ1A-AERsZ6F",
+  "slug": "roberto-antonio-aymar-silva",
+  "electionId": "erm-2026",
+  "name": "Roberto Antonio Aymar Silva",
+  "givenNames": "Roberto Antonio",
+  "surnames": "Aymar Silva",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:04.832Z",
+      "sourceId": "jne-hv-YhxuSyoWj86Y0ak421-pWJ1A-AERsZ6F"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "CIRUJANO DENTISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN ODONTOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "MARKETING FARMACÉUTICO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+        "program": "GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": null,
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MELIDENT",
+      "role": "CIRUJANO DENTISTA",
+      "from": "2016",
+      "to": "2026"
+    },
+    {
+      "employer": "LABORATORIO GABBLAN SAC",
+      "role": "GERENTE DE MARKETING",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "LABORATORIO LUSA",
+      "role": "SUPERVISOR",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "LABORATORIO ITALFÁRMACO SAC",
+      "role": "GERENTE DE MARKETING",
+      "from": "2017",
+      "to": "2020"
+    },
+    {
+      "employer": "LABORATORIO SIEGFRIED SAC",
+      "role": "GERENTE DE PRODUCTO",
+      "from": "2016",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 39245,
+        "public": 0,
+        "private": 39245
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "BICIMOTO HAOJUE MODELO HJ125T-11A DEL AÑO 2017",
+        "value": 1500
+      },
+      {
+        "type": "JEEP - GRAND CHEROKEE LAREDO, GRIS OSCURO 4X2 AÑO 2007",
+        "value": 50000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/30025e9c-2ddd-4241-90ea-7c4eead458bc.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f880cef2-1ee4-4be2-940b-ec3a058ea4de.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevado déficit en cobertura estomatológica preventiva en escolares del distrito.",
+            "objective": "- Despliegue del Programa Clínico Móvil \"Salud Bucal Escolar Solidaria\". - Convenios docentes para entrega gratuita de prótesis dentales a adultos mayores vulnerables.",
+            "goal": "Atender anualmente al 100% de la población escolar de las instituciones públicas del distrito con campañas odontológicas.",
+            "indicator": "Porcentaje de escolares que reciben atención odontológica preventiva anual"
+          },
+          {
+            "problem": "Inadecuada accesibilidad peatonal y barreras arquitectónicas en veredas para adultos mayores y gestantes.",
+            "objective": "- Activación de la Red de Auxilio Médico Inmediato \"UR-JM\" con motos de primera respuesta. - Plan Maestro de Infraetime Peatonal Inclusiva (Veredas Seguras y rampas técnicas).",
+            "goal": "- Garantizar un tiempo de respuesta médica menor a 5 minutos para emergencias gerontológicas en el hogar. - Nivelar y adaptar con pavimentos podotáctiles el 100% de los puntos críticos de veredas en las 9 zonas vecinales.",
+            "indicator": "Porcentaje de puntos críticos de veredas adaptados con criterios de accesibilidad universal"
+          },
+          {
+            "problem": "Vulnerabilidad alimentaria en fronteras distritales de alta densidad.",
+            "objective": "Soporte logístico a comedores populares bajo el esquema \"Perú Hambre 0\".",
+            "goal": "Mantener en 0% el índice de desnutrición en los beneficiarios directos del programa alimentario local.",
+            "indicator": "Porcentaje de beneficiarios del programa alimentario con estado nutricional adecuado"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada tasa de subempleo profesional en la población joven residente.",
+            "objective": "Creación de la Incubadora Municipal de Startups Tecnológicas para jóvenes residentes de Jesús María.",
+            "goal": "Financiar, formalizar y acelerar comercialmente un mínimo de 50 Startups lideradas por jóvenes del distrito por cada año de gestión.",
+            "indicator": "Número de jóvenes beneficiarios insertados en actividades económicas formales o emprendimientos sostenibles"
+          },
+          {
+            "problem": "Escasez de espacios públicos tecnificados con conectividad avanzada y fondos concursables para el desarrollo de emprendimientos digitales competitivos de base local.",
+            "objective": "- Asignación de fondos de capital semilla no reembolsables mediante concurso de Presupuesto Participativo Digital. - Implementación de la Red Distrital de Centros de Co-working Municipal Gratuito equipados con fibra óptica simétrica dedicada.",
+            "goal": "Habilitar y mantener operativos espacios públicos de co-working conectados en las 9 zonas vecinales del distrito, registrando un uso mensual proyectado de 5,000 usuarios activos.",
+            "indicator": "Número de usuarios activos de espacios de co-working municipal y proyectos financiados mediante capital semilla"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta degradación y obsolescencia de parques caninos (caniles).",
+            "objective": "Reingeniería total del Plan Caniles Dignos con césped sintético antibacterial y desinfección automatizada.",
+            "goal": "Intervenir y modernizar bajo el estándar \"Caniles Dignos\" el 100% de los parques destinados a mascotas en el distrito.",
+            "indicator": "Porcentaje de parques caninos intervenidos bajo el estándar \"Caniles Dignos\""
+          },
+          {
+            "problem": "Inexistencia de infraestructura de salud pública especializada para la atención de emergencias veterinarias 24 horas.",
+            "objective": "Construcción y equipamiento del Primer Hospital Veterinario Municipal de Primer Nivel con atención de emergencias 24x7.",
+            "goal": "Registrar un mínimo de 20,000 consultas y emergencias quirúrgicas veterinarias complejas atendidas de forma exitosa al año.",
+            "indicator": "Número anual de consultas y emergencias veterinarias atendidas exitosamente"
+          },
+          {
+            "problem": "Contaminación del aire y ruidos molestos por parque automotor flotante.",
+            "objective": "- Red de Ciclovías Iluminadas de Estándar Europeo con focos LED solares empotrados. - Circuitos de Gimnasios Gratuitos al Aire Libre y estaciones de calistenia. - Transición progresiva hacia vehículos y motos 100% eléctricas para el personal operativo comunal.",
+            "goal": "- Implementar módulos de gimnasios y calistenia en avenidas concurrentes de las 9 zonas vecinales. - Reducir en un 50% las emisiones contaminantes de la flota operativa municipal al término del mandato.",
+            "indicator": "Porcentaje de reducción de emisiones contaminantes de la flota municipal"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incremento del delito de oportunidad y asaltos al paso en motocicletas mediante tránsito fronterizo informal.",
+            "objective": "- Despliegue del Modelo Smart City y Plan \"Blindaje Inteligente por Cuadrantes\". - Instalación de Pórticos de Control Fronterizo Automático con cámaras de lectura de placas LPR y reconocimiento facial en tiempo real. - Patrullaje táctico aéreo con drones inteligentes de alta autonomía vinculados al C4.",
+            "goal": "- Reducir en un 45% la incidencia delictiva por arrebatos y asaltos en los cuadrantes intervenidos de la jurisdicción. - Lograr un tiempo de respuesta de las patrullas terrestres de Serenazgo asistidas por drones menor a 4 minutos ante alertas del C4.",
+            "indicator": "Tasa de incidencia de delitos de oportunidad por cada 1,000 habitantes"
+          },
+          {
+            "problem": "Desaprovechamiento y abandono nocturno de losas polideportivas barriales por falta de infraestructura adecuada e iluminación.",
+            "objective": "Renovación de losas deportivas e instalación de iluminación artificial LED para uso nocturno.",
+            "goal": "- Modernizar e iluminar con sistemas LED nocturnos el 100% de los campos deportivos de las juntas vecinales acreditadas. - Financiar al menos el 40% de la renovación de infraestructura deportiva mediante fondos de la Cooperación Internacional.",
+            "indicator": "Porcentaje de losas deportivas modernizadas e iluminadas para uso nocturno"
+          },
+          {
+            "problem": "Opacidad administrativa",
+            "objective": "- Apalancamiento financiero mediante convenios con la Cooperación Internacional. - Alianzas con Federaciones Deportivas Nacionales y rendición de cuentas pública mediante tableros dinámicos de Power BI.",
+            "goal": "Publicar mensualmente el 100% de las métricas de gestión en el portal Power BI.",
+            "indicator": "Porcentaje de indicadores de gestión publicados y actualizados en el portal de transparencia Power BI"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-YhxuSyoWj86Y0ak421-pWJ1A-AERsZ6F",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/YhxuSyoWj86Y0ak421-pWJ1A-AERsZ6F",
+      "sha256": "3cb458a53e9fed66aebf61c7113376546f743988941aefa91b31dacc422e45f0",
+      "accessedAt": "2026-10-02T22:57:04.832Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031290",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031290",
+      "sha256": "0be6b40e9a2d9ee825be89a53bc15dcd72bc81f658649e4aeb4aab5637587415",
+      "accessedAt": "2026-10-02T22:57:05.321Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "0EByCHJFNzUYer-E93p06-6_WYOqwP8e",
+  "slug": "maria-teresa-rosas-garcia",
+  "electionId": "erm-2026",
+  "name": "Maria Teresa Rosas Garcia",
+  "givenNames": "Maria Teresa",
+  "surnames": "Rosas Garcia",
+  "age": 56,
+  "gender": "Femenino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:50.984Z",
+      "sourceId": "jne-hv-0EByCHJFNzUYer-E93p06-6_WYOqwP8e"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ANDRE VESALIO",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "LEXHIS S.A.C.",
+      "role": "Empresaria",
+      "from": "2015",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 0,
+        "private": 120000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 26310.16,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 78018.57,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 94879.82,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "COLOR ROJO , DOBLE FILA, MARCA GAC",
+        "value": 4000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "LEXHIS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 151250,
+        "value": 151250
+      }
+    ]
+  },
+  "additionalInfo": [
+    "ADQUIRI UN DEPARTAMENTO EN JR. FRANCIA 130 DPTO 608 TORRE 2 - LA VICTORIA, RECIEN FIRME ESCRITURA PUBLICA EL 26 DE MAYO DEL 2026, VALOR 362,100"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b849a417-adfe-4f0b-b8ce-7725ba92c0c8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7fbae43d-62af-4d46-8580-0fb5bd0475f3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Vulnerabilidad habitacional y hacinamiento debido a una ocupación desordenada del territorio, especialmente en zonas periféricas y laderas de alta pendiente como los cerros El Pino y San Cosme, generando precariedad y alta vulnerabilidad ante desastres.",
+            "objective": "Promover la regeneración urbana y la vivienda digna, implementando programas de ordenamiento territorial, mitigación de riesgos de desastres y titulación formal para reducir el hacinamiento y la precariedad habitacional.",
+            "goal": "Entregar 5,000 títulos de propiedad en laderas y realizar estudios de mitigación de riesgos de desastres, con un costo aproximado de S/ 4,500,000 cofinanciado mediante convenios.",
+            "indicator": "Porcentaje de viviendas en el distrito con características físicas precarias. Número de títulos de propiedad emitidos en laderas y zonas críticas."
+          },
+          {
+            "problem": "Inseguridad ciudadana aguda, evidenciada por elevados índices de delincuencia, principalmente robos callejeros, asaltos por bandas organizadas y extorsiones, lo que incrementa la percepción de vulnerabilidad.",
+            "objective": "Reducir la incidencia delictiva mediante el fortalecimiento del sistema de seguridad ciudadana, a través del patrullaje integrado con la Policía Nacional del Perú, la ampliación de la red de videovigilancia y la articulación con las juntas vecinales.",
+            "goal": "Reducir la delincuencia a menos de 180 delitos, lo que requiere un presupuesto operativo anual estimado de S/ 22,000,000 para el mantenimiento de cámaras, combustible de unidades de Serenazgo y pago de personal operativo.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio por cada 10,000 habitantes. Porcentaje de la población urbana que percibe inseguridad ciudadana."
+          },
+          {
+            "problem": "Persistencia de altas tasas de enfermedades transmisibles como la Tuberculosis (TBC), infecciones respiratorias y afecciones crónicas, agravadas por el hacinamiento y la cercanía a focos de insalubridad.",
+            "objective": "Garantizar el acceso universal a la salud y prevención, optimizando las redes de atención primaria en coordinación con el MINSA para erradicar focos epidemiológicos de Tuberculosis y desnutrición infantil.",
+            "goal": "Implementar campañas distritales de nutrición, tamizaje y soporte logístico para las redes de salud, enfocadas en TBC y anemia, valorizadas en S/ 1,200,000 anuales a través de un programa presupuestal articulado nutricional.",
+            "indicator": "Tasa de incidencia de la Tuberculosis (TBC) por cada 100,000 habitantes. Porcentaje de niños menores de 36 meses con anemia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Presencia de mafias y cobro de cupos en zonas comerciales clave como Gamarra y el Mercado de Frutas, las cuales afectan a través de la extorsión y lotización ilegal de calles.",
+            "objective": "Erradicar las economías ilegales, desarticulando de manera conjunta con la fiscalía y la policía las mafias dedicadas a la extorsión y cobro de cupos en el emporio de Gamarra y el Mercado de Frutas.",
+            "goal": "Ejecutar 150 macro operativos al año con una fuerza de fiscalizadores combinada con apoyo de la PNP, lo que representa un costo de S/ 3,500,000 para personal, equipos y retención de espacios.",
+            "indicator": "Número de operativos conjuntos contra mafias organizadas. Cantidad de espacios públicos e intersecciones recuperadas del cobro de cupos."
+          },
+          {
+            "problem": "Comercio informal desbordado, con comercio ambulatorio no regulado e invasión de la vía pública que generan competencia desleal y reducen la capacidad de control del espacio distrital.",
+            "objective": "Formalizar y ordenar la actividad comercial, promoviendo la reconversión y formalización de comerciantes ambulantes mediante incentivos fiscales, capacitación empresarial y aprovechamiento de galerías comerciales subutilizadas.",
+            "goal": "Realizar censos, desarrollar plataformas digitales para licencias y ejecutar programas de capacitación empresarial para 1,200 Mypes al año, con una inversión de S/ 1,800,000.",
+            "indicator": "Variación anual del número de comerciantes informales censados en la vía pública. Porcentaje de micro y pequeñas empresas (Mypes) formalizadas al año."
+          },
+          {
+            "problem": "Inestabilidad para la inversión privada, ya que la inseguridad y el desorden vehicular desincentivan nuevas inversiones y merman la rentabilidad del sector empresarial tradicional.",
+            "objective": "Impulsar la competitividad y atracción de inversiones, promoviendo alianzas público-privadas para modernizar la infraestructura logística, dinamizar el comercio y garantizar un entorno seguro para nuevos capitales.",
+            "goal": "Captar capital privado para rediseñar la logística vehicular y paraderos formales en el Mercado de Frutas, apuntando a un portafolio de proyectos valorizado en S/ 50,000,000 con financiamiento externo.",
+            "indicator": "Monto anual invertido en el distrito mediante proyectos de Alianza Público-Privada. Número de licencias de funcionamiento corporativas otorgadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos, con una acumulación crítica y crónica de basura en avenidas principales y esquinas, originada por debilidades operativas y hábitos inadecuados.",
+            "objective": "Modernizar el sistema de gestión de residuos, implementando un sistema eficiente de recolección selectiva, fiscalizando horarios de disposición y erradicando botaderos informales.",
+            "goal": "El presupuesto para el servicio de recolección, transporte y disposición final de la basura, incluyendo la recolección selectiva y erradicación de botaderos, ronda los S/ 19,950,000 anuales.",
+            "indicator": "Toneladas diarias de residuos sólidos recolectadas de manera selectiva (reciclaje). Porcentaje de puntos críticos de basura crónicos erradicados en el distrito."
+          },
+          {
+            "problem": "Alta contaminación del aire y acústica, causada por el colapso del tránsito automotor debido a la presencia masiva de transporte de carga pesada, paraderos informales y terminales terrestres.",
+            "objective": "Mitigar la contaminación ambiental y del aire, reordenando el tránsito vehicular, restringiendo paraderos informales y supervisando técnicamente las emisiones del transporte de carga pesada.",
+            "goal": "El mantenimiento permanente de parques y la meta de arborización masiva para elevar la ratio de áreas verdes por habitante requiere aproximadamente S/ 1,820,000 al año.",
+            "indicator": "Concentración de material particulado en el aire en zonas críticas. Cantidad de unidades de transporte de carga sancionadas por violar zonas restrictivas."
+          },
+          {
+            "problem": "Déficit extremo de áreas verdes, presentando una de las tasas más bajas de metros cuadrados de espacios verdes por habitante en Lima Metropolitana, lo que limita la regulación térmica urbana.",
+            "objective": "Incrementar y poner en valor las áreas verdes, ejecutando proyectos de arborización urbana masiva y recuperando plazas o parques deteriorados para alcanzar los estándares recomendados.",
+            "goal": "Consolidar el uso de plantas de valorización para convertir residuos orgánicos y follajes en abono natural, generando una meta de ahorro directo de S/ 10,000 mensuales en mantenimiento.",
+            "indicator": "Metros cuadrados de áreas verdes de uso público por cada habitante en el distrito. Porcentaje de árboles urbanos plantados y mantenidos con éxito en avenidas principales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Corrupción en la gestión pública, con focos históricos de corrupción interna vinculados a licencias de funcionamiento, fiscalización urbana e informalidad en el servicio de limpieza pública.",
+            "objective": "Fortalecer la transparencia y la lucha contra la corrupción, implementando herramientas digitales de gobierno abierto, simplificación administrativa y canales de denuncia anónima.",
+            "goal": "Implementar el modelo de integridad del Estado, digitalizar trámites de acceso a la información y renovar sistemas de control interno, con un presupuesto de S/ 900,000.",
+            "indicator": "Índice de Capacidad Preventiva frente a la Corrupción. Porcentaje de solicitudes de acceso a la información pública atendidas a tiempo."
+          },
+          {
+            "problem": "Debilidad en la fiscalización y control urbano, ya que la municipalidad carece de la logística, personal y equipamiento suficiente para cumplir estrictamente los planes de zonificación y uso de suelos.",
+            "objective": "Potenciar la capacidad de fiscalización y control, dotando de mejor equipamiento, tecnología y personal técnico calificado para garantizar el respeto irrestricto de la zonificación y el espacio público.",
+            "goal": "Cumplir con una meta de ejecución presupuestal superior al 85% anual del Presupuesto Institucional Modificado (PIM) asignado a obras, evitando la devolución de recursos al Tesoro Público.",
+            "indicator": "Porcentaje de establecimientos comerciales y obras civiles fiscalizados al año. Índice de efectividad en la ejecución de sanciones aplicadas (clausuras/multas)."
+          },
+          {
+            "problem": "Baja recaudación fiscal y morosidad, donde los altos niveles de informalidad económica limitan los ingresos por arbitrios e impuestos, restringiendo el presupuesto disponible para servicios básicos e infraestructura.",
+            "objective": "Optimizar la recaudación y sostenibilidad financiera, ampliando la base tributaria, reduciendo la morosidad mediante campañas de regularización y facilidades de pago, y canalizando los recursos a proyectos priorizados.",
+            "goal": "El costo para potenciar la fiscalización y el control municipal se estima en un presupuesto acumulado semestral promedio de S/ 8,941,095 soles.",
+            "indicator": "Porcentaje de morosidad en el pago del impuesto predial y arbitrios municipales. Eficacia en la ejecución del presupuesto de inversiones asignado por el MEF."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-138795",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: PECULADO",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2011-08-03",
+      "details": {
+        "materia": "PECULADO",
+        "fallo": "4 AÑOS SUSPENDIDA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "28 JUZGADO PENAL",
+        "expediente": "34647-2007",
+        "comentario": null
+      },
+      "quote": "PECULADO · 4 AÑOS SUSPENDIDA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-0EByCHJFNzUYer-E93p06-6_WYOqwP8e"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-0EByCHJFNzUYer-E93p06-6_WYOqwP8e",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/0EByCHJFNzUYer-E93p06-6_WYOqwP8e",
+      "sha256": "e024170b8b9892807b17a5a08b05f0c027e9335c8e46afff94c1d594e33384a1",
+      "accessedAt": "2026-10-02T22:57:50.984Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020961",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020961",
+      "sha256": "2a406e3f5f5a4661ae6ab9c831999349ccae66eb2d4db7c0215318eb957c78fc",
+      "accessedAt": "2026-10-02T22:57:51.539Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5",
+  "slug": "oscar-alex-dolorier-mori",
+  "electionId": "erm-2026",
+  "name": "Oscar Alex Dolorier Mori",
+  "givenNames": "Oscar Alex",
+  "surnames": "Dolorier Mori",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140129",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:52.597Z",
+      "sourceId": "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CAPACITATE PERÚ",
+        "program": "PROTOCOLOS DE SEGURIDAD",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "EGEC PERU",
+        "program": "DELITOS CONTRA LA ADMINISTRACION PUBLICA Y CORRUPCION DE FUNCIOANRIOS",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2025"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "EGEC PERU",
+        "program": "DERECHO MUNICIPAL",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2025"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "EGEC PERU",
+        "program": "GESTION PUBLICA",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2024"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "EGEC PERU",
+        "program": "ADMINISTRACION Y GESTION MUNICIPAL",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNDO PUBLICITARIO DOLORIER S.A.C.",
+      "role": "GERENTE",
+      "from": "2020",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 106485.74,
+        "public": 0,
+        "private": 106485.74
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO ERIAZO",
+        "value": 45000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "H-100 CAMIONCITO",
+        "value": 60000
+      },
+      {
+        "type": "CAMIONETA RURAL",
+        "value": 2000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MUNDO PUBLICITARIO DOLORIER SAC",
+        "type": "ACCIONES",
+        "quantity": 45000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "LOS INGRESOS PROVIENEN DE LA EMPRA MUNDO PUBLICITARIO DOLORIER SAC SEGUN DECLARACION AÑO 2025 10885.74 Y LOS 95600.00 POR TRABAJOS DIVERSOS ABONADO A MI CUENTA",
+    "DIMPEX GRAF INACTIVO EMPRESA DE TRANSPORTE SANTA ROSA Y TURISMO EXPRESS S.A.C. INACTIVO MOLINERA PERUVITA 5RLTOA - INACTIVA"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2e89d4b8-14e6-4372-8f3d-6a6c2c5b6620.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ed4383a3-0377-4051-988a-06290fe33469.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevado índice de inseguridad ciudadana, que incluye usurpación ilegal de terrenos, robos al paso y asaltos, aunado a una alarmante ausencia de autoridad municipal en diversas zonas del distrito.",
+            "objective": "Restablecer el principio de autoridad municipal a través de la creación de un Sistema Integral de Seguridad con base tecnológica, en articulación con la Policía Nacional y las Fuerzas Armadas, y recuperar la soberanía administrativa en zonas limítrofes.",
+            "goal": "Reducción del 45% en las denuncias por robo y usurpación durante los primeros 24 meses, y la implementación de 3 módulos de auxilio rápido, priorizando las zonas de Villa Estela y La Arboleda.",
+            "indicator": "Porcentaje de reducción de denuncias por robo y usurpación de terrenos en las zonas críticas intervenidas. Número de módulos de auxilio rápido descentralizados y operativos en el distrito."
+          },
+          {
+            "problem": "Crecimiento urbano horizontal desordenado sin planificación catastral, déficit crítico de infraestructura vial, paralización de proyectos de saneamiento básico e informalidad en la titulación de propiedades.",
+            "objective": "Implementar una planificación territorial científica mediante la actualización del catastro, ejecutar proyectos viales en convenio con la Municipalidad Metropolitana de Lima y destrabar los proyectos de saneamiento básico ante el Gobierno Central.",
+            "goal": "Alcanzar el 90% de conexiones domiciliarias de agua y desagüe para el año 2030.",
+            "indicator": "Porcentaje de avance en las gestiones de destrabe del proyecto de agua y desagüe sectorizado de PROFAM y zonas altas."
+          },
+          {
+            "problem": "Inadecuada cobertura de salud pública con alta vulnerabilidad en niños y adultos mayores, infraestructura sanitaria precaria, y ausencia de espacios recreativos y de capacitación juvenil.",
+            "objective": "Ampliar y modernizar la infraestructura social y de salud a través de convenios sectoriales, así como optimizar y recuperar los espacios públicos e históricos del distrito.",
+            "goal": "Poner en operación un Centro Materno Infantil. La meta para la recuperación de espacios no se encuentra especificada.",
+            "indicator": "Establecimiento de la atención de urgencias de 24 horas en los centros de salud gestionados y cantidad de losas deportivas y espacios públicos recuperados."
+          },
+          {
+            "problem": "Alarmante falta de infraestructura para servicios fúnebres públicos, lo que obliga a la población vulnerable a trasladarse a otros distritos para acceder a dichos servicios.",
+            "objective": "Realizar la gestión territorial, afectación en uso y saneamiento legal de terrenos del Estado para el diseño, viabilidad y construcción del primer Cementerio Municipal de Santa Rosa.",
+            "goal": "Alcanzar el 100% del terreno saneado y la primera etapa construida del cementerio para el año 2030.",
+            "indicator": "Porcentaje de avance físico y legal en el proyecto de infraestructura del Cementerio Municipal de Santa Rosa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Economía distrital altamente estacional y limitada a la temporada de verano, con falta de incentivos para la inversión comercial formal y el desarrollo del sector hotelero.",
+            "objective": "Atraer inversiones mediante la planificación de zonas comerciales, la promoción de un circuito turístico permanente y la viabilización de un centro comercial y bancario.",
+            "goal": "Meta no especificada en el documento.",
+            "indicator": "Número de nuevos comercios, agencias de servicios y locales de abastos formalizados en los ejes de la Avenida Colectora y zonas comerciales."
+          },
+          {
+            "problem": "Inexistencia de una red de comercio minorista regulada y ordenada, lo que fomenta la proliferación del comercio informal, junto a la informalidad y crecimiento desmedido del transporte menor (mototaxis).",
+            "objective": "Reordenar y formalizar el transporte menor con enfoque de seguridad vial, y construir una Red de Mercados de Abastos Municipales para formalizar a los comerciantes locales.",
+            "goal": "Alcanzar el 98% de formalización de las asociaciones de vehículos menores y lograr un 50% de avance físico en la red de mercados zonales para el año 2030.",
+            "indicator": "Porcentaje de asociaciones de vehículos menores formalizadas. Número de Mercados de Abastos Municipales construidos e implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Altos índices de contaminación por acumulación de residuos sólidos, contaminación de playas por corrientes del río Chillón y la existencia de pasivos ambientales derivados de un derrame de petróleo.",
+            "objective": "Optimizar el sistema de gestión ambiental de residuos y coordinar con el Ministerio del Ambiente el monitoreo y retiro definitivo de los residuos de petróleo subacuáticos generados en 2021.",
+            "goal": "Alcanzar el 100% de la recolección diaria de las 15 toneladas de residuos producidas y la instalación de contenedores al 100%.",
+            "indicator": "Porcentaje de cobertura de recojo de residuos sólidos en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ausencia de autoridad política y administrativa municipal en zonas de expansión y limítrofes, lo que resulta en desprotección poblacional y una limitada capacidad de recaudación tributaria.",
+            "objective": "Recuperar la soberanía administrativa y tributaria, y fortalecer la presencia municipal mediante la instalación de oficinas descentralizadas y la actualización del catastro distrital.",
+            "goal": "Meta no especificada en el documento.",
+            "indicator": "Porcentaje de predios del Km 39 efectivamente incorporados al catastro y padrón de servicios. Incremento estimado de la recaudación tributaria municipal."
+          },
+          {
+            "problem": "Existencia de barreras burocráticas que dificultan la obtención de licencias y la falta de una gestión efectiva para el destrabe de proyectos de inversión pública.",
+            "objective": "Implementar la simplificación administrativa y digitalización de trámites (TUPA) y establecer mesas técnicas permanentes con entidades del gobierno central para culminar proyectos de desarrollo.",
+            "goal": "Meta no especificada en el documento.",
+            "indicator": "Firma de convenios interinstitucionales con COFOPRI y la MML para acelerar el saneamiento físico-legal. Establecimiento de una mesa técnica permanente con el Ministerio de Vivienda."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-136489",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: USURPACION",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2018-01-18",
+      "details": {
+        "materia": "USURPACION",
+        "fallo": "SENTENCIA ABSOLUTORIA",
+        "modalidad": "OTRO",
+        "cumplimiento": "EN CUMPLIMIENTO",
+        "juzgado": "PRIMER JUZGADO PENAL DE PUENTE PIEDRA",
+        "expediente": "06667-2014-0-0909 JR-PE-01",
+        "comentario": null
+      },
+      "quote": "USURPACION · SENTENCIA ABSOLUTORIA · OTRO · EN CUMPLIMIENTO",
+      "sourceIds": [
+        "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-penal-137635",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: CONTRA EL PATRIMONIO",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2005-05-12",
+      "details": {
+        "materia": "CONTRA EL PATRIMONIO",
+        "fallo": "PRESCRIPCION DE LA ACCION PENAL",
+        "modalidad": "OTRO",
+        "cumplimiento": "EN CUMPLIMIENTO",
+        "juzgado": "SEGUNDO JUZGADO ESPECIALIZADO PENAL",
+        "expediente": "2001-18587",
+        "comentario": null
+      },
+      "quote": "CONTRA EL PATRIMONIO · PRESCRIPCION DE LA ACCION PENAL · OTRO · EN CUMPLIMIENTO",
+      "sourceIds": [
+        "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-141014",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: LABORAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "LABORAL",
+        "juzgado": "JUZGADO DE PAZ LETRADO LABORAL",
+        "expediente": "00177-2024-0-3301-JP-LA-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "LABORAL",
+      "sourceIds": [
+        "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-141021",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "PRIMER JUZGADO CIVIL DE LIMA NORTE",
+        "expediente": "03746-2009-0-0901-UR-CI-06",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-141017",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "SEGUNDO JUZGADO CIVIL COMERCIAL",
+        "expediente": "08157-2012-0-1817-JR-CO-02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5",
+      "sha256": "d660e9efa031a0b12977c456d44ca82598cca57bc18eee6ba3f5cbe2232cb3a0",
+      "accessedAt": "2026-10-02T23:05:52.597Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016585",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016585",
+      "sha256": "845626e7d43eca9df5f700e387ea937ae110f648c03af37314703cd23aaea5fe",
+      "accessedAt": "2026-10-02T23:05:53.077Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

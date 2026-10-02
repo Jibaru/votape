@@ -1,0 +1,237 @@
+{
+  "id": "UQxpbWz0i2TAXfMyPWrARdF_CfYQa6xQ",
+  "slug": "oscar-alfredo-quevedo-perez",
+  "electionId": "erm-2026",
+  "name": "Oscar Alfredo Quevedo Perez",
+  "givenNames": "Oscar Alfredo",
+  "surnames": "Quevedo Perez",
+  "age": 64,
+  "gender": "Masculino",
+  "party": {
+    "id": 2932,
+    "name": "PARTIDO POLITICO PERU ACCION"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:18.257Z",
+      "sourceId": "jne-hv-UQxpbWz0i2TAXfMyPWrARdF_CfYQa6xQ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada de Tacna",
+        "program": "INGENIERO CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Federico Villareal",
+        "program": "Gerencia de proyectos de Ingenieria",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "EJERCITO PERUANO",
+      "role": "OFICIAL DEL EJERITO",
+      "from": "1986",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "MILITANTE",
+      "party": "PARTIDO POLÍTICO PARTIDO POLITICO PERU ACCION",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 187200,
+        "public": 120000,
+        "private": 67200
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 120000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 120000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO",
+        "value": 30000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "NISAN CENTRA",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Inversiones Quevedo SAC - PART 14268213",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 1
+      },
+      {
+        "company": "INVERSIONES QUARA - PAR 13638535",
+        "type": "ACCIONES",
+        "quantity": 20000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "SE ADJUNTA SUCESION INTESTADA",
+    "SE ADJUNTA REGISTRO DE PREDIOS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/45f9b3d1-d2a6-4b40-8ca9-913af66eb9aa.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a9498fd6-7719-4f3d-b28c-bf0ef87138d3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, caracterizada por el aumento de la extorsión, sicariato y robos al paso en vías públicas.",
+            "objective": "Recuperar el orden y la seguridad pública en el distrito mediante el fortalecimiento del patrullaje, la instalación de videovigilancia y la capacitación de juntas vecinales.",
+            "goal": "Reducir la percepción de inseguridad y desarticular las bandas delictivas a través de una reorganización del serenazgo y una mayor presencia en las zonas críticas del distrito.",
+            "indicator": "Porcentaje de percepción de inseguridad. Tasa de victimización delictiva. Número de operativos de seguridad realizados."
+          },
+          {
+            "problem": "Carencia de infraestructura, personal y equipamiento adecuado en los establecimientos de salud, lo que restringe el horario de atención y el acceso a tratamientos.",
+            "objective": "Implementar un nuevo modelo de atención primaria en salud, convirtiendo postas y policlínicos en pequeñas clínicas con mayor capacidad resolutiva y horarios extendidos.",
+            "goal": "Mejorar la capacidad resolutiva del primer nivel de atención, equipando centros de salud para operaciones menores y emergencias, y ampliando el horario de atención a 18 horas diarias.",
+            "indicator": "Número de establecimientos de salud mejorados. Promedio de horas de atención a la ciudadanía. Porcentaje de población con acceso a servicios de salud mejorados."
+          },
+          {
+            "problem": "Baja población estudiantil a causa de la deserción escolar, agravada por una infraestructura educativa deficiente y un limitado apoyo municipal.",
+            "objective": "Impulsar programas contra la desnutrición infantil, establecer convenios con universidades para prácticas preprofesionales y coordinar becas de preparación preuniversitaria para estudiantes de secundaria.",
+            "goal": "Reducir la deserción escolar y mejorar las oportunidades de desarrollo profesional para los jóvenes del distrito mediante alianzas estratégicas y programas de apoyo educativo.",
+            "indicator": "Tasa de deserción escolar. Número de convenios educativos firmados. Cantidad de becas preuniversitarias otorgadas."
+          },
+          {
+            "problem": "Deficiente servicio de agua y alcantarillado en las zonas periféricas y rurales del distrito, junto con una limitada electrificación en dichas áreas.",
+            "objective": "Promover el plan de vivienda propia y ejecutar obras para la construcción y mejoramiento de los servicios básicos y de transitabilidad en los asentamientos humanos y urbanizaciones.",
+            "goal": "Ampliar la cobertura de servicios básicos de agua, saneamiento y electrificación, y mejorar la infraestructura vial en las zonas más vulnerables del distrito.",
+            "indicator": "Porcentaje de cobertura de agua potable y alcantarillado. Cobertura del servicio de electrificación en zonas rurales. Kilómetros de vías mejoradas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de promoción de inversiones públicas y privadas, así como un escaso apoyo a las micro y pequeñas empresas (MYPES).",
+            "objective": "Promover activamente las inversiones, apoyar a las MYPES y agilizar la creación de negocios mediante la implementación de licencias inmediatas y automáticas.",
+            "goal": "Incrementar la inversión y la formalización empresarial en el distrito para generar más puestos de trabajo y dinamizar la economía local.",
+            "indicator": "Monto de inversión pública y privada ejecutada. Número de MYPES formalizadas y apoyadas. Tiempo promedio para la obtención de licencias de funcionamiento."
+          },
+          {
+            "problem": "Falta de apoyo para el desarrollo del turismo receptivo y una deficiente promoción de los lugares turísticos del distrito.",
+            "objective": "Promover un circuito turístico y cultural que destaque el valor de la cultura Colli, crear miradores en las partes altas y participar en ferias nacionales para la promoción turística de Comas.",
+            "goal": "Posicionar a Comas como un destino turístico y cultural en Lima Norte, generando nuevas oportunidades de desarrollo económico para la población.",
+            "indicator": "Número de visitantes al circuito turístico. Cantidad de miradores construidos. Número de participaciones en ferias de turismo."
+          },
+          {
+            "problem": "Deficiente infraestructura vial rural de acceso al distrito, evidenciada en el mal estado de las calles de las comunidades y caseríos.",
+            "objective": "Ejecutar proyectos de inversión pública para la construcción de muros de contención, pistas y veredas, utilizando mecanismos como obras por impuestos.",
+            "goal": "Mejorar la transitabilidad vehicular y peatonal en los diversos asentamientos humanos y urbanizaciones, conectando de manera más eficiente el distrito.",
+            "indicator": "Kilómetros de vías pavimentadas y mejoradas. Número de muros de contención construidos. Monto de inversión ejecutado bajo la modalidad de obras por impuestos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de basura en diversos puntos del distrito, generando focos infecciosos a pesar de la existencia de un servicio de recojo programado.",
+            "objective": "Mejorar el sistema de recojo de basura y aplicar de manera efectiva el programa \"Recicla\" para una gestión integral de los residuos sólidos.",
+            "goal": "Lograr un distrito limpio mediante la erradicación de focos infecciosos y la promoción de una cultura de reciclaje en la comunidad.",
+            "indicator": "Número de puntos críticos de acumulación de basura eliminados. Toneladas de residuos sólidos recolectados y procesados. Porcentaje de residuos reciclados."
+          },
+          {
+            "problem": "Mantenimiento inadecuado de las áreas verdes debido a la escasez de recursos hídricos para el riego de parques y jardines.",
+            "objective": "Asegurar la preservación y mantenimiento de los parques mediante la construcción de plantas de tratamiento de agua para el riego de áreas verdes.",
+            "goal": "Garantizar la sostenibilidad de las áreas verdes del distrito a través del uso de aguas tratadas, mejorando el ornato y la calidad ambiental.",
+            "indicator": "Número de plantas de tratamiento de agua construidas. Hectáreas de áreas verdes con sistema de riego sostenible. Calidad del agua tratada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Fenómeno de la corrupción y direccionamiento de recursos públicos para fines particulares, lo que dificulta el acceso equitativo a bienes y servicios esenciales.",
+            "objective": "Realizar una reingeniería municipal, auditar la gestión anterior, revisar contratos y establecer una lucha frontal contra la corrupción con control ciudadano y rendición de cuentas.",
+            "goal": "Erradicar las prácticas de corrupción en la administración municipal, promoviendo una gestión transparente, eficiente y con fortalecimiento de los órganos de control.",
+            "indicator": "Número de auditorías realizadas. Índice de percepción de la corrupción municipal. Porcentaje de ejecución transparente del presupuesto."
+          },
+          {
+            "problem": "Baja ejecución de proyectos de inversión pública y deficiencias en la prestación de servicios municipales a la ciudadanía.",
+            "objective": "Lograr la modernización, simplificación y mejora de la calidad de los servicios en la administración municipal, así como actualizar el Plan de Desarrollo Concertado del distrito.",
+            "goal": "Modernizar la gestión municipal para hacerla más ágil y eficiente, mejorando la calidad de los servicios y la ejecución de proyectos en beneficio de la población.",
+            "indicator": "Porcentaje de ejecución del presupuesto de inversión. Tiempo promedio de atención de trámites. Nivel de satisfacción ciudadana con los servicios municipales."
+          },
+          {
+            "problem": "Falta de motivación y escasa participación de la población en los espacios de concertación como el presupuesto participativo y el desarrollo local.",
+            "objective": "Fortalecer la participación de la sociedad civil e implementar el Sistema de Participación Ciudadana para fomentar la gobernabilidad y la toma de decisiones concertada.",
+            "goal": "Incrementar la participación vecinal en los asuntos públicos del distrito, asegurando que las políticas y proyectos reflejen las necesidades reales de la ciudadanía.",
+            "indicator": "Número de organizaciones sociales activas en el desarrollo local. Nivel de ejecución de proyectos del presupuesto participativo. Número de asambleas zonales realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-UQxpbWz0i2TAXfMyPWrARdF_CfYQa6xQ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/UQxpbWz0i2TAXfMyPWrARdF_CfYQa6xQ",
+      "sha256": "a9f9095e77e06da7dd60755720eb11df396837e19d101aa5347786ba8683034e",
+      "accessedAt": "2026-10-02T22:55:18.257Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021966",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021966",
+      "sha256": "4f3f4836072ec76a3ec7247bffde6e4de88b8927dd36958174842758970b5833",
+      "accessedAt": "2026-10-02T22:55:18.774Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

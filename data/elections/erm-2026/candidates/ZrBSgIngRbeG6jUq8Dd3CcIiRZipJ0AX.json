@@ -1,0 +1,253 @@
+{
+  "id": "ZrBSgIngRbeG6jUq8Dd3CcIiRZipJ0AX",
+  "slug": "agustin-rojas-guzman",
+  "electionId": "erm-2026",
+  "name": "Agustin Rojas Guzman",
+  "givenNames": "Agustin",
+  "surnames": "Rojas Guzman",
+  "age": 66,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:56.738Z",
+      "sourceId": "jne-hv-ZrBSgIngRbeG6jUq8Dd3CcIiRZipJ0AX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "CONTADOR PÚBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "AUDITORÍA INTEGRAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE EL AGUSTINO",
+      "role": "TECNICO ADMINISTRATIVO",
+      "from": "1983",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ORGANIZACIÓN POLÍTICA LOCAL PROVINCIAL LIMA PARA TODOS",
+      "year": "2010"
+    },
+    {
+      "party": "PARTIDO POLÍTICO NUEVO PERU, POR DEMOCRACIA, SOBERANIA Y JUSTICIA",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 38689,
+        "public": 38689,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTOMIVIL MARCA TOYOTA DUET, COLOR PLATA",
+        "value": 15524
+      },
+      {
+        "type": "MARCA CAMIONETA SPORTAGE, COLOR BEIGE",
+        "value": 35984
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ad3eddc1-2e12-49d1-801d-bdcc25a7004c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/007ab488-7cf0-4fd2-89b4-8b786189d9d6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y alimentación saludable.",
+            "objective": "Mejorar las condiciones de salud y nutrición de la población.",
+            "goal": "Realizar 40 campañas anuales y beneficiar a 50,000 vecinos.",
+            "indicator": "Número de campañas ejecutadas y personas beneficiadas."
+          },
+          {
+            "problem": "Inseguridad ciudadana y percepción de riesgo en los barrios.",
+            "objective": "Reducir los índices de delincuencia y fortalecer la seguridad ciudadana.",
+            "goal": "Lograr el 100% de zonas críticas monitoreadas, 110 juntas vecinales fortalecidas y reducir en un 30% los delitos de mayor incidencia.",
+            "indicator": "Número de cámaras instaladas, número de juntas vecinales activas y reducción de denuncias por delitos."
+          },
+          {
+            "problem": "Déficit de espacios culturales, deportivos y educativos.",
+            "objective": "Fortalecer la educación, cultura y deporte distrital.",
+            "goal": "Establecer 5 escuelas deportivas activas, 5 bibliotecas digitales y alcanzar 15,000 beneficiarios.",
+            "indicator": "Número de participantes inscritos e infraestructura implementada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desempleo y empleo informal en el distrito.",
+            "objective": "Incrementar las oportunidades laborales y el emprendimiento.",
+            "goal": "Capacitar a 5,000 personas y promover 3,000 empleos.",
+            "indicator": "Número de personas capacitadas y empleos generados."
+          },
+          {
+            "problem": "Baja competitividad de las MYPES y del comercio local.",
+            "objective": "Impulsar el desarrollo económico local y la generación de empleo.",
+            "goal": "Capacitar a 1,000 MYPES y formalizar 500 negocios.",
+            "indicator": "Número de empresas capacitadas y negocios formalizados."
+          },
+          {
+            "problem": "Baja cultura tributaria entre los contribuyentes.",
+            "objective": "Fortalecer la recaudación y la conciencia tributaria.",
+            "goal": "Incrementar la recaudación en un 25% y reducir la morosidad en un 20%.",
+            "indicator": "Nivel de recaudación municipal y número de contribuyentes registrados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental y déficit de áreas verdes.",
+            "objective": "Mejorar la calidad ambiental y ampliar las áreas verdes.",
+            "goal": "Plantar 50,000 árboles y recuperar 100,000 metros cuadrados de áreas verdes.",
+            "indicator": "Número de árboles sembrados y metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos.",
+            "objective": "Optimizar el sistema de limpieza pública y reciclaje.",
+            "goal": "Incrementar el reciclaje en un 40% y alcanzar una cobertura del 100% en el distrito.",
+            "indicator": "Toneladas recicladas y cobertura de recolección."
+          },
+          {
+            "problem": "Contaminación del río Rímac y emisiones urbanas.",
+            "objective": "Reducir los niveles de contaminación ambiental.",
+            "goal": "Recuperar el 80% de los puntos críticos.",
+            "indicator": "Número de operativos realizados y zonas recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil participación ciudadana en la gestión municipal.",
+            "objective": "Fortalecer la gobernanza participativa.",
+            "goal": "Incorporar 50 organizaciones y realizar 25 espacios participativos anuales.",
+            "indicator": "Número de organizaciones participantes y asambleas realizadas."
+          },
+          {
+            "problem": "Procesos municipales poco eficientes.",
+            "objective": "Modernizar la gestión pública municipal.",
+            "goal": "Virtualizar el 90% de los trámites y reducir los tiempos de atención en un 50%.",
+            "indicator": "Porcentaje de trámites digitalizados y tiempo promedio de atención."
+          },
+          {
+            "problem": "Limitada transparencia y control ciudadano.",
+            "objective": "Fortalecer la transparencia y la rendición de cuentas.",
+            "goal": "Publicar información del 100% de los proyectos y realizar 2 audiencias públicas por año.",
+            "indicator": "Número de informes publicados y audiencias realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-138205",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: FALSEDAD GENÉRICA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2021-11-30",
+      "details": {
+        "materia": "FALSEDAD GENÉRICA",
+        "fallo": "01 AÑO",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "JUZGADO LIQUIDADOR 1 LIMA ESTE",
+        "expediente": "5056-19-0",
+        "comentario": "REHABILITADO"
+      },
+      "quote": "FALSEDAD GENÉRICA · 01 AÑO · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-ZrBSgIngRbeG6jUq8Dd3CcIiRZipJ0AX"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-141923",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "1° JPL EL AGUSTINO",
+        "expediente": "0171-1997-0-3203-JP-FC-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-ZrBSgIngRbeG6jUq8Dd3CcIiRZipJ0AX"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-ZrBSgIngRbeG6jUq8Dd3CcIiRZipJ0AX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZrBSgIngRbeG6jUq8Dd3CcIiRZipJ0AX",
+      "sha256": "f1bd10677094202e6a1438ee2caccda6b6537a0f548871e6c473f1ee09e50540",
+      "accessedAt": "2026-10-02T22:55:56.738Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020420",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020420",
+      "sha256": "f0a7f49abc0f0a9e4cd65a8d8e0d21ca2b0a30950045afcf1e2ef4e4adf940ce",
+      "accessedAt": "2026-10-02T22:55:57.242Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

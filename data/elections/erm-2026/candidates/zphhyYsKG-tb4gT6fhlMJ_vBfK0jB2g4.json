@@ -1,0 +1,256 @@
+{
+  "id": "zphhyYsKG-tb4gT6fhlMJ_vBfK0jB2g4",
+  "slug": "wilder-leoncio-torpoco-huayta",
+  "electionId": "erm-2026",
+  "name": "Wilder Leoncio Torpoco Huayta",
+  "givenNames": "Wilder Leoncio",
+  "surnames": "Torpoco Huayta",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:38.023Z",
+      "sourceId": "jne-hv-zphhyYsKG-tb4gT6fhlMJ_vBfK0jB2g4"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional del Callao",
+        "program": "LICENCIADO EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2000"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional del Callao",
+        "program": "BACHILLER EN CIENCIAS ADMINISTRATIVAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1993"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "MAESTRO EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2019"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIVERSIDAD NACIONAL FEDERICO VILLAREAL",
+      "role": "DOCENTE",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ADMINISTRADOR",
+      "from": "1996",
+      "to": "2026"
+    },
+    {
+      "employer": "INSTITUTO TÉCNICO SUPERIOR CARLOS CUETO FERNANDINI",
+      "role": "DOCENTE",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATA VERDE",
+      "year": "2022"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 70000,
+        "public": 40000,
+        "private": 30000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MOTO LINEAL",
+        "value": 6000
+      },
+      {
+        "type": "AUTO",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/09ac5fc0-76e0-495b-a76c-682410893f8b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/572868c0-7cab-4c3f-a87e-64ed0bbb0532.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta inseguridad ciudadana, incremento de robos, extorsiones y percepción de inseguridad.",
+            "objective": "Fortalecer la seguridad ciudadana mediante videovigilancia, patrullaje integrado y participación vecinal.",
+            "goal": "150 cámaras nuevas implementadas.",
+            "indicator": "Número de cámaras operativas instaladas."
+          },
+          {
+            "problem": "Deterioro y abandono de parques, losas deportivas y espacios públicos.",
+            "objective": "Recuperar y mejorar espacios públicos para la convivencia y prevención del delito.",
+            "goal": "50 parques y losas deportivas recuperados.",
+            "indicator": "Número de espacios públicos recuperados."
+          },
+          {
+            "problem": "Escasa organización vecinal para la prevención del delito.",
+            "objective": "Fortalecer la participación ciudadana en seguridad mediante juntas y comités vecinales.",
+            "goal": "100 comités de seguridad vecinal implementados.",
+            "indicator": "Número de comités vecinales activos."
+          },
+          {
+            "problem": "Deserción de la juventud por los estudios superiores.",
+            "objective": "Promover la universidad de emprendedores de Lima Norte.",
+            "goal": "Universidad funcionando con 100 alumnos a nivel de todas las carreras.",
+            "indicator": "Ley de creación de la universidad pública."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad empresarial y comercial.",
+            "objective": "Promover la formalización de emprendimientos y MYPES.",
+            "goal": "1,500 MYPES formalizadas.",
+            "indicator": "Número de MYPES formalizadas."
+          },
+          {
+            "problem": "Limitada capacitación empresarial y acceso a nuevas tecnologías.",
+            "objective": "Fortalecer las capacidades de emprendedores mediante asistencia técnica y capacitación.",
+            "goal": "3,000 emprendedores capacitados.",
+            "indicator": "Número de emprendedores capacitados."
+          },
+          {
+            "problem": "Baja recaudación municipal y limitada actividad económica formal.",
+            "objective": "Impulsar el desarrollo económico local y mejorar la recaudación tributaria.",
+            "goal": "Incremento del 20% de la recaudación municipal.",
+            "indicator": "Variación porcentual de la recaudación municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos y acumulación de basura.",
+            "objective": "Implementar una gestión integral y sostenible de residuos sólidos.",
+            "goal": "Alcanzar 75% de cobertura adecuada.",
+            "indicator": "Cobertura de disposición adecuada de residuos."
+          },
+          {
+            "problem": "Informalidad en las propiedades y viviendas de las asociaciones, cooperativas y asentamientos humanos.",
+            "objective": "Formalización de las propiedades de las cooperativas, asociaciones y asentamientos humanos.",
+            "goal": "70% de propiedades saneadas.",
+            "indicator": "Porcentaje de propiedades saneadas."
+          },
+          {
+            "problem": "Déficit de áreas verdes y falta de esparcimiento de los ciudadanos olivenses.",
+            "objective": "Incrementar la infraestructura verde y el parque zonal ecológico del distrito en el cerro Mulería.",
+            "goal": "Desarrollo del proyecto en un 60%.",
+            "indicator": "Porcentaje de incremento de áreas verdes y zonas de esparcimiento."
+          },
+          {
+            "problem": "Déficit de áreas verdes y arborización urbana.",
+            "objective": "Incrementar la infraestructura verde y la arborización del distrito.",
+            "goal": "Incrementar en 50% las áreas verdes.",
+            "indicator": "Porcentaje de incremento de áreas verdes."
+          },
+          {
+            "problem": "Baja cultura ambiental y escaso reciclaje.",
+            "objective": "Promover la educación ambiental y la economía circular.",
+            "goal": "Implementar 10 puntos ecológicos de reciclaje.",
+            "indicator": "Número de puntos ecológicos implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Bajo nivel de digitalización de servicios municipales.",
+            "objective": "Implementar gobierno digital y servicios municipales en línea.",
+            "goal": "Digitalizar el 80% de los servicios municipales.",
+            "indicator": "Porcentaje de servicios digitalizados."
+          },
+          {
+            "problem": "Excesiva burocracia y demora en los trámites municipales.",
+            "objective": "Modernizar los procesos administrativos mediante transformación digital.",
+            "goal": "Reducir los tiempos de atención en 40%.",
+            "indicator": "Reducción del tiempo promedio de trámites."
+          },
+          {
+            "problem": "Percepción de falta de transparencia y confianza en la gestión pública.",
+            "objective": "Fortalecer la transparencia y el gobierno abierto.",
+            "goal": "Reducir en 20 puntos porcentuales la percepción de corrupción.",
+            "indicator": "Variación en la percepción de corrupción."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zphhyYsKG-tb4gT6fhlMJ_vBfK0jB2g4",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zphhyYsKG-tb4gT6fhlMJ_vBfK0jB2g4",
+      "sha256": "7aed34d182cb5e9bb4635099a6aa7822594d793901264cf82bb261d8c244f7f7",
+      "accessedAt": "2026-10-02T22:58:38.023Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019620",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019620",
+      "sha256": "b106d2f1f8c1f6b4fc99a0a69eeced617782d1131b8a62aa2966b7ff7c6bfab6",
+      "accessedAt": "2026-10-02T22:58:38.494Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "ZqCoMH55daAjnwEYknbZ5hEcpLzOajLk",
+  "slug": "jorge-luis-quintana-garcia-godos",
+  "electionId": "erm-2026",
+  "name": "Jorge Luis Quintana Garcia Godos",
+  "givenNames": "Jorge Luis",
+  "surnames": "Quintana Garcia Godos",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:58.041Z",
+      "sourceId": "jne-hv-ZqCoMH55daAjnwEYknbZ5hEcpLzOajLk"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Peruana de Ciencias e Informática",
+        "program": "Gestión Estratégica Empresarial",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad Distrital de Santiago de Surco",
+      "role": "ESPECIALISTA",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 269080,
+        "public": 120000,
+        "private": 149080
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "COCHERA 94",
+        "value": 26300.18,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "COCHERA 93",
+        "value": 25700.01,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 26257.52,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DEPARTAMENTO 606",
+        "value": 106696.81,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "DEPOSITO 27",
+        "value": 17250.23,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "DEPOSITO 26",
+        "value": 8401.05,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "KIA SONET BLANCA",
+        "value": 87780
+      },
+      {
+        "type": "CAMIONETA CAPTIVA NEGRO",
+        "value": 97273.04
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESTUDIO QUINTANA Y ASOCIADOS ABOGADOS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 950,
+        "value": 950
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/87b6ce6b-6fbf-4002-9ba6-973b06d5e5cf.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/643499d8-a713-4e2d-b2ef-865127e6e028.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana, delitos patrimoniales y percepción de riesgo urbano",
+            "objective": "Plan Integral de Seguridad Inteligente, Red de Videovigilancia, Programa Rutas Seguras, Observatorio Distrital de Seguridad",
+            "goal": "Incrementar en 100% la cobertura de videovigilancia; recuperar 30 puntos críticos; reducir en 30% el tiempo de respuesta del serenazgo; Ejecutar 20,000 patrullajes preventivos por año",
+            "indicator": "Cámaras instaladas; patrullajes preventivos ejecutados; puntos críticos recuperados; tiempo promedio de respuesta ante emergencias"
+          },
+          {
+            "problem": "Envejecimiento poblacional, soledad y creciente demanda de cuidados",
+            "objective": "Programa “Jesús María Te Cuida”, Red Distrital de Cuidado, Centros de Día, Visitas Domiciliarias Preventivas, Universidad Municipal del Adulto Mayor.",
+            "goal": "5,000 adultos mayores incorporados a programas municipales; 10,000 visitas domiciliarias acumuladas; 2 centros de día implementados; 80% de cobertura de adultos mayores identificados en situación de vulnerabilidad",
+            "indicator": "Adultos mayores registrados y atendidos por programas municipales; visitas domiciliarias realizadas; centros de día implementados; participantes en actividades de envejecimiento activo."
+          },
+          {
+            "problem": "Debilitamiento de la convivencia vecinal e identidad distrital",
+            "objective": "Programa Comunidad Jesús María, Consejos Vecinales, Escuela Ciudadana, Presupuesto Participativo Barrial",
+            "goal": "Organización de consejos vecinales en el 100% de sectores; 400 actividades comunitarias; duplicar participación ciudadana en mecanismos municipales; atención de 1,000 casos de mediación vecinal.",
+            "indicator": "Consejos vecinales constituidos; actividades comunitarias realizadas; participantes en procesos participativos; conflictos vecinales atendidos mediante mediación"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Incremento de los costos inmobiliarios y pérdida progresiva de competitividad para pequeños negocios",
+            "objective": "Consolidación de corredores comerciales, revitalización de ejes económicos emergentes, simplificación administrativa",
+            "goal": "5 corredores comerciales mejorados; 3 nuevos ejes económicos promovidos; reducción de 50% en tiempos de trámites empresariales; 2,000 empresas beneficiadas",
+            "indicator": "Corredores comerciales intervenidos; nuevos ejes económicos promovidos; trámites empresariales simplificados; empresas beneficiadas"
+          },
+          {
+            "problem": "Ausencia de una estrategia de desarrollo económico local que articule las ventajas competitivas del distrito",
+            "objective": "Plan de Desarrollo Económico Local, Consejo Consultivo Económico, Observatorio Económico, Marca Territorial Jesús María",
+            "goal": "Plan DEL aprobado e implementado; 40 sesiones del Consejo Consultivo; 12 reportes económicos publicados; Marca Territorial posicionada en Lima Moderna",
+            "indicator": "Plan de Desarrollo Económico Local aprobado; sesiones del Consejo Consultivo realizadas; reportes económicos publicados; campañas de posicionamiento territorial ejecutadas"
+          },
+          {
+            "problem": "Saturación comercial y creciente competencia entre pequeños negocios locales",
+            "objective": "Centro Municipal de Desarrollo Empresarial, Programa de Fortalecimiento de MYPES, Transformación Digital Empresarial",
+            "goal": "3,000 empresas capacitadas; 6,000 asesorías especializadas; 1,500 negocios digitalizados; 5 corredores comerciales fortalecidos",
+            "indicator": "Empresas capacitadas; asesorías empresariales brindadas; negocios incorporados a plataformas digitales; corredores comerciales fortalecidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Reducción progresiva de la superficie verde efectiva por habitante y presión sobre los espacios públicos ambientales",
+            "objective": "Programa de Infraestructura Verde Urbana, recuperación de áreas verdes y arborización",
+            "goal": "Recuperar o mejorar 50,000 m² de áreas verdes; plantar 5,000 árboles y especies ornamentales; intervenir el 100% de parques distritales",
+            "indicator": "m² de áreas verdes recuperadas o mejoradas; árboles plantados; parques intervenidos"
+          },
+          {
+            "problem": "Contaminación sonora y deterioro de la calidad ambiental urbana",
+            "objective": "Programa de control de ruido y fiscalización ambiental",
+            "goal": "20,000 fiscalizaciones acumuladas; monitoreo permanente en corredores críticos; reducción progresiva de quejas vecinales por ruido",
+            "indicator": "operativos realizados; zonas monitoreadas; establecimientos fiscalizados"
+          },
+          {
+            "problem": "Reducción de la disponibilidad de agua para el mantenimiento de áreas verdes en el contexto de estrés hídrico",
+            "objective": "Programa de eficiencia hídrica y riego tecnificado, Proyecto de Uso de Aguas Residuales Tratadas para riego urbano",
+            "goal": "100% de parques con sistemas eficientes de riego; reducción de 30% del consumo de agua para riego; 3 miniplantas de tratamiento de agua para riego urbano",
+            "indicator": "Parques con riego tecnificado; m³ de agua ahorrados; áreas verdes con especies de bajo consumo hídrico. Miniplantas de tratamiento de agua residual para riego urbano"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Creciente demanda ciudadana por transparencia, gobierno digital y rendición de cuentas",
+            "objective": "Portal de transparencia reforzado, gobierno digital y rendición de cuentas",
+            "goal": "Digitalizar 80% de trámites municipales; realizar 2 rendiciones de cuentas por año; publicar indicadores de gestión trimestralmente",
+            "indicator": "trámites digitalizados; audiencias públicas realizadas; reportes publicados"
+          },
+          {
+            "problem": "Participación ciudadana limitada y escasa corresponsabilidad en la gestión del desarrollo local.",
+            "objective": "Consejos vecinales, presupuesto participativo y escuela ciudadana",
+            "goal": "Incrementar en 100% la participación ciudadana respecto a 2026; presencia organizada en todos los sectores del distrito",
+            "indicator": "organizaciones participantes; procesos participativos realizados; ciudadanos capacitados"
+          },
+          {
+            "problem": "Conflictos crecientes por el uso del territorio y ausencia de consensos sobre el modelo de desarrollo urbano",
+            "objective": "Sistema de diálogo urbano y gestión concertada del territorio",
+            "goal": "Realizar procesos de concertación en todos los grandes proyectos urbanos; reducir conflictos vecinales vinculados al desarrollo urbano",
+            "indicator": "procesos participativos realizados; conflictos gestionados; acuerdos territoriales alcanzados"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ZqCoMH55daAjnwEYknbZ5hEcpLzOajLk",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZqCoMH55daAjnwEYknbZ5hEcpLzOajLk",
+      "sha256": "40fd2099ca7139f63261529c621212560b63e2306a90a87724930789f563efc8",
+      "accessedAt": "2026-10-02T22:56:58.041Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021025",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021025",
+      "sha256": "d8fa0d13f70fdb48694b753c1b5b07f8e52cdfb04cac2956309251d9363f3ba3",
+      "accessedAt": "2026-10-02T22:56:58.702Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

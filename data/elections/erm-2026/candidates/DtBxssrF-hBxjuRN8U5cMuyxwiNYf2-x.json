@@ -1,0 +1,264 @@
+{
+  "id": "DtBxssrF-hBxjuRN8U5cMuyxwiNYf2-x",
+  "slug": "angelica-maria-noguerol-sueldo",
+  "electionId": "erm-2026",
+  "name": "Angelica Maria Noguerol Sueldo",
+  "givenNames": "Angelica Maria",
+  "surnames": "Noguerol Sueldo",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140125",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:25.730Z",
+      "sourceId": "jne-hv-DtBxssrF-hBxjuRN8U5cMuyxwiNYf2-x"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "SISE",
+        "program": "MARKETING",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias e Informática S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACIÓN Y NEGOCIOS INTERNACIONALES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PETERINARIA SURCO EIRL",
+      "role": "TITULAR GERENTE",
+      "from": "2017",
+      "to": "2026"
+    },
+    {
+      "employer": "ANGELICA MARIA NOGUEROL SUELDO",
+      "role": "SERVICIOS DE PRODUCCION SECTOR PUBLICO Y PRIVADO",
+      "from": "2014",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO",
+      "role": "TECNICO ADMINISTRATIVO",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN JUAN DE LURIGANCHO",
+      "role": "SERVICIO ESPECIALIZADO EN COMUNICACION ORGANIZACIONAL",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN JUAN DE LURIGANCHO",
+      "role": "SERVICIO DE PROTOCOLO PARA LA SECRETARIA DE COMUNICACIONES E IMAGEN INSTITUCIONAL",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "RESTAURACION NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2021"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 154500,
+        "public": 58500,
+        "private": 96000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 106715.42,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 82931.66,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MARCA JAC, MODELO JS2, COLOR NEGRO, CARROCERIA SUV",
+        "value": 30600
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "PETERINARIA SURCO EIRL",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 11300
+      },
+      {
+        "company": "CENTRO VETERINARIO ANIMAL LIFE SAC",
+        "type": "ACCIONES",
+        "quantity": 80,
+        "value": 10
+      }
+    ]
+  },
+  "additionalInfo": [
+    "CIA. MIAN . SAC CARGO: GERENTE GENERAL"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9b54d1df-ed8a-4249-87b7-8cd82a7f7b8d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7de2150a-05c5-43b4-ab76-780c89973e2c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura deportiva y espacios culturales emblemáticos en estado de abandono.",
+            "objective": "Recuperar los recintos públicos e incentivar el deporte y la cultura como herramientas de cohesión social.",
+            "goal": "1 semillero deportivo multidisciplinario funcionando de forma permanente.",
+            "indicator": "Número de semilleros deportivos activos."
+          },
+          {
+            "problem": "Falta de atención médica preventiva descentralizada y desnutrición en sectores vulnerables.",
+            "objective": "Implementar programas de salud integral, apoyo social a la neurodiversidad y nutrición infantil.",
+            "goal": "48 campañas integrales de salud realizadas (12 por año) y 1 Veterinaria Municipal construida y operativa.",
+            "indicator": "Número de campañas integrales de salud y programas sociales ejecutados por año."
+          },
+          {
+            "problem": "Inseguridad ciudadana latente y cámaras municipales sin soporte tecnológico inteligente.",
+            "objective": "Modernizar el sistema de vigilancia y fortalecer la capacidad del serenazgo y la acción policial conjunta.",
+            "goal": "100% de las cámaras operativas integradas con Inteligencia Artificial al año 2030.",
+            "indicator": "Porcentaje de cámaras del distrito equipadas con Inteligencia Artificial y analítica avanzada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Congestión vehicular severa y desorden en el tránsito en los ejes viales principales de Barranco.",
+            "objective": "Optimizar el flujo vehicular mediante tecnologías de gestión de tráfico y fiscalización policial.",
+            "goal": "100% de las avenidas principales interconectadas al sistema de semáforos inteligentes para el 2030.",
+            "indicator": "Número de avenidas principales del distrito con semaforización inteligente instalada."
+          },
+          {
+            "problem": "Riesgo de accidentes de tránsito en los entornos de las instituciones educativas del distrito.",
+            "objective": "Garantizar la seguridad vial escolar mediante señalización técnica y del ordenamiento del entorno.",
+            "goal": "100% de las zonas escolares públicas y privadas debidamente señalizadas y resguardadas.",
+            "indicator": "Porcentaje de colegios del distrito con señalización vial integral renovada y segura."
+          },
+          {
+            "problem": "Necesidad de dinamizar los ingresos de los artistas, artesanos y emprendedores tradicionales locales.",
+            "objective": "Revalorizar la identidad barranquina insertando a los emprendimientos locales en cadenas de valor cultural.",
+            "goal": "Al menos 6 actividades culturales/comerciales anuales de apoyo directo al artista y emprendedor local.",
+            "indicator": "Número de actividades culturales y proyectos de fomento al emprendimiento tradicional apoyados por la comuna."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación y falta de mantenimiento sanitario preventivo en plazas y mercados del distrito.",
+            "objective": "Garantizar la inocuidad y salubridad de los espacios públicos mediante intervenciones programadas.",
+            "goal": "100% de mercados y plazas principales desinfectados con una frecuencia mínima mensual durante toda la gestión.",
+            "indicator": "Frecuencia mensual de operativos de desinfección y lavado de áreas públicas."
+          },
+          {
+            "problem": "Puntos críticos de acumulación de residuos que afectan la estética urbana y la salud pública.",
+            "objective": "Modernizar el sistema de recolección de residuos sólidos.",
+            "goal": "Satisfacción de los vecinos por el cumplimiento de los servicios municipales.",
+            "indicator": "Tiempo de respuesta ante quejas vecinales y frecuencia de levantamiento de los residuos sólidos."
+          },
+          {
+            "problem": "Déficit de áreas verdes horizontales y uso ineficiente del agua potable para el riego.",
+            "objective": "Incrementar la superficie vegetal urbana adoptando tecnologías ecoamigables de riego y techos verdes.",
+            "goal": "100% de los espacios verdes del distrito adecuados al riego tecnificado e instalación de 20 muros/techos verdes pilotos.",
+            "indicator": "Porcentaje de parques del distrito migrados a sistemas de riego tecnificado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitado acceso vecinal y turístico a la conectividad digital gratuita en áreas de congregación pública.",
+            "objective": "Reducir la brecha digital mediante infraestructura urbana de conectividad e internet de libre acceso.",
+            "goal": "Implementación de un circuito de Wi-Fi gratuito con cobertura en las principales plazas y parques del distrito.",
+            "indicator": "Cantidad de espacios públicos, plazas o parques que cuentan con servicio de Wi-Fi gratuito operativo."
+          },
+          {
+            "problem": "Excesiva burocracia y riesgo de corrupción en los trámites administrativos municipales.",
+            "objective": "Digitalizar y simplificar los procedimientos municipales para que sean más fáciles de entender, más veloces y más accesibles para todos los vecinos.",
+            "goal": "Digitalización del 100% de los principales trámites municipales, reduciendo los tiempos de espera y previniendo actos de corrupción.",
+            "indicator": "Porcentaje de trámites municipales digitalizados y simplificados."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado que amenaza la integridad del patrimonio arquitectónico y monumental.",
+            "objective": "Aplicar un plan urbanístico acorde a la realidad del distrito en consulta con los vecinos.",
+            "goal": "1 Plan de Desarrollo Urbano Participativo actualizado y aprobado.",
+            "indicator": "Número de mesas de diálogo vecinal y planes específicos de protección monumental validados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-DtBxssrF-hBxjuRN8U5cMuyxwiNYf2-x",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DtBxssrF-hBxjuRN8U5cMuyxwiNYf2-x",
+      "sha256": "bdc05909a7ac5e238e12ce8300b380bd8b30cf4223a2e13b5f58129d9a590e2f",
+      "accessedAt": "2026-10-02T22:51:25.730Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019886",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019886",
+      "sha256": "4afbf26e8079d8ad4bb1526345552a64a2a83ef1558c9348bab390a965467e41",
+      "accessedAt": "2026-10-02T22:51:26.209Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

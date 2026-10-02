@@ -1,0 +1,256 @@
+{
+  "id": "FfU1lDfg35nXoYPAAjxkGXpdxHZfG3g-",
+  "slug": "raul-alberto-sullca-maquera",
+  "electionId": "erm-2026",
+  "name": "Raul Alberto Sullca Maquera",
+  "givenNames": "Raul Alberto",
+  "surnames": "Sullca Maquera",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:01.042Z",
+      "sourceId": "jne-hv-FfU1lDfg35nXoYPAAjxkGXpdxHZfG3g-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILAZO DE LA VEGA",
+        "program": "4to ciclo",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO APRISTA PERUANO",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 52996,
+        "public": 0,
+        "private": 52996
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 150000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 290000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1104000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMION",
+        "value": 31000
+      },
+      {
+        "type": "AUTO",
+        "value": 20000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 8600
+      },
+      {
+        "type": "AUTO",
+        "value": 25000
+      },
+      {
+        "type": "CAMION",
+        "value": 27600
+      },
+      {
+        "type": "CAMION",
+        "value": 27600
+      },
+      {
+        "type": "AUTO",
+        "value": 20000
+      },
+      {
+        "type": "AUTO",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACION E INMOBILARIA MARISOL SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 20000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b17b33d9-9dd2-4676-bd35-11a4f24e8782.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b4e8e210-2936-4864-9133-012f44f4bd20.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia de una planificación territorial adecuada ante el crecimiento vertical del distrito, afectando la provisión de servicios básicos.",
+            "objective": "Planificar las construcciones futuras, coordinar el mantenimiento y la planificación de los servicios básicos integrales y promover el saneamiento físico legal de los predios.",
+            "goal": "Reemplazar construcciones antiguas con módulos multifamiliares planificados, asegurar la provisión de agua, desagüe y servicio eléctrico, y titular los predios que no lo están.",
+            "indicator": "Número de coordinaciones realizadas con instituciones del estado y privadas para el mantenimiento de servicios. Cantidad de predios con titulación promovida."
+          },
+          {
+            "problem": "Insuficientes servicios de salud y protección social para poblaciones vulnerables como niños, adolescentes, mujeres, adultos mayores y personas con discapacidad.",
+            "objective": "Ampliar la cobertura del sistema de defensorías, respaldar y promover el desarrollo de las personas con discapacidad, y crear servicios municipales de salud y asistencia.",
+            "goal": "Brindar atención de salud de manera óptima y en calidad, fortalecer las redes sociales y de apoyo, e implementar infraestructuras de cuidado como el velatorio municipal, la cuna infantil y la casa de acogida del adulto mayor.",
+            "indicator": "Número de defensorías escolares impulsadas. Creación de una farmacia, un comedor y un policlínico municipal. Instalación de una casa de acogida para el adulto mayor y una cuna infantil."
+          },
+          {
+            "problem": "Limitado desarrollo cultural y educativo que afecta la identidad local y la formación de liderazgos juveniles.",
+            "objective": "Promover el desarrollo de la educación y fortalecer la identidad local a través de la cultura.",
+            "goal": "Crear una biblioteca virtual, capacitar permanentemente a los docentes y directores, y promover el desarrollo de capacidades de liderazgo en los jóvenes a través de los colegios.",
+            "indicator": "Número de festivales y eventos culturales auspiciados. Creación de la biblioteca virtual. Número de capacitaciones a directores y profesores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasa capacitación gerencial y tecnológica para las MYPES y falta de acceso a productos a bajo costo para los vecinos.",
+            "objective": "Fortalecer las capacidades de las MYPES y proteger la economía de los vecinos mediante el acceso a productos a menor costo.",
+            "goal": "Implementar capacitaciones gerenciales y tecnológicas para las MYPES y realizar ferias agropecuarias los fines de semana para que los vecinos adquieran productos a menor costo.",
+            "indicator": "Número de convenios con universidades para capacitación. Número de ferias agropecuarias urbanas realizadas."
+          },
+          {
+            "problem": "Predominio de la informalidad en las actividades económicas industriales, comerciales y empresariales del distrito.",
+            "objective": "Promover la formalización de las actividades económicas para un desarrollo ordenado.",
+            "goal": "Lograr la formalización de las actividades industriales, comerciales y empresariales existentes en el distrito de Breña.",
+            "indicator": "Porcentaje de formalización de las actividades económicas del distrito."
+          },
+          {
+            "problem": "Falta de oportunidades para la inserción laboral de técnicos y escaso fomento del emprendimiento a nivel microempresarial.",
+            "objective": "Desarrollar programas de reclutamiento y generación de microempresas para mejorar las oportunidades económicas locales.",
+            "goal": "Establecer un \"Programa de Reclutamiento de Técnicos de mando medio\" y ejecutar un plan piloto para la generación de microempresas a nivel artesanal en colegios y organizaciones sociales.",
+            "indicator": "Creación de un programa de reclutamiento de técnicos. Implementación de un plan piloto de generación microempresarial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit y falta de mantenimiento de las áreas verdes, parques y jardines en el distrito.",
+            "objective": "Incrementar las áreas verdes, ampliar la cobertura de arborización y asegurar el mantenimiento de los espacios públicos.",
+            "goal": "Ampliar la cobertura de arborización, recuperar y mantener los parques y jardines, e impulsar un vivero municipal para sostener el programa.",
+            "indicator": "Superficie de áreas verdes incrementada. Nivel de participación vecinal en el mantenimiento de áreas verdes. Creación de un vivero municipal."
+          },
+          {
+            "problem": "Tratamiento inadecuado y deficiente sistema de recolección de los residuos sólidos generados en el distrito.",
+            "objective": "Mejorar el tratamiento de los residuos sólidos a través de una logística y equipamiento adecuados.",
+            "goal": "Implementar el transporte de residuos sólidos en camiones compactadores y la instalación de contenedores de basura en puntos estratégicos del distrito.",
+            "indicator": "Número de camiones compactadores para el transporte de residuos. Cantidad de contenedores de basura instalados en puntos estratégicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Elevados niveles de inseguridad ciudadana, venta de estupefacientes, prostitución y drogadicción.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la participación de la población organizada y la implementación de tecnología de vigilancia.",
+            "goal": "Crear rondas mixtas para controlar actividades ilícitas e instalar cámaras de videovigilancia con sensores de reconocimiento facial.",
+            "indicator": "Número de rondas mixtas creadas. Cantidad de cámaras de videovigilancia de última generación instaladas."
+          },
+          {
+            "problem": "Aparato administrativo municipal desactualizado y baja efectividad en la recaudación tributaria, lo que genera alta morosidad.",
+            "objective": "Modernizar la gestión municipal, optimizar la atención al público y mejorar la recaudación de tributos para disminuir la morosidad.",
+            "goal": "Modernizar el aparato administrativo, racionalizar el personal, implementar un sistema de recaudación efectivo y elevar la conciencia tributaria para disminuir la morosidad.",
+            "indicator": "Implementación de un sistema efectivo de recaudación tributaria. Tasa de morosidad tributaria. Número de programas de capacitación para el personal."
+          },
+          {
+            "problem": "Infraestructura vial deteriorada con pistas y veredas en mal estado, lo que provoca accidentes vehiculares y peatonales.",
+            "objective": "Implementar un plan integral de reparación y mantenimiento permanente de la infraestructura vial y promover la educación vial.",
+            "goal": "Ejecutar un plan integral de reparación de pistas y veredas deterioradas y promover un programa de mantenimiento permanente para evitar accidentes.",
+            "indicator": "Extensión de pistas y veredas reparadas. Tasa de reducción de accidentes. Número de programas de educación vial implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-FfU1lDfg35nXoYPAAjxkGXpdxHZfG3g-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/FfU1lDfg35nXoYPAAjxkGXpdxHZfG3g-",
+      "sha256": "9e27a907e31314df746d9fa4f480bac997f68feaca559bdbdc02501d2f6b1108",
+      "accessedAt": "2026-10-02T22:52:01.042Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020431",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020431",
+      "sha256": "6260e644e0b069df441321d2cf9d3916586947a8beb7ae34afaf0e31ea84e29f",
+      "accessedAt": "2026-10-02T22:52:01.567Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

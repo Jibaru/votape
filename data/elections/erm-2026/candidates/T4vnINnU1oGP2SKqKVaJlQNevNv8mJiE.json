@@ -1,0 +1,301 @@
+{
+  "id": "T4vnINnU1oGP2SKqKVaJlQNevNv8mJiE",
+  "slug": "ernesto-enrique-delhonte-cagna",
+  "electionId": "erm-2026",
+  "name": "Ernesto Enrique Delhonte Cagna",
+  "givenNames": "Ernesto Enrique",
+  "surnames": "Delhonte Cagna",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:14.171Z",
+      "sourceId": "jne-hv-T4vnINnU1oGP2SKqKVaJlQNevNv8mJiE"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "ADEX",
+        "program": "COMERCIO EXTERIOR",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2004"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "GESTIÓN PÙBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ABOGADO INDEPENDIENTE",
+      "role": "ASESOR LEGAL",
+      "from": "2005",
+      "to": "2026"
+    },
+    {
+      "employer": "DELHONTE EGOAVIL ABOGADOS SAC",
+      "role": "EMPLEADO",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "J&N SEGURIDAD Y VIGILANCIA PRIVADA SAC",
+      "role": "EMPLEADO",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "TREBOL AZUL SAC",
+      "role": "EMPLEADO",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "J&N SEGURIDAD Y VIGILANCIA SAC",
+      "role": "EMPLEADO",
+      "from": "2008",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "MOVIMIENTO INDEPENDIENTE SOMOS PERU",
+      "from": "1999",
+      "to": "2002"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 44478,
+        "public": 0,
+        "private": 44478
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "DELHONTE & ABOGADOS SAC",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "RENUNCIÉ A RENOVACIÓN POPULAR EN EL 2016",
+    "RENUNCIÉ AL PARTIDO POPULAR CRISTIANO EN EL 2019"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b6cb9e17-e241-4790-839b-b3e1b18759d9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a53c235b-e9a1-4cd0-98a9-a8330c3be4b7.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Baja participación de los vecinos en temas de planeamiento, ejecución y controles municipales.",
+            "objective": "Fomentar la organización y participación de los vecinos en temas presupuestales y de fiscalización urbana, así como en la seguridad vecinal, actividades deportivas, culturales y en la agenda ambiental distrital.",
+            "goal": "Reconocer 3 comités por zona y un comité por cuadra, además de una Junta Vecinal por zona.",
+            "indicator": "Número de Comités reconocidos y número de Juntas Vecinales reconocidas."
+          },
+          {
+            "problem": "La mayoría de los vecinos no se involucran en las acciones de prevención sobre desastres naturales.",
+            "objective": "Conformar brigadistas vecinales y capacitarlos en desastres y primeros auxilios, crear una red de profesionales de apoyo en caso de desastres y contar con almacenes soterrados implementados con insumos básicos.",
+            "goal": "Conformar 5 brigadas por zona, crear una red de apoyo por zona e implementar un almacén por zona del distrito.",
+            "indicator": "Número de brigadas conformadas en las zonas del distrito, número de redes de apoyo creadas y número de almacenes implementados."
+          },
+          {
+            "problem": "Prevalencia de índices de inseguridad que motivan que los vecinos no se sientan seguros en sus hogares ni transitando en sus vías públicas.",
+            "objective": "Consolidar el patrullaje integrado del serenazgo municipal con la Policía Nacional del Perú, mejorar la infraestructura y equipamiento para la seguridad ciudadana, aumentar los vehículos menores para el serenazgo y realizar operativos conjuntos en el distrito.",
+            "goal": "Suscripción de un convenio anual, adquisición de 100 cámaras por año, 12 reuniones anuales, adquisición de 50 bicicletas y 20 segways por año, y 52 operativos anuales.",
+            "indicator": "Suscripción de convenios interinstitucionales, adquisición de cámaras de videovigilancia, implementación de reuniones evaluativas, adquisición de bicicletas y segways, y realización de operativos de patrullaje integrado."
+          },
+          {
+            "problem": "Existencia de ciudadanos que aún mantienen una baja vocación por la lectura y su identificación con el distrito.",
+            "objective": "Crear el 'Programa Bibliotecas Móviles', impulsar la incorporación de temas de ciudadanía y desarrollo local en la currícula educativa, presentar muestras pictóricas y fotográficas, y establecer un patronato de cultura en Jesús María.",
+            "goal": "Aprobación de un documento de ordenanza, una propuesta al consejo, una presentación mensual y un acuerdo de consejo.",
+            "indicator": "Ordenanza que aprueba el programa, propuesta al Consejo Participativo Local de Educación, número de presentaciones en parques y plazas, y Acuerdo de Consejo de aprobación del patronato."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Autorizaciones municipales que adolecen de control y fiscalización.",
+            "objective": "Fortalecer el control y la certificación municipal para el expendio de productos y servicios de calidad.",
+            "goal": "Realizar diez controles por mes.",
+            "indicator": "Número de controles a la expedición de certificaciones."
+          },
+          {
+            "problem": "Necesidad de consolidar la vocación de distrito comercial y de servicios del área interdistrital.",
+            "objective": "Implementar el boulevard de la Av. General Garzón, realizar eventos de capacitación a micro y pequeños empresarios, y fomentar el desarrollo del corredor gastronómico y turístico de la Av. Cuba y Rep. Dominicana.",
+            "goal": "Un acuerdo de consejo, cuatro cursos de capacitación por año y veinte autorizaciones o licencias por mes.",
+            "indicator": "Acuerdo de Consejo que declara el boulevard, programas de capacitación aprobados y número de autorizaciones y/o licencias emitidas."
+          },
+          {
+            "problem": "Falta de estrategias municipales para la apertura de la inversión privada y pública que apoyen la economía local.",
+            "objective": "Promover la inversión privada para el desarrollo de actividades comerciales y de servicios, crear el Consejo Distrital de Competitividad y el programa de Emprendedores con apoyo del sector privado.",
+            "goal": "Un convenio por mes, una ordenanza de creación y una reunión ejecutada por mes.",
+            "indicator": "Número de convenios con empresas e instituciones, ordenanza de creación del consejo y número de reuniones ejecutadas."
+          },
+          {
+            "problem": "El desarrollo urbano ordenado del distrito se ve limitado por el insuficiente número de estacionamientos vehiculares.",
+            "objective": "Promover la construcción e implementación de estacionamientos subterráneos en el distrito.",
+            "goal": "Aprobar una norma para la construcción de estacionamientos.",
+            "indicator": "Aprobación de dispositivo legal que permita la construcción de estacionamientos subterráneos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito cuenta con espacios verdes con pocas y escasas especies forestales.",
+            "objective": "Incrementar la superficie con plantación de especies forestales en los espacios públicos.",
+            "goal": "Incrementar en un 10% anual la plantación de especies forestales.",
+            "indicator": "Porcentaje de plantación de especies forestales."
+          },
+          {
+            "problem": "Disposición de residuos sólidos no controlados en los espacios públicos del distrito.",
+            "objective": "Mejorar el sistema de limpieza pública y el manejo adecuado de los residuos sólidos en la fuente.",
+            "goal": "Lograr que el 40% de los hogares se incorporen a la segregación de residuos.",
+            "indicator": "Porcentaje de hogares que se incorporan a la segregación de residuos en hogares del distrito."
+          },
+          {
+            "problem": "Existencia de altos índices de contaminación sonora y ruidos molestos que perturban la tranquilidad de los vecinos.",
+            "objective": "Formular y aplicar instrumentos de gestión y fiscalización ambiental municipal.",
+            "goal": "Disminuir en un 20% los agentes tóxicos y contaminantes en el aire.",
+            "indicator": "Porcentaje de disminución de agentes tóxicos y contaminantes en el aire."
+          },
+          {
+            "problem": "Prevalencia de gran cantidad de mascotas que ingresan a los parques y bermas, dejando sus excretas sin recoger.",
+            "objective": "Desarrollar campañas educativas sobre las obligaciones por tenencia de mascotas y fomentar programas de entrenamiento canino y ferias de mascotas en diversos parques del distrito.",
+            "goal": "Realizar un curso por mes y un programa de entrenamiento o feria de mascotas al mes.",
+            "indicator": "Cursos para generar conciencia en los vecinos sobre el cuidado de mascotas y programas de entrenamiento y ferias de mascotas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Los órganos y unidades orgánicas municipales no están implementados con nuevas tecnologías de la información, lo que dificulta la transparencia de los servicios.",
+            "objective": "Modernizar los sistemas informáticos, generar una cultura digital entre el vecino y la municipalidad, y transparentar la información a través de nuevos sistemas.",
+            "goal": "Adquirir 50 equipos cada 2 años, realizar una capacitación por trimestre y actualizar la información diariamente.",
+            "indicator": "Adquisición de equipos informáticos, número de eventos de capacitación y publicación de información procesada en el portal web municipal."
+          },
+          {
+            "problem": "La institución municipal necesita fortalecerse para garantizar la correcta provisión de servicios y el manejo ordenado del territorio.",
+            "objective": "Promover una cultura organizacional municipal de excelencia, incorporar la mejora continua y buenas prácticas, controlar la gestión por resultados y fortalecer la rendición de cuentas.",
+            "goal": "Elaborar un documento ROF, ejecutar una capacitación por trimestre, emitir un informe semestral y realizar una audiencia de rendición de cuentas por trimestre.",
+            "indicator": "Elaboración del Reglamento de Organización y Funciones (ROF) con visión moderna, número de eventos de capacitación, número de informes y número de audiencias de rendición de cuentas."
+          },
+          {
+            "problem": "Débil participación de los vecinos en la gestión y actividades municipales.",
+            "objective": "Fortalecer las competencias y capacidades en los dirigentes de las juntas vecinales y mejorar la comunicación con los vecinos para lograr una concertación en la planificación de proyectos.",
+            "goal": "Ejecutar un evento de capacitación por mes y cursar 100 documentos de invitación por año.",
+            "indicator": "Número de eventos de capacitación ejecutados por mes y número de documentos de invitación cursados para consultas vecinales."
+          },
+          {
+            "problem": "Existe morosidad en el pago de los tributos municipales.",
+            "objective": "Bajar el índice de morosidad aplicando nuevas estrategias de cobranza con beneficios.",
+            "goal": "Reducir el índice de morosidad en un 3% anual.",
+            "indicator": "Porcentaje anual de reducción del índice de morosidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-143758",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "5TO JUZGADO CIVIL COMERCIAL DE LIMA",
+        "expediente": "0953-2013-1817-JR-CO-05",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-T4vnINnU1oGP2SKqKVaJlQNevNv8mJiE"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-T4vnINnU1oGP2SKqKVaJlQNevNv8mJiE",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/T4vnINnU1oGP2SKqKVaJlQNevNv8mJiE",
+      "sha256": "45de3a9ee7ce1ff1622a392fffd569ad5b1c3a24cc60f0c2a47791704732fb50",
+      "accessedAt": "2026-10-02T22:57:14.171Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021434",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021434",
+      "sha256": "dccb072869caf6a898bcaf4e9f88589c5ae01ea899f47ad38685b1d205866e03",
+      "accessedAt": "2026-10-02T22:57:14.695Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

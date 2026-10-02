@@ -1,0 +1,292 @@
+{
+  "id": "fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq",
+  "slug": "samuel-marcos-daza-taype",
+  "electionId": "erm-2026",
+  "name": "Samuel Marcos Daza Taype",
+  "givenNames": "Samuel Marcos",
+  "surnames": "Daza Taype",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:22.294Z",
+      "sourceId": "jne-hv-fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "INGENIERO DE TRANSPORTES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2004"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PABLO DE OLAVIDE",
+        "program": "PLANIFICACIÓN, ECONOMÍA Y OPERACIONES DE TRANSPORTE",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2023"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSITAT DE VALENCIA",
+        "program": "MÁSTER EN TRÁFICO Y SEGURIDAD VIAL Y SUS INTERVENCIONES",
+        "completed": true,
+        "degree": "MASTER",
+        "year": "2017"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE ANCÓN",
+      "role": "ALCALDE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MINISTERIO DE ECONOMÍA Y FINANZAS",
+      "role": "CONSULTOR FAG",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "TRAFFIK DE ECONOMÍA & CONSULTORÍA SAC",
+      "role": "GERENTE",
+      "from": "2010",
+      "to": "2021"
+    },
+    {
+      "employer": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+      "role": "DIRECTOR GENERAL OGAME",
+      "from": "2021",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PODEMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 108531,
+        "public": 108531,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "PREDIO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO PARCELA",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO HUARAL",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MARCA AUDI",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/06b1424b-84b0-4a3a-a0a2-67891fa506c5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2511c1be-b650-4494-95d2-fb2dbbf1a54e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de brechas sociales y territoriales en servicios básicos, espacios públicos y calidad de vida.",
+            "objective": "Mejorar las condiciones de vida mediante intervenciones sociales, recuperación de espacios públicos, accesibilidad urbana y apoyo a familias vulnerables.",
+            "goal": "Priorizar intervenciones en Lima Norte, Lima Este, Lima Sur y zonas periféricas con mayores brechas.",
+            "indicator": "Número de espacios públicos recuperados. Número de beneficiarios de programas sociales."
+          },
+          {
+            "problem": "Limitado acceso a servicios preventivos de salud, inclusión social, deporte y recreación.",
+            "objective": "Ampliar la cobertura de SISOL, campañas médicas, programas sociales, deportivos y de atención a población vulnerable.",
+            "goal": "Brindar cobertura progresiva en los 43 distritos, priorizando zonas de mayor vulnerabilidad.",
+            "indicator": "Número de personas atendidas mediante servicios sociales, médicos, deportivos y recreativos."
+          },
+          {
+            "problem": "Alta incidencia de inseguridad ciudadana, criminalidad organizada y débil articulación entre serenazgos distritales.",
+            "objective": "Fortalecer la seguridad ciudadana mediante un sistema metropolitano integrado de videovigilancia, serenazgo, patrullaje y coordinación con la PNP.",
+            "goal": "Integrar progresivamente a los 43 distritos y reducir el tiempo de atención de denuncias de 12 a 5 horas al 2030.",
+            "indicator": "Número de distritos integrados al sistema de seguridad. Tiempo promedio de respuesta."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil articulación de centralidades económicas y congestión que afecta la productividad.",
+            "objective": "Consolidar centralidades económicas, corredores logísticos y movilidad integrada para mejorar la competitividad metropolitana.",
+            "goal": "Elevar centralidades de 18 a 26 y reducir el tiempo promedio de viaje en 25% al 2030.",
+            "indicator": "Número de centralidades consolidadas. Tiempo promedio de viaje en horas punta."
+          },
+          {
+            "problem": "Bajos niveles de innovación, digitalización y competitividad empresarial.",
+            "objective": "Impulsar la transformación digital, innovación productiva y articulación entre empresa, academia y Estado.",
+            "goal": "Incrementar el peso tecnológico al 2030.",
+            "indicator": "Porcentaje de valor agregado de actividades de tecnología media y alta."
+          },
+          {
+            "problem": "Alta informalidad, subempleo y baja productividad urbana.",
+            "objective": "Promover inversión, formalización, empleo de calidad y fortalecimiento de MYPE.",
+            "goal": "Incrementar la formalización laboral y empresarial, contribuyendo a alcanzar 40% de empleo formal al 2030.",
+            "indicator": "Tasa de PEA ocupada formalmente. Número de unidades económicas formalizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente segregación, reciclaje y valorización de residuos sólidos.",
+            "objective": "Mejorar la calidad ambiental mediante fiscalización, monitoreo ambiental, movilidad sostenible y tecnologías limpias.",
+            "goal": "Lograr que más del 50% de familias urbanas segreguen residuos al 2030.",
+            "indicator": "Porcentaje de hogares que segregan residuos. Toneladas de residuos valorizados."
+          },
+          {
+            "problem": "Contaminación del aire por emisiones vehiculares, congestión y actividades urbanas.",
+            "objective": "Mejorar la calidad ambiental mediante fiscalización, monitoreo ambiental, movilidad sostenible y tecnologías limpias.",
+            "goal": "Implementar monitoreo ambiental en las 5 unidades territoriales metropolitanas y reducir progresivamente la contaminación.",
+            "indicator": "Índice de contaminación del aire. Número de zonas con monitoreo ambiental."
+          },
+          {
+            "problem": "Déficit de áreas verdes, degradación de lomas y vulnerabilidad ambiental.",
+            "objective": "Proteger ecosistemas estratégicos, recuperar lomas, ampliar áreas verdes y fortalecer la resiliencia climática.",
+            "goal": "Incrementar el área verde por habitante al 2030, priorizando zonas con mayor déficit.",
+            "indicator": "Ratio de área verde por habitante. Número de ecosistemas recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escasa rendición de cuentas y limitada participación ciudadana.",
+            "objective": "Consolidar un sistema de gobierno abierto, control ciudadano y seguimiento público del cumplimiento del plan.",
+            "goal": "Publicar avances trimestrales y realizar audiencias públicas semestrales de rendición de cuentas.",
+            "indicator": "Número de audiencias públicas. Porcentaje de avance publicado de metas del plan."
+          },
+          {
+            "problem": "Corrupción, trámites presenciales, discrecionalidad e ineficiencia administrativa.",
+            "objective": "Modernizar la gestión pública mediante gobierno digital, simplificación administrativa, integridad y transparencia.",
+            "goal": "Digitalizar progresivamente el 100% de trámites municipales priorizados al 2030.",
+            "indicator": "Porcentaje de trámites digitalizados. Número de procesos simplificados."
+          },
+          {
+            "problem": "Baja confianza ciudadana y débil gobernanza metropolitana.",
+            "objective": "Fortalecer la gestión metropolitana mediante coordinación interdistrital, unidades territoriales y servicios públicos eficientes.",
+            "goal": "Implementar 5 unidades territoriales metropolitanas y superar el 44% de confianza ciudadana.",
+            "indicator": "Porcentaje de confianza ciudadana. Número de unidades territoriales implementadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-143767",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "5° JUZGADO DE PAZ LETRADO",
+        "expediente": "08796-2015",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq",
+      "sha256": "1028a1b89c1df1fd9c891d81dd66cb5228535512b4e919cc587e823b97063112",
+      "accessedAt": "2026-10-02T22:49:22.294Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022695",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022695",
+      "sha256": "e82eb3687fee6be5b806f471b1bcfab0d8e9d54c1e99e17017b3a48e73f3863b",
+      "accessedAt": "2026-10-02T22:49:22.915Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

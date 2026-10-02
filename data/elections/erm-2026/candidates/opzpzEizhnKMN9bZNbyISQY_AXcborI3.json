@@ -1,0 +1,288 @@
+{
+  "id": "opzpzEizhnKMN9bZNbyISQY_AXcborI3",
+  "slug": "elizabeth-nancy-cabezas-flores",
+  "electionId": "erm-2026",
+  "name": "Elizabeth Nancy Cabezas Flores",
+  "givenNames": "Elizabeth Nancy",
+  "surnames": "Cabezas Flores",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:04.546Z",
+      "sourceId": "jne-hv-opzpzEizhnKMN9bZNbyISQY_AXcborI3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "SENATI",
+        "program": "ADMINISTRACIÓN INDUSTRIAL",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.R.L.",
+        "program": "LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.R.L.",
+        "program": "BACHILLER EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2020"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ATE",
+      "role": "REGIDORA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "ORO GAS PERÚ S.A.C.",
+      "role": "ADMINISTRACIÓN",
+      "from": "2014",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA MOLINA",
+      "role": "ASISTENTE ADMINISTRATIVA ALCALDIA, PROCURADURIA",
+      "from": "2007",
+      "to": "2014"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PODEMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 58817.94,
+        "public": 45257.94,
+        "private": 13560
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 0
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/21e6aa73-7826-458e-843a-342a53e7658c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/db94a5f6-c403-4426-95df-4ebce58f0f73.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Baja calidad de los aprendizajes en comprensión lectora y razonamiento matemático.",
+            "objective": "Promover el acceso a espacios complementarios de aprendizaje con equipamiento educativo adecuado.",
+            "goal": "Beneficiar a 40 instituciones educativas.",
+            "indicator": "Número de instituciones educativas beneficiadas."
+          },
+          {
+            "problem": "Limitada cobertura de atención y prevención de los trastornos de salud mental.",
+            "objective": "Incrementar la cobertura de acciones de prevención y atención de la salud mental, especialmente en la población vulnerable.",
+            "goal": "Incrementar en 50% la cobertura de atención preventiva en salud mental.",
+            "indicator": "Número de personas atendidas en actividades de promoción y prevención de salud mental."
+          },
+          {
+            "problem": "Alta prevalencia de anemia en niños menores de 3 años.",
+            "objective": "Reducir la prevalencia de anemia en niños menores de 3 años.",
+            "goal": "Reducir la prevalencia de anemia infantil por debajo del 10%.",
+            "indicator": "Porcentaje de niños menores de 3 años con anemia."
+          },
+          {
+            "problem": "Altos índices de inseguridad ciudadana en el distrito.",
+            "objective": "Reducir los niveles de inseguridad ciudadana.",
+            "goal": "El 100% de los serenos y vehículos utilizan la georreferenciación. Incrementar en 100% los patrullajes integrados respecto al año 2026.",
+            "indicator": "Porcentaje de serenos y vehículos conectados al sistema de georreferenciación. Número de patrullajes integrados realizados por mes."
+          },
+          {
+            "problem": "Deterioro y abandono del patrimonio arqueológico del distrito.",
+            "objective": "Recuperar, poner en valor y conservar el patrimonio arqueológico.",
+            "goal": "Lograr la aprobación del Plan Maestro por el Ministerio de Cultura, recuperar al menos 5 sitios arqueológicos y construir 16 cercos perimétricos.",
+            "indicator": "Estado de evaluación del Plan Maestro por el Ministerio de Cultura. Número de huacas recuperadas y puestas en valor. Número de cercos perimétricos construidos en las huacas."
+          },
+          {
+            "problem": "Abandono municipal a los vecinos y dirigentes en sus gestiones de servicios básicos.",
+            "objective": "Acercar la municipalidad a los vecinos, fortaleciendo la gestión y articulación institucional para acelerar el acceso a servicios básicos y mejorar la calidad de vida de las familias de Ate.",
+            "goal": "Atender al 100% de las organizaciones vecinales que requieran apoyo para la gestión de servicios básicos.",
+            "indicator": "Número de organizaciones vecinales beneficiadas con asistencia técnica y acompañamiento municipal. Número de viviendas beneficiadas con servicios básicos gestionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja capacidad de crecimiento en los negocios familiares manufactureros.",
+            "objective": "Potenciar la competitividad de las micro y pequeñas empresas (MYPES) manufactureras de Ate.",
+            "goal": "Intervenir y fortalecer las capacidades comerciales de 5,000 MYPES manufactureras.",
+            "indicator": "Número de MYPES manufactureras que participan en ferias, ruedas de negocios y reciben asistencia técnica financiera."
+          },
+          {
+            "problem": "Alta dependencia del subempleo informal en el sector de comercio y mecánica vehicular.",
+            "objective": "Mejorar las capacidades productivas de los hogares y fortalecer la resiliencia del empleo en el comercio y la mecánica.",
+            "goal": "Formalizar y capacitar a un mínimo de 10,000 comerciantes locales y técnicos de reparación vehicular.",
+            "indicator": "Número de comerciantes y técnicos de reparación vehicular formalizados y capacitados anualmente."
+          },
+          {
+            "problem": "Escasas oportunidades de inserción laboral para los jóvenes debido a la falta de experiencia.",
+            "objective": "Incrementar las oportunidades de empleabilidad e inserción laboral de los jóvenes sin experiencia mediante programas de capacitación e intermediación laboral.",
+            "goal": "Insertar a 10,000 jóvenes en empleos.",
+            "indicator": "Número de jóvenes insertados laboralmente mediante convenios con empresas."
+          },
+          {
+            "problem": "Abusos y falta de transparencia en los procedimientos de fiscalización de licencias de funcionamiento.",
+            "objective": "Promover un entorno favorable para el desarrollo de las actividades económicas mediante una fiscalización municipal transparente, preventiva y razonable.",
+            "goal": "El 100% de los procedimientos de fiscalización serán resueltos conforme al debido procedimiento y se aprobará el 100% de las normativas necesarias.",
+            "indicator": "Porcentaje de procedimientos de fiscalización resueltos conforme al debido procedimiento. Porcentaje de normativas modificadas o aprobadas."
+          },
+          {
+            "problem": "Brecha laboral y desempleo de mujeres en situación de vulnerabilidad.",
+            "objective": "Promover la inclusión económica y la inserción laboral de las mujeres desempleadas en el mercado productivo formal.",
+            "goal": "Lograr que 4,000 mujeres desocupadas sean insertadas o reconvertidas laboralmente.",
+            "indicator": "Número de mujeres desocupadas del distrito insertadas laboralmente o con reconversión laboral exitosa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente manejo de los residuos sólidos en el distrito.",
+            "objective": "Optimizar el sistema de recolección, transporte y disposición final de residuos sólidos municipales, garantizando la cobertura y la erradicación de puntos críticos de acumulación.",
+            "goal": "Alcanzar el 100% de cobertura de recolección eficiente y comprar 30 camiones compactadores recolectores de residuos sólidos.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos sólidos domiciliarios. Número de camiones compactadores comprados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios de recreación.",
+            "objective": "Incrementar la disponibilidad de espacios públicos y recreativos por habitante, promoviendo la cohesión social y la resiliencia climática urbana.",
+            "goal": "Incrementar el índice de áreas verdes por habitante de 3.16 m² a 4.50 m² para el año 2030.",
+            "indicator": "Índice de metros cuadrados de área verde urbana por habitante (m²/hab.)."
+          },
+          {
+            "problem": "Alto nivel de contaminación del aire por material particulado.",
+            "objective": "Mitigar los niveles de contaminación atmosférica mediante el monitoreo preventivo y la regulación del transporte y actividades comerciales.",
+            "goal": "Lograr la fiscalización e inspección del 100% de las empresas con riesgo de emisión de material particulado.",
+            "indicator": "Porcentaje de industrias y comercios locales que operan bajo los Límites Máximos Permisibles (LMP) de emisiones de gases."
+          },
+          {
+            "problem": "Alto nivel de contaminación sonora en el distrito.",
+            "objective": "Controlar y reducir la contaminación acústica urbana mediante la fiscalización y el ordenamiento de las actividades comerciales y de transporte.",
+            "goal": "Reducir y mantener bajo control el 90% de los puntos críticos de ruido priorizados en el distrito.",
+            "indicator": "Porcentaje de puntos críticos de ruido monitoreados que se mantienen dentro de los Estándares de Calidad Ambiental (ECA) para Ruido."
+          },
+          {
+            "problem": "Ocupación informal de espacios públicos que afecta la transitabilidad.",
+            "objective": "Recuperar, liberar y sostener la transitabilidad de las vías públicas, aceras y áreas de recreación mediante acciones de control urbano y fiscalización.",
+            "goal": "Recuperar y sostener 10 kilómetros lineales de vías y áreas públicas de alta congestión comercial y peatonal.",
+            "indicator": "Kilómetros o metros cuadrados de vías y espacios públicos recuperados y libres de ocupación informal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza de los vecinos y poca transparencia en el uso de los recursos públicos por parte de las autoridades y funcionarios municipales.",
+            "objective": "Recuperar la confianza de los vecinos de Ate mediante una gestión honesta, transparente y comprometida con la rendición de cuentas y la defensa de los recursos públicos.",
+            "goal": "Incrementar en 30% el nivel de confianza ciudadana. Implementar el 100% de las recomendaciones de auditorías. Publicar el 100% de los informes de auditoría de acceso público.",
+            "indicator": "Porcentaje de vecinos que manifiestan confianza en la gestión municipal. Porcentaje de cumplimiento de las recomendaciones de los órganos de control. Porcentaje de informes de auditoría difundidos."
+          },
+          {
+            "problem": "Deficiente ejecución presupuestal de la Municipalidad de Ate.",
+            "objective": "Fortalecer la capacidad de gestión y la ejecución del presupuesto para garantizar el cumplimiento oportuno de las inversiones, proyectos y servicios.",
+            "goal": "Lograr el 100% de ejecución (devengado) del presupuesto institucional modificado municipal.",
+            "indicator": "Porcentaje de ejecución del Presupuesto Institucional Modificado (PIM)."
+          },
+          {
+            "problem": "Quejas vecinales sobre abuso y malas prácticas de los inspectores y fiscalizadores municipales.",
+            "objective": "Garantizar una actuación justa y transparente de los inspectores y fiscalizadores municipales.",
+            "goal": "El 100% de los inspectores y fiscalizadores utilizarán el sistema de georreferenciación. El 100% de los inspectores y fiscalizadores estarán certificados.",
+            "indicator": "Porcentaje de inspectores y fiscalizadores conectados al sistema de georreferenciación. Porcentaje de inspectores y fiscalizadores certificados por la Escuela municipal."
+          },
+          {
+            "problem": "Baja participación ciudadana en los mecanismos de deliberación y decisión.",
+            "objective": "Garantizar un incremento efectivo de la participación de los ciudadanos en la toma de decisiones de la gestión colectiva.",
+            "goal": "Incrementar en 50% la participación ciudadana, ejecutar el 100% de los proyectos del presupuesto participativo y desarrollar dos audiencias públicas de rendición de cuentas al año.",
+            "indicator": "Número de ciudadanos que participan en procesos de presupuestos participativos. Porcentaje de proyectos de inversión del presupuesto participativo ejecutados. Número de rendiciones de cuentas ejecutadas."
+          },
+          {
+            "problem": "Procesos administrativos lentos y trámites parcialmente digitalizados.",
+            "objective": "Modernizar la administración municipal para brindar servicios oportunos y de calidad mediante la transformación digital y el acceso total a Internet.",
+            "goal": "Reducir en 50% el tiempo de atención de los trámites, alcanzar la digitalización del 100% de los trámites del TUPA y eliminar el 100% de las barreras burocráticas identificadas por INDECOPI.",
+            "indicator": "Tiempo promedio en atención de un trámite del TUPA. Porcentaje total de trámites digitalizados. Porcentaje de barreras burocráticas eliminadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-opzpzEizhnKMN9bZNbyISQY_AXcborI3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/opzpzEizhnKMN9bZNbyISQY_AXcborI3",
+      "sha256": "8e6a9d16802144322d48f13fbc5804ae91f703903649ff563c3c5468909809a6",
+      "accessedAt": "2026-10-02T22:51:04.546Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017899",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017899",
+      "sha256": "aebfc68b9bf7bac12c847b58009d8ba8de111466da1ac3222d558247e43b39dc",
+      "accessedAt": "2026-10-02T22:51:05.036Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

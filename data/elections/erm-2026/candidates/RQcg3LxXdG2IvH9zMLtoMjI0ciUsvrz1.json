@@ -1,0 +1,463 @@
+{
+  "id": "RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1",
+  "slug": "marcelino-huaman-cano",
+  "electionId": "erm-2026",
+  "name": "Marcelino Huaman Cano",
+  "givenNames": "Marcelino",
+  "surnames": "Huaman Cano",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:37.464Z",
+      "sourceId": "jne-hv-RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO Y CIENCIA POLITICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MHC & ABOGADOS-CONSULTORES SOCIEDAD ANONIMA CERRADA",
+      "role": "ABOGADO",
+      "from": "2002",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2003",
+      "to": "2006"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO NACIONAL DE ASUNTOS LABORALES",
+      "party": "ACCION POPULAR",
+      "from": "2007",
+      "to": "2009"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO PERU PRIMERO",
+      "year": "2024"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 1800,
+        "public": 0,
+        "private": 1800
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 8938.2,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 32551.6,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "NISSAN MARCH AZUL",
+        "value": 7000
+      },
+      {
+        "type": "SUZUKI CALERIO COLOR PLATA",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES Y SERVICIOS GENERALES MARCELINO Y PAOLA PERU SOCIEDAD ANONIMA CERRADA",
+        "type": "ACCIONES",
+        "quantity": 1200,
+        "value": 1
+      },
+      {
+        "company": "MASSTER CAR S.A.C",
+        "type": "ACCIONES",
+        "quantity": 2000,
+        "value": 1
+      },
+      {
+        "company": "MHC & ABOGADOS-CONSULTORES SOCIEDAD ANONIMA CERRADA",
+        "type": "ACCIONES",
+        "quantity": 40999,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/164c222c-2278-4e5a-8c97-cd8339bc5d9d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2d408165-2d72-4056-b7db-3050ba79dd95.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Población vulnerable sin acceso a programas sociales.",
+            "objective": "Gestionar e implementar proyectos sociales para niñez, adultos mayores, mujeres, jóvenes y personas con discapacidad.",
+            "goal": "Mayor acceso a programas sociales al 2030.",
+            "indicator": "Población beneficiaria."
+          },
+          {
+            "problem": "Pobreza y pobreza extrema en zonas vulnerables.",
+            "objective": "Implementar programas de lucha contra la pobreza y acceso a servicios básicos.",
+            "goal": "Reducción de pobreza y mejora de servicios básicos.",
+            "indicator": "Personas incorporadas a programas."
+          },
+          {
+            "problem": "Falta de bibliotecas municipales.",
+            "objective": "Implementar bibliotecas sectoriales.",
+            "goal": "Mejor acceso a educación.",
+            "indicator": "Bibliotecas implementadas."
+          },
+          {
+            "problem": "Ausencia de Plaza de Armas distrital.",
+            "objective": "Gestionar construcción.",
+            "goal": "Nuevo espacio cívico.",
+            "indicator": "Proyecto ejecutado."
+          },
+          {
+            "problem": "Ausencia de Casa de la Mujer y discapacidad.",
+            "objective": "Gestionar infraestructura y social.",
+            "goal": "Inclusión social fortalecida.",
+            "indicator": "Centros implementados."
+          },
+          {
+            "problem": "Problemas de transporte y accesibilidad.",
+            "objective": "Formalización y reordenamiento vehicular.",
+            "goal": "Mejor movilidad urbana.",
+            "indicator": "Acciones implementadas."
+          },
+          {
+            "problem": "Inseguridad ciudadana.",
+            "objective": "Fortalecer videovigilancia y seguridad integral.",
+            "goal": "Reducción de delitos.",
+            "indicator": "Equipos y patrullaje."
+          },
+          {
+            "problem": "Infraestructura educativa deficiente.",
+            "objective": "Gestionar proyectos de mejoramiento educativo.",
+            "goal": "Mejora de infraestructura educativa.",
+            "indicator": "Instituciones intervenidas."
+          },
+          {
+            "problem": "Déficit de acceso a educación superior.",
+            "objective": "Convenios con universidades e institutos.",
+            "goal": "Más oportunidades educativas.",
+            "indicator": "Convenios suscritos."
+          },
+          {
+            "problem": "Deficiente iluminación de espacios públicos.",
+            "objective": "Mejorar iluminación de calles, parques y losas.",
+            "goal": "Mayor seguridad ciudadana.",
+            "indicator": "Espacios iluminados."
+          },
+          {
+            "problem": "Alcoholismo y drogadicción juvenil.",
+            "objective": "Programas de reinserción y prevención.",
+            "goal": "Reducción de conductas de riesgo.",
+            "indicator": "Beneficiarios atendidos."
+          },
+          {
+            "problem": "Limitada infraestructura deportiva y cultural.",
+            "objective": "Implementar complejos, losas e infraestructura cultural.",
+            "goal": "Mayor acceso al deporte y cultura.",
+            "indicator": "Infraestructura ejecutada."
+          },
+          {
+            "problem": "Ausencia de auxilio rápido.",
+            "objective": "Adquisición de ambulancias municipales.",
+            "goal": "Atención oportuna de emergencias.",
+            "indicator": "Ambulancias operativas."
+          },
+          {
+            "problem": "Problemas de salud pública por población canina.",
+            "objective": "Implementar clínica veterinaria municipal.",
+            "goal": "Reducción de riesgos sanitarios.",
+            "indicator": "Campañas veterinarias."
+          },
+          {
+            "problem": "Ausencia de centros de rehabilitación.",
+            "objective": "Gestionar clínica de rehabilitación e hidroterapia.",
+            "goal": "Atención especializada disponible.",
+            "indicator": "Infraestructura implementada."
+          },
+          {
+            "problem": "Deficiente equipamiento de establecimientos de salud.",
+            "objective": "Convenios con MINSA y sector privado.",
+            "goal": "Mejora de atención al usuario.",
+            "indicator": "Centros fortalecidos."
+          },
+          {
+            "problem": "Deficiencias en salud preventiva.",
+            "objective": "Campañas médicas y convenios con entidades de salud.",
+            "goal": "Mayor cobertura preventiva.",
+            "indicator": "Campañas ejecutadas."
+          },
+          {
+            "problem": "Desnutrición infantil y anemia.",
+            "objective": "Campañas periódicas de salud y nutrición.",
+            "goal": "Reducción de anemia infantil.",
+            "indicator": "Niños atendidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja competitividad empresarial.",
+            "objective": "Capacitación y fortalecimiento empresarial.",
+            "goal": "Mayor competitividad.",
+            "indicator": "Empresarios capacitados."
+          },
+          {
+            "problem": "Comercio informal.",
+            "objective": "Promover formalización comercial.",
+            "goal": "Incremento de formalización.",
+            "indicator": "Negocios formalizados."
+          },
+          {
+            "problem": "Deficiente infraestructura de mercados.",
+            "objective": "Promover inversión pública y privada.",
+            "goal": "Mercados modernizados.",
+            "indicator": "Proyectos ejecutados."
+          },
+          {
+            "problem": "Escasas oportunidades de empleo.",
+            "objective": "Articular oportunidades laborales y emprendimiento.",
+            "goal": "Mayor empleo e ingresos.",
+            "indicator": "Personas beneficiadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de infraestructura urbana.",
+            "objective": "Gestionar proyectos de infraestructura pública.",
+            "goal": "Mayor acceso a infraestructura.",
+            "indicator": "Proyectos ejecutados."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos.",
+            "objective": "Fortalecer segregación, recolección y valorización.",
+            "goal": "25% de residuos aprovechables valorizados.",
+            "indicator": "% residuos valorizados."
+          },
+          {
+            "problem": "Contaminación por acumulación y quema de residuos.",
+            "objective": "Implementar proyectos ambientales integrales.",
+            "goal": "75% de cobertura de limpieza pública.",
+            "indicator": "Cobertura de limpieza."
+          },
+          {
+            "problem": "Déficit de maquinaria para limpieza pública.",
+            "objective": "Renovar parque automotor.",
+            "goal": "Mejor frecuencia de recolección.",
+            "indicator": "Vehículos adquiridos."
+          },
+          {
+            "problem": "Déficit de áreas verdes.",
+            "objective": "Recuperar parques y áreas verdes.",
+            "goal": "Incremento de áreas verdes.",
+            "indicator": "m² recuperados."
+          },
+          {
+            "problem": "Deficiente catastro distrital.",
+            "objective": "Implementar catastro distrital.",
+            "goal": "Mejor gestión territorial.",
+            "indicator": "Catastro actualizado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada promoción de inversión privada.",
+            "objective": "Articular proyectos APP y OxI.",
+            "goal": "Mayor inversión privada.",
+            "indicator": "Proyectos promovidos."
+          },
+          {
+            "problem": "Excesiva burocracia.",
+            "objective": "Implementar gestión por procesos.",
+            "goal": "Mejora continua institucional.",
+            "indicator": "Fases implementadas."
+          },
+          {
+            "problem": "Débil capacidad para captar financiamiento.",
+            "objective": "Participar en fondos concursables.",
+            "goal": "5 proyectos de gran envergadura.",
+            "indicator": "Proyectos presentados."
+          },
+          {
+            "problem": "Déficit de control e integridad.",
+            "objective": "Implementar modelo de integridad institucional.",
+            "goal": "Gestión transparente.",
+            "indicator": "Acciones implementadas."
+          },
+          {
+            "problem": "Limitada participación ciudadana.",
+            "objective": "Fortalecer presupuesto participativo y espacios de concertación.",
+            "goal": "5% de participación al 2030.",
+            "indicator": "Participantes."
+          },
+          {
+            "problem": "Deficiente acceso a información pública.",
+            "objective": "Implementar mecanismos de transparencia.",
+            "goal": "Ciudadanía informada.",
+            "indicator": "Audiencias e informes."
+          },
+          {
+            "problem": "Normas obsoletas y trámites lentos.",
+            "objective": "Digitalización y simplificación administrativa.",
+            "goal": "Reducción de tiempos.",
+            "indicator": "Tiempo de atención."
+          },
+          {
+            "problem": "Instrumentos de gestión desactualizados.",
+            "objective": "Actualizar ROF, CAP, TUPA y demás instrumentos.",
+            "goal": "90% actualizados al 2030.",
+            "indicator": "% instrumentos actualizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-137555",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: FE PUBLICA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2011-07-07",
+      "details": {
+        "materia": "FE PUBLICA",
+        "fallo": "3 AÑOS SUPENDIDA A 3",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "18AVO JUZGADO PENAL DE LIMA",
+        "expediente": "30268-2008",
+        "comentario": null
+      },
+      "quote": "FE PUBLICA · 3 AÑOS SUPENDIDA A 3 · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-penal-137554",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: FE PUBLICA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2015-04-29",
+      "details": {
+        "materia": "FE PUBLICA",
+        "fallo": "3 AÑOS SUSPENDIDA A 2",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "2DO JUZGADO PENAL V.M.T.",
+        "expediente": "582-2010",
+        "comentario": null
+      },
+      "quote": "FE PUBLICA · 3 AÑOS SUSPENDIDA A 2 · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-140824",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "JUZGADO DE PAZ LETRADO DE VILLA EL SALVADOR",
+        "expediente": "875-2012",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1",
+      "sha256": "f9158bdc60fac7d70999f38596674e96587ab9f25e0af96f46f33af5758967e0",
+      "accessedAt": "2026-10-02T23:06:37.464Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018552",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018552",
+      "sha256": "8f209428c0c8944748b33ed033a066da4f139e02f38e1f86ae4f20b0ea2884ba",
+      "accessedAt": "2026-10-02T23:06:37.940Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

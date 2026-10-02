@@ -1,0 +1,240 @@
+{
+  "id": "28CGQv5wDT84SBesYZvW86L4wZdVvS7u",
+  "slug": "maria-del-pilar-albarracin-valverde",
+  "electionId": "erm-2026",
+  "name": "Maria Del Pilar Albarracin Valverde",
+  "givenNames": "Maria Del Pilar",
+  "surnames": "Albarracin Valverde",
+  "age": 55,
+  "gender": "Femenino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:10.803Z",
+      "sourceId": "jne-hv-28CGQv5wDT84SBesYZvW86L4wZdVvS7u"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "Instituto Superior Tecnológico Argentina",
+        "program": "Tecnico Contable",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "INCA GARCILASO DE LA VEGA",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD MAYOR DE SAN MARCOS",
+        "program": "BANCA Y FINANZAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Maria Josefa Patricia de las Casas Samoje",
+      "role": "Asesorias contables",
+      "from": "2015",
+      "to": "2025"
+    },
+    {
+      "employer": "Corporación Mozalbete SAC",
+      "role": "Contador",
+      "from": "2018",
+      "to": "2021"
+    },
+    {
+      "employer": "BARBIERI ASOCIADOS SAC",
+      "role": "Contador",
+      "from": "2006",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2009"
+    },
+    {
+      "party": "PARTIDO POLÍTICO FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 50445,
+        "public": 0,
+        "private": 50445
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 81898,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Mototaxi",
+        "value": 3000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ASESORES CONSULTORES ALBAYA SAC",
+        "type": "ACCIONES",
+        "quantity": 2750,
+        "value": 2750
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/931fb057-b9b5-4630-8a78-9faaa2f1b8e9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b567c6d1-2c47-48ec-b645-93bff0c52db7.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Congestión vehicular generalizada que afecta la calidad de vida, la salud y la economía de los residentes, originada por un sistema de transporte inadecuado, mala planificación vial y falta de accesos vehiculares.",
+            "objective": "Mejorar la movilidad urbana mediante la sistematización de la semaforización, el reordenamiento del transporte público, la mejora de la infraestructura vial y la creación de nuevas opciones de estacionamiento.",
+            "goal": "Implementar un sistema de semáforos con olas verdes, reorganizar las rutas de buses, crear nuevos estacionamientos públicos y subterráneos, e impulsar el uso de parquímetros y medios de transporte de menor impacto ambiental.",
+            "indicator": "Número de semáforos sincronizados en un sistema integrado. Cantidad de nuevas rutas de transporte implementadas. Número de nuevos estacionamientos creados. Porcentaje de uso de parquímetros."
+          },
+          {
+            "problem": "Elevados niveles de inseguridad ciudadana en el distrito, con un incremento sostenido en la frecuencia de delitos como hurtos, robos y asaltos, y una alta cifra de no denuncia.",
+            "objective": "Reducir los niveles de inseguridad ciudadana a través de la planificación de estrategias focalizadas, el fortalecimiento del monitoreo y la implementación de un sistema de indicadores para medir la efectividad de las acciones.",
+            "goal": "Promover la creación de una fiscalía móvil, modernizar el serenazgo con armas no letales y unidades inteligentes, y ejecutar campañas de prevención y sensibilización en coordinación con la comunidad organizada.",
+            "indicator": "Tasa de victimización del distrito. Porcentaje de percepción de inseguridad. Número de intervenciones realizadas por las unidades móviles inteligentes. Cantidad de participantes en campañas de prevención."
+          },
+          {
+            "problem": "Servicios de salud insuficientes y de acceso limitado para los vecinos, con un centro de salud que presenta infraestructura precaria, equipamiento obsoleto e incapacidad para atender la demanda de la población.",
+            "objective": "Garantizar el acceso a servicios de salud de calidad para todos los vecinos mediante la creación de un Policlínico Municipal que ofrezca múltiples especialidades y atención de emergencia.",
+            "goal": "Gestionar la creación y equipamiento del Policlínico Municipal, el cual contará con servicios de Geriatría, Pediatría y Emergencia 24 horas, complementado con programas de atención virtual y una farmacia con medicamentos a costo social.",
+            "indicator": "Puesta en funcionamiento del Policlínico Municipal. Número de atenciones realizadas en las especialidades de Geriatría y Pediatría. Cobertura del servicio de emergencia 24 horas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado apoyo por parte de las instituciones públicas y privadas a los emprendimientos locales, evidenciado en la escasez de oportunidades, la falta de acceso a educación técnica y condiciones laborales desfavorables.",
+            "objective": "Fomentar el desarrollo de emprendimientos locales a través de la implementación de herramientas tecnológicas, la organización de ferias y la provisión de asesoramiento técnico y de gestión.",
+            "goal": "Crear una aplicación móvil municipal para promocionar negocios locales, organizar ferias itinerantes, ofrecer asesoramiento integral y desarrollar programas de liderazgo para emprendedores.",
+            "indicator": "Número de emprendedores registrados y promocionados en la aplicación móvil municipal. Cantidad de ferias itinerantes para emprendedores realizadas. Número de emprendedores que reciben asesoramiento técnico, contable y de marketing."
+          },
+          {
+            "problem": "Altos niveles de desempleo y subempleo que afectan principalmente a la población joven y adulta del distrito, limitando sus oportunidades de desarrollo profesional y económico.",
+            "objective": "Generar y promover oportunidades laborales para los jóvenes y adultos del distrito, asegurando su inserción en el mercado laboral y fomentando la contratación local.",
+            "goal": "Asegurar el primer empleo para los jóvenes a través de la bolsa de trabajo municipal, gestionar convenios para la búsqueda de empleos y ofertas laborales, e incentivar con beneficios tributarios a las empresas que contraten a vecinos del distrito.",
+            "indicator": "Número de jóvenes incorporados al mercado laboral a través de la bolsa de trabajo municipal. Cantidad de convenios de cooperación suscritos con el Ministerio de Trabajo. Número de empresas que acceden a beneficios tributarios por contratar a vecinos."
+          },
+          {
+            "problem": "Existencia de trabas burocráticas y requisitos excesivos en la entrega de licencias de funcionamiento y permisos de defensa civil, lo que dificulta la formalización de negocios y genera un ambiente propicio para la corrupción.",
+            "objective": "Agilizar y simplificar los procesos para la obtención de licencias de funcionamiento y defensa civil, promoviendo la formalización de negocios de bajo riesgo y eliminando barreras burocráticas.",
+            "goal": "Aplicar una zonificación flexible, otorgar licencias de funcionamiento inmediatas en 24 horas para negocios de bajo riesgo, simplificar la documentación requerida, ofrecer asesoramiento municipal gratuito y habilitar la virtualidad en los trámites.",
+            "indicator": "Reducción del tiempo promedio para la obtención de licencias de funcionamiento. Número de licencias para negocios de bajo riesgo emitidas en 24 horas. Porcentaje de trámites de licencia realizados de forma virtual."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Depredación de las áreas verdes del Campo de Marte, pulmón principal del distrito, a causa de un proyecto de remodelación mal diseñado que ha provocado la muerte de árboles y puesto en riesgo a la fauna local.",
+            "objective": "Recuperar integralmente el ecosistema del Campo de Marte, frenando el daño actual y estableciendo mecanismos de protección y monitoreo a largo plazo.",
+            "goal": "Declarar en emergencia ambiental y administrativa el Campo de Marte para actuar de forma inmediata, ampliar el riego tecnificado y crear un observatorio ambiental que monitoree las áreas verdes, la calidad del aire y la biodiversidad del distrito.",
+            "indicator": "Declaratoria de emergencia ambiental y administrativa para el Campo de Marte. Número de árboles recuperados y fauna rescatada. Publicación trimestral de indicadores del Observatorio Ambiental."
+          },
+          {
+            "problem": "Proliferación de edificaciones de gran altura y aumento del tráfico vehicular, lo que pone en riesgo la salud, altera los microclimas, incrementa la contaminación y reduce los espacios verdes disponibles.",
+            "objective": "Regular el crecimiento urbano vertical para equilibrarlo con la protección ambiental, mitigando los impactos negativos de las construcciones de gran altura.",
+            "goal": "Establecer un límite de altura para nuevas edificaciones, exigir la inclusión de componentes ambientales como techos verdes y sistemas de reúso de agua en todo proyecto, e implementar un plan de arborización enfocado en las zonas de mayor densidad constructiva.",
+            "indicator": "Establecimiento de una normativa de límites de altura para nuevas edificaciones. Porcentaje de nuevos proyectos de construcción que incluyen techos verdes o jardines verticales. Extensión del plan de arborización implementado."
+          },
+          {
+            "problem": "Inadecuado manejo de los residuos sólidos tanto en la zona comercial como en el resto del distrito, lo que genera contaminación y afecta la imagen urbana.",
+            "objective": "Mejorar el sistema de gestión de residuos sólidos en todo el distrito, implementando infraestructura moderna y promoviendo prácticas de reducción y reutilización.",
+            "goal": "Implementar contenedores de basura subterráneos, impulsar planes de valorización de residuos como la 'venta de cochera' y continuar con la instalación de tachos ecológicos y para mascotas en el damero comercial y áreas residenciales.",
+            "indicator": "Número de contenedores de basura subterráneos instalados. Frecuencia y participación en el plan 'venta de cochera'. Cantidad de tachos de basura ecológicos y 'Petfriendly' instalados en zonas estratégicas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de procesos judiciales que constituyen una carga significativa para la gestión municipal, originados por presuntos actos de corrupción y observaciones no resueltas en contratos de gestiones anteriores.",
+            "objective": "Reducir la carga procesal y fortalecer la lucha contra la corrupción, promoviendo la transparencia y la resolución de conflictos de manera eficiente.",
+            "goal": "Impulsar peritajes y auditorías financieras a gestiones anteriores, promover la conciliación para resolver procesos judiciales sin afectar los intereses del distrito y garantizar la participación de los órganos de control en la gestión municipal.",
+            "indicator": "Número de peritajes contables y auditorías financieras realizadas a gestiones pasadas. Porcentaje de procesos judiciales resueltos mediante conciliación. Participación activa de las instancias de control en la gestión."
+          },
+          {
+            "problem": "Canales de transparencia y acceso a la información pública limitados, especialmente en lo referente a contrataciones, presupuesto y ejecución financiera de la municipalidad.",
+            "objective": "Fortalecer la transparencia y el acceso a la información pública mediante el desarrollo de canales digitales y mecanismos de participación ciudadana.",
+            "goal": "Implementar herramientas digitales para transparentar la información de adquisiciones y viáticos, transmitir en vivo todas las sesiones de concejo, realizar sesiones descentralizadas y publicar informes mensuales sobre la labor de fiscalización de los regidores.",
+            "indicator": "Implementación de plataformas digitales para la consulta de adquisiciones y gastos. Porcentaje del total de sesiones de concejo transmitidas en vivo. Número de sesiones de concejo descentralizadas realizadas."
+          },
+          {
+            "problem": "Deficiencia y riesgo en la continuidad de los servicios municipales al término de las gestiones salientes, debido al incumplimiento de obligaciones pactadas con proveedores y personal.",
+            "objective": "Asegurar la continuidad y calidad de los servicios públicos durante los periodos de transición de gobierno, garantizando el cumplimiento de las obligaciones y una transferencia ordenada.",
+            "goal": "Crear un fondo de contingencia para imprevistos, condicionar los pagos en contratos al cumplimiento de obligaciones laborales, emitir certificaciones mensuales de no adeudo y establecer un protocolo que facilite una transición municipal transparente y ordenada.",
+            "indicator": "Creación y mantenimiento de un fondo de contingencia equivalente al 5% de los fondos extras. Emisión mensual de constancias públicas de 'No Adeudo' al personal. Firma de actas de compromiso para la transición de gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-28CGQv5wDT84SBesYZvW86L4wZdVvS7u",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/28CGQv5wDT84SBesYZvW86L4wZdVvS7u",
+      "sha256": "1858ffccf1f62b2d6215d8f35348990637ca91ab3f80988f72f364bbf79d3e61",
+      "accessedAt": "2026-10-02T22:57:10.803Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015058",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015058",
+      "sha256": "3885223cf367a53f1d04a9a414bcf44480bc1fc39afcf46a17a4600491da1535",
+      "accessedAt": "2026-10-02T22:57:11.306Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

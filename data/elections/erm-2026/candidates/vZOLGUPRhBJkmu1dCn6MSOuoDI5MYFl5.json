@@ -1,0 +1,211 @@
+{
+  "id": "vZOLGUPRhBJkmu1dCn6MSOuoDI5MYFl5",
+  "slug": "luis-lizandro-alvitez-asalde",
+  "electionId": "erm-2026",
+  "name": "Luis Lizandro Alvitez Asalde",
+  "givenNames": "Luis Lizandro",
+  "surnames": "Alvitez Asalde",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140121",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:48.700Z",
+      "sourceId": "jne-hv-vZOLGUPRhBJkmu1dCn6MSOuoDI5MYFl5"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada Juan Pablo II S.A.C.",
+        "program": "Cirujano Dentista",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada Juan Pablo II S.A.C.",
+        "program": "Bachiller en Estomatología",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PROFESIONAL INDEPENDIENTE",
+      "role": "CIRUJANO DENTISTA",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 31955,
+        "public": 0,
+        "private": 31955
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 38371.2,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 29936,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CLINICA ALERTA 365 SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 3200,
+        "value": 3200
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/99d6a43e-dbf3-4aa6-9386-1152a93bbe46.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4302c8e5-ea9e-4d36-ad95-cf7be7021ef6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1. Deficiencia crítica en el acceso a redes públicas de agua potable y alcantarillado en zonas altas y balneario.",
+            "objective": "Instalar una Mesa Técnica Permanente con MVCS y SEDAPAL para destrabar proyectos de ampliación de redes matrices.",
+            "goal": "Alcanzar el 100% de cobertura en servicios básicos de saneamiento en el distrito.",
+            "indicator": "Porcentaje de la población distrital con acceso a agua y desagüe las 24 horas."
+          },
+          {
+            "problem": "3. Inexistencia de espacios especializados para la atención de poblaciones vulnerables y discapacidad.",
+            "objective": "Crear el Centro de Atención \"Mentes Brillantes\" (TDAH y Síndrome de Down) y la Guardería Municipal.",
+            "goal": "1 Centro \"Mentes Brillantes\" y 1 Guardería \"Madre Trabajadora\" implementados al 100%.",
+            "indicator": "Número de centros municipales especializados en funcionamiento y terapias brindadas."
+          },
+          {
+            "problem": "2. Elevados índices de anemia infantil y falta de atención médica de urgencias las 24 horas.",
+            "objective": "Implementar el Policlínico Municipal de Especialidades (urgencias 24/7) y el programa \"Punta Negra sin Anemia\".",
+            "goal": "Reducción a cero (0%) de la anemia infantil y 1 ambulancia urbana Tipo II activa 24/7.",
+            "indicator": "Tasa de anemia en niños menores de 5 años y gestantes / Número de ambulancias operativas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1. Desempleo local crónico y falta de oportunidades económicas para los residentes del distrito.",
+            "objective": "Reactivar la economía mediante el modelo de Administración Directa (\"Punta Negra Construye\") y convenios con sindicatos locales.",
+            "goal": "100% de la mano de obra no calificada en obras públicas asignada a vecinos de Punta Negra.",
+            "indicator": "Porcentaje de mano de obra local contratada en la ejecución de obra pública municipal."
+          },
+          {
+            "problem": "2. Desorden en las playas durante el verano y desaprovechamiento del potencial turístico y comercial.",
+            "objective": "Implementar el Plan \"Verano Seguro y Ordenado\", el Corredor Deportivo Costa Sur y formalizar el comercio local.",
+            "goal": "Creación de 200 empleos directos locales por temporada de verano de manera formal.",
+            "indicator": "Número de empleos estacionales directos creados / Espacios comerciales playeros regulados."
+          },
+          {
+            "problem": "3. Alta dependencia de intermediarios en la pesca artesanal y falta de infraestructura de frío.",
+            "objective": "Construir el Terminal Pesquero del Sector Sur con cadena de frío y formalizar embarcaciones ante FONDEPES.",
+            "goal": "1 Terminal Pesquero operativo y 100% de embarcaciones locales formalizadas.",
+            "indicator": "Número de pescadores artesanales formalizados y articulados a los programas sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "2. Contaminación por polvo, ruido y desgaste de vías causado por la explotación desordenada de canteras.",
+            "objective": "Regular las canteras con ordenanzas estrictas, fiscalización ambiental del aire y aplicar la Tasa de Compensación Vial.",
+            "goal": "100% de empresas mineras no metálicas reguladas y fiscalizadas bajo estándares ambientales.",
+            "indicator": "Porcentaje de canteras que cumplen con la normativa ambiental y tributaria distrital."
+          },
+          {
+            "problem": "3. Alta vulnerabilidad ante sismos o tsunamis y escasez de áreas verdes sostenibles.",
+            "objective": "Instalar el Sistema de Alerta Temprana, construir muros de contención y crear el Vivero Municipal de plantas xerófitas.",
+            "goal": "1 Red distrital de alertas funcionando y 100% de producción de plantas xerófitas para ornato.",
+            "indicator": "Número de altavoces de emergencia instalados / Metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "1. Deficiente recojo de residuos sólidos y proliferación de la plaga de moscas en zonas periféricas.",
+            "objective": "Reestructurar técnicamente las rutas de limpieza pública mediante software y fiscalizar criaderos informales.",
+            "goal": "Mantener el 100% de las calles y playas del distrito limpias de forma permanente.",
+            "indicator": "Porcentaje de la cobertura de limpieza pública eficiente los 365 días del año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "2. Desactualización del catastro urbano, generando evasión tributaria e injusticia fiscal.",
+            "objective": "Actualizar el Catastro Urbano Digital Multifinalitario para sincerar los tributos de grandes terrenos y canteras.",
+            "goal": "40% de incremento en la recaudación propia destinada al Fondo de Obras Distritales.",
+            "indicator": "Porcentaje de incremento en la recaudación de Recursos Directamente Recaudados (RDR)."
+          },
+          {
+            "problem": "1. Corrupción, burocracia lenta basada en papel y presencia de \"trabajadores fantasma\".",
+            "objective": "Implementar el Software Municipal de Gestión Integrada (SMGI) con control biométrico y trazabilidad de insumos.",
+            "goal": "100% de procesos críticos automatizados y 15% de ahorro anual en gasto corriente.",
+            "indicator": "Porcentaje de trámites digitalizados / Reducción del gasto corriente por optimización."
+          },
+          {
+            "problem": "3. Falta de equipamiento tecnológico e inseguridad ciudadana en los accesos y laderas del distrito.",
+            "objective": "Crear la Central de Monitoreo Inteligente (C-360) con cámaras LPR, patrullaje con drones y serenazgo integrado.",
+            "goal": "100% de los accesos monitoreados y 100% de patrullas con presencia policial activa.",
+            "indicator": "Porcentaje de accesos viales vigilados / Unidades de serenazgo con un efectivo PNP a bordo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vZOLGUPRhBJkmu1dCn6MSOuoDI5MYFl5",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vZOLGUPRhBJkmu1dCn6MSOuoDI5MYFl5",
+      "sha256": "ea5277b5ab11f5e91bde7fbe357ce2f75a25b4e9f15f2de4d0d2dc8c3da44bc1",
+      "accessedAt": "2026-10-02T23:01:48.700Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015155",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015155",
+      "sha256": "6af18158d7abf7be03df8d48ba89277651e67ebe6f69c4198cd4d9d98101e7f8",
+      "accessedAt": "2026-10-02T23:01:49.211Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

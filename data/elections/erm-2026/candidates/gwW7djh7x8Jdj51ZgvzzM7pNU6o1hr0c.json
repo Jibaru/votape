@@ -1,0 +1,450 @@
+{
+  "id": "gwW7djh7x8Jdj51ZgvzzM7pNU6o1hr0c",
+  "slug": "flora-maribel-fernandez-rengifo",
+  "electionId": "erm-2026",
+  "name": "Flora Maribel Fernandez Rengifo",
+  "givenNames": "Flora Maribel",
+  "surnames": "Fernandez Rengifo",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:18.204Z",
+      "sourceId": "jne-hv-gwW7djh7x8Jdj51ZgvzzM7pNU6o1hr0c"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "TITULO PROFESIONAL DE INGENIERO MECANICO ELECTRICISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "BACHILLER EN CIENCIAS CON MENCION EN INGENIERIA MECANICA Y ELECTRICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "MAESTRO EN CIENCIAS CON MENCIÓN EN ENERGÉTICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2025"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad San Martin de Porres",
+        "program": "Maestria en Gestion Publica",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "Escuela de Innovación y Management - EUCIM",
+        "program": "GERENCIA PUBLICA",
+        "completed": true,
+        "degree": "MASTER EN GERENCIA PUBLICA",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "DSE INGENIERIA SAC",
+      "role": "coordinadora de proyecto de instalaciones",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE MAGDALENA DEL MAR",
+      "role": "Especialista Ing. Mecanica Electricista",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 102000,
+        "public": 0,
+        "private": 102000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 10730,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 26335.2,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA NEGRA CROSFOX",
+        "value": 24000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSULTORIA EN INGENIERIA Y TECNOLOGIA SAC",
+        "type": "ACCIONES",
+        "quantity": 99,
+        "value": 19800
+      },
+      {
+        "company": "GRUPO EMPRESARIAL OHLALA SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 10000
+      },
+      {
+        "company": "CORPORACION KUNTUY SAC",
+        "type": "ACCIONES",
+        "quantity": 95,
+        "value": 5000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c5396ff5-ceab-492b-b425-6785eebdf11d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0b22bcbf-420c-4752-879d-7ad927abfaf5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana y percepción de inseguridad.",
+            "objective": "Implementar un Centro de Seguridad Inteligente, fortalecer la videovigilancia, el patrullaje integrado y las juntas vecinales.",
+            "goal": "Alcanzar el 100% de cobertura de videovigilancia, reducir en un 40% el tiempo de respuesta y organizar el 100% de los sectores.",
+            "indicator": "Cámaras instaladas, patrullajes ejecutados, juntas vecinales fortalecidas y tiempo de respuesta."
+          },
+          {
+            "problem": "Persistencia de la violencia familiar.",
+            "objective": "Fortalecer la Defensoría Municipal del Niño y del Adolescente (DEMUNA).",
+            "goal": "Atender el 100% de los casos y capacitar a 20,000 personas.",
+            "indicator": "Cantidad de casos atendidos y campañas realizadas."
+          },
+          {
+            "problem": "Escasa oferta deportiva y cultural en el distrito.",
+            "objective": "Implementar academias deportivas y culturales municipales.",
+            "goal": "Poner en operación 30 academias y alcanzar 20,000 beneficiarios.",
+            "indicator": "Número de academias implementadas y participantes inscritos."
+          },
+          {
+            "problem": "Débil identidad y participación ciudadana.",
+            "objective": "Establecer la Escuela Ciudadana y los Consejos Vecinales.",
+            "goal": "Organizar el 100% de los sectores y realizar 400 actividades comunitarias.",
+            "indicator": "Número de consejos vecinales activos y actividades comunitarias realizadas."
+          },
+          {
+            "problem": "Vulnerabilidad de la población de adultos mayores.",
+            "objective": "Ejecutar el programa 'Abuelos con Futuro'.",
+            "goal": "Alcanzar 8,000 beneficiarios.",
+            "indicator": "Número de adultos mayores beneficiados."
+          },
+          {
+            "problem": "Problemas de salud mental en la población.",
+            "objective": "Implementar Centros de Bienestar Emocional.",
+            "goal": "Realizar 20,000 atenciones psicológicas y 500 talleres.",
+            "indicator": "Número de atenciones psicológicas y talleres ejecutados."
+          },
+          {
+            "problem": "Limitado acceso a la salud preventiva.",
+            "objective": "Desarrollar el programa 'Santa Anita Saludable'.",
+            "goal": "Acumular 100,000 atenciones preventivas.",
+            "indicator": "Cantidad de campañas realizadas y vecinos atendidos."
+          },
+          {
+            "problem": "Escasa oferta deportiva y cultural.",
+            "objective": "Implementar academias deportivas y culturales municipales para ampliar la oferta en el distrito.",
+            "goal": "Lograr 30 academias operativas y alcanzar 20,000 beneficiarios.",
+            "indicator": "Academias implementadas; participantes inscritos."
+          },
+          {
+            "problem": "Débil identidad y participación ciudadana.",
+            "objective": "Fortalecer la participación ciudadana a través de la Escuela Ciudadana y los Consejos Vecinales.",
+            "goal": "Organizar el 100% de los sectores y realizar 400 actividades comunitarias.",
+            "indicator": "Consejos vecinales activos; actividades comunitarias."
+          },
+          {
+            "problem": "Limitado acceso a salud preventiva.",
+            "objective": "Implementar el programa 'Santa Anita Saludable' para mejorar el acceso a la salud preventiva.",
+            "goal": "Acumular 100,000 atenciones preventivas.",
+            "indicator": "Campañas realizadas; vecinos atendidos."
+          },
+          {
+            "problem": "Problemas de salud mental.",
+            "objective": "Establecer Centros de Bienestar Emocional para atender los problemas de salud mental de la población.",
+            "goal": "Realizar 20,000 atenciones psicológicas y ejecutar 500 talleres.",
+            "indicator": "Atenciones psicológicas; talleres ejecutados."
+          },
+          {
+            "problem": "Vulnerabilidad del adulto mayor.",
+            "objective": "Ejecutar el programa 'Abuelos con Futuro' para atender la vulnerabilidad del adulto mayor.",
+            "goal": "Alcanzar 8,000 beneficiarios.",
+            "indicator": "Adultos mayores beneficiados."
+          },
+          {
+            "problem": "Violencia familiar.",
+            "objective": "Fortalecer la Defensoría Municipal del Niño y del Adolescente (DEMUNA) para la atención de casos de violencia familiar.",
+            "goal": "Atender el 100% de los casos y capacitar a 20,000 personas.",
+            "indicator": "Casos atendidos; campañas realizadas."
+          },
+          {
+            "problem": "Protección animal insuficiente.",
+            "objective": "Implementar el Programa Municipal de Bienestar Animal para asegurar la protección de los animales.",
+            "goal": "Realizar 30,000 atenciones veterinarias.",
+            "indicator": "Campañas veterinarias; esterilizaciones."
+          },
+          {
+            "problem": "Brechas educativas y limitadas oportunidades para jóvenes.",
+            "objective": "Implementar el programa 'Te Quiero con Conocimiento y Oportunidades' para reducir las brechas educativas y ampliar las oportunidades para los jóvenes.",
+            "goal": "Beneficiar a 15,000 estudiantes, otorgar 2,000 becas y capacitar a 10,000 jóvenes.",
+            "indicator": "Estudiantes beneficiados; becas otorgadas; jóvenes capacitados."
+          },
+          {
+            "problem": "Inseguridad ciudadana y percepción de inseguridad.",
+            "objective": "Implementar un Centro de Seguridad Inteligente, fortalecer la videovigilancia, el patrullaje integrado y las juntas vecinales para reducir la inseguridad.",
+            "goal": "Alcanzar el 100% de cobertura de videovigilancia, reducir en un 40% el tiempo de respuesta y lograr que el 100% de los sectores estén organizados.",
+            "indicator": "Cámaras instaladas; patrullajes ejecutados; juntas vecinales fortalecidas; tiempo de respuesta."
+          },
+          {
+            "problem": "Insuficiente protección y bienestar animal.",
+            "objective": "Implementar el Programa Municipal de Bienestar Animal.",
+            "goal": "Realizar 30,000 atenciones veterinarias.",
+            "indicator": "Número de campañas veterinarias y esterilizaciones."
+          },
+          {
+            "problem": "Brechas educativas y limitadas oportunidades para los jóvenes.",
+            "objective": "Ejecutar el programa 'Te Quiero con Conocimiento y Oportunidades'.",
+            "goal": "Beneficiar a 15,000 estudiantes, otorgar 2,000 becas y capacitar a 10,000 jóvenes.",
+            "indicator": "Número de estudiantes beneficiados, becas otorgadas y jóvenes capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Potencial turístico y gastronómico subutilizado.",
+            "objective": "Impulsar la 'Marca Santa Anita' para desarrollar el potencial turístico y gastronómico del distrito.",
+            "goal": "Realizar 20 festivales e incorporar 500 negocios.",
+            "indicator": "Ferias; rutas gastronómicas."
+          },
+          {
+            "problem": "Potencial turístico y gastronómico subutilizado.",
+            "objective": "Desarrollar el programa 'Marca Santa Anita'.",
+            "goal": "Realizar 20 festivales e incorporar 500 negocios.",
+            "indicator": "Número de ferias y rutas gastronómicas implementadas."
+          },
+          {
+            "problem": "Dificultades de acceso al empleo.",
+            "objective": "Desarrollar el programa 'Empleo para el Futuro' para facilitar el acceso al empleo.",
+            "goal": "Lograr 10,000 inserciones laborales y capacitar a 15,000 personas.",
+            "indicator": "Inserciones laborales; certificaciones."
+          },
+          {
+            "problem": "Limitadas oportunidades de emprendimiento.",
+            "objective": "Implementar el programa 'Santa Anita Emprende e Innova' para generar oportunidades de emprendimiento.",
+            "goal": "Beneficiar a 8,000 emprendedores e incubar 500 negocios.",
+            "indicator": "Emprendedores beneficiados; negocios incubados."
+          },
+          {
+            "problem": "Alta informalidad comercial.",
+            "objective": "Ejecutar el programa 'Santa Anita Formal y Competitiva' para reducir la informalidad comercial.",
+            "goal": "Formalizar 5,000 negocios.",
+            "indicator": "Negocios formalizados; capacitaciones."
+          },
+          {
+            "problem": "Escaso aprovechamiento económico.",
+            "objective": "Posicionar a Santa Anita como capital económica a través de la promoción de inversiones y convenios.",
+            "goal": "Gestionar más de S/300 millones en inversiones.",
+            "indicator": "Inversiones promovidas; convenios."
+          },
+          {
+            "problem": "Escaso aprovechamiento del potencial económico del distrito.",
+            "objective": "Implementar el programa 'Santa Anita Capital Económica'.",
+            "goal": "Promover más de S/300 millones en inversiones.",
+            "indicator": "Monto de inversiones promovidas y número de convenios firmados."
+          },
+          {
+            "problem": "Dificultades de acceso al empleo formal.",
+            "objective": "Ejecutar el programa 'Empleo para el Futuro'.",
+            "goal": "Lograr 10,000 inserciones laborales y capacitar a 15,000 personas.",
+            "indicator": "Número de inserciones laborales y certificaciones otorgadas."
+          },
+          {
+            "problem": "Limitadas oportunidades de emprendimiento.",
+            "objective": "Desarrollar el programa 'Santa Anita Emprende e Innova'.",
+            "goal": "Beneficiar a 8,000 emprendedores e incubar 500 negocios.",
+            "indicator": "Cantidad de emprendedores beneficiados y negocios incubados."
+          },
+          {
+            "problem": "Alta informalidad en la actividad comercial.",
+            "objective": "Implementar el programa 'Santa Anita Formal y Competitiva'.",
+            "goal": "Formalizar 5,000 negocios.",
+            "indicator": "Número de negocios formalizados y capacitaciones realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad de la población frente a desastres.",
+            "objective": "Implementar un programa de resiliencia.",
+            "goal": "Conformar 100 brigadas vecinales.",
+            "indicator": "Número de brigadas conformadas."
+          },
+          {
+            "problem": "Contaminación ambiental en el distrito.",
+            "objective": "Promover la educación ambiental y la fiscalización.",
+            "goal": "Capacitar a 20,000 vecinos.",
+            "indicator": "Cantidad de vecinos capacitados y campañas realizadas."
+          },
+          {
+            "problem": "Contaminación ambiental.",
+            "objective": "Desarrollar programas de educación ambiental y fiscalización para mitigar la contaminación.",
+            "goal": "Capacitar a 20,000 vecinos.",
+            "indicator": "Vecinos capacitados; campañas."
+          },
+          {
+            "problem": "Gestión deficiente de los residuos sólidos.",
+            "objective": "Ejecutar el programa 'Recicla Santa Anita'.",
+            "goal": "Incorporar a 30,000 hogares y establecer 50 EcoPuntos.",
+            "indicator": "Número de hogares participantes y EcoPuntos implementados."
+          },
+          {
+            "problem": "Déficit de áreas verdes en el distrito.",
+            "objective": "Implementar el programa 'Santa Anita Verde'.",
+            "goal": "Sembrar 20,000 árboles e incrementar en un 30% las áreas verdes.",
+            "indicator": "Cantidad de árboles sembrados y áreas recuperadas."
+          },
+          {
+            "problem": "Déficit de áreas verdes.",
+            "objective": "Implementar el programa 'Santa Anita Verde' para reducir el déficit de áreas verdes.",
+            "goal": "Sembrar 20,000 árboles e incrementar en un 30% las áreas verdes.",
+            "indicator": "Árboles sembrados; áreas recuperadas."
+          },
+          {
+            "problem": "Gestión deficiente de residuos.",
+            "objective": "Ejecutar el programa 'Recicla Santa Anita' para mejorar la gestión de residuos sólidos.",
+            "goal": "Lograr la participación de 30,000 hogares y establecer 50 EcoPuntos.",
+            "indicator": "Hogares participantes; EcoPuntos."
+          },
+          {
+            "problem": "Vulnerabilidad frente a desastres.",
+            "objective": "Implementar un programa de resiliencia para reducir la vulnerabilidad frente a desastres.",
+            "goal": "Conformar 100 brigadas vecinales.",
+            "indicator": "Brigadas conformadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja participación ciudadana en asuntos públicos.",
+            "objective": "Realizar cabildos abiertos y fortalecer el presupuesto participativo.",
+            "goal": "Duplicar la participación ciudadana.",
+            "indicator": "Número de participantes y procesos realizados."
+          },
+          {
+            "problem": "Débil transparencia en la gestión municipal.",
+            "objective": "Implementar una política de Gobierno Abierto y Transparencia.",
+            "goal": "Publicar el 100% de la información estratégica.",
+            "indicator": "Publicación de informes de gestión."
+          },
+          {
+            "problem": "Limitada modernización de los servicios municipales.",
+            "objective": "Implementar el programa 'Gobierno Digital Santa Anita'.",
+            "goal": "Digitalizar el 90% de los trámites.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Limitada capacidad de gestión.",
+            "objective": "Mejorar la capacidad de gestión municipal a través de una gestión por resultados.",
+            "goal": "Gestionar más de S/500 millones.",
+            "indicator": "Recursos gestionados; proyectos formulados."
+          },
+          {
+            "problem": "Baja participación ciudadana.",
+            "objective": "Fomentar la participación ciudadana a través de cabildos abiertos y el presupuesto participativo.",
+            "goal": "Duplicar la participación ciudadana.",
+            "indicator": "Participantes y procesos realizados."
+          },
+          {
+            "problem": "Débil transparencia.",
+            "objective": "Promover un Gobierno Abierto y Transparencia para combatir la falta de transparencia.",
+            "goal": "Publicar el 100% de la información estratégica.",
+            "indicator": "Informes publicados."
+          },
+          {
+            "problem": "Limitada capacidad de gestión de inversiones.",
+            "objective": "Implementar un modelo de Gestión por Resultados.",
+            "goal": "Gestionar más de S/500 millones.",
+            "indicator": "Monto de recursos gestionados y número de proyectos formulados."
+          },
+          {
+            "problem": "Limitada modernización municipal.",
+            "objective": "Implementar un Gobierno Digital en Santa Anita para modernizar la gestión municipal.",
+            "goal": "Digitalizar el 90% de los trámites.",
+            "indicator": "Trámites digitalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-gwW7djh7x8Jdj51ZgvzzM7pNU6o1hr0c",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/gwW7djh7x8Jdj51ZgvzzM7pNU6o1hr0c",
+      "sha256": "f30e4fadf7e97510a56c1a15287836a067a6aabd802b865c5b43c0cbed51e3e5",
+      "accessedAt": "2026-10-02T23:05:18.204Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017108",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017108",
+      "sha256": "dd7545323edf473e747c9bcf128ab3aefc8d238918b4cdb85c7cf2d302570a23",
+      "accessedAt": "2026-10-02T23:05:18.684Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

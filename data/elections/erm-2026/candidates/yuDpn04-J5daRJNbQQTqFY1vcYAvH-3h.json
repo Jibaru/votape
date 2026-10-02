@@ -1,0 +1,205 @@
+{
+  "id": "yuDpn04-J5daRJNbQQTqFY1vcYAvH-3h",
+  "slug": "vicente-felipe-castillo-jimenez",
+  "electionId": "erm-2026",
+  "name": "Vicente Felipe Castillo Jimenez",
+  "givenNames": "Vicente Felipe",
+  "surnames": "Castillo Jimenez",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 2218,
+    "name": "PARTIDO POLITICO NACIONAL PERU LIBRE"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:39.569Z",
+      "sourceId": "jne-hv-yuDpn04-J5daRJNbQQTqFY1vcYAvH-3h"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional José Faustino Sánchez Carrión",
+        "program": "LICENCIADO EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1996"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional José Faustino Sánchez Carrión",
+        "program": "BACHILLER EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL ENRIQUE GUZMAN Y VALLE",
+        "program": "MAESTRIA EN EDUCACIÓN TECNOLÓGICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "IE RICARDO PALMA",
+      "role": "DOCENTE",
+      "from": "2003",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 36000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 7720,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 141,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA MARCA HYUNDAI COLOR NEGRO",
+        "value": 61000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b9f704a5-4cae-4765-b48d-5a6564c44c76.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/34f7ff57-4cc5-43c7-9ef4-7a9518d5ead2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Desigualdad territorial y segregación urbana con acceso limitado a servicios básicos como agua y saneamiento en asentamientos humanos.",
+            "objective": "Mejorar las condiciones de vida de la población y reducir las brechas sociales en el distrito mediante la inversión en infraestructura y servicios básicos.",
+            "goal": "Garantizar el acceso equitativo y eficiente a los servicios básicos para todos los habitantes, mejorando la distribución de agua en el casco urbano.",
+            "indicator": "Porcentaje de hogares con acceso a servicios básicos de agua y saneamiento."
+          },
+          {
+            "problem": "Acceso desigual a una educación de calidad y segmentación del sistema educativo que reproduce la estratificación social.",
+            "objective": "Promover el capital cultural de la comunidad y mejorar la infraestructura educativa, articulando acciones con la UGEL 06 para mitigar las brechas existentes.",
+            "goal": "Retomar las iniciativas de mejora de locales escolares y promover programas de refuerzo y actividades extracurriculares en el distrito.",
+            "indicator": "Número de instituciones educativas con infraestructura mejorada y número de programas de refuerzo escolar implementados."
+          },
+          {
+            "problem": "Acceso desigual a servicios de salud y condiciones estructurales que perpetúan las brechas sanitarias en la población.",
+            "objective": "Reducir las brechas en el acceso a servicios de salud y mejorar las condiciones sanitarias en las zonas más vulnerables del distrito.",
+            "goal": "Reducir las brechas sociales existentes en salud, mejorando el acceso a servicios de calidad para toda la población.",
+            "indicator": "Tasa de enfermedades asociadas a la pobreza y porcentaje de la población con acceso a centros de salud equipados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades laborales locales que genera dependencia económica de otros distritos y agrava los problemas de transporte.",
+            "objective": "Generar puestos de trabajo para la población local a través de la ejecución de proyectos de infraestructura y mejora de la calidad de vida.",
+            "goal": "Implementar proyectos de infraestructura, como el encauzamiento del río Rímac, para generar una cantidad significativa de puestos de trabajo para la población local.",
+            "indicator": "Número de empleos locales generados por proyectos municipales y tasa de desempleo en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta vulnerabilidad de la población frente a riesgos naturales como huaicos e inundaciones, debido a la ubicación del distrito en zonas de quebradas y laderas.",
+            "objective": "Prevenir y mitigar los riesgos ambientales asociados al cambio climático, implementando proyectos de reforestación y limpieza de cauces.",
+            "goal": "Al 2030, lograr 10 hectáreas de áreas reforestadas en zonas críticas y reducir la exposición a desastres naturales mediante un enfoque preventivo y sostenible.",
+            "indicator": "Número de emergencias ambientales reportadas anualmente y hectáreas de áreas reforestadas en zonas críticas."
+          },
+          {
+            "problem": "Pérdida de áreas verdes y degradación de ecosistemas naturales a causa de la expansión urbana desordenada.",
+            "objective": "Restaurar y conservar los ecosistemas naturales y las áreas verdes urbanas del distrito.",
+            "goal": "Incrementar en 3 metros cuadrados el área verde por habitante para el año 2030.",
+            "indicator": "Incremento de metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Inadecuada gestión y disposición de residuos sólidos, con existencia de puntos críticos de arrojo informal y contaminación.",
+            "objective": "Reducir la generación y disposición inadecuada de residuos mediante la implementación de un sistema de gestión integral que incluya segregación y reciclaje.",
+            "goal": "Para el año 2030, lograr que el 40% de los hogares urbanos segreguen residuos en origen y reducir en un 60% los puntos críticos de contaminación.",
+            "indicator": "Porcentaje de residuos reciclados respecto al total generado y reducción de puntos críticos de contaminación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión pública deficiente y una percepción generalizada de corrupción local, lo que genera desconfianza ciudadana en las autoridades municipales.",
+            "objective": "Fortalecer la transparencia y el control ciudadano en la gestión de la seguridad y en los procesos de contratación pública.",
+            "goal": "Alcanzar el 100% de transparencia en las adquisiciones vinculadas a la seguridad y publicar periódicamente los indicadores de gestión municipal.",
+            "indicator": "Porcentaje de transparencia en adquisiciones y publicación periódica de indicadores de gestión."
+          },
+          {
+            "problem": "Incremento de delitos de alto impacto como el sicariato, robos al paso y extorsiones, lo que genera una alta percepción de inseguridad ciudadana.",
+            "objective": "Reducir significativamente los índices delictivos, fortalecer la prevención del crimen y mejorar la coordinación interinstitucional para garantizar la seguridad.",
+            "goal": "Reducir en un 30% los robos al paso, disminuir en un 20% los hechos vinculados al sicariato e incrementar en un 40% las intervenciones preventivas.",
+            "indicator": "Tasa de homicidios, tasa de robos y porcentaje de incremento en intervenciones preventivas."
+          },
+          {
+            "problem": "Débil participación ciudadana en espacios vecinales y presupuestos participativos, lo que limita el control social sobre la gestión pública.",
+            "objective": "Promover una participación activa y efectiva de los actores locales en el diagnóstico situacional y la toma de decisiones del distrito.",
+            "goal": "Fortalecer 50 juntas vecinales e incrementar los canales de denuncia y la participación ciudadana en la gestión municipal.",
+            "indicator": "Número de juntas vecinales fortalecidas e incremento de denuncias y participación vecinal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-yuDpn04-J5daRJNbQQTqFY1vcYAvH-3h",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yuDpn04-J5daRJNbQQTqFY1vcYAvH-3h",
+      "sha256": "69fc8e786a68c7ab9af4d41ed98bd4f3a1cf35b7fa9bd43570a68921028232ca",
+      "accessedAt": "2026-10-02T22:53:39.569Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023069",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023069",
+      "sha256": "20f0755675f7b660542add617d0fe9f2b27e784d9a45e4ddccbd8057c75751e8",
+      "accessedAt": "2026-10-02T22:53:40.282Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

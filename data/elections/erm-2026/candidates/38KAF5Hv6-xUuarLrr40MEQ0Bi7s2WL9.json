@@ -1,0 +1,287 @@
+{
+  "id": "38KAF5Hv6-xUuarLrr40MEQ0Bi7s2WL9",
+  "slug": "segundo-valdez-zavala",
+  "electionId": "erm-2026",
+  "name": "Segundo Valdez Zavala",
+  "givenNames": "Segundo",
+  "surnames": "Valdez Zavala",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:19.305Z",
+      "sourceId": "jne-hv-38KAF5Hv6-xUuarLrr40MEQ0Bi7s2WL9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "Eiger",
+        "program": "Computación",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Autónoma del Perú S.A.C.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Autónoma del Perú S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PROACCIÓN EMPRESARIAL SAC",
+      "role": "TRANSPORTE",
+      "from": "2016",
+      "to": "2026"
+    },
+    {
+      "employer": "Proacción Empresarial Sac",
+      "role": "Transporte",
+      "from": "2013",
+      "to": "2026"
+    },
+    {
+      "employer": "Segundo Valdez Zavala",
+      "role": "ABOGADO",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "Secretario General",
+      "party": "PARTIDO POLÍTICO FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "from": "2014",
+      "to": "2016"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "from": "2013",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 41837,
+        "public": 0,
+        "private": 41837
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "Casa",
+        "value": 28443.5,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Toyota Yaris - Sedan",
+        "value": 32000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ef0a2479-1e35-4ba1-b0ba-c311a8ae86ad.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8d612ed4-17e6-45c0-919d-6bae23f36035.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "La anemia infantil continúa afectando aproximadamente al 33.3% de los niños y niñas de 6 a 35 meses, mientras persisten problemas de inseguridad alimentaria en sectores vulnerables de Lima Metropolitana.",
+            "objective": "Contribuir a la reducción de la anemia infantil y fortalecer la seguridad alimentaria de la población vulnerable.",
+            "goal": "Reducir la anemia infantil a menos del 15%.",
+            "indicator": "Porcentaje de niños y niñas de 6 a 35 meses con anemia."
+          },
+          {
+            "problem": "La inseguridad ciudadana constituye el principal problema de la ciudad, siendo identificada por más del 75% de los limeños como la principal preocupación urbana.",
+            "objective": "Fortalecer la seguridad ciudadana metropolitana mediante tecnología, prevención y articulación institucional.",
+            "goal": "Reducir en 30% los delitos de mayor incidencia.",
+            "indicator": "Tasa de victimización y número de cámaras interoperables."
+          },
+          {
+            "problem": "Persisten brechas en el acceso a vivienda adecuada, agua potable, alcantarillado y mejoramiento urbano en zonas periféricas y asentamientos humanos.",
+            "objective": "Promover ciudades inclusivas con acceso a servicios básicos y vivienda digna.",
+            "goal": "Beneficiar a 200,000 hogares mediante proyectos de mejoramiento urbano.",
+            "indicator": "Número de hogares beneficiados."
+          },
+          {
+            "problem": "Las personas con discapacidad continúan enfrentando barreras físicas, tecnológicas y sociales que limitan su inclusión plena.",
+            "objective": "Garantizar la accesibilidad universal y la inclusión social, educativa y laboral de las personas con discapacidad.",
+            "goal": "Beneficiar a 200,000 personas con discapacidad.",
+            "indicator": "Número de personas con discapacidad beneficiadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existen importantes brechas territoriales en el desarrollo económico entre Lima Centro y los distritos de Lima Norte, Sur y Este.",
+            "objective": "Descentralizar las oportunidades económicas y fortalecer polos de desarrollo territorial.",
+            "goal": "Implementar 10 polos de desarrollo económico metropolitano.",
+            "indicator": "Número de polos económicos fortalecidos."
+          },
+          {
+            "problem": "La congestión vehicular genera pérdidas económicas, incrementa los costos logísticos y reduce la competitividad de Lima Metropolitana.",
+            "objective": "Mejorar la movilidad urbana para fortalecer la productividad y la competitividad económica.",
+            "goal": "Reducir en 25% los tiempos promedio de viaje.",
+            "indicator": "Reducción promedio de tiempos de desplazamiento."
+          },
+          {
+            "problem": "Las micro y pequeñas empresas representan la mayor parte de las unidades económicas de Lima, pero enfrentan limitaciones de productividad, innovación y digitalización.",
+            "objective": "Fortalecer la competitividad y sostenibilidad de las MYPES y emprendimientos.",
+            "goal": "Beneficiar a 200,000 MYPES y emprendimientos.",
+            "indicator": "Número de MYPES fortalecidas y formalizadas."
+          },
+          {
+            "problem": "Más del 50% de los trabajadores de Lima Metropolitana se desempeñan en condiciones de informalidad laboral, limitando el acceso a derechos laborales, protección social y mejores ingresos.",
+            "objective": "Promover el empleo digno, la formalización laboral y el fortalecimiento de capacidades para mejorar la productividad y los ingresos de la población.",
+            "goal": "Beneficiar a 500,000 trabajadores mediante programas de capacitación, certificación y formalización.",
+            "indicator": "Número de trabajadores formalizados o beneficiados mediante programas de empleabilidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Miles de familias habitan en zonas vulnerables frente a sismos, huaicos, inundaciones y otros efectos asociados al cambio climático.",
+            "objective": "Fortalecer la resiliencia climática y la gestión integral del riesgo de desastres.",
+            "goal": "Intervenir el 100% de las zonas priorizadas con riesgo alto y muy alto.",
+            "indicator": "Número de zonas críticas intervenidas."
+          },
+          {
+            "problem": "Los ecosistemas estratégicos de Lima, como las lomas costeras y humedales, enfrentan procesos de degradación, ocupación informal y pérdida de biodiversidad.",
+            "objective": "Proteger, recuperar y poner en valor los ecosistemas estratégicos de Lima Metropolitana.",
+            "goal": "Recuperar y proteger el 100% de las áreas prioritarias identificadas.",
+            "indicator": "Hectáreas de ecosistemas recuperadas y protegidas."
+          },
+          {
+            "problem": "Lima cuenta con apenas 3 m² de áreas verdes por habitante, cifra muy por debajo de la recomendación de la OMS, afectando la calidad ambiental.",
+            "objective": "Incrementar la infraestructura verde y mejorar la calidad ambiental urbana.",
+            "goal": "Incrementar la disponibilidad de áreas verdes a 6 m² por habitante al 2030.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Lima Metropolitana genera más de 3.6 millones de toneladas de residuos sólidos al año, con puntos críticos de acumulación, bajos niveles de reciclaje y limitada valorización.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos y promover la economía circular.",
+            "goal": "Valorizar al menos el 30% de los residuos sólidos generados en Lima Metropolitana.",
+            "indicator": "Porcentaje de residuos sólidos valorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La percepción de corrupción y la desconfianza ciudadana continúan afectando la legitimidad de las instituciones públicas y la gobernabilidad metropolitana.",
+            "objective": "Fortalecer la integridad pública, la transparencia y la lucha contra la corrupción.",
+            "goal": "Lograr que el 100% de la información estratégica de la gestión se encuentre disponible en plataformas de acceso público.",
+            "indicator": "Índice de transparencia y número de mecanismos de control ciudadano implementados."
+          },
+          {
+            "problem": "Los procesos administrativos continúan siendo complejos y existen brechas en digitalización y acceso a servicios municipales.",
+            "objective": "Modernizar la gestión municipal para brindar servicios más eficientes, accesibles y oportunos.",
+            "goal": "Digitalizar el 100% de los trámites prioritarios metropolitanos.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "La limitada articulación entre la Municipalidad Metropolitana y los gobiernos distritales dificulta la ejecución de políticas y proyectos de alcance metropolitano.",
+            "objective": "Fortalecer la gobernanza metropolitana y la coordinación interinstitucional.",
+            "goal": "Consolidar espacios permanentes de coordinación con los 43 distritos de Lima Metropolitana.",
+            "indicator": "Número de mecanismos permanentes de coordinación implementados."
+          },
+          {
+            "problem": "La participación ciudadana en la gestión pública aún es limitada y presenta brechas de representación territorial y poblacional.",
+            "objective": "Fortalecer la participación ciudadana y la gobernanza democrática metropolitana.",
+            "goal": "Incrementar en 50% la participación ciudadana en los espacios de concertación y vigilancia.",
+            "indicator": "Número de ciudadanos participantes en mecanismos de participación y vigilancia."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18955",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Declaración Jurada De Ingresos De Bienes Y Rentas",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-22",
+      "details": {
+        "rubro": "DECLARACIÓN JURADA DE INGRESOS DE BIENES Y RENTAS",
+        "resolucion": "RESOLUCION N° 06934-2026-JEE-LICN/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCION N° 06934-2026-JEE-LICN/JNE",
+      "sourceIds": [
+        "jne-hv-38KAF5Hv6-xUuarLrr40MEQ0Bi7s2WL9"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-38KAF5Hv6-xUuarLrr40MEQ0Bi7s2WL9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/38KAF5Hv6-xUuarLrr40MEQ0Bi7s2WL9",
+      "sha256": "dca488d963bd99aefc301f45be08f2bff1bf3639d5438ea257cbacebba0576c4",
+      "accessedAt": "2026-10-02T22:49:19.305Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023215",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023215",
+      "sha256": "500179dc701ee62cb9062087b3abb7d0213459675c97cdc228a4c2b322f1313d",
+      "accessedAt": "2026-10-02T22:49:19.774Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

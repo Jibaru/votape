@@ -1,0 +1,372 @@
+{
+  "id": "ul6VD9gHAb657bqNGFK13euPVC0UhUvm",
+  "slug": "carlos-manuel-juscamayta-cosme",
+  "electionId": "erm-2026",
+  "name": "Carlos Manuel Juscamayta Cosme",
+  "givenNames": "Carlos Manuel",
+  "surnames": "Juscamayta Cosme",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:03.751Z",
+      "sourceId": "jne-hv-ul6VD9gHAb657bqNGFK13euPVC0UhUvm"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "ASOCIACION CULTURAL PERUANO BRITANICA",
+        "program": "IDIOMA INGLES",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CIENCIAS ECONÓMICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES",
+      "role": "COORDINADOR DE LA GERENCIA DE SEGURIDAD CIUDADANA",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "AULA 20 SAC",
+      "role": "DIRECTOR DE PLANEAMIENTO Y RELACIONES INSTITUCIONALES",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "CENTRO DE SOLUCIONES SAC",
+      "role": "SOPORTE DE TALENTO HUMANO Y RECURSOS HUMANOS",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO",
+      "role": "RESPONSABLE DE BIBLIOTECA MUNICIPAL CIRO ALEGRIA SUB GERENCIA DE EDUCACION CULTURA DEPORTE Y JUVEN",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE EL AGUSTINO",
+      "role": "REGIDOR",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU PATRIA SEGURA",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU POSIBLE",
+      "year": "2017"
+    },
+    {
+      "party": "ACCION POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 59722,
+        "public": 21900,
+        "private": 37822
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PRESIDENTE DE LA ASOCIACION NACIONAL DE ESTUDIANTES DE ECONOMIA DEL PERU CON RUC.: 20523289854, CON BAJA DE OFICIO 31/01/2011",
+    "FUI DOCENTE PRE UNIVERSITARIO DE LAS INSTITUCIONES PITAGORAS, SACO OLIVEROS, COLEGIOS MONSERRAT, I.E.JOHN NASH HIGH SCHOOL Y GENES, ENTRE LOS AÑOS 2008 AL 2018.",
+    "FUI DIRECTOR ACADEMICO HONORIFICO DE LA INSTITUCION EDUCATIVA SAN RAFAEL - 2018 AL 2022",
+    "FUI GERENTE GENERAL DE MENTIS NOVA EMPRENDEDORES SAC, CON RUC 20566099200, CON BAJA DE OFICIO DE FECHA 31/05/2019.",
+    "FUI PROMOTOR Y DIRECTO DE MENTIS NOVA Y LIDER LIVE, CON RUC: 10429955578 (RUS) CON DIRECCION AV. UNIVERSITARIA 10146 - 10150 SAN CARLOS, COMAS. ENTRE LOS AÑOS 2011 Y 2020. ACOTACION: ACADEMIA PREUNIVERSITARIA, GUARDERIA Y CENTRO DE DESARROLLO INTEGRAL.",
+    "FUI DIRECTOR ACADEMICO DEL LIDER MENTIS NOVA 2007 AL 2020 - RUC:10429955578 RUS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a2344372-dac6-4ec2-9ad5-05c86f608544.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/20e3c62e-e1eb-43fc-a00f-6c98e6ced52b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de captación de talentos",
+            "objective": "Impulsar el deporte competitivo, talleres de alto rendimiento- Escuela Municipal de Talentos",
+            "goal": "500 talentos identificados",
+            "indicator": "Deportistas incorporados"
+          },
+          {
+            "problem": "Débil capacidad de respuesta del serenazgo",
+            "objective": "Modernizar la seguridad municipal Patrullaje integrado y central de monitoreo, uso eficiente de los recursos en favor de serenazgo y la PNP",
+            "goal": "Incrementar 50% capacidad operativa",
+            "indicator": "Serenos capacitados y unidades operativas"
+          },
+          {
+            "problem": "Limitado acceso a preparación preuniversitaria",
+            "objective": "Ampliar las oportunidades educativas - Academia Municipal PREMUNI",
+            "goal": "2,000 estudiantes",
+            "indicator": "Estudiantes beneficiados"
+          },
+          {
+            "problem": "Escasa inclusión deportiva",
+            "objective": "Promover la igualdad de oportunidades Festivales de Deporte Inclusivo",
+            "goal": "20 festivales",
+            "indicator": "Eventos realizados"
+          },
+          {
+            "problem": "Consumo de drogas y violencia juvenil",
+            "objective": "Prevenir factores de riesgo social - Programas preventivos comunitarios",
+            "goal": "5,000 jóvenes atendidos",
+            "indicator": "Jóvenes beneficiados"
+          },
+          {
+            "problem": "Escasa oferta deportiva",
+            "objective": "Promover la actividad física – Formación, el deporte Primero",
+            "goal": "20,000 beneficiarios",
+            "indicator": "Participantes"
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana",
+            "objective": "Fortalecer la seguridad ciudadana El Agustino Seguro, puentes seguros, colegios seguros y parques seguros.",
+            "goal": "500 cámaras nuevas de alta tecnología",
+            "indicator": "Cámaras de video vigilancia instaladas y operativas"
+          },
+          {
+            "problem": "Déficit de atención especializada para TEA",
+            "objective": "Promover la inclusión Centro Municipal Integral para Personas con TEA",
+            "goal": "500 familias beneficiadas",
+            "indicator": "Usuarios atendidos"
+          },
+          {
+            "problem": "Débil atención a familias vulnerables",
+            "objective": "Fortalecer la protección social -",
+            "goal": "10,000 atenciones",
+            "indicator": "Atenciones integrales realizadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Poca promoción económica distrital",
+            "objective": "Dinamizar la economía local Ferias gastronómicas y culturales",
+            "goal": "50 eventos",
+            "indicator": "Eventos ejecutados"
+          },
+          {
+            "problem": "Mercados con infraestructura deficiente",
+            "objective": "Mejorar la competitividad comercial - Modernización de mercados.",
+            "goal": "3 mercados modernizados",
+            "indicator": "Mercados intervenidos"
+          },
+          {
+            "problem": "Alta informalidad empresarial",
+            "objective": "Promover la formalización Centro Municipal de Desarrollo Empresarial",
+            "goal": "2,000 negocios formalizados",
+            "indicator": "MYPES formalizadas"
+          },
+          {
+            "problem": "Débil ecosistema emprendedor",
+            "objective": "Impulsar los emprendimientos Ferias y ruedas de negocio",
+            "goal": "40 ferias",
+            "indicator": "Ferias realizadas"
+          },
+          {
+            "problem": "Desempleo juvenil",
+            "objective": "Generar empleo - Bolsa Laboral Municipal",
+            "goal": "3,000 empleos facilitados",
+            "indicator": "Inserciones laborales"
+          },
+          {
+            "problem": "Escasa capacitación productiva",
+            "objective": "Fortalecer las capacidades Programas de empleabilidad",
+            "goal": "8,000 vecinos capacitados",
+            "indicator": "Personas capacitadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de residuos",
+            "objective": "Mejorar la sostenibilidad ambiental – Programa RECAPACICLA",
+            "goal": "Incremento del 50%",
+            "indicator": "Toneladas recicladas"
+          },
+          {
+            "problem": "Congestión vehicular",
+            "objective": "Mejorar la movilidad urbana Movilidad Primero",
+            "goal": "Plan Vial Distrital implementado",
+            "indicator": "Instrumentos de gestión aprobados"
+          },
+          {
+            "problem": "Accidentes de tránsito",
+            "objective": "Mejorar la seguridad vial Educación y señalización vial",
+            "goal": "20,000 escolares",
+            "indicator": "Escolares capacitados"
+          },
+          {
+            "problem": "Falta de esterilización y vacunación",
+            "objective": "Control sanitario animalista - Veterinaria Municipal Descentralizada",
+            "goal": "100 campañas",
+            "indicator": "Campañas realizadas"
+          },
+          {
+            "problem": "Déficit de áreas verdes",
+            "objective": "Recuperar espacios públicos Parques Seguros e Inclusivos",
+            "goal": "50 parques",
+            "indicator": "Parques recuperados"
+          },
+          {
+            "problem": "Escaleras y accesos deficientes",
+            "objective": "Mejorar la conectividad peatonal Construcción de escaleras y pasajes",
+            "goal": "50 proyectos",
+            "indicator": "Escaleras construidas"
+          },
+          {
+            "problem": "Problemática de bienestar animal",
+            "objective": "Fortalecer la protección animal “Entre Patas” y “Patrulla Canina”",
+            "goal": "10,000 atenciones",
+            "indicator": "Mascotas atendidas"
+          },
+          {
+            "problem": "Insuficiente semaforización",
+            "objective": "Optimizar la circulación Central semafórica espejo",
+            "goal": "20 intersecciones",
+            "indicator": "Intersecciones intervenidas"
+          },
+          {
+            "problem": "Deterioro de pistas y veredas",
+            "objective": "Mejorar la transitabilidad “Plan 100 Cuadras”",
+            "goal": "100 cuadras",
+            "indicator": "Cuadras rehabilitadas"
+          },
+          {
+            "problem": "Falta de planificación vial",
+            "objective": "Ordenar el tránsito Observatorio Vial Distrital",
+            "goal": "1 observatorio operativo",
+            "indicator": "Observatorio implementado"
+          },
+          {
+            "problem": "Déficit de infraestructura en zonas altas",
+            "objective": "Reducir las brechas urbanas “Mi Barrio Primero”",
+            "goal": "100 obras",
+            "indicator": "Obras comunales ejecutadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil transparencia",
+            "objective": "Consolidar un gobierno abierto - Portal de Transparencia fortalecido",
+            "goal": "100% de cumplimiento",
+            "indicator": "Información publicada"
+          },
+          {
+            "problem": "Escasa participación ciudadana",
+            "objective": "Fortalecer la gobernanza - Presupuesto participativo y audiencias",
+            "goal": "2 audiencias por año",
+            "indicator": "Audiencias realizadas"
+          },
+          {
+            "problem": "Débil planificación institucional",
+            "objective": "Fortalecer la gestión por resultados - Sistema de seguimiento del plan",
+            "goal": "4 reportes anuales",
+            "indicator": "Reportes emitidos"
+          },
+          {
+            "problem": "Capacidades limitadas del personal",
+            "objective": "Profesionalizar la gestión - Programa de capacitación municipal",
+            "goal": "100% del personal capacitado",
+            "indicator": "Servidores capacitados"
+          },
+          {
+            "problem": "Procesos burocráticos lentos",
+            "objective": "Simplificar la atención al vecino - Gobierno digital",
+            "goal": "Reducción del 50%",
+            "indicator": "Tiempo promedio de atención"
+          },
+          {
+            "problem": "Limitado acceso a información pública",
+            "objective": "Mejorar la rendición de cuentas - Plataforma digital de información",
+            "goal": "100% atención oportuna",
+            "indicator": "Consultas atendidas"
+          },
+          {
+            "problem": "Baja digitalización municipal",
+            "objective": "Modernizar la gestión pública - El Agustino Digital",
+            "goal": "80% digitalizados",
+            "indicator": "Trámites digitalizados"
+          },
+          {
+            "problem": "Baja recaudación tributaria",
+            "objective": "Mejorar la sostenibilidad financiera - Programa de fortalecimiento tributario",
+            "goal": "Incremento del 25%",
+            "indicator": "Recaudación municipal"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ul6VD9gHAb657bqNGFK13euPVC0UhUvm",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ul6VD9gHAb657bqNGFK13euPVC0UhUvm",
+      "sha256": "f2b30f28f390d3aff074f57b3edf16c7cd0e719d2fdeac9d8613df7a9210506d",
+      "accessedAt": "2026-10-02T22:56:03.751Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021535",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021535",
+      "sha256": "8141d26de2935c1dcf28a35356c67936af507fc06540a231ec2833ba7ef30569",
+      "accessedAt": "2026-10-02T22:56:04.296Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

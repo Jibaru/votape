@@ -1,0 +1,290 @@
+{
+  "id": "qyPlq8G8B3eEsEBKkMFZ3R-cCalbFt-A",
+  "slug": "julio-adolfo-tovar-uribe",
+  "electionId": "erm-2026",
+  "name": "Julio Adolfo Tovar Uribe",
+  "givenNames": "Julio Adolfo",
+  "surnames": "Tovar Uribe",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2979,
+    "name": "PARTIDO POLITICO ADP"
+  },
+  "jurisdictionId": "140110",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:27.703Z",
+      "sourceId": "jne-hv-qyPlq8G8B3eEsEBKkMFZ3R-cCalbFt-A"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "INCA GARCILAZO DE LA VEGA",
+        "program": "CIENCIAS DE LA COMUNICACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2000"
+      },
+      {
+        "level": "universitaria",
+        "institution": "AD SCHOOL BERLIN",
+        "program": "CREATIVIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "posgrado",
+        "institution": "INCA BUSINESS SCHOOL / ADOLFO IBAÑEZ",
+        "program": "BUSINESS ADMINISTRATION",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD ESAN",
+        "program": "MAESTRIA EN ADMINISTRACION DE NEGOCIOS",
+        "completed": true,
+        "degree": "MAGISTER",
+        "year": "2008"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SINERGIA LATAM",
+      "role": "EMPRESA",
+      "from": "2000",
+      "to": "2026"
+    },
+    {
+      "employer": "G Y G ARQUITECTOS",
+      "role": "RESPONSABLE DEL AREA CREATIVA Y GRAFICA",
+      "from": "1997",
+      "to": "2000"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO POLITICO ADP",
+      "from": "2024",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "DIRECTOR NACIONAL",
+      "party": "PARTIDO POLITICO ADP",
+      "from": "2024",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 310284,
+        "public": 0,
+        "private": 310284
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 15486.96,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "BMW X5 - 2012",
+        "value": 30000
+      },
+      {
+        "type": "BMW 2015",
+        "value": 38000
+      },
+      {
+        "type": "TOYOTA LAND CRUSIER 2012",
+        "value": 43000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "IA LABORATORIO S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 36113900,
+        "value": 361139
+      },
+      {
+        "company": "NHP STRATEGIC S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 1500,
+        "value": 1500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2a9bbbea-fa23-4a8d-93a8-d74936e774e4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/92d16e10-4918-4a4a-883a-068f8b9615d9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Necesidad de infraestructura deportiva y cultural de primer nivel que limita las oportunidades de desarrollo integral para niños, jóvenes y adultos.",
+            "objective": "Construir el Club La Molina, un polideportivo de estándares modernos, y crear el Centro Municipal de Arte, Ciencia y Cultura para fomentar el desarrollo integral de la comunidad.",
+            "goal": "Lograr que la infraestructura del polideportivo esté completa y operativa en el segundo año de gestión.",
+            "indicator": "Número de disciplinas deportivas disponibles y aforo operativo."
+          },
+          {
+            "problem": "Servicios de salud insuficientes y dependencia de clínicas privadas costosas, excluyendo a un sector importante de la población.",
+            "objective": "Implementar MOLISALUD, una red de cinco centros de salud tipo posta moderna, para garantizar atención primaria de salud accesible y de calidad para todos los vecinos.",
+            "goal": "Tener los cinco centros operativos antes de finalizar el segundo año de gestión.",
+            "indicator": "Número de atenciones médicas realizadas por año y por centro."
+          },
+          {
+            "problem": "Falta de oportunidades reales de formación tecnológica e inserción laboral para los jóvenes del distrito.",
+            "objective": "Crear un Centro Tecnológico municipal para que los jóvenes desarrollen habilidades digitales, creen proyectos y accedan a oportunidades de prácticas e inserción laboral.",
+            "goal": "Certificar a un mínimo de 300 jóvenes por año.",
+            "indicator": "Tasa de inserción laboral de egresados del Centro Tecnológico."
+          },
+          {
+            "problem": "Carencia de un servicio municipal de salud animal accesible y de calidad, a pesar de la alta tasa de tenencia de mascotas en el distrito.",
+            "objective": "Crear el Centro Integral de Salud Animal de La Molina, ofreciendo atención veterinaria profesional, equipamiento moderno y programas de esterilización a precios justos.",
+            "goal": "5 centros MOLISALUD operativos al año. Mínimo 1,000 adultos mayores inscritos en el programa al año 1.",
+            "indicator": "Número de atenciones médicas realizadas por año en los centros MOLISALUD. Número de adultos mayores activos en el programa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Burocracia para la formalización de negocios, con trámites lentos y costosos que desincentivan a los pequeños y medianos empresarios.",
+            "objective": "Impulsar la capacitación técnica y formación empresarial a través de alianzas, talleres permanentes y una Escuela Municipal del Emprendedor.",
+            "goal": "Capacitar a un mínimo de 1,000 vecinos por año.",
+            "indicator": "Número de emprendedores con negocio activo post-capacitación."
+          },
+          {
+            "problem": "Comercio local desorganizado, con falta de ordenamiento y condiciones poco competitivas frente a los grandes centros comerciales.",
+            "objective": "Fortalecer el comercio local mediante el ordenamiento de las zonas comerciales, la simplificación de trámites y el acompañamiento municipal a los comerciantes.",
+            "goal": "Tener el 100% de las zonas comerciales ordenadas al final del segundo año.",
+            "indicator": "Número de comercios formalizados y licencias emitidas."
+          },
+          {
+            "problem": "Oportunidades de inversión empresarial subutilizadas por carecer de la infraestructura y los mecanismos institucionales necesarios para potenciarlas.",
+            "objective": "Consolidar una Cámara de Comercio de La Molina como espacio de articulación y crear una red de negocios para promover el crecimiento colectivo.",
+            "goal": "Lograr una cámara activa con un mínimo de 200 miembros al primer año.",
+            "indicator": "Eventos de networking realizados y negocios articulados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro del orden urbano y mal uso del espacio público, afectando la convivencia en parques y la calidad de las áreas verdes.",
+            "objective": "Recuperar y mantener permanentemente los parques y áreas verdes con criterios de sostenibilidad hídrica, y ordenar el espacio público para una mejor convivencia.",
+            "goal": "Lograr cero puntos de conflicto en el uso del espacio público al tercer año.",
+            "indicator": "Número de parques intervenidos y ordenanzas fiscalizadas."
+          },
+          {
+            "problem": "Iluminación deficiente en zonas críticas como avenidas, parques y zonas limítrofes, lo que crea oportunidades para la comisión de delitos nocturnos.",
+            "objective": "Implementar un plan de iluminación estratégica mediante la instalación de luminarias LED de alta potencia en todos los puntos oscuros identificados.",
+            "goal": "Eliminación del 100% de los puntos oscuros identificados.",
+            "indicator": "Kilómetros de vías y parques iluminados con LED de alta potencia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana creciente debido a la falta de coordinación operativa entre el serenazgo, la Policía Nacional, la vigilancia privada y las juntas vecinales.",
+            "objective": "Crear una Central Única de Coordinación de Seguridad que integre en tiempo real a todos los actores para permitir respuestas integradas y rápidas.",
+            "goal": "Conectar el 100% de las unidades de serenazgo a la central única, con un tiempo de respuesta menor a 5 minutos.",
+            "indicator": "Tiempo promedio de respuesta ante emergencias."
+          },
+          {
+            "problem": "Deficiencia tecnológica en seguridad, con cámaras de videovigilancia de baja resolución que carecen de analítica inteligente y no están integradas a una central moderna.",
+            "objective": "Implementar un sistema de videovigilancia de nueva generación con analítica de datos e inteligencia artificial para la detección temprana del delito.",
+            "goal": "Instalar 200 cámaras con analítica inteligente y lograr una reducción del 40% en la tasa de delitos.",
+            "indicator": "Tasa de delitos registrados en zonas monitoreadas."
+          },
+          {
+            "problem": "Servicios municipales lentos y burocráticos, con plazos excesivos en trámites que generan frustración y obstaculizan la actividad económica formal.",
+            "objective": "Transformar la municipalidad en una institución ágil y transparente mediante la digitalización de todos los trámites, disponibles 24/7 en una plataforma en línea.",
+            "goal": "Tener el 100% de los trámites disponibles en línea al final del primer año, logrando una reducción del 70% en el tiempo de resolución.",
+            "indicator": "Tiempo promedio de resolución de trámites."
+          },
+          {
+            "problem": "Deterioro de la infraestructura pública, con pistas, veredas y señalización en mal estado que afectan la imagen y funcionalidad del distrito.",
+            "objective": "Implementar un plan integral de recuperación del espacio público, priorizando la reparación de pistas y veredas, y la renovación de la señalización vial.",
+            "goal": "Reparar el 100% de las pistas y veredas críticas en los primeros 18 meses.",
+            "indicator": "Metros cuadrados de infraestructura vial recuperada."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18679",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Formación Académica",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-15",
+      "details": {
+        "rubro": "FORMACIÓN ACADÉMICA",
+        "resolucion": "RESOLUCION N° 01368-2026-JEE-LIO3/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCION N° 01368-2026-JEE-LIO3/JNE",
+      "sourceIds": [
+        "jne-hv-qyPlq8G8B3eEsEBKkMFZ3R-cCalbFt-A"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-qyPlq8G8B3eEsEBKkMFZ3R-cCalbFt-A",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/qyPlq8G8B3eEsEBKkMFZ3R-cCalbFt-A",
+      "sha256": "7cde1337602b3b1adf7e26fb4a1161a276eaba22e81b198b49956dd986ae7273",
+      "accessedAt": "2026-10-02T22:57:27.703Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021999",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021999",
+      "sha256": "b197969492c29501c6fdaa44f8e90bb4d09e05837f51d02fd2b0886fb7834c07",
+      "accessedAt": "2026-10-02T22:57:28.183Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

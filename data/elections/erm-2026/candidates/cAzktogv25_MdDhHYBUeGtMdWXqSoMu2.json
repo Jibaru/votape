@@ -1,0 +1,178 @@
+{
+  "id": "cAzktogv25_MdDhHYBUeGtMdWXqSoMu2",
+  "slug": "marwan-zakharia-kahhat-abedrabbo",
+  "electionId": "erm-2026",
+  "name": "Marwan Zakharia Kahhat Abedrabbo",
+  "givenNames": "Marwan Zakharia",
+  "surnames": "Kahhat Abedrabbo",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140128",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:40.389Z",
+      "sourceId": "jne-hv-cAzktogv25_MdDhHYBUeGtMdWXqSoMu2"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD SANTA MARIA DEL MAR",
+      "role": "ALCALDE",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PERU PATRIA SEGURA",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 37183,
+        "public": 0,
+        "private": 37183
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ALZA SA",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7d4ccd58-ae58-4500-adb9-32038d6c3bf9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ca3f5300-39f0-4561-8484-b2aa0d7e9f09.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios médicos permanentes para los residentes, especialmente adultos mayores, niños y población vulnerable.",
+            "objective": "Implementar un Programa Integral de Salud Municipal mediante convenios con el MINSA, campañas médicas descentralizadas, telemedicina y la puesta en funcionamiento de un Centro de Atención Médica Municipal.",
+            "goal": "Realizar 12 campañas médicas por año. Brindar más de 3,000 atenciones médicas anuales. Alcanzar una cobertura del 80% de la población vulnerable del distrito.",
+            "indicator": "N.º de campañas médicas realizadas. N.º de atenciones médicas brindadas. N.° de beneficiarios de programas preventivos de salud."
+          },
+          {
+            "problem": "Escasos espacios de integración comunitaria, recreación y participación ciudadana que fortalezcan la convivencia entre vecinos.",
+            "objective": "Promover la integración social mediante la creación y recuperación de espacios públicos, el desarrollo de actividades culturales, deportivas y recreativas para todas las edades.",
+            "goal": "Organizar al menos 50 actividades comunitarias por año. Recuperar e implementar 5 espacios públicos de integración vecinal. Lograr la participación de más de 3,000 vecinos por año.",
+            "indicator": "N.° de actividades comunitarias realizadas. N.º de espacios públicos recuperados o implementados. N.° de participantes en actividades municipales."
+          },
+          {
+            "problem": "Déficit de programas sociales orientados a adultos mayores, personas con discapacidad, mujeres, jóvenes y población vulnerable.",
+            "objective": "Fortalecer los programas sociales municipales mediante servicios de asistencia, capacitación, inclusión social y apoyo a poblaciones en situación de vulnerabilidad.",
+            "goal": "Incrementar en 50% la cobertura de programas sociales. Realizar 40 talleres y actividades de capacitación por año. Alcanzar un nivel de satisfacción ciudadana superior al 85%.",
+            "indicator": "N.° de beneficiarios de programas sociales. N.º de talleres y capacitaciones realizadas. Nivel de satisfacción de los beneficiarios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Dependencia de actividades económicas estacionales, principalmente vinculadas a la temporada de verano, lo que genera fluctuaciones en los ingresos de los vecinos y emprendedores locales.",
+            "objective": "Diversificar la actividad económica del distrito mediante el impulso del turismo durante todo el año, la promoción de eventos culturales, deportivos y gastronómicos, y el fortalecimiento del emprendimiento local.",
+            "goal": "Realizar al menos 20 eventos de impacto distrital por año. Incrementar en 40% la afluencia de visitantes durante temporada baja. Beneficiar a 200 emprendimientos locales durante la gestión.",
+            "indicator": "N.º de eventos turísticos, culturales y deportivos realizados. N.° de visitantes registrados fuera de temporada. N.° de emprendimientos beneficiados."
+          },
+          {
+            "problem": "Escasa formalización económica de comerciantes, emprendedores y prestadores de servicios, limitando su acceso a financiamiento y oportunidades de crecimiento.",
+            "objective": "Promover la formalización empresarial mediante programas de asistencia técnica, simplificación administrativa, capacitación y articulación con entidades públicas y privadas.",
+            "goal": "Formalizar 50 negocios durante la gestión municipal. Realizar 6 jornadas de capacitación por año. Brindar asistencia técnica a 300 emprendedores locales.",
+            "indicator": "N.º de negocios formalizados. N.º de capacitaciones realizadas. N.° de emprendedores asesorados."
+          },
+          {
+            "problem": "Limitada generación de empleo local, especialmente para jóvenes y población económicamente activa del distrito.",
+            "objective": "Fomentar la empleabilidad y el desarrollo económico local mediante programas de capacitación laboral, bolsa de trabajo municipal y alianzas estratégicas con empresas privadas.",
+            "goal": "Capacitar a 1,000 vecinos durante la gestión. Realizar 4 ferias laborales por año. Facilitar la inserción laboral de al menos 500 vecinos.",
+            "indicator": "N.º de personas capacitadas para el empleo. N.º de ferias laborales realizadas. N.º de vecinos insertados en el mercado laboral."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la protección ambiental frente al deterioro de los ecosistemas, contaminación y limitada conciencia ambiental de la población.",
+            "objective": "Implementar un Programa Integral de Gestión Ambiental que promueva la conservación del entorno, la educación ambiental y la protección de los recursos naturales del distrito.",
+            "goal": "Realizar 12 campañas ambientales durante la gestión. Implementar programas permanentes de educación ambiental en instituciones educativas y organizaciones vecinales. Alcanzar la participación de más de 2,000 ciudadanos en actividades ambientales.",
+            "indicator": "N.° de campañas de educación ambiental realizadas. N.º de programas de sensibilización implementados. Nivel de participación ciudadana en actividades ambientales."
+          },
+          {
+            "problem": "Deficiencias en la gestión integral de residuos sólidos que generan impactos negativos en la salud pública y el medio ambiente.",
+            "objective": "Modernizar el sistema de gestión de residuos sólidos mediante la optimización del servicio de recolección, la implementación de programas de segregación en la fuente y el fortalecimiento del reciclaje.",
+            "goal": "Alcanzar un 40% de aprovechamiento de residuos reciclables. Incorporar al 70% de las viviendas en programas de segregación. Lograr una cobertura del 100% del servicio de recolección en todo el distrito.",
+            "indicator": "% de residuos sólidos segregados para reciclaje. N.º de viviendas participantes en programas de segregación. Frecuencia y cobertura del servicio de recolección."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de modernizar la gestión municipal debido a procesos administrativos poco eficientes, limitada digitalización y necesidad de optimizar la atención al ciudadano.",
+            "objective": "Modernizar la gestión municipal mediante la transformación digital de los servicios, la simplificación administrativa y la implementación de herramientas tecnológicas que mejoren la eficiencia institucional.",
+            "goal": "Digitalizar el 90% de los trámites municipales. Reducir en 50% los tiempos de atención al ciudadano. Alcanzar un nivel de satisfacción ciudadana superior al 90%.",
+            "indicator": "% de trámites digitalizados. Tiempo promedio de atención de trámites. Nivel de satisfacción de los usuarios."
+          },
+          {
+            "problem": "Necesidad de fortalecer la transparencia y el acceso a la información pública para generar mayor confianza entre la ciudadanía y la administración municipal.",
+            "objective": "Implementar un modelo de gobierno abierto que garantice la transparencia en la gestión, el acceso oportuno a la información pública y la rendición permanente de cuentas.",
+            "goal": "Publicar 4 informes de rendición de cuentas por año. Atender el 100% de solicitudes de información dentro de los plazos legales. Implementar un Portal de Gobierno Abierto y Transparencia Municipal durante el primer año de gestión.",
+            "indicator": "N.º de informes de rendición de cuentas publicados. % de solicitudes de acceso a la información atendidas dentro de los plazos establecidos. N.° de mecanismos de transparencia implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cAzktogv25_MdDhHYBUeGtMdWXqSoMu2",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cAzktogv25_MdDhHYBUeGtMdWXqSoMu2",
+      "sha256": "131bdc2210062bd2cf055de47fdaa610ef1aafbff849d713c14009b154a3ee96",
+      "accessedAt": "2026-10-02T23:05:40.389Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022690",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022690",
+      "sha256": "51ba350d4e6a8ee8b46a2fd9249835dabddd318f64e1bea9b488021b36109afd",
+      "accessedAt": "2026-10-02T23:05:40.964Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "1mn8WzUh-AT9e7CGJll4R1fKlfqiGXGx",
+  "slug": "ernesto-mikhajil-colqui-bedregal",
+  "electionId": "erm-2026",
+  "name": "Ernesto Mikhajil Colqui Bedregal",
+  "givenNames": "Ernesto Mikhajil",
+  "surnames": "Colqui Bedregal",
+  "age": 37,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:44.526Z",
+      "sourceId": "jne-hv-1mn8WzUh-AT9e7CGJll4R1fKlfqiGXGx"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE LIMA",
+        "program": "MAESTRIA DERECHO EMPRESARIAL",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPÚBLICA",
+      "role": "ASESOR",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA NACIONAL DE JUVENTUD",
+      "party": "ACCION POPULAR",
+      "from": "2015",
+      "to": "2016"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 94518.99,
+        "public": 94518.99,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5126ad12-386c-4306-b118-c5956d9006fc.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b7c49813-6d71-4c5a-8d1c-3cc10189ffff.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la delincuencia Violencia familiar y juvenil Déficit de espacios recreativos",
+            "objective": "Fortalecer la seguridad ciudadana Implementar programas de prevención y apoyo psicológico Recuperar parques y áreas deportivas",
+            "goal": "Reducir la delincuencia en 40% Implementar 20 programas sociales Recuperar 20 parques",
+            "indicator": "100 cámaras instaladas y 50 patrullajes realizados 100 talleres y 200 atenciones psicológicas 50 % de parques recuperados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desempleo juvenil Informalidad comercial Bajo desarrollo económico local",
+            "objective": "Promover programas de empleabilidad Formalización de pequeños negocios Impulsar ferias y emprendimientos",
+            "goal": "Capacitar a 5,000 jóvenes Formalizar 2,000 negocios Ejecutar 40 ferias productivas",
+            "indicator": "1,000 beneficiarios capacitados 500 licencias otorgadas 10 ferias realizadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental Déficit de áreas verdes Acumulación de residuos sólidos",
+            "objective": "Implementar programas de reciclaje Ejecutar programas de arborización Mejorar la limpieza pública",
+            "goal": "Incrementar reciclaje en 50% Plantar 10,000 árboles Cobertura del 100% del distrito",
+            "indicator": "2 toneladas recicladas 2,000 árboles plantados Frecuencia deficiente de recojo de residuos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Lentitud administrativa Falta de transparencia Escasa participación ciudadana",
+            "objective": "Digitalizar trámites municipales Fortalecer acceso a la información pública Implementar presupuesto participativo",
+            "goal": "Reducir tiempos en 60% Realizar 4 audiencias anuales Incrementar la participación en 50%",
+            "indicator": "Tiempo promedio de atención: 10 días hábiles 2 audiencias públicas Escasa participación vecinal registrada"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-1mn8WzUh-AT9e7CGJll4R1fKlfqiGXGx",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1mn8WzUh-AT9e7CGJll4R1fKlfqiGXGx",
+      "sha256": "92d30dbd1a6b3913e1b6e583f4d55fcb595c971bcb73ae3706dd8b8718e5dca6",
+      "accessedAt": "2026-10-02T22:55:44.526Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017552",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017552",
+      "sha256": "9e5dc24851096c7e7ff163b48f96762e8ee8d37c1cd9f2256be8ead7dcd74eff",
+      "accessedAt": "2026-10-02T22:55:45.066Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

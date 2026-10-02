@@ -1,0 +1,238 @@
+{
+  "id": "UZrZPESEV0ItD_4uCsDjQYRqfdVQOcRr",
+  "slug": "victoria-villanueva-quinones",
+  "electionId": "erm-2026",
+  "name": "Victoria Villanueva Quiñones",
+  "givenNames": "Victoria",
+  "surnames": "Villanueva Quiñones",
+  "age": 61,
+  "gender": "Femenino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:26.318Z",
+      "sourceId": "jne-hv-UZrZPESEV0ItD_4uCsDjQYRqfdVQOcRr"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "PNP",
+        "program": "SUB OFICIAL -SUPERIOR",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "LICENCIADO EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN CIENCIAS ADMINISTRATIVAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "POLICIA NACIONAL DEL PERU",
+      "role": "SUBOFICIAL SUPERIOR",
+      "from": "1985",
+      "to": "2011"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARIA NACIONAL DE ÉTICA Y DISCIPLINA",
+      "party": "PERU POSIBLE",
+      "from": "2012",
+      "to": "2014"
+    },
+    {
+      "position": "SECRETARÍA NACIONAL DE ÉTICA Y DISCIPLINA",
+      "party": "PERU POSIBLE",
+      "from": "2014",
+      "to": "2017"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO POLITICO PRIN",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 7000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 9000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CASA",
+        "value": 56000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/db895064-7a60-4519-a844-de0be8dbf01d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0dbc9825-8bf0-4646-a704-1e18e2858264.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de infraestructura educativa y deportiva que limita el desarrollo integral de niños y jóvenes.",
+            "objective": "Construir nuevos complejos deportivos, rehabilitar losas existentes e implementar programas de becas técnicas para mejorar las oportunidades de la juventud.",
+            "goal": "Construir 10 complejos deportivos, rehabilitar 50 losas y otorgar 3,000 becas técnicas municipales.",
+            "indicator": "Número de complejos deportivos construidos. Número de losas deportivas rehabilitadas. Número de becas técnicas otorgadas."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana que afectan la convivencia y el desarrollo económico del distrito.",
+            "objective": "Implementar un sistema integrado de seguridad ciudadana, fortaleciendo el patrullaje, la videovigilancia con inteligencia artificial y la coordinación con la Policía Nacional para reducir la delincuencia.",
+            "goal": "Reducir la victimización del 35% al 20% para el año 2030 y disminuir el tiempo de respuesta de 20 a 8 minutos.",
+            "indicator": "Tasa de victimización. Tiempo de respuesta del serenazgo. Porcentaje de cámaras integradas a la plataforma digital."
+          },
+          {
+            "problem": "Limitada cobertura y calidad en los servicios de atención primaria de salud, con persistencia de anemia infantil.",
+            "objective": "Fortalecer la salud preventiva mediante campañas médicas itinerantes, programas de lucha contra la anemia y la creación de centros de salud mental comunitarios.",
+            "goal": "Reducir la anemia del 28% al 15%, realizar 40,000 atenciones anuales y crear 5 centros psicológicos municipales.",
+            "indicator": "Porcentaje de reducción de la anemia. Número de atenciones anuales en campañas. Número de centros psicológicos implementados."
+          },
+          {
+            "problem": "Incremento de la violencia familiar y juvenil asociada a la precariedad económica y la desintegración social.",
+            "objective": "Reducir el pandillaje juvenil a través de la promoción de actividades deportivas y culturales en centros juveniles, y brindar apoyo integral a madres solteras en situación de vulnerabilidad.",
+            "goal": "Disminuir el pandillaje juvenil en un 20%.",
+            "indicator": "Porcentaje de reducción del pandillaje juvenil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo desarrollo empresarial formal con limitada capacidad de crecimiento, baja productividad y escasa innovación.",
+            "objective": "Impulsar el desarrollo productivo a través de la creación de un Parque Industrial Ligero para MYPES y la modernización del Mercado Mayorista.",
+            "goal": "Generar 3,000 empleos directos en un parque industrial de 20 hectáreas y lograr un incremento del 25% en la recaudación del mercado moderno.",
+            "indicator": "Número de empleos directos generados. Hectáreas destinadas al parque industrial. Incremento en la recaudación comercial."
+          },
+          {
+            "problem": "Alta tasa de informalidad económica, principalmente en el comercio ambulatorio, que genera competencia desleal y baja recaudación.",
+            "objective": "Reducir la informalidad mediante la formalización de negocios, implementando una Ventanilla Única Empresarial y programas de asistencia técnica y educación financiera.",
+            "goal": "Reducir la informalidad del 70% al 50% y aumentar el acceso a crédito formal en un 40%.",
+            "indicator": "Tasa de informalidad. Porcentaje de acceso a crédito formal."
+          },
+          {
+            "problem": "Limitado acceso a financiamiento formal para microempresarios, lo que restringe su rentabilidad y sostenibilidad.",
+            "objective": "Facilitar el acceso a capital para las MYPES mediante la creación de un Fondo Rotatorio Municipal que ofrezca créditos blandos.",
+            "goal": "Establecer un fondo rotatorio con un capital inicial de S/ 20 millones, ofreciendo créditos con tasas de interés del 8% al 12%.",
+            "indicator": "Monto inicial del fondo rotatorio. Tasa de interés de los créditos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante, ubicándose por debajo de los estándares recomendados por la OMS.",
+            "objective": "Incrementar la superficie de áreas verdes mediante la reforestación de laderas, la creación de un parque ecológico y la implementación de riego tecnificado.",
+            "goal": "Aumentar las áreas verdes de 3 m² a 8 m² por habitante para el año 2030.",
+            "indicator": "Metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Contaminación por residuos sólidos debido a una capacidad de gestión superada y una baja cultura de reciclaje.",
+            "objective": "Mejorar la gestión de residuos sólidos con la construcción de una Planta de Reciclaje Distrital para incrementar la valorización de residuos.",
+            "goal": "Incrementar la tasa de reciclaje del 10% a un 25%.",
+            "indicator": "Tasa de reciclaje distrital."
+          },
+          {
+            "problem": "Ocupación informal de laderas que incrementa la vulnerabilidad de la población ante desastres naturales.",
+            "objective": "Implementar un programa de reforestación en las zonas de laderas para la recuperación ecológica y la mitigación de riesgos.",
+            "goal": "Reforestar 120 hectáreas de laderas con la plantación de 100,000 árboles.",
+            "indicator": "Hectáreas reforestadas. Número de árboles plantados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil recaudación tributaria a causa de una baja cultura de pago y un catastro desactualizado.",
+            "objective": "Modernizar la gestión tributaria mediante la actualización georreferenciada del 100% de los predios y la implementación de un sistema de pago digital.",
+            "goal": "Aumentar la recaudación predial en un 60%, pasando de S/ 120 millones a S/ 200 millones anuales.",
+            "indicator": "Incremento porcentual de la recaudación predial. Monto total de recaudación anual."
+          },
+          {
+            "problem": "Procesos administrativos lentos y una insuficiente digitalización de los servicios municipales.",
+            "objective": "Implementar un sistema de gobierno digital integral que permita realizar todos los trámites de manera virtual, reduciendo tiempos y costos.",
+            "goal": "Alcanzar el 100% de trámites en línea y reducir los tiempos de gestión en un 60%.",
+            "indicator": "Porcentaje de trámites disponibles en línea. Porcentaje de reducción de tiempos en trámites."
+          },
+          {
+            "problem": "Baja ejecución presupuestal de inversiones que afecta el cierre de brechas sociales y de infraestructura.",
+            "objective": "Implementar un modelo de gestión por resultados con indicadores de desempeño (KPI) y asegurar la ejecución de los proyectos priorizados en el presupuesto participativo.",
+            "goal": "Lograr el 100% de ejecución de los proyectos priorizados y alcanzar una ejecución presupuestal superior al 95%.",
+            "indicator": "Porcentaje de ejecución de proyectos priorizados. Tasa de ejecución presupuestal global."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-UZrZPESEV0ItD_4uCsDjQYRqfdVQOcRr",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/UZrZPESEV0ItD_4uCsDjQYRqfdVQOcRr",
+      "sha256": "2d1dda0d5bd2088af53ff09c797fcb27619850f614b527477cc04d5c78634e8b",
+      "accessedAt": "2026-10-02T22:55:26.318Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022904",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022904",
+      "sha256": "9aec0b53b618f4395822f5492027e14e758631d7e2d5c401f31b970b1184da2b",
+      "accessedAt": "2026-10-02T22:55:26.798Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "xyjHSEWYvTmBb4ImrjbDFT4QzDRHVVw3",
+  "slug": "enrique-fernando-delucchi-chueca",
+  "electionId": "erm-2026",
+  "name": "Enrique Fernando Delucchi Chueca",
+  "givenNames": "Enrique Fernando",
+  "surnames": "Delucchi Chueca",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140125",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:30.290Z",
+      "sourceId": "jne-hv-xyjHSEWYvTmBb4ImrjbDFT4QzDRHVVw3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACION Y NEGOCIOS INTERNACIONALES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad del Pacifico",
+        "program": "Maestria",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Desayuno Mirador EIRL",
+      "role": "Gerente general",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "Delucchi y Cruz SRL",
+      "role": "Administrador",
+      "from": "2021",
+      "to": "2025"
+    },
+    {
+      "employer": "Delucchi Hermanos SAC",
+      "role": "Administrador",
+      "from": "2010",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "PERSONERO LEGAL ALTERNO",
+      "party": "DECISION BARRANCO",
+      "from": "2017",
+      "to": "2018"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "DECISION BARRANCO",
+      "from": "2017",
+      "to": "2018"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2021"
+    },
+    {
+      "party": "DECISION BARRANCO",
+      "year": "2015"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 100260,
+        "public": 0,
+        "private": 100260
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 152097.78,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Desayunos Mirador EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 100,
+        "value": 5
+      },
+      {
+        "company": "Compra, venta y servicios distribuidores EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 100,
+        "value": 5
+      }
+    ]
+  },
+  "additionalInfo": [
+    "Pertenezco a la asociación civil \"DECISION CIUDADANA\""
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5931bc02-6605-4347-bf38-78275df50c66.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/54057d65-3a07-4c77-a31b-b62924530ae0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de situaciones de violencia contra mujeres, niños, niñas, adolescentes, adultos mayores y otras poblaciones vulnerables, con acciones preventivas, de atención y protección limitadas.",
+            "objective": "Fortalecer la Instancia Distrital de Concertación y el Servicio Integral Especializado para la prevención de la violencia en las familias, articulando DEMUNA, colegios, salud, comisarías, CEM y organizaciones vecinales. Implementar programas integrales de prevención, atención, recuperación y empoderamiento.",
+            "goal": "Consolidar una red distrital activa que prevenga, atienda y acompañe los casos de violencia de manera oportuna y humana, mejorando la atención, protección y seguimiento de víctimas y poblaciones vulnerables.",
+            "indicator": "Reducción de los factores de riesgo de violencia familiar y mejora en el seguimiento de víctimas."
+          },
+          {
+            "problem": "Alta incidencia de delitos contra el patrimonio, especialmente hurtos, concentrados en corredores turísticos, gastronómicos y comerciales, debido a condiciones como iluminación deficiente, baja vigilancia y desorden urbano.",
+            "objective": "Implementar corredores seguros con iluminación LED inteligente, recuperación de espacios degradados, señalética preventiva y vigilancia en puntos críticos. Ejecutar auditorías CPTED trimestrales para priorizar intervenciones.",
+            "goal": "Recuperar espacios públicos inseguros, mejorar la percepción de seguridad y consolidar corredores seguros en las principales zonas turísticas, comerciales y residenciales de Barranco.",
+            "indicator": "Reducción de la incidencia delictiva en las zonas intervenidas y mejora de la percepción de seguridad."
+          },
+          {
+            "problem": "La gestión municipal de deportes y juventudes es limitada y no aprovecha la geografía del distrito, careciendo de una propuesta ordenada, inclusiva y permanente para fomentar la actividad física.",
+            "objective": "Crear la \"Ruta del Atletismo Barranquino\" con circuitos accesibles, señalética y equipamiento. Implementar festivales de atletismo y una Escuela Municipal de Running gratuita.",
+            "goal": "Convertir a Barranco en un distrito activo, saludable y caminable, utilizando sus espacios públicos como infraestructura deportiva y promoviendo hábitos saludables e integración juvenil.",
+            "indicator": "Número de niños, jóvenes y vecinos incorporados en programas gratuitos de atletismo y running."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El distrito enfrenta informalidad comercial, trámites poco amigables, ocupación indebida del espacio público y negocios que no siempre respetan el giro autorizado, afectando el desarrollo local y las zonas residenciales.",
+            "objective": "Crear una Ventanilla Única de Formalización, empadronar comercios, ordenar giros comerciales e implementar mercados modelo y ferias autorizadas con capacitación a comerciantes.",
+            "goal": "Formalizar progresivamente el comercio local, convertir mercados y ferias en espacios limpios y seguros, e impulsar el desarrollo económico sin invadir zonas residenciales o patrimoniales.",
+            "indicator": "Incremento en el número de comercios formalizados y reducción de la ocupación indebida del espacio público."
+          },
+          {
+            "problem": "La actividad nocturna genera molestias a los vecinos por su crecimiento desordenado, manifestado en ruido, colas, consumo de alcohol en vía pública, congestión e inseguridad, afectando zonas residenciales y patrimoniales.",
+            "objective": "Implementar el programa “Barranco Nocturno Ordenado” con mapa de actividad, horarios diferenciados, control de ruido y licencias condicionadas. Realizar fiscalización nocturna integrada.",
+            "goal": "Ordenar la actividad nocturna protegiendo el descanso de los vecinos y consolidar un modelo donde la actividad económica funcione con reglas claras, fiscalización efectiva y respeto por las zonas residenciales.",
+            "indicator": "Reducción del número de quejas vecinales por ruido y del uso indebido del espacio público asociado a la actividad nocturna."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito tiene un marco urbano desactualizado y disperso, sin un Plan Urbano Distrital operativo, lo que genera conflictos entre la presión inmobiliaria y las zonas residenciales, debilitando la protección de la vida vecinal y el patrimonio.",
+            "objective": "Elaborar e implementar el Plan Urbano Distrital 2027-2037, actualizando la zonificación, alturas y usos compatibles. Fortalecer el control urbano con catastro actualizado, fiscalización preventiva y participación vecinal.",
+            "goal": "Contar con reglas urbanas claras y fiscalizables para ordenar el crecimiento de Barranco, protegiendo las zonas residenciales, el patrimonio urbano y la calidad de vida del vecino, mediante una gestión urbana preventiva y transparente.",
+            "indicator": "Aprobación e implementación del Plan Urbano Distrital y creación de un Observatorio Urbano con información pública."
+          },
+          {
+            "problem": "Existencia de contaminación sonora en avenidas principales, zonas comerciales y locales nocturnos, afectando el descanso y la calidad de vida de los vecinos, agravado por la falta de medición y control permanente.",
+            "objective": "Actualizar el mapa de puntos críticos de ruido, instalar señalética preventiva y realizar fiscalizaciones constantes. Reforzar inspectores para controlar ruidos de locales, claxon y transporte público.",
+            "goal": "Mejorar el descanso, la convivencia vecinal y la calidad ambiental urbana de Barranco.",
+            "indicator": "Reducción progresiva de los niveles de ruido en los puntos críticos del distrito, logrando una reducción referencial de hasta 10 dB en zonas focalizadas."
+          },
+          {
+            "problem": "Sectores sensibles del distrito en el acantilado, la Costa Verde y el borde costero requieren una gestión urbana preventiva frente a riesgos de sismo, tsunami y movimientos en masa para reducir vulnerabilidades.",
+            "objective": "Aprobar un protocolo especial para zonas de riesgo que exija revisión geotécnica y evaluación de riesgo especializada. Incluir control posterior obligatorio en licencias, obras y actividades en sectores sensibles.",
+            "goal": "Reducir la exposición del distrito frente a riesgos urbanos en el borde costero y contar con una gestión preventiva que proteja vidas, viviendas, infraestructura y espacio público.",
+            "indicator": "Número de autorizaciones denegadas por falta de sustento técnico en zonas vulnerables y reducción de la exposición al riesgo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El municipio requiere fortalecer su defensa legal e institucional frente a concesiones o contratos que afectan el interés público, debido a la explotación de bienes públicos sin control suficiente o cumplimiento contractual.",
+            "objective": "Fortalecer la Procuraduría Municipal para revisar contratos y concesiones. Crear un espacio web municipal para publicar información completa y actualizada sobre concesiones, contratos, obligaciones y pagos.",
+            "goal": "Recuperar o corregir el uso de espacios públicos concesionados contra el interés de Barranco, exigir el cumplimiento estricto de los contratos y garantizar el acceso público a la información sobre las concesiones municipales.",
+            "indicator": "Porcentaje de cumplimiento de obligaciones contractuales de las concesiones y número de contratos revisados."
+          },
+          {
+            "problem": "La municipalidad mantiene una estructura presupuestal muy rígida, destinando el 97% de sus recursos a gasto corriente y solo el 2.7% a inversión pública, lo que limita la capacidad de ejecutar obras y mejorar servicios.",
+            "objective": "Implementar un programa de optimización del gasto municipal mediante auditoría funcional, digitalización de procesos y reorganización interna. Crear un Fondo Distrital de Inversión con los recursos liberados.",
+            "goal": "Elevar la inversión pública distrital a niveles sostenibles y orientados a resultados, logrando que los recursos municipales se traduzcan en obras concretas y mejoras visibles en Barranco.",
+            "indicator": "Reducción progresiva del porcentaje de gasto corriente y aumento del presupuesto de inversión pública."
+          },
+          {
+            "problem": "La participación vecinal y escolar carece de canales formales efectivos para proponer, fiscalizar y dar seguimiento a temas de interés, lo que limita el control ciudadano y la corresponsabilidad en las decisiones municipales.",
+            "objective": "Incorporar a los Municipios Escolares en la estructura del Concejo Distrital, permitir la intervención de presidentes de juntas vecinales en sesiones ordinarias y fortalecer los mecanismos de participación y presupuesto participativo.",
+            "goal": "Convertir la participación vecinal y escolar en una práctica permanente de gobierno, dando voz real a juntas vecinales, organizaciones sociales, niños y adolescentes, y fortaleciendo el control ciudadano.",
+            "indicator": "Número de propuestas de juntas vecinales y municipios escolares incorporadas en la gestión municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-xyjHSEWYvTmBb4ImrjbDFT4QzDRHVVw3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/xyjHSEWYvTmBb4ImrjbDFT4QzDRHVVw3",
+      "sha256": "fdb2cd92c1fd0b940ae135c8c04b220b72caa600ff5cf9d236a0bdc7274e46ee",
+      "accessedAt": "2026-10-02T22:51:30.290Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021594",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021594",
+      "sha256": "2f7de19dac4b2dade0e4ebe298d4e123f842378073591f5aea5e34e948f549d8",
+      "accessedAt": "2026-10-02T22:51:30.769Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "id": "34veEYiU_c55s2IYOEFLzN3IGykMY9fD",
+  "slug": "alexander-enrique-von-ehren-campos",
+  "electionId": "erm-2026",
+  "name": "Alexander Enrique Von Ehren Campos",
+  "givenNames": "Alexander Enrique",
+  "surnames": "Von Ehren Campos",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:02.618Z",
+      "sourceId": "jne-hv-34veEYiU_c55s2IYOEFLzN3IGykMY9fD"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "AUSTIN COMMUNITY COLLEGE",
+        "program": "ASSOCIATE SCIENCE IN BUSSINESS ADMINISTRATION",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ALSAXA S.A.C",
+      "role": "APODERADO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "RESTAURANTEUR S.A.C.",
+      "role": "PRESIDENTEDEL DIRECTORIO/APODERADO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "LARANCINO S.A.C",
+      "role": "APODERADO",
+      "from": "2022",
+      "to": "2025"
+    },
+    {
+      "employer": "ALSAXA S.A.C",
+      "role": "APODERADO",
+      "from": "2015",
+      "to": "2021"
+    },
+    {
+      "employer": "LARANCINO S.A.C",
+      "role": "APODERADO",
+      "from": "2019",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "RENOVACION POPULAR",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "COMITÉ NACIONAL DE POLÍTICA",
+      "party": "PARTIDO POLITICO CONTIGO",
+      "from": "2017",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 1137271.47,
+        "public": 36090,
+        "private": 1101181.47
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 433863.46,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 15291.64,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 257130.12,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 13239.45,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 23207.54,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1882.85,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1260410.8,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 12921.43,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 258289.08,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 98895.84,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 105483.66,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 184665.64,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 14671.45,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11315.7,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 27243.27,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VESPA- 50 CC- 2013",
+        "value": 7600
+      },
+      {
+        "type": "CAMIONETA BMW-XS-2020",
+        "value": 264195
+      },
+      {
+        "type": "CAMIONETA MB - GLS 400 AMATIC-2018",
+        "value": 176130
+      },
+      {
+        "type": "CAMIONETA KIA-SPORTAGE-2012",
+        "value": 39397
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "LARANCINO SAC",
+        "type": "ACCIONES",
+        "quantity": 11408,
+        "value": 11408
+      },
+      {
+        "company": "SAN MARTIN GOURMET S.A.C",
+        "type": "ACCIONES",
+        "quantity": 600,
+        "value": 600
+      },
+      {
+        "company": "HAMPTON COMPANY ASSOCIATES INC.",
+        "type": "ACCIONES",
+        "quantity": 15,
+        "value": 5127
+      },
+      {
+        "company": "Consorcio Publitextil SCRLtda",
+        "type": "ACCIONES",
+        "quantity": 400,
+        "value": 400
+      },
+      {
+        "company": "Utah Holding SAC",
+        "type": "ACCIONES",
+        "quantity": 4950,
+        "value": 4950
+      },
+      {
+        "company": "Matma Design SCRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 500,
+        "value": 500
+      },
+      {
+        "company": "ALSAXA S.A.C",
+        "type": "ACCIONES",
+        "quantity": 690,
+        "value": 690
+      },
+      {
+        "company": "BOULEVARD IBIZA SAC",
+        "type": "ACCIONES",
+        "quantity": 1120,
+        "value": 1120
+      },
+      {
+        "company": "CASSIS SRLTda.",
+        "type": "PARTICIPACIONES",
+        "quantity": 38,
+        "value": 380
+      },
+      {
+        "company": "CARTON INVEST SAC",
+        "type": "ACCIONES",
+        "quantity": 402,
+        "value": 402
+      },
+      {
+        "company": "UNITED PRODUCCIONES SAC",
+        "type": "ACCIONES",
+        "quantity": 1250,
+        "value": 1250
+      },
+      {
+        "company": "CALANCO SAC",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 100
+      },
+      {
+        "company": "RESTAURANTEUR SAC",
+        "type": "ACCIONES",
+        "quantity": 105370,
+        "value": 105370
+      },
+      {
+        "company": "Inversiones Prodesarrollo Asia SAC",
+        "type": "ACCIONES",
+        "quantity": 60,
+        "value": 600
+      },
+      {
+        "company": "UNITED DISCO SAC",
+        "type": "ACCIONES",
+        "quantity": 9750,
+        "value": 9750
+      },
+      {
+        "company": "Surpesur SCRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 125,
+        "value": 1250
+      },
+      {
+        "company": "TAVIRA INVESTMENTS SA",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 17090
+      },
+      {
+        "company": "INVERSIONES TAVIRA S.A.C",
+        "type": "ACCIONES",
+        "quantity": 302,
+        "value": 302
+      },
+      {
+        "company": "Von-EHR EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 1000,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "Los estudios en el Austin Community College del extranjero no han sido homologados ante SUNEDU",
+    "LAS EMPRESAS PANAMEÑAS TAVIRA INVESTMENT SA y Hampton Company Associates INC estan inactivas, nunca abrieron cuentas bancarias y / o financieras"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a4e5025c-9f02-4350-87bd-788ccbe2e8eb.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b4c3ac9c-e1ad-4355-ac62-97fe65b32f9f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana",
+            "objective": "Mejorar la prevención y la respuesta de la Municipalidad frente al delito",
+            "goal": "Reducir en 30% los delito de la ciudad, fortalecer patrullaje, ampliar cámaras de seguridad",
+            "indicator": "Patrullajes integrados; mas cámaras operativas; incremento de serenos en las calles"
+          },
+          {
+            "problem": "Deterioro de veredas, calles e iluminación",
+            "objective": "Mejorar la transitabilidad y seguridad urbana",
+            "goal": "Atención del 100% de puntos más críticos del distrito",
+            "indicator": "M2 de veredas reparadas; m2 de pistas reparadas; más puntos de iluminación"
+          },
+          {
+            "problem": "Falta de programas de entretenimiento cultural",
+            "objective": "Institucionalizar agenda permanente de cultura, deporte y recreación",
+            "goal": "Al menos 4 actividades mensuales en las diferentes zonas del distrito",
+            "indicator": "Actividades mensuales; mejora de participantes;"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Congestión y tránsito",
+            "objective": "Mejorar la gestión del tránsito y la movilidad urbana",
+            "goal": "Reducir en 20% los tiempos de circulación en el distrito; aumentar de ciclo vías",
+            "indicator": "Mejora de las intersecciones; mejora de las vías de movilidad sostenible; mejora de los tiempos de viaje"
+          },
+          {
+            "problem": "Débil articulación municipio-vecinosactividad local",
+            "objective": "Fortalecer entorno; favoreces la actividad local",
+            "goal": "Reducir en 30% tiempos de trámites municipales",
+            "indicator": "Mesas de trabajo comerciales; mejores tiempos en los trámite"
+          },
+          {
+            "problem": "Escaso aprovechamiento del espacio público",
+            "objective": "Recuperar y añadir nuevos espacios públicos",
+            "goal": "Recuperar y crear al menos 10 espacios públicos estratégicos",
+            "indicator": "Mejores espacios recuperados; nuevas actividades en esos espacios;"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente cultura medio ambiental",
+            "objective": "Promover el reciclaje",
+            "goal": "Ejecutar campañas de promoción del reciclaje durante la gestión",
+            "indicator": "Campañas; residuos"
+          },
+          {
+            "problem": "Deterioro de parques y áreas verdes",
+            "objective": "Mejorar la calidad y el mantenimiento de los parques y jardines",
+            "goal": "Intervenir integralmente los parques y jardines del distrito",
+            "indicator": "Numero de parques intervenidos; número de los m2 mejorados;"
+          },
+          {
+            "problem": "Uso inadecuado del espacio público",
+            "objective": "Recuperar orden urbano, limpieza y ornato",
+            "goal": "Mejorar el 40% de los espacios públicos encontrados",
+            "indicator": "Espacios recuperados; fiscalizaciones; puntos críticos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Corrupción y desconfianza",
+            "objective": "Garantizar una gestión transparente y fácil de fiscalizar",
+            "goal": "Reportes bimensuales y aumentar audiencias públicas al año",
+            "indicator": "Reportes públicos; audiencias vecinales; denuncias atendidas"
+          },
+          {
+            "problem": "Escasa participación vecinal",
+            "objective": "Promover la participación ciudadana activa",
+            "goal": "Promover canales y espacios activos de participación en el distrito",
+            "indicator": "Mejores espacios de participación; mejorar la asistencia; promover propuestas para dicha participación"
+          },
+          {
+            "problem": "Débil orientación a resultados",
+            "objective": "Modernizar la gestión municipal por metas e indicadores",
+            "goal": "Implementar monitoreo de gerencias y sub gerencias",
+            "indicator": "Metas cumplidas; satisfacción del vecino"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-34veEYiU_c55s2IYOEFLzN3IGykMY9fD",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/34veEYiU_c55s2IYOEFLzN3IGykMY9fD",
+      "sha256": "f2b12c67b891ada20350aa96d4da254d02b9c521f50efa951cf37acdcdd4e43e",
+      "accessedAt": "2026-10-02T23:00:02.618Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015424",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015424",
+      "sha256": "1786bc2e431c3b3e95d50ef557c4987cd98deb5031bdabdc0b8d155774d09845",
+      "accessedAt": "2026-10-02T23:00:03.207Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

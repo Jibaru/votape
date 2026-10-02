@@ -1,0 +1,221 @@
+{
+  "id": "IvUcu0sBKSfB6WSMQEAkl_wMYoGQfPQ-",
+  "slug": "jose-miguel-rodriguez-tasayco",
+  "electionId": "erm-2026",
+  "name": "Jose Miguel Rodriguez Tasayco",
+  "givenNames": "Jose Miguel",
+  "surnames": "Rodriguez Tasayco",
+  "age": 30,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140110",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:32.272Z",
+      "sourceId": "jne-hv-IvUcu0sBKSfB6WSMQEAkl_wMYoGQfPQ-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CENTRO VACACIONAL HUAMPANI -MINISTERIO DE EDUCACION",
+      "role": "ABOGADO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "role": "ABOGADO",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "MINISTERIO DE TRANSPORTES Y COMUNICACIONES",
+      "role": "PROFESIONAL EN DERECHO",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "UGEL 06- MINISTERIO DE EDUCACION",
+      "role": "ASISTENTE LEGAL",
+      "from": "2021",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 66000,
+        "public": 66000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6af63a99-165e-46ab-a466-8415df6becc9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6c003bd6-5d22-4a91-9557-60935e9e8915.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana, ocupación ilegal de espacios y percepción de inseguridad.",
+            "objective": "Modernizar la videovigilancia, fortalecer el serenazgo, el patrullaje integrado, la recuperación de los Puestos de Auxilio Rápido (PAR) y el fortalecimiento de las juntas vecinales.",
+            "goal": "Reducir la tasa de criminalidad distrital en un 50% al final del período de gestión (2027-2030), tomando como línea base el número de denuncias registradas en la comisaría y serenazgo al año 2026.",
+            "indicator": "Tasa de delitos, patrullajes realizados, cámaras instaladas, percepción de seguridad."
+          },
+          {
+            "problem": "Brechas educativas y limitadas oportunidades de formación.",
+            "objective": "Implementar un programa de formación docente, becas de pregrado y posgrado, un centro internacional de idiomas y el fortalecimiento cultural.",
+            "goal": "Incrementar en un 40% el acceso de la población del distrito a programas educativos y culturales al 2030, respecto a la línea base 2026, mediante la ampliación de talleres, becas, bibliotecas y actividades culturales descentralizadas.",
+            "indicator": "Número de docentes capacitados, becas otorgadas y alumnos beneficiados."
+          },
+          {
+            "problem": "Déficit de infraestructura deportiva y recreativa.",
+            "objective": "Construcción de un polideportivo, piscinas, gimnasios municipales y escuelas deportivas.",
+            "goal": "Incrementar en un 45% la participación de la población del distrito en actividades deportivas y de promoción de hábitos saludables al año 2030, en relación con la línea base 2026, mediante la ampliación de programas deportivos, campañas de salud preventiva y uso de infraestructura deportiva pública.",
+            "indicator": "Infraestructura implementada, número de usuarios y participantes."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud cercanos.",
+            "objective": "Descentralizar los servicios de MoliSalud, implementar ambulancias municipales y fortalecer las postas médicas.",
+            "goal": "Incrementar en un 40% la cobertura de atención sanitaria oportuna en el distrito al año 2030, respecto a la línea base 2026, mediante la ampliación de servicios de salud primaria, campañas médicas y articulación con establecimientos de salud públicos.",
+            "indicator": "Número de atenciones médicas, ambulancias operativas y tiempos de respuesta."
+          },
+          {
+            "problem": "Barreras de accesibilidad y servicios básicos insuficientes.",
+            "objective": "Desarrollar infraestructura inclusiva, garantizar el acceso universal al agua potable y promover la formalización predial.",
+            "goal": "Alcanzar el 100% de cobertura del servicio de agua potable en el distrito al año 2030, garantizando el acceso universal, continuo y de calidad para toda la población, con especial énfasis en sectores vulnerables y zonas periféricas.",
+            "indicator": "Rampas construidas, viviendas con acceso a agua y títulos de propiedad entregados."
+          },
+          {
+            "problem": "Abandono y maltrato animal en el distrito.",
+            "objective": "Crear un albergue municipal, implementar veterinarias descentralizadas y promover la esterilización y adopción responsable.",
+            "goal": "Reducir en un 60% los casos de abandono animal registrados en el distrito al año 2030, respecto a la línea base 2026, y fortalecer el sistema municipal de protección y bienestar animal mediante programas de tenencia responsable, esterilización y rescate.",
+            "indicator": "Número de mascotas atendidas, esterilizaciones y adopciones realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja formalización y dificultades para emprender.",
+            "objective": "Crear el Centro Emprendedor Molinense, un registro distrital de emprendimientos y ofrecer capacitación empresarial.",
+            "goal": "Incrementar en un 50% la formalización de los negocios del distrito al año 2030, respecto a la línea base 2026, y fortalecer su sostenibilidad mediante programas de capacitación, simplificación de trámites y acceso a servicios de desarrollo empresarial.",
+            "indicator": "Número de negocios formalizados y emprendedores atendidos."
+          },
+          {
+            "problem": "Congestión vehicular y deficiente movilidad urbana.",
+            "objective": "Ejecutar obras viales, implementar semaforización inteligente y modernizar paraderos.",
+            "goal": "Reducir en un 45% el tiempo promedio de desplazamiento urbano y la congestión vehicular en el distrito al año 2030, respecto a la línea base 2026, mediante mejoras en infraestructura vial, gestión del tránsito y optimización del transporte urbano.",
+            "indicator": "Tiempo de viaje e intersecciones intervenidas."
+          },
+          {
+            "problem": "Desempleo y falta de experiencia laboral en la población.",
+            "objective": "Fortalecer la bolsa de trabajo, organizar ferias laborales y promover el primer empleo joven.",
+            "goal": "Incrementar en un 40% la empleabilidad de la población económicamente activa del distrito y aumentar en un 35% el empleo formal al año 2030, respecto a la línea base 2026, mediante programas de capacitación laboral e intermediación de empleo.",
+            "indicator": "Número de colocaciones laborales, convenios suscritos y capacitaciones realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de parques y áreas verdes.",
+            "objective": "Implementar parques ecoeficientes, renovar juegos infantiles y establecer un sistema de monitoreo y mantenimiento permanente.",
+            "goal": "Recuperar y modernizar el 80% de los espacios públicos del distrito al año 2030, respecto a la línea base 2026, mediante la intervención integral de parques, plazas, losas deportivas y espacios comunitarios, incorporando criterios de accesibilidad, seguridad y sostenibilidad.",
+            "indicator": "Número de parques intervenidos y áreas verdes mantenidas."
+          },
+          {
+            "problem": "Escasas alternativas de movilidad sostenible.",
+            "objective": "Implementar ciclovías integradas, estaciones bicitécnicas, biciparqueaderos y el servicio de transporte Molibus.",
+            "goal": "Incrementar en un 45% el uso de medios de transporte sostenible en el distrito al año 2030, respecto a la línea base 2026, promoviendo el uso de transporte público, movilidad activa y sistemas de movilidad limpia.",
+            "indicator": "Kilómetros de ciclovías y número de usuarios de transporte municipal."
+          },
+          {
+            "problem": "Deficiente gestión de residuos y reciclaje.",
+            "objective": "Implementar el programa \"La Molina Recicla\", fomentar el compostaje y la segregación en fuente.",
+            "goal": "Reducir en un 40% el volumen de residuos sólidos enviados a disposición final al año 2030, respecto a la línea base 2026, mediante la implementación de programas de segregación en la fuente, reciclaje, reutilización y compostaje.",
+            "indicator": "Toneladas de material reciclado y número de hogares participantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Atención municipal poco cercana a los vecinos.",
+            "objective": "Implementar un servicio itinerante de atención al vecino y mejorar la calidad de la atención.",
+            "goal": "Incrementar en un 60% la cobertura de atención de servicios municipales dirigidos a poblaciones vulnerables al año 2030, respecto a la línea base 2026, mediante la implementación de servicios itinerantes, plataformas digitales y atención descentralizada en el distrito.",
+            "indicator": "Número de atenciones realizadas y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Participación ciudadana limitada en la gestión municipal.",
+            "objective": "Implementar el Consejo Municipal Itinerante y fortalecer los mecanismos de participación.",
+            "goal": "Incrementar en un 50% la participación directa de los vecinos en los mecanismos de gestión municipal al año 2030, respecto a la línea base 2026, mediante la implementación de presupuestos participativos, audiencias públicas, juntas vecinales y plataformas digitales de participación ciudadana.",
+            "indicator": "Número de sesiones realizadas y nivel de participación vecinal."
+          },
+          {
+            "problem": "Necesidad de modernización digital en los servicios municipales.",
+            "objective": "Implementar la aplicación \"La Molina 360\" y avanzar en la digitalización de trámites y conectividad.",
+            "goal": "Implementar una gestión municipal moderna y transparente, alcanzando al año 2030 un nivel de cumplimiento del 100% de los estándares de gobierno abierto, digitalización de procesos y rendición de cuentas, respecto a la línea base 2026.",
+            "indicator": "Número de trámites digitales y usuarios activos en las plataformas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-IvUcu0sBKSfB6WSMQEAkl_wMYoGQfPQ-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/IvUcu0sBKSfB6WSMQEAkl_wMYoGQfPQ-",
+      "sha256": "642fd7ad21a917b57033c23083662b21eabb88a47b5de6fe56ed55e78ce6b8ce",
+      "accessedAt": "2026-10-02T22:57:32.272Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026029526",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026029526",
+      "sha256": "aef158a5cbcafd3c167d8b42c9ce48a431e1f108872c0654fda44b684c521087",
+      "accessedAt": "2026-10-02T22:57:32.746Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "id": "u00y3refcOKokCbUIqjZlPp3tqxfeS1w",
+  "slug": "carmen-rosario-cardenas-alcarraz",
+  "electionId": "erm-2026",
+  "name": "Carmen Rosario Cardenas Alcarraz",
+  "givenNames": "Carmen Rosario",
+  "surnames": "Cardenas Alcarraz",
+  "age": 45,
+  "gender": "Femenino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:36.158Z",
+      "sourceId": "jne-hv-u00y3refcOKokCbUIqjZlPp3tqxfeS1w"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IST CEPEA",
+        "program": "ADMINISTRACION DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "SERVICIO DE ALQUILERES",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA DEL PERU",
+      "role": "AUXILIAR ADMINISTRATIVO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIGANCHO",
+      "role": "SUB GERENTE",
+      "from": "2017",
+      "to": "2018"
+    },
+    {
+      "employer": "ASOCIACION COUNTRY CLUB EL BOSQUE",
+      "role": "ASISTENTE DE ADMINISTRACION",
+      "from": "2015",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA DE ACTAS",
+      "party": "LUCHO POR MI BARRIO",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "LUCHO POR MI BARRIO",
+      "from": "2017",
+      "to": "2019"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "LUCHO POR MI BARRIO",
+      "year": "2019"
+    },
+    {
+      "party": "PARTIDO NACIONALISTA PERUANO",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 67242.43,
+        "public": 42642.43,
+        "private": 24600
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4a27f79f-56c9-498c-b1bc-be9da1303b28.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/67dd5272-390c-4ce5-84f4-a0a944d11389.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Muchos jóvenes culminan la educación secundaria sin acceso a capacitación técnica, oportunidades laborales, orientación vocacional o herramientas para emprender.",
+            "objective": "Brindar oportunidades de capacitación, formación para el trabajo, emprendimiento y desarrollo personal a los jóvenes del distrito. Programa: Jóvenes con Futuro.",
+            "goal": "Convenios con CETPROS, institutos, universidades, PRONABEC y MINTRA gestionados. Programas de capacitación técnica certificada en coordinación con UGEL 06. Talleres de tecnología, computación e IA. Red de Jóvenes Voluntarios de Chaclacayo fortalecida. Servicio de orientación educativa, laboral y vocacional activo.",
+            "indicator": "N° de jóvenes beneficiados. N° de convenios gestionados. N° de capacitaciones realizadas. N° de certificaciones obtenidas."
+          },
+          {
+            "problem": "Persisten necesidades relacionadas con el acceso oportuno a servicios de salud, salud mental, nutrición, prevención de la anemia y atención integral a familias vulnerables.",
+            "objective": "Promover el bienestar integral de la población mediante la articulación de servicios de salud, apoyo familiar y acciones preventivas. Programas: Caravana Integral de Salud y Chaclacayo Te Escucha.",
+            "goal": "Caravana Integral de Salud descentralizada operativa. Farmadiris implementada mediante convenio con DIRIS Lima Este. Red de Farmacias Solidarias activa. Programa Cuna para Crecer gestionado con MIDIS. CS López Silva con servicio de 24 horas ampliado. Programa Chaclacayo Te Escucha con atención psicológica comunitaria activo. Red Distrital de Aliados para la Salud Mental en funcionamiento.",
+            "indicator": "N° de campañas realizadas. N° de beneficiarios atendidos. N° de convenios gestionados. N° de familias beneficiadas."
+          },
+          {
+            "problem": "Muchas mujeres enfrentan limitadas oportunidades de capacitación, emprendimiento, acceso a herramientas digitales y fortalecimiento de su autonomía económica.",
+            "objective": "Promover el desarrollo integral de las mujeres mediante capacitación, emprendimiento, liderazgo y fortalecimiento de sus capacidades. Programa: Mujeres que Transforman Chaclacayo.",
+            "goal": "Capacitación en emprendimiento, gestión de negocios, herramientas digitales, marketing digital y educación financiera. Fortalecimiento del liderazgo femenino y empoderamiento comunitario. Articulación con programas del MIMP y otras instituciones. Red de mujeres emprendedoras del distrito activa.",
+            "indicator": "N° de mujeres beneficiadas. N° de capacitaciones realizadas. N° de emprendimientos fortalecidos. N° de alianzas gestionadas."
+          },
+          {
+            "problem": "Persisten necesidades relacionadas con el acceso oportuno a servicios de salud, salud mental, nutrición, prevención de la anemia y atención integral a familias vulnerables.",
+            "objective": "Promover el bienestar integral de la población mediante la articulación de servicios de salud, apoyo familiar y acciones preventivas. Programas: Caravana Integral de Salud y Chaclacayo Te Escucha.",
+            "goal": "Caravana Integral de Salud descentralizada operativa. Farmadiris implementada mediante convenio con DIRIS Lima Este. Red de Farmacias Solidarias activa. Programa Cuna para Crecer gestionado con MIDIS. CS López Silva con servicio de 24 horas ampliado. Programa Chaclacayo Te Escucha con atención psicológica comunitaria activo. Red Distrital de Aliados para la Salud Mental en funcionamiento.",
+            "indicator": "N° de campañas realizadas. N° de beneficiarios atendidos. N° de convenios gestionados. N° de familias beneficiadas."
+          },
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana, presencia de delitos como robos, extorsión y sicariato, limitada capacidad operativa del sistema de vigilancia, deficiencias en el monitoreo preventivo, casetas de seguridad sin funcionamiento.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la modernización de la vigilancia, la articulación interinstitucional y la participación activa de la comunidad organizada. Programa Chaclacayo Seguro.",
+            "goal": "Sistema Inteligente de Seguridad Ciudadana implementado progresivamente. Red Distrital de Aliados activa. Plan Cerco Distrital en 5 puntos estratégicos (Los Ángeles, Filampa, Girasoles, Puente Morón, Puente Ñaña). WhatsApp de Emergencias y Alerta Móvil Chaclacayo operativos. Escuela de Seguridad Comunitaria activa. Serenazgo modernizado con unidades, tecnología y personal calificado.",
+            "indicator": "N° de cámaras operativas. N° de puntos estratégicos implementados. N° de aliados incorporados a la Red Distrital de Aliados para la Seguridad Ciudadana. N° de acciones coordinadas con instituciones competentes. N° de vecinos capacitados."
+          },
+          {
+            "problem": "Muchos jóvenes culminan la educación secundaria sin acceso a capacitación técnica, oportunidades laborales, orientación vocacional o herramientas para emprender.",
+            "objective": "Brindar oportunidades de capacitación, formación para el trabajo, emprendimiento y desarrollo personal a los jóvenes del distrito. Programa: Jóvenes con Futuro.",
+            "goal": "Convenios con CETPROS, institutos, universidades, PRONABEC y MINTRA gestionados. Programas de capacitación técnica certificada en coordinación con UGEL 06. Talleres de tecnología, computación e IA. Red de Jóvenes Voluntarios de Chaclacayo fortalecida. Servicio de orientación educativa, laboral y vocacional activo.",
+            "indicator": "N° de jóvenes beneficiados. N° de convenios gestionados. N° de capacitaciones realizadas. N° de certificaciones obtenidas"
+          },
+          {
+            "problem": "Existen familias en situación de vulnerabilidad que dependen de programas sociales y requieren fortalecer sus capacidades para mejorar su calidad de vida y generar mayores oportunidades de desarrollo.",
+            "objective": "Fortalecer los programas sociales y promover el desarrollo comunitario mediante capacitación, organización y articulación con entidades públicas y privadas.",
+            "goal": "Programas de Vaso de Leche, Comedores Populares y Ollas Comunes fortalecidos y supervisados. Dirigentes y beneficiarios capacitados en gestión, nutrición, primeros auxilios y seguridad. Emprendimientos productivos promovidos para integrantes de comedores populares. Capacitación digital activa.",
+            "indicator": "N° de beneficiarios atendidos. N° de capacitaciones realizadas. N° de organizaciones fortalecidas. N° de actividades desarrolladas."
+          },
+          {
+            "problem": "Muchas mujeres enfrentan limitadas oportunidades de capacitación, emprendimiento, acceso a herramientas digitales y fortalecimiento de su autonomía económica.",
+            "objective": "Promover el desarrollo integral de las mujeres mediante capacitación, emprendimiento, liderazgo y fortalecimiento de sus capacidades. Programa: Mujeres que Transforman Chaclacayo.",
+            "goal": "Capacitación en emprendimiento, gestión de negocios, herramientas digitales, marketing digital y educación financiera. Fortalecimiento del liderazgo femenino y empoderamiento comunitario. Articulación con programas del MIMP y otras instituciones. Red de mujeres emprendedoras del distrito activa.",
+            "indicator": "N° de mujeres beneficiadas. N° de capacitaciones realizadas. N° de emprendimientos fortalecidos. N° de alianzas gestionadas."
+          },
+          {
+            "problem": "Existen familias en situación de vulnerabilidad que dependen de programas sociales y requieren fortalecer sus capacidades para mejorar su calidad de vida y generar mayores oportunidades de desarrollo",
+            "objective": "Fortalecer los programas sociales y promover el desarrollo comunitario mediante capacitación, organización y articulación con entidades públicas y privadas.",
+            "goal": "Programas de Vaso de Leche, Comedores Populares y Ollas Comunes fortalecidos y supervisados. Dirigentes y beneficiarios capacitados en gestión, nutrición, primeros auxilios y seguridad. Emprendimientos productivos promovidos para integrantes de comedores populares. Capacitación digital activa.",
+            "indicator": "N° de beneficiarios atendidos. N° de capacitaciones realizadas. N° de organizaciones fortalecidas. N° de actividades desarrolladas."
+          },
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana, presencia de delitos como robos, extorsión y sicariato, limitada capacidad operativa del sistema de vigilancia, deficiencias en el monitoreo preventivo, casetas de seguridad sin funcionamiento",
+            "objective": "Fortalecer la seguridad ciudadana mediante la modernización de la vigilancia, la articulación interinstitucional y la participación activa de la comunidad organizada. Programa Chaclacayo Seguro.",
+            "goal": "Sistema Inteligente de Seguridad Ciudadana implementado progresivamente. Red Distrital de Aliados activa. Plan Cerco Distrital en 5 puntos estratégicos (Los Ángeles, Filampa, Girasoles, Puente Morón, Puente Ñaña). WhatsApp de Emergencias y Alerta Móvil Chaclacayo operativos. Escuela de Seguridad Comunitaria activa. Serenazgo modernizado con unidades, tecnología y personal calificado.",
+            "indicator": "N° de cámaras operativas. N° de puntos estratégicos implementados. N° de aliados incorporados a la Red Distrital de Aliados para la Seguridad Ciudadana. N° de acciones coordinadas con instituciones competentes. N° de vecinos capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existe limitada articulación entre los diferentes actores económicos del distrito, reduciendo oportunidades de cooperación, generación de cadenas de valor, promoción conjunta y desarrollo económico local.",
+            "objective": "Fortalecer la cooperación, integración y articulación de los actores económicos para impulsar el crecimiento económico sostenible de Chaclacayo",
+            "goal": "Espacios de articulación entre emprendedores, comerciantes, mercados, restaurantes, hospedajes y prestadores de servicios implementados.Directorios de productos y servicios locales promovidos. Ferias descentralizadas de emprendimiento y producción local organizadas. Ferias orgánicas y espacios de comercialización directa impulsados. Articulación con productores de Huarochirí y Santa Eulalia. Circuitos económicos locales que fortalezcan el consumo dentro del distrito.",
+            "indicator": "N° de alianzas promovidas. N° de actores económicos participantes. N° de actividades de articulación realizadas. N° de ferias y espacios de promoción desarrollados."
+          },
+          {
+            "problem": "Los emprendedores, comerciantes, mercados, micro y pequeñas empresas, empresas locales prestadores de servicios, productores, artesanos y demás actores económicos del distrito enfrentan limitadas oportunidades de capacitación, articulación, promoción y fortalecimiento empresarial, dificultando su crecimiento, competitividad y generación de empleo. Tasa de informalidad de MYPES al 84.8% (2022), microempresas al 91.3% (COMEXPERÚ 2024)",
+            "objective": "Fortalecer las capacidades de los actores económicos del distrito mediante capacitación, asistencia técnica, articulación y generación de oportunidades para el desarrollo económico local. Programa: Chaclacayo Emprende.",
+            "goal": "Centro de emprendimiento implementado progresivamente con PRODUCE, SUNAT, Tu Empresa, MINTRA, MINCETUR y Cámara de Comercio. Capacitación en gestión empresarial, formalización, comercialización, finanzas y herramientas digitales. Red de Emprendedores de Chaclacayo activa. Fortalecimiento progresivo de los mercados de Chaclacayo. Emprendimiento con inclusión para mujeres, jóvenes, adultos mayores y personas con discapacidad.",
+            "indicator": "N° de emprendedores beneficiados. N° de capacitaciones realizadas. N° de alianzas estratégicas gestionadas. N° de participantes en programas de fortalecimiento empresarial. N° de actividades económicas desarrolladas."
+          },
+          {
+            "problem": "Los emprendedores, comerciantes, mercados, micro y pequeñas empresas, empresas locales, prestadores de servicios, productores, artesanos y demás actores económicos del distrito enfrentan limitadas oportunidades de capacitación, articulación, promoción y fortalecimiento empresarial, dificultando su crecimiento, competitividad y generación de empleo. Tasa de informalidad de MYPES al 84.8% (2022), microempresas al 91.3% (COMEXPERÚ 2024).",
+            "objective": "Fortalecer las capacidades de los actores económicos del distrito mediante capacitación, asistencia técnica, articulación y generación de oportunidades para el desarrollo económico local. Programa: Chaclacayo Emprende.",
+            "goal": "Centro de emprendimiento implementado progresivamente con PRODUCE, SUNAT, Tu Empresa, MINTRA, MINCETUR y Cámara de Comercio. Capacitación en gestión empresarial, formalización, comercialización, finanzas y herramientas digitales. Red de Emprendedores de Chaclacayo activa. Fortalecimiento progresivo de los mercados de Chaclacayo. Emprendimiento con inclusión para mujeres, jóvenes, adultos mayores y personas con discapacidad.",
+            "indicator": "N° de emprendedores beneficiados. N° de capacitaciones realizadas. N° de alianzas estratégicas gestionadas. N° de participantes en programas de fortalecimiento empresarial. N° de actividades económicas desarrolladas."
+          },
+          {
+            "problem": "Existe limitada articulación entre los diferentes actores económicos del distrito, reduciendo oportunidades de cooperación, generación de cadenas de valor, promoción conjunta y desarrollo económico local.",
+            "objective": "Fortalecer la cooperación, integración y articulación de los actores económicos para impulsar el crecimiento económico sostenible de Chaclacayo.",
+            "goal": "Espacios de articulación entre emprendedores, comerciantes, mercados, restaurantes, hospedajes y prestadores de servicios implementados. Directorios de productos y servicios locales promovidos. Ferias descentralizadas de emprendimiento y producción local organizadas. Ferias orgánicas y espacios de comercialización directa impulsados. Articulación con productores de Huarochirí y Santa Eulalia. Circuitos económicos locales que fortalezcan el consumo dentro del distrito.",
+            "indicator": "N° de alianzas promovidas. N° de actores económicos participantes. N° de actividades de articulación realizadas. N° de ferias y espacios de promoción desarrollados."
+          },
+          {
+            "problem": "Chaclacayo cuenta con recursos turísticos, gastronómicos, culturales, recreativos y naturales con gran potencial, pero aún requiere una promoción más articulada y una mejor integración de los servicios vinculados al turismo. Los 3 centros arqueológicos y el circuito Colchón de Nubes están desaprovechados",
+            "objective": "Posicionar a Chaclacayo como un destino turístico, recreativo, gastronómico y cultural atractivo para visitantes, familias e inversionistas. Programa: Descubre Chaclacayo.",
+            "goal": "Mapa Turístico de Chaclacayo (físico y digital) actualizado. Miradores rústicos y Punto de Información Turística implementados progresivamente. Ferias gastronómicas y festivales organizados. Circuito Turístico Colchón de Nubes implementado con señalización y rutas seguras. Festival del Río y las Montañas de Chaclacayo. Centros arqueológicos de Cerro Culebra, Huascata y Alfonso Cobián protegidos y puestos en valor con el Ministerio de Cultura. Ruta Arqueológica de Chaclacayo desarrollada.",
+            "indicator": "N° de actividades de promoción turística realizadas. N° de alianzas estratégicas gestionadas. N° de atractivos turísticos promocionados. N° de actividades gastronómicas realizadas. N° de visitantes beneficiados."
+          },
+          {
+            "problem": "Chaclacayo cuenta con recursos turísticos, gastronómicos, culturales, recreativos y naturales con gran potencial, pero aún requiere una promoción más articulada y una mejor integración de los servicios vinculados al turismo. Los 3 centros arqueológicos y el circuito Colchón de Nubes están desaprovechados.",
+            "objective": "Posicionar a Chaclacayo como un destino turístico, recreativo, gastronómico y cultural atractivo para visitantes, familias e inversionistas. Programa: Descubre Chaclacayo.",
+            "goal": "Mapa Turístico de Chaclacayo (físico y digital) actualizado. Miradores rústicos y Punto de Información Turística implementados progresivamente. Ferias gastronómicas y festivales organizados. Circuito Turístico Colchón de Nubes implementado con señalización y rutas seguras. Festival del Río y las Montañas de Chaclacayo. Centros arqueológicos de Cerro Culebra, Huascata y Alfonso Cobián protegidos y puestos en valor con el Ministerio de Cultura. Ruta Arqueológica de Chaclacayo desarrollada.",
+            "indicator": "N° de actividades de promoción turística realizadas. N° de alianzas estratégicas gestionadas. N° de atractivos turísticos promocionados. N° de actividades gastronómicas realizadas. N° de visitantes beneficiados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito cuenta con diversas quebradas y zonas vulnerables expuestas a huaicos, escorrentías y movimientos de masa: Huascarán, Cusipata, Los Cóndores, Panorama, Santa Inés, Los Laureles, La Floresta, Huascata, Alfonso Cobián y otras. Existen riesgos asociados a ocupaciones en áreas vulnerables",
+            "objective": "Fortalecer la protección de las quebradas y zonas vulnerables mediante acciones de prevención, monitoreo, fiscalización, gestión interinstitucional y participación ciudadana. Eje: Quebradas Seguras.",
+            "goal": "Monitoreo permanente de quebradas y zonas vulnerables durante todo el año. Fiscalización fortalecida en áreas de riesgo. Seguimiento permanente a proyectos de mitigación de Huascarán, Cusipata y demás quebradas priorizadas. Sistema de reporte ciudadano de riesgos implementado. Gestión permanente de diques, disipadores de energía y encauzamientos priorizados técnicamente.",
+            "indicator": "N° de quebradas con monitoreo permanente activo. N° de obras de mitigación gestionadas. N° de denuncias ciudadanas de riesgo atendidas. N° de fiscalizaciones en áreas de riesgo ejecutadas."
+          },
+          {
+            "problem": "Chaclacayo se encuentra expuesto a peligros naturales: huaicos, activación de quebradas, inundaciones, desbordes del río Rímac, incendios forestales y sismos. Los eventos de 2017 y 2023 evidenciaron la necesidad de fortalecer la preparación comunitaria y la capacidad de respuesta.",
+            "objective": "Fortalecer las capacidades de prevención, preparación, respuesta y recuperación frente a emergencias y desastres mediante articulación institucional, organización comunitaria, educación preventiva y gestión permanente del riesgo. Programa: Chaclacayo Preparado.",
+            "goal": "Programa Chaclacayo Preparado implementado. Mesa Distrital de Emergencias operativa. Brigadas comunitarias activas en sectores priorizados. Bomberos fortalecidos mediante convenios. Red Distrital de Voluntariado para Gestión del Riesgo activa. Rutas de evacuación señalizadas y puntos seguros difundidos.",
+            "indicator": "N° de brigadas comunitarias activas. N° de simulacros realizados. N° de vecinos capacitados en prevención. N° de aliados del subprograma Bomberos con Respaldo."
+          },
+          {
+            "problem": "La acumulación de residuos sólidos, desmontes y materiales en el río Rímac incrementa el riesgo de inundaciones y desbordes, afecta el equilibrio ambiental y genera vulnerabilidad para la población e infraestructura cercana. Las variaciones estacionales del caudal requieren vigilancia permanente",
+            "objective": "Promover la protección integral del río Rímac mediante acciones de conservación ambiental, reducción de riesgos, vigilancia ciudadana y gestión permanente ante las entidades competentes. Eje: Río Rímac Vivo, Seguro y Protegido.",
+            "goal": "Campañas permanentes de protección y recuperación del río Rímac. Vigilancia ambiental participativa fortalecida. Gestión permanente para reducción de riesgos de inundación. Coordinación con municipios vecinos y entidades competentes. Arborización de riberas mediante participación ciudadana. Seguimiento continuo a proyectos de protección ribereña.",
+            "indicator": "N° de campañas de limpieza de riberas realizadas. N° de puntos de contaminación identificados y reportados. N° de proyectos de protección ribereña gestionados."
+          },
+          {
+            "problem": "La acumulación de residuos sólidos, desmontes y materiales en el río Rímac incrementa el riesgo de inundaciones y desbordes, afecta el equilibrio ambiental y genera vulnerabilidad para la población e infraestructura cercana. Las variaciones estacionales del caudal requieren vigilancia permanente.",
+            "objective": "Promover la protección integral del río Rímac mediante acciones de conservación ambiental, reducción de riesgos, vigilancia ciudadana y gestión permanente ante las entidades competentes. Eje: Río Rímac Vivo, Seguro y Protegido.",
+            "goal": "Diagnóstico técnico integral actualizado de los sistemas de agua potable y alcantarillado al 2027. Catastro actualizado de usuarios e infraestructura. Programa permanente de mantenimiento preventivo implementado. Mejora progresiva de continuidad, calidad y eficiencia. Mayor articulación con SEDAPAL, organizaciones administradoras y vecinos. Estructura tarifaria revisada con transparencia y participación ciudadana.",
+            "indicator": "N° de diagnósticos técnicos actualizados. % de mejora en continuidad del servicio. N° de proyectos de modernización de infraestructura gestionados. N° de mesas de coordinación con SEDAPAL, organizaciones y vecinos."
+          },
+          {
+            "problem": "El distrito cuenta con diversas quebradas y zonas vulnerables expuestas a huaicos, escorrentías y movimientos de masa: Huascarán, Cusipata, Los Cóndores, Panorama, Santa Inés, Los Laureles, La Floresta, Huascata, Alfonso Cobián y otras. Existen riesgos asociados a ocupaciones en áreas vulnerables",
+            "objective": "Fortalecer la protección de las quebradas y zonas vulnerables mediante acciones de prevención, monitoreo, fiscalización, gestión interinstitucional y participación ciudadana. Eje: Quebradas Seguras.",
+            "goal": "Monitoreo permanente de quebradas y zonas vulnerables durante todo el año. Fiscalización fortalecida en áreas de riesgo. Seguimiento permanente a proyectos de mitigación de Huascarán, Cusipata y demás quebradas priorizadas. Sistema de reporte ciudadano de riesgos implementado. Gestión permanente de diques, disipadores de energía y encauzamientos priorizados técnicamente.",
+            "indicator": "N° de quebradas con monitoreo permanente activo. N° de obras de mitigación gestionadas. N° de denuncias ciudadanas de riesgo atendidas. N° de fiscalizaciones en áreas de riesgo ejecutadas."
+          },
+          {
+            "problem": "El distrito enfrenta desafíos en la calidad, continuidad, cobertura y sostenibilidad del servicio de agua potable y alcantarillado. Los sectores 4 y 5 tienen infraestructura con décadas de antigüedad. Los sectores de SEDAPAL presentan abastecimiento por horarios. Existen organizaciones locales administradoras que requieren fortalecimiento. La Ordenanza N° 511- 2024-MDCH requiere revisión y transparencia tarifaria.",
+            "objective": "Fortalecer la calidad, continuidad, eficiencia y sostenibilidad de los servicios de agua potable y alcantarillado mediante gestión técnica responsable, modernización progresiva de la infraestructura, articulación con SEDAPAL y las organizaciones administradoras. Eje: Agua Segura para Chaclacayo.",
+            "goal": "Diagnóstico técnico integral actualizado de los sistemas de agua potable y alcantarillado al 2027. Catastro actualizado de usuarios e infraestructura. Programa permanente de mantenimiento preventivo implementado. Mejora progresiva de continuidad, calidad y eficiencia. Mayor articulación con SEDAPAL, organizaciones administradoras y vecinos. Estructura tarifaria revisada con transparencia y participación ciudadana.",
+            "indicator": "N° de diagnósticos técnicos actualizados. % de mejora en continuidad del servicio. N° de proyectos de modernización de infraestructura gestionados. N° de mesas de coordinación con SEDAPAL, organizaciones y vecinos."
+          },
+          {
+            "problem": "Chaclacayo se encuentra expuesto a peligros naturales: huaicos, activación de quebradas, inundaciones, desbordes del río Rímac, incendios forestales y sismos. Los eventos de 2017 y 2023 evidenciaron la necesidad de fortalecer la preparación comunitaria y la capacidad de respuesta.",
+            "objective": "Fortalecer las capacidades de prevención, preparación, respuesta y recuperación frente a emergencias y desastres mediante articulación institucional, organización comunitaria, educación preventiva y gestión permanente del riesgo. Programa: Chaclacayo Preparado.",
+            "goal": "Programa Chaclacayo Preparado implementado. Mesa Distrital de Emergencias operativa. Brigadas comunitarias activas en sectores priorizados. Bomberos fortalecidos mediante convenios. Red Distrital de Voluntariado para Gestión del Riesgo activa. Rutas de evacuación señalizadas y puntos seguros difundidos.",
+            "indicator": "N° de brigadas comunitarias activas. N° de simulacros realizados. N° de vecinos capacitados en prevención. N° de aliados del subprograma Bomberos con Respaldo."
+          },
+          {
+            "problem": "Se requiere fortalecer la cultura ambiental desde la infancia y la juventud. El Programa EDUCCA Municipal está subfinanciado y con baja cobertura.",
+            "objective": "Promover una ciudadanía ambientalmente responsable mediante educación ambiental, participación activa y fortalecimiento del Programa EDUCCA. Programa: Escuelas Verdes de Chaclacayo.",
+            "goal": "Programa EDUCCA fortalecido con presupuesto asignado. Promotores ambientales escolares activos en todas las II.EE. del distrito. Huertos escolares implementados. Concursos ambientales, campañas de reciclaje y arborización activos. 100% de II.EE. participando en programas ambientales al 2029.",
+            "indicator": "N° de instituciones educativas con programa ambiental activo. N° de promotores ambientales escolares acreditados. N° de concursos y campañas ambientales realizados."
+          },
+          {
+            "problem": "Existe baja cultura de reciclaje, presencia de puntos críticos de residuos sólidos, limitado aprovechamiento de residuos orgánicos y escasa formalización de recicladores.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos promoviendo reciclaje, compostaje, formalización de recicladores y educación ambiental. Programa: Chaclacayo Recicla y Composta.",
+            "goal": "Programa Chaclacayo Recicla implementado. Programa de compostaje de residuos de mercados, restaurantes y comedores en funcionamiento. Recicladores formalizados integrados al sistema (Ley N.° 29419). Mayor participación vecinal en reciclaje en colegios y barrios. Puntos críticos de residuos eliminados.",
+            "indicator": "N° de puntos de acopio selectivo implementados. N° de recicladores formalizados. TM de residuos orgánicos compostados. % de viviendas participando en segregación en fuente."
+          },
+          {
+            "problem": "Se requiere fortalecer la arborización, recuperar áreas verdes y promover la participación ciudadana en el cuidado ambiental. El distrito tiene un déficit de áreas verdes por habitante respecto a la meta OMS de 9 m²/hab",
+            "objective": "Incrementar y conservar las áreas verdes del distrito mediante participación vecinal, educación ambiental y vivero municipal fortalecido. Programa: Adopta un Árbol y Recupera tu Barrio.",
+            "goal": "Campañas permanentes de arborización. Vivero municipal fortalecido, sostenible y abierto a visitas educativas. Plantones entregados a vecinos, II.EE. y organizaciones sociales. Programas de adopción de árboles activos. Incremento progresivo de áreas verdes. Espacios públicos recuperados mediante acciones ambientales participativas",
+            "indicator": "N° de plantones entregados. N° de campañas de arborización realizadas. m² de áreas verdes incorporados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Los procedimientos administrativos y licencias municipales suelen generar demoras que afectan a vecinos y emprendedores.",
+            "objective": "Simplificar y agilizar los procedimientos municipales para mejorar la competitividad y calidad de atención.",
+            "goal": "Procedimientos administrativos simplificados. Servicios digitales implementados progresivamente. Tiempos de emisión de licencias reducidos. Atención a emprendedores y pequeños negocios fortalecida.",
+            "indicator": "Tiempo promedio de atención. N° de licencias emitidas. Trámites digitalizados. Usuarios atendidos."
+          },
+          {
+            "problem": "La Municipalidad presenta procesos administrativos que requieren modernización, actualización de instrumentos de gestión y fortalecimiento de la capacidad institucional para responder de manera eficiente a las necesidades de la población.",
+            "objective": "Modernizar la gestión municipal mediante la actualización de instrumentos de gestión, optimización de procesos y fortalecimiento institucional.",
+            "goal": "ROF, MOF y demás instrumentos de gestión actualizados progresivamente. Estructura organizacional municipal revisada y optimizada. Indicadores de gestión y evaluación de desempeño implementados. Áreas estratégicas de la municipalidad fortalecidas. Programas permanentes de capacitación para servidores municipales.",
+            "indicator": "Instrumentos de gestión actualizados. Procesos administrativos optimizados. Personal capacitado. Áreas fortalecidas."
+          },
+          {
+            "problem": "Muchos vecinos encuentran dificultades para acceder a información, orientación y atención eficiente en los servicios municipales.",
+            "objective": "Brindar una atención cercana, oportuna, inclusiva y orientada a las necesidades de los vecinos.",
+            "goal": "Mesa Integral de Orientación al Vecino implementada (información tributaria, administrativa y social). Información sobre beneficios para adultos mayores y personas vulnerables. Mecanismos de seguimiento a solicitudes vecinales implementados. Niveles de satisfacción de los usuarios mejorados progresivamente.",
+            "indicator": "N° de orientaciones brindadas. Nivel de satisfacción ciudadana. Tiempo promedio de atención. N° de reclamos atendidos."
+          },
+          {
+            "problem": "La Municipalidad presenta procesos administrativos que requieren modernización, actualización de instrumentos de gestión y fortalecimiento de la capacidad institucional para responder de manera eficiente a las necesidades de la población.",
+            "objective": "Modernizar la gestión municipal mediante la actualización de instrumentos de gestión, optimización de procesos y fortalecimiento institucional.",
+            "goal": "ROF, MOF y demás instrumentos de gestión actualizados progresivamente. Estructura organizacional municipal revisada y optimizada. Indicadores de gestión y evaluación de desempeño implementados. Áreas estratégicas de la municipalidad fortalecidas. Programas permanentes de capacitación para servidores municipales.",
+            "indicator": "Instrumentos de gestión actualizados. Procesos administrativos optimizados. Personal capacitado. Áreas fortalecidas."
+          },
+          {
+            "problem": "La municipalidad requiere fortalecer su capacidad de gestión para acceder a recursos, asistencia técnica y financiamiento externo",
+            "objective": "Gestionar alianzas estratégicas que permitan impulsar proyectos de desarrollo para el distrito.",
+            "goal": "Convenios con ministerios, universidades y organismos especializados gestionados. Cooperación técnica nacional e internacional gestionada. Alianzas estratégicas para proyectos de inversión y desarrollo promovidas. Financiamiento para proyectos prioritarios del distrito gestionado. Capacidad municipal para formular y ejecutar proyectos fortalecida.",
+            "indicator": "Convenios suscritos. Recursos gestionados. Asistencias técnicas recibidas. Proyectos apoyados."
+          },
+          {
+            "problem": "Muchos vecinos encuentran dificultades para acceder a información, orientación y atención eficiente en los servicios municipales.",
+            "objective": "Brindar una atención cercana, oportuna, inclusiva y orientada a las necesidades de los vecinos.",
+            "goal": "Mesa Integral de Orientación al Vecino implementada (información tributaria, administrativa y social). Información sobre beneficios para adultos mayores y personas vulnerables. Mecanismos de seguimiento a solicitudes vecinales implementados. Niveles de satisfacción de los usuarios mejorados progresivamente.",
+            "indicator": "Brindar una atención cercana, oportuna, inclusiva y orientada a las necesidades de los vecinos."
+          },
+          {
+            "problem": "Los procedimientos administrativos y licencias municipales suelen generar demoras que afectan a vecinos y emprendedores",
+            "objective": "Simplificar y agilizar los procedimientos municipales para mejorar la competitividad y calidad de atención",
+            "goal": "Procedimientos administrativos simplificados. Servicios digitales implementados progresivamente. Tiempos de emisión de licencias reducidos. Atención a emprendedores y pequeños negocios fortalecida.",
+            "indicator": "Tiempo promedio de atención. N° de licencias emitidas. Trámites digitalizados. Usuarios atendidos"
+          },
+          {
+            "problem": "La población demanda transparencia y conocimiento de la situación real financiera, administrativa y patrimonial de la municipalidad.",
+            "objective": "Garantizar una gestión transparente y responsable mediante la evaluación integral de la administración municipal.",
+            "goal": "Auditoría integral de la gestión recibida realizada dentro del marco legal vigente. Diagnóstico financiero, administrativo y patrimonial de la municipalidad elaborado. Informe de los Primeros 100 Días presentado. Mecanismos de control interno fortalecidos. Labor de los órganos de control competentes facilitada.",
+            "indicator": "Evaluaciones realizadas. Informes emitidos. Recomendaciones implementadas. Acciones de mejora ejecutadas."
+          },
+          {
+            "problem": "La población demanda transparencia y conocimiento de la situación real financiera, administrativa y patrimonial de la municipalidad.",
+            "objective": "Garantizar una gestión transparente y responsable mediante la evaluación integral de la administración municipal.",
+            "goal": "Auditoría integral de la gestión recibida realizada dentro del marco legal vigente. Diagnóstico financiero, administrativo y patrimonial de la municipalidad elaborado. Informe de los Primeros 100 Días presentado. Mecanismos de control interno fortalecidos. Labor de los órganos de control competentes facilitada.",
+            "indicator": "Evaluaciones realizadas. Informes emitidos. Recomendaciones implementadas. Acciones de mejora ejecutadas."
+          },
+          {
+            "problem": "Existe una demanda ciudadana de mayor transparencia en el uso de los recursos públicos y acceso a información sobre la gestión municipal.",
+            "objective": "Fortalecer la transparencia, la rendición de cuentas y la confianza ciudadana.",
+            "goal": "Portal de Transparencia Municipal fortalecido. Información sobre presupuesto, obras y servicios publicada periódicamente. Audiencias públicas de rendición de cuentas realizadas. Mecanismos de vigilancia ciudadana promovidos. Cultura de integridad institucional fortalecida",
+            "indicator": "Informes publicados. Audiencias realizadas. Información actualizada en el portal institucional. Participación ciudadana registrada"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-u00y3refcOKokCbUIqjZlPp3tqxfeS1w",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/u00y3refcOKokCbUIqjZlPp3tqxfeS1w",
+      "sha256": "499261fec62795979b25f015269c2c0be7ad0c45acb965d70690d270753913f5",
+      "accessedAt": "2026-10-02T22:53:36.158Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015081",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015081",
+      "sha256": "2150e103cf7aff1a778ad1b1720952495edbcea7048508876f2a33467684fe76",
+      "accessedAt": "2026-10-02T22:53:36.735Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

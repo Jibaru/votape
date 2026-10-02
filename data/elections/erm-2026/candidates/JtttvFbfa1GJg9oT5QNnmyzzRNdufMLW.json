@@ -1,0 +1,215 @@
+{
+  "id": "JtttvFbfa1GJg9oT5QNnmyzzRNdufMLW",
+  "slug": "florencio-froilan-fierro-flores",
+  "electionId": "erm-2026",
+  "name": "Florencio Froilan Fierro Flores",
+  "givenNames": "Florencio Froilan",
+  "surnames": "Fierro Flores",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:53.322Z",
+      "sourceId": "jne-hv-JtttvFbfa1GJg9oT5QNnmyzzRNdufMLW"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "UNIVERSIDAD NACIONAL HERMILIO VALDIZAN",
+        "program": "ADMINISTRACION Y GESTION MUNICIPAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ASOCIACION DE VIVIENDA LA VOZ DE ISRAEL",
+      "role": "PRESIDENTE",
+      "from": "2018",
+      "to": "2020"
+    },
+    {
+      "employer": "CORPORACION AG & V S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2012",
+      "to": "2017"
+    },
+    {
+      "employer": "INVERSIONES FLORMAR S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2006",
+      "to": "2011"
+    },
+    {
+      "employer": "POLVOS AZULES INTERNATIONAL CORP S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2003",
+      "to": "2005"
+    },
+    {
+      "employer": "NEGOCIOS E INVERSIONES NARANJO S.A.",
+      "role": "GERENTE GENERAL",
+      "from": "2000",
+      "to": "2003"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/87534846-efac-493f-b23f-59c7f79c515d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/59ae0761-2a65-4c6c-9241-72fe86a64bd4.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inadecuados mecanismos de protección para mujeres, niños, adolescentes y adultos mayores, evidenciado en la captura de la red de protección social del Estado por clientelismo político.",
+            "objective": "Mejorar los mecanismos de protección de los grupos vulnerables y desmantelar el ecosistema de clientelismo mediante la interoperabilidad con sistemas del Gobierno Nacional.",
+            "goal": "Expulsar definitivamente a los infiltrados de los programas sociales y asegurar que el subsidio llegue exclusivamente a quienes lo necesitan, mediante autenticación facial y trazabilidad logística.",
+            "indicator": "Porcentaje de violencia física y sexual contra la mujer, niños, niñas y adolescentes, y porcentaje de desatención de los adultos mayores."
+          },
+          {
+            "problem": "Vulnerabilidad epidemiológica derivada de un hábitat precario y corrupción en la asistencia social, con altas tasas de Tuberculosis y enfermedades respiratorias agudas.",
+            "objective": "Implementar el modelo de Urbanismo Epidemiológico para reingeniería del hábitat y blindar la asistencia social mediante tecnología para asegurar que los recursos lleguen a la población vulnerable.",
+            "goal": "Posicionar a La Victoria como el primer distrito en aplicar una solución de ingeniería civil a una crisis médica nacional, reduciendo los costos de tratamiento y recuperando la capacidad laboral de la población.",
+            "indicator": "Porcentaje de la población con servicios de salud de calidad, porcentaje de niños menores de 5 años con desnutrición crónica infantil y porcentaje de niños menores de 5 años con anemia."
+          },
+          {
+            "problem": "Carencia de infraestructura de cuidado y prevención que limita el desarrollo económico de las mujeres y expone a los jóvenes a la delincuencia.",
+            "objective": "Implementar la red de Cunas Municipales 'Emprende Madre' y modernizar los Complejos Deportivos y Centros Culturales en las laderas del distrito.",
+            "goal": "Activar un motor de reactivación laboral femenina masiva y recuperar el territorio simbólico y real, ofreciendo a los jóvenes una ruta de vida alejada de las economías criminales.",
+            "indicator": "Número de tecnologías innovadoras para mejorar la calidad educativa y porcentaje de espacios deportivos, recreativos y culturales implementados."
+          },
+          {
+            "problem": "Condiciones de habitabilidad deficientes, con un déficit histórico de áreas verdes y carencia de servicios básicos como agua, saneamiento e internet en diversas zonas del distrito.",
+            "objective": "Mejorar las condiciones de habitabilidad en el distrito, promoviendo el arte, la cultura, la recreación y el deporte con un enfoque intercultural.",
+            "goal": "Alcanzar una cobertura progresiva de los servicios básicos para toda la población del distrito, mejorando sustancialmente su calidad de vida y cerrando las brechas de infraestructura existentes.",
+            "indicator": "Porcentaje de localidades que cuentan con servicios básicos de calidad y porcentaje de la población sin acceso a servicios de agua, saneamiento, internet y energía eléctrica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desconexión crítica del distrito con las grandes arterias del comercio exterior peruano, operando con una logística del siglo XX basada en el almacenamiento informal y transporte atomizado.",
+            "objective": "Implementar el plan 'Gamarra 4.0' para convertir al distrito en el 'puerto seco' de Lima, estableciendo el Corredor Logístico de Exportación Directa 'La Victoria - Callao - Chancay'.",
+            "goal": "Posicionar a los empresarios textiles en una ventaja competitiva sin precedentes para colocar sus productos en los mercados de la Alianza del Pacífico y el Sudeste Asiático.",
+            "indicator": "Porcentaje de infraestructura vial urbana y rural en buen estado y porcentaje de la vial vecinal no pavimentada con inadecuados niveles de servicio."
+          },
+          {
+            "problem": "Asfixia burocrática y un modelo de gestión municipal que penaliza el esfuerzo, convirtiendo la informalidad comercial en una respuesta racional de supervivencia para los emprendedores.",
+            "objective": "Ejecutar un shock de formalización y transformación digital acelerada para que la municipalidad deje de ser una barrera y se convierta en una plataforma de aceleración comercial.",
+            "goal": "Implementar el régimen de Formalización Express, emitiendo licencias provisionales digitales en 24 horas y creando la Ventanilla Única del Emprendedor para centralizar todos los trámites.",
+            "indicator": "Porcentaje de establecimientos comerciales mejorados en el distrito y número de ferias agropecuarias realizadas."
+          },
+          {
+            "problem": "Toma de decisiones de inversión basada en intuiciones, lo que genera ineficiencia en la cadena productiva y limita el potencial de crecimiento de las microempresas.",
+            "objective": "Implementar el Centro de Inteligencia Comercial de La Victoria, soportado por un Gemelo Digital del emporio para simular flujos de mercancías y patrones de compra en tiempo real.",
+            "goal": "Transformar a La Victoria en el primer distrito del Perú en exportar no solo productos físicos, sino inteligencia comercial aplicada a la manufactura, atrayendo a grandes marcas globales.",
+            "indicator": "Porcentaje de lugares turísticos promovidos y porcentaje de cadenas productivas mejoradas en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Colapso logístico y sanitario en la gestión de residuos, con una generación de 600 toneladas diarias que supera la capacidad operativa y transforma las vías públicas en focos infecciosos.",
+            "objective": "Implementar un sistema de Ingeniería de Logística Inversa, basado en la recolección nocturna, la contenerización soterrada y la economía circular a través de una planta de valorización.",
+            "goal": "Posicionar a La Victoria como el líder nacional en sostenibilidad urbana, asegurando que la ciudad amanezca con 'basura cero' en sus arterias principales y eliminando el riesgo sanitario.",
+            "indicator": "Número de acciones en gestión de residuos sólidos elaborado."
+          },
+          {
+            "problem": "Vulnerabilidad estructural y social en los asentamientos humanos de ladera, con extrema precariedad de viviendas, inestabilidad de taludes y alto riesgo de desastres como incendios y sismos.",
+            "objective": "Aplicar el Protocolo de Intervención Integral y Urbanismo Social en Laderas (Metodología CPTED) para ocupar permanentemente el territorio con infraestructura pública de alta calidad.",
+            "goal": "Ejecutar un plan de mitigación de riesgos reemplazando pasajes precarios por escalinatas de concreto, ordenar el cableado aéreo y mejorar la iluminación para pacificar el territorio.",
+            "indicator": "Número de acciones preventivas para reducir los riesgos de desastres naturales y número de proyectos de defensa ribereña en zonas vulnerables."
+          },
+          {
+            "problem": "Embolia logística crónica causada por el desorden en el transporte de carga y la obsolescencia de la red semafórica, lo que genera un impuesto a la productividad y un alto consumo de combustible.",
+            "objective": "Ejecutar el Plan Maestro de Movilidad y Puesta en Valor, implementando la 'Ola Verde Semafórica', el reordenamiento del transporte de carga y el plan 'Corazón Verde' para la recuperación de espacios públicos.",
+            "goal": "Reducir el tiempo de tránsito en un 30%, recuperar la identidad histórica del distrito para fomentar el turismo y completar la red de movilidad con ciclovías interconectadas y segregadas.",
+            "indicator": "Número de acciones para la adaptación al cambio climático."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Quiebra técnica y parálisis administrativa, con una deuda que representa el 450.6% de los ingresos corrientes, lo que aísla financieramente al municipio y lo incapacita para invertir.",
+            "objective": "Ejecutar un programa de ingeniería financiera para el rescate del distrito, basado en fideicomisos, titulización de flujos y una expansión agresiva y tecnológica de la base catastral.",
+            "goal": "Reducir la dependencia del Foncomun en un 25% al cuarto año de gestión y consolidar a La Victoria como el primer distrito comercial del Perú con un catastro fiscal 100% digitalizado e integrado.",
+            "indicator": "Porcentaje de Ejecución Presupuestal."
+          },
+          {
+            "problem": "Captura institucional del aparato municipal por economías criminales, como la 'mafia de los chalecos', que impone tributos paralelos mediante la extorsión, erosionando la autoridad del Estado.",
+            "objective": "Restablecer el imperio de la ley mediante una arquitectura operativa 'antimafia' basada en la automatización 'cero contacto', la purga administrativa y la compartimentación de la inteligencia táctica.",
+            "goal": "Eliminar la vulnerabilidad humana en la fiscalización mediante el uso de tecnología (bodycams, LPR, reconocimiento facial) y ceder el control operativo a divisiones de alta complejidad de la PNP.",
+            "indicator": "Porcentaje de la población segura ante hechos delictivos."
+          },
+          {
+            "problem": "Cultura de secreto administrativo y falta de mecanismos de control ciudadano que han facilitado la quiebra técnica y la captura institucional del distrito durante décadas.",
+            "objective": "Implementar un modelo de Gobierno Abierto de estándar internacional, a través del portal de datos 'La Victoria Transparente' y el Estatuto de Auditoría Ciudadana y Control Social.",
+            "goal": "Permitir que cualquier ciudadano o gremio monitoree la ejecución del presupuesto en tiempo real y otorgar facultades de vigilancia preventiva a la sociedad civil en las grandes licitaciones.",
+            "indicator": "Porcentaje de participación ciudadana en los procesos de concertación distrital y porcentaje de Juntas Vecinales constituidas y fortalecidas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-JtttvFbfa1GJg9oT5QNnmyzzRNdufMLW",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/JtttvFbfa1GJg9oT5QNnmyzzRNdufMLW",
+      "sha256": "dfa4846d3494edcdd97f83a918407ad20861e267cfd35777490382afc8ef40ff",
+      "accessedAt": "2026-10-02T22:57:53.322Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021149",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021149",
+      "sha256": "55c8e528b205f12b9936600383c203c4638ad08cebc9564bd525d196a79cc813",
+      "accessedAt": "2026-10-02T22:57:53.869Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

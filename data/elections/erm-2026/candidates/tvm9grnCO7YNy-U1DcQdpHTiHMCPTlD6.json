@@ -1,0 +1,309 @@
+{
+  "id": "tvm9grnCO7YNy-U1DcQdpHTiHMCPTlD6",
+  "slug": "victor-vicente-santander-salvador",
+  "electionId": "erm-2026",
+  "name": "Victor Vicente Santander Salvador",
+  "givenNames": "Victor Vicente",
+  "surnames": "Santander Salvador",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:54.199Z",
+      "sourceId": "jne-hv-tvm9grnCO7YNy-U1DcQdpHTiHMCPTlD6"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLAREAL",
+        "program": "DERECHO CIVIL Y COMERCIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "GESTION PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE",
+      "role": "SUB GERENTE ATENCION AL CIUDADANO Y GESTION DOCUMENTARIA",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES",
+      "role": "SECRETARIO GENERAL",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES",
+      "role": "SUB GERENTE DE RECURSOS HUMANOS",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "employer": "UNIVERSIDAD CESAR VALLEJO SAC",
+      "role": "DOCENTE CONTRATADO",
+      "from": "2015",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2019"
+    },
+    {
+      "party": "ACCION POPULAR",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 12750,
+        "public": 0,
+        "private": 12750
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 74192.95,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "HONDA CRV, 4X2 2.4, AÑO 2009",
+        "value": 22000
+      },
+      {
+        "type": "AÑO 1982 WOLKSWABEN GOL",
+        "value": 5000
+      },
+      {
+        "type": "CHEVROLET CHEVELTE 1992",
+        "value": 8000
+      },
+      {
+        "type": "MITSUBISHI - LANCER 1.6, AÑO 2015",
+        "value": 40000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "SE ADQUIRIO UN TERRENO EN EL SECTOR LA ESPERANZA - UNIDAD CATASTRAL 101105 - HUARAL / LIMA / LIMA, EL CUAL LOS TRAMITES SE ENCUENTRAN EN PROCESO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/121fe6e2-1fb2-4796-825f-00840088843e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b923de97-6e15-4832-98c1-566f54d3186e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiencia de políticas con enfoque inclusivo, intercultural y de género, lo cual limita la igualdad de oportunidades y el respeto a la diversidad cultural.",
+            "objective": "Generar mecanismos orientados a la igualdad de oportunidades con enfoque inclusivo, intercultural y de género.",
+            "goal": "Implementación de 3 políticas locales.",
+            "indicator": "Número de políticas locales implementadas."
+          },
+          {
+            "problem": "Alta prevalencia de anemia infantil en el distrito, alcanzando un 45.3% en menores de 6 a 35 meses.",
+            "objective": "Realizar planes de concientización y acciones para el cumplimiento del compromiso del Programa de Incentivos respecto a la lucha contra la anemia.",
+            "goal": "Reducir en 70% los índices de anemia de los niños.",
+            "indicator": "Porcentaje de niños de 6 a 12 meses de edad sin anemia."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado en áreas que no cumplen las condiciones básicas de habitabilidad, lo que genera un peligro inminente ante desastres naturales.",
+            "objective": "Diseñar e implementar un Plan de prevención ante riesgo de desastres naturales con énfasis en las quebradas de ríos, sismos e inundaciones.",
+            "goal": "Aumentar en 50% la inversión en planes y programas para el riesgo de desastres naturales.",
+            "indicator": "Porcentaje de afectación de la población ante riesgo de desastres naturales; Número de muros de contención construidos; Número de campañas para la concientización del peligro ante riesgos de desastres."
+          },
+          {
+            "problem": "Elevada tasa de victimización por hechos delictivos e inseguridad ciudadana que afecta la calidad de vida de la población, junto con una alta percepción de inseguridad.",
+            "objective": "Implementar políticas y programas locales preventivos que disminuyan el riesgo de cometer delitos y faltas que afecten la seguridad ciudadana.",
+            "goal": "Reducir en 80% los índices de delitos y faltas que afectan la seguridad ciudadana.",
+            "indicator": "Reducción de delitos (%) anualmente; Número de patrullaje integrado ejecutado por zonas; Tiempo de respuesta del serenazgo; Porcentaje de calles con cobertura de cámaras inteligentes; Número de zonas intervenidas por cuadrantes activos; Porcentaje de percepción de inseguridad."
+          },
+          {
+            "problem": "Alto porcentaje de población adulta considerada inactiva y una marcada insatisfacción con la calidad y cantidad de la oferta de actividades deportivas y recreativas.",
+            "objective": "Promover un distrito saludable a través de la promoción de actividades deportivas y recreativas con enfoque inclusivo.",
+            "goal": "Aumentar en 50% las actividades deportivas inclusivas y recreativas a través de programas de promoción municipal.",
+            "indicator": "Porcentaje de prácticas deportivas inclusivas y actividades recreativas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ausencia de una cultura tributaria y desconfianza en el uso de los recursos públicos, lo que genera una alta morosidad por parte de los administrados.",
+            "objective": "Fortalecer la cultura tributaria.",
+            "goal": "Incrementar en 50% la recaudación tributaria de los administrados del distrito.",
+            "indicator": "Porcentaje de efectividad de la recaudación tributaria; Porcentaje de morosidad de impuestos en el distrito."
+          },
+          {
+            "problem": "Bajo interés de la gestión local en implementar una gestión por resultados, lo que ha impedido mejorar la calidad del gasto público y alcanzar los objetivos institucionales.",
+            "objective": "Mejorar la ejecución del gasto público orientado al logro de resultados.",
+            "goal": "Aumentar en 95% la ejecución de la calidad del gasto.",
+            "indicator": "Porcentaje de ejecución del gasto público de calidad."
+          },
+          {
+            "problem": "Elevada cantidad de trabajadores informales y recurrencia del comercio informal, lo que afecta los derechos laborales y el potencial de desarrollo económico del distrito.",
+            "objective": "Implementar estrategias locales efectivas que disminuyan los índices de comercio informal e informalidad laboral para que sea un potencial en el desarrollo económico del distrito.",
+            "goal": "Reducir los índices del comercio informal y la informalidad laboral en el distrito.",
+            "indicator": "Número de estrategias para superar el comercio informal y la informalidad laboral; Porcentaje de informalidad en el distrito."
+          },
+          {
+            "problem": "Desarrollo limitado de la planificación urbana e insuficiente articulación gubernamental, condiciones que propician ocupaciones informales y la autoconstrucción, generando territorios inseguros e insostenibles.",
+            "objective": "Mejorar y sostener la Gestión de Desarrollo Urbano y de Riesgo de Desastre con enfoque territorial.",
+            "goal": "Mejorar en un 70% la Gestión de Desarrollo Urbano y la Gestión de Riesgo de Desastre de poblaciones expuestas al peligro.",
+            "indicator": "Porcentaje de acciones de gestión de desarrollo urbano y riesgo de desastre implementadas."
+          },
+          {
+            "problem": "Alta insatisfacción ciudadana con las oportunidades de trabajo formal, debido a la falta de una oferta laboral variada, ordenada y confiable canalizada por la municipalidad.",
+            "objective": "Promover la intermediación de oportunidades laborales entre las empresas y los ciudadanos buscadores de empleo.",
+            "goal": "Elevar en un 60% la integración de personas al mercado laboral formal.",
+            "indicator": "Porcentaje de acciones de gestión para la inclusión de personas al mercado laboral formal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit en la cantidad de áreas verdes por habitante, incumpliendo el estándar mínimo recomendado por la Organización Mundial de la Salud para una vida saludable.",
+            "objective": "Implementar una política de arborización y generación de áreas verdes en el distrito.",
+            "goal": "Aumentar el porcentaje de metros cuadrados de áreas verdes por habitante en un 50%.",
+            "indicator": "Porcentaje de áreas verdes generadas en el distrito; Porcentaje de parques públicos."
+          },
+          {
+            "problem": "Ausencia de formulación y programación de inversiones orientadas a los servicios de sostenibilidad ambiental y limpieza pública para atender las brechas identificadas en el distrito.",
+            "objective": "Planificar e implementar proyectos de inversión para la sostenibilidad ambiental y servicio de limpieza pública orientados a brindar un adecuado servicio.",
+            "goal": "Aumentar en 70% los proyectos de inversión orientados a la sostenibilidad ambiental y limpieza pública.",
+            "indicator": "Porcentaje de proyectos de inversión orientados a la sostenibilidad ambiental y limpieza pública."
+          },
+          {
+            "problem": "Política deficiente para la recolección de residuos sólidos e inadecuada implementación del programa de segregación, lo que genera contaminación y el aumento de recicladores informales.",
+            "objective": "Potenciar la implementación del programa de segregación en la fuente y recolección de residuos sólidos orgánicos e inorgánicos.",
+            "goal": "Mejorar en un 80% la ejecución del Programa de segregación en la fuente y recolección de residuos sólidos orgánicos e inorgánicos.",
+            "indicator": "Cantidad de acciones para potenciar la implementación del programa de segregación en la fuente y recolección de residuos sólidos orgánicos e inorgánicos."
+          },
+          {
+            "problem": "Inexistencia de formulación e implementación de políticas medioambientales para mejorar la calidad de vida, a pesar de la contaminación del suelo, aire, sonora y auditiva.",
+            "objective": "Formular e implementar políticas medioambientales orientadas a disminuir la contaminación ambiental en favor de la calidad de vida.",
+            "goal": "Formular e implementar 02 políticas medioambientales implementadas.",
+            "indicator": "Cantidad de políticas medioambientales formuladas y/o implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de implementación de procesos innovadores en la gestión pública para optimizar, formalizar y automatizar los procesos internos como parte de la cadena de valor.",
+            "objective": "Implementar procesos eficientes e innovadores en la gestión pública en base a estándares y buenas prácticas.",
+            "goal": "03 buenas prácticas implementadas.",
+            "indicator": "Número de buenas prácticas implementadas en el distrito."
+          },
+          {
+            "problem": "Centralización de la atención y falta de una administración pública moderna en las agencias municipales, las cuales no brindan una respuesta inmediata al ciudadano.",
+            "objective": "Implementar canales de atención descentralizados que brinden servicios inclusivos, eficientes y de calidad a los ciudadanos.",
+            "goal": "Mínimo que 80% de los usuarios se declaren satisfechos con la atención recibida.",
+            "indicator": "Porcentaje de satisfacción por el servicio descentralizado brindado."
+          },
+          {
+            "problem": "Falta de articulación institucional con municipalidades limítrofes para el abordaje de problemáticas comunes y la formulación de estrategias políticas locales transversales.",
+            "objective": "Promover acciones de gobierno local para la articulación con municipalidades del entorno.",
+            "goal": "5 acciones locales institucionales anuales para la articulación entre municipalidades.",
+            "indicator": "Número de acciones locales para la articulación intermunicipal."
+          },
+          {
+            "problem": "Desinterés de la administración pública por reforzar la transparencia, la accesibilidad de la información y la promoción de la participación ciudadana en asuntos de interés público.",
+            "objective": "Generar mecanismos de accesibilidad y transparencia de la información pública en el marco de la implementación de gobierno abierto.",
+            "goal": "Promover en un 90% mecanismos de accesibilidad y transparencia.",
+            "indicator": "Número de mecanismos de accesibilidad y transparencia pública."
+          },
+          {
+            "problem": "Ineficiencia en la simplificación administrativa, con persistencia de barreras y obstáculos burocráticos que impiden la agilización de trámites para los ciudadanos.",
+            "objective": "Mejorar la atención a la ciudadanía, simplificando procedimientos, agilizando trámites y eliminando barreras.",
+            "goal": "10 procedimientos administrativos simplificados.",
+            "indicator": "Números de procedimientos administrativos simplificados."
+          },
+          {
+            "problem": "Problema recurrente de corrupción en la administración pública local, que genera un alto porcentaje de desconfianza ciudadana (81.7%) en la municipalidad distrital.",
+            "objective": "Reforzar los mecanismos anticorrupción en la administración municipal de manera sistemática y transversal.",
+            "goal": "Aumentar la cantidad de estrategias anticorrupción en el gobierno municipal de San Martín de Porres.",
+            "indicator": "Número de estrategias municipales anticorrupción implementadas; Porcentaje de confianza en las instituciones estatales del gobierno local."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-tvm9grnCO7YNy-U1DcQdpHTiHMCPTlD6",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/tvm9grnCO7YNy-U1DcQdpHTiHMCPTlD6",
+      "sha256": "47a4e27c351cd72583dda79f4a3c2a3166aa76550fbcfa6af96433cdfd149e09",
+      "accessedAt": "2026-10-02T23:04:54.199Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020291",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020291",
+      "sha256": "216c3b844b8e57be5b062ac2872b3ef2a6cf77b805e6b8ed09d2564b74234b0e",
+      "accessedAt": "2026-10-02T23:04:54.759Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

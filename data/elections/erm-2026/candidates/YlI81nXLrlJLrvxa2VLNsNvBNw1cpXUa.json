@@ -1,0 +1,260 @@
+{
+  "id": "YlI81nXLrlJLrvxa2VLNsNvBNw1cpXUa",
+  "slug": "nicole-fiorella-munoz-zevallos",
+  "electionId": "erm-2026",
+  "name": "Nicole Fiorella Muñoz Zevallos",
+  "givenNames": "Nicole Fiorella",
+  "surnames": "Muñoz Zevallos",
+  "age": 30,
+  "gender": "Femenino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140125",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:33.540Z",
+      "sourceId": "jne-hv-YlI81nXLrlJLrvxa2VLNsNvBNw1cpXUa"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada Norbert Wiener S.A.",
+        "program": "LICENCIADA EN ADMINISTRACION Y NEGOCIOS INTERNACIONALES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada Norbert Wiener S.A.",
+        "program": "BACHILLER EN ADMINISTRACION Y NEGOCIOS INTERNACIONALES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "TOP STRATEGIC SAC",
+      "role": "ASISTENTE DE GERENCIA",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "FINANCIERA CONFIANZA",
+      "role": "ANALISTA",
+      "from": "2019",
+      "to": "2023"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE BARRANCO",
+      "role": "SECRETARIA",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "RENOVACION POPULAR",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "MILITANTE",
+      "party": "ALIANZA ELECTORAL RENOVACION POPULAR PERU",
+      "from": "2004",
+      "to": "2004"
+    },
+    {
+      "position": "MILITANTE",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2022",
+      "to": "2023"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 50000,
+        "public": 27000,
+        "private": 23000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "BBVA PRESTAMO S/5,000, CARPETA FISCAL EN INVESTIGACION: 506015505-2025-526-0"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/71f7e3af-6bf5-4c1a-8575-217389f5e8d9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b9d8b1fb-413d-4356-909e-64cde295f35e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Brechas existentes en el acceso a servicios de salud, educación y asistencia social.",
+            "objective": "Mejorar el acceso y la calidad de los servicios sociales básicos para la población.",
+            "goal": "Alcanzar el 100% de cobertura en los programas sociales prioritarios.",
+            "indicator": "Porcentaje de población atendida y número de programas activos."
+          },
+          {
+            "problem": "Violencia contra la mujer y grupos vulnerables.",
+            "objective": "Erradicar la violencia de género y familiar, y proteger los derechos fundamentales de las víctimas.",
+            "goal": "Reducción de los casos de violencia familiar en un 35% o más, y lograr la atención y protección al 100% de las víctimas.",
+            "indicator": "Número de casos atendidos y denuncias registradas y resueltas."
+          },
+          {
+            "problem": "Alta incidencia de robos, hurtos y violencia, con espacios públicos inseguros.",
+            "objective": "Reducir los delitos y mejorar la convivencia, así como recuperar y proteger los espacios públicos.",
+            "goal": "Reducción de la tasa de denuncias en un 40% o más con respecto al nivel del año 2026.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio por cada 1000 habitantes."
+          },
+          {
+            "problem": "Atención insuficiente a grupos vulnerables como niños, adultos mayores y personas con discapacidad.",
+            "objective": "Garantizar la protección y el bienestar de los niños, adultos mayores y personas con discapacidad.",
+            "goal": "Atender a 2,000 personas o más y contar con 3 centros de atención especializados.",
+            "indicator": "Número de beneficiarios atendidos y cantidad de servicios especializados disponibles."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Patrimonio cultural del distrito se encuentra en riesgo.",
+            "objective": "Preservar, restaurar y promover el patrimonio histórico y artístico de la jurisdicción.",
+            "goal": "Proteger el 100% de los bienes y activar 5 rutas culturales.",
+            "indicator": "Porcentaje de bienes patrimoniales intervenidos."
+          },
+          {
+            "problem": "Poco apoyo a emprendedores y a las Micro y Pequeñas Empresas (MYPES).",
+            "objective": "Promover la formalización, la capacitación y el acceso a mercados locales para emprendedores y MYPES.",
+            "goal": "Fortalecer a 500 o más MYPES y modernizar 2 mercados locales.",
+            "indicator": "Número de empresas apoyadas y cantidad de puestos formales creados."
+          },
+          {
+            "problem": "Potencial turístico y comercial del distrito se encuentra desaprovechado.",
+            "objective": "Impulsar el turismo sostenible, la cultura y el comercio formal.",
+            "goal": "Aumentar en un 50% o más el número de visitantes y en un 30% los ingresos de los locales comerciales.",
+            "indicator": "Número de visitantes anuales e ingresos generados por el turismo."
+          },
+          {
+            "problem": "Escasa oferta de actividades culturales y recreativas para la comunidad.",
+            "objective": "Ampliar los programas, eventos y espacios culturales para el acceso de todos los ciudadanos.",
+            "goal": "Realizar 60 o más actividades anuales y alcanzar los 100,000 asistentes.",
+            "indicator": "Número de actividades anuales realizadas y cantidad de asistentes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vías, veredas y señalética deterioradas o incompletas, afectando la accesibilidad.",
+            "objective": "Mejorar, renovar y mantener la red vial y peatonal, garantizando la accesibilidad universal.",
+            "goal": "Lograr una cobertura del 90% o más de la red vial y peatonal distrital.",
+            "indicator": "Porcentaje de vías y veredas en buen estado de conservación."
+          },
+          {
+            "problem": "Espacios verdes insuficientes y con mantenimiento deficiente.",
+            "objective": "Ampliar, recuperar, forestar y mantener los parques, jardines y áreas verdes del distrito.",
+            "goal": "Alcanzar y mantener un estándar de 6 metros cuadrados o más de área verde por habitante.",
+            "indicator": "Metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Gestión deficiente de los residuos sólidos y del servicio de limpieza pública.",
+            "objective": "Modernizar la recolección, el reciclaje, el tratamiento y la disposición final de los residuos de manera ambientalmente adecuada.",
+            "goal": "Alcanzar una tasa de reciclaje del 40% o superior y una cobertura del 100% del servicio en todo el distrito.",
+            "indicator": "Porcentaje de residuos reciclados y cobertura del servicio de limpieza."
+          },
+          {
+            "problem": "Riesgos ambientales, erosión y deterioro general en la zona de la Costa Verde.",
+            "objective": "Proteger, recuperar y desarrollar integralmente la Costa Verde conforme a su Plan Maestro.",
+            "goal": "Intervenir el 100% del tramo de la Costa Verde correspondiente a Barranco.",
+            "indicator": "Porcentaje de tramos de la costa recuperados, equipados y seguros."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos municipales lentos, burocráticos y poco transparentes.",
+            "objective": "Modernizar la gestión, simplificar los trámites y fomentar la transparencia.",
+            "goal": "Digitalizar el 90% o más de los trámites en línea y alcanzar un nivel de satisfacción ciudadana del 85% o superior.",
+            "indicator": "Porcentaje de trámites digitales y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Baja ejecución presupuestal y una mala planificación de las inversiones.",
+            "objective": "Mejorar la planificación, la inversión y el uso eficiente de los recursos públicos.",
+            "goal": "Lograr una ejecución presupuestal anual del 90% o más y ejecutar el 100% de los proyectos priorizados.",
+            "indicator": "Porcentaje de ejecución presupuestal e inversión en obras."
+          },
+          {
+            "problem": "Escaso uso de tecnología y de datos para la gestión municipal.",
+            "objective": "Implementar el gobierno digital, el uso de datos abiertos y mejorar la conectividad.",
+            "goal": "Lograr que el 100% de la información pública esté disponible a través de una plataforma digital activa.",
+            "indicator": "Porcentaje de servicios digitales disponibles y nivel de acceso a la información pública."
+          },
+          {
+            "problem": "Insuficiente vigilancia tecnológica y monitoreo para la seguridad ciudadana.",
+            "objective": "Fortalecer el patrullaje, las cámaras de vigilancia, la comunicación y la coordinación interinstitucional con la Policía Nacional del Perú (PNP).",
+            "goal": "Alcanzar una cobertura del 100% en avenidas, parques, zonas turísticas y límites distritales.",
+            "indicator": "Porcentaje de espacios públicos con vigilancia activa y cámaras instaladas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-YlI81nXLrlJLrvxa2VLNsNvBNw1cpXUa",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/YlI81nXLrlJLrvxa2VLNsNvBNw1cpXUa",
+      "sha256": "e76c26c99ba79e0abc89bbdab10033b4512a4ad8f493ec6f1de4653915e35777",
+      "accessedAt": "2026-10-02T22:51:33.540Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026029520",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026029520",
+      "sha256": "6728f3f848198466c07534ceb5f1dee2804df52740eb4f0bab676c6d95bb241a",
+      "accessedAt": "2026-10-02T22:51:34.081Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

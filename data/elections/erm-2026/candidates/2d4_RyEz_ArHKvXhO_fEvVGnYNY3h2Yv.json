@@ -1,0 +1,221 @@
+{
+  "id": "2d4_RyEz_ArHKvXhO_fEvVGnYNY3h2Yv",
+  "slug": "victor-antonio-cruz-huaman",
+  "electionId": "erm-2026",
+  "name": "Victor Antonio Cruz Huaman",
+  "givenNames": "Victor Antonio",
+  "surnames": "Cruz Huaman",
+  "age": 52,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:19.261Z",
+      "sourceId": "jne-hv-2d4_RyEz_ArHKvXhO_fEvVGnYNY3h2Yv"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Católica Los Ángeles de Chimbote",
+        "program": "LICENCIADO EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Católica Los Ángeles de Chimbote",
+        "program": "BACHILLER EN CIENCIAS ADMINISTRATIVAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "BANCO DE LA NACION",
+      "role": "ADMINISTRADOR",
+      "from": "2008",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEL BUEN GOBIERNO",
+      "year": "2025"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 43200,
+        "public": 43200,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 5750,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO",
+        "value": 6000
+      },
+      {
+        "type": "MOTO",
+        "value": 7000
+      },
+      {
+        "type": "MOTO",
+        "value": 5000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d33fab69-2385-45ae-a9d4-1a820fce48cb.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3e9cc8ad-e1b2-4f2b-aad9-512471162f05.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alrededor del 30% de personas no tienen donde diagnosticarse, obligando a viajar horas, y existe una grave falta de atención en las postas médicas.",
+            "objective": "Implementación de infraestructura de salud móvil en zonas desatendidas y la construcción de un hospital municipal.",
+            "goal": "Atención en forma efectiva al 30% de ciudadanos rimenses para fines del 2030.",
+            "indicator": "Contabilizar la cantidad de personas cuya salud es efectivamente restablecida, priorizando el diagnóstico temprano sobre el tratamiento de emergencias."
+          },
+          {
+            "problem": "Violencia en zonas urbanas, conjunto de delitos, agresiones y actos de coerción que ocurren en el distrito Rímac.",
+            "objective": "Impulso de programas integrales en apoyo a la familia que busque la reducción de la violencia urbana y doméstica.",
+            "goal": "Al final del 2029, contar con un comité de vigilancia capacitado en el distrito y con políticas de prevención aprobada.",
+            "indicator": "Número de comités de vigilancia capacitados en el distrito."
+          },
+          {
+            "problem": "Falta de obras en las zonas rurales como lozas deportivas, veredas, escaleras, pistas y muros de contención.",
+            "objective": "Recuperación de espacios y modernización de las zonas con obras de infraestructura con duración a largo plazo en los asentamientos humanos.",
+            "goal": "Al término del 2029, las zonas contarán con sus obras.",
+            "indicator": "Medir porcentaje de hogares rurales sin acceso a obras."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El comercio ambulatorio y las MYPES perciben que los trámites para registrar una empresa o sacar una licencia municipal son excesivamente complejos y onerosos.",
+            "objective": "Apoyo a la formalización del comercio ambulatorio y las MYPES a través de programas de asesoramiento municipal que busquen consolidar una cultura emprendedora y éxito empresarial.",
+            "goal": "Impacto socioeconómico, estructurado en metas a corto (1 año), mediano (2-3 años) y largo plazo (4-5 años).",
+            "indicator": "Reducción del tiempo (días) y costo (S/.) para la obtención de la licencia municipal en comparación con el trámite regular."
+          },
+          {
+            "problem": "Exclusión de la cadena de valor turística y mínima retención de ingresos.",
+            "objective": "Promoción del turismo, comercio y servicios a partir del establecimiento de alianzas estratégicas con los actores involucrados.",
+            "goal": "Dinamizar la cadena de valor turística creando nuevos puestos de empleo y facilitando la digitalización de pequeñas empresas del sector al término del 2030.",
+            "indicator": "Medida mediante encuestas estandarizadas para evaluar la rentabilidad, confianza y el flujo de comunicación entre los participantes."
+          },
+          {
+            "problem": "Muchas municipalidades aprueban aumentos sin socializar la estructura de costos, generando desconfianza y protestas vecinales al percibir que pagan por servicios deficientes.",
+            "objective": "Diseñar una estructura de costos reales de los servicios que brinda la Municipalidad, orientada a lograr la contribución de los vecinos, mediante tributos justos.",
+            "goal": "El impacto de la recaudación y la mejora en la cultura tributaria se consolida en un horizonte de 1 a 2 años.",
+            "indicator": "Costo Unitario por Servicio: Permite conocer el costo real dividido entre el número de usuarios o área."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El parchado de pistas y veredas radica en la necesidad de organizar a los vecinos para mitigar el deterioro urbano ante la limitada capacidad operativa de los municipios.",
+            "objective": "Capacitar a los vecinos y juntas vecinales en técnicas básicas de mantenimiento vial y reparación de superficies, fomentando la autogestión, la seguridad y la mejora del entorno urbano de la zona.",
+            "goal": "El tiempo de mejora del problema se estima en 2 a 4 semanas por sector, con una solución total de todo el distrito en 2 años, para 2029.",
+            "indicator": "Fundamentos básicos: Identificación de tipos de deterioro (baches, piel de cocodrilo, ahuellamiento)."
+          },
+          {
+            "problem": "El alto tonelaje, la antigüedad de las flotas de transporte público y la excesiva frecuencia de unidades generan vibraciones, causando un grave deterioro estructural en casonas, iglesias y monumentos históricos.",
+            "objective": "Coordinación con la Municipalidad Metropolitana y la reestructuración de rutas de transporte público que se movilizan en zonas monumentales en situación de deterioro.",
+            "goal": "Acciones a corto plazo (inmediato de 1 a 2 años) para 2029.",
+            "indicator": "Medición del tonelaje promedio de las unidades por eje, permitiendo restringir el paso de vehículos pesados en zonas de valor monumental."
+          },
+          {
+            "problem": "Proliferación de residuos sólidos.",
+            "objective": "Implementación de un sistema integral de manejo de residuos sólidos con la participación de los habitantes del distrito.",
+            "goal": "La implementación de un sistema integral de manejo de residuos sólidos toma de 1 a 3 años a nivel municipal, incluyendo el diseño, la aprobación del plan y el despliegue de la infraestructura.",
+            "indicator": "Medir el porcentaje de manzanas o sectores del distrito que cuentan con el paso de camiones de recojo selectivo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Carencia de un Plan de Prevención de la Violencia en los jóvenes.",
+            "objective": "Acciones coordinadas y alianzas estratégicas con actores públicos y privados para combatir el delito, reducir la violencia urbana y generar una nueva cadena de valor para las actividades de la población identificada como crítica.",
+            "goal": "Corto Plazo (0 a 6 meses), Mediano Plazo (6 meses a 2 años) y Largo Plazo (3 a 5 años).",
+            "indicator": "Número de Convenios Formales: Cantidad de alianzas estratégicas firmadas con empresas privadas."
+          },
+          {
+            "problem": "Falta de implementación del sistema de videovigilancia destinado a fortalecer la seguridad ciudadana.",
+            "objective": "Lograr la implantación completa y operativa del sistema de videovigilancia para reducir riesgos delictivos y mejorar la vigilancia en zonas priorizadas.",
+            "goal": "Para finales de 2028, implantar y poner en operación el 100% de los equipos y puntos de monitoreo planificados.",
+            "indicator": "Grado de avance del cronograma de ejecución, tiempo promedio de acceso a grabaciones ante solicitudes de autoridad."
+          },
+          {
+            "problem": "Ante la falta de trabajadores municipales de limpieza o áreas verdes, los vecinos organizados cubren estas brechas operativas.",
+            "objective": "Promoción de sistemas de voluntariado vecinal y contraprestación de servicios en apoyo a la mejora del ornato distrital.",
+            "goal": "En un periodo de 6 meses, incrementar en un 20% la cantidad de vecinos activos respecto al inicio del plan.",
+            "indicator": "Números de reuniones o acuerdos formales celebrados con la municipalidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-2d4_RyEz_ArHKvXhO_fEvVGnYNY3h2Yv",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/2d4_RyEz_ArHKvXhO_fEvVGnYNY3h2Yv",
+      "sha256": "f881a392c6babd67f8468361fcea59d8f36243444bb2fcdbd2b626bde6f6a1ad",
+      "accessedAt": "2026-10-02T23:02:19.261Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032833",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032833",
+      "sha256": "a8657d2ef207bc8d1352aab22b76caeaa149dd5c91586f767f9c26e86fb2859c",
+      "accessedAt": "2026-10-02T23:02:19.825Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

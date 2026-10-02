@@ -1,0 +1,296 @@
+{
+  "id": "BecPsKA3Z0knZYEGjzjk0mnG-zE5GDB-",
+  "slug": "felicidad-emperatriz-salhuana-serna",
+  "electionId": "erm-2026",
+  "name": "Felicidad Emperatriz Salhuana Serna",
+  "givenNames": "Felicidad Emperatriz",
+  "surnames": "Salhuana Serna",
+  "age": 57,
+  "gender": "Femenino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:05.667Z",
+      "sourceId": "jne-hv-BecPsKA3Z0knZYEGjzjk0mnG-zE5GDB-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD CATÓLICA DE CHIMBOTE",
+        "program": "ABOGADA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "DERECHO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "GESTIÓN DE POLÍTICAS PÚBLICAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DEL RÍMAC",
+      "role": "ABOGADA",
+      "from": "1989",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2009"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 35,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d7f87659-3368-4016-9daf-ded76f2c4187.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5f2ffff9-1afa-42f5-bcd0-2c2ebadc1f83.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiencia de la participación del Municipio del Rímac en priorizar los problemas de salud con la comunidad.",
+            "objective": "Proteger a la población en su bienestar en salud, localizando los factores de riesgo de enfermedades, para prevenir complicaciones futuras.",
+            "goal": "Llevar unas 30 campañas médicas anuales al 2030.",
+            "indicator": "Programar la presencia y asistencia de médicos hacia la población a fin de prevenir la detención temprana de enfermedades."
+          },
+          {
+            "problem": "Limitaciones en la atención rápida en las dependencias de salud del Estado.",
+            "objective": "Fomentar alianzas estratégicas con establecimientos de salud privados haciendo campañas de salud en zonas vulnerables.",
+            "goal": "Alianzas estratégicas hacia 2030 con clínicas y hospitales para generar hasta dos campañas de salud al año.",
+            "indicator": "Lograr convenios con establecimientos de salud privados."
+          },
+          {
+            "problem": "Falta de prevención y educación de salud en los colegios.",
+            "objective": "Organizar charlas y talleres de salud en los colegios, conjuntamente con los padres de familia sobre la alimentación saludable, higiene personal y prevención de enfermedades respiratorias.",
+            "goal": "Lograr el 100% al 2030 de talleres de salud a los centros educativos del Rímac a fin de prevenir enfermedades.",
+            "indicator": "Coordinar con los centros de salud pública y privada para fortalecer los talleres de salud a los niños de los colegios inicial y primaria."
+          },
+          {
+            "problem": "Deficiencia en la limpieza pública y manejo de basura.",
+            "objective": "Mantener limpias las calles, parques y espacios públicos mediante el barrido y recolección constante.",
+            "goal": "Lograr mantener el distrito limpio y saludable mediante un sistema eficiente de recolección, barrido y disposición adecuada de los residuos sólidos durante el año.",
+            "indicator": "Recolectar y transportar adecuadamente los residuos sólidos generados por la población."
+          },
+          {
+            "problem": "Falta de accesibilidad urbana y de inclusión laboral para personas con discapacidad.",
+            "objective": "Garantizar la accesibilidad en la planificación urbana e incorporar en la política pública local a través de la OMAPED.",
+            "goal": "Alcanzar entre 60% a 80% de veredas con rampas accesibles y espacios públicos; igualmente lograr un 5% de trabajadores con discapacidad en el municipio.",
+            "indicator": "Adaptación de rampas, señalización y consideración en espacios accesibles como parques, plazas, y la colocación laboral en la municipalidad."
+          },
+          {
+            "problem": "Infraestructura en mal estado en los colegios públicos.",
+            "objective": "Apoyar en el mantenimiento y mejoramiento de los colegios públicos, saneando la parte de su infraestructura en coordinación con los representantes del sector educación.",
+            "goal": "Reducir el número de colegios con infraestructura en mal estado, reparando en los lugares donde presenten deterioro, a fin de mejorar la seguridad de los locales escolares.",
+            "indicator": "Garantizar espacios seguros y adecuados para el aprendizaje efectuando mantenimiento y reparación de las aulas, techos, baños y patios."
+          },
+          {
+            "problem": "Abandono o deterioro del patrimonio cultural y de los espacios históricos.",
+            "objective": "Conservar el patrimonio cultural y histórico, fomentando la educación cultural y mejorar la infraestructura turística para fortalecer la identidad cultural y el desarrollo del distrito.",
+            "goal": "Disminuir en un 30% el abandono de edificios patrimoniales, mediante programas de rehabilitación e implementar planes de mantenimiento anual para todos los monumentos y espacios históricos importantes del distrito del Rímac.",
+            "indicator": "Fomentar en la población el respeto y la valoración del patrimonio cultural y la programación educativa en colegios sobre la historia del Rímac."
+          },
+          {
+            "problem": "Insuficientes espacios deportivos o en mal estado, como lozas o canchas deterioradas.",
+            "objective": "Remodelar canchas, losas deportivas e implementación de iluminación en espacios deportivos para uso nocturno.",
+            "goal": "Se aumentarán los beneficios directamente a más de 10,000 personas y el mantenimiento permanente de los espacios deportivos.",
+            "indicator": "Promover las actividades deportivas y recreativas en espacios públicos y que la comunidad participe en actividades deportivas."
+          },
+          {
+            "problem": "No se identifican correctamente los programas sociales que más necesitan atención.",
+            "objective": "Mejorar la calidad de vida de la población vulnerable del Rímac mediante programas sociales eficientes y sostenibles, mejorando la focalización de beneficiarios.",
+            "goal": "Prosperar en un 35% a 40% la efectividad de los programas sociales que integra la población vulnerable en el Rímac en el período de 3 años.",
+            "indicator": "Medir cuántas personas de la población vulnerable son atendidas por los programas, determinando en números de beneficiarios."
+          },
+          {
+            "problem": "Carencia constante del servicio de agua potable y alcantarillado, en especial en zonas de asentamientos humanos.",
+            "objective": "Mejorar el acceso de agua potable y alcantarillado en zonas que no cuentan con servicios regulares.",
+            "goal": "Orientar a reducir la brecha de servicio básico a fin de mejorar la calidad del sistema de saneamiento para la población.",
+            "indicator": "Identificar las zonas del distrito que carecen de acceso a agua potable y alcantarillado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existen limitaciones en la inversión, el empleo y el crecimiento del distrito.",
+            "objective": "Impulsar el desarrollo económico y sostenible del distrito del Rímac mediante el fortalecimiento del comercio local, el turismo, el emprendimiento y la generación de empleo para mejorar la calidad de vida de los vecinos.",
+            "goal": "Lograr un crecimiento económico local sostenible en el Rímac, mediante la generación de empleo, fortalecimiento del comercio en la formalización de micro y pequeñas empresas (MYPES), y aprovechamiento del potencial turístico y cultural del distrito.",
+            "indicator": "Llegar a un 60% en la formalización y capacitación de pequeños comerciantes y emprendedores, y crear programas de apoyo financiero, en especial a los emprendedores del distrito, incentivando la inversión privada."
+          },
+          {
+            "problem": "Existe un descontrol del comercio informal.",
+            "objective": "Ordenar y regular el comercio informal en los espacios públicos para mejorar la movilidad urbana, la seguridad y las condiciones de los trabajadores comerciantes.",
+            "goal": "Registrar y censar al 100% de los comerciantes informales y reubicar a un 60% a 70% de vendedores en espacios autorizados como mercados o ferias en un plazo de 128 meses.",
+            "indicator": "Identificar y registrar a los comerciantes informales que operan en determinadas zonas y mejorar las condiciones sanitarias y de seguridad de los puestos de ventas."
+          },
+          {
+            "problem": "Limitaciones en el sistema administrativo y tecnológico, y falta de actualización de bases de datos tributarias, lo que genera errores y lentitud en la atención.",
+            "objective": "Proponer estrategias de modernización tributaria para optimizar la administración, aumentar la recaudación, incentivar el pronto pago y realizar campañas de sensibilización y fiscalización.",
+            "goal": "Disminuir la tasa de morosidad de un 40% a 25% en un año, lograr que el 75% a 80% paguen dentro del plazo. Reducir el tiempo de atención de 30 a 15 minutos y realizar al menos 3 campañas anuales de educación tributaria.",
+            "indicator": "Incrementar la data de contribuyentes no registrados, bajar la tasa de morosidad, el número de reclamos atendidos y aumentar la recaudación anual."
+          },
+          {
+            "problem": "Limitada capacidad técnica del municipio para ejecutar proyectos bajo la modalidad de Obras por Impuesto (OxI) por falta de técnicos especializados.",
+            "objective": "Reducir la brecha de infraestructura y mejorar los servicios públicos mediante la participación de empresas privadas que ejecuten obras con cargo a su impuesto a la renta.",
+            "goal": "Alcanzar que el 80% de los proyectos de infraestructura se ejecuten dentro del plazo establecido mediante obras por impuesto en el distrito del Rímac por la inversión privada en 3 años en beneficio de la población.",
+            "indicator": "Lograr que los proyectos de inversión sean sin sobrecostos de las inversiones privadas y que el presupuesto municipal sea cubierto por OxI."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Poca difusión de programas sociales sobre educación ambiental, especialmente en colegios, por falta de articulación interinstitucional.",
+            "objective": "Elevar la conciencia y cultura ambiental de la población, fortaleciendo el programa municipal de educación, cultural y ciudadanía ambiental (EDUCCA) e involucrando a niños, jóvenes y la comunidad.",
+            "goal": "Fortalecer el programa EDUCCA, capacitando a un gran porcentaje de la población (niños, jóvenes y adultos) e incluyendo a las instituciones educativas para lograr más ciudadanos educados ambientalmente.",
+            "indicator": "Involucrar a todas las instituciones educativas del distrito, con el apoyo de promotores escolares y comunitarios, para aumentar el nivel de conciencia en la población."
+          },
+          {
+            "problem": "Dificultades con el reciclaje debido a la mezcla de residuos sólidos, lo que provoca la pérdida de material reciclable.",
+            "objective": "Fomentar la reutilización de materiales como papeles, plásticos, vidrios y metales, implementando un sistema eficiente de desegregación y reciclaje para su industrialización, promoviendo la participación ciudadana y la inclusión de recicladores.",
+            "goal": "Reducir al mínimo la basura y maximizar el reciclaje y la reutilización con plantas industrializadas, para evitar la contaminación y proteger la salud de la población, aprovechando también el proceso de compostaje.",
+            "indicator": "Lograr el aprovechamiento del 25% al 30% de residuos reciclados inorgánicos como plástico, papel, cartón, vidrios y metales."
+          },
+          {
+            "problem": "Deficiencia en el recojo de basura y acumulación de residuos en botaderos informales sin condiciones sanitarias adecuadas.",
+            "objective": "Mejorar la calidad y cobertura del servicio de limpieza, protegiendo la salud de la población, garantizando un manejo adecuado de los residuos, reduciendo su generación y optimizando la eficiencia del servicio.",
+            "goal": "Ampliar cada año en un 20% a 30% la recolección de basura, que en los años 2024 y 2025 fue de 220 toneladas diarias, llegando al año a 80,000 toneladas.",
+            "indicator": "Incrementar la cobertura de recolección de basura en lugares vulnerables y la eficiencia del servicio de limpieza, aplicando el plan de manejo de residuos sólidos del Rímac (PMRS)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de equipamiento de videovigilancia en lugares de riesgo y puntos vulnerables, sin una coordinación conjunta y rápida ante hechos delictivos.",
+            "objective": "Desarrollar un sistema de comunicación unificada y coordinada que permita compartir información y responder rápidamente ante emergencias o delitos.",
+            "goal": "La respuesta rápida ante las incidencias de seguridad ciudadana debe oscilar entre 5 a 10 minutos aproximadamente.",
+            "indicator": "Colocación de cámaras de vigilancia con software de enlaces con la PNP en puntos vulnerables, según exigencias de la sociedad colectiva."
+          },
+          {
+            "problem": "Desarticulación participativa de los ciudadanos en los mecanismos del municipio y falta de involucramiento en el presupuesto participativo.",
+            "objective": "Fortalecer la participación ciudadana en el distrito del Rímac, fomentando la asistencia a espacios como cabildos abiertos, asambleas y al proceso de presupuestos participativos.",
+            "goal": "Incrementar a 60% la participación de los vecinos organizados en el Rímac en un período de 2 años, garantizando que el 65% de los proyectos del presupuesto participativo sean ejecutados.",
+            "indicator": "Lograr incrementar las organizaciones vecinales activas para obtener un gran número de agentes participantes inscritos en la formulación y aprobación del presupuesto participativo."
+          },
+          {
+            "problem": "La municipalidad no responde eficazmente al buen uso de los recursos presupuestales y muestra poca transparencia en el proceso de ejecución de obras.",
+            "objective": "Mejorar la transparencia en la publicación periódica del uso del presupuesto, los avances de obras y la rendición de cuentas.",
+            "goal": "Llegar al 100% de publicación del presupuesto, seguimiento de obras y del proceso de contratación en el portal municipal, y que la rendición de cuentas sea didáctica y entendible.",
+            "indicator": "Lograr que la ejecución presupuestal se publique permanentemente cada año y que la rendición de cuentas sea anual."
+          },
+          {
+            "problem": "Los vecinos del Rímac se sienten disminuidos por el avance de la delincuencia.",
+            "objective": "Realizar reuniones con los vecinos organizados en juntas vecinales para diseñar y ejecutar un plan permanente de seguridad ciudadana distrital.",
+            "goal": "Concertar con todos los comités vecinales para fortalecer su estructura a fin de operar con el CODISEC.",
+            "indicator": "Implementar más comités de juntas vecinales legalmente organizados para que puedan participar en el Comité de Seguridad Ciudadana-CODISEC."
+          },
+          {
+            "problem": "Problemas estructurales y falta de articulación en los instrumentos de gestión (PIA, PIM, POI, PEI, ROF, MOF, CAP, TUPA), los cuales están desactualizados.",
+            "objective": "Mejorar la coherencia institucional alineando los instrumentos de gestión como el Plan de Desarrollo Local, Presupuesto Participado, Plan Operativo Institucional y Plan Estratégico Institucional.",
+            "goal": "Lograr que todos los instrumentos de gestión estén vinculados, respondan a una misma visión de desarrollo distrital y que las gerencias trabajen de manera coordinada, manteniendo la actualización de estos instrumentos, incluyendo el PDLC.",
+            "indicator": "Optimizar el uso de recursos públicos, evitando duplicidad de esfuerzos y proyectos que no responden a prioridades reales, basándose en instrumentos de gestión articulados."
+          },
+          {
+            "problem": "Continuos problemas administrativos en la gestión municipal por ausencia de una planificación estratégica.",
+            "objective": "Fortalecer la eficiencia administrativa y técnica municipal, implementando una planificación estratégica que permita desarrollar proyectos sostenibles para el distrito.",
+            "goal": "Desarrollar planes claros, sostenibles y con continuidad entre gestiones, simplificando los procesos administrativos y reduciendo tiempos mediante la digitalización.",
+            "indicator": "Mejorar la capacidad administrativa para que los documentos que ingresen al municipio sean atendidos dentro del plazo establecido, emitiendo informes y/o resoluciones en su tiempo promedio."
+          },
+          {
+            "problem": "Mala administración de los recursos públicos y deficiente acceso a la información oportuna.",
+            "objective": "Garantizar el acceso a la información sobre presupuesto y proyectos, e implementar mecanismos de control y supervisión para prevenir la corrupción.",
+            "goal": "Lograr una gestión municipal transparente, eficiente y libre de corrupción, garantizando el acceso a la información, el control interno efectivo y la participación ciudadana activa.",
+            "indicator": "Llegar al 100% de información publicada en el portal de transparencia y su actualización periódica, que puede ser trimestral o semestral."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18965",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Formación Académica",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-10-02",
+      "details": {
+        "rubro": "FORMACIÓN ACADÉMICA",
+        "resolucion": "RES.00633-2026-JEE-LIN2-JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RES.00633-2026-JEE-LIN2-JNE",
+      "sourceIds": [
+        "jne-hv-BecPsKA3Z0knZYEGjzjk0mnG-zE5GDB-"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-BecPsKA3Z0knZYEGjzjk0mnG-zE5GDB-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/BecPsKA3Z0knZYEGjzjk0mnG-zE5GDB-",
+      "sha256": "064cad7d90d196b47c269f2ec1f2dee24c9ad225bb527f8a77eed04085fd8cdc",
+      "accessedAt": "2026-10-02T23:02:05.667Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019826",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019826",
+      "sha256": "06ed1b673005ef58e0aab4237c55350789cce3290d5d485dd6880a2cc08cbf52",
+      "accessedAt": "2026-10-02T23:02:06.148Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

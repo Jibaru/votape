@@ -1,0 +1,195 @@
+{
+  "id": "XeoGWyD0CttrB0WUl5taaWkRJilpDgs7",
+  "slug": "esther-del-rosario-meza-atuncar",
+  "electionId": "erm-2026",
+  "name": "Esther Del Rosario Meza Atuncar",
+  "givenNames": "Esther Del Rosario",
+  "surnames": "Meza Atuncar",
+  "age": 37,
+  "gender": "Femenino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:19.917Z",
+      "sourceId": "jne-hv-XeoGWyD0CttrB0WUl5taaWkRJilpDgs7"
+    }
+  ],
+  "education": {
+    "basic": null,
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "VEHICULO",
+        "value": 35000
+      },
+      {
+        "type": "VEHICULO",
+        "value": 35000
+      },
+      {
+        "type": "VEHICULO",
+        "value": 35000
+      },
+      {
+        "type": "VEHICULO",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "COMPETICION AUTOMOTRIZ SRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 3,
+        "value": 6000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4045bce7-1544-4f40-94d2-98a504e3c760.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2d3eff96-6c1d-4c8a-a655-5006890890fb.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Cobertura insuficiente de agua potable y deficiencias en el sistema de alcantarillado, con una alta dependencia del abastecimiento mediante cisternas.",
+            "objective": "Garantizar que todos los vecinos de Lurín tengan acceso progresivo a servicios adecuados de agua potable y alcantarillado.",
+            "goal": "Reducir en al menos un 80% las brechas de agua potable y saneamiento identificadas en el distrito.",
+            "indicator": "Porcentaje de reducción de la brecha de acceso a agua y saneamiento."
+          },
+          {
+            "problem": "Los establecimientos de salud existentes son insuficientes para atender el crecimiento poblacional y económico del distrito, lo que genera saturación de servicios y limitada atención especializada.",
+            "objective": "Garantizar el acceso oportuno a servicios básicos de salud para toda la población del distrito.",
+            "goal": "Alcanzar una capacidad de 150,000 atenciones anuales con la construcción del Hospital Municipal de Lurín.",
+            "indicator": "Número de atenciones anuales y tiempo promedio de espera."
+          },
+          {
+            "problem": "Deterioro de los espacios públicos, con parques y áreas recreativas que presentan equipamiento insuficiente, falta de iluminación y déficit de mantenimiento.",
+            "objective": "Recuperar la ciudad para las familias, mejorando la calidad de vida y fomentando la recreación.",
+            "goal": "Renovar 100 parques y desarrollar el Gran Parque Metropolitano del Valle de Lurín en un área de 20 a 30 hectáreas.",
+            "indicator": "Número de parques renovados y metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Congestión vehicular en los accesos a la Panamericana Sur y un notorio déficit de infraestructura peatonal, lo que incrementa los tiempos de viaje y los accidentes de tránsito.",
+            "objective": "Reducir la congestión vehicular y mejorar la seguridad vial en el distrito.",
+            "goal": "Mejorar 50 kilómetros de pistas y construir 30 kilómetros de ciclovías integradas.",
+            "indicator": "Kilómetros de pistas mejoradas y kilómetros de ciclovías implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existe una brecha entre el empleo disponible en la zona industrial y la capacitación de la población local, además de una falta de articulación entre la industria y la educación técnica.",
+            "objective": "Generar empleo sostenible para los vecinos del distrito.",
+            "goal": "Crear 10,000 empleos formales a través de la Bolsa de Empleo Municipal y capacitar a 3,000 estudiantes por año en el Centro de Formación Técnica e Industrial.",
+            "indicator": "Número de empleos formales creados y número de estudiantes capacitados."
+          },
+          {
+            "problem": "El potencial turístico del distrito, que incluye patrimonio arqueológico, playas y gastronomía, no se traduce en una generación masiva de empleo local.",
+            "objective": "Convertir a Lurín en el principal destino turístico de Lima Sur.",
+            "goal": "Duplicar el número de visitantes al distrito.",
+            "indicator": "Número de visitantes."
+          },
+          {
+            "problem": "Necesidad de simplificación administrativa para facilitar la inversión y el desarrollo empresarial en el distrito.",
+            "objective": "Tener la municipalidad más eficiente de Lima Sur, promoviendo un entorno favorable para los negocios.",
+            "goal": "Reducir el tiempo de emisión de licencias a menos de 15 días.",
+            "indicator": "Tiempo promedio para la obtención de licencias de funcionamiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo deficiente de los residuos sólidos, lo que genera puntos críticos de contaminación en el distrito.",
+            "objective": "Convertir a Lurín en un referente ambiental de Lima Sur a través de una gestión de limpieza pública eficiente.",
+            "goal": "Lograr la eliminación del 100% de los puntos críticos de acumulación de residuos.",
+            "indicator": "Porcentaje de eliminación de puntos críticos y toneladas recicladas."
+          },
+          {
+            "problem": "Déficit y falta de recuperación de áreas verdes para el esparcimiento de la población y la mejora del entorno urbano.",
+            "objective": "Incrementar la cantidad y calidad de las áreas verdes en el distrito.",
+            "goal": "Recuperar 200,000 metros cuadrados de áreas verdes en el distrito.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "Uso ineficiente del agua para la agricultura, lo que compromete la sostenibilidad del valle y la disponibilidad futura del recurso hídrico.",
+            "objective": "Proteger el Valle de Lurín y optimizar el uso del agua mediante la tecnificación del riego.",
+            "goal": "Reducir en un 25% el consumo de agua para riego e incrementar la productividad agrícola.",
+            "indicator": "Porcentaje de reducción del consumo de agua para riego."
+          },
+          {
+            "problem": "Riesgos de aniegos en eventos climáticos extraordinarios debido a sistemas de drenaje pluvial limitados.",
+            "objective": "Implementar una infraestructura moderna de drenaje pluvial para mitigar los efectos de fenómenos climáticos.",
+            "goal": "Reducir en un 90% los puntos críticos de aniego en el distrito.",
+            "indicator": "Porcentaje de reducción de puntos críticos de aniego."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de delitos contra el patrimonio, como robos al paso, que generan una elevada percepción de inseguridad en la población.",
+            "objective": "Convertir a Lurín en el distrito más seguro de Lima Sur.",
+            "goal": "Reducir en un 50% los delitos contra el patrimonio para el año 2030.",
+            "indicator": "Tasa de delitos contra el patrimonio."
+          },
+          {
+            "problem": "Insuficiente vigilancia preventiva y tiempos de respuesta prolongados ante emergencias de seguridad ciudadana.",
+            "objective": "Fortalecer la capacidad de respuesta del serenazgo y el sistema de videovigilancia.",
+            "goal": "Alcanzar un tiempo promedio de respuesta menor a 8 minutos y operar 500 cámaras de videovigilancia.",
+            "indicator": "Tiempo promedio de respuesta ante emergencias y cobertura de videovigilancia."
+          },
+          {
+            "problem": "Necesidad de modernizar la gestión municipal para hacerla más eficiente, transparente y accesible al ciudadano.",
+            "objective": "Tener la municipalidad más eficiente de Lima Sur mediante la digitalización y la transparencia.",
+            "goal": "Lograr que el 80% de los trámites municipales sean virtuales.",
+            "indicator": "Porcentaje de trámites virtuales disponibles."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-XeoGWyD0CttrB0WUl5taaWkRJilpDgs7",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/XeoGWyD0CttrB0WUl5taaWkRJilpDgs7",
+      "sha256": "b50825d1cbcc1d56b97980559649004b73fc06072b59d2b2284fd517e89f5173",
+      "accessedAt": "2026-10-02T22:59:19.917Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022423",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022423",
+      "sha256": "6c8e06c3965e942f4f34ccc04444d2174315d71fe9ed6b207d999b7e282b4d70",
+      "accessedAt": "2026-10-02T22:59:20.490Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

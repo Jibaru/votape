@@ -1,0 +1,279 @@
+{
+  "id": "wVgO0OPW4Emn3NSdbGTwPilRj1SUiJOx",
+  "slug": "fidel-bratzo-garcia-durante",
+  "electionId": "erm-2026",
+  "name": "Fidel Bratzo Garcia Durante",
+  "givenNames": "Fidel Bratzo",
+  "surnames": "Garcia Durante",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:55.459Z",
+      "sourceId": "jne-hv-wVgO0OPW4Emn3NSdbGTwPilRj1SUiJOx"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "LICENCIADO EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN CIENCIAS ADMINISTRATIVAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "COFOPRI",
+      "role": "JEFE DE RR.HH",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "FE EN EL PERU",
+      "from": "2021",
+      "to": "2024"
+    },
+    {
+      "position": "SECRETARIO NACIONAL DE FORMACIÓN POLÍTICA",
+      "party": "FE EN EL PERU",
+      "from": "2021",
+      "to": "2024"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2017"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 120000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "Casa 25%",
+        "value": 117187.5,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "Terreno 50%",
+        "value": 42525,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Nissan UNLD21-SF 1985",
+        "value": 17325
+      },
+      {
+        "type": "Nissan Frontier A7Z874",
+        "value": 46200
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Cuento con bienes de joyas y relojes por un valor de S/. 60,000"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/0dea32a6-534a-4753-89e8-2d214fbb5410.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4b1ec10c-049f-4af5-91d2-f4394742be4a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad, oportunos y cercanos para los vecinos del distrito.",
+            "objective": "Garantizar el acceso a servicios de salud mediante la construcción de un Centro de Atención Primaria en convenio con EsSalud y la implementación de un Policlínico Municipal.",
+            "goal": "Construir y poner en funcionamiento el primer Centro de Atención Primaria del distrito y un Policlínico Municipal con tarifas sociales y servicios de telemedicina.",
+            "indicator": "Número de centros de salud construidos y operativos."
+          },
+          {
+            "problem": "Insuficientes oportunidades de acceso a la educación, el arte y la cultura para el desarrollo de talentos en el distrito.",
+            "objective": "Promover el acceso a la educación y al arte a través de la creación de una academia preuniversitaria, una escuela de danzas y una escuela de teatro y coro municipal.",
+            "goal": "Establecer y operar la Academia Preuniversitaria Municipal, la Escuela Municipal de Danzas Peruanas y la Escuela de Teatro y Coro Municipal.",
+            "indicator": "Número de programas educativos y culturales implementados y número de beneficiarios."
+          },
+          {
+            "problem": "Espacios deportivos en estado de deterioro y con acceso limitado para los residentes, especialmente los jóvenes.",
+            "objective": "Recuperar y modernizar integralmente los espacios deportivos, y gestionar el uso de la infraestructura de colegios mediante alianzas estratégicas.",
+            "goal": "Modernizar la totalidad de los complejos deportivos municipales y asegurar el acceso a la infraestructura deportiva de colegios públicos y privados para los vecinos.",
+            "indicator": "Porcentaje de complejos deportivos municipales modernizados y número de alianzas estratégicas con colegios."
+          },
+          {
+            "problem": "Existencia de una brecha digital que limita la inclusión y el desarrollo de habilidades tecnológicas, especialmente en adultos mayores.",
+            "objective": "Capacitar a los vecinos, con especial énfasis en los adultos mayores, en el manejo de herramientas digitales, redes sociales y comercio electrónico.",
+            "goal": "Romper la brecha digital mediante la implementación de aulas tecnológicas para capacitar a la comunidad, otorgando independencia y herramientas para emprender.",
+            "indicator": "Número de aulas tecnológicas de última generación implementadas y número de vecinos capacitados."
+          },
+          {
+            "problem": "Vulnerabilidad y desprotección de mujeres y niños frente a situaciones de violencia familiar.",
+            "objective": "Fortalecer la protección de mujeres y niños dotando a la Casa de la Mujer y la DEMUNA con recursos para una intervención inmediata y permanente.",
+            "goal": "Dotar a la Casa de la Mujer y la DEMUNA con equipos de reacción inmediata, asesoría legal y asistencia psicológica permanente para actuar con prevención y seguimiento riguroso.",
+            "indicator": "Nivel de equipamiento y personal especializado en la Casa de la Mujer y la DEMUNA."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Carencia de un apoyo efectivo y promoción comercial para los emprendedores locales.",
+            "objective": "Impulsar el desarrollo de la actividad comercial de los emprendedores a través de la cooperación con organismos internacionales, ONGs y el sector privado.",
+            "goal": "Establecer la promoción de emprendimientos como una prioridad de la gestión, gestionando activamente la cooperación para su desarrollo desde el primer día.",
+            "indicator": "Número de alianzas estratégicas gestionadas y número de emprendedores beneficiados con promoción comercial."
+          },
+          {
+            "problem": "Existencia de trabas burocráticas, multas abusivas y corrupción en la fiscalización municipal que afectan negativamente al comercio.",
+            "objective": "Transformar la fiscalización municipal en un servicio de protección transparente que elimine las mafias y la corrupción, garantizando un comercio justo.",
+            "goal": "Convertir al inspector municipal en un socio estratégico del negocio, garantizando un comercio con balanzas exactas, higiene y respeto al consumidor.",
+            "indicator": "Tasa de reducción de multas consideradas abusivas y número de denuncias por corrupción en fiscalización."
+          },
+          {
+            "problem": "Falta de oportunidades y herramientas para que los vecinos puedan iniciar nuevos negocios rentables y sostenibles.",
+            "objective": "Fomentar la creación de nuevos negocios ofreciendo capacitación técnica gratuita de vanguardia y promoviendo una cultura comercial ordenada y moderna.",
+            "goal": "Implementar un programa de capacitación técnica gratuita para que cualquier vecino, sin importar su edad, pueda abrir un negocio rentable y sostenible.",
+            "indicator": "Número de vecinos que reciben capacitación técnica y número de nuevos negocios formalizados."
+          },
+          {
+            "problem": "Estancamiento del distrito y falta de atracción de inversión privada que revalorice el patrimonio y genere nuevas oportunidades.",
+            "objective": "Atraer inversión privada responsable y de alto valor mediante un mapeo inteligente que respete la zonificación y la calidad de vida de los barrios.",
+            "goal": "Consolidar un distrito dinámico y atractivo para las nuevas generaciones mediante la atracción de proyectos que revaloricen el patrimonio de los propietarios.",
+            "indicator": "Número de proyectos comerciales e inmobiliarios modernos aprobados y en ejecución."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Parques descuidados y espacios públicos desaprovechados que generan una falta de armonía en la convivencia.",
+            "objective": "Transformar los parques en puntos de encuentro verdes, hermosos y de convivencia armónica.",
+            "goal": "Contar con un Vivero Municipal propio.",
+            "indicator": "Porcentaje de parques recuperados y acondicionados."
+          },
+          {
+            "problem": "Basura expuesta en las calles que afecta el ornato y la salud pública de la comunidad.",
+            "objective": "Mejorar la gestión de los residuos sólidos, identificando necesidades, estableciendo metas y fomentando la participación comunitaria.",
+            "goal": "Implementar contenedores soterrados para eliminar la basura expuesta en la vía pública.",
+            "indicator": "Número de contenedores soterrados instalados."
+          },
+          {
+            "problem": "Pistas en mal estado que dificultan el tránsito y generan riesgo de accidentes vehiculares y peatonales.",
+            "objective": "Pavimentar las calles y avenidas más transitadas para optimizar la circulación vial y prevenir accidentes.",
+            "goal": "Lograr el 100% de las vías principales priorizadas repavimentadas.",
+            "indicator": "Kilómetros de vías pavimentadas y tasa de reducción de accidentes vehiculares-peatonales."
+          },
+          {
+            "problem": "Uso de agua contaminada del Canal Huatica para el riego de áreas verdes, afectando la salud pública.",
+            "objective": "Garantizar el uso de agua limpia para el riego, protegiendo la salud de los vecinos.",
+            "goal": "Implementar sedimentadores de piedra chancada y carbón en cada punto de ingreso del canal.",
+            "indicator": "Puntos de ingreso con sedimentadores instalados."
+          },
+          {
+            "problem": "Existencia de especies arbóreas inadecuadas y de alto consumo hídrico en los parques del distrito.",
+            "objective": "Mejorar la masa arbórea con especies eficientes y brindar servicios ambientales.",
+            "goal": "Realizar la arborización en los parques del distrito con especies adecuadas.",
+            "indicator": "Número de árboles de bajo requerimiento hídrico plantados."
+          },
+          {
+            "problem": "Riesgo de caída de árboles por falta de monitoreo técnico adecuado.",
+            "objective": "Preservar los árboles urbanos y disminuir accidentes relacionados con su caída.",
+            "goal": "Implementar el uso de tomógrafo forestal y radar de raíces.",
+            "indicator": "Número de árboles evaluados con equipos especializados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia en el uso de los recursos públicos y escasa rendición de cuentas de la gestión municipal.",
+            "objective": "Garantizar la transparencia absoluta en la gestión financiera municipal mediante la implementación de plataformas digitales de acceso público.",
+            "goal": "Crear portales de transparencia absoluta donde cada ciudadano pueda auditar en tiempo real el gasto de cada centavo del presupuesto municipal.",
+            "indicator": "Porcentaje de ejecución presupuestal visible en portal de transparencia en tiempo real."
+          },
+          {
+            "problem": "Ineficiencia en la recaudación de ingresos y excesiva burocracia que dificulta el cumplimiento tributario por parte de los vecinos.",
+            "objective": "Optimizar los Ingresos Directamente Recaudados, eliminando la burocracia y facilitando el cumplimiento de las obligaciones tributarias.",
+            "goal": "Implementar un sistema de recaudación eficiente que asegure que cada sol aportado por los vecinos regrese a su barrio en forma de servicios.",
+            "indicator": "Tasa de crecimiento de la recaudación de Ingresos Directamente Recaudados."
+          },
+          {
+            "problem": "Excesiva burocracia, lentitud en los trámites y maltrato al ciudadano en la atención municipal.",
+            "objective": "Transformar la gestión municipal en una plataforma 100% digital que permita a los vecinos realizar trámites de manera ágil y eficiente.",
+            "goal": "Implementar la plataforma \"El Municipio en un Clic\" para realizar pagos, solicitar licencias y presentar quejas con respuesta inmediata desde cualquier dispositivo.",
+            "indicator": "Porcentaje de trámites digitalizados y tiempo promedio de respuesta a quejas y solicitudes."
+          },
+          {
+            "problem": "Desvinculación entre las promesas de campaña y la planificación operativa y presupuestal del municipio.",
+            "objective": "Asegurar que cada objetivo del plan de gobierno se traduzca en metas físicas y presupuestales dentro del Plan Operativo Institucional (POI).",
+            "goal": "Vincular cada promesa del plan a metas concretas en el POI, obligando a las gerencias municipales a trabajar con un cronograma estricto y plazos fijos.",
+            "indicator": "Porcentaje de objetivos del plan de gobierno incorporados en el Plan Operativo Institucional (POI)."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-wVgO0OPW4Emn3NSdbGTwPilRj1SUiJOx",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/wVgO0OPW4Emn3NSdbGTwPilRj1SUiJOx",
+      "sha256": "0e530d3951bfd20f11b0633610d33e6303866e3c65778400f04c0e0ed4b20f17",
+      "accessedAt": "2026-10-02T23:00:55.459Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021662",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021662",
+      "sha256": "b68ef38cda49c3600c6f48e6073d6d9d2b670841ae0a5c52d90ef50dda4929f8",
+      "accessedAt": "2026-10-02T23:00:56.030Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

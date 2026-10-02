@@ -1,0 +1,469 @@
+{
+  "id": "E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG",
+  "slug": "michael-alberto-paredes-torres",
+  "electionId": "erm-2026",
+  "name": "Michael Alberto Paredes Torres",
+  "givenNames": "Michael Alberto",
+  "surnames": "Paredes Torres",
+  "age": 33,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:08.849Z",
+      "sourceId": "jne-hv-E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "TÍTULO DE SEGUNDA ESPECIALIDAD EN DERECHO TRIBUTARIO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "Maestría en Derecho Constitucional",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Ministerio de Trabajo y Promoción del Empleo",
+      "role": "Analista en Derecho",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Universidad Nacional Agraria la Molina",
+      "role": "Abogado",
+      "from": "2022",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad Provincial del Callao",
+      "role": "Especialista Legal",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "Empresa de Servicio de Limpieza Municipal Pública del Callao SA",
+      "role": "Abogado",
+      "from": "2020",
+      "to": "2020"
+    },
+    {
+      "employer": "Estudio Osorio, del Rosario y Casas Abogados SAC",
+      "role": "Asistente Legal",
+      "from": "2019",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO DEL BUEN GOBIERNO",
+      "from": "2024",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "PERSONERO LEGAL ALTERNO",
+      "party": "PARTIDO DEL BUEN GOBIERNO",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 71600,
+        "public": 66600,
+        "private": 5000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Paredes Torres Abogados EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 1500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "Con fecha 03 de febrero del 2026, he suscrito minuta de compraventa de un bien futuro (un departamento), ascendente a la suma de S/414,000.00. Asimismo, en la misma fecha, he suscrito minuta de compraventa de otro bien futuro (un estacionamiento), por la suma de S/50,000.00."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e363e942-fe31-46de-90bf-7ca27a36f866.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3c5fbaf5-108c-47d7-b2db-7ed7ad2be063.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Gestión edil no atiende problemática de deserción escolar y jóvenes que no acceden a servicios educativos.",
+            "objective": "Reducir la tasa de deserción escolar y de jóvenes que no estudian.",
+            "goal": "Al 2030 se reduce a la mitad el porcentaje de niños que abandonan la educación escolar y de jóvenes que no estudian, en comparación con los datos del año 2026.",
+            "indicator": "Porcentaje de niños que dejan sus estudios escolares y de jóvenes que no estudian."
+          },
+          {
+            "problem": "El distrito mantiene zonas de tráfico y desorden vehicular perjudicando el bienestar de los vecinos.",
+            "objective": "Reducir el caos vehicular y promover un tránsito ordenado en beneficio de los vecinos.",
+            "goal": "Al 2030 se duplica el número de operativos y acciones de tránsito.",
+            "indicator": "Número de operativos y acciones de tránsito."
+          },
+          {
+            "problem": "Precaria infraestructura urbana inclusiva y servicios para adultos mayores.",
+            "objective": "Mejorar infraestructura urbana inclusiva y fortalecer el bienestar de los adultos mayores.",
+            "goal": "Al 2030 se aumenta en un 25% el número de adultos mayores que acceden a infraestructura urbana inclusiva y/o servicios municipales que promueven su bienestar.",
+            "indicator": "Porcentaje de adultos mayores que acceden a infraestructura urbana inclusiva y/o servicios municipales que promueven su bienestar."
+          },
+          {
+            "problem": "Precaria infraestructura urbana inclusiva y servicios para adultos mayores.",
+            "objective": "Mejorar infraestructura urbana inclusiva y fortalecer el bienestar de los adultos mayores.",
+            "goal": "Al 2030 se aumenta en un 25% el número de adultos mayores que acceden a infraestructura urbana inclusiva y/o servicios municipales que promueven su bienestar.",
+            "indicator": "Porcentaje de adultos mayores que acceden a infraestructura urbana inclusiva y/o servicios municipales que promueven su bienestar."
+          },
+          {
+            "problem": "Limitado acceso de la población a servicios públicos culturales en el distrito.",
+            "objective": "Poner en valor el patrimonio cultural que posee el distrito integrando a la comunidad en circuitos culturales.",
+            "goal": "Al 2030 se triplica el número de personas que acceden a servicios culturales, en comparación con los datos del año 2026.",
+            "indicator": "Número de personas que acceden a servicios culturales gestionados por la Municipalidad."
+          },
+          {
+            "problem": "Limitada gestión deportiva desde la Municipalidad limita el desarrollo de niños y jóvenes en el distrito.",
+            "objective": "Promover actividades deportivas como parte de un nuevo estilo de vida saludable en el distrito.",
+            "goal": "Al 2030 se aumenta en un 25% el número de vecinos que acceden a actividades deportivas.",
+            "indicator": "Porcentaje de vecinos que acceden a servicios y actividades deportivas."
+          },
+          {
+            "problem": "Limitada gestión deportiva desde la Municipalidad limita el desarrollo de niños y jóvenes en el distrito.",
+            "objective": "Promover actividades deportivas como parte de un nuevo estilo de vida saludable en el distrito.",
+            "goal": "Al 2030 se aumenta en un 25% el número de vecinos que acceden a actividades deportivas.",
+            "indicator": "Porcentaje de vecinos que acceden a servicios y actividades deportivas."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud de manera oportuna.",
+            "objective": "Ampliar el acceso a servicios de salud de manera oportuna.",
+            "goal": "Se incrementa en un 20% el acceso oportuno a servicios de salud.",
+            "indicator": "Porcentaje de vecinos que acceden oportunamente a servicios de salud."
+          },
+          {
+            "problem": "El distrito mantiene zonas de tráfico y desorden vehicular perjudicando el bienestar de los vecinos.",
+            "objective": "Reducir el caos vehicular y promover un tránsito ordenado en beneficio de los vecinos.",
+            "goal": "Al 2030 se duplica el número de operativos y acciones de tránsito.",
+            "indicator": "Número de operativos y acciones de tránsito."
+          },
+          {
+            "problem": "Limitado acceso de la población a servicios públicos culturales en el distrito.",
+            "objective": "Poner en valor el patrimonio cultural que posee el distrito integrando a la comunidad en circuitos culturales.",
+            "goal": "Al 2030 se triplica el número de personas que acceden a servicios culturales.",
+            "indicator": "Número de personas que acceden a servicios culturales gestionados por la Municipalidad."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud de manera oportuna",
+            "objective": "Ampliar el acceso a servicios de salud de manera oportuna.",
+            "goal": "Se incrementa en un 20% el acceso oportuno a servicios de salud.",
+            "indicator": "Porcentaje de vecinos que acceden oportunamente a servicios de salud."
+          },
+          {
+            "problem": "Gestión edil no atiende problemática de deserción escolar y jóvenes que no acceden a servicios educativos.",
+            "objective": "Reducir la tasa de deserción escolar y de jóvenes que no estudian.",
+            "goal": "Al 2030 se reduce a la mitad el porcentaje de niños que abandonan la educación escolar y de jóvenes que no estudian.",
+            "indicator": "Porcentaje de niños que dejan sus estudios escolares y de jóvenes que no estudian."
+          },
+          {
+            "problem": "Incidencias delictivas en el distrito mantienen a la población con alta percepción de inseguridad.",
+            "objective": "Reducir la inseguridad ciudadana en el distrito.",
+            "goal": "Al 2030 se reduce en un 30 % la tasa de incidencia delictiva.",
+            "indicator": "Tasa de disminución de incidencia delictiva."
+          },
+          {
+            "problem": "Débil gestión del riesgo de desastres en el distrito.",
+            "objective": "Fortalecer acciones de prevención y capacidades de respuesta ante posibles desastres.",
+            "goal": "Al 2030 se cumplieron al 100% las actividades del plan.",
+            "indicator": "Porcentaje de cumplimiento del Plan de Prevención y Reducción de Riesgo de desastres."
+          },
+          {
+            "problem": "Incidencias delictivas en el distrito mantienen a la población con alta percepción de inseguridad.",
+            "objective": "Reducir la inseguridad ciudadana en el distrito.",
+            "goal": "Al 2030 se reduce en un 30% la tasa de incidencia delictiva.",
+            "indicator": "Tasa de disminución de incidencia delictiva."
+          },
+          {
+            "problem": "Débil gestión del riesgo de desastres en el distrito.",
+            "objective": "Fortalecer acciones de prevención y capacidades de respuesta ante posibles desastres.",
+            "goal": "Al 2030 se cumplieron al 100% las actividades del plan.",
+            "indicator": "Porcentaje de cumplimiento del Plan de Prevención y Reducción de Riesgo de desastres."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil gestión municipal en materia de promoción del turismo reduce posibilidades de desarrollo.",
+            "objective": "Fortalecer la gestión y promoción del turismo interno.",
+            "goal": "Al 20230 San Miguel ha fortalecido el 100% de sus circuitos turísticos.",
+            "indicator": "Número de actividades que fortalecen el turismo en el distrito."
+          },
+          {
+            "problem": "Limitadas oportunidades de los emprendedores para expandir sus negocios e incrementar sus ingresos.",
+            "objective": "Se promueve el fortalecimiento de los negocios de los emprendedores y el incremento de sus ingresos.",
+            "goal": "Al 2030 se incrementa en un 100% en número de emprendedores beneficiados con relación al período de gobierno anterior.",
+            "indicator": "Número de emprendedores beneficiados."
+          },
+          {
+            "problem": "Limitadas oportunidades de los emprendedores para expandir sus negocios e incrementar sus ingresos.",
+            "objective": "Se promueve el fortalecimiento de los negocios de los emprendedores y el incremento de sus ingresos.",
+            "goal": "Al 2030 se incrementa en un 100% en número de emprendedores beneficiados con relación al período de gobierno anterior.",
+            "indicator": "Número de emprendedores beneficiados."
+          },
+          {
+            "problem": "Trabajadores ambulantes desarrollan labores en la informalidad y en condiciones precarias.",
+            "objective": "Controlar y ordenar el comercio ambulatorio promoviendo su gradual reducción y formalización.",
+            "goal": "Al 2030 no menos del 50% de trabajadores ambulantes participan y se benefician de los servicios del programa piloto.",
+            "indicator": "Número de trabajadores ambulantes registrados en el municipio que se benefician del programa piloto de ordenamiento y formalización."
+          },
+          {
+            "problem": "El desempleo y empleo informal afecta el bienestar de los vecinos.",
+            "objective": "Promover empleo formal en el distrito, con especial énfasis en los jóvenes.",
+            "goal": "Al 2030 se duplica el número de personas que acceden a los servicios de empleo promovidos por la municipalidad.",
+            "indicator": "Número de personas que acceden a servicios de empleabilidad e intermediación laboral."
+          },
+          {
+            "problem": "Trabajadores ambulantes desarrollan labores en la informalidad y en condiciones precarias.",
+            "objective": "Controlar y ordenar el comercio ambulatorio promoviendo su gradual reducción y formalización.",
+            "goal": "Al 2030 no menos del 50% de trabajadores ambulantes participan y se benefician de los servicios del programa piloto.",
+            "indicator": "Número de trabajadores ambulantes registrados en el municipio que se benefician del programa piloto de ordenamiento y formalización."
+          },
+          {
+            "problem": "El desempleo y empleo informal afecta el bienestar de los vecinos.",
+            "objective": "Promover empleo formal en el distrito, con especial énfasis en los jóvenes.",
+            "goal": "Al 2030 se duplica el número de personas que acceden a los servicios de empleo promovidos por la municipalidad.",
+            "indicator": "Número de personas que acceden a servicios de empleabilidad e intermediación laboral."
+          },
+          {
+            "problem": "Débil gestión municipal en materia de promoción del turismo reduce posibilidades de desarrollo.",
+            "objective": "Fortalecer la gestión y promoción del turismo interno.",
+            "goal": "Al 2030 San Miguel ha fortalecido el 100% de sus circuitos turísticos.",
+            "indicator": "Número de actividades que fortalecen el turismo en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Persistencia de contaminación sonora y exposición a contaminación atmosférica metropolitana.",
+            "objective": "Reducir la exposición de la población a contaminación sonora y contribuir a la mejora de la calidad ambiental urbana.",
+            "goal": "Al 2030 se interviene el 100% de los puntos críticos priorizados en el mapa de ruido; se reduce en al menos 3 decibeles el promedio de los puntos intervenidos; se publican reportes trimestrales de ruido y calidad del aire; se ejecutan al menos 24 operativos anuales focalizados.",
+            "indicator": "Número de puntos críticos con intervención; reducción promedio de decibeles en zonas priorizadas; número de operativos y sanciones; reportes públicos de monitoreo ambiental emitidos."
+          },
+          {
+            "problem": "Gestión de residuos sólidos aún concentrada en la recolección y no suficientemente orientada a la valorización y economía circular.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos municipales con enfoque de economía circular, segregación en fuente, valorización y formalización.",
+            "goal": "Al 2030 existe un 35% de viviendas priorizadas, incorporadas a segregación en fuente; un 25% de incremento en toneladas valorizadas respecto a la línea base 2026; un 100% de asociaciones de recicladores operando bajo convenio y padrón actualizado; y, al menos 8 eco¿puntos o campañas móviles permanentes.",
+            "indicator": "Porcentaje de viviendas y comercios priorizados que segregan en la fuente; toneladas valorizadas por año; número de recicladores formalizados integrados al sistema; número de eco-puntos operativos."
+          },
+          {
+            "problem": "Gobernanza ambiental local mejorable en articulación, información pública y seguimiento de resultados.",
+            "objective": "Fortalecer la gobernanza ambiental local con transparencia, articulación interinstitucional y seguimiento ciudadano de metas.",
+            "goal": "Al 2030, hay un 100% de reportes semestrales publicados; al menos 4 sesiones CAM por año con agenda y actas; 10 convenios activos de cooperación; tablero ambiental actualizado trimestralmente.",
+            "indicator": "Número de reportes publicados; número de sesiones CAM con acuerdos; número de convenios activos; presupuesto anual ambiental con seguimiento."
+          },
+          {
+            "problem": "Vulnerabilidad frente al cambio climático, calor urbano y uso intensivo de agua para mantenimiento verde.",
+            "objective": "Fortalecer la adaptación climática del distrito mediante infraestructura verde, ecoeficiencia hídrica y prevención del calor urbano.",
+            "goal": "Al 2030 se aprueba el Plan Distrital de Adaptación Climática; el 100% de nuevas áreas verdes cuenta conriego tecnificado; se reduce en un15% el consumo de agua en áreas verdes piloto; se implementan 10 refugios climáticos o puntos de sombra priorizados.",
+            "indicator": "Porcentaje de áreas verdes nuevas con riego tecnificado; número de refugios climáticos; reducción estimada del consumo de agua en áreas verdes intervenidas; instrumentos de adaptación aprobados."
+          },
+          {
+            "problem": "Necesidad de consolidar una infraestructura verde resiliente y de mejor calidad ecológica.",
+            "objective": "Consolidar una red distrital de infraestructura verde y arbolado urbano resiliente, accesible y ecoeficiente.",
+            "goal": "Cinco mil árboles nuevos o repuestos con supervivencia mínima del 85%; 20 000 m² de áreas verdes nuevas o rehabilitadas; 90% de las nuevas intervenciones de verde urbano con especies de bajo consumo de agua; 100% de parques grandes priorizados con inventario y plan de mantenimiento.",
+            "indicator": "Número de árboles plantados y sobrevivencia al año 2; m² de nuevas áreas verdes o rehabilitadas; porcentaje de riego tecnificado; número de espacios con mobiliario bioclimático y sombra."
+          },
+          {
+            "problem": "Gestión de residuos sólidos aún concentrada en la recolección y no suficientemente orientada a la valorización y economía circular.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos municipales con enfoque de economía circular, segregación en fuente, valorización y formalización.",
+            "goal": "35% de viviendas priorizadas incorporadas a segregación en fuente; 25% de incremento en toneladas valorizadas respecto a la línea base 2026; 100% de asociaciones de recicladores operando bajo convenio y padrón actualizado; al menos 8 eco-puntos o campañas móviles permanentes.",
+            "indicator": "Porcentaje de viviendas y comercios priorizados que segregan en la fuente; toneladas valorizadas por año; número de recicladores formalizados integrados al sistema; número de eco-puntos operativos."
+          },
+          {
+            "problem": "Persistencia de contaminación sonora y exposición a contaminación atmosférica metropolitana.",
+            "objective": "Reducir la exposición de la población a contaminación sonora y contribuir a la mejora de la calidad ambiental urbana.",
+            "goal": "Intervenir 100% de los puntos críticos priorizados en el mapa de ruido; reducir en al menos 3 dB el promedio de los puntos intervenidos; publicar reportes trimestrales de ruido y calidad del aire; ejecutar al menos 24 operativos anuales focalizados.",
+            "indicator": "Número de puntos críticos con intervención; reducción promedio de dB en zonas priorizadas; número de operativos y sanciones; reportes públicos de monitoreo ambiental emitidos."
+          },
+          {
+            "problem": "Gobernanza ambiental local mejorable en articulación, información pública y seguimiento de resultados.",
+            "objective": "Fortalecer la gobernanza ambiental local con transparencia, articulación interinstitucional y seguimiento ciudadano de metas.",
+            "goal": "100% de reportes semestrales publicados; al menos 4 sesiones CAM por año con agenda y actas; 10 convenios activos de cooperación; tablero ambiental actualizado trimestralmente.",
+            "indicator": "Número de reportes publicados; número de sesiones CAM con acuerdos; número de convenios activos; presupuesto anual ambiental con seguimiento."
+          },
+          {
+            "problem": "Vulnerabilidad frente al cambio climático, calor urbano y uso intensivo de agua para mantenimiento verde.",
+            "objective": "Fortalecer la adaptación climática del distrito mediante infraestructura verde, ecoeficiencia hídrica y prevención del calor urbano.",
+            "goal": "Aprobar 1 Plan Distrital de Adaptación Climática; 100% de nuevas áreas verdes con riego tecnificado; reducción de 15% del consumo de agua en áreas verdes piloto; implementación de 10 refugios climáticos o puntos de sombra priorizados.",
+            "indicator": "Porcentaje de áreas verdes nuevas con riego tecnificado; número de refugios climáticos; reducción estimada del consumo de agua en áreas verdes intervenidas; instrumentos de adaptación aprobados."
+          },
+          {
+            "problem": "Necesidad de consolidar una infraestructura verde resiliente y de mejor calidad ecológica.",
+            "objective": "Consolidar una red distrital de infraestructura verde y arbolado urbano resiliente, accesible y ecoeficiente.",
+            "goal": "Al 2030, hay cinco mil árboles nuevos o repuestos con supervivencia mínima del 85%; hay 20 000 m² de áreas verdes nuevas o rehabilitadas; 90% de las nuevas intervenciones de verde urbano con especies de bajo consumo de agua; 100% de parques grandes priorizados con inventario y plan de mantenimiento.",
+            "indicator": "Número de árboles plantados y sobrevivencia al año 2; m² de nuevas áreas verdes o rehabilitadas; porcentaje de riego tecnificado; número de espacios con mobiliario bioclimático y sombra."
+          },
+          {
+            "problem": "Cultura ambiental y participación vecinal todavía insuficientes para cambiar conductas de manera sostenida.",
+            "objective": "Desarrollar ciudadanía ambiental activa en hogares, instituciones educativas, comercios y organizaciones vecinales.",
+            "goal": "Al 2030 hay dos mil participantes acumulados en acciones EDUCCA; hay 50 brigadas escolares o vecinales activas; hay 40 instituciones o comercios con sello ambiental distrital; 100% de campañas con evaluación e indicadores publicados.",
+            "indicator": "Número de participantes certificados por año; número de brigadas activas; número de instituciones con sello ambiental; porcentaje de campañas evaluadas con ficha de resultados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Vulnerabilidad frente al cambio climático, calor urbano y uso intensivo de agua para mantenimiento verde.",
+            "objective": "Fortalecer la adaptación climática del distrito mediante infraestructura verde, ecoeficiencia hídrica y prevención del calor urbano.",
+            "goal": "Aprobar 1 Plan Distrital de Adaptación Climática; 100% de nuevas áreas verdes con riego tecnificado; reducción de 15% del consumo de agua en áreas verdes piloto; implementación de 10 refugios climáticos o puntos de sombra priorizados.",
+            "indicator": "Porcentaje de áreas verdes nuevas con riego tecnificado; número de refugios climáticos; reducción estimada del consumo de agua en áreas verdes intervenidas; instrumentos de adaptación aprobados."
+          },
+          {
+            "problem": "Gestión de residuos sólidos aún concentrada en la recolección y no suficientemente orientada a la valorización y economía circular.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos municipales con enfoque de economía circular, segregación en fuente, valorización y formalización.",
+            "goal": "35% de viviendas priorizadas incorporadas a segregación en fuente; 25% de incremento en toneladas valorizadas respecto a la línea base 2026; 100% de asociaciones de recicladores operando bajo convenio y padrón actualizado; al menos 8 eco-puntos o campañas móviles permanentes.",
+            "indicator": "Porcentaje de viviendas y comercios priorizados que segregan en la fuente; toneladas valorizadas por año; número de recicladores formalizados integrados al sistema; número de eco-puntos operativos."
+          },
+          {
+            "problem": "Persistencia de contaminación sonora y exposición a contaminación atmosférica metropolitana.",
+            "objective": "Reducir la exposición de la población a contaminación sonora y contribuir a la mejora de la calidad ambiental urbana.",
+            "goal": "Intervenir 100% de los puntos críticos priorizados en el mapa de ruido; reducir en al menos 3 dB el promedio de los puntos intervenidos; publicar reportes trimestrales de ruido y calidad del aire; ejecutar al menos 24 operativos anuales focalizados.",
+            "indicator": "Número de puntos críticos con intervención; reducción promedio de dB en zonas priorizadas; número de operativos y sanciones; reportes públicos de monitoreo ambiental emitidos."
+          },
+          {
+            "problem": "Gobernanza ambiental local mejorable en articulación, información pública y seguimiento de resultados.",
+            "objective": "Fortalecer la gobernanza ambiental local con transparencia, articulación interinstitucional y seguimiento ciudadano de metas.",
+            "goal": "100% de reportes semestrales publicados; al menos 4 sesiones CAM por año con agenda y actas; 10 convenios activos de cooperación; tablero ambiental actualizado trimestralmente.",
+            "indicator": "Número de reportes publicados; número de sesiones CAM con acuerdos; número de convenios activos; presupuesto anual ambiental con seguimiento."
+          },
+          {
+            "problem": "Cultura ambiental y participación vecinal todavía insuficientes para cambiar conductas de manera sostenida.",
+            "objective": "Desarrollar ciudadanía ambiental activa en hogares, instituciones educativas, comercios y organizaciones vecinales.",
+            "goal": "Doce mil participantes acumulados en acciones EDUCCA; 50 brigadas escolares o vecinales activas; 40 instituciones o comercios con sello ambiental distrital; 100% de campañas con evaluación e indicadores publicados.",
+            "indicator": "Número de participantes certificados por año; número de brigadas activas; número de instituciones con sello ambiental; porcentaje de campañas evaluadas con ficha de resultados."
+          },
+          {
+            "problem": "Municipio con débil planificación interna y transparencia limita una gestión moderna y articulada al servicio del ciudadano.",
+            "objective": "Se moderniza y transparenta la gestión municipal en beneficio de los vecinos.",
+            "goal": "Al 2030 se cumple al 100% las acciones planificadas.",
+            "indicator": "Porcentaje de avance de acciones estratégicas para la modernización de la gestión."
+          },
+          {
+            "problem": "Necesidad de consolidar una infraestructura verde resiliente y de mejor calidad ecológica.",
+            "objective": "Consolidar una red distrital de infraestructura verde y arbolado urbano resiliente, accesible y ecoeficiente.",
+            "goal": "Cinco mil árboles nuevos o repuestos con supervivencia mínima del 85%; 20 000 m² de áreas verdes nuevas o rehabilitadas; 90% de las nuevas intervenciones de verde urbano con especies de bajo consumo de agua; 100% de parques grandes priorizados con inventario y plan de mantenimiento.",
+            "indicator": "Número de árboles plantados y sobrevivencia al año 2; m² de nuevas áreas verdes o rehabilitadas; porcentaje de riego tecnificado; número de espacios con mobiliario bioclimático y sombra."
+          },
+          {
+            "problem": "Municipio con débil planificación interna y transparencia limita una gestión moderna y articulada al servicio del ciudadano.",
+            "objective": "Se moderniza y transparenta la gestión municipal en beneficio de los vecinos.",
+            "goal": "Al 2030 se cumple al 100% las acciones planificadas.",
+            "indicator": "Porcentaje de avance de acciones estratégicas para la modernización de la gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-136792",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: Lesión Dolosa y Culposa",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2019-04-30",
+      "details": {
+        "materia": "Lesión Dolosa y Culposa",
+        "fallo": "Jornada de servicio comunitario",
+        "modalidad": "OTRO",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "25 Juzgado Penal - Reos Libres",
+        "expediente": "393-2017",
+        "comentario": null
+      },
+      "quote": "Lesión Dolosa y Culposa · Jornada de servicio comunitario · OTRO · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG",
+      "sha256": "b3c8fa413db4e296deeeae056946299d4e2a2dcc01648e5e4eca341c336b22e8",
+      "accessedAt": "2026-10-02T23:05:08.849Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016353",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016353",
+      "sha256": "dd697b79126cdf0de88f45094726a8237442ddc17f448570be66aeef5364e4d5",
+      "accessedAt": "2026-10-02T23:05:09.356Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

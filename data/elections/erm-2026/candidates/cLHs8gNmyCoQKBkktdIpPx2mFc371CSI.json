@@ -1,0 +1,214 @@
+{
+  "id": "cLHs8gNmyCoQKBkktdIpPx2mFc371CSI",
+  "slug": "edwin-mejia-cerdan",
+  "electionId": "erm-2026",
+  "name": "Edwin Mejia Cerdan",
+  "givenNames": "Edwin",
+  "surnames": "Mejia Cerdan",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:30.528Z",
+      "sourceId": "jne-hv-cLHs8gNmyCoQKBkktdIpPx2mFc371CSI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada César Vallejo",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DEL RIMAC",
+      "role": "GERENTE DE FISCALIZACION ADMINISTRATIVA",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2025"
+    },
+    {
+      "party": "PROGRESEMOS",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 60000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1d2460d5-b5f3-405c-9878-bd8abfb513bc.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b1925a68-56e0-4a64-be1b-c9c33cb85ff0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta inseguridad ciudadana.",
+            "objective": "Implementar seguridad integral de manesa masiva con la instalación de cámaras con inteligencia artificial en las 18 comunas priorizando zonas críticas (paraderos, colegios, mercados, zonas de comercio, av. principales y zonas priorizadas por los vecinos del distrito)",
+            "goal": "Patrullaje Integrado y cohesión con la población",
+            "indicator": "Número de delitos registrados. Número de cámaras instaladas."
+          },
+          {
+            "problem": "Deficiente acceso a servicios de salud preventiva.",
+            "objective": "Campañas médicas gratuitas.",
+            "goal": "Campañas Medicas",
+            "indicator": "Cantidad de talleres deportivos y culturales"
+          },
+          {
+            "problem": "Déficit de espacios recreativos. Violencia familiar y juvenil.",
+            "objective": "Promover programas juveniles y deportivos. Fortalecer atención social descentralizada.",
+            "goal": "Talleres juveniles",
+            "indicator": "Cantidad de talleres deportivos y culturales Número de beneficiarios de programas sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto nivel de informalidad.",
+            "objective": "Impulsar el empleo y emprendimiento.",
+            "goal": "Emprendedores capacitados",
+            "indicator": "Número de emprendedores capacitados."
+          },
+          {
+            "problem": "Falta de apoyo a emprendedores. Comercio ambulatorio desordenado.",
+            "objective": "Promover inversiones locales.",
+            "goal": "Comercios formalizados",
+            "indicator": "Tasa de formalización comercial."
+          },
+          {
+            "problem": "Desempleo juvenil.",
+            "objective": "Fortalecer la formalización económica.",
+            "goal": "Ferias laborales",
+            "indicator": "Número de emprendedores capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de residuos sólidos.",
+            "objective": "Toneladas de residuos recolectados.",
+            "goal": "del 5% a 40% en recolección y reutilización de residuos",
+            "indicator": "Fiscalización ambiental."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado.",
+            "objective": "Trabajos de mitigación de riesgos en las zonas altas con equipo técnico de la municipalidad e implementación de infraestructura conforme al saneamiento físico legal",
+            "goal": "del 5% al 40% de mejoramiento de calles y pistas",
+            "indicator": "Accesos y mejoramiento de accesos en los ingresos y calles de las partes altas"
+          },
+          {
+            "problem": "Falta de acceso a servicios públicos",
+            "objective": "Accesos adecuados para el transito peatonal y de transporte vecinal.",
+            "goal": "del 5 % al 40% de acceso rápido y temprano para un medio de transporte",
+            "indicator": "Ejecución y mantenimiento de pistas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia municipal.",
+            "objective": "Modernizar la gestión municipal.",
+            "goal": "Pasar del 20% al 80%",
+            "indicator": "Tiempo promedio de atención."
+          },
+          {
+            "problem": "Falta de transparencia.",
+            "objective": "Fortalecer la transparencia y participación ciudadana",
+            "goal": "Pasar del 20% al 80% en digitalización y transparencia",
+            "indicator": "Número de trámites digitalizados."
+          },
+          {
+            "problem": "Débil acceso digital a servicios.",
+            "objective": "Mejorar la calidad de atención al vecino.",
+            "goal": "autoridades presentes en su distrito",
+            "indicator": "Número de audiencias públicas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-141031",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2° JPL FAMILIA CIVIL VMT",
+        "expediente": "00670-2020-0-3001-JP-FC-02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-cLHs8gNmyCoQKBkktdIpPx2mFc371CSI"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-cLHs8gNmyCoQKBkktdIpPx2mFc371CSI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cLHs8gNmyCoQKBkktdIpPx2mFc371CSI",
+      "sha256": "91601ede0f7d551545d3ef24782794ddff0629b8b22e8931db0827295f831520",
+      "accessedAt": "2026-10-02T23:03:30.528Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019618",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019618",
+      "sha256": "3b8efea42701db36367ac3429d570d501d5acb61a595b10d7b255bc4840a3b30",
+      "accessedAt": "2026-10-02T23:03:31.010Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

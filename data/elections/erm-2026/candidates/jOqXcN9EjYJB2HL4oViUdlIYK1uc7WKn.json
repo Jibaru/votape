@@ -1,0 +1,216 @@
+{
+  "id": "jOqXcN9EjYJB2HL4oViUdlIYK1uc7WKn",
+  "slug": "fernando-guillermo-agurto-montesinos",
+  "electionId": "erm-2026",
+  "name": "Fernando Guillermo Agurto Montesinos",
+  "givenNames": "Fernando Guillermo",
+  "surnames": "Agurto Montesinos",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:19.056Z",
+      "sourceId": "jne-hv-jOqXcN9EjYJB2HL4oViUdlIYK1uc7WKn"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "I.E.P. RENACIMIENTO DE PUENTE PIEDRA E.I.R.L.",
+      "role": "COORDINADOR GENERAL",
+      "from": "2018",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 29238,
+        "public": 0,
+        "private": 29238
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "RUSKIX S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 47500,
+        "value": 40030
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a6fc41e7-96f9-4658-a6c2-5cdaae23562d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ca38c93c-20c6-4c1a-9ce8-e606d1d6974c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit y distribución desigual de infraestructura deportiva, cultural y recreativa en sectores de expansión urbana y de crecimiento poblacional.",
+            "objective": "Fortalecer la infraestructura cultural, deportiva y recreativa del distrito para promover el desarrollo integral de la población.",
+            "goal": "Incrementar en un 50% la cobertura de infraestructura cultural y deportiva priorizada del distrito.",
+            "indicator": "Número de espacios culturales y deportivos implementados o mejorados."
+          },
+          {
+            "problem": "Limitado acceso a programas de salud preventiva y atención descentralizada en asentamientos humanos, centros poblados y sectores de expansión urbana de Puente Piedra.",
+            "objective": "Fortalecer el acceso de la población a programas de salud preventiva y promoción de hábitos saludables mediante servicios descentralizados y acciones de prevención comunitaria.",
+            "goal": "Incrementar en un 60% la cobertura de programas de salud preventiva en el distrito.",
+            "indicator": "Número de campañas preventivas realizadas. Número de vecinos beneficiados."
+          },
+          {
+            "problem": "Incremento de hechos delictivos, robos, violencia y percepción de inseguridad ciudadana en zonas de alta concentración poblacional de Puente Piedra.",
+            "objective": "Fortalecer la seguridad ciudadana mediante acciones preventivas, tecnología, vigilancia integrada y articulación institucional para mejorar la tranquilidad y protección de la población.",
+            "goal": "Incrementar en un 40% la cobertura de vigilancia, patrullaje y capacidad de respuesta municipal en sectores priorizados del distrito.",
+            "indicator": "Nivel de percepción de seguridad ciudadana. Número de incidencias atendidas."
+          },
+          {
+            "problem": "Persistencia de casos de violencia familiar, conflictos intrafamiliares y riesgos de desintegración social en diversos sectores de Puente Piedra.",
+            "objective": "Fortalecer la protección familiar y la prevención de la violencia mediante acciones de orientación, acompañamiento y fortalecimiento comunitario.",
+            "goal": "Incrementar en un 50% la cobertura de programas municipales de prevención y fortalecimiento familiar.",
+            "indicator": "Número de beneficiarios de programas de fortalecimiento familiar. Número de actividades preventivas realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de modernización de mercados de abastos para mejorar su infraestructura, seguridad y competitividad.",
+            "objective": "Fortalecer la competitividad, seguridad y sostenibilidad de los mercados de abastos mediante procesos de modernización progresiva.",
+            "goal": "Intervenir y modernizar progresivamente los principales mercados de abastos priorizados durante la gestión municipal.",
+            "indicator": "Número de mercados intervenidos o mejorados. Número de comerciantes beneficiados."
+          },
+          {
+            "problem": "Informalidad comercial y empresarial que afecta el crecimiento, la competitividad y la recaudación municipal.",
+            "objective": "Promover la formalización empresarial y comercial para fortalecer la competitividad económica local y el desarrollo sostenible de los negocios del distrito.",
+            "goal": "Formalizar al menos el 60% de los negocios informales identificados durante la gestión.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo formal para la población de Puente Piedra, pese al crecimiento de actividades económicas.",
+            "objective": "Promover la generación de empleo formal mediante acciones de articulación institucional, fortalecimiento empresarial y vinculación con el sector privado.",
+            "goal": "Incrementar en un 35% la participación de vecinos en programas de intermediación y promoción del empleo formal.",
+            "indicator": "Número de vecinos incorporados a empleo formal. Número de convenios laborales suscritos."
+          },
+          {
+            "problem": "Limitaciones en la infraestructura vial para el desarrollo económico, afectando la conectividad y transitabilidad.",
+            "objective": "Mejorar la infraestructura vial estratégica para fortalecer la competitividad económica, la transitabilidad y el acceso a oportunidades de desarrollo.",
+            "goal": "Incrementar progresivamente la cobertura de infraestructura vial en zonas económicas priorizadas del distrito.",
+            "indicator": "Número de vías económicas mejoradas. Número de sectores beneficiados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Limitaciones en el ordenamiento territorial frente al crecimiento urbano acelerado de Puente Piedra.",
+            "objective": "Fortalecer el ordenamiento territorial y la planificación urbana sostenible para compatibilizar el crecimiento urbano con la protección ambiental y el desarrollo equilibrado del distrito.",
+            "goal": "Fortalecer progresivamente los mecanismos de planificación territorial y sostenibilidad urbana en sectores priorizados del distrito.",
+            "indicator": "Número de instrumentos de planificación territorial fortalecidos. Número de sectores beneficiados."
+          },
+          {
+            "problem": "Incremento de la generación de residuos sólidos y mayores exigencias para los servicios de limpieza pública.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos para mejorar la limpieza pública y la sostenibilidad ambiental del distrito.",
+            "goal": "Incrementar progresivamente la cobertura y eficiencia de los servicios de limpieza pública y gestión de residuos sólidos.",
+            "indicator": "Número de sectores beneficiados por mejoras en la gestión de residuos sólidos. Número de sectores beneficiados."
+          },
+          {
+            "problem": "Presencia de polvo y material particulado generado por vías sin pavimentar, expansión urbana y tránsito de vehículos pesados.",
+            "objective": "Reducir progresivamente los impactos ambientales y sanitarios asociados a la presencia de polvo y material particulado en zonas urbanas y sectores de expansión urbana.",
+            "goal": "Implementar acciones permanentes de control y mitigación de polvo en los sectores priorizados del distrito.",
+            "indicator": "Número de sectores intervenidos. Número de acciones de mitigación implementadas."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante frente al crecimiento urbano acelerado de Puente Piedra.",
+            "objective": "Incrementar progresivamente la cobertura de áreas verdes urbanas para mejorar la calidad ambiental, la salud pública y los espacios de integración comunitaria.",
+            "goal": "Incrementar progresivamente la cobertura de áreas verdes en asentamientos humanos, urbanizaciones y sectores priorizados del distrito.",
+            "indicator": "Número de parques y áreas verdes recuperadas o implementadas. Número de sectores beneficiados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Crecimiento poblacional, urbano y comercial de Puente Piedra superior a la capacidad actual de atención y respuesta municipal.",
+            "objective": "Fortalecer la capacidad institucional y operativa de la municipalidad para responder eficientemente a las demandas de una población en constante crecimiento.",
+            "goal": "Incrementar progresivamente la capacidad de atención municipal en los diferentes sectores del distrito.",
+            "indicator": "Número de acciones de fortalecimiento institucional implementadas. Número de sectores beneficiados."
+          },
+          {
+            "problem": "Limitaciones en la atención, seguimiento y solución oportuna de reclamos, solicitudes y demandas vecinales en diversos sectores de Puente Piedra.",
+            "objective": "Fortalecer la capacidad de atención y respuesta municipal para garantizar servicios más eficientes, oportunos y orientados al ciudadano.",
+            "goal": "Implementar progresivamente mecanismos que permitan mejorar la atención y seguimiento de requerimientos vecinales en todo el distrito.",
+            "indicator": "Número de solicitudes atendidas. Número de mecanismos de seguimiento implementados."
+          },
+          {
+            "problem": "Limitada participación de los vecinos en los procesos de planificación, seguimiento y evaluación de la gestión municipal.",
+            "objective": "Fortalecer la participación ciudadana para promover una gestión municipal más democrática, transparente y cercana a la población.",
+            "goal": "Incrementar progresivamente la participación vecinal en mecanismos de consulta, planificación y seguimiento de la gestión municipal.",
+            "indicator": "Número de espacios participativos implementados. Número de ciudadanos participantes."
+          },
+          {
+            "problem": "Desconfianza de diversos sectores de la población hacia la gestión municipal debido a percepciones de limitado cumplimiento de compromisos y escasa difusión de resultados.",
+            "objective": "Fortalecer la confianza ciudadana mediante una gestión municipal transparente, cercana, participativa y orientada al cumplimiento efectivo de resultados.",
+            "goal": "Incrementar progresivamente la confianza ciudadana mediante acciones permanentes de transparencia, comunicación institucional y participación vecinal.",
+            "indicator": "Número de mecanismos de transparencia implementados. Nivel de percepción ciudadana sobre la gestión municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-jOqXcN9EjYJB2HL4oViUdlIYK1uc7WKn",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/jOqXcN9EjYJB2HL4oViUdlIYK1uc7WKn",
+      "sha256": "8279f1f04b4eeacb6c073ddabb9ba232aa06bdc0dbde53663c7122099e81cf4e",
+      "accessedAt": "2026-10-02T23:01:19.056Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021328",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021328",
+      "sha256": "a39af6f29cc5417c9b78fc959598b6d21c0f5493a1fab304471cf579fe7dde38",
+      "accessedAt": "2026-10-02T23:01:19.542Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

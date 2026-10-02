@@ -1,0 +1,293 @@
+{
+  "id": "of93nTMST3EkGu-CmaFd_r-pyJ4_zbPO",
+  "slug": "eduardo-rimachi-martinez",
+  "electionId": "erm-2026",
+  "name": "Eduardo Rimachi Martinez",
+  "givenNames": "Eduardo",
+  "surnames": "Rimachi Martinez",
+  "age": 37,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:21.267Z",
+      "sourceId": "jne-hv-of93nTMST3EkGu-CmaFd_r-pyJ4_zbPO"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "BACHILLER",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "MAESTRO",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2022"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSTRUCTORA RIMACHI MARTINEZ SA",
+      "role": "ADMINISTRADOR",
+      "from": "2012",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 220459,
+        "public": 0,
+        "private": 220459
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "INMUEBLE",
+        "value": 12360,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "CERCADO",
+        "value": 27000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 83695.81,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 34412,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 80246.71,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA- COMERCIO",
+        "value": 95667.23,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 49500,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 50630.66,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "CERCADO",
+        "value": 26880,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "COMERCIO",
+        "value": 50630.66,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 14640,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA CHEVROLET TAHOE COLOR NEGRO",
+        "value": 300162
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSTRUCTORA RIMACHI MARTINEZ S.A.",
+        "type": "ACCIONES",
+        "quantity": 15,
+        "value": 1
+      },
+      {
+        "company": "GEOPROP SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e15a8ec9-7267-4225-a622-3453e417eb8e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/42c5aae8-f306-4a79-9988-e9007b4cac91.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Vulnerabilidad social y familiar, manifestada en violencia, falta de oportunidades y desprotección de grupos como adultos mayores, mujeres y jóvenes.",
+            "objective": "Fortalecer el bienestar de las familias de Santa Anita mediante políticas de inclusión social, acceso a oportunidades y atención prioritaria a las poblaciones vulnerables.",
+            "goal": "Mejorar la calidad de vida del 70% de las familias del distrito, beneficiar a más de 25,000 adultos mayores, capacitar a más de 15,000 jóvenes y recuperar el 100% de los espacios deportivos deteriorados.",
+            "indicator": "Porcentaje de mejora en la calidad de vida de las familias, número de adultos mayores beneficiados, número de jóvenes capacitados y porcentaje de espacios deportivos recuperados."
+          },
+          {
+            "problem": "Altos índices delictivos y una elevada percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Convertir a Santa Anita en uno de los distritos más seguros de Lima Este mediante tecnología, prevención y trabajo conjunto con la ciudadanía.",
+            "goal": "Reducir en 50% los índices delictivos, reducir en 60% la percepción de inseguridad, lograr cobertura de videovigilancia en todos los puntos críticos y erradicar la venta y consumo de drogas en parques y espacios públicos.",
+            "indicator": "Porcentaje de reducción de los índices delictivos, porcentaje de reducción de la percepción de inseguridad y porcentaje de cobertura de videovigilancia."
+          },
+          {
+            "problem": "Limitado acceso a oportunidades educativas, especialmente en niveles superiores, y existencia de una brecha digital en la población.",
+            "objective": "Garantizar mayores oportunidades educativas para niños, jóvenes y adultos.",
+            "goal": "Beneficiar a más de 10,000 estudiantes, incrementar el acceso a educación superior en 30% y reducir la brecha digital en 50%.",
+            "indicator": "Número de estudiantes beneficiados, porcentaje de incremento del acceso a educación superior y porcentaje de reducción de la brecha digital."
+          },
+          {
+            "problem": "Acceso deficiente a servicios de salud preventiva y atención médica para la población del distrito.",
+            "objective": "Garantizar servicios de salud preventiva y atención médica accesible para todos los vecinos.",
+            "goal": "Atender más de 100,000 consultas médicas durante la gestión, reducir la anemia infantil en 25% e incrementar la cobertura de atención preventiva en 50%.",
+            "indicator": "Número de consultas médicas atendidas, porcentaje de reducción de la anemia infantil y porcentaje de incremento en la cobertura de atención preventiva."
+          },
+          {
+            "problem": "Insuficientes oportunidades laborales y un débil fortalecimiento del emprendimiento a nivel local.",
+            "objective": "Generar oportunidades laborales y fortalecer el emprendimiento local.",
+            "goal": "Generar más de 15,000 oportunidades laborales, formalizar más de 3,000 emprendimientos e incrementar en 25% la empleabilidad juvenil.",
+            "indicator": "Número de oportunidades laborales generadas, número de emprendimientos formalizados y porcentaje de incremento en la empleabilidad juvenil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil articulación de los centros de abastos y mercados, alta informalidad comercial y limitada generación de empleo e inversión privada.",
+            "objective": "Consolidar a Santa Anita como el principal centro económico, comercial y logístico de Lima Este.",
+            "goal": "Formalizar el 80% del comercio informal, incrementar en 30% la inversión privada y generar 5,000 nuevos puestos de trabajo.",
+            "indicator": "Porcentaje de formalización del comercio informal, porcentaje de incremento de la inversión privada y número de nuevos puestos de trabajo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión inadecuada de residuos sólidos, déficit de áreas verdes y deterioro de espacios públicos, afectando la sostenibilidad y calidad de vida del distrito.",
+            "objective": "Construir un distrito limpio, saludable y ambientalmente sostenible.",
+            "goal": "Incrementar en 30% las áreas verdes, recuperar el 100% de parques, avenidas y calles deterioradas, y reciclar el 40% de residuos aprovechables.",
+            "indicator": "Porcentaje de incremento de áreas verdes, porcentaje de recuperación de espacios públicos deteriorados y porcentaje de reciclaje de residuos aprovechables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión municipal con carencias en modernización, transparencia, eficiencia y mecanismos de participación ciudadana.",
+            "objective": "Modernizar la gestión municipal garantizando transparencia, eficiencia y participación ciudadana.",
+            "goal": "Digitalizar el 100% de los principales trámites, reducir en 50% los tiempos de atención, alcanzar una satisfacción vecinal superior al 80% y lograr una ejecución presupuestal superior al 90%.",
+            "indicator": "Porcentaje de digitalización de trámites, porcentaje de reducción en tiempos de atención, nivel de satisfacción vecinal y porcentaje de ejecución presupuestal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139326",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: USURPACION",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2022-08-05",
+      "details": {
+        "materia": "USURPACION",
+        "fallo": "CUATRO AÑOS SUSPENDIDA POR TRES AÑOS",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "PRIMERA SALA PENAL CORTE SUPOERIOR DE JUSTICIA DE LIMA NORTE",
+        "expediente": "1755-2015",
+        "comentario": "DESPUES SE RESOLVIO QUE EL INMUEBLE SI ERA DE MI PROPIEDAD, EN UN PROCESO DE MEJOR DERECHO QUE GANE."
+      },
+      "quote": "USURPACION · CUATRO AÑOS SUSPENDIDA POR TRES AÑOS · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-of93nTMST3EkGu-CmaFd_r-pyJ4_zbPO"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-penal-139344",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: LESIONES CULPOSAS",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2016-07-07",
+      "details": {
+        "materia": "LESIONES CULPOSAS",
+        "fallo": "2 AÑOS CON REGLAS DE CONDUCTA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "JUZGADO DE TRANSITO Y SEGURIDAD VIAL DE LA CORTE SUPERIOR DE JUSTICIA DE LIMA NORTE",
+        "expediente": "8951-2014",
+        "comentario": null
+      },
+      "quote": "LESIONES CULPOSAS · 2 AÑOS CON REGLAS DE CONDUCTA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-of93nTMST3EkGu-CmaFd_r-pyJ4_zbPO"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-of93nTMST3EkGu-CmaFd_r-pyJ4_zbPO",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/of93nTMST3EkGu-CmaFd_r-pyJ4_zbPO",
+      "sha256": "6a1919e8219f7b2e4c7e1077709c457ffdcabd32f8b2027f252ab7f5d10a90e8",
+      "accessedAt": "2026-10-02T23:05:21.267Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019415",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019415",
+      "sha256": "c8cc21633f9e4af12acbb268756d3178c92c5b011021855c7e8d70ed4f8f0bf4",
+      "accessedAt": "2026-10-02T23:05:21.949Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

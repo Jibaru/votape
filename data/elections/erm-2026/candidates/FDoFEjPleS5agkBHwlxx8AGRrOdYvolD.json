@@ -1,0 +1,247 @@
+{
+  "id": "FDoFEjPleS5agkBHwlxx8AGRrOdYvolD",
+  "slug": "olimpio-lopez-manuico",
+  "electionId": "erm-2026",
+  "name": "Olimpio Lopez Mañuico",
+  "givenNames": "Olimpio",
+  "surnames": "Lopez Mañuico",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:10.884Z",
+      "sourceId": "jne-hv-FDoFEjPleS5agkBHwlxx8AGRrOdYvolD"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "LM AGREGADOS DEL PERU E.I.R.L.",
+      "role": "GERENTE",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "L. LOPEZ S.A.C.",
+      "role": "GERENTE",
+      "from": "2011",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DISTRITAL",
+      "party": "PARTIDO POLÍTICO PARTIDO PAIS PARA TODOS",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45492,
+        "public": 0,
+        "private": 45492
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11550,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DERECHOS MINEROS",
+        "value": 5300,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "COLOR ROJO AMARILLO, BOMBA HORMIGONERA, AÑO 1990",
+        "value": 50000
+      },
+      {
+        "type": "STATION WAGON, TOYOTA PROBOX, BLANCO, AÑO 2008",
+        "value": 28000
+      },
+      {
+        "type": "BLANCO AZUL, VOLQUETE, AÑO 2018",
+        "value": 12000
+      },
+      {
+        "type": "MERCEDES BENZ, BLANCO VERDE, BOMBA HORMIGONERA. AÑO 1988",
+        "value": 80000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACION L&H S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 1
+      },
+      {
+        "company": "L. LOPEZ S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 6000,
+        "value": 10
+      },
+      {
+        "company": "LM AGREGADOS DEL PERU E.I.R.L.",
+        "type": "PARTICIPACIONES",
+        "quantity": 1,
+        "value": 215000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "AUN FIGURA COMO PREDIO EN LA MUNICIPALIDAD UN PREDIO QUE ME FALTA REALIZAR EL DESCARGO, YA NO SE ENCUENTRA A MI NOMBRE EN SUNARP 03383 LOTIZ. NIEVERIA HABILT PRE URB NIEVERIA PARCELA 3 II ETAPA"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7b329dad-9729-41ad-a0f9-01b9f7a16974.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/64bd40c9-166e-448e-abca-7303ee7e175d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la delincuencia, inseguridad ciudadana y limitada capacidad de respuesta ante hechos delictivos en diversos sectores del distrito de Lurigancho.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la articulación entre la Municipalidad, Policía Nacional, juntas vecinales y ciudadanía organizada, incorporando tecnologías y mecanismos de prevención del delito.",
+            "goal": "Reducir en 20% respecto al año base.",
+            "indicator": "Número de delitos denunciados por cada 1,000 habitantes."
+          },
+          {
+            "problem": "Limitado acceso de la población, especialmente vulnerable, a servicios de salud oportunos y de calidad.",
+            "objective": "Mejorar el acceso y la calidad de los servicios de salud para la población del distrito de Lurigancho.",
+            "goal": "15 000 atenciones anualmente.",
+            "indicator": "Número de atenciones médicas brindadas a través de la Clínica Municipal."
+          },
+          {
+            "problem": "Limitada infraestructura educativa, cultural, deportiva y recreativa para atender adecuadamente a la población del distrito.",
+            "objective": "Fortalecer el acceso a servicios educativos, culturales, deportivos y recreativos de calidad que contribuyan al desarrollo integral de la población.",
+            "goal": "30 infraestructuras intervenidas.",
+            "indicator": "Número de infraestructuras educativas, culturales y deportivas mejoradas o implementadas."
+          },
+          {
+            "problem": "Limitado acceso a agua potable segura en diversos sectores del distrito.",
+            "objective": "Mejorar el acceso a servicios básicos de calidad para la población.",
+            "goal": "4 plantas construidas y operativas.",
+            "indicator": "Número de plantas de tratamiento implementadas."
+          },
+          {
+            "problem": "Débil apoyo institucional a organizaciones sociales de base.",
+            "objective": "Fortalecer la gestión y sostenibilidad de las organizaciones sociales.",
+            "goal": "500 organizaciones.",
+            "indicator": "Número de organizaciones beneficiadas con asistencia técnica y apoyo municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado desarrollo económico local debido a la baja competitividad empresarial, escasa promoción turística, insuficiente generación de empleo y dificultades para la formalización de los negocios del distrito.",
+            "objective": "Fortalecer la competitividad económica, el turismo, el emprendimiento y la generación de empleo mediante la modernización de los servicios municipales, la promoción de inversiones y el desarrollo de actividades productivas locales.",
+            "goal": "Formalizar 3,000 negocios. Capacitar 2,000 emprendedores. Realizar 5 ferias anuales. Gestionar 600 empleos anualmente.",
+            "indicator": "Número de empresas y negocios formalizados. Número de emprendedores y empresarios capacitados. Número de ferias y eventos de promoción económica y turística realizados. Número de empleos gestionados mediante la Bolsa Laboral Municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de la calidad ambiental debido a la contaminación, insuficiente manejo de residuos sólidos y déficit de áreas verdes en el distrito.",
+            "objective": "Mejorar la calidad ambiental mediante la gestión eficiente de residuos sólidos, la ampliación de áreas verdes y el fortalecimiento de la cultura ambiental.",
+            "goal": "Recuperar 20 parques. Aumentar en 30% el reciclaje.",
+            "indicator": "Número de parques remodelados. Toneladas de residuos reciclados."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población ante huaicos, inundaciones, deslizamientos y otros desastres naturales.",
+            "objective": "Fortalecer la gestión del riesgo de desastres mediante acciones de prevención, mitigación, preparación y respuesta oportuna.",
+            "goal": "Ejecutar el 100% de las obras priorizadas. 50 km anuales. Capacitar 1,000 brigadistas. Operatividad al 100%.",
+            "indicator": "Número de obras de mitigación ejecutadas. Kilómetros de cauces descolmatados. Número de brigadistas capacitados. Operatividad del COE y sistemas de alerta temprana."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado, déficit de infraestructura vial y limitada conectividad entre sectores del distrito.",
+            "objective": "Promover un desarrollo urbano ordenado y sostenible mediante la mejora de la infraestructura vial y la planificación territorial.",
+            "goal": "Construcción de 1.000 km de vías. 3 puentes vehiculares. 1 plan de desarrollo urbano y acondicionamiento territorial.",
+            "indicator": "Kilómetros de pistas y veredas construidas o mejoradas. Número de puentes construidos. Instrumentos de planificación urbana aprobados."
+          },
+          {
+            "problem": "Existencia de predios y posesiones con situación legal irregular que limita el acceso a la formalización y al desarrollo urbano.",
+            "objective": "Promover el saneamiento físico-legal y la formalización de la propiedad en el distrito.",
+            "goal": "Gestionar 5 000 expedientes. 80 habilitaciones. 10 convenios.",
+            "indicator": "Número de títulos gestionados. Número de habilitaciones urbanas aprobadas. Convenios ejecutados con entidades especializadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada modernización de los servicios municipales, generando trámites lentos, baja digitalización y dificultades en el seguimiento de expedientes por parte de los ciudadanos.",
+            "objective": "Modernizar la gestión municipal mediante la transformación digital y la mejora continua de los procesos administrativos para brindar servicios eficientes, transparentes y oportunos.",
+            "goal": "Digitalizar el 60% de los trámites municipales. 50% de servicios en la plataforma digital. Reducir en 50% el tiempo de atención.",
+            "indicator": "Porcentaje de trámites digitalizados. Número de servicios incorporados a la plataforma digital. Tiempo promedio de atención de trámites."
+          },
+          {
+            "problem": "Limitada participación ciudadana, insuficiente descentralización de servicios municipales y necesidad de fortalecer la transparencia y capacidad institucional.",
+            "objective": "Fortalecer la capacidad institucional y la participación ciudadana mediante una gestión transparente, descentralizada y orientada a resultados.",
+            "goal": "Implementar 1 complejo municipal de atención. Registrar 100% de organizaciones sociales. Equipar el 60% del personal de intervención.",
+            "indicator": "Número de complejo municipal de atención. Número de organizaciones sociales registradas en el ROS. Porcentaje de personal operativo equipado con Bodycam."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-FDoFEjPleS5agkBHwlxx8AGRrOdYvolD",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/FDoFEjPleS5agkBHwlxx8AGRrOdYvolD",
+      "sha256": "166fc7dfd031c6b7ee15607bc7ad5ea98094a532764f7b18f35f3bf0fe8bbbf1",
+      "accessedAt": "2026-10-02T22:59:10.884Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014400",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014400",
+      "sha256": "26062223db63d24e792eb1889fb8f2b26c997caf2e836151be921ebe04baba44",
+      "accessedAt": "2026-10-02T22:59:11.423Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "1-pnsOQyjmFkL8I0aYkOcTLN3h_64E3q",
+  "slug": "antonio-german-rodriguez-jaureguiza",
+  "electionId": "erm-2026",
+  "name": "Antonio German Rodriguez Jaureguiza",
+  "givenNames": "Antonio German",
+  "surnames": "Rodriguez Jaureguiza",
+  "age": 75,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:17.290Z",
+      "sourceId": "jne-hv-1-pnsOQyjmFkL8I0aYkOcTLN3h_64E3q"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "BAUSATE MEZA",
+        "program": "PERIODISTA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "MILITANTE",
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2012"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2019"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45600,
+        "public": 45600,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 18000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 80000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PENSIONISTA DE LA MUNICIPALIDAD DE PUENTE PIEDRA"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c2fe8207-3abc-4326-929a-9463a3dcf1f3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c5deab69-7852-4d91-a50f-efdc6b29df57.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de espacios deportivos, recreativos y de integración social.",
+            "objective": "Recuperar y mejorar espacios públicos, deportivos y recreativos para la población.",
+            "goal": "50 parques construidos o rehabilitados.",
+            "indicator": "Número de parques construidos o rehabilitados."
+          },
+          {
+            "problem": "Brechas en el acceso a servicios básicos en zonas altas de Puente Piedra.",
+            "objective": "Gestionar la ampliación de la cobertura de agua potable y saneamiento para las familias de las zonas altas.",
+            "goal": "5,000 hogares beneficiados en Puente Piedra.",
+            "indicator": "Hogares beneficiarios con acceso a servicios básicos."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana y percepción de inseguridad en el distrito de Puente Piedra.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la ampliación de la videovigilancia, patrullaje integrado y participación vecinal organizada.",
+            "goal": "100 cámaras instaladas o integradas al sistema de Videovigilancia. Incremento del 50% de patrullaje. 50 juntas vecinales organizadas.",
+            "indicator": "Número de cámaras instaladas o modernizadas. Incremento del patrullaje. Juntas vecinales organizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada promoción de la actividad económica.",
+            "objective": "Impulsar espacios de comercialización y promoción económica.",
+            "goal": "40 ferias y eventos realizados.",
+            "indicator": "Ferias y eventos de promoción económica."
+          },
+          {
+            "problem": "Débil desarrollo de emprendimientos locales.",
+            "objective": "Promover el emprendimiento y fortalecimiento empresarial en Puente Piedra.",
+            "goal": "2,000 emprendedores beneficiados.",
+            "indicator": "Emprendedores beneficiados con asistencia técnica."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo y capacitación laboral en Puente Piedra.",
+            "objective": "Fortalecer la empleabilidad mediante programas de capacitación laboral y desarrollo económico.",
+            "goal": "5,000 personas capacitadas.",
+            "indicator": "Personas capacitadas en empleabilidad y emprendimiento."
+          },
+          {
+            "problem": "Desaprovechamiento de la ubicación estratégica de Puente Piedra como eje geopolítico y logístico en Lima Norte.",
+            "objective": "Consolidar a Puente Piedra como el hub comercial, logístico e industrial líder de Lima Norte, atrayendo inversión privada, ordenando y modernizando el comercio local.",
+            "goal": "1 Proyecto integral de Hub Logístico/Comercial gestionado. 50% de mercados tradicionales en proceso de modernización y formalización. 10 Alianzas público-privadas con la industria local.",
+            "indicator": "Proyectos de articulación logística/industrial diseñados o iniciados. Porcentaje de mercados y zonas comerciales modernizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente cobertura y mantenimiento de áreas verdes y espacios públicos en Puente Piedra.",
+            "objective": "Fortalecer la gestión ambiental mediante la ampliación y mantenimiento de áreas verdes sostenibles en Puente Piedra.",
+            "goal": "Incrementar en 50 hectáreas las áreas verdes recuperadas y mantenidas.",
+            "indicator": "Metros cuadrados de áreas verdes implementadas, mejoradas o mantenidas."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos y necesidad de fortalecer la limpieza pública.",
+            "objective": "Fortalecer los servicios de limpieza pública, segregación y reciclaje de residuos sólidos en la Municipalidad de Puente Piedra.",
+            "goal": "Implementar 100 puntos de segregación y reciclaje en el distrito.",
+            "indicator": "Número de campañas de segregación de residuos sólidos y reciclaje realizadas."
+          },
+          {
+            "problem": "Deterioro ambiental de espacios públicos.",
+            "objective": "Fortalecer las acciones de prevención, reducción y gestión del riesgo de desastres.",
+            "goal": "Recuperar 30 sectores priorizados con intervención ambiental y paisajística.",
+            "indicator": "Número de sectores priorizados beneficiados con acciones de reducción de riesgos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitaciones en la modernización de la gestión municipal y los servicios al ciudadano.",
+            "objective": "Modernizar la Municipalidad de Puente Piedra mediante la transformación digital y el uso de herramientas tecnológicas.",
+            "goal": "Digitalizar el 80% de los trámites municipales más demandados.",
+            "indicator": "Número de trámites incorporados a plataformas digitales."
+          },
+          {
+            "problem": "Insuficiente participación ciudadana en los procesos de gestión municipal.",
+            "objective": "Fortalecer la participación ciudadana y la coordinación con organizaciones vecinales de Puente Piedra.",
+            "goal": "Implementar mecanismos de participación ciudadana en los principales procesos de gestión.",
+            "indicator": "Número de organizaciones vecinales participantes en espacios de concertación."
+          },
+          {
+            "problem": "Necesidad de fortalecer la transparencia y rendición de cuentas.",
+            "objective": "Fortalecer la transparencia institucional y los mecanismos de control ciudadano.",
+            "goal": "Realizar 16 audiencias públicas de rendición de cuentas durante la gestión.",
+            "indicator": "Número de acciones de transparencia y rendición de cuentas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-1-pnsOQyjmFkL8I0aYkOcTLN3h_64E3q",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1-pnsOQyjmFkL8I0aYkOcTLN3h_64E3q",
+      "sha256": "fc0801cb5660bc63ba7f352b545bdd8d44b57e1a5c5302825a7bc3ab84db6009",
+      "accessedAt": "2026-10-02T23:01:17.290Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021741",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021741",
+      "sha256": "a9324b74827d5b18d988b1ba2b47b838d2cbb8003b313255943b620c20400b51",
+      "accessedAt": "2026-10-02T23:01:17.783Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

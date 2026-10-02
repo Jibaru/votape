@@ -1,0 +1,262 @@
+{
+  "id": "G4wx35yqAFqauIjMNn0-6WG4mN-n6_kU",
+  "slug": "ilich-ivan-pumacayo-palomino",
+  "electionId": "erm-2026",
+  "name": "Ilich Ivan Pumacayo Palomino",
+  "givenNames": "Ilich Ivan",
+  "surnames": "Pumacayo Palomino",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:58.454Z",
+      "sourceId": "jne-hv-G4wx35yqAFqauIjMNn0-6WG4mN-n6_kU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMAN Y VALLE",
+        "program": "LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2020"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMAN Y VALLE",
+        "program": "LICENCIADO EN EDUCACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMAN Y VALLE",
+        "program": "DOCTOR EN CIENCIAS DE LA EDUCACIÓN",
+        "completed": true,
+        "degree": "Doctor",
+        "year": "2019"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMAN Y VALLE",
+        "program": "MAGISTER EN GESTIÓN EDUCACIONAL",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIVERSIDAD PRIVADA CÉSAR VALLEJO",
+      "role": "DOCENTE UNIVERSITARIO",
+      "from": "2017",
+      "to": "2026"
+    },
+    {
+      "employer": "CONGRESO DE LA REÚBLICA",
+      "role": "ASESOR",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 188760.45,
+        "public": 130891.79,
+        "private": 57868.66
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "JEEP NEGRO COMPAS",
+        "value": 25000
+      },
+      {
+        "type": "DFSK 2024 MINIVAN",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSORCIO INVERSIONISTA DEL SUR",
+        "type": "ACCIONES",
+        "quantity": 1,
+        "value": 40000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1b57c565-c69d-4f14-bfa6-191388ed89ef.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/20d40d24-1979-447f-8ab9-8a16c9636b43.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la delincuencia en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la ampliación de la flota vehicular de patrullaje al 100%.",
+            "goal": "Reducir la delincuencia en un 60%.",
+            "indicator": "El número de cámaras instaladas será un 100% superior al existente en 2026 y los patrullajes vehiculares aumentarán en un 100% respecto a los realizados actualmente."
+          },
+          {
+            "problem": "Existencia de violencia familiar y juvenil.",
+            "objective": "Implementar programas de prevención y apoyo psicológico, fortaleciendo los núcleos familiares como pilar fundamental de la sociedad.",
+            "goal": "Implementar 20 programas sociales de apoyo y sostén a través de los asistentes sociales municipales en cada zona y/o sector.",
+            "indicator": "Realización de un taller semanal o quincenal en cada zona y/o sector para combatir la violencia familiar y juvenil."
+          },
+          {
+            "problem": "Déficit de espacios recreativos y culturales.",
+            "objective": "Recuperar parques y áreas deportivas al 100%, gestionar la puesta en valor de zonas arqueológicas y culturales, y construir el palacio de la juventud.",
+            "goal": "Recuperar 100 parques y campos deportivos existentes, y construir el palacio de la juventud.",
+            "indicator": "100 parques y espacios deportivos recuperados al final de la gestión."
+          },
+          {
+            "problem": "Déficit de servicios de salud en anexos.",
+            "objective": "Ampliar la cobertura de salud preventiva, repotenciar el SAMU y gestionar el financiamiento y construcción del hospital para Lurigancho-Chosica.",
+            "goal": "Realizar 48 campañas en anexos, adquirir una ambulancia y coadyuvar en la gestión del financiamiento y construcción del hospital para Lurigancho-Chosica.",
+            "indicator": "Aumentar en un 100% las campañas médicas ejecutadas en 2026, repotenciar las ambulancias y coadyuvar en la gestión del financiamiento y construcción del hospital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desempleo juvenil en el distrito.",
+            "objective": "Crear convenios con instituciones educativas superiores para ofrecer carreras técnicas y capacitaciones que aseguren la estabilidad económica de los jóvenes, y promover programas de empleabilidad en alianza con el sector privado.",
+            "goal": "Capacitar a 20,000 jóvenes.",
+            "indicator": "El número de beneficiarios capacitados representará el 15% de la población juvenil de Lurigancho."
+          },
+          {
+            "problem": "Alta informalidad comercial.",
+            "objective": "Brindar apoyo total a los pequeños comerciantes, impulsando la formalización de sus negocios.",
+            "goal": "Lograr la formalización de 5,000 negocios o comerciantes.",
+            "indicator": "El número de licencias otorgadas será un 200% superior al de 2026."
+          },
+          {
+            "problem": "Bajo desarrollo económico local.",
+            "objective": "Crear ferias para los emprendedores y artesanos del distrito de Lurigancho.",
+            "goal": "Ejecutar 100 ferias productivas anuales.",
+            "indicator": "Realización de dos ferias mensuales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental generalizada.",
+            "objective": "Implementar programas de reciclaje en todo el distrito.",
+            "goal": "Incrementar el reciclaje en un 60%.",
+            "indicator": "Incremento del 60% en las toneladas recicladas."
+          },
+          {
+            "problem": "Contaminación del río Rímac.",
+            "objective": "Ejecutar la limpieza y fiscalización ambiental del cauce del río.",
+            "goal": "Retirar 500 toneladas de residuos anualmente.",
+            "indicator": "Toneladas de residuos retirados del cauce del río."
+          },
+          {
+            "problem": "Alto riesgo por huaicos en quebradas.",
+            "objective": "Reducir la vulnerabilidad ante desastres naturales.",
+            "goal": "Incrementar en un 100% el número de quebradas descolmatadas.",
+            "indicator": "Aumento en un 100% de la descolmatación de quebradas en comparación con 2026 y la implementación de sistemas de alerta temprana."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos.",
+            "objective": "Mejorar la limpieza pública en el distrito.",
+            "goal": "Alcanzar una cobertura del 100% en el servicio de limpieza del distrito.",
+            "indicator": "Frecuencia del recojo de residuos sólidos."
+          },
+          {
+            "problem": "Déficit de áreas verdes en las comunas.",
+            "objective": "Ejecutar programas de arborización en todas las comunas, aumentando en un 200% el número de árboles existentes en 2026.",
+            "goal": "Plantar 1,000 árboles anualmente.",
+            "indicator": "El número de árboles plantados será un 200% superior a lo realizado en 2026."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia en la gestión pública.",
+            "objective": "Fortalecer el acceso a la información pública y revertir los índices de falta de transparencia.",
+            "goal": "Realizar 6 audiencias públicas generales en todo el distrito al año.",
+            "indicator": "Realización de una audiencia pública mensual en cada comuna."
+          },
+          {
+            "problem": "Lentitud en los trámites administrativos municipales.",
+            "objective": "Implementar la digitalización general de todos los trámites municipales.",
+            "goal": "Reducir los tiempos de atención en un 70%.",
+            "indicator": "Reducción en un 50% del promedio de tiempo de cada atención al administrado."
+          },
+          {
+            "problem": "Escasa participación ciudadana en asuntos locales.",
+            "objective": "Implementar un presupuesto participativo que sea real y efectivo.",
+            "goal": "Incrementar la participación ciudadana en un 80%.",
+            "indicator": "Nivel de participación vecinal registrada y ordenada."
+          },
+          {
+            "problem": "Concentración y centralización de la administración municipal.",
+            "objective": "Construir un palacio municipal en la parte baja del distrito.",
+            "goal": "Descentralizar, construir e implementar el palacio municipal en la parte baja del distrito para lograr una gestión más ágil y eficiente.",
+            "indicator": "Reducción en un 50% de la burocracia y la mala atención."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-G4wx35yqAFqauIjMNn0-6WG4mN-n6_kU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/G4wx35yqAFqauIjMNn0-6WG4mN-n6_kU",
+      "sha256": "27fc974c18ed44997dae3c91dc3a7dbf68e1459ce8eac83fc4b22135f0558129",
+      "accessedAt": "2026-10-02T22:58:58.454Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018335",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018335",
+      "sha256": "baf7633ed29cb17fc4e9122fda7e0d7a3072b303265d21d0bbae7a04c2a69daa",
+      "accessedAt": "2026-10-02T22:58:58.940Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

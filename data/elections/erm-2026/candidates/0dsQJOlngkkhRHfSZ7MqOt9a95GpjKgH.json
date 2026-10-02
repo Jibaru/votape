@@ -1,0 +1,232 @@
+{
+  "id": "0dsQJOlngkkhRHfSZ7MqOt9a95GpjKgH",
+  "slug": "max-andre-ampuero-leandro",
+  "electionId": "erm-2026",
+  "name": "Max Andre Ampuero Leandro",
+  "givenNames": "Max Andre",
+  "surnames": "Ampuero Leandro",
+  "age": 35,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:34.943Z",
+      "sourceId": "jne-hv-0dsQJOlngkkhRHfSZ7MqOt9a95GpjKgH"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CESCA",
+        "program": "ADMINISTRACIÓN",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Científica del Sur S.A.C.",
+        "program": "LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Científica del Sur S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2020"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD TECNOLOGICA DEL PERU UTP",
+        "program": "MAESTRIA EN GESTIÓN PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE PUNTA NEGRA",
+      "role": "FUNCIONARIO",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUNTA HERMOSA",
+      "role": "ASISTENTE / FUNCIONARIO",
+      "from": "2016",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL DE PUNTA HERMOSA",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 90000,
+        "public": 90000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "VEHICULO",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/70d37c3f-8b9b-46a2-b185-7a35dfe1c9d5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6cb1520f-bd2b-4a6f-a7b7-c0f0db97e6d8.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1. Falta apoyo a la educación",
+            "objective": "Apoyar a la educación a través de gestiones que permitan mantener un nivel educativo en óptimas condiciones.",
+            "goal": "Incrementar el nivel educativo de los niveles, inicial, primaria y secundaria",
+            "indicator": "proyectos"
+          },
+          {
+            "problem": "3. falta de apoyo a la inclusión social",
+            "objective": "Integrar y motivar la participación de la comunidad",
+            "goal": "Promover la inclusión social en el distrito",
+            "indicator": "Capacitaciones"
+          },
+          {
+            "problem": "2. inseguridad ciudadana",
+            "objective": "Capacitación e implementación de herramientas para potenciar la seguridad en el distrito",
+            "goal": "Disminución de la inseguridad ciudadana",
+            "indicator": "N.º de incidentes"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1. Falta de empleo",
+            "objective": "Creación de la oficina del empleo",
+            "goal": "Incremento de oportunidad de trabajo para vecinos",
+            "indicator": "% de desempleabilidad"
+          },
+          {
+            "problem": "3. Escasez de planes y/o herramientas de gestión",
+            "objective": "Creación del Plan de Desarrollo Turístico Local (PDTL)",
+            "goal": "Fortalecimiento del turismo local y creación de puestos de trabajo.",
+            "indicator": "Nº de proyectos"
+          },
+          {
+            "problem": "2.Informalidad",
+            "objective": "Zonificación comercial, asesoría y mecanismos para creación de negocios locales",
+            "goal": "Reducción de informalidad y potenciar la economía local",
+            "indicator": "% de establecimientos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "3. Falta de un centro de rescate",
+            "objective": "Crear un centro de rescate mediante alianzas con entidades",
+            "goal": "Protección y tenencia de animales",
+            "indicator": "N.º de proyectos"
+          },
+          {
+            "problem": "2. Falta de planes de desarrollo de ecosistemas y otros",
+            "objective": "Planes de desarrollo de ecosistemas frágiles (La Isla, Lomas de Pacta)",
+            "goal": "Consolidad los planes de desarrollo",
+            "indicator": "Nº de planes y proyectos"
+          },
+          {
+            "problem": "1. Falta de cultura ambiental",
+            "objective": "Programas de medio ambiente",
+            "goal": "Fortalecer la cultura ambiental",
+            "indicator": "Talleres"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1. Burocracia",
+            "objective": "Simplificación de procesos administrativos a través de mecanismos digitales",
+            "goal": "Incluir la tecnología en procesos mejorando la eficiencia de la entidad",
+            "indicator": "Capacitaciones"
+          },
+          {
+            "problem": "3. falta de transparencia",
+            "objective": "Incluir la participación de ciudadanos en los proyectos",
+            "goal": "Promover la participación del ciudadano",
+            "indicator": "Participación"
+          },
+          {
+            "problem": "2. Falta de un buen clima laboral",
+            "objective": "Promover el trabajo en equipo",
+            "goal": "Gestión municipal eficaz y eficiente",
+            "indicator": "Motivación"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-0dsQJOlngkkhRHfSZ7MqOt9a95GpjKgH",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/0dsQJOlngkkhRHfSZ7MqOt9a95GpjKgH",
+      "sha256": "1e4548cdc9c5f66fe06be40ed8ce0902c9a9352e7fd1046ecc43cfc3a5da516d",
+      "accessedAt": "2026-10-02T23:01:34.943Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015067",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015067",
+      "sha256": "2f36a98ff72686435838b1cba456c9dab9ec68c1d86c19b454db7eca02ed65f3",
+      "accessedAt": "2026-10-02T23:01:35.443Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

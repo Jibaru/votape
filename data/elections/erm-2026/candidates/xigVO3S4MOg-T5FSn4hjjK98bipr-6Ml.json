@@ -1,0 +1,277 @@
+{
+  "id": "xigVO3S4MOg-T5FSn4hjjK98bipr-6Ml",
+  "slug": "javier-fernando-ramirez-guerra-guerra",
+  "electionId": "erm-2026",
+  "name": "Javier Fernando Ramirez Guerra Guerra",
+  "givenNames": "Javier Fernando",
+  "surnames": "Ramirez Guerra Guerra",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140116",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:22.705Z",
+      "sourceId": "jne-hv-xigVO3S4MOg-T5FSn4hjjK98bipr-6Ml"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1990"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD MAYOR DE SAN MARCOS",
+        "program": "MSC ECONOMIA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2004"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MAURTUA ASOCIADOS ABOGADOS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2007",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2021"
+    },
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 208000,
+        "public": 0,
+        "private": 208000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 14000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 143345.65,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MITSUBISHI",
+        "value": 60000
+      },
+      {
+        "type": "SPORTAGE",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MAURTUA & ASOCIADOS",
+        "type": "ACCIONES",
+        "quantity": 90,
+        "value": 27900
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/eabd677c-6285-4365-8bff-43f16e0c69d1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/08af0b49-aebf-4e0d-9017-068942ebbd5f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil cobertura de servicios de salud en primera infancia.",
+            "objective": "Reducir la anemia y desnutrición infantil mediante atención integral.",
+            "goal": "Anemia =10%; Desnutrición Crónica Infantil (DCI) =8%.",
+            "indicator": "Porcentaje de niños de 6 a 36 meses con anemia; porcentaje de desnutrición crónica infantil."
+          },
+          {
+            "problem": "Acceso limitado a educación inicial de calidad.",
+            "objective": "Ampliar la cobertura y mejorar la calidad de la educación inicial.",
+            "goal": "Cobertura =90%; Ratio =25:1.",
+            "indicator": "Porcentaje de cobertura en educación inicial; ratio niño/educador."
+          },
+          {
+            "problem": "Déficit de vivienda digna y servicios básicos en asentamientos humanos.",
+            "objective": "Garantizar el acceso a agua, saneamiento y electricidad en asentamientos humanos.",
+            "goal": "Hogares con agua y saneamiento =50%.",
+            "indicator": "Porcentaje de hogares con agua potable y saneamiento."
+          },
+          {
+            "problem": "Vulnerabilidad de las poblaciones jóvenes.",
+            "objective": "Implementar programas de inclusión laboral y social para jóvenes.",
+            "goal": "Empleo juvenil +15 puntos porcentuales; cobertura de programas =60%.",
+            "indicator": "Tasa de empleo juvenil; porcentaje de beneficiarios incluidos."
+          },
+          {
+            "problem": "Violencia familiar y falta de atención psicosocial.",
+            "objective": "Fortalecer la red de protección y atención psicosocial y prevención.",
+            "goal": "Incrementar atenciones en un 200% en comparación con la línea base; respuesta =72 horas.",
+            "indicator": "Número de atenciones psicosociales por 1,000 habitantes; tiempo de respuesta."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana y aumento de delitos comunes en diversas zonas del distrito.",
+            "objective": "Fortalecer integralmente el sistema de seguridad ciudadana municipal mediante la modernización tecnológica, el patrullaje integrado dinámico y la participación vecinal organizada.",
+            "goal": "Reducir la tasa de victimización delincuencial local en un 25.0% al año 2030; lograr el 100% de Juntas Vecinales activas, equipadas e interconectadas a la central de monitoreo municipal para el 2029.",
+            "indicator": "Tasa de victimización delincuencial en el ámbito distrital; número de Juntas Vecinales de Seguridad Ciudadana promovidas, equipadas y articuladas con el Serenazgo y la PNP."
+          },
+          {
+            "problem": "Deficiente sistema de transporte público, congestión en vías principales e informalidad del transporte menor (mototaxis).",
+            "objective": "Promover la movilidad urbana sostenible mediante el ordenamiento y formalización del transporte menor y extra distrital, la mejora de la infraestructura vial y la gestión de rutas integradas ante la ATU y la MML.",
+            "goal": "Lograr la formalización y ordenamiento del 100% de las empresas registradas de transporte menor y extra distrital al 2029; ejecutar el mejoramiento y mantenimiento vial del 80.00% de los principales corredores y accesos de conexión distrital para el 2030.",
+            "indicator": "Porcentaje de asociaciones de transporte menor (mototaxis) y extra distrital formalizadas, reguladas y con paraderos seguros autorizados; kilómetros de vías internas principales pavimentadas, señalizadas y mantenidas."
+          },
+          {
+            "problem": "Deficiente manejo de los programas sociales, filtración en el padrón de beneficiarios y falta de apoyo integral a las Organizaciones Sociales de Base (OSB).",
+            "objective": "Optimizar la gestión, transparencia y focalización de los programas alimentarios y sociales, fortaleciendo el apoyo logístico, nutricional y técnico a los Comedores Populares, Vaso de Leche y Ollas Comunes.",
+            "goal": "Otorgar apoyo integral, equipamiento y capacitación al 100% de las OSB reconocidas del distrito para el 2029; reducir la filtración del SISFOH a menos del 5.0% al 2030.",
+            "indicator": "Porcentaje de Organizaciones Sociales de Base (OSB) activas y registradas que reciben asistencia técnica, equipamiento y abastecimiento oportuno; índice de filtración y subcobertura en el Padrón General de Hogares (SISFOH) distrital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Pérdida de competitividad agropecuaria.",
+            "objective": "Impulsar integralmente la productividad, modernización tecnológica y articulación comercial del sector agropecuario del valle de Pachacámac.",
+            "goal": "Lograr que 500 productores locales comercialicen directamente en ferias agroecológicas y mercados mayoristas al 2030; implementar riego tecnificado en al menos el 35.0% de las parcelas agrícolas del valle para el término de la gestión.",
+            "indicator": "Número de productores agropecuarios locales formalizados e integrados a cadenas de comercialización directa; porcentaje de hectáreas de suelo agrícola activo que incorporan sistemas de riego tecnificado optimizado."
+          },
+          {
+            "problem": "Insuficiente articulación de la producción local.",
+            "objective": "Fortalecer la articulación comercial, la competitividad y los encadenamientos productivos eficientes para los sectores agrícola, comercial y de microempresas locales.",
+            "goal": "Implementar 4 plataformas comerciales estratégicas interconectadas y operadas por productores locales al 2030.",
+            "indicator": "Número de redes de articulación, plataformas logísticas y ruedas de negocio agro-comerciales promovidas por la municipalidad."
+          },
+          {
+            "problem": "Baja rentabilidad económica local que limita la superación de la pobreza.",
+            "objective": "Incrementar los niveles de rentabilidad de las actividades económicas locales mediante la capacitación técnica, el fomento del turismo sostenible y la formalización comercial.",
+            "goal": "Formalizar y optimizar la capacidad comercial de 1,000 microempresas y emprendimientos turísticos del distrito para el 2030.",
+            "indicator": "Porcentaje de micro y pequeñas empresas (MYPES) asistidas técnicamente que logran un crecimiento sostenible en su rentabilidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Débil participación municipal en la gestión del agua.",
+            "objective": "Fortalecer el rol rector y articulador de la municipalidad en la gestión integrada de los recursos hídricos y el aseguramiento del acceso a agua segura en coordinación con la Autoridad Local del Agua y SEDAPAL.",
+            "goal": "Lograr el 100% de formalización, equipamiento y capacitación técnica de las JASS activas en zonas rurales al 2030; viabilizar e impulsar 3 proyectos integrales de redes de agua y saneamiento básico en sectores vulnerables.",
+            "indicator": "Juntas Administradoras de Servicios de Saneamiento (JASS) formalizadas y asistidas técnicamente; número de proyectos de inversión en agua y saneamiento viabilizados y cogestionados ante el sector correspondiente."
+          },
+          {
+            "problem": "Impactos negativos del crecimiento urbano desordenado.",
+            "objective": "Mitigar el impacto territorial y ecológico mediante la estricta planificación, fiscalización urbana y actualización del Plan de Desarrollo Urbano Sostenible.",
+            "goal": "Aprobar e implementar al 100% el Plan de Desarrollo Urbano Sostenible de Pachacámac durante el primer año de gestión (2027).",
+            "indicator": "Porcentaje de ejecución y fiscalización efectiva del Plan de Desarrollo Urbano y del catastro distrital actualizado."
+          },
+          {
+            "problem": "Desarrollo de prácticas económicas o industriales incompatibles con la preservación del ecosistema.",
+            "objective": "Regular, fiscalizar y reconvertir las actividades comerciales e industriales para asegurar la conservación del valle, las lomas y los recursos naturales del distrito.",
+            "goal": "Lograr que el 90.00% de las empresas e industrias operantes en el distrito se adecúen plenamente a la normativa ambiental para el 2030.",
+            "indicator": "Número de industrias y comercios locales que operan bajo estándares estrictos de ecoeficiencia y cumplimiento normativo ambiental municipal en parques industriales."
+          },
+          {
+            "problem": "Baja arborización y déficit crítico de áreas verdes urbanas en las macrozonas del distrito.",
+            "objective": "Promover la forestación urbana sostenible y la recuperación de espacios públicos mediante programas masivos de arborización con especies nativas y de bajo consumo hídrico.",
+            "goal": "Plantar y asegurar la supervivencia de 40,000 árboles aptos para el clima local al 2030; incrementar en un 30% la disponibilidad de espacios públicos arborizados en beneficio directo del vecino para el término de la gestión.",
+            "indicator": "Número de árboles nuevos plantados y sostenidos en avenidas, bermas y parques; índice de metros cuadrados de área verde por habitante en zonas urbanizadas."
+          },
+          {
+            "problem": "Deficiente manejo de los residuos sólidos y limitado aprovechamiento de materiales mediante el reciclaje.",
+            "objective": "Implementar un sistema integral de gestión de residuos sólidos basado en la economía circular, promoviendo la segregación en la fuente y la formalización de asociaciones de recicladores.",
+            "goal": "Lograr que el 25% del total de los residuos sólidos aprovechables del distrito ingresen al circuito de reciclaje y valorización para el 2030; formalizar e integrar al 100% de los recicladores locales informales organizados bajo el programa municipal de segregación al 2029.",
+            "indicator": "Porcentaje de residuos sólidos domiciliarios y comerciales del distrito efectivamente segregados, recolectados de forma selectiva y reciclados; número de asociaciones de recicladores formalizadas y articuladas formalmente a la cadena de valorización municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Concentración de la atención al vecino.",
+            "objective": "Descentralización político-administrativa del gobierno local y modernización digital de los trámites y servicios municipales enfocados en el ciudadano.",
+            "goal": "Poner en funcionamiento e interconectar al 100% siete Módulos de Atención al Vecino (MAVE) con ventanilla única al 2028; alcanzar el 85.00% de trámites TUPA totalmente digitalizados bajo la política de cero papeles de cara al año 2030.",
+            "indicator": "Número de Agencias Municipales Zonales completamente operativas, descentralizadas y con autonomía de atención; porcentaje de trámites del Texto Único de Procedimientos Administrativos (TUPA) digitalizados y simplificados."
+          },
+          {
+            "problem": "Debilidad en el fortalecimiento institucional para garantizar la continuidad del desarrollo.",
+            "objective": "Robustecer la institucionalidad municipal mediante la modernización de los sistemas administrativos, la transparencia pública y la meritocracia para dar sostenibilidad a largo plazo a las políticas locales.",
+            "goal": "Alcanzar el 100% en los estándares de transparencia gubernamental y un óptimo de ejecución presupuestal anual superior al 90.0% hacia el 2029.",
+            "indicator": "Índice de idoneidad en la carrera pública municipal, nivel de ejecución presupuestal y cumplimiento de estándares de transparencia activa."
+          },
+          {
+            "problem": "Falta de límites distritales definidos y saneamiento de la demarcación territorial.",
+            "objective": "Sustentar y gestionar técnicamente los expedientes de delimitación distrital ante la Municipalidad Metropolitana de Lima (MML) y la PCM, mitigando conflictos en zonas de frontera.",
+            "goal": "Presentar y sustentar técnicamente el 100% de las propuestas de demarcación de los límites en disputa antes de finalizar el año 2028; suscribir 3 convenios interdistritales para asegurar seguridad y limpieza pública continuas en zonas limítrofes.",
+            "indicator": "Número de tramos limítrofes en disputa con propuestas técnicas formalmente elevadas y sustentadas; número de convenios interinstitucionales de cogestión de servicios públicos en áreas de frontera indeterminada."
+          },
+          {
+            "problem": "Baja recaudación tributaria municipal y altos índices de morosidad en el pago de impuesto predial y arbitrios.",
+            "objective": "Fortalecer la sostenibilidad financiera del municipio mediante la modernización de la administración tributaria, la actualización catastral con tecnología GIS, y el diseño de incentivos directos de inversión pública en los sectores con mayor cumplimiento fiscal.",
+            "goal": "Incrementar la recaudación tributaria propia en un 45.0% acumulado hacia el año 2030; lograr el 85.0% de actualización del catastro predial del distrito (urbano, comercial e industrial) para el 2029.",
+            "indicator": "Porcentaje de incremento en la recaudación tributaria efectiva (recursos determinados); porcentaje de predios urbanos, rurales e industriales del distrito correctamente catastrados y sincerados en la base tributaria."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-xigVO3S4MOg-T5FSn4hjjK98bipr-6Ml",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/xigVO3S4MOg-T5FSn4hjjK98bipr-6Ml",
+      "sha256": "15f901fcb4f3b284464584386c52cae35c0bb3a5baf4ba54eaf3e323de83806a",
+      "accessedAt": "2026-10-02T23:00:22.705Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021597",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021597",
+      "sha256": "5cd24b238c17f3ebf402c40f6beef7ce4be840adf627f0a83580f18c9e7f008a",
+      "accessedAt": "2026-10-02T23:00:23.192Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

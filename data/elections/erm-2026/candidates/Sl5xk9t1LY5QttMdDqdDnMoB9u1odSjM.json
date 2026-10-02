@@ -1,0 +1,222 @@
+{
+  "id": "Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM",
+  "slug": "alan-rudy-vasquez-davila",
+  "electionId": "erm-2026",
+  "name": "Alan Rudy Vasquez Davila",
+  "givenNames": "Alan Rudy",
+  "surnames": "Vasquez Davila",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:51.140Z",
+      "sourceId": "jne-hv-Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "RIVERA IBERICO HUGO MARTIN",
+      "role": "ASESOR COMERCIAL",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "CORPORACION JHOMADE E.I.R.L.",
+      "role": "ASESOR COMERCIAL",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "EVOLUZCIONA SOLUCIONES Y CONSULTORIA S.A.C.",
+      "role": "ADMINISTRADOR",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "IPTV PERU SAC",
+      "role": "ASESOR COMERCIAL",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "GRAMOR SERVICIOS GENERALES S-A-C",
+      "role": "ADMINISTRADOR",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "MOVIMIENTO INDEPENDIENTE SANTA ROSA 2014",
+      "from": "2014",
+      "to": "2015"
+    },
+    {
+      "position": "SECRETARIO DE JUVENTUDES Y RECREACIÓN",
+      "party": "MOVIMIENTO INDEPENDIENTE SANTA ROSA 2014",
+      "from": "2014",
+      "to": "2015"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO POLITICO PERU PRIMERO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 29000,
+        "public": 0,
+        "private": 29000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMION",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6b658394-b261-4d76-bfea-9bba5f557c82.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/98a9dd24-cfb6-440f-917f-fe7381aea3df.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado, déficit crítico de espacios públicos y una amplia zona de vulnerabilidad en la faja marginal del río Rímac.",
+            "objective": "Cerrar brechas de infraestructura y mejorar la calidad de vida urbana.",
+            "goal": "Ejecutar más de 150 obras vecinales, recuperar el 100% de las obras paralizadas, construir un gran polideportivo distrital y un anfiteatro municipal.",
+            "indicator": "Número de obras vecinales ejecutadas. Porcentaje de obras paralizadas recuperadas. Número de infraestructuras de gran escala construidas."
+          },
+          {
+            "problem": "La anemia y el acceso limitado a la salud preventiva constituyen puntos críticos en los sectores vulnerables del distrito.",
+            "objective": "Ampliar el acceso a servicios de salud preventiva y especializada para la población.",
+            "goal": "Realizar más de 100,000 atenciones médicas anuales, reducir en un 20% los índices de anemia infantil e implementar dos centros especializados para adultos mayores.",
+            "indicator": "Número de atenciones médicas anuales. Porcentaje de reducción de los índices de anemia infantil. Número de centros especializados para adultos mayores implementados."
+          },
+          {
+            "problem": "Existencia de barreras de accesibilidad e inclusión laboral para una creciente población de adultos mayores y personas con discapacidad.",
+            "objective": "Garantizar servicios integrales para las poblaciones vulnerables del distrito.",
+            "goal": "Incrementar en un 60% la atención a personas vulnerables, implementar tres centros descentralizados para adultos mayores e incrementar en un 50% la participación de adultos mayores en programas municipales.",
+            "indicator": "Porcentaje de incremento en la atención a personas vulnerables. Número de centros descentralizados para adultos mayores implementados. Porcentaje de incremento en la participación de adultos mayores."
+          },
+          {
+            "problem": "La importante densidad de población joven en etapa escolar y universitaria demanda espacios de capacitación técnica que sean rápidos y accesibles.",
+            "objective": "Promover el desarrollo de capacidades y oportunidades para niños y jóvenes.",
+            "goal": "Beneficiar a más de 20,000 estudiantes, implementar 50 talleres técnicos anuales e incrementar en un 80% la participación juvenil en actividades culturales y deportivas.",
+            "indicator": "Número de estudiantes beneficiados. Número de talleres técnicos anuales implementados. Porcentaje de incremento en la participación juvenil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El comercio informal satura las principales avenidas y el tejido empresarial del distrito está constituido principalmente por micro y pequeñas empresas (MYPES).",
+            "objective": "Generar oportunidades económicas y fortalecer el comercio formal.",
+            "goal": "Formalizar 5,000 emprendimientos, generar 10,000 oportunidades laborales e implementar el Mercado Municipal.",
+            "indicator": "Número de emprendimientos formalizados. Número de oportunidades laborales generadas. Implementación del Mercado Municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito registra uno de los niveles más críticos de áreas verdes de la capital, promediando 1.86 m² por habitante, cifra muy lejana de los 9 m² recomendados por la OMS.",
+            "objective": "Convertir a San Martín de Porres en un distrito limpio y sostenible.",
+            "goal": "Plantar 100,000 árboles, incrementar en un 50% las áreas verdes y alcanzar una cobertura de limpieza pública al 100%.",
+            "indicator": "Número de árboles plantados. Porcentaje de incremento de áreas verdes. Porcentaje de cobertura de limpieza pública."
+          },
+          {
+            "problem": "Alto nivel de vulnerabilidad física y geológica por viviendas en laderas de cerros y ocupación informal en la faja marginal del río Rímac, con una capacidad de respuesta reactiva.",
+            "objective": "Fortalecer la cultura de prevención y la infraestructura del distrito para mitigar el impacto de desastres naturales, salvaguardando la vida y los activos de la población.",
+            "goal": "Implementar el Sistema de Alerta Temprana (SAT) Comunitario, ejecutar un plan agresivo de construcción de muros de contención y andenería, y actualizar el plan de operaciones de emergencia con una red de tres Almacenes Periféricos de Avanzada.",
+            "indicator": "Implementación del Sistema de Alerta Temprana (SAT) Comunitario. Ejecución del plan de construcción de muros de contención. Número de Almacenes de Avanzada implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de criminalidad, como robos y hurtos de vehículos y celulares, en un distrito extenso que requiere un enfoque de seguridad descentralizado.",
+            "objective": "Reducir significativamente los índices de delincuencia y fortalecer la percepción de seguridad.",
+            "goal": "Reducir en un 40% los delitos contra el patrimonio, incrementar en un 100% la capacidad operativa del serenazgo, instalar 500 nuevas cámaras de vigilancia y reducir en un 50% los tiempos de respuesta ante emergencias.",
+            "indicator": "Porcentaje de reducción de delitos contra el patrimonio. Porcentaje de incremento de la capacidad operativa del serenazgo. Número de cámaras de vigilancia instaladas."
+          },
+          {
+            "problem": "La burocracia y la falta de digitalización retrasan los trámites de los ciudadanos, alimentando la desconfianza en la gestión de los recursos públicos.",
+            "objective": "Transformar la municipalidad en una entidad moderna y eficiente.",
+            "goal": "Digitalizar el 100% de los trámites municipales, reducir en un 70% los tiempos de atención y publicar información financiera y de obras en tiempo real.",
+            "indicator": "Porcentaje de trámites municipales digitalizados. Porcentaje de reducción en los tiempos de atención. Publicación de información en tiempo real."
+          },
+          {
+            "problem": "Presupuesto per cápita limitado en comparación con las enormes brechas de infraestructura y vulnerabilidad social, desaprovechando las fuentes de Cooperación Internacional No Reembolsable.",
+            "objective": "Apalancar recursos técnicos, financieros y logísticos internacionales para acelerar el cumplimiento de los Objetivos de Desarrollo Sostenible (ODS) y las metas del plan distrital al 2030.",
+            "goal": "Crear la Oficina de Cooperación Internacional y Hermanamientos, formular un Banco de Proyectos Verdes para financiamiento multilateral e instaurar Mesas de Coordinación con Agencias de Cooperación para la inclusión.",
+            "indicator": "Creación de la Oficina de Cooperación Internacional. Formulación de un banco de proyectos verdes. Establecimiento de mesas de coordinación con agencias de cooperación."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM",
+      "sha256": "f9d7529e6b6afebdcc1eb5672dad377aebbdb6d3c80dfe3f17303c7cc09ee0f3",
+      "accessedAt": "2026-10-02T23:04:51.140Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017032",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017032",
+      "sha256": "85fa8e13673a7ddc73dfdb08d4c2fd50d60140d2227cc0cb67e658be5b2c982d",
+      "accessedAt": "2026-10-02T23:04:51.615Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

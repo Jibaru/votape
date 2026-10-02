@@ -1,0 +1,220 @@
+{
+  "id": "0Rnjdz0nPb_jalo_9Nwr0oEJAJfWhX5b",
+  "slug": "susana-liliana-saldana-ramos",
+  "electionId": "erm-2026",
+  "name": "Susana Liliana Saldaña Ramos",
+  "givenNames": "Susana Liliana",
+  "surnames": "Saldaña Ramos",
+  "age": 43,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:59.964Z",
+      "sourceId": "jne-hv-0Rnjdz0nPb_jalo_9Nwr0oEJAJfWhX5b"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD CIENTIFICA DEL SUR",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MODA & TRAZOS",
+      "role": "CONFECCIONISTA Y DISEÑADORA",
+      "from": "2007",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 300678.75,
+        "public": 0,
+        "private": 300678.75
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CHANGAN X7 PLUS",
+        "value": 65861.99
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9f16d454-a5ea-4635-9ee5-dbbfe4bb9957.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/358d6ccd-e098-4d68-9266-e07ad047dc60.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer los comedores populares y el programa Vaso de Leche.",
+            "objective": "Articular con el MIDIS y las organizaciones sociales de base acciones orientadas al fortalecimiento institucional, capacitación permanente, equipamiento y mejora continua de los comedores populares y vaso de leche del distrito.",
+            "goal": "Lograr el abastecimiento continuo del 100% de los comedores y vaso de leche, contar con programas permanentes de capacitación, contar con asistencia técnica y equipamiento del 100% de los comedores y vasos de leche, y capacitar al 100% de los beneficiarios para realizar emprendimientos.",
+            "indicator": "Número de comedores registrados, cantidad de talleres de capacitación, porcentaje de comedores y vasos de leche con asistencia técnica y equipamiento, y porcentaje de beneficiarios capacitados para realizar emprendimientos."
+          },
+          {
+            "problem": "Persistencia de violencia de género y abandono de personas vulnerables.",
+            "objective": "Promover políticas inclusivas y programas integrales de prevención, atención y protección frente a la violencia de género y el abandono de personas vulnerables, articulando esfuerzos entre la municipalidad, organizaciones sociales e instituciones públicas y privadas.",
+            "goal": "Reducir en 30% los casos de violencia contra la mujer, incrementar en 50% las actividades de prevención y la cobertura de atención a poblaciones vulnerables, contar con al menos 4 convenios de cooperación y 1 Centro de Noche implementado y operativo al 2030.",
+            "indicator": "Número de denuncias contra la mujer y personas en situación de vulnerabilidad, número de actividades de prevención y sensibilización, porcentaje de cobertura de atención y acompañamiento a poblaciones vulnerables, número de convenios de cooperación interinstitucional y número de Centros de Noche implementados."
+          },
+          {
+            "problem": "Persistencia de elevados niveles de inseguridad ciudadana en el distrito.",
+            "objective": "Fortalecer integralmente la seguridad ciudadana mediante la modernización tecnológica, el patrullaje integrado con la PNP, la participación organizada de las Juntas Vecinales y la recuperación sostenible de espacios públicos.",
+            "goal": "Incrementar en al menos 60% la capacidad operativa del sistema de videovigilancia, contar con la Central de Monitoreo y Videovigilancia implementada y operativa, contar con 3 casetas de auxilio rápido habilitadas al 100%, incrementar 20 camionetas y 50 motocicletas al sistema de patrullaje, reducir en al menos 50% la percepción de inseguridad y en 30% los índices de victimización, y ampliar la recuperación de espacios públicos al menos al 50% de las áreas priorizadas al 2030.",
+            "indicator": "Número de cámaras de videovigilancia operativas, número de Central de Monitoreo, número de casetas y/o puestos de auxilio rápido, cantidad de unidades de la flota vehicular del sistema de patrullaje distrital, porcentaje de percepción de inseguridad en el distrito, índice de victimización y espacios públicos recuperados."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo y emprendimiento juvenil.",
+            "objective": "Fortalecer los mecanismos de intermediación laboral, capacitación técnico-productiva y promoción del emprendimiento juvenil, articulando esfuerzos con empresas, instituciones educativas y organismos públicos y privados.",
+            "goal": "Superar la oferta de 8,000 puestos de trabajo en la bolsa laboral, implementar un programa de becas técnico-productivas, suscribir al menos 5 convenios para ampliar oportunidades de empleo y contar con un programa de acompañamiento para la formalización de negocios liderados por jóvenes al 2030.",
+            "indicator": "Número de puestos de trabajo gestionados, número de becas gestionadas, número de convenios suscritos y número de negocios formalizados."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva para la población.",
+            "objective": "Promover el acceso a servicios de salud preventiva, la promoción de hábitos saludables y la articulación con las entidades competentes del sector salud.",
+            "goal": "Incrementar la cobertura de campañas y servicios de salud preventiva, lograr la reducción de la anemia infantil con una meta de reducción adicional, lograr la prevención y control de TBC con metas verificables y contar con convenios y alianzas con instituciones de salud públicas y privadas al 2030.",
+            "indicator": "Número de campañas y servicios de salud preventiva realizadas, porcentaje de niños con anemia, porcentaje de atenciones a población con TBC y número de convenios y alianzas con instituciones de salud."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desafíos para sostener el crecimiento de la recaudación municipal y ampliar la base tributaria formal del distrito.",
+            "objective": "Modernizar el sistema de administración tributaria municipal, fortaleciendo la fiscalización, la digitalización y la cultura de cumplimiento tributario.",
+            "goal": "Consolidar la senda de crecimiento de la recaudación municipal con un incremento adicional de al menos el 40%, contar con el catastro del distrito actualizado y sectorizado, y contar con programas de beneficios para contribuyentes puntuales e incentivos al 2030.",
+            "indicator": "Porcentaje de crecimiento de la recaudación municipal, catastro del distrito actualizado y número de programas de beneficios e incentivos para contribuyentes."
+          },
+          {
+            "problem": "Insuficiente inversión privada y limitada renovación urbana en las principales zonas comerciales del distrito.",
+            "objective": "Impulsar proyectos de renovación urbana y mecanismos de promoción de la inversión privada que potencien el desarrollo económico del distrito.",
+            "goal": "Mejorar en ornato e infraestructura los Dameros A, B y C de Gamarra, formular y gestionar al menos 4 proyectos urbanos estratégicos, contar con una ordenanza de modificación de parámetros urbanísticos para galerías comerciales, incrementar en 20% la tasa de formalización empresarial y contar con al menos 50% de las vías internas del distrito recapeadas al 2030.",
+            "indicator": "Monto presupuestal para mejoramiento de ornato e infraestructura, número de proyectos urbanos estratégicos, número de iniciativas de ordenanza para modificación de parámetros urbanísticos (TUSNE), porcentaje de tasa de formalización empresarial y número de vías internas recapeadas."
+          },
+          {
+            "problem": "Necesidad de consolidar el posicionamiento de La Victoria como polo comercial.",
+            "objective": "Promover el distrito como centro de comercio, producción y servicios de calidad a nivel nacional, a través de la puesta en valor de las áreas comerciales y productivas, para mejorar el posicionamiento económico del distrito.",
+            "goal": "Realizar al menos 16 campañas y eventos de promoción comercial, consolidar el crecimiento de la facturación de los conglomerados comerciales recuperando las cifras pre pandemia, y lograr la participación de las empresas del distrito en al menos 8 ferias locales, nacionales e internacionales al 2030.",
+            "indicator": "Número de campañas y eventos de promoción, monto de facturación de los conglomerados comerciales y cantidad de ferias locales, nacionales e internacionales."
+          },
+          {
+            "problem": "Limitada articulación entre la formación laboral y el mercado local.",
+            "objective": "Fortalecer la capacitación, certificación de competencias y empleabilidad de la población, articulando su acceso a oportunidades laborales y reinserción en el mercado formal a través del Programa Plan Chamba.",
+            "goal": "Incrementar en 50% el número de personas capacitadas y certificadas, implementar el Programa Plan Chamba para la inserción laboral de hasta 70,000 victorianos, implementar la Incubadora Municipal y contar con 24 proyectos de incubación, formalizando al menos el 40% de los emprendimientos atendidos al 2030.",
+            "indicator": "Número de personas capacitadas y certificadas, número de empleos generados, número de incubadoras municipales y número de proyectos de incubación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de consolidar la gestión integral del espacio público y la sostenibilidad ambiental.",
+            "objective": "Implementar una gestión integral del espacio público y sostenibilidad ambiental del distrito, fortaleciendo la recuperación de parques, ampliación de áreas verdes, mitigación de riesgos en zonas vulnerables y consolidación del modelo de economía circular.",
+            "goal": "Ejecutar los expedientes técnicos para alcanzar el 100% de parques recuperados, ejecutar al menos el 50% de los muros de contención priorizados, incrementar progresivamente la ratio de áreas verdes y asegurar el funcionamiento al 100% del canal de Huatica para el riego de parques al 2030.",
+            "indicator": "Número de parques habilitados, número de muros de contención ejecutados, porcentaje de ratio de áreas verdes por habitante y cantidad de intervenciones en el canal de Huatica."
+          },
+          {
+            "problem": "Contaminación ambiental por el parque automotor y la falta de arborización.",
+            "objective": "Implementar un programa integral de arborización y mitigación ambiental urbana mediante la instalación de barreras ecológicas naturales, el incremento de áreas verdes y acciones de reducción de los impactos de la contaminación vehicular.",
+            "goal": "Incorporar 3,000 árboles adicionales, implementar proyectos ambientales adicionales para la mejora del entorno urbano y contar con un plan de arborización descentralizado con especies forestales acordes a la ciudad y de bajo requerimiento hídrico al 2030.",
+            "indicator": "Número de árboles instalados en el distrito, número de proyectos ambientales desarrollados y número del plan de arborización descentralizado."
+          },
+          {
+            "problem": "Necesidad de fortalecer la gestión integral de los residuos sólidos.",
+            "objective": "Implementar y fortalecer un sistema integral de gestión ambiental y residuos sólidos basado en economía circular, incluyendo la optimización del PIGARS, el fortalecimiento de la segregación en la fuente, campañas de educación ambiental y monitoreo de calidad ambiental.",
+            "goal": "Contar con un Programa Distrital de Segregación en la Fuente, un sistema continuo de monitoreo de calidad del aire, ampliar la cobertura del Programa EDUCCA, fortalecer el PIGARS y contar con un registro de recolectores de residuos sólidos aprovechables al 2030.",
+            "indicator": "Programa Distrital de Segregación en la Fuente implementado, número de monitoreos de aire, número de capacitaciones ambientales, nivel de implementación del PIGARS y registro de recolectores de residuos sólidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la modernización y simplificación de los procedimientos administrativos municipales.",
+            "objective": "Modernizar y optimizar los procedimientos administrativos para mejorar la eficiencia institucional y la calidad de atención al ciudadano.",
+            "goal": "Contar con un sistema de medición de trámites y simplificar los principales procedimientos municipales, reducir progresivamente las quejas por demora en trámites y contar con un TUPA e índice de usos actualizado al 2030.",
+            "indicator": "Número de procedimientos simplificados, número de quejas atendidas y número de modificaciones del TUPA e Índice de usos."
+          },
+          {
+            "problem": "Necesidad de fortalecer los mecanismos de transparencia y acceso a la información pública.",
+            "objective": "Fortalecer la transparencia institucional mediante mecanismos de acceso oportuno a la información, rendición de cuentas y gobierno abierto.",
+            "goal": "Cumplir al 100% con la atención de solicitudes de acceso a la información pública y fortalecer el sistema de denuncias anónimas contra los malos servidores públicos.",
+            "indicator": "Porcentaje de solicitudes de información atendidas en plazo y número de denuncias anónimas contra malos servidores públicos."
+          },
+          {
+            "problem": "Necesidad de fortalecer la participación ciudadana.",
+            "objective": "Promover mecanismos de participación ciudadana, concertación y articulación vecinal para una gestión más cercana a la población.",
+            "goal": "Contar con un sistema de medición de espacios de participación y realizar encuentros vecinales periódicos en todos los sectores del distrito al 2030.",
+            "indicator": "Número de espacios de participación realizados."
+          },
+          {
+            "problem": "Necesidad de una transformación digital en la gestión municipal.",
+            "objective": "Implementar un modelo de gobierno digital orientado a la digitalización de trámites y la mejora de los servicios municipales.",
+            "goal": "Contar con la digitalización de los procedimientos municipales, una nueva web y aplicativo institucional, y un sistema de monitoreo actualizado para recolección de residuos, patrullaje y fiscalización mediante GPS al 2030.",
+            "indicator": "Porcentaje de trámites digitalizados, número de plataformas digitales institucionales y número de sistemas de monitoreo en servicios clave."
+          },
+          {
+            "problem": "Debilitamiento de la capacidad de supervisión y fiscalización municipal.",
+            "objective": "Desarrollar procedimientos normativos, técnicos y de acción claros, efectivos y eficientes en las actividades de supervisión y regulación.",
+            "goal": "Contar con el 100% de personal capacitado en fiscalización con indicadores medibles y con un programa que incentive la formalidad y el buen uso de los espacios públicos al 2030.",
+            "indicator": "Porcentaje de personal capacitado en acciones de fiscalización y número de programas de incentivos a la formalidad implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-0Rnjdz0nPb_jalo_9Nwr0oEJAJfWhX5b",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/0Rnjdz0nPb_jalo_9Nwr0oEJAJfWhX5b",
+      "sha256": "6d2d0174a46af6cc69ade31e60423100a0e72e9b5705d950f4e7818e9304a5e2",
+      "accessedAt": "2026-10-02T22:57:59.964Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018149",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018149",
+      "sha256": "0092e122b13958665ad31e42c1c24dfdf1920d32a4d9fa601f709b14628f30db",
+      "accessedAt": "2026-10-02T22:58:00.455Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "8arJCmxIFRiGeW4SMvrj5rml3ai7XduN",
+  "slug": "carolina-mannucci-arambulo",
+  "electionId": "erm-2026",
+  "name": "Carolina Mannucci Arambulo",
+  "givenNames": "Carolina",
+  "surnames": "Mannucci Arambulo",
+  "age": 45,
+  "gender": "Femenino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:10.364Z",
+      "sourceId": "jne-hv-8arJCmxIFRiGeW4SMvrj5rml3ai7XduN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias e Informática S.A.C.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias e Informática S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACIÓN MANNUCCI EIRL",
+      "role": "GENRENTE GENERAL",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "SOESCO SAC",
+      "role": "GERENTE ADMINISTRATIVO",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "MARUVAL SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2018",
+      "to": "2026"
+    },
+    {
+      "employer": "ATC MULTISERVICIOS SAC",
+      "role": "GERENTE DE OPERACIONES",
+      "from": "2007",
+      "to": "2013"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 251594,
+        "public": 0,
+        "private": 251594
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 80000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 980000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 280000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 19504,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "FORD EDGE AÑO 2017",
+        "value": 40000
+      },
+      {
+        "type": "NISSAN FIERA AÑO 1995",
+        "value": 5000
+      },
+      {
+        "type": "WW T CROSS",
+        "value": 57000
+      },
+      {
+        "type": "VOLVO 460 AÑO 1997",
+        "value": 8000
+      },
+      {
+        "type": "AUDI ITAÑO 2018",
+        "value": 96000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACIÓN MANNUCCI EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 1100,
+        "value": 1100
+      },
+      {
+        "company": "CONSTRUCCIONES DE PAVIMENTOS NACIONALES SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 1500,
+        "value": 500
+      },
+      {
+        "company": "HARUVAL SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 2700,
+        "value": 2700
+      },
+      {
+        "company": "CAR Y COFFEE PERU SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 1500,
+        "value": 1500
+      },
+      {
+        "company": "TRANSPORTE SOESCO SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 1500,
+        "value": 1500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2daa9906-f977-48ed-92bd-c7b07644d372.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/448722ea-80e1-4997-93e5-dae317f5231d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la inseguridad ciudadana, robos y percepción de inseguridad en calles y espacios públicos.",
+            "objective": "Fortalecer la seguridad ciudadana y la convivencia vecinal mediante vigilancia integrada, prevención y participación ciudadana.",
+            "goal": "- Reducir en 30% los delitos menores. - Instalar y modernizar 100% de cámaras en zonas críticas. - Implementar juntas vecinales en todos los sectores del distrito. - Incrementar en 40% la percepción positiva de seguridad.",
+            "indicator": "- % de reducción de delitos reportados. - Número de cámaras operativas. - Número de juntas vecinales activas. - Nivel de percepción de seguridad ciudadana"
+          },
+          {
+            "problem": "Débil acceso a programas deportivos, culturales y recreativos para jóvenes, niños y adultos mayores.",
+            "objective": "Impulsar el deporte, la cultura y la recreación inclusiva para fortalecer el desarrollo humano y la integración social.",
+            "goal": "- Incrementar en 50% la participación vecinal. - Implementar programas deportivos y culturales permanentes en todos los sectores. - Recuperar y habilitar 20 espacios públicos recreativos",
+            "indicator": "- Número de talleres deportivos y culturales. - Participación vecinal en actividades municipales. - Número de espacios recuperados para recreación."
+          },
+          {
+            "problem": "Insuficiente atención a salud preventiva y bienestar integral de vecinos y mascotas.",
+            "objective": "Promover programas de salud preventiva, bienestar familiar y protección animal.",
+            "goal": "- Realizar campañas integrales trimestrales de salud. - Ejecutar campañas veterinarias gratuitas permanentes. - Incrementar en 60% el registro y atención de mascotas.",
+            "indicator": "- Número de campañas de salud realizadas. - Número de campañas veterinarias. - Número de mascotas registradas y atendidas."
+          },
+          {
+            "problem": "Limitada participación ciudadana y débil integración vecinal.",
+            "objective": "Fortalecer la participación ciudadana y la gestión municipal cercana y democrática.",
+            "goal": "- Realizar audiencias públicas descentralizadas semestrales. - Alcanzar 80% de satisfacción ciudadana. - Incrementar en 50% la participación vecinal organizada.",
+            "indicator": "- Número de audiencias vecinales. - Nivel de satisfacción ciudadana. - Participación en presupuesto participativo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Informalidad comercial y desorden urbano en zonas comerciales.",
+            "objective": "Recuperar el orden urbano promoviendo comercio formal y sostenible.",
+            "goal": "- Formalizar 40% de comercios informales. - Recuperar espacios públicos ocupados informalmente. - Mejorar en 70% el ordenamiento comercial del distrito.",
+            "indicator": "- Número de operativos de fiscalización. - % de comercios formalizados. - Nivel de ordenamiento urbano."
+          },
+          {
+            "problem": "Limitadas oportunidades para emprendedores y pequeños comerciantes.",
+            "objective": "Impulsar el comercio local y el emprendimiento mediante capacitación y simplificación administrativa.",
+            "goal": "- Capacitar a más de 3,000 emprendedores - Reducir en 50% el tiempo de trámites municipales. - Realizar ferias comerciales mensuales.",
+            "indicator": "- Número de emprendedores capacitados. - Número de licencias emitidas. - Ferias comerciales realizadas."
+          },
+          {
+            "problem": "Baja incorporación de innovación y tecnología en actividades económicas locales.",
+            "objective": "Modernizar y digitalizar los servicios municipales y económicos.",
+            "goal": "- Digitalizar el 100% de trámites prioritarios. - Reducir en 60% los tiempos de atención. - Implementar plataforma integral de atención virtual vecinal.",
+            "indicator": "- Número de trámites digitales implementados. - Uso de plataformas virtuales municipales. - Tiempo promedio de atención al ciudadano."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasa cultura ambiental y protección insuficiente del bienestar animal.",
+            "objective": "Fomentar educación ambiental y políticas de bienestar animal.",
+            "goal": "- Realizar campañas ambientales en instituciones educativas y comunidades. - Ejecutar campañas masivas de esterilización. - Implementar un programa distrital permanente de bienestar animal.",
+            "indicator": "- Número de campañas educativas. - Número de mascotas esterilizadas. - Número de denuncias atendidas por maltrato animal."
+          },
+          {
+            "problem": "Déficit de áreas verdes y deterioro de espacios públicos.",
+            "objective": "Recuperar y ampliar áreas verdes y espacios públicos sostenibles.",
+            "goal": "- Recuperar y mejorar el 100% de parques priorizados. - Incrementar áreas verdes por habitante. - Implementar mantenimiento permanente de espacios públicos.",
+            "indicator": "- Metros cuadrados de áreas verdes recuperadas. - Número de parques rehabilitados. - Índice de mantenimiento urbano."
+          },
+          {
+            "problem": "Contaminación ambiental y manejo inadecuado de residuos sólidos.",
+            "objective": "Promover una gestión ambiental sostenible y responsable.",
+            "goal": "- Incrementar en 50% el reciclaje distrital. - Implementar programas de segregación en todos los sectores. - Realizar campañas ambientales permanentes.",
+            "indicator": "- Toneladas de residuos reciclados. - Número de campañas ambientales. - % de segregación de residuos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escasa articulación entre municipalidad y organizaciones vecinales.",
+            "objective": "Consolidar una gestión participativa y articulada con la comunidad.",
+            "goal": "- Implementar mesas de trabajo permanentes por sector. - Incrementar la participación de organizaciones sociales y vecinales. - Ejecutar proyectos concertados con participación ciudadana.",
+            "indicator": "- Número de convenios y mesas de trabajo. - Participación de organizaciones sociales. - Número de proyectos concertados."
+          },
+          {
+            "problem": "Procesos municipales lentos, burocráticos y poco transparentes.",
+            "objective": "Modernizar la gestión pública con enfoque digital, eficiente y transparente.",
+            "goal": "- Digitalizar los principales servicios municipales. - Reducir en 60% el tiempo de respuesta. - Publicar información municipal actualizada permanentemente.",
+            "indicator": "- Número de servicios digitalizados. - Tiempo de respuesta municipal. - Índice de transparencia institucional."
+          },
+          {
+            "problem": "Débil confianza ciudadana en la gestión pública local.",
+            "objective": "Fortalecer la gobernanza democrática y la rendición de cuentas.",
+            "goal": "- Realizar rendiciones de cuentas trimestrales. - Incrementar en 50% la confianza vecinal. - Consolidar mecanismos de vigilancia ciudadana.",
+            "indicator": "- Número de rendiciones públicas realizadas. - Nivel de confianza ciudadana. - Participación en mecanismos de control ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-8arJCmxIFRiGeW4SMvrj5rml3ai7XduN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/8arJCmxIFRiGeW4SMvrj5rml3ai7XduN",
+      "sha256": "c5f03224e033fedb48f13f2a59df2b22fc7c8023562fb5913019f2928ec3a690",
+      "accessedAt": "2026-10-02T23:05:10.364Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016018",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016018",
+      "sha256": "efeba0259c6b1e477e5465ae32dc39942fe62a82c7227e3af9be806c1546f938",
+      "accessedAt": "2026-10-02T23:05:10.850Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

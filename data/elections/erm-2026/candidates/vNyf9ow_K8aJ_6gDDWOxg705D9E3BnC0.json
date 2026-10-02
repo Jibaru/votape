@@ -1,0 +1,238 @@
+{
+  "id": "vNyf9ow_K8aJ_6gDDWOxg705D9E3BnC0",
+  "slug": "alberto-fernando-moreno-mejia",
+  "electionId": "erm-2026",
+  "name": "Alberto Fernando Moreno Mejia",
+  "givenNames": "Alberto Fernando",
+  "surnames": "Moreno Mejia",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:49.129Z",
+      "sourceId": "jne-hv-vNyf9ow_K8aJ_6gDDWOxg705D9E3BnC0"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "EN CURSO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "AG PROYECTOS Y CONSTRUCCION SAC",
+      "role": "ADMINISTRADOR",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "MOVIMIENTO INDEPENDIENTE SOMOS PERU",
+      "from": "1999",
+      "to": "2002"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2003",
+      "to": "2006"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2023"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 98969,
+        "public": 0,
+        "private": 98969
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA NISSAN MODELO XTRAIL",
+        "value": 36000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "ACREDITADO COMO CONCILIADOR EXTRAJUDICIAL CON NÚMEROS DE REGISTRO Nº 81641 DEL MINJUS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a84dc8b7-2f3c-4659-8a1a-6e7811dfb4a2.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2fbb4e5a-78f8-45ab-832d-1234855b54e4.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil atención a población vulnerable.",
+            "objective": "Implementar programas sociales permanentes.",
+            "goal": "Cobertura en los sectores vulnerables del distrito.",
+            "indicator": "Cantidad de beneficiarios."
+          },
+          {
+            "problem": "Deficiente mantenimiento de parques.",
+            "objective": "Recuperar espacios públicos y áreas recreativas.",
+            "goal": "Recuperar y mantener el 100% de parques principales.",
+            "indicator": "Número de parques recuperados."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana.",
+            "objective": "Fortalecer la seguridad ciudadana mediante tecnología y trabajo articulado.",
+            "goal": "Reducir en 80% los índices de delincuencia.",
+            "indicator": "Reducción de denuncias por robos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio informal desordenado.",
+            "objective": "Promover la formalización comercial.",
+            "goal": "Formalizar en un 30% a los comerciantes informales.",
+            "indicator": "Número de comerciantes formalizados."
+          },
+          {
+            "problem": "Baja recaudación tributaria.",
+            "objective": "Modernizar el sistema de recaudación municipal y mejorar la calidad del servicio que brinda la entidad.",
+            "goal": "Incrementar la recaudación en un 75%",
+            "indicator": "Incremento de recaudación y mejoras de los servicios."
+          },
+          {
+            "problem": "Lentitud en trámites municipales.",
+            "objective": "Digitalizar los servicios municipales.",
+            "goal": "Digitalizar el 100% de trámites.",
+            "indicator": "Cantidad de trámites digitalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de áreas verdes.",
+            "objective": "Incrementar y recuperar áreas verdes.",
+            "goal": "Incrementar en 60% las áreas verdes.",
+            "indicator": "Metros cuadrados recuperados."
+          },
+          {
+            "problem": "Manejo inadecuado de residuos sólidos.",
+            "objective": "Implementar un sistema moderno de recolección de residuos sólidos e implementar programas de reciclaje.",
+            "goal": "Reducir en 70% los puntos críticos de contaminación.",
+            "indicator": "Cantidad de residuos sólidos y materiales reciclados."
+          },
+          {
+            "problem": "Deficiente cultura ambiental.",
+            "objective": "Promover campañas estratégicas de educación ambiental.",
+            "goal": "Programas ambientales en todos los sectores.",
+            "indicator": "Número de campañas ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia.",
+            "objective": "Implementar mecanismos de rendición de cuentas.",
+            "goal": "Audiencias públicas de acuerdo a ley.",
+            "indicator": "Nivel de satisfacción vecinal."
+          },
+          {
+            "problem": "Escasa digitalización municipal.",
+            "objective": "Implementar una municipalidad digital.",
+            "goal": "Lograr altos niveles de transparencia y confianza.",
+            "indicator": "Número de plataformas digitales."
+          },
+          {
+            "problem": "Burocracia y lentitud administrativa.",
+            "objective": "Modernizar la gestión administrativa municipal.",
+            "goal": "Reducir en 60% los tiempos de atención.",
+            "indicator": "Tiempo promedio de atención."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-139223",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "2º JUAZGADO CIVIL - COMERCIAL",
+        "expediente": "02155-2010-0-1817-JR-CO-02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-vNyf9ow_K8aJ_6gDDWOxg705D9E3BnC0"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-vNyf9ow_K8aJ_6gDDWOxg705D9E3BnC0",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vNyf9ow_K8aJ_6gDDWOxg705D9E3BnC0",
+      "sha256": "bcd7c3b87c1a71273ba84e5177fe013730ea26a9a8257cb9d11e8b63891f6096",
+      "accessedAt": "2026-10-02T22:57:49.129Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015959",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015959",
+      "sha256": "5d634722203060ee5af5b57822b4cc5a4a6622d85f60042f2e7dad201e667ef9",
+      "accessedAt": "2026-10-02T22:57:49.622Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

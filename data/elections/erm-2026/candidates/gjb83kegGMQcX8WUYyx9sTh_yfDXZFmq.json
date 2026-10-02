@@ -1,0 +1,241 @@
+{
+  "id": "gjb83kegGMQcX8WUYyx9sTh_yfDXZFmq",
+  "slug": "oscar-ramirez-rojas",
+  "electionId": "erm-2026",
+  "name": "Oscar Ramirez Rojas",
+  "givenNames": "Oscar",
+  "surnames": "Ramirez Rojas",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:42.833Z",
+      "sourceId": "jne-hv-gjb83kegGMQcX8WUYyx9sTh_yfDXZFmq"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN CIENCIAS ECONOMICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SUCESION INDIVISA RAMIREZ BULLON JESUS ALEJANDRO",
+      "role": "Gerente",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA NACIONAL DE TRABAJADORES AGRICULTORES UNIVERSITARIOS RESERVISTAS Y OBREROS",
+      "year": "2025"
+    },
+    {
+      "party": "VAMOS PERU",
+      "year": "2016"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 52782,
+        "public": 0,
+        "private": 52782
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11255.63,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11255.63,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "moto lineal",
+        "value": 3500
+      },
+      {
+        "type": "camioneta rural x-traile",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "EMPRESA DE SERVICIOS MULTIPLES Y TURISMO PAQUEÑITO INN SOCIEDAD ANONIMA CERRADA",
+        "type": "ACCIONES",
+        "quantity": 640,
+        "value": 6400
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/69dc3dd6-7773-400a-9704-ae63a4ca3172.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d96ff8f5-f3fe-400c-af29-659a6a6687d2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente cobertura y acceso a servicios de salud preventiva, con alta demanda en salud mental, materno infantil y control de enfermedades.",
+            "objective": "Fortalecer la promoción de la salud, la prevención de enfermedades y la articulación con los servicios de atención médica.",
+            "goal": "Al 2029, lograr que al menos el 30% de la población acceda a una actividad preventiva municipal durante el periodo de gestión.",
+            "indicator": "Porcentaje de población alcanzada por actividades preventivas municipales."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana y victimización por delitos contra el patrimonio en el distrito.",
+            "objective": "Reducir la inseguridad y mejorar la convivencia ciudadana mediante un enfoque integral de prevención y respuesta.",
+            "goal": "Al 2029, lograr que el 100% de las zonas cuenten con patrullaje programado, reducir los tiempos de respuesta del serenazgo, disminuir los delitos priorizados e incrementar la percepción de seguridad.",
+            "indicator": "Tasa o número de incidencias priorizadas atendidas por el serenazgo."
+          },
+          {
+            "problem": "Poblaciones vulnerables como adultos mayores, personas con discapacidad, mujeres y niños, requieren servicios municipales oportunos y articulados.",
+            "objective": "Proteger a la población vulnerable a través del fortalecimiento de programas sociales y atención prioritaria.",
+            "goal": "Al 2029, lograr que el 40% de la población vulnerable identificada reciba intervención o derivación municipal.",
+            "indicator": "Población vulnerable con intervención municipal registrada."
+          },
+          {
+            "problem": "Limitada oferta de actividades culturales y deportivas que fomenten el desarrollo personal y la cohesión comunitaria.",
+            "objective": "Promover la cultura y el deporte mediante la implementación de escuelas, talleres y la recuperación de espacios públicos.",
+            "goal": "Al 2029, incrementar la participación ciudadana en cultura y deporte en un 40% considerando como base la meta establecida en el último año.",
+            "indicator": "Nivel de participación ciudadana en actividades culturales y deportivas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existencia de barreras burocráticas y trámites complejos que dificultan la creación y formalización de nuevos negocios.",
+            "objective": "Simplificar los trámites municipales para licencias y otros procedimientos, a fin de impulsar nuevos emprendimientos.",
+            "goal": "Al 2030, lograr que el 80% de los trámites priorizados estén disponibles o se inicien de manera digital.",
+            "indicator": "Porcentaje de trámites priorizados disponibles o iniciados digitalmente."
+          },
+          {
+            "problem": "Débil competitividad y formalización de las micro y pequeñas empresas (MYPE) y emprendimientos locales.",
+            "objective": "Fortalecer las MYPE y los emprendimientos a través de capacitación, ferias y alianzas estratégicas.",
+            "goal": "Al 2030, contar con MYPE capacitadas y asistidas, con una medición anual del progreso en su formalización.",
+            "indicator": "Número de MYPE capacitadas y asistidas."
+          },
+          {
+            "problem": "Desarticulación entre la oferta y la demanda laboral en el distrito, afectando principalmente a los jóvenes.",
+            "objective": "Promover el empleo local mediante la implementación de una bolsa laboral distrital y programas de capacitación.",
+            "goal": "Mantener una bolsa laboral activa con reportes trimestrales de colocación y gestión.",
+            "indicator": "Reportes de actividad de la bolsa laboral distrital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de la limpieza pública, con existencia de puntos críticos de acumulación de residuos sólidos.",
+            "objective": "Mejorar la limpieza pública a través de la optimización de rutas de barrido y recolección, y el control de puntos críticos.",
+            "goal": "Lograr una reducción progresiva de los puntos críticos de residuos sólidos en el distrito para el año 2029.",
+            "indicator": "Número de puntos críticos de residuos sólidos reducidos."
+          },
+          {
+            "problem": "Bajos niveles de valorización y reciclaje de residuos sólidos, con escasa segregación en la fuente.",
+            "objective": "Fomentar la valorización y el reciclaje mediante programas de segregación en la fuente y formalización de recicladores.",
+            "goal": "Al 2029, tener un programa de segregación funcionando en las zonas priorizadas del distrito.",
+            "indicator": "Implementación de programas de segregación en zonas priorizadas."
+          },
+          {
+            "problem": "Déficit de áreas verdes y falta de mantenimiento de los espacios existentes, afectando la calidad ambiental y recreativa.",
+            "objective": "Aumentar y mantener las áreas verdes del distrito, incluyendo la recuperación de la ribera del río Rímac.",
+            "goal": "Lograr un incremento anual de metros cuadrados de áreas verdes recuperadas o mantenidas hasta el 2029.",
+            "indicator": "Metros cuadrados (m²) de áreas verdes recuperadas o mantenidas."
+          },
+          {
+            "problem": "Desorden en el crecimiento urbano y la movilidad, caracterizado por congestión, informalidad y ocupación de vías.",
+            "objective": "Mejorar el ordenamiento territorial y la movilidad urbana mediante la actualización catastral y la fiscalización del comercio y transporte.",
+            "goal": "Contar con un plan de ordenamiento urbano y movilidad con metas por zona para el año 2029.",
+            "indicator": "Grado de avance en la ejecución del plan de ordenamiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de modernizar la gestión municipal para hacerla más eficiente, ágil y orientada al ciudadano.",
+            "objective": "Modernizar la municipalidad a través de la gestión por procesos, la capacitación del personal y la implementación del gobierno digital.",
+            "goal": "Alcanzar el 95% de cumplimiento físico de las actividades prioritarias para el año 2029.",
+            "indicator": "Porcentaje de cumplimiento físico de las actividades prioritarias programadas."
+          },
+          {
+            "problem": "Insuficientes mecanismos de transparencia y rendición de cuentas sobre la gestión municipal y el uso de recursos.",
+            "objective": "Transparentar los resultados de la gestión municipal mediante la publicación de información y la rendición de cuentas periódica.",
+            "goal": "Mantener un tablero público de indicadores actualizado trimestralmente y realizar dos rendiciones de cuentas por año.",
+            "indicator": "Publicación de rendiciones de cuentas y tablero de indicadores."
+          },
+          {
+            "problem": "Limitados canales para la participación ciudadana y deficiente calidad en la atención a los vecinos.",
+            "objective": "Mejorar la atención y fortalecer la participación ciudadana en la toma de decisiones y vigilancia de la gestión.",
+            "goal": "Lograr la reducción de los tiempos de respuesta, fomentar la participación ciudadana y emitir un reporte público de la atención.",
+            "indicator": "Tiempos de respuesta a solicitudes y reportes de atención."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-gjb83kegGMQcX8WUYyx9sTh_yfDXZFmq",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/gjb83kegGMQcX8WUYyx9sTh_yfDXZFmq",
+      "sha256": "abf7942ac0549e3172ea17ac228ac002fdd30ad6d501a65b4f728a4601482472",
+      "accessedAt": "2026-10-02T22:50:42.833Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021238",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021238",
+      "sha256": "6b395d2f112ac43b97e64353a3fae85c1cb03003653e1119b65cd0e4c088380d",
+      "accessedAt": "2026-10-02T22:50:43.309Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

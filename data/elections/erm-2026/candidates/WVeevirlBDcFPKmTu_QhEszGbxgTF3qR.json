@@ -1,0 +1,295 @@
+{
+  "id": "WVeevirlBDcFPKmTu_QhEszGbxgTF3qR",
+  "slug": "ortensia-la-torre-cervantes",
+  "electionId": "erm-2026",
+  "name": "Ortensia La Torre Cervantes",
+  "givenNames": "Ortensia",
+  "surnames": "La Torre Cervantes",
+  "age": 49,
+  "gender": "Femenino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140139",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:44.552Z",
+      "sourceId": "jne-hv-WVeevirlBDcFPKmTu_QhEszGbxgTF3qR"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CIMA",
+        "program": "COMPUTACIÓN E INFORMATICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "INSTITUTO PERUANO GOBIERNO",
+        "program": "ESP. EN GESTIOÓN PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CHLT INVERSIONES Y CONSULTORES EIRL",
+      "role": "TITULAR GERENTE",
+      "from": "2018",
+      "to": "2026"
+    },
+    {
+      "employer": "INGENIERIA E INMOBILIARIA JJ E.I.R.L",
+      "role": "GERENTE GENERAL",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE VILLA MARIA DEL TRIUNFO",
+      "role": "ESP. TEMAS COMERCIALES Y ADMINISTRATIVO GERENCIA DE DESARROLLO ECONOMICO",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE PACHACAMAC",
+      "role": "ASISTENTE ADMINISTRATIVO SUB. TESORERIA",
+      "from": "2017",
+      "to": "2018"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN LUIS",
+      "role": "ASISTENTE GERENCIA ADMINISTRACION",
+      "from": "2016",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 78000,
+        "public": 48000,
+        "private": 30000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 9024,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 405064.56,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "CASA",
+        "value": 60116.61,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "COORPORACION CHAHUA",
+        "value": 175010
+      },
+      {
+        "type": "AÑO 1987",
+        "value": 5500
+      },
+      {
+        "type": "SOCIEDAD CONYUGAL",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CHLT INVERSIONES Y CONSULTORES E.I.R.L",
+        "type": "ACCIONES",
+        "quantity": 50000,
+        "value": 50000
+      },
+      {
+        "company": "CORPORACIÓN CHAHUA SAC.",
+        "type": "ACCIONES",
+        "quantity": 34000,
+        "value": 34000
+      },
+      {
+        "company": "CORPORACION J&J CHAVEZ E.I.R.L",
+        "type": "ACCIONES",
+        "quantity": 60000,
+        "value": 60000
+      },
+      {
+        "company": "INGENIERIA E INMOBILIARIA JJ E.I.R.L",
+        "type": "ACCIONES",
+        "quantity": 50000,
+        "value": 50000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/35f39fbd-da61-472e-ab51-74510c86a6b6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f544c2d2-1c19-453d-962f-78b41bfa4acf.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta proliferación de micro comercialización de drogas.",
+            "objective": "Implementar el uso de drones y vigilancia aérea (Programa AVISPA) para identificar puntos de venta y realizar seguimiento. Coordinar con otras instituciones para implementar talleres de prevención en centros educativos, fortaleciendo la autoestima y brindando información sobre los riesgos del consumo.",
+            "goal": "Reducir en un mínimo del 20% los puntos de comercialización de drogas.",
+            "indicator": "Intensificación de intervenciones contra la micro comercialización de droga, logrando identificar inmuebles donde operaban fiestas clandestinas y se realizaba venta de drogas."
+          },
+          {
+            "problem": "Falta de capacitación y créditos adecuados para la mujer emprendedora.",
+            "objective": "Capacitar a las mujeres para emprender, impulsando el desarrollo económico, cerrando brechas de género y fomentando la innovación. Se creará el programa de capacitación para la mujer emprendedora \"CAMELIA\", que combinará el desarrollo de habilidades técnicas con el empoderamiento personal y el acceso a redes de apoyo.",
+            "goal": "Lograr que un mínimo del 50% de las participantes de los talleres productivos sostengan su emprendimiento a lo largo del tiempo y conseguir la participación de un mínimo de 50 vecinas en el programa \"CAMELIA\".",
+            "indicator": "Poco conocimiento en educación financiera y del mercado por parte de las participantes en talleres productivos."
+          },
+          {
+            "problem": "Alto índice de casos de violencia contra la mujer y grupos familiares.",
+            "objective": "Realizar una articulación interinstitucional para implementar talleres de prevención como \"Noviazgos sin Violencia\", con actividades de sensibilización en barrios y escuelas. Además, articular espacios como conversatorios femeninos descentralizados para ofrecer orientación psicológica y legal.",
+            "goal": "Reducir en un mínimo del 10% los casos de violencia de género y lograr un mínimo de 12 conversatorios femeninos en distintas zonas del distrito.",
+            "indicator": "Aumento de los casos reportados en la DEMUNA y Comisaría respecto a la violencia contra la mujer y el grupo familiar."
+          },
+          {
+            "problem": "Aumento de casos de afectación en la salud emocional y mental de niños y adolescentes.",
+            "objective": "Gestionar y coordinar la implementación de talleres de habilidades socioemocionales en escuelas locales. Capacitar a docentes y personal escolar para detectar señales tempranas de riesgo de salud mental y acoso escolar. Fomentar actividades de \"educación para el trabajo\" y organizar actividades culturales, artísticas y deportivas.",
+            "goal": "Implementar como mínimo un taller mensual referente a habilidades socioemocionales y lograr la participación de los docentes de todos los colegios del distrito para detectar en los niños y adolescentes en edad escolar, signos que ponen en riesgo la salud mental de los estudiantes.",
+            "indicator": "Incremento significativo de casos de niños y adolescentes en el centro de salud mental comunitario, derivados por las escuelas por presentar señales de ansiedad, frustración y manejo de emociones."
+          },
+          {
+            "problem": "Deserción escolar por discriminación en neurodiversidad.",
+            "objective": "Establecer un cronograma de campañas de salud comunitaria, información y sensibilización sobre la neurodiversidad. Crear espacios públicos inclusivos y seguros en parques, con señalética, pictogramas y mapas sensoriales. Fortalecer el área de OMAPED con talleres de habilidades sociales y manejo de emociones.",
+            "goal": "Realizar una vez al mes y de manera descentralizada campañas de información y sensibilización sobre neurodiversidad. Lograr como mínimo la creación de dos espacios públicos inclusivos.",
+            "indicator": "Incremento de casos en el área de OMAPED de niños que han tenido que dejar la escuela por falta de adaptación en las mismas."
+          },
+          {
+            "problem": "Falta de identidad local y sentido de pertenencia.",
+            "objective": "Organizar a través de una agenda cultural local, actividades culturales, artísticas y deportivas para promover la interacción social sana y el sentido de pertenencia.",
+            "goal": "No se especifica una meta.",
+            "indicator": "Alto desconocimiento por parte de pobladores de los sectores 1, 2 y 5 sobre las fiestas tradicionales del distrito y lugares patrimoniales."
+          },
+          {
+            "problem": "Falta de centros alternativos de estudios para jóvenes que terminan la educación secundaria.",
+            "objective": "Crear la Casa de la Juventud, garantizando una infraestructura adecuada para la implementación del programa \"Jóvenes productivos\", que permitirá a los jóvenes acceder a una formación técnico-productiva con reconocimiento oficial.",
+            "goal": "No se especifica una meta.",
+            "indicator": "Alta tasa de población juvenil sin instrucción superior (7.8%) según datos del INEI."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Deficiente comercialización de productos agrarios y pecuarios, y reducida promoción de productos artesanales.",
+            "objective": "Recuperar zonas críticas del malecón Lurín para fomentar la economía y el uso público. Implementar nuevas rutas turísticas como la \"ruta del artesano\" para impulsar la economía local y fortalecer la identidad. Implementar un programa de asistencia técnica para la agricultura familiar.",
+            "goal": "No se especifica una meta.",
+            "indicator": "Poca participación de productores locales agropecuarios en ferias locales y reducida participación de los artesanos en ferias y actividades locales."
+          },
+          {
+            "problem": "Deficiente manejo tecnológico por parte de emprendedores locales y artesanos, y presencia de sobreoferta informal de negocios turísticos.",
+            "objective": "Fortalecer las capacidades de los emprendedores para que desarrollen productos y servicios de calidad, a través de los programas \"Cieneguilla emprende\" y el \"Plan de fortalecimiento para empresas turísticas\".",
+            "goal": "No se especifica una meta.",
+            "indicator": "Aumento de negocios similares en la localidad que no cuentan con permisos obligatorios."
+          },
+          {
+            "problem": "Falta de regulación de actividades turísticas que ponen en riesgo la seguridad e impactan ambientalmente.",
+            "objective": "Regular los paseos en cuatrimotos, estableciendo circuitos, rutas señalizadas, límites de velocidad y horarios de circulación, así como la debida capacitación de los operadores.",
+            "goal": "No se especifica una meta.",
+            "indicator": "Aumento de tráfico vehicular en fechas festivas por la presencia de cuatrimotos en vías principales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Sistema de recojo de basura no optimizado.",
+            "objective": "Implementar un proyecto de inversión pública para la ampliación y mejoramiento del servicio de recolección de residuos sólidos. Regular y organizar el recojo de la basura mediante la instalación de contenedores soterrados.",
+            "goal": "Ampliar al 100% la cobertura adecuada del servicio de recolección de residuos sólidos e instalar contenedores soterrados de basura en puntos estratégicos del distrito.",
+            "indicator": "Porcentaje de población que recibe un eficiente servicio de recolección de residuos sólidos y número de contenedores subterráneos de basura instalados."
+          },
+          {
+            "problem": "Falta de conciencia y educación ambiental.",
+            "objective": "Promover la educación ambiental efectiva para formar ciudadanos participativos y responsables. Implementar campañas de reciclaje activo, ferias ambientales y programas de capacitación comunitaria para impulsar el cuidado del medio ambiente.",
+            "goal": "No se especifica una meta.",
+            "indicator": "No se especifica un indicador."
+          },
+          {
+            "problem": "Contaminación sonora descontrolada en algunos sectores de la jurisdicción.",
+            "objective": "Implementar una fiscalización ambiental eficiente para el control sonoro.",
+            "goal": "Reducir al mínimo el porcentaje de insatisfacción de los vecinos con respecto al nivel sonoro.",
+            "indicator": "Porcentaje de vecinos insatisfechos con el nivel de ruido."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Demora en la atención y respuesta de información y expedientes al público usuario.",
+            "objective": "Implementar la descentralización municipal para mejorar la atención y promover soluciones inmediatas.",
+            "goal": "Reducir en un 40% el tiempo de respuesta a los expedientes presentados por los vecinos, contribuyentes y usuarios.",
+            "indicator": "Alto índice de quejas de vecinos del distrito por no recibir respuesta a sus expedientes."
+          },
+          {
+            "problem": "Deficiencia en la recaudación de arbitrios e impuestos prediales.",
+            "objective": "Implementar la descentralización municipal.",
+            "goal": "No se especifica una meta.",
+            "indicator": "Alta tasa de morosidad por el no pago de los arbitrios e impuestos prediales en el distrito, estimada entre 60% y 70%."
+          },
+          {
+            "problem": "Trabajo desarticulado entre áreas, produciendo doble gasto de personal y tiempo.",
+            "objective": "Implementar la descentralización municipal para optimizar la gestión y el uso de recursos.",
+            "goal": "No se especifica una meta.",
+            "indicator": "No se especifica un indicador."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-WVeevirlBDcFPKmTu_QhEszGbxgTF3qR",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/WVeevirlBDcFPKmTu_QhEszGbxgTF3qR",
+      "sha256": "6b0bbaf7dc2b3d32d16472ba9c4d5989671ec2d748a960d4b1e8f0e32de6a8c3",
+      "accessedAt": "2026-10-02T22:54:44.552Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019592",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019592",
+      "sha256": "359f2cbe4c1cc16299e101bd64328fbd9de814d0eb97a8fd1100962eb927fe15",
+      "accessedAt": "2026-10-02T22:54:45.101Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

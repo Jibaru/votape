@@ -1,0 +1,396 @@
+{
+  "id": "g_ZN-x5-EEKExFr7LRfk3bAU78z785Eq",
+  "slug": "edde-cuellar-alegria",
+  "electionId": "erm-2026",
+  "name": "Edde Cuellar Alegria",
+  "givenNames": "Edde",
+  "surnames": "Cuellar Alegria",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:01.442Z",
+      "sourceId": "jne-hv-g_ZN-x5-EEKExFr7LRfk3bAU78z785Eq"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CIENCIAS ECONOMICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1999"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Continental S.A.C.",
+        "program": "MAESTRO EN GERENCIA PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD PARTICULAR SAN MARTÍN DE PORRES",
+        "program": "MAESTRÍA EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SUPERINTENDENCIA NACIONAL DE MIGRACIONES",
+      "role": "ECONOMISTA",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SANTA ANITA",
+      "role": "ECONOMISTA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ATE",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ATE",
+      "role": "REGIDOR",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2024"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 123000,
+        "public": 123000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTOMÓVIL MITSUBISHI COLT",
+        "value": 15000
+      },
+      {
+        "type": "CAMIONETA HUYNDAI TUCSON",
+        "value": 48750
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3ac50d40-cf97-4749-ba38-ef0365487ef4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/9677e4ff-3d9d-4d0c-ac5d-90bc65e43ed5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "• Insuficientes espacios para la práctica deportiva.",
+            "objective": "• Promover la institucionalización de actividades deportivas.",
+            "goal": "• Implementar 03 programas deportivos masivos y alcanzar al 30% de la población distrital",
+            "indicator": "• Número de programas deportivos implementados • Porcentaje de población beneficiaria"
+          },
+          {
+            "problem": "• Alta incidencia de accidentes de tránsito con impacto en la salud pública.",
+            "objective": "• Reducir los accidentes de tránsito en zonas críticas del distrito.",
+            "goal": "• Reducir en 30% los accidentes de tránsito en el distrito",
+            "indicator": "• Número de accidentes de tránsito reportados • Número de intervenciones de seguridad vial implementadas • % de reducción de accidentes en puntos críticos"
+          },
+          {
+            "problem": "Alta incidencia de anemia infantil en el distrito.",
+            "objective": "Reducir la incidencia de anemia infantil.",
+            "goal": "Reducir en 50% la anemia infantil al 2030.",
+            "indicator": "Porcentaje de niños menores de 5 años con anemia. Número de intervenciones nutricionales."
+          },
+          {
+            "problem": "Alto nivel de violencia contra la mujer.",
+            "objective": "Reducir la incidencia de violencia contra la mujer.",
+            "goal": "Alcanzar al 100% de instituciones educativas públicas con programas de prevención y reducir en 30% los casos reportados.",
+            "indicator": "Número de casos atendidos por violencia de género (MIMP/DEMUNA). Número de campañas de prevención implementadas."
+          },
+          {
+            "problem": "Incremento de animales domésticos en abandono y tenencia irresponsable, generando riesgos a la salud pública y seguridad.",
+            "objective": "Promover la tenencia responsable de animales domésticos y fortalecer el control sanitario en el distrito.",
+            "goal": "Reducir en 30% los casos de mordeduras y riesgos sanitarios asociados. Incrementar en 100% las campañas veterinarias municipales y lograr el registro de al menos 50% de animales domésticos del distrito.",
+            "indicator": "Número de campañas de vacunación, desparasitación y esterilización realizadas. Número de animales domésticos registrados en el distrito."
+          },
+          {
+            "problem": "Alta incidencia de problemas de salud mental como depresión, ansiedad y violencia social asociada.",
+            "objective": "Fortalecer la atención en salud mental comunitaria en el distrito.",
+            "goal": "Incrementar en 100% la atención en salud mental comunitaria e implementar 04 centros descentralizados de atención psicológica municipal.",
+            "indicator": "Número de atenciones psicológicas comunitarias realizadas. Número de centros o programas de salud mental implementados."
+          },
+          {
+            "problem": "Escasa cobertura de atención básica de salud en algunas zonas del distrito.",
+            "objective": "Promover el acceso a la atención básica de salud orientado principalmente a la población vulnerable.",
+            "goal": "Incrementar en 100% la cobertura de atenciones básicas de salud que brinda la municipalidad con respecto al año 2026.",
+            "indicator": "Número de atenciones básicas de salud realizadas por servicios municipales. Cobertura de población atendida (%)."
+          },
+          {
+            "problem": "Alta incidencia delictiva y de violencia social en el distrito.",
+            "objective": "Reducir las incidencias delictivas y de violencia social en el distrito.",
+            "goal": "Disminuir en 30% las denuncias vinculadas a la delincuencia y violencia social al año 2030.",
+            "indicator": "Tasa de denuncias por delitos por cada 10,000 habitantes. Índice de percepción de inseguridad ciudadana (%)."
+          },
+          {
+            "problem": "• Insuficiente alcance de los espacios para recreación y cultura y el arte.",
+            "objective": "• Incrementar la cobertura de actividades culturales, artísticas y recreativas.",
+            "goal": "• Lograr la participación de al menos 30% de niños y adolescentes en programas culturales.",
+            "indicator": "• Número de actividades culturales realizadas al año. • Porcentaje de participación de población joven en actividades culturales"
+          },
+          {
+            "problem": "• Presencia de mercados y centros de expendio de alimentos en condiciones insalubres, que generan riesgos a la salud pública.",
+            "objective": "• Garantizar la inocuidad alimentaria y mejorar las condiciones sanitarias de mercados y centros de expendio de alimentos en el distrito.",
+            "goal": "• Incrementar al 80% el cumplimiento de condiciones sanitarias en mercados y centros de expendio. • Realizar 100% de inspecciones programadas anualmente. • Capacitar al 100% de comerciantes formales en buenas prácticas de manipulación de alimentos.",
+            "indicator": "inspecciones sanitarias realizadas en mercados y establecimientos • % de establecimientos que cumplen condiciones sanitarias • Número de sanciones y acciones correctivas aplicadas • Número de capacitaciones a comerciantes en manipulación de alimentos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto nivel de desorden e informalidad en el comercio, comercio ambulatorio y ocupación de espacios públicos.",
+            "objective": "Reducir la informalidad y ordenar integralmente la actividad comercial en el distrito.",
+            "goal": "Incorporar al 80% de comerciantes informales a programas de formalización y ordenar el 100% de zonas críticas del comercio distrital.",
+            "indicator": "Porcentaje de comerciantes formalizados. Número de mercados y zonas comerciales intervenidas. Número de operativos de fiscalización realizados."
+          },
+          {
+            "problem": "Baja adopción de herramientas digitales en negocios locales.",
+            "objective": "Promover la transformación digital de las MYPE del distrito.",
+            "goal": "Digitalizar al 50% de MYPE del distrito.",
+            "indicator": "Número de negocios digitalizados. Número de capacitaciones en comercio digital. Porcentaje de negocios con presencia digital."
+          },
+          {
+            "problem": "Desorden e informalidad en el transporte de vehículos menores.",
+            "objective": "Promover el ordenamiento y formalización del transporte menor.",
+            "goal": "Reducir en 80% el transporte informal y capacitar al 100% de conductores registrados.",
+            "indicator": "Número de vehículos menores formalizados. Número de operativos de control."
+          },
+          {
+            "problem": "• Bajo desarrollo y aprovechamiento del potencial turístico, cultural y gastronómico del distrito.",
+            "objective": "• Promover el desarrollo del turismo local como motor de dinamización económica.",
+            "goal": "• Implementar al menos 2 circuitos turísticos locales, desarrollar 12 eventos anuales y beneficiar a mas 3,000 emprendedores de Ate vinculados al turismo",
+            "indicator": "• Numero de circuitos turísticos implementados. • Numero de eventos culturales y gastronómicos realizados. • Numero de visitantes a actividades turísticas locales. • Numero de emprendimientos turísticos promovidos"
+          },
+          {
+            "problem": "Dificultad para los jóvenes de acceder a empleo formal.",
+            "objective": "Mejorar la gestión para facilitar el acceso de empleo formal especialmente en jóvenes.",
+            "goal": "Incrementar en 100% la colocación laboral formal juvenil mediante la Bolsa de Trabajo Municipal respecto al 2026.",
+            "indicator": "Número de colocaciones laborales a través de la Bolsa de Trabajo Municipal. Porcentaje de jóvenes insertados en empleo formal."
+          },
+          {
+            "problem": "• Incumplimiento de las normas municipales en establecimientos comerciales e industriales.",
+            "objective": "• Fortalecer el cumplimiento de las normas municipales y seguridad en establecimientos.",
+            "goal": "• Fiscalizar el 100% de establecimientos identificados de riesgo y lograr el 80% de cumplimiento normativo.",
+            "indicator": "• Numero de inspecciones realizadas. • % de establecimientos formalizados. • Numero de sanciones aplicadas."
+          },
+          {
+            "problem": "Escasas oportunidades para el emprendimiento de negocios.",
+            "objective": "Promover el emprendimiento y desarrollo empresarial local.",
+            "goal": "Beneficiar a al menos 15,000 emprendedores mediante programas municipales.",
+            "indicator": "Número de emprendedores beneficiarios de programas municipales. Número de capacitaciones realizadas. Número de negocios formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado con escasa planificación.",
+            "objective": "Fortalecer el ordenamiento territorial.",
+            "goal": "Actualizar el 100% de instrumentos de gestión urbana y reducir en 50% ocupaciones informales nuevas.",
+            "indicator": "Número de instrumentos de planificación actualizados. Número de intervenciones de control urbano."
+          },
+          {
+            "problem": "Alto nivel de riesgo ante desastres naturales.",
+            "objective": "Reducir la vulnerabilidad de la población ante desastres.",
+            "goal": "Intervenir el 100% de zonas críticas y capacitar al 100% de organizaciones vecinales en riesgo.",
+            "indicator": "Número de zonas de riesgo intervenidas. Número de simulacros realizados. Porcentaje de población capacitada."
+          },
+          {
+            "problem": "Bajo nivel de áreas verdes urbanas.",
+            "objective": "Incrementar las áreas verdes y mejorar el entorno urbano.",
+            "goal": "Incrementar en 50% los metros cuadrados de áreas verdes.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante. Número de áreas verdes implementadas o recuperadas."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos y puntos críticos de acumulación de basura.",
+            "objective": "Mejorar el sistema de limpieza pública y gestión de residuos.",
+            "goal": "Eliminar el 90% de puntos críticos de residuos sólidos.",
+            "indicator": "Número de puntos críticos eliminados. Frecuencia de recolección. Porcentaje de cobertura del servicio."
+          },
+          {
+            "problem": "Alto nivel de contaminación ambiental.",
+            "objective": "Reducir los niveles de contaminación ambiental del distrito.",
+            "goal": "Alcanzar el 50% de viviendas del distrito incorporadas al Programa de Segregación en la Fuente y reducir en 30% los niveles de contaminación del aire.",
+            "indicator": "Porcentaje de viviendas que participan en programas de reciclaje. Niveles de calidad del aire (PM2.5). Toneladas de residuos reciclados."
+          },
+          {
+            "problem": "Congestión vehicular y peatonal en vías principales.",
+            "objective": "Reducir el congestionamiento vehicular y mejorar la movilidad urbana.",
+            "goal": "Reducir en 40% los niveles de congestión e intervenir el 100% de puntos críticos identificados.",
+            "indicator": "Tiempo promedio de tránsito en vías críticas. Número de puntos críticos intervenidos. Número de intersecciones semaforizadas inteligentes."
+          },
+          {
+            "problem": "• Uso inadecuado y deterioro de espacios públicos.",
+            "objective": "• Recuperar y gestionar espacios públicos.",
+            "goal": "• Recuperar el 100% de espacios públicos priorizados",
+            "indicator": "• Numero de espacios recuperados. • Número de intervenciones urbanas. • Tasa de morosidad en predios de casa habitación (%). • Nivel de recaudación del impuesto predial en vivienda (%). • Número de contribuyentes regularizados. • Número de campañas de cultura tributaria realizadas."
+          },
+          {
+            "problem": "• Déficit de infraestructura urbana (vías, parques, muros y otros).",
+            "objective": "• Reducir la brecha de infraestructura urbana.",
+            "goal": "• Ejecutar al menos el 90% del presupuesto de inversiones anuales.",
+            "indicator": "• % de ejecución presupuestal en inversiones. • Numero de obras ejecutadas."
+          },
+          {
+            "problem": "• Ocupación de zonas de alto riesgo.",
+            "objective": "• Evitar la expansión urbana en zonas de riesgo.",
+            "goal": "• Lograr 0 % de nuevas ocupaciones en zonas de alto riesgo.",
+            "indicator": "• Numero de viviendas en zonas de riesgo. • Numero de fiscalizaciones realizadas."
+          },
+          {
+            "problem": "• Deterioro de infraestructura y mobiliario urbano.",
+            "objective": "• Mejorar el mantenimiento de infraestructura urbana.",
+            "goal": "• Ejecutar el 100% del plan anual de mantenimiento urbano.",
+            "indicator": "• % de ejecución del plan de mantenimiento. • Número de intervenciones realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja cultura tributaria y alta morosidad en contribuyentes de predios destinados a casa habitación.",
+            "objective": "Mejorar la cultura tributaria y la recaudación municipal en contribuyentes de vivienda.",
+            "goal": "Reducir la morosidad en predios de casa habitación a 30% y aumentar en 50% la recaudación efectiva del impuesto predial en vivienda.",
+            "indicator": "Tasa de morosidad en predios de casa habitación (%). Nivel de recaudación del impuesto predial en vivienda (%)."
+          },
+          {
+            "problem": "• Débil capacitación y profesionalización del personal municipal.",
+            "objective": "• Fortalecer capacidades del recurso humano municipal.",
+            "goal": "• Capacitar al 100% del personal municipal anualmente.",
+            "indicator": "• Numero de capacitaciones realizadas. • % de personal capacitado. • Evaluación de desempeño."
+          },
+          {
+            "problem": "Baja calidad en la atención de trámites administrativos.",
+            "objective": "Mejorar la eficiencia en la atención ciudadana.",
+            "goal": "Lograr 80% de satisfacción ciudadana y reducir en 50% tiempos de atención.",
+            "indicator": "Tiempo promedio de atención de trámites. Porcentaje de trámites realizados dentro de plazo. Nivel de satisfacción del usuario."
+          },
+          {
+            "problem": "Desinterés de la ciudadanía en participar en espacios de concertación.",
+            "objective": "Fortalecer la participación ciudadana en la gestión municipal.",
+            "goal": "Alcanzar al menos 90% de ejecución del presupuesto participativo y duplicar la participación ciudadana organizada.",
+            "indicator": "• Numero de procesos participativos realizados. • % de ejecución de proyectos priorizados en presupuestos participativos. • Numero de organizaciones participantes."
+          },
+          {
+            "problem": "Limitado uso de tecnologías digitales en la gestión municipal.",
+            "objective": "Implementar un modelo de gobierno digital (Smart City).",
+            "goal": "Digitalizar 80% de trámites y reducir en 70% tiempos de atención.",
+            "indicator": "Porcentaje de trámites digitalizados. Número de plataformas digitales implementadas. Tiempo promedio de atención."
+          },
+          {
+            "problem": "Riesgos de corrupción en la gestión municipal.",
+            "objective": "Fortalecer la integridad y lucha contra la corrupción.",
+            "goal": "Implementar 100% de mecanismos de integridad institucional y atención oportuna de denuncias.",
+            "indicator": "Número de mecanismos de control implementados. Número de denuncias atendidas. Nivel de cumplimiento normativo."
+          },
+          {
+            "problem": "Insuficiente cobertura y calidad de servicios públicos municipales como limpieza pública, parques, jardines y serenazgo.",
+            "objective": "Mejoramiento en la calidad de la prestación de los servicios públicos municipales.",
+            "goal": "Alcanzar 70% de satisfacción ciudadana en los servicios municipales.",
+            "indicator": "Porcentaje de cobertura de servicios municipales. Índice de satisfacción ciudadana (%)."
+          },
+          {
+            "problem": "Falta de seguimiento y evaluación de resultados de la gestión",
+            "objective": "Implementar gestión municipal basada en resultados",
+            "goal": "Monitorear el 100% de proyectos municipales y alcanzar 80% de cumplimiento de metas.",
+            "indicator": "• % de proyectos con seguimiento. • Numero de evaluaciones realizadas. • Nivel de cumplimiento de metas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-g_ZN-x5-EEKExFr7LRfk3bAU78z785Eq",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/g_ZN-x5-EEKExFr7LRfk3bAU78z785Eq",
+      "sha256": "4dbc74ac167565c4a82eba6b0179ba3e328314e59b5ecbeef1442788738d7457",
+      "accessedAt": "2026-10-02T22:51:01.442Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019503",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019503",
+      "sha256": "d6db4e649556dc8db436534684fe86877655316ed1992e6987cda6840b2cd378",
+      "accessedAt": "2026-10-02T22:51:01.952Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

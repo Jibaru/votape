@@ -1,0 +1,224 @@
+{
+  "id": "6YyK0_g_cRe_m_tlvYExR6F5oh-AvuZ1",
+  "slug": "yolanda-ines-pena-valdivia",
+  "electionId": "erm-2026",
+  "name": "Yolanda Ines Peña Valdivia",
+  "givenNames": "Yolanda Ines",
+  "surnames": "Peña Valdivia",
+  "age": 46,
+  "gender": "Femenino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:48.238Z",
+      "sourceId": "jne-hv-6YyK0_g_cRe_m_tlvYExR6F5oh-AvuZ1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "TÍTULO DE CONTADOR PÚBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "LABORATORIO BELOFARM SOCIEDAD ANONIMA CERRADA",
+      "role": "AUXILIAR CONTABLE",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "SAPLASTIC S.A.C.",
+      "role": "ASITENTE DE TESORERÍA",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "CLUB PROVINCIAL PACASMAYO",
+      "role": "SECRETARIA",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "ESTACION SAN DIEGO SOCIEDAD ANONIMA CERRADA",
+      "role": "ASISTENTE CONTABLE",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 31652,
+        "public": 0,
+        "private": 31652
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 67245,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA PANEL / CARGA",
+        "value": 6500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Domicilio Múltiple"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ec8b9454-bb8d-4ef1-b26d-8727541c54a9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/759ed550-61c8-42ad-9e44-ef2e13be938c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso de poblaciones vulnerables a servicios de protección y desarrollo social.",
+            "objective": "Ampliar la cobertura de programas municipales dirigidos a niños, adultos mayores, mujeres y personas con discapacidad.",
+            "goal": "Alcanzar una cobertura del 80% de la población vulnerable identificada.",
+            "indicator": "Porcentaje de población vulnerable atendida por programas municipales."
+          },
+          {
+            "problem": "Alta incidencia de hechos delictivos y percepción de inseguridad ciudadana que afectan la convivencia comunitaria.",
+            "objective": "Fortalecer el sistema distrital de seguridad ciudadana mediante vigilancia integrada, tecnología y participación vecinal.",
+            "goal": "Alcanzar cobertura del 100% de los sectores priorizados al 2030.",
+            "indicator": "Porcentaje de sectores priorizados con cobertura de vigilancia integrada y videovigilancia."
+          },
+          {
+            "problem": "Débil aprovechamiento de espacios públicos para actividades deportivas, culturales y recreativas.",
+            "objective": "Recuperar y activar espacios públicos seguros para fortalecer la integración comunitaria.",
+            "goal": "Recuperar y activar 50 espacios públicos al 2030.",
+            "indicator": "Número de espacios públicos recuperados y en funcionamiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades de empleo para jóvenes y mujeres.",
+            "objective": "Promover la inserción laboral y el desarrollo de capacidades para jóvenes y mujeres.",
+            "goal": "Beneficiar a 5,000 jóvenes y mujeres con programas de empleabilidad.",
+            "indicator": "Número de beneficiarios insertados en actividades económicas formales."
+          },
+          {
+            "problem": "Persistencia de la informalidad y limitada competitividad de las MYPES y emprendimientos locales.",
+            "objective": "Fortalecer la formalización, capacitación y competitividad de las MYPES del distrito.",
+            "goal": "Incrementar en 25% la formalización de MYPE al 2030.",
+            "indicator": "Porcentaje de MYPES formalizadas con apoyo municipal."
+          },
+          {
+            "problem": "Débil articulación entre emprendedores locales y el Parque Industrial de Villa El Salvador.",
+            "objective": "Integrar a las MYPE y emprendimientos en cadenas de valor locales mediante alianzas productivas.",
+            "goal": "Incorporar al 60% de las empresas participantes en redes de articulación económica.",
+            "indicator": "Porcentaje de empresas participantes en programas de articulación productiva."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión insuficiente de residuos sólidos y presencia de puntos críticos de acumulación de basura.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos mediante segregación, reciclaje y educación ambiental.",
+            "goal": "Incrementar en 40% el reciclaje de residuos sólidos al 2030.",
+            "indicator": "Porcentaje de residuos sólidos valorizados o reciclados."
+          },
+          {
+            "problem": "Escasez y deterioro de áreas verdes urbanas.",
+            "objective": "Incrementar la infraestructura verde y la arborización del distrito.",
+            "goal": "Incrementar en 20% la superficie de áreas verdes del distrito.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas o implementadas."
+          },
+          {
+            "problem": "Vulnerabilidad frente a los efectos del cambio climático y eventos ambientales adversos.",
+            "objective": "Fortalecer la resiliencia climática y la adaptación ambiental del distrito.",
+            "goal": "Alcanzar el 80% de participación en programas de educación ambiental y resiliencia climática.",
+            "indicator": "Porcentaje de instituciones educativas y organizaciones vecinales incorporadas en programas ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada confianza ciudadana en la gestión municipal.",
+            "objective": "Fortalecer la transparencia y rendición de cuentas mediante mecanismos de gobierno abierto.",
+            "goal": "Publicar el 100% de los reportes semestrales de gestión y ejecución presupuestal al 2030.",
+            "indicator": "Porcentaje de información de gestión publicada y actualizada según cronograma institucional."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la toma de decisiones públicas.",
+            "objective": "Consolidar mecanismos permanentes de participación y vigilancia ciudadana.",
+            "goal": "Implementar mecanismos de participación y vigilancia ciudadana en el 100% de los sectores territoriales del distrito al 2030.",
+            "indicator": "Número de espacios de participación y vigilancia ciudadana implementados y operativos."
+          },
+          {
+            "problem": "Procesos municipales con limitaciones de eficiencia y digitalización.",
+            "objective": "Modernizar los servicios municipales mediante la transformación digital y simplificación administrativa.",
+            "goal": "Digitalizar el 80% de los trámites prioritarios al 2030.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-6YyK0_g_cRe_m_tlvYExR6F5oh-AvuZ1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/6YyK0_g_cRe_m_tlvYExR6F5oh-AvuZ1",
+      "sha256": "e40129d82840e2a4f94b5f6fef73398ad913743b70a42ca2d645d14ecfa4bcec",
+      "accessedAt": "2026-10-02T23:06:48.238Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031380",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031380",
+      "sha256": "117410523ed069f81f6ca72a9b3cf5c23a487215118a69bdb8719bad1bbf661f",
+      "accessedAt": "2026-10-02T23:06:48.720Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "Pw-uMV7c9mRQAjgznhkFIIP4FdaumjP1",
+  "slug": "ruth-candelaria-bisbal-oyague",
+  "electionId": "erm-2026",
+  "name": "Ruth Candelaria Bisbal Oyague",
+  "givenNames": "Ruth Candelaria",
+  "surnames": "Bisbal Oyague",
+  "age": 54,
+  "gender": "Femenino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:14.574Z",
+      "sourceId": "jne-hv-Pw-uMV7c9mRQAjgznhkFIIP4FdaumjP1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ISIL",
+        "program": "TECNICO INFORMATICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO",
+      "role": "TECNICA INFORMATICA",
+      "from": "2017",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 54000,
+        "public": 54000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fb49317f-aaab-4b1d-a518-dfc871d763c5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ef435b4e-41cc-4215-8064-e5b96cfe4803.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Pérdida de la tranquilidad social y del uso seguro de los espacios públicos por parte de los vecinos del distrito, generada por el incremento de delitos complejos y una baja eficacia en la prevención del delito local.",
+            "objective": "Fortalecer y modernizar el sistema distrital de seguridad ciudadana de Santiago de Surco para reducir la percepción de inseguridad, mejorar la capacidad preventiva y garantizar espacios públicos seguros y ordenados para todos los vecinos.",
+            "goal": "Al 2030, el 98% de los patrullajes en zonas críticas del distrito se realizan bajo la modalidad integrada y con soporte de cuadrantes inteligentes.",
+            "indicator": "Porcentaje de patrullajes integrados (Serenazgo + Policía Nacional del Perú) ejecutados con éxito en los cuadrantes de mayor incidencia delictiva del distrito, respecto a lo programado."
+          },
+          {
+            "problem": "Inadecuadas condiciones de transitabilidad y alta congestión vehicular que afectan la movilidad cotidiana de los usuarios de la vía pública en Santiago de Surco, debido a una planificación de tránsito desarticulada del sistema metropolitano.",
+            "objective": "Mejorar la transitabilidad y la movilidad urbana en Santiago de Surco mediante una gestión moderna, eficiente y sostenible del tránsito, reduciendo la congestión vehicular y garantizando desplazamientos más seguros, ordenados y eficientes para todos los vecinos.",
+            "goal": "Al 2030, reducir el Índice de Tiempo de Viaje a 1.2 veces mediante la sincronización adaptativa en tiempo real.",
+            "indicator": "Índice de Tiempo de Viaje (ITV) promedio en los principales ejes viales del distrito medido en horas punta."
+          },
+          {
+            "problem": "Limitadas condiciones para el desarrollo educativo integral y la convivencia segura de los estudiantes en Santiago de Surco, debido a deficiencias en los entornos escolares y a una insuficiente oferta de espacios públicos tecnológicos, culturales y deportivos.",
+            "objective": "Fortalecer las condiciones complementarias para el desarrollo educativo integral de niños, adolescentes y jóvenes de Santiago de Surco, promoviendo entornos seguros, programas preventivos y mayores oportunidades de formación, integración y desarrollo personal.",
+            "goal": "Al 2030, el 100% de las instituciones educativas del distrito estarán protegidas bajo entornos perimetrales seguros y accesibles.",
+            "indicator": "Porcentaje de instituciones educativas (públicas y privadas) del distrito que cuentan con un entorno perimetral calificado como \"Seguro y Accesible\"."
+          },
+          {
+            "problem": "Deterioro en los niveles de bienestar integral y alta prevalencia de riesgos a la salud física y mental de los habitantes, debido a la limitada accesibilidad y centralización de los servicios preventivos locales y la escasez de entornos urbanos saludables.",
+            "objective": "Fortalecer las acciones municipales de prevención, promoción de la salud y bienestar social en Santiago de Surco, mediante servicios más accesibles, modernos y descentralizados que contribuyan a mejorar la calidad de vida de la población.",
+            "goal": "Alcanzar el 95% de cobertura territorial y atención efectiva de la población vulnerable focalizada.",
+            "indicator": "Porcentaje de hogares en situación de vulnerabilidad o localizados en sectores periféricos del distrito que acceden anualmente a las campañas médicas descentralizadas y servicios preventivos móviles."
+          },
+          {
+            "problem": "Existencia de limitaciones en la cobertura, accesibilidad e integración de los servicios y espacios destinados a promover el bienestar, la autonomía y la inclusión plena de las personas adultas mayores y personas con discapacidad.",
+            "objective": "Fortalecer la inclusión social, la autonomía, el bienestar integral y la participación activa de las personas adultas mayores y de las personas con discapacidad mediante servicios especializados, espacios accesibles y programas municipales.",
+            "goal": "Alcanzar el 60% de cobertura y atención especializada y descentralizada de los adultos mayores del distrito.",
+            "indicator": "Porcentaje de personas adultas mayores residentes en el distrito que se encuentran adscritas y reciben de forma recurrente servicios especializados de envejecimiento activo en la Red Distrital de locales exclusivos del CIAM."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existencia de limitaciones para consolidar un modelo de desarrollo económico local que combine competitividad, innovación y generación de oportunidades con la preservación de la residencialidad, el orden urbano y la sostenibilidad del distrito.",
+            "objective": "Fortalecer el desarrollo económico local de Santiago de Surco mediante la promoción del emprendimiento, la inversión, la innovación y la competitividad empresarial, garantizando un crecimiento económico sostenible y compatible con la residencialidad.",
+            "goal": "Incrementar al 75% la tasa de sostenibilidad comercial de las MIPYMES participantes para el 2030.",
+            "indicator": "Tasa de supervivencia o retención comercial de las MIPYMES locales del distrito tras participar en los programas municipales de asistencia técnica, articulación productiva y acceso a mercados."
+          },
+          {
+            "problem": "Insuficiente aprovechamiento integral, sostenible y articulado del potencial turístico, cultural, gastronómico y patrimonial de Santiago de Surco, lo que limita la capacidad para dinamizar la economía local y fortalecer la identidad distrital.",
+            "objective": "Fortalecer el desarrollo turístico sostenible de Santiago de Surco mediante la puesta en valor de su patrimonio, promoviendo la identidad local, la dinamización económica y el posicionamiento del distrito como un destino turístico de referencia.",
+            "goal": "Alcanzar los 150,000 visitantes anuales mediante la consolidación de la oferta de experiencias integradas para el 2030.",
+            "indicator": "Tasa de crecimiento anual del flujo de visitantes (excursionistas y turistas) que registran el uso de los circuitos y festivales oficiales del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Existencia de brechas en la tenencia responsable, control sanitario, registro, esterilización, protección y convivencia amigable con los animales de compañía en Santiago de Surco.",
+            "objective": "Fortalecer la protección y bienestar de los animales de compañía mediante políticas integrales de salud veterinaria, tenencia responsable, educación ciudadana y control poblacional humanitario, promoviendo una convivencia armónica.",
+            "goal": "Lograr que el 85% de las mascotas del distrito estén incorporadas al RUM con control sanitario preventivo al día para el 2030.",
+            "indicator": "Porcentaje de perros y gatos del distrito formalmente inscritos en el Registro Único de Mascotas (RUM) que cuentan con el esquema de vacunación anual vigente y constancia de esterilización."
+          },
+          {
+            "problem": "Falta de consolidación de un modelo de gestión ambiental sostenible y resiliente frente al cambio climático que permita preservar y fortalecer los recursos ambientales, optimizar el manejo de residuos y proteger las áreas verdes.",
+            "objective": "Fortalecer la sostenibilidad ambiental de Santiago de Surco mediante la protección de sus recursos naturales, la ampliación de la infraestructura verde, la gestión eficiente de residuos y la adaptación al cambio climático.",
+            "goal": "Alcanzar el 65% de valorización y reciclaje efectivo de los residuos del distrito, liderando la transición hacia la economía circular para el 2030.",
+            "indicator": "Porcentaje de toneladas de residuos sólidos municipales (domiciliarios y comerciales) efectivamente segregados en la fuente, recolectados y valorizados en la planta de reciclaje del distrito, respecto al total generado."
+          },
+          {
+            "problem": "Existencia de presiones urbanas que amenazan la preservación de la residencialidad, el ornato y la calidad urbana de Santiago de Surco, generando riesgos para la tranquilidad vecinal y la armonía del entorno.",
+            "objective": "Preservar y fortalecer la residencialidad, el ornato y la calidad urbana de Santiago de Surco mediante una gestión eficiente del espacio público, el respeto al ordenamiento urbano y el mantenimiento de la infraestructura distrital.",
+            "goal": "Al 2030, lograr el 95% de atención, resolución y control preventivo inmediato de alertas urbanas para blindar el carácter residencial del distrito.",
+            "indicator": "Índice de Eficiencia y Cobertura en el Control Urbano Residencial (IECCUR), que mide el porcentaje de denuncias por infracciones de zonificación y usos del suelo atendidas y resueltas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada eficiencia, transparencia y orientación a resultados de la gestión administrativa municipal que afecta la calidad y oportunidad de los servicios públicos recibidos por los vecinos del distrito de Santiago de Surco.",
+            "objective": "Transformar la Municipalidad de Santiago de Surco en una institución moderna, eficiente, transparente, innovadora y orientada a resultados, optimizando el uso de los recursos públicos para mejorar la calidad de vida de los vecinos.",
+            "goal": "Reducir el gasto corriente administrativo a un máximo del 40% del presupuesto total del distrito para el 2030.",
+            "indicator": "Ratio de Eficiencia del Gasto Operativo (REGO), que mide el porcentaje del gasto corriente destinado a soporte administrativo e institucional frente al presupuesto institucional modificado (PIM) total."
+          },
+          {
+            "problem": "Deficiente integración, interoperabilidad y seguridad digital en los sistemas de gestión municipal que limita la simplificación, trazabilidad y confiabilidad de los trámites y servicios públicos.",
+            "objective": "Consolidar un gobierno digital seguro, interoperable, transparente e innovador, que supere la digitalización parcial de trámites y avance hacia una gestión municipal plenamente integrada, auditable y orientada al vecino.",
+            "goal": "Lograr el 100% de los procedimientos y servicios municipales clave integrados en una plataforma digital única (Cero Papel) para el 2030.",
+            "indicator": "Porcentaje de procedimientos administrativos del TUPA y servicios institucionales totalmente integrados en la Ventanilla Única Digital de Santiago de Surco, operando bajo la modalidad de Expediente Electrónico Municipal."
+          },
+          {
+            "problem": "Limitados estándares de integridad pública, transparencia activa y control social en la gestión municipal que elevan el riesgo de corrupción y debilitan la confianza ciudadana de los vecinos del distrito.",
+            "objective": "Consolidar una gestión municipal íntegra, transparente, participativa y abierta al escrutinio ciudadano, fortaleciendo la confianza pública, la rendición de cuentas y la prevención de la corrupción.",
+            "goal": "Alcanzar el 100% de cumplimiento en los estándares del Modelo de Integridad del Estado Peruano y las recomendaciones OCDE de transparencia activa para el 2030.",
+            "indicator": "Índice de Madurez en Transparencia Activa (IMTA), que mide la proporción de conjuntos de datos gubernamentales publicados de manera proactiva, en formatos accesibles y descargables."
+          },
+          {
+            "problem": "Insuficiente incidencia, representatividad y continuidad en los mecanismos de participación ciudadana que debilitan la gobernanza colaborativa y la confianza de los vecinos en la toma de decisiones de la Municipalidad.",
+            "objective": "Fortalecer la participación ciudadana y consolidar un modelo de gobierno colaborativo que permita a los vecinos intervenir activamente en la toma de decisiones, supervisión y evaluación de la gestión municipal.",
+            "goal": "Alcanzar el 65% de participación ciudadana activa mediante la implementación de herramientas y plataformas virtuales de auditoría social para el 2030.",
+            "indicator": "Índice de Participación Vecinal en el Control Social (IPVCS), que mide el porcentaje de juntas vecinales y comités sectoriales que participan activamente en las veedurías del presupuesto participativo y las rendiciones de cuentas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Pw-uMV7c9mRQAjgznhkFIIP4FdaumjP1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Pw-uMV7c9mRQAjgznhkFIIP4FdaumjP1",
+      "sha256": "0d4c86ae405601ebe4a263291bf7e85db60fa27908e927452802119022c848c1",
+      "accessedAt": "2026-10-02T23:06:14.574Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032567",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032567",
+      "sha256": "0653a2ab65d8fd413ac4b29682c9af063cba4dc80b750b76a556d3097ae0a567",
+      "accessedAt": "2026-10-02T23:06:15.060Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

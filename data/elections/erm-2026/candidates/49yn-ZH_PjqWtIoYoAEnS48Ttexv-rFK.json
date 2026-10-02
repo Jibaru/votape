@@ -1,0 +1,219 @@
+{
+  "id": "49yn-ZH_PjqWtIoYoAEnS48Ttexv-rFK",
+  "slug": "gianmarco-valentin-tobalino-castillo",
+  "electionId": "erm-2026",
+  "name": "Gianmarco Valentin Tobalino Castillo",
+  "givenNames": "Gianmarco Valentin",
+  "surnames": "Tobalino Castillo",
+  "age": 48,
+  "gender": "Masculino",
+  "party": {
+    "id": 2869,
+    "name": "PARTIDO PATRIOTICO DEL PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:56.104Z",
+      "sourceId": "jne-hv-49yn-ZH_PjqWtIoYoAEnS48Ttexv-rFK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "LICENCIADO EN EDUCACIÓN ESPECIALIDAD: EDUCACIÓN FÍSICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "BACHILLER EN CIENCIAS DE LA EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CEGNE BELEN",
+      "role": "DOCENTE",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PROGRESEMOS",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 350,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "KIA SPORTAGE",
+        "value": 38000
+      },
+      {
+        "type": "TOYOTA YARIS",
+        "value": 20000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/54408bc5-b7e3-4078-95e5-100fcc280654.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ae0657bf-aaea-474a-96f6-4de167032b2d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de infraestructura educativa y deportiva.",
+            "objective": "Mejorar la calidad de vida de la población mediante servicios sociales modernos e inclusivos.",
+            "goal": "Reducir la deserción escolar.",
+            "indicator": "Reducción de la deserción escolar."
+          },
+          {
+            "problem": "Incremento de robos, extorsiones y delitos en el distrito.",
+            "objective": "Reducir significativamente los índices delictivos y fortalecer la seguridad integral en todo el distrito.",
+            "goal": "Reducción de delitos entre un 40% y 60%.",
+            "indicator": "Reducción de delitos."
+          },
+          {
+            "problem": "Limitada atención a personas vulnerables.",
+            "objective": "Mejorar la calidad de vida de la población mediante servicios sociales modernos e inclusivos.",
+            "goal": "Ampliar la cobertura de atención social.",
+            "indicator": "Ampliación de la cobertura de atención social."
+          },
+          {
+            "problem": "Existencia de violencia familiar.",
+            "objective": "Reducir significativamente los índices delictivos y fortalecer la seguridad integral en todo el distrito, implementando programas de prevención de violencia familiar.",
+            "goal": "Reducción de delitos en un 40% a 60%.",
+            "indicator": "Reducción de delitos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escaso apoyo a las Micro y Pequeñas Empresas (MYPES).",
+            "objective": "Consolidar a Ate como el principal eje económico, industrial y comercial de Lima Este.",
+            "goal": "Promover un 15% más de empleo.",
+            "indicator": "Empleo promovido."
+          },
+          {
+            "problem": "Alta informalidad empresarial y comercial.",
+            "objective": "Consolidar a Ate como el principal eje económico, industrial y comercial de Lima Este.",
+            "goal": "Formalizar el 50% de las MYPES.",
+            "indicator": "MYPES formalizadas."
+          },
+          {
+            "problem": "Limitada promoción de inversiones estratégicas.",
+            "objective": "Consolidar a Ate como el principal eje económico, industrial y comercial de Lima Este.",
+            "goal": "Incrementar la inversión privada.",
+            "indicator": "Incremento de la inversión privada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente manejo de los residuos sólidos.",
+            "objective": "Convertir a Ate en un distrito ambientalmente sostenible y resiliente.",
+            "goal": "Reciclar el 25% de los residuos sólidos.",
+            "indicator": "Reciclaje de residuos."
+          },
+          {
+            "problem": "Déficit de áreas verdes en el distrito.",
+            "objective": "Convertir a Ate en un distrito ambientalmente sostenible y resiliente.",
+            "goal": "Recuperar el 80% de las áreas verdes.",
+            "indicator": "Áreas verdes recuperadas."
+          },
+          {
+            "problem": "Contaminación del río Rímac.",
+            "objective": "Convertir a Ate en un distrito ambientalmente sostenible y resiliente.",
+            "goal": "Reducir la contaminación ambiental.",
+            "indicator": "Reducción de la contaminación ambiental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escasa transparencia en la gestión municipal.",
+            "objective": "Transformar la Municipalidad de Ate en una entidad moderna, transparente y digital.",
+            "goal": "Implementar la transparencia en tiempo real.",
+            "indicator": "Implementación de la transparencia en tiempo real."
+          },
+          {
+            "problem": "Excesiva burocracia en los trámites municipales.",
+            "objective": "Transformar la Municipalidad de Ate en una entidad moderna, transparente y digital.",
+            "goal": "Digitalizar el 50% de los trámites.",
+            "indicator": "Trámites digitales."
+          },
+          {
+            "problem": "Débil fiscalización municipal.",
+            "objective": "Reducir significativamente los índices delictivos y fortalecer la seguridad integral en todo el distrito.",
+            "goal": "Alcanzar la cobertura total del patrullaje integrado.",
+            "indicator": "Patrullaje integrado."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-49yn-ZH_PjqWtIoYoAEnS48Ttexv-rFK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/49yn-ZH_PjqWtIoYoAEnS48Ttexv-rFK",
+      "sha256": "12d832c1646add9892afa720b4fc868599383e1d3dbbf55eecb68cb83701efd8",
+      "accessedAt": "2026-10-02T22:50:56.104Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011769",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011769",
+      "sha256": "4912e5cd53c6cebe7dd0db78f68e106c0438129673d3b01f6bc2a57401f6850a",
+      "accessedAt": "2026-10-02T22:50:56.582Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

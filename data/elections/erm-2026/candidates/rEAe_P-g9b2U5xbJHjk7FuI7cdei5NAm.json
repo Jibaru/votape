@@ -1,0 +1,244 @@
+{
+  "id": "rEAe_P-g9b2U5xbJHjk7FuI7cdei5NAm",
+  "slug": "carmen-carolina-castillo-yataco",
+  "electionId": "erm-2026",
+  "name": "Carmen Carolina Castillo Yataco",
+  "givenNames": "Carmen Carolina",
+  "surnames": "Castillo Yataco",
+  "age": 54,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:06.558Z",
+      "sourceId": "jne-hv-rEAe_P-g9b2U5xbJHjk7FuI7cdei5NAm"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "MAESTRÍA EN DERECHO PENAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADA",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "COLEGIO DE ABOGADOS DE LIMA",
+      "role": "CONSEJERA EXTERNA - ETICA",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 10200,
+        "public": 0,
+        "private": 10200
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 6840,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10260,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 167843.4,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESCUELA DE COACHING INTEGRAL PERU S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 3000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1053390a-4120-4a27-9c17-d9d3dbe1aa21.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/79a64eb7-32e5-40cd-9dd5-17677d8885ba.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil atención a adultos mayores y personas con discapacidad, con limitaciones en el acceso a servicios y programas adecuados.",
+            "objective": "Implementar el programa \"Edad Dorada\" para la atención integral a adultos mayores y el programa \"Inclusión Sin Barreras\" dirigido a personas con discapacidad.",
+            "goal": "Atender a 15,000 adultos mayores durante la gestión y a 3,000 personas con discapacidad mediante servicios, talleres y asistencia social.",
+            "indicator": "Adultos mayores beneficiarios del programa y personas con discapacidad beneficiadas."
+          },
+          {
+            "problem": "Persistencia de la violencia contra la mujer y el grupo familiar en el distrito.",
+            "objective": "Crear la Casa de la Mujer Agustiniana, un programa de prevención de violencia familiar y contra la mujer, que brinde atención y apoyo a las víctimas.",
+            "goal": "Atender a 10,000 mujeres en servicios de orientación, prevención y protección.",
+            "indicator": "Mujeres atendidas y beneficiadas por los servicios integrales."
+          },
+          {
+            "problem": "Débil cultura de tenencia responsable de mascotas, con presencia de animales en situación de abandono y uso inadecuado de espacios públicos.",
+            "objective": "Crear el Centro Municipal de Bienestar Animal para promover la tenencia responsable, implementar un registro municipal de mascotas y realizar campañas educativas.",
+            "goal": "Registrar 15,000 mascotas y sensibilizar a 20,000 vecinos en tenencia responsable.",
+            "indicator": "Mascotas registradas y atendidas en el sistema municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasas oportunidades de empleo para jóvenes y mujeres, restringiendo su desarrollo y competitividad.",
+            "objective": "Implementar una Bolsa de Trabajo Municipal para jóvenes y adultos, y desarrollar el programa \"Mujeres que Emprenden\" para fortalecer sus capacidades.",
+            "goal": "Vincular a 5,000 vecinos con oportunidades laborales formales y capacitar a 2,000 mujeres en emprendimiento y autonomía económica.",
+            "indicator": "Personas insertadas laboralmente y mujeres beneficiarias del programa."
+          },
+          {
+            "problem": "Alto nivel de informalidad económica que limita las oportunidades de crecimiento de los emprendedores.",
+            "objective": "Implementar el programa \"Emprende Agustino\" para brindar formalización y asistencia técnica a los emprendedores locales.",
+            "goal": "Lograr que 3,000 emprendedores sean formalizados o fortalecidos mediante asistencia técnica.",
+            "indicator": "Emprendedores formalizados y asistidos técnicamente."
+          },
+          {
+            "problem": "Bajo aprovechamiento del potencial cultural, gastronómico y turístico del distrito.",
+            "objective": "Promover el turismo mediante la creación del Circuito del Migrante Peruano, que integra gastronomía, el Museo del Migrante y el Mirador de El Agustino.",
+            "goal": "Alcanzar 50,000 visitantes acumulados en el circuito turístico distrital.",
+            "indicator": "Visitantes atendidos en el circuito turístico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente manejo de residuos sólidos en el distrito.",
+            "objective": "Implementar el Proyecto \"Recicla Agustino\" y el programa \"Mi Barrio Limpio, Mi Orgullo\" para mejorar la gestión de residuos sólidos.",
+            "goal": "Incorporar 15,000 hogares al programa de reciclaje y eliminar 100 puntos críticos de residuos.",
+            "indicator": "Hogares incorporados al programa de segregación y reciclaje, y puntos críticos de residuos eliminados."
+          },
+          {
+            "problem": "Escasez de áreas verdes y deterioro ambiental en el distrito.",
+            "objective": "Implementar el programa \"El Agustino Más Verde\" para la arborización y el mantenimiento de áreas verdes.",
+            "goal": "Plantar 10,000 árboles y recuperar o mejorar 20 hectáreas de áreas verdes.",
+            "indicator": "Árboles plantados y áreas verdes recuperadas."
+          },
+          {
+            "problem": "Crecimiento urbano sin adecuada planificación, con ocupación inadecuada de espacios y dificultades en la transitabilidad.",
+            "objective": "Elaborar de manera participativa el Plan de Ordenamiento Territorial Distrital para guiar el desarrollo urbano.",
+            "goal": "Formular, aprobar e implementar un Plan de Ordenamiento Territorial.",
+            "indicator": "Plan de Ordenamiento Territorial aprobado e implementado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de trámites burocráticos y lentitud administrativa en la gestión municipal.",
+            "objective": "Modernizar la atención al ciudadano mediante la implementación del programa \"Municipio en tu Mano - El Agustino Digital\", el Expediente Electrónico Municipal y la Ventanilla Única Vecinal.",
+            "goal": "Lograr que el 80% de los trámites y pagos estén disponibles digitalmente, el 90% de los expedientes se gestionen electrónicamente y el 90% de los trámites se canalicen por la Ventanilla Única Vecinal.",
+            "indicator": "Porcentaje de trámites y pagos disponibles en línea, porcentaje de expedientes gestionados electrónicamente y porcentaje de trámites atendidos en ventanilla única."
+          },
+          {
+            "problem": "Débil participación de dirigentes y organizaciones sociales en la gestión municipal.",
+            "objective": "Crear el programa \"Gobierno Participativo\" y la \"Escuela de Líderes Agustinianos\" para fortalecer la participación ciudadana.",
+            "goal": "Realizar 100 mesas de trabajo con al menos 50 acuerdos implementados y capacitar a 1,000 líderes vecinales, juveniles y sociales.",
+            "indicator": "Mesas de trabajo realizadas y acuerdos implementados; líderes vecinales capacitados y certificados."
+          },
+          {
+            "problem": "Déficit de transparencia y rendición de cuentas en la municipalidad.",
+            "objective": "Implementar un Sistema Municipal de Transparencia y Rendición de Cuentas, tanto presencial como virtual, incluyendo transmisiones en vivo.",
+            "goal": "Realizar 08 audiencias públicas de rendición de cuentas y transmitir en vivo el 100% de las sesiones de concejo.",
+            "indicator": "Audiencias públicas e informes de gestión realizados y difundidos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-rEAe_P-g9b2U5xbJHjk7FuI7cdei5NAm",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rEAe_P-g9b2U5xbJHjk7FuI7cdei5NAm",
+      "sha256": "a9f94a6fa28d6b1fa50c8f1291cb7f9b97a5e5f16d344928e423d113f3096547",
+      "accessedAt": "2026-10-02T22:56:06.558Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016361",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016361",
+      "sha256": "501335df5b1f626b9b5a1d36d7ba3c457d30eb4d54434777531770f87ea1059d",
+      "accessedAt": "2026-10-02T22:56:07.219Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

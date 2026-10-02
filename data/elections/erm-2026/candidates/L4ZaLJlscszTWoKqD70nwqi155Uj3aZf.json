@@ -1,0 +1,257 @@
+{
+  "id": "L4ZaLJlscszTWoKqD70nwqi155Uj3aZf",
+  "slug": "luiz-carlos-reategui-del-aguila",
+  "electionId": "erm-2026",
+  "name": "Luiz Carlos Reategui Del Aguila",
+  "givenNames": "Luiz Carlos",
+  "surnames": "Reategui Del Aguila",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:09.330Z",
+      "sourceId": "jne-hv-L4ZaLJlscszTWoKqD70nwqi155Uj3aZf"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "BACHILLER DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "MAESTRIA EN GESTION PUBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2020"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD CONTINENTAL",
+        "program": "DOCTORADO GOBERNABILIDAD",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE MIRAFLORES",
+      "role": "SUBGERENTE DE FISCALIZACION",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE PUEBLO LIBRE",
+      "role": "GERENTE DE RENTAS",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SANTA ROSA",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SANTA ROSA",
+      "role": "GERENTE TRIBUTARIO",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "employer": "SUNAT",
+      "role": "ASESOR PRIENTADOR TRIBUTARIO",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR PROVINCIAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2023"
+    },
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 186000,
+        "public": 156000,
+        "private": 30000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 100000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d380e293-c485-4cb6-b5e3-01eb0dae1d4b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a88199dc-90ed-45a3-8f60-effc38b02e85.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "3) Escases de espacios de estacionamientos y parqueo vehicular.",
+            "objective": "3) Elaborar e implementar de manera efectiva un plan amigable relacionado al uso de los espacios públicos para los estacionamientos subterráneos y zonas de parqueo temporal dentro del distrito. 2.- Promover el establecimiento de zonas de parqueo, enfatizando la atención al vecino.",
+            "goal": "3) Implementación de playas de estacionamiento subterráneas.",
+            "indicator": "3) Cantidad de playas de estacionamiento público. 2.- Cantidad de vecinos que hacen uso de playas de estacionamiento municipal."
+          },
+          {
+            "problem": "2) Carencia de servicios de prestación de salud para la atención primaria al vecino e insuficiente atención preventiva de salud y desatención de adultos mayores.",
+            "objective": ") Centro Médico Municipal. - Telemedicina. - Farmacia Social. - Atención domiciliaria. - Seguro Municipal del Adulto Mayor. - Loncherita Jesusmariana. - Comedor Municipal. - Panadería Municipal",
+            "goal": "2) Implementación de un Centro de Atención de Salud Vecinal. 2.- 12,000 adultos mayores afiliados. 3.- 35,000 consultas anuales.",
+            "indicator": "2) Tasa de participantes en actividades preventivas y promocionales de la salud. 2.- Adultos mayores afiliados. 3.- Consultas preventivas. 4.- Cobertura de atención."
+          },
+          {
+            "problem": "Inseguridad ciudadana, incremento de robos, hurtos, estafas digitales y percepción de inseguridad",
+            "objective": "Dimensión social Creación equipo de élite para labor de inteligencia contra la delincuencia. 1) Cámaras con reconocimiento facial y de placas. 2) Patrullaje aéreo con drones de vigilancia que proyecten luz. 3) Creación de la policía municipal con facultades de detención y arresto en conjunto con la policía nacional. 4) Un efectivo de serenazgo por manzana. 5) Aplicación del arresto ciudadano en flagrancia mediante ordenanza municipal y conforme al código penal. 6) Seguro Municipal contra Robos.",
+            "goal": "1Reducción de índice de victimización en 10%. 2.- Ejecución del 100% del presupuesto asignado a patrullaje. 3.- Reducir delitos en 90%. 4.- Respuesta menor a 4 minutos. 5.- Cobertura de videovigilancia 100%",
+            "indicator": "1).- Índice de victimización. 2.- Tasa de incidencia. de hechos delictivos. 3.- Tiempo de respuesta del serenazgo. 4.- Número de delitos denunciados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1) Inexistentes programas municipales para crear o fomentar condiciones adecuadas para el desarrollo de actividades económicas al vecino e insuficiente formación educativa complementaria",
+            "objective": "Centro Preuniversitario Municipal. 2) Centro de Idiomas. 3) Centro Tecnológico e IA",
+            "goal": ") Implementación al 100% de aplicaciones que promuevan el contacto de servicios a los vecinos. 2.- 1,000 estudiantes por año. 3.- 400 ingresantes universitarios 2027 – 2030",
+            "indicator": "- Cantidad de usuarios que hagan uso de aplicaciones desarrolladas. 2.- Alumnos atendidos. 3.- Ingresantes universitarios"
+          },
+          {
+            "problem": "2) Situación económica precaria o decreciente de la pequeña y microempresa por la coyuntura actual. Así como reducida formalización empresarial",
+            "objective": "• 2) Arbitrio Cero por 3 meses para los nuevos negocios. • Fondo Municipal de Emprendimiento. • Coworking Municipal. • App \"Jesús María Conecta\".",
+            "goal": "2) Incrementar al 50% los convenios con entidades externas para desarrollar oportunidades de crecimiento económico. 2.- 5,000 nuevas manos de obra calificada. 3.- 1,500 emprendimientos formalizados",
+            "indicator": "2) Cantidad de vecinos inscritos en programa 2.- Cantidad de administrados beneficiados en las condiciones otorgadas por la MML. 3.- Nuevos emprendedores formalizados. 4.- Empleos generados"
+          },
+          {
+            "problem": "3) Carencia de programas de desarrollo que incentiven el turismo en el distrito",
+            "objective": "• 3) Ruta Histórica. • Ruta Gastronómica. • Circuito San Felipe. Circuito Campo de Marte",
+            "goal": "3) Incrementar al 100% eventos y/o ferias dentro del distrito. 2.- Triplicar visitantes. 3.- 100 eventos turísticos anuales",
+            "indicator": "3) Cantidad de programas desarrollados en la ruta turística"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "3) Deficiente iluminación de los parques del distrito",
+            "objective": "3) Incrementar la iluminación de luces LED blancas en las avenidas principales y parques y en todo el distrito de Jesús María al 100%.",
+            "goal": "3) Implementación del 100% de iluminación LED en avenidas principales y parques",
+            "indicator": "3) Cantidad de postes de alumbrado público en las avenidas principales y parques del distrito."
+          },
+          {
+            "problem": "2) Carencia de sistemas automatizados para el apoyo a la limpieza de calles. Y limitado reciclaje y gestión de residuos",
+            "objective": "• 2) Bono Verde 2.0. • Reciclaje Inteligente. • Contenedores inteligentes. Barredoras mecánicas",
+            "goal": "2) Implementación al 100% de programa de limpieza mediante sistemas de alerta. 2.- Reciclar 40% de residuos. 3.- Reducir 35% residuos enviados a relleno sanitario",
+            "indicator": "2) Cantidad de calles involucradas en el programa de limpieza"
+          },
+          {
+            "problem": "1) Desvalorización de las áreas verdes por construcciones en la vía pública.",
+            "objective": "Plan 3000 árboles 2027-2030. 2) Fortalecer Vivero Municipal Productivo. 3) Jardines verticales, azoteas y balcones jardín. 4) Corredores ecológicos",
+            "goal": "1) Incremento de áreas verdes en un 10%. 2.- 9 m² por habitante. 3.- 3000 árboles 2027 – 2030",
+            "indicator": ") Cantidad de áreas verdes. 2.- 6 m² de áreas verdes por habitante. 3.- Árboles sembrados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1) Deficiente rendición de cuentas y transparencia institucional",
+            "objective": "1) Ejecutar auditorias de las gestiones anteriores en los primeros cien días y poner a disposición de la Fiscalía todo el acervo documentario municipal para que, de encontrarse delitos de corrupción hagan las denuncias penales correspondientes a todos los responsables",
+            "goal": "1) Auditar la gestión de los últimos 16 años",
+            "indicator": "1) Cantidad de auditorías realizados por año"
+          },
+          {
+            "problem": "2) Dependencia excesiva de arbitrios e impuestos",
+            "objective": "2) Crear la Empresa Municipal Jesusmariana. 2.- Crear la Oficina Municipal de Cooperación Internacional: captación de fondos del banco mundial, unión europea e interamericano de desarrollo. 3.- Crear el banco municipal basado en un sistema de acumulación de puntos vecinal para ser canjeados o compensados en especie para los arbitrios. Apostaremos por la participación vecinal permanente y el voluntariado",
+            "goal": "2) Generar superávit municipal de S/ 35 a 45 millones entre el 2027 - 2030",
+            "indicator": "2) Municipalidad con escasos recursos, ineficiente y pésima gestión"
+          },
+          {
+            "problem": "3) Deficientes medios o canales de comunicación del vecino para una real comunicación directa con funcionarios del municipio. Y excesiva burocracia y lentitud de trámites",
+            "objective": "• 3) Ventanilla Única de atención presencial y Digital. • Expediente electrónico y atención 24/7. • Firma digital. App municipal",
+            "goal": ") Implementación del 100% de medios digitales dentro del distrito. 2.- Desarrollo de 52 cabildos anuales. 3.- 100% trámites digitalizados. 4.- Atención en 24 horas",
+            "indicator": "3) Cantidad de medios implementados. 2.- Cantidad de cabildos realizados por mes/ año"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-L4ZaLJlscszTWoKqD70nwqi155Uj3aZf",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/L4ZaLJlscszTWoKqD70nwqi155Uj3aZf",
+      "sha256": "9de0ee0f17a1ca15fbb9cbb91fdacb75bc5ec0d1435cf9fb2196154bd9f03149",
+      "accessedAt": "2026-10-02T22:57:09.330Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015150",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015150",
+      "sha256": "6567214253f910076d71d9e3ab094e1b0db4453f14f760af005315f85bb8fa13",
+      "accessedAt": "2026-10-02T22:57:09.812Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

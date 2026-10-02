@@ -1,0 +1,262 @@
+{
+  "id": "AwLeefpgDUAY9FtjYbIQXvtAkivxmADD",
+  "slug": "hector-portugal-marin",
+  "electionId": "erm-2026",
+  "name": "Hector Portugal Marin",
+  "givenNames": "Hector",
+  "surnames": "Portugal Marin",
+  "age": 71,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:26.404Z",
+      "sourceId": "jne-hv-AwLeefpgDUAY9FtjYbIQXvtAkivxmADD"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN ECONOMIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1980"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUNTA NEGRA",
+      "role": "ASISTENTE SUBGERENCIA DE EDUC. CULT. DEP Y JEFE DE LA OFICINA GENERAL DE ADMINISTRACION Y FINANZAS",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUNTA HERMOSA",
+      "role": "JEFE DE LA UNIDAD DE LOGISTICA, GTE SEG. CIUDADANA, SUB.GTE. DE AUTORIZACIONES COMERCIALES GTE.MUNIC",
+      "from": "2015",
+      "to": "2019"
+    },
+    {
+      "employer": "Municipalidad Metropolitana de Lima",
+      "role": "Jefe Departamento Administración de Mercados Municipales",
+      "from": "2019",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PUNTA HERMOSA UNIDO",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 65506,
+        "public": 65506,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 135323,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 143241,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA RAV4 2.0 4X2AT",
+        "value": 64220
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/800e1bc0-3b39-47a1-907d-7626baeedd25.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/619bc689-b0b9-4c3c-95e2-52dc52c52c69.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit en la infraestructura y en el servicio de salud pública.",
+            "objective": "Gestionar ante el Ministerio de Salud la construcción de un moderno centro de salud con atención de 24 horas.",
+            "goal": "Lograr una atención de salud eficiente, oportuna y de calidad para el vecino de Punta Hermosa.",
+            "indicator": "Número de atenciones realizadas y calidad del servicio."
+          },
+          {
+            "problem": "Déficit en la infraestructura de vías públicas al servicio de los vecinos.",
+            "objective": "Construcción de pistas y veredas para mejorar la calidad de vida de los vecinos.",
+            "goal": "Lograr una mejor estructura de la vía pública y de calidad para el vecino de Punta Hermosa.",
+            "indicator": "Número de transitabilidad peatonal y vehicular."
+          },
+          {
+            "problem": "Inadecuada infraestructura y equipamiento educativo.",
+            "objective": "Gestionar una adecuada infraestructura educativa para mejorar la calidad del aprendizaje.",
+            "goal": "Mejorar la educación pública con infraestructura segura, mobiliario y equipamiento adecuado.",
+            "indicator": "Número de alumnos que realizan estudios en el nivel primario y secundario."
+          },
+          {
+            "problem": "Deficiencia en la seguridad ciudadana por falta de personal calificado y equipos.",
+            "objective": "Brindar al vecino de Punta Hermosa un servicio eficiente en seguridad y organizar el tránsito vehicular en la temporada de verano.",
+            "goal": "Mejorar la seguridad ciudadana con un patrullaje constante a través del Programa 'Punta Hermosa Segura'.",
+            "indicator": "Reducción del número de incidentes delictivos en el distrito y disminución del congestionamiento vehicular."
+          },
+          {
+            "problem": "Deficiencia en la atención de las personas con discapacidad.",
+            "objective": "Brindar un adecuado servicio de terapias y talleres.",
+            "goal": "Lograr una atención adecuada, eficiente y oportuna para nuestros vecinos con discapacidad.",
+            "indicator": "Número de atenciones realizadas y calidad de servicio."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Estacionalidad turística muy variable.",
+            "objective": "Promover el turismo de manera sostenida durante todo el año.",
+            "goal": "Incrementar el turismo brindando productos y servicios de calidad.",
+            "indicator": "Número de visitantes que llegan al distrito, así como la cantidad de comercios habilitados."
+          },
+          {
+            "problem": "Falta de inversión privada que genera desempleo.",
+            "objective": "Atraer la inversión privada para que un mayor número de la población cuente con trabajo.",
+            "goal": "Que el ciudadano de Punta Hermosa mejore su calidad de vida.",
+            "indicator": "Reducción del desempleo de la población económicamente activa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta del servicio de alcantarillado en un sector del distrito.",
+            "objective": "Instalación del sistema de alcantarillado.",
+            "goal": "Proporcionar una mejor calidad de vida para el vecino.",
+            "indicator": "Reducción de la existencia de silos que contaminan el ambiente."
+          },
+          {
+            "problem": "Zonificación de la residencialidad del distrito de manera desordenada.",
+            "objective": "Garantizar el desarrollo del distrito de manera ordenada, sin perder su identidad.",
+            "goal": "Controlar la construcción indiscriminada y mantener la zonificación del distrito.",
+            "indicator": "Construcción de viviendas de acuerdo a los parámetros establecidos."
+          },
+          {
+            "problem": "Deficiencia de áreas verdes en el distrito de Punta Hermosa.",
+            "objective": "Incrementar los metros cuadrados de vegetación por residente.",
+            "goal": "Mejorar la calidad de vida de los residentes y visitantes al distrito de Punta Hermosa.",
+            "indicator": "Fomentar un distrito ecológico y sostenible."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Personal que brinda una deficiente atención al vecino.",
+            "objective": "Capacitar al personal para que brinde un servicio de calidad.",
+            "goal": "Brindar un servicio eficiente y de calidad al vecino.",
+            "indicator": "Reducción del número de quejas."
+          },
+          {
+            "problem": "Falta de infraestructura y políticas municipales para la promoción de la cultura, el deporte y los programas sociales.",
+            "objective": "Optimizar la oferta de actividades culturales, deportivas y programas sociales, fomentando la participación de los vecinos.",
+            "goal": "Promover el desarrollo integral individual y comunitario.",
+            "indicator": "Número de usuarios en los programas municipales y gubernamentales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18903",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Experiencia Laboral",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-23",
+      "details": {
+        "rubro": "EXPERIENCIA LABORAL",
+        "resolucion": "RES.00910-2026-JEE-LIS1/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RES.00910-2026-JEE-LIS1/JNE",
+      "sourceIds": [
+        "jne-hv-AwLeefpgDUAY9FtjYbIQXvtAkivxmADD"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-AwLeefpgDUAY9FtjYbIQXvtAkivxmADD",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/AwLeefpgDUAY9FtjYbIQXvtAkivxmADD",
+      "sha256": "9ca245e8cb6745c3f6e0aabfe2b7f865955ebf3e1fd122e549cf00aa591dbc53",
+      "accessedAt": "2026-10-02T23:01:26.404Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011837",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011837",
+      "sha256": "b9535a7aa90f3599d2fed28daddc91217ec7db8b256dd067666b4144af23b441",
+      "accessedAt": "2026-10-02T23:01:26.907Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

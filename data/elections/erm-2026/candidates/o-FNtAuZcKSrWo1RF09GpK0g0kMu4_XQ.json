@@ -1,0 +1,176 @@
+{
+  "id": "o-FNtAuZcKSrWo1RF09GpK0g0kMu4_XQ",
+  "slug": "diana-pilar-leon-castrillon-de-oyakawa",
+  "electionId": "erm-2026",
+  "name": "Diana Pilar Leon Castrillon De Oyakawa",
+  "givenNames": "Diana Pilar",
+  "surnames": "Leon Castrillon De Oyakawa",
+  "age": 74,
+  "gender": "Femenino",
+  "party": {
+    "id": 2944,
+    "name": "PARTIDO UNIDAD Y PAZ"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:11.378Z",
+      "sourceId": "jne-hv-o-FNtAuZcKSrWo1RF09GpK0g0kMu4_XQ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE BREÑA",
+      "role": "REGIDORA",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE BREÑA",
+      "role": "FUNCIONARIA",
+      "from": "1996",
+      "to": "1998"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PODEMOS POR EL PROGRESO DEL PERU",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 21300,
+        "public": 3300,
+        "private": 18000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3d4fede8-7170-42c1-8151-fe78fd5d17e9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/385bd95e-8ef6-4730-b77f-dbe009bfc573.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente cobertura y calidad de los servicios sociales y educativos para la población.",
+            "objective": "Ampliar la cobertura de los servicios sociales a las poblaciones más necesitadas, apoyar el esparcimiento juvenil, educar a los jóvenes para el trabajo y desarrollo personal, y promover la educación con principios y valores.",
+            "goal": "No se especifica.",
+            "indicator": "Implementación de la Casa del adulto mayor, Velatorio municipal, Casa de la juventud y Breña LAB. Creación del Instituto Tecnológico Municipal. Campañas de concientización y trabajo con colegios para la educación en valores."
+          },
+          {
+            "problem": "Deterioro y escasez de espacios públicos, junto con un desordenado tránsito vehicular.",
+            "objective": "Generar espacios deportivos, ampliar y acondicionar parques y jardines, realzar la belleza del distrito y mejorar el tránsito vehicular y de transporte público.",
+            "goal": "No se especifica.",
+            "indicator": "Construcción del polideportivo municipal, instalación de juegos infantiles y gimnasios, mejoramiento de pistas y veredas, rediseño de vías de tránsito, semaforización inteligente y ordenamiento de rutas de transporte público y mototaxis."
+          },
+          {
+            "problem": "Altos niveles de inseguridad ciudadana y delincuencia en el distrito.",
+            "objective": "Fomentar una cultura de prevención, fortalecer y optimizar la seguridad ciudadana, y fomentar la participación activa de las juntas vecinales.",
+            "goal": "No se especifica.",
+            "indicator": "Porcentaje de reducción de los actos de la delincuencia, nivel de percepción de la seguridad de los ciudadanos, porcentaje de reducción de la inseguridad ciudadana y porcentaje de participación de las juntas vecinales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado y con baja calidad de edificaciones.",
+            "objective": "Elaborar el proceso urbanístico de manera planificada y ordenada, mejorar la calidad del espacio urbano y promover el desarrollo urbano de la ciudad.",
+            "goal": "No se especifica.",
+            "indicator": "Implementación de un Plan de Desarrollo Urbano, porcentaje de disminución de la informalidad urbana, número de unidades de viviendas y número de licencias de construcción para viviendas multifamiliares."
+          },
+          {
+            "problem": "Baja formalización y competitividad de las PYMES y escaso desarrollo del turismo local.",
+            "objective": "Promover la agremiación y participación de las PYMES en compras del estado, y promover el turismo gastronómico para fortalecer las costumbres y tradiciones.",
+            "goal": "No se especifica.",
+            "indicator": "Porcentaje de formalización de pymes, ventas de las pymes a instituciones públicas, cantidad de ferias por año y número de puestos de trabajo creados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental y manejo inadecuado de los residuos sólidos.",
+            "objective": "Mejorar la calidad ambiental del distrito, mejorar la calidad del medio ambiente y promover e institucionalizar las iniciativas locales de mejoramiento de la calidad ambiental.",
+            "goal": "No se especifica.",
+            "indicator": "Porcentaje de áreas verdes en buen estado de conservación, porcentaje de la población que participa en el programa de recolección de residuos sólidos y porcentaje de instituciones que participan en prácticas de gestión medioambiental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja calidad en la atención al ciudadano y deficiente comunicación de la gestión municipal.",
+            "objective": "Obtener resultados óptimos de los servicios municipales, brindar servicios eficaces, eficientes y con calidad, y mejorar el sistema de comunicación interna y externa.",
+            "goal": "No se especifica.",
+            "indicator": "Porcentaje de nivel de satisfacción del vecino, tiempo promedio de atención al ciudadano y accesibilidad a la información del ciudadano."
+          },
+          {
+            "problem": "Baja recaudación de arbitrios y falta de facilidades para la inversión.",
+            "objective": "Realizar el sinceramiento de arbitrios, fomentar la educación tributaria escolar y brindar facilidades para la ejecución de las inversiones privadas.",
+            "goal": "No se especifica.",
+            "indicator": "Plan de incentivos por pronto pago de obligaciones municipales y número de licencias otorgadas de construcción."
+          },
+          {
+            "problem": "Falta de supervisión efectiva de las obras públicas y privadas en el distrito.",
+            "objective": "Supervisar el 100% de obras públicas y privadas en Breña.",
+            "goal": "No se especifica.",
+            "indicator": "Número de días de atraso de entrega de obra."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-o-FNtAuZcKSrWo1RF09GpK0g0kMu4_XQ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/o-FNtAuZcKSrWo1RF09GpK0g0kMu4_XQ",
+      "sha256": "da9fa763917b4564b4333ca0b3277607011294f3318c73c31e166c8091575b92",
+      "accessedAt": "2026-10-02T22:52:11.378Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018665",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018665",
+      "sha256": "9d3eb8d6161485fa6b95cdd357ae957c05567b92d19df88d7de465fb9a072dcb",
+      "accessedAt": "2026-10-02T22:52:11.908Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "rYth9R-COCgHCsN5Ms6fQXACjDoX0rb6",
+  "slug": "otilia-merino-garcia",
+  "electionId": "erm-2026",
+  "name": "Otilia Merino Garcia",
+  "givenNames": "Otilia",
+  "surnames": "Merino Garcia",
+  "age": 64,
+  "gender": "Femenino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140111",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:07.551Z",
+      "sourceId": "jne-hv-rYth9R-COCgHCsN5Ms6fQXACjDoX0rb6"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD TELESUP SAC",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADA",
+      "from": "2019",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 33600,
+        "public": 0,
+        "private": 33600
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "NISSAN",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7125fffe-fa78-422e-b013-8eb85afa07aa.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1991a803-2427-455f-bce0-2aed532ec21d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Presencia de prostitución, explotación sexual y trata de personas que afectan la convivencia y los espacios públicos.",
+            "objective": "Erradicar la explotación sexual y recuperar los espacios públicos en coordinación con la PNP y ministerios mediante el proyecto \"Lince Libre de Prostitución\".",
+            "goal": "Clausura del 100% de locales clandestinos identificados y recuperación total de los espacios públicos tomados.",
+            "indicator": "Cantidad de locales clandestinos clausurados de forma definitiva. Número de operativos preventivos ejecutados."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana, como robos al paso, delincuencia en motos, extorsión y falta de vigilancia tecnológica.",
+            "objective": "Reducir la delincuencia y optimizar la vigilancia mediante tecnología e inteligencia artificial a través del proyecto \"Lince Seguro 24 Horas\".",
+            "goal": "Reducción significativa de los índices delictivos y lograr el 100% de interconexión con la PNP mediante la Central de Monitoreo Inteligente.",
+            "indicator": "Porcentaje de disminución de delitos en el distrito. Número de cámaras inteligentes y lectores LPR operativos."
+          },
+          {
+            "problem": "Escasez de programas preventivos de salud, falta de apoyo inclusivo a la discapacidad y desatención al adulto mayor.",
+            "objective": "Implementar el Centro Médico Municipal, la Farmacia de bajo costo y los programas \"Lince Saludable\", \"Lince Inclusivo\" y \"Abuelitos Protegidos\".",
+            "goal": "Lograr el 100% de funcionamiento del Centro Médico y Farmacia Municipal, así como la cobertura integral en terapias y entrega de equipos ortopédicos.",
+            "indicator": "Número de atenciones médicas y campañas preventivas realizadas. Convenios firmados para terapias y ayudas biomecánicas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Informalidad empresarial y falta de asistencia técnica y capacitación para emprendedores locales.",
+            "objective": "Promover el desarrollo económico local y fortalecer las capacidades de las micro y pequeñas empresas (MYPES).",
+            "goal": "Formalización y asistencia técnica integral para las MYPES de Lince, y ejecución de ferias comerciales y gastronómicas programadas.",
+            "indicator": "Número de comerciantes y emprendedores capacitados. Cantidad de empresas formalizadas con asesoría municipal."
+          },
+          {
+            "problem": "Limitadas oportunidades para la inserción laboral, el emprendimiento y la capacitación técnica de los jóvenes del distrito.",
+            "objective": "Fomentar la empleabilidad juvenil mediante el programa \"Jóvenes con Futuro\", una bolsa laboral y alianzas institucionales.",
+            "goal": "Implementación de la Bolsa Laboral Juvenil y otorgamiento de becas de estudio a jóvenes de bajos recursos.",
+            "indicator": "Número de jóvenes inscritos y colocados a través de la Bolsa Laboral. Cantidad de convenios activos con universidades e institutos."
+          },
+          {
+            "problem": "Necesidad de inclusión económica para los adultos mayores en espacios productivos locales.",
+            "objective": "Generar espacios gratuitos específicos de venta y promoción comercial para adultos mayores en ferias del distrito.",
+            "goal": "Disponibilidad constante del 100% de espacios gratuitos reservados para adultos mayores en cada feria distrital.",
+            "indicator": "Cantidad de ferias productivas con espacios reservados. Número de adultos mayores beneficiados en actividades comerciales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de áreas verdes y falta de mantenimiento integral en los espacios públicos y parques principales.",
+            "objective": "Incrementar, recuperar y mantener óptimamente las áreas verdes y parques del distrito a través del proyecto \"Lince Verde\".",
+            "goal": "Lograr que el 100% de los parques y áreas verdes del distrito estén recuperados y mantenidos técnicamente.",
+            "indicator": "Porcentaje de metros cuadrados de áreas verdes recuperadas. Frecuencia de mantenimiento preventivo en el Parque Ramón Castilla."
+          },
+          {
+            "problem": "Deficiencias en la limpieza pública y acumulación de residuos sólidos en zonas comerciales, galerías y alrededores de mercados.",
+            "objective": "Optimizar el servicio de limpieza pública e implementar programas selectivos de reciclaje con el proyecto \"Lince Verde casa por casa\".",
+            "goal": "Cobertura del 100% del programa de reciclaje casa por casa y erradicación de puntos críticos de basura en zonas comerciales.",
+            "indicator": "Toneladas de residuos reciclados recolectados en hogares. Índice de satisfacción vecinal con la limpieza pública."
+          },
+          {
+            "problem": "Falta de una cultura de protección, bienestar animal y campañas constantes para mascotas en situación de abandono.",
+            "objective": "Impulsar el programa \"Amigo de las Mascotas\" enfocado en tenencia responsable, vacunación y esterilización masiva.",
+            "goal": "Realización de campañas veterinarias preventivas de forma permanente y reducción del abandono animal en el distrito.",
+            "indicator": "Número de mascotas vacunadas y esterilizadas en campañas. Cantidad de talleres de sensibilización ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Brecha digital en la atención al usuario, trámites burocráticos y falta de canales modernos de comunicación directa.",
+            "objective": "Modernizar la gestión municipal migrando hacia una \"Municipalidad Digital\" eficiente, transparente y orientada al vecino.",
+            "goal": "Lograr el 100% de operatividad de la App móvil institucional para alertas vecinales y la digitalización de los principales procesos y servicios municipales.",
+            "indicator": "Implementación y descargas de la aplicación móvil de seguridad y atención. Porcentaje de trámites digitalizados con éxito."
+          },
+          {
+            "problem": "Necesidad de optimizar los canales de vigilancia ciudadana, acceso a la información pública y control social de los recursos.",
+            "objective": "Fortalecer la transparencia institucional mediante el acceso público a datos clave y el Portal de Transparencia.",
+            "goal": "Mantener al 100% la actualización del Portal de Transparencia Estándar y realizar una evaluación semestral estricta de las metas del Plan de Gobierno.",
+            "indicator": "Porcentaje de cumplimiento de publicación de metas en el Portal de Transparencia. Evaluaciones de indicadores de gestión publicadas."
+          },
+          {
+            "problem": "Limitada articulación formal con las organizaciones vecinales para la toma de decisiones del presupuesto del distrito.",
+            "objective": "Fortalecer el Presupuesto Participativo y estrechar la coordinación directa con las juntas y organizaciones vecinales.",
+            "goal": "Lograr la participación efectiva del 100% de los sectores de Lince en el diseño del Presupuesto Participativo.",
+            "indicator": "Número de organizaciones vecinales activas en talleres de presupuesto. Cantidad de mecanismos digitales de participación implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-rYth9R-COCgHCsN5Ms6fQXACjDoX0rb6",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rYth9R-COCgHCsN5Ms6fQXACjDoX0rb6",
+      "sha256": "9f19bc295bc249503847e6f43e003aa20ff8698298b9a00ae221467886ba2122",
+      "accessedAt": "2026-10-02T22:58:07.551Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023211",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023211",
+      "sha256": "bc7ac5ff1a143e98269de181ab7b4243a9c2806fa3d557f485b857a79c0df995",
+      "accessedAt": "2026-10-02T22:58:08.028Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

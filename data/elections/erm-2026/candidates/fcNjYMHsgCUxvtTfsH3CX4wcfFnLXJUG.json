@@ -1,0 +1,236 @@
+{
+  "id": "fcNjYMHsgCUxvtTfsH3CX4wcfFnLXJUG",
+  "slug": "ramon-tinta-soriano",
+  "electionId": "erm-2026",
+  "name": "Ramon Tinta Soriano",
+  "givenNames": "Ramon",
+  "surnames": "Tinta Soriano",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:07.741Z",
+      "sourceId": "jne-hv-fcNjYMHsgCUxvtTfsH3CX4wcfFnLXJUG"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "I.S.T.P. RAMIRO PRIALÉ",
+        "program": "TÉCNICO PROFECIONAL EN ENFERMERÍA TÉCNICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PROSEGURIDAD S.A.",
+      "role": "PERSONAL DE SEGURIDAD",
+      "from": "1998",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "VERDAD Y HONRADEZ",
+      "year": "2025"
+    },
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 32200,
+        "public": 0,
+        "private": 32200
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2cc652e0-37dd-44fa-87a5-88530cb86858.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/036df699-bcb0-4695-b1f3-b1087c80fc2f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana: crecimiento de robos, hurtos y violencia en el distrito.",
+            "objective": "Reducir los índices de delincuencia y violencia mediante la modernización del serenazgo, videovigilancia y participación ciudadana organizada.",
+            "goal": "Reducir en 30% los incidentes delictivos reportados al CODISEC. 80 cámaras activas al 2028. 30 comités vecinales operativos.",
+            "indicator": "Incidentes reportados al CODISEC. Número de cámaras activas. Número de comités activos."
+          },
+          {
+            "problem": "Baja calidad educativa, infraestructura escolar insegura y escaso acceso a tecnología en colegios del distrito.",
+            "objective": "Mejorar la calidad educativa con infraestructura segura, conectividad digital y formación técnica para jóvenes chosicanos.",
+            "goal": "100% de colegios municipales con kits de emergencia. Wi-Fi gratuito en plazas y espacios públicos. Becas para jóvenes en situación de pobreza.",
+            "indicator": "Porcentaje de colegios municipales con kits de emergencia. Cobertura de Wi-Fi gratuito en plazas y espacios públicos. Número de becas para jóvenes."
+          },
+          {
+            "problem": "Exclusión social de jóvenes, mujeres, adultos mayores y personas con discapacidad en el acceso a oportunidades y servicios.",
+            "objective": "Garantizar la inclusión social plena mediante programas específicos para grupos vulnerables con enfoque de igualdad de oportunidades.",
+            "goal": "Casa de la Juventud operativa al 2028. CEM Municipal en funcionamiento. CIAM con telemedicina. Accesibilidad universal en locales municipales.",
+            "indicator": "Casa de la Juventud operativa. CEM Municipal en funcionamiento. CIAM con telemedicina. Nivel de accesibilidad universal en locales municipales."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud de calidad, especialmente en zonas alejadas y en salud mental.",
+            "objective": "Fortalecer la atención primaria de salud municipal con énfasis en prevención, salud mental y cobertura en zonas periféricas.",
+            "goal": "3 Centros de Atención Psicológica Comunitaria implementados. Unidades móviles de salud con cobertura mensual en 4 zonas alejadas.",
+            "indicator": "Número de Centros de Atención Psicológica Comunitaria implementados. Número de unidades móviles de salud."
+          },
+          {
+            "problem": "Alto riesgo de desastres: más de 21 quebradas activas con historial de huaicos y cientos de familias afectadas.",
+            "objective": "Implementar un sistema integral de gestión del riesgo de desastres que anticipe, responda y reduzca el impacto de fenómenos naturales.",
+            "goal": "SAT-Chosica operativo en 15 quebradas al 2028. 800 brigadistas capacitados. 4 simulacros por año. 200 familias reubicadas de zonas no mitigables.",
+            "indicator": "Número de quebradas con sistema de alerta. Número de brigadistas activos. Número de simulacros por año. Número de familias reubicadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Infraestructura vial deteriorada: déficit de vías pavimentadas en zonas urbanas y periféricas.",
+            "objective": "Ejecutar el Plan 'Shock de Obras' para recuperar la infraestructura vial y mejorar los espacios públicos del distrito.",
+            "goal": "50 km de vías pavimentadas. 10 losas deportivas en zonas periféricas. Alumbrado LED en zonas oscuras. Mercado Modelo Municipal al 2029.",
+            "indicator": "Kilómetros de vías pavimentadas. Número de losas deportivas construidas. Cobertura de alumbrado LED. Mercado Modelo Municipal construido."
+          },
+          {
+            "problem": "Desempleo juvenil y escasa oferta de empleo formal en el distrito.",
+            "objective": "Dinamizar la economía local generando empleo digno mediante el Centro Municipal de Emprendimiento e incentivos a empresas locales.",
+            "goal": "Centro Municipal de Emprendimiento operativo. Feria mensual 'Hecho en Chosica'. Reducción de tiempo de licencias de 15 a 5 días.",
+            "indicator": "Centro Municipal de Emprendimiento operativo. Realización de feria mensual. Tiempo de licencias."
+          },
+          {
+            "problem": "Potencial turístico desaprovechado: recursos naturales, arqueológicos y gastronómicos sin circuitos ni promoción.",
+            "objective": "Posicionar a Chosica como destino turístico de Lima Este mediante circuitos oficiales, señalética inteligente y promoción cultural.",
+            "goal": "Puesta en valor de 2 recursos turísticos. Circuitos de tracking, gastronomía e historia operativos. Inclusión en circuito oficial PROMPERÚ.",
+            "indicator": "Número de recursos turísticos puestos en valor. Circuitos turísticos operativos. Inclusión en circuito oficial PROMPERÚ."
+          },
+          {
+            "problem": "Informalidad empresarial: 85% de MYPES operan en la informalidad con limitado acceso a financiamiento.",
+            "objective": "Fomentar la formalización empresarial y el acceso al mercado financiero e inclusión financiera de las MYPES del distrito.",
+            "goal": "Reducir informalidad de MYPES de 85% a 61% al 2030. Caja Municipal de Ahorro y Crédito operativa al 2028.",
+            "indicator": "Porcentaje de informalidad de las MYPES. Institución financiera creada."
+          },
+          {
+            "problem": "Déficit de servicios básicos: agua, alcantarillado y condiciones de abastecimiento insuficientes en zonas periféricas.",
+            "objective": "Gestionar con SEDAPAL y el Gobierno Nacional la ampliación de redes de agua, desagüe y mercados de abasto para el distrito.",
+            "goal": "Ampliación de redes de agua y desagüe en zonas sin cobertura. Terminal Pesquero Municipal al 2030.",
+            "indicator": "Cobertura de redes de agua y desagüe. Terminal Pesquero Municipal construido."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación del río Rímac y quebradas por residuos sólidos y vertimientos.",
+            "objective": "Articular con ANA, MINAM y Gobierno Regional el monitoreo y recuperación ambiental del río Rímac y quebradas del distrito.",
+            "goal": "Monitoreo permanente de calidad del agua del río Rímac. Plan de Gestión de Cuenca articulado con Gobierno Regional.",
+            "indicator": "Monitoreo permanente de calidad del agua del río Rímac. Plan de Gestión de Cuenca articulado."
+          },
+          {
+            "problem": "Contaminación del aire por polvo atmosférico suspendido (PAS) y humo, que supera estándares de calidad.",
+            "objective": "Reducir los impactos negativos del polvo y humo mediante reforestación, economía circular y educación ambiental.",
+            "goal": "Reducir el índice de calidad del aire de 4 veces ECA a 2 veces ECA. Plantar 10,000 árboles/año en laderas y riberas.",
+            "indicator": "Índice de Calidad del Aire. Número de árboles plantados por año."
+          },
+          {
+            "problem": "Viviendas y asentamientos en zonas de alto riesgo frente a inundaciones, huaicos y deslizamientos.",
+            "objective": "Reducir la vulnerabilidad de viviendas ante desastres mediante mapeo de riesgo, asistencia técnica y obras de protección.",
+            "goal": "Mapa actualizado de viviendas en riesgo no mitigable. Planos antisísmicos gratuitos. Defensas ribereñas y muros de contención.",
+            "indicator": "Mapa actualizado de viviendas en riesgo. Disponibilidad de planos antisísmicos. Metros lineales de defensas ribereñas y muros de contención."
+          },
+          {
+            "problem": "Contaminación de calles, avenidas y espacios públicos por inadecuada gestión de residuos sólidos.",
+            "objective": "Mejorar la calidad de los servicios de limpieza pública e implementar la segregación en la fuente en el distrito.",
+            "goal": "Incrementar cobertura de barrido y limpieza al 92% al 2030. Segregación en la fuente en el 80% del distrito al 2029.",
+            "indicator": "Porcentaje de barrido y limpieza. Porcentaje de segregación en la fuente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiente ejecución presupuestal: promedio de 76.6% de ejecución, generando reversión de recursos al Tesoro Público.",
+            "objective": "Mejorar las capacidades de gestión del Gobierno Local para la ejecución integral y eficiente del presupuesto institucional.",
+            "goal": "Ejecución presupuestal: 90% (2027), 95% (2028), 98% (2029-2030). Reducción del índice de morosidad del impuesto predial.",
+            "indicator": "Porcentaje de ejecución del gasto del presupuesto asignado. Índice de morosidad del impuesto predial."
+          },
+          {
+            "problem": "Escasa participación ciudadana real en la toma de decisiones y priorización de obras.",
+            "objective": "Fortalecer los mecanismos de participación ciudadana y veeduría social en la gestión municipal.",
+            "goal": "5 asambleas zonales de presupuesto participativo por año. Comités de obras con facultad de inspección. Cabildos trimestrales.",
+            "indicator": "Número de asambleas zonales de presupuesto participativo. Existencia de comités de obras. Realización de cabildos trimestrales."
+          },
+          {
+            "problem": "Gestión municipal con limitada capacidad en gobierno digital, transparencia y profesionalización de servidores públicos.",
+            "objective": "Modernizar la gestión pública municipal en gobierno digital, capacitación de funcionarios y transparencia activa.",
+            "goal": "100% de funcionarios capacitados al 2028. Gobierno digital al 60% al 2030. App 'Chosica Digital' operativa al 2027.",
+            "indicator": "Porcentaje de funcionarios capacitados. Índice de desarrollo de gobierno digital. App 'Chosica Digital' operativa."
+          },
+          {
+            "problem": "Percepción de corrupción e ineficiencia: desconfianza ciudadana en la gestión municipal.",
+            "objective": "Implementar el Modelo de Integridad Pública con tolerancia cero a la corrupción y canales de denuncia accesibles.",
+            "goal": "Canal de denuncias 24/7 operativo. Auditorías concurrentes con Contraloría en obras mayores. Declaraciones juradas públicas de funcionarios.",
+            "indicator": "Canal de denuncias operativo. Realización de auditorías concurrentes. Publicación de declaraciones juradas de funcionarios."
+          },
+          {
+            "problem": "Sensación de desatención y abandono en zonas periféricas del distrito como Cajamarquilla, Nievería, Huachipa, Carapongo y Ñaña.",
+            "objective": "Priorizar la inversión y los programas sociales en zonas periféricas y grupos vulnerables del distrito.",
+            "goal": "Mínimo 40% del presupuesto de inversión destinado a zonas periféricas. Agencias municipales descentralizadas operativas.",
+            "indicator": "Porcentaje del presupuesto de inversión destinado a zonas periféricas. Agencias municipales descentralizadas operativas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-fcNjYMHsgCUxvtTfsH3CX4wcfFnLXJUG",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/fcNjYMHsgCUxvtTfsH3CX4wcfFnLXJUG",
+      "sha256": "34fb1676a654fa09c93ef06d3eac8344a482b15bd0243ff999ee3e4014dacd91",
+      "accessedAt": "2026-10-02T22:59:07.741Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019961",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019961",
+      "sha256": "b806262df409fda97bbcb4c8aae1ba902a4f2fd0c1b7efb7a302e7b52aae54d2",
+      "accessedAt": "2026-10-02T22:59:08.250Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

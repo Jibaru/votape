@@ -1,0 +1,276 @@
+{
+  "id": "EfLo_fhqW9qi_NYt-2soAn06WguvMEiA",
+  "slug": "jesus-adolfo-quispichuco-taico",
+  "electionId": "erm-2026",
+  "name": "Jesus Adolfo Quispichuco Taico",
+  "givenNames": "Jesus Adolfo",
+  "surnames": "Quispichuco Taico",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140114",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:42.764Z",
+      "sourceId": "jne-hv-EfLo_fhqW9qi_NYt-2soAn06WguvMEiA"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1998"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "MAGÍSTER EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2013"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD ESAN",
+        "program": "COACHING PROFESIONAL",
+        "completed": true,
+        "degree": "DIPLOMA INTERNACIONAL EN COACHING PROFESIONAL",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIVERSIDAD PRIVADA SAN JUAN BAUTISTA",
+      "role": "DOCENTE",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIDAD DE GESTIÓN EDUCATIVA LOCAL N° 04",
+      "role": "JEFE DE AREA I ASESORIA JURIDICA",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "MINISTERIO DE ENERGIA Y MINAS",
+      "role": "JEFE DE LA OFICINA GENERAL DE ASESORIA JURIDICAA",
+      "from": "2022",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "DELEGADO",
+      "party": "ALIANZA PARA EL PROGRESO DEL PERU",
+      "from": "2015",
+      "to": "2016"
+    },
+    {
+      "position": "SECRETARIO NACIONAL DE PLAN DE GOBIERNO",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2015",
+      "to": "2017"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO DEL PERU",
+      "year": "2016"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 162275.12,
+        "public": 162275.12,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 15588.3,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 101616.34,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11300.36,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "NISSAN SENTRA 2023",
+        "value": 74172.28
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "OVERCOM ASESORES Y CONSULTORES SAC",
+        "type": "ACCIONES",
+        "quantity": 30,
+        "value": 300
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a5295a6b-2dbb-4e98-80b1-54fae2d063f4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/29369e4a-2797-4e1a-ac3d-38b5b2eb638d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de apoyo al deporte.",
+            "objective": "1. Se gestionará a través de convenios el uso permanente del campo de futbol del Hospital Víctor Larco Herrera, para los vecinos del distrito, locación que además servirá para la práctica de otros deportes.",
+            "goal": "Contar con un campo de futbol municipal público y crear o mejorar al menos 5 espacios para la práctica del deporte para el segundo semestre del primer año de gestión.",
+            "indicator": "1. Número de campos deportivos construidos o recuperados. 2. Número de espacios deportivos públicos implementados o mejorados"
+          },
+          {
+            "problem": "Baja prioridad del sector juvenil en las políticas públicas de la Municipalidad",
+            "objective": "Creación de la Casa de la Juventud e implementación de programas de capacitación para la mejora de las capacidades y empleabilidad de los jóvenes",
+            "goal": "Ejecución al 100% en el segundo año de gestión",
+            "indicator": "1. Porcentaje de avance en la implementación de la casa de la juventud"
+          },
+          {
+            "problem": "Inseguridad ciudadana en el distrito",
+            "objective": "Implementar el Plan “Magdalena 360°” que consiste en optimizar los recursos logísticos y de personal existentes, integrándolos en un solo sistema, y aplicar una estrategia de vigilancia sectorizada del distrito. Además hacer uso de la tecnología a través del aplicativo “Alerta Magdalena”",
+            "goal": "1. Reducción de las índices delincuenciales de manera progresiva empezando por un 30% como mínimo.",
+            "indicator": "1. Tasa de delitos denunciados por cada 1000 habitantes 2. Número de robos de vehículos registrados 3. Porcentaje de vecinos que manifiestan sentirse inseguros en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "No se aprovechan las oportunidades y potencialidades turísticas que tiene el distrito",
+            "objective": "Poner en marcha un plan agresivo de recuperación, puesta en valor y desarrollo de los entornos de las zonas con potencial turístico del distrito (Huaca Huantille, Iglesia Sagrado Corazón de María – Cúpula, la Costa Verde, etc.,). Elaborar el plan de marketing de las zonas turísticas.",
+            "goal": "Al término de la gestión, lograr el posicionamiento de Magdalena como un distrito que atrae por su diversidad cultural. El 70% de vecinos lo identifican como un distrito cultural.",
+            "indicator": "Porcentaje de vecinos que identifican a Magdalena como un distrito cultural."
+          },
+          {
+            "problem": "No es una práctica constante el brindar herramientas que coadyuven a la inserción laboral de los vecinos",
+            "objective": "Programas permanentes de capacitación en idiomas, informática y otros estudios técnicos.",
+            "goal": "Programas cuatro veces por año",
+            "indicator": "N° de programas de capacitación ejecutados por año."
+          },
+          {
+            "problem": "La municipalidad no cumple un rol promotor del emprendimiento y del desarrollo del sector comercial.",
+            "objective": "1. Brindar al sector comercial y empresarial del distrito capacitación especializada para la mejor gestión de sus negocios. 2. Propiciar un acercamiento estratégico entre las instituciones financieras y el sector comercial",
+            "goal": "Programas de capacitación cuatro veces por año, que incluirán orientación empresarial. Dos reuniones estratégicas por año con sector financiero",
+            "indicator": "N° de programas de capacitación ejecutados por año. N° de reuniones entre representantes de comerciantes y sector financiero."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado. Edificios de vivienda que se construyen sin considerar características y limitaciones de las zonas e impacto vial.",
+            "objective": "Se elaborará el Plan Urbano distrital, como documento orientador del desarrollo urbano y el crecimiento habitacional del distrito. No más edificios que no cumplan alturas ni parámetros.",
+            "goal": "El Plan Urbano se elaborará en talleres con los vecinos que se realizarán en los 2 primeros años de gestión",
+            "indicator": "Numero de planes urbanos distritales, elaborados y aprobados al término del segundo año d gestión."
+          },
+          {
+            "problem": "No se cuenta con una guardería municipal, para la atención de la población vulnerable del distrito.",
+            "objective": "Implementar la Guardería Municipal en beneficio de las madres del distrito en situación de vulnerabilidad.",
+            "goal": "Guardería Municipal en funcionamiento al término del segundo año de gestión.",
+            "indicator": "Número de Guarderías Municipales implementadas y operativas."
+          },
+          {
+            "problem": "La Huaca Huantille no ofrece espacios adecuados para la visita y conocimiento de su historia, ni para las expresiones culturales afines. Los alrededores aún siguen con poca iluminación y el entorno no ofrece las condiciones apropiadas para los turistas",
+            "objective": "Se culminará con la puesta en valor de la Huaca, mejorando el ornato, la iluminación y la infraestructura de su entorno, creándose un bulevar de acceso con propuesta cultural en la cuadra 11 del Jr. Echenique. Además se mejorarán y modernizarán las instalaciones internas, para la implementación de un verdadero museo de sitio y el desarrollo de expresiones culturales",
+            "goal": "Mejoramiento del alumbrado público de su entorno, bulevar y mejora de las instalaciones internas al 100% en el tercer año de gestión.",
+            "indicator": "Porcentaje de intervenciones de mejoramiento ejecutadas en el entorno de la Huaca"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Trámites municipales sin mecanismos que garanticen su transparencia",
+            "objective": "Implementar el ISO 37001 – Sistema de Gestión Antisoborno en los trámites sensibles.",
+            "goal": "Culminación al 100% del proceso de implementación del ISO 37001 en el segundo semestre del primer año de gestión.",
+            "indicator": "Estado de certificación culminado del Sistema de Gestión Antisoborno – ISO 3700, al finalizar el primer año de gestión."
+          },
+          {
+            "problem": "Miembros del Serenazgo y personal de fiscalización que carecen de idoneidad y preparación.",
+            "objective": "-Creación de la Escuela de Serenos -Procesos de selección rigurosos para el personal del serenazgo y fiscalización -El personal de fiscalización nuevo deberá ser profesional",
+            "goal": "-Creación de la Escuela de Serenos el primer año de gestión. -Adicionar requisitos para el personal del serenazgo y fiscalización en pruebas psicológicas y de habilidades blandas, en el primer trimestre de gestión. -Modificar el perfil del personal de fiscalización, estableciendo la obligatoriedad de que cuenten con título profesional, según las materias requeridas, en el primer trimestre de gestión",
+            "indicator": "-Numero de escuelas implementadas y operativas en el primer año de gestión. Modificación de la norma o documento de gestión que apruebe requisitos, en el primer trimestre de gestión. -Perfil modificado y aplicable a los procesos de selección en el primer trimestre de gestión."
+          },
+          {
+            "problem": "Poca transparencia en la toma de decisiones por parte del Concejo Municipal y el Alcalde.",
+            "objective": "Transmisión en directo de las sesiones de concejo y reuniones del alcalde vía internet a través del portal institucional",
+            "goal": "Transmisiones en directo del 100% de las sesiones de Concejo y de las reuniones del Alcalde con empresas privadas.",
+            "indicator": "N° de sesiones y reuniones vs N° de transmisiones"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-EfLo_fhqW9qi_NYt-2soAn06WguvMEiA",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/EfLo_fhqW9qi_NYt-2soAn06WguvMEiA",
+      "sha256": "b406d4a6a0f9e0e4f60978ace05db6d88dcac826a89db303c40d382b80ec6a30",
+      "accessedAt": "2026-10-02T22:59:42.764Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015431",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015431",
+      "sha256": "b64305558c696332c44dc61beb3fe6c7ab44a6cb5a327646ce6e62a730f53c72",
+      "accessedAt": "2026-10-02T22:59:43.249Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

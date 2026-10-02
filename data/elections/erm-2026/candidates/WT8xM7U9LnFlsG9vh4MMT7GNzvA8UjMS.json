@@ -1,0 +1,172 @@
+{
+  "id": "WT8xM7U9LnFlsG9vh4MMT7GNzvA8UjMS",
+  "slug": "victor-manuel-calderon-rodriguez",
+  "electionId": "erm-2026",
+  "name": "Victor Manuel Calderon Rodriguez",
+  "givenNames": "Victor Manuel",
+  "surnames": "Calderon Rodriguez",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:06.302Z",
+      "sourceId": "jne-hv-WT8xM7U9LnFlsG9vh4MMT7GNzvA8UjMS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INSTITUCION PASTORAL POLÍTICA DEL PERÚ",
+      "role": "PRESIDENTE",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE LA VICTORIA",
+      "role": "LOCACION DE SERVICIO",
+      "from": "2024",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Ocupo cargo de presidente de la asociación institución Pastoral Política del Perú inscrito en el registro de personas jurídicas en el rubro de Constitución de asociaciones de la oficina registral de Lima Partida N° 15770195.",
+    "deuda irregular ante SUNAT estado en proceso administrativo",
+    "Soy Religioso de la iglesia Católica Ortodoxa del Perú la iglesia cubre mis gastos personales y otros."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f256e58b-dfdb-4cc1-b301-83cf6b079191.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/71be6b3a-e317-4872-a092-39b8634f5835.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de delitos contra el patrimonio (robos, hurtos) y extorsión. Déficit de equipamiento de seguridad y coordinación interinstitucional.",
+            "objective": "Implementar Centros de Monitoreo y Videovigilancia zonales y un Sistema Integrado de Seguridad Ciudadana (CODISEC), ampliando flota y capacidades preventivas.",
+            "goal": "Reducir la tasa de delitos en un 20%. Instalar 500 cámaras en 7 Centros de Monitoreo. Flota de 30 patrulleros y 21 motos.",
+            "indicator": "Tasa de denuncias por delitos en VMT. Número de cámaras instaladas y operativas. Número de patrulleros y motos asignados."
+          },
+          {
+            "problem": "Prevalencia de anemia y desnutrición crónica en niños menores de 3 años. Déficit de servicios de salud accesibles en asentamientos humanos.",
+            "objective": "Erradicar la anemia infantil mediante alianzas con MINSA, centros de salud móviles, Clínica Municipal y fortalecimiento de los programas sociales.",
+            "goal": "Reducir en un 15% los niveles de anemia infantil. Mínimo 35 campañas médicas al año. Clínica Municipal operativa al término de la gestión.",
+            "indicator": "Porcentaje de niños menores de 3 años con anemia en VMT. Número de campañas médicas descentralizadas. Número de beneficiarios de la Clínica Municipal."
+          },
+          {
+            "problem": "Jóvenes entre 15 y 29 años en situación NINI (ni estudian ni trabajan). Escasa oferta de formación técnica certificada y bolsa de empleo.",
+            "objective": "Promover la inserción laboral mediante el CETPRO Municipal con certificación nacional y ferias de empleo descentralizadas.",
+            "goal": "600 jóvenes capacitados/certificados al año. Realizar 16 ferias laborales descentralizadas por año.",
+            "indicator": "Número de jóvenes certificados anualmente. Número de ferias laborales descentralizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad empresarial, barreras burocráticas y falta de orientación que impiden la formalización de MYPES y comercio ambulatorio.",
+            "objective": "Promover la formalización mediante el programa 'Emprende VMT' por zona, asesoría técnica-contable gratuita y campaña creativa para la MYPE.",
+            "goal": "Formalizar progresivamente el comercio ambulatorio. Instalar oficina 'Emprende VMT' en las 7 zonas. Realizar campañas creativas de negocio MYPE semestral.",
+            "indicator": "Porcentaje de comerciantes formalizados respecto al total del comercio ambulatorio actual. Número de zonas con oficina 'Emprende VMT'."
+          },
+          {
+            "problem": "Infraestructura vial y peatonal deteriorada. Déficit de muros de contención y escaleras en asentamientos humanos de laderas. Veredas inaccesibles para personas con discapacidad.",
+            "objective": "Ejecutar un programa de mantenimiento y rehabilitación vial, construir muros y escaleras en asentamientos humanos, y mejorar veredas con criterio de accesibilidad universal.",
+            "goal": "Mantener y rehabilitar las principales vías distritales. Construir 200 muros de contención en laderas. Habilitar 100 escaleras con pasamanos en asentamientos humanos. Mejora de veredas con énfasis en accesibilidad universal.",
+            "indicator": "Kilómetros de vías mantenidas y rehabilitadas. Número de muros de contención construidos. Número de escaleras habilitadas en asentamientos humanos. Metros lineales de veredas accesibles."
+          },
+          {
+            "problem": "Proliferación de vehículos menores (mototaxis) informales, sin identificación, SOAT ni revisión técnica, con paraderos informales que generan caos vial.",
+            "objective": "Formalizar el transporte menor, eliminar paraderos informales en coordinación con la MML e implementar control de vehículos por código QR.",
+            "goal": "Formalizar progresivamente los vehículos menores. Eliminar paraderos informales con apoyo de la MML. 100% de vehículos registrados con código QR de identificación.",
+            "indicator": "Porcentaje de vehículos menores formalizados. Número de paraderos informales eliminados. Porcentaje de vehículos con código QR activo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación crítica de residuos sólidos en calles, avenidas y zonas residenciales. Sistema de recolección ineficiente sin reciclaje estructurado.",
+            "objective": "Modernizar la gestión de residuos mediante campañas de reciclaje, puntos ecológicos de superficie, formalización de recicladores y planta de compostaje.",
+            "goal": "Alcanzar cobertura eficiente en las principales vías. Instalar puntos ecológicos en todas las avenidas principales. Formalizar al 100% las asociaciones de recicladores del distrito.",
+            "indicator": "Porcentaje de cobertura diaria del servicio de recolección. Número de puntos ecológicos instalados. Número de asociaciones de recicladores formalizadas."
+          },
+          {
+            "problem": "Déficit crítico de áreas verdes, abandono de parques zonales y amenaza de invasión sobre las Lomas de Paraíso.",
+            "objective": "Desarrollar el 'Cinturón Verde Villamariano', promover el cuidado activo de las Lomas de Paraíso como patrimonio natural e impulsar el ecoturismo comunitario.",
+            "goal": "Incrementar a 2.5 metros cuadrados por habitante de área verde al cierre de gestión. Realizar mínimo 2 campañas de cuidado de las Lomas por año. Implementar 2 circuitos ecoturísticos con gestión comunitaria.",
+            "indicator": "Metros cuadrados de área verde por habitante. Número de campañas de concientización y cuidado de las Lomas realizadas. Número de circuitos ecoturísticos operativos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza ciudadana ante la gestión municipal. Falta de transparencia en sesiones del Concejo y en el uso de los recursos públicos.",
+            "objective": "Instaurar un Portal de Transparencia amigable, transmitir el 100% de las sesiones del Concejo y habilitar mecanismos de denuncia ciudadana.",
+            "goal": "Transmitir el 100% de las sesiones del Concejo desde el primer mes. Portal de Transparencia renovado operativo en los primeros 6 meses. Atender el 100% de las denuncias formales en plazo de ley.",
+            "indicator": "Porcentaje de sesiones del Concejo transmitidas públicamente. Número de denuncias ciudadanas atendidas en plazo de ley."
+          },
+          {
+            "problem": "Trámites municipales engorrosos que requieren presencialidad obligatoria, generando filas, demoras y riesgo de corrupción.",
+            "objective": "Implementar un sistema de gobierno digital que unifique plataformas de atención, habilite pagos en línea del TUPA y digitalice la gestión documental y tributaria.",
+            "goal": "Digitalizar progresivamente los trámites más demandados. Plataforma digital unificada operativa en el primer año de gestión. Sistema tributario digital integrado al primer año.",
+            "indicator": "Porcentaje de procedimientos del TUPA disponibles en línea. Porcentaje de usuarios satisfechos con la atención digital."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-WT8xM7U9LnFlsG9vh4MMT7GNzvA8UjMS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/WT8xM7U9LnFlsG9vh4MMT7GNzvA8UjMS",
+      "sha256": "79fb2d040d1b895ae28dd974e15022124da1b667893f94b51c0f4773d39fdd72",
+      "accessedAt": "2026-10-02T23:07:06.302Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032807",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032807",
+      "sha256": "e2ccda534816bf67c09bf808fda5196f9bec98d40240f531ea9f8f97600e6e20",
+      "accessedAt": "2026-10-02T23:07:06.786Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

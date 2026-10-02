@@ -1,0 +1,239 @@
+{
+  "id": "Q_96ZMgFzbyERb6hmSVywpZZUvVZLG-B",
+  "slug": "felix-mario-ventura-rivera",
+  "electionId": "erm-2026",
+  "name": "Felix Mario Ventura Rivera",
+  "givenNames": "Felix Mario",
+  "surnames": "Ventura Rivera",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:55.224Z",
+      "sourceId": "jne-hv-Q_96ZMgFzbyERb6hmSVywpZZUvVZLG-B"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "LICENCIADO EN CIENCIAS DE LA COMUNICACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN CIENCIAS DE LA COMUNICACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1993"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SERVICIO LOGISTICO TATU S.A.C.",
+      "role": "EMPLEADO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES",
+      "role": "SUPERVISOR DE TRANSPORTE",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "ENERGY AD E.I.R.L.",
+      "role": "EMPLEADO",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE EL AGUSTINO",
+      "role": "COORDINADOR DE TRANSPORTE",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD CENTRO POBLADO SANTA MARIA DE HUACHIPA",
+      "role": "ENCARGADO DE TRANSPORTE",
+      "from": "2016",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 40200,
+        "public": 26640,
+        "private": 13560
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 41227.65,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e494eb7a-48f3-46ac-b656-6370bd2519f2.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/911f6d20-6f49-40de-a72e-b776d1a0da17.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura recreativa y deportiva en estado de abandono, propensa al vandalismo.",
+            "objective": "Recuperar y modernizar la infraestructura de lozas deportivas y parques con iluminación y seguridad.",
+            "goal": "Recuperar y optimizar el 100% de las lozas deportivas y parques locales.",
+            "indicator": "Número de lozas deportivas y espacios públicos recuperados e integrados al control municipal."
+          },
+          {
+            "problem": "Deserción escolar latente en el nivel secundario generada por problemas socioeconómicos.",
+            "objective": "Fortalecer la retención escolar secundaria y expandir programas de educación técnica productiva para jóvenes.",
+            "goal": "Reducir la deserción escolar al 1.5% o menos al 2030.",
+            "indicator": "Tasa anual de deserción escolar registrada en educación secundaria a nivel distrital."
+          },
+          {
+            "problem": "Elevada prevalencia de anemia infantil y desnutrición crónica en menores de 3 años en zonas vulnerables.",
+            "objective": "Reducir la anemia y desnutrición infantil mediante control de tamizaje continuo y complementación nutricional articulada.",
+            "goal": "Reducir la tasa de anemia infantil al 18% para el año 2030.",
+            "indicator": "Porcentaje de prevalencia de anemia en niños menores de 3 años en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto índice de informalidad comercial autónoma y barreras administrativas complejas.",
+            "objective": "Simplificar procesos de formalización mediante el programa de licencias express y asesoría técnica directa.",
+            "goal": "Reducir el índice de informalidad comercial al 60% al año 2030.",
+            "indicator": "Porcentaje de unidades comerciales y de servicios de carácter informal en el distrito."
+          },
+          {
+            "problem": "Sectores habitacionales con demoras crónicas en procesos de saneamiento y titulación.",
+            "objective": "Agilizar el desarrollo urbano y saneamiento físico-legal mediante visación rápida de planos de vivienda.",
+            "goal": "Lograr la formalización y visación del 80% de sectores pendientes.",
+            "indicator": "Porcentaje de sectores y predios con saneamiento físico-legal e instrumental culminado."
+          },
+          {
+            "problem": "Bajos niveles de ingresos promedio mensuales familiares en los hogares del distrito.",
+            "objective": "Estimular el empleo local formal a través de alianzas estratégicas productivas y fomento de capacidades.",
+            "goal": "Incrementar de manera sostenible el ingreso promedio mensual familiar al 2030.",
+            "indicator": "Tasa de variación del ingreso promedio mensual de la población económicamente activa local."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Grave déficit de metros cuadrados de áreas verdes por habitante en las zonas consolidadas.",
+            "objective": "Incrementar y preservar las áreas verdes del distrito mediante arborización urbana y riego tecnificado.",
+            "goal": "Alcanzar un mínimo de 4 m² de áreas verdes por habitante al 2030.",
+            "indicator": "Metros cuadrados de áreas verdes públicas mantenidas por habitante en la jurisdicción."
+          },
+          {
+            "problem": "Baja participación comunitaria en programas de sostenibilidad y preservación del entorno.",
+            "objective": "Promover la educación ciudadana en ecología urbana y buenas prácticas ambientales sostenibles.",
+            "goal": "Involucrar directamente a 15,000 vecinos en proyectos ambientales.",
+            "indicator": "Número acumulado de ciudadanos incorporados activamente en programas de segregación y cuidado."
+          },
+          {
+            "problem": "Ineficiencia en las rutas de recolección y acumulación crítica de basura en avenidas y ríos.",
+            "objective": "Optimizar la recolección integral de residuos sólidos urbanos y erradicar los puntos críticos distritales.",
+            "goal": "Incrementar la tasa de reciclaje y segregación distrital al 25% al 2030.",
+            "indicator": "Porcentaje de residuos sólidos del ámbito municipal adecuadamente segregados y reciclados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices delictivos de robos al paso y alarmante percepción de inseguridad vecinal.",
+            "objective": "Fortalecer el Serenazgo municipal bajo el esquema de Tolerancia Cero, patrullaje integrado y videovigilancia.",
+            "goal": "Reducir la percepción de inseguridad vecinal al 45% para el año 2030.",
+            "indicator": "Tasa de incidencia delictiva y porcentaje indexado de percepción de inseguridad ciudadana."
+          },
+          {
+            "problem": "Burocracia lenta en trámites y percepción de vulnerabilidad ante la corrupción interna.",
+            "objective": "Modernizar la gestión municipal digitalizando procesos y garantizando transparencia gubernamental.",
+            "goal": "Reducir los plazos de tramitación administrativa en un 50%.",
+            "indicator": "Nivel de cumplimiento en el Índice de Transparencia Municipal y simplificación del trámite interno."
+          },
+          {
+            "problem": "Escasa inserción vecinal activa en la formulación de planes y control del presupuesto local.",
+            "objective": "Fomentar y canalizar la participación vecinal democrática en los procesos del Presupuesto Participativo.",
+            "goal": "Lograr la participación efectiva de al menos 7,000 vecinos.",
+            "indicator": "Número de ciudadanos acreditados e interconectados participando activamente de las mesas anuales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Q_96ZMgFzbyERb6hmSVywpZZUvVZLG-B",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Q_96ZMgFzbyERb6hmSVywpZZUvVZLG-B",
+      "sha256": "62e630cca1a29438f06de82cebf89b08175ef462999329db4d68bf8c5bb93a27",
+      "accessedAt": "2026-10-02T22:55:55.224Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031332",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031332",
+      "sha256": "cbc23a51e5cbe3bfcb4e8fd00555f7315c46bdc044b4f133abe8145903fc4b69",
+      "accessedAt": "2026-10-02T22:55:55.716Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

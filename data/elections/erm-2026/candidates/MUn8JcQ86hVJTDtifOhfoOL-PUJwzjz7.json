@@ -1,0 +1,297 @@
+{
+  "id": "MUn8JcQ86hVJTDtifOhfoOL-PUJwzjz7",
+  "slug": "jorge-luis-moreno-moran",
+  "electionId": "erm-2026",
+  "name": "Jorge Luis Moreno Moran",
+  "givenNames": "Jorge Luis",
+  "surnames": "Moreno Moran",
+  "age": 71,
+  "gender": "Masculino",
+  "party": {
+    "id": 2924,
+    "name": "PERU MODERNO"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:12.266Z",
+      "sourceId": "jne-hv-MUn8JcQ86hVJTDtifOhfoOL-PUJwzjz7"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Santiago Antúnez de Mayolo",
+        "program": "BACHILLER EN DERECHO Y CIENCIA POLITICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2003"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Inca Garcilaso de la Vega",
+        "program": "Maestria en derecho civil",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MORENO MORAN",
+      "role": "Jefe Departamento de Divorcios",
+      "from": "2016",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "MOVIMIENTO INDEPENDIENTE SOMOS PERU",
+      "from": "1999",
+      "to": "2002"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2021"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 287140,
+        "public": 0,
+        "private": 287140
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "COCHERA",
+        "value": 24072,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 475530,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 120000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "COCHERA",
+        "value": 18707,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DPTO",
+        "value": 144760,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "COCHERA",
+        "value": 21750,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 12000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "COCHERA",
+        "value": 15266,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DPTO",
+        "value": 107034,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 250484,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Camioneta Jeep (2015)",
+        "value": 85000
+      },
+      {
+        "type": "Auto Toyota (1978)",
+        "value": 5000
+      },
+      {
+        "type": "Auto Nissan (2012)",
+        "value": 18000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PENSION ANUAL POR SER PNP"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/961b72e3-671f-4e97-b23c-9ae86addf635.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ba3737d9-f06b-4b5c-8d2b-e149c8312e24.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada cobertura de programas de bienestar social para las poblaciones vulnerables del distrito.",
+            "objective": "Fortalecer los programas de atención social, salud preventiva y asistencia comunitaria.",
+            "goal": "Incrementar la cobertura de programas sociales y de salud preventiva.",
+            "indicator": "Número de campañas realizadas; número de beneficiarios atendidos."
+          },
+          {
+            "problem": "Percepción de inseguridad ciudadana y necesidad de fortalecer la prevención del delito en el distrito.",
+            "objective": "Fortalecer el sistema integral de seguridad ciudadana mediante el uso de tecnología, la modernización del serenazgo y el trabajo coordinado con la Policía Nacional del Perú.",
+            "goal": "Incrementar la cobertura de videovigilancia distrital y fortalecer la capacidad operativa del sistema de seguridad ciudadana.",
+            "indicator": "Número de cámaras inteligentes instaladas; tiempo promedio de respuesta del serenazgo; número de intervenciones preventivas realizadas."
+          },
+          {
+            "problem": "Necesidad de fortalecer el acceso de la población a actividades culturales, deportivas y recreativas.",
+            "objective": "Promover el desarrollo integral de niños, jóvenes y adultos mediante programas culturales y deportivos.",
+            "goal": "Incrementar la participación vecinal en actividades culturales y deportivas.",
+            "indicator": "Número de talleres implementados; número de participantes registrados."
+          },
+          {
+            "problem": "Insuficiente atención a la protección y bienestar de los animales domésticos en el distrito.",
+            "objective": "Promover la tenencia responsable y fortalecer los servicios de protección animal.",
+            "goal": "Consolidar un sistema distrital de bienestar animal.",
+            "indicator": "Número de esterilizaciones realizadas; número de vacunaciones ejecutadas; número de adopciones promovidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Dificultades en el acceso de los vecinos, especialmente jóvenes y adultos, a oportunidades laborales y de capacitación.",
+            "objective": "Facilitar el acceso de los vecinos a oportunidades laborales y de capacitación.",
+            "goal": "Incrementar las oportunidades de inserción laboral para jóvenes y vecinos del distrito.",
+            "indicator": "Número de ofertas laborales difundidas. Número de beneficiarios colocados laboralmente."
+          },
+          {
+            "problem": "Los pequeños negocios y emprendedores del distrito requieren mayores oportunidades de capacitación, promoción y acceso a espacios de comercialización.",
+            "objective": "Impulsar el crecimiento de los emprendimientos y pequeñas empresas del distrito.",
+            "goal": "Beneficiar a más de 2,000 emprendedores del distrito.",
+            "indicator": "Número de emprendedores beneficiados. Número de capacitaciones realizadas. Número de ferias desarrolladas."
+          },
+          {
+            "problem": "Complejidad y lentitud en los procedimientos administrativos municipales vinculados a la actividad económica que afectan a los emprendedores.",
+            "objective": "Simplificar y agilizar los procedimientos administrativos municipales vinculados a la actividad económica.",
+            "goal": "Reducir significativamente los tiempos de atención municipal.",
+            "indicator": "Tiempo promedio de atención. Número de trámites digitalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El crecimiento poblacional y urbano exige fortalecer las políticas de segregación de residuos y reciclaje para mitigar el impacto ambiental.",
+            "objective": "Incrementar los niveles de reciclaje y reducir el impacto ambiental de los residuos sólidos.",
+            "goal": "Incrementar en 50% los niveles de reciclaje domiciliario en el distrito.",
+            "indicator": "Número de hogares participantes. Toneladas de residuos reciclados. Número de puntos ecológicos implementados."
+          },
+          {
+            "problem": "Necesidad de ampliar la cobertura de áreas verdes y asegurar su adecuado mantenimiento para la sostenibilidad ambiental del distrito.",
+            "objective": "Incrementar y conservar las áreas verdes del distrito.",
+            "goal": "Incrementar progresivamente la cobertura de áreas verdes distritales.",
+            "indicator": "Número de árboles plantados. Metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "Infraestructura urbana que requiere modernización para mejorar la seguridad, accesibilidad y calidad de vida de los vecinos.",
+            "objective": "Mejorar la infraestructura urbana para fortalecer la seguridad, accesibilidad y calidad de vida de los vecinos.",
+            "goal": "Modernizar progresivamente la infraestructura urbana en las principales vías y espacios públicos del distrito.",
+            "indicator": "Número de luminarias LED instaladas. Número de cruces peatonales intervenidos. Metros lineales de infraestructura mejorada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja eficiencia en los servicios municipales y necesidad de una modernización digital para mejorar la atención al ciudadano.",
+            "objective": "Mejorar la calidad y eficiencia de los servicios municipales.",
+            "goal": "Digitalizar la mayoría de los procedimientos municipales de atención al ciudadano.",
+            "indicator": "Porcentaje de trámites digitalizados. Tiempo promedio de atención."
+          },
+          {
+            "problem": "Débil relación entre la municipalidad y los vecinos, lo cual limita los espacios de participación y control ciudadano.",
+            "objective": "Fortalecer la relación entre la municipalidad y los vecinos.",
+            "goal": "Garantizar mecanismos permanentes de participación y control ciudadano.",
+            "indicator": "Número de audiencias realizadas. Número de vecinos participantes. Número de reportes publicados."
+          },
+          {
+            "problem": "Falta de mecanismos efectivos para la rendición de cuentas y el acceso a la información pública sobre la gestión municipal.",
+            "objective": "Promover una gestión basada en la transparencia y el acceso a la información pública.",
+            "goal": "Mantener informada a la ciudadanía sobre el avance de los compromisos asumidos en el presente Plan de Gobierno.",
+            "indicator": "Número de informes emitidos. Número de actividades de rendición de cuentas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-MUn8JcQ86hVJTDtifOhfoOL-PUJwzjz7",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/MUn8JcQ86hVJTDtifOhfoOL-PUJwzjz7",
+      "sha256": "89418ae6c90e4fb5ecae36f1e353713a352be11a067ce3d196688ab9f86210a5",
+      "accessedAt": "2026-10-02T23:05:12.266Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014674",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014674",
+      "sha256": "e7032ababadd44347b12f1777ddb67b33f2f05a5cb25ace0061c620745a9280c",
+      "accessedAt": "2026-10-02T23:05:12.908Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "-Y_l7WAfSt6CpNVwgB1c2Ovk4dnJEWEN",
+  "slug": "roberth-edwuard-montoya-puente",
+  "electionId": "erm-2026",
+  "name": "Roberth Edwuard Montoya Puente",
+  "givenNames": "Roberth Edwuard",
+  "surnames": "Montoya Puente",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:33.111Z",
+      "sourceId": "jne-hv--Y_l7WAfSt6CpNVwgB1c2Ovk4dnJEWEN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad de Barranco",
+      "role": "Gerente de Participación Vecinal y Bienestar Social",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "Municipalidad de La Victoria",
+      "role": "Gerente Municipal",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "Municipalidad de La Victoria",
+      "role": "Gerente de Desarrollo Social y de la Mujer",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "Municipalidad de La Victoria",
+      "role": "Sub gerente de Educación, Cultura, Deporte y Turismo",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "employer": "Municipalidad de San Borja",
+      "role": "Jefe de la unidad de Juventudes, Recreación y Deportes",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "RENOVACION POPULAR",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    },
+    {
+      "party": "PERU POSIBLE",
+      "year": "2012"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 41040,
+        "public": 41040,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "Honda HR-V",
+        "value": 44830.5
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fffe8552-13c4-4d7f-99f1-5308d6d5d6bf.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3bba09cb-ad62-4a7d-b94b-57d69fae7c40.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de ambulancias urbanas de propiedad municipal, prevalencia de anemia infantil del 15.1% y una incidencia de morbilidad por infecciones respiratorias agudas del 29.02%.",
+            "objective": "Integrar ambulancias urbanas autónomas, implementar preventorios itinerantes de salud en los 12 sectores vecinales y reforzar la vigilancia fitosanitaria y de seguridad alimentaria.",
+            "goal": "Adquirir e integrar dos nuevas ambulancias Tipo I y II operativas municipales en el primer año de gestión.",
+            "indicator": "Número de ambulancias urbanas autónomas operativas de propiedad municipal."
+          },
+          {
+            "problem": "Alza de la incidencia delictiva general y de los robos al paso, con cámaras de seguridad sin tecnología analítica y canales de atención de emergencias lentos.",
+            "objective": "Ejecutar el plan \"San Borja Muy Seguro\" para modernizar la central de videovigilancia con inteligencia artificial, botones de pánico, drones y patrullaje con civiles armados.",
+            "goal": "Alcanzar el 100% de cámaras de seguridad repotenciadas e integradas con tecnología de inteligencia artificial, y reducir el tiempo de respuesta a emergencias a menos de 3 minutos.",
+            "indicator": "Porcentaje de cámaras de seguridad integradas con software de inteligencia artificial analítica. Tiempo promedio de respuesta ante emergencias de la aplicación SOS."
+          },
+          {
+            "problem": "Envejecimiento demográfico acelerado con un único Centro Integral de Atención al Adulto Mayor (CIAM) y losas deportivas públicas desprotegidas de las condiciones climáticas.",
+            "objective": "Descentralizar la protección social al adulto mayor mediante la construcción de Casas del Adulto Mayor (CIAM) sectoriales y ejecutar el techado estructural e iluminación LED de los complejos deportivos municipales.",
+            "goal": "Construir e implementar cuatro nuevas Casas CIAM equipadas. Techar e iluminar con LED el 100% de las losas públicas en el distrito.",
+            "indicator": "Número de Casas del Adulto Mayor (CIAM) construidas e implementadas. Porcentaje de losas del Polideportivo Limatambo techadas e iluminadas con tecnología LED."
+          },
+          {
+            "problem": "Necesidad de garantizar la modernización digital del entorno pedagógico escolar para consolidar el ecosistema de Smart City del distrito.",
+            "objective": "Mantener y optimizar la infraestructura de conectividad de alta velocidad en las instituciones educativas públicas, promoviendo su uso pedagógico y el desarrollo del pensamiento crítico.",
+            "goal": "Sostener el 100% de conectividad y acceso digital con fines pedagógicos en las escuelas públicas de la jurisdicción.",
+            "indicator": "Porcentaje de instituciones educativas públicas del distrito que cuentan con acceso a internet de banda ancha para uso pedagógico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil inserción laboral de la población vulnerable y desarticulación del programa municipal Bolsa de Trabajo frente a las demandas de las empresas locales.",
+            "objective": "Reestructurar el programa Bolsa de Trabajo, articulando la capacitación de los talleres municipales con los requerimientos del sector privado del distrito.",
+            "goal": "Insertar a 2,500 vecinos vulnerables de manera formal en el mercado laboral privado.",
+            "indicator": "Cantidad de vecinos colocados anualmente en puestos laborales formales a través de la Bolsa de Trabajo municipal."
+          },
+          {
+            "problem": "Presencia de aproximadamente 20 puntos de comercio informal en la vía pública y espacios recreativos, afectando la competitividad de los comercios formales.",
+            "objective": "Ordenar los focos de comercio informal mediante su reubicación a ferias itinerantes y desarrollar una plataforma digital para la formalización de microemprendedores.",
+            "goal": "Reducir a cero los puntos de comercio ambulante no autorizado y formalizar a 800 microemprendedores integrándolos al mercado económico.",
+            "indicator": "Puntos de comercio informal activos en calles y espacios recreativos del distrito. Porcentaje de emprendedores del distrito formalizados con RUC."
+          },
+          {
+            "problem": "Saturación vial y caos del transporte público por la consolidación de paraderos informales y la circulación de colectivos no autorizados en ejes metropolitanos críticos.",
+            "objective": "Erradicar los focos de transporte informal mediante la fiscalización permanente en los ejes viales críticos, en alianza con la Autoridad de Transporte Urbano (ATU).",
+            "goal": "Reducir a cero el número de paraderos informales de transporte público en toda la jurisdicción.",
+            "indicator": "Número de paraderos de transporte informal detectados y activos en el territorio distrital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Envejecimiento del arbolado urbano con deterioro estructural interno no visible, que ha derivado en la caída imprevista de aproximadamente 100 árboles.",
+            "objective": "Transicionar hacia la silvicultura urbana científica mediante el uso de tecnología Tree-Radar (TRU) y tomógrafos sónicos para la detección temprana de cavidades y la programación de podas.",
+            "goal": "Monitorear el 100% del arbolado distrital con ficha digital fitosanitaria y reducir a cero los accidentes por caídas de árboles en parques.",
+            "indicator": "Árboles censados y georreferenciados mediante sistema digital SIG. Incidentes anuales por colapso imprevisto de árboles."
+          },
+          {
+            "problem": "Reducción de las áreas verdes per cápita a 9.32 m² por habitante y pérdidas de agua potable por sistemas de riego manual o por gravedad.",
+            "objective": "Tecnificar el riego de los parques de San Borja, alcanzando el suministro controlado mediante aguas residuales tratadas de Plantas de Tratamiento de Aguas Residuales (PTAR).",
+            "goal": "Lograr que el 90% de las áreas verdes de San Borja sean abastecidas eficientemente con riego tecnificado.",
+            "indicator": "Porcentaje de metros cuadrados de áreas verdes del distrito regadas con agua residual tratada mediante sistemas tecnificados."
+          },
+          {
+            "problem": "Contaminación acústica crítica, con el 90.14% de los puntos de monitoreo excediendo los estándares, y fallas operativas en la gestión de residuos sólidos.",
+            "objective": "Instalar sonómetros automatizados, renovar los contenedores soterrados de residuos sólidos y optimizar la recolección mediante rutas inteligentes con geolocalización (GPS).",
+            "goal": "Reducir en un 50% la contaminación sonora en los ejes críticos y elevar al 80% la participación familiar en el reciclaje.",
+            "indicator": "Puntos de monitoreo acústico que sobrepasan los Estándares de Calidad Ambiental (ECA) para Ruido en horario diurno. Porcentaje de hogares inscritos en el programa \"San Borja Recicla\"."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Nivel de ejecución física real cercano a cero del presupuesto participativo vecinal anual, manteniendo paralizados los proyectos priorizados por la población.",
+            "objective": "Garantizar la ejecución presupuestal física del 100% del presupuesto participativo vecinal anual, destrabando los proyectos prioritarios actualmente paralizados.",
+            "goal": "Alcanzar el 100% de ejecución física real de las obras y proyectos priorizados por las Juntas Vecinales.",
+            "indicator": "Porcentaje de ejecución presupuestal física del Presupuesto Participativo asignado."
+          },
+          {
+            "problem": "Severo déficit de infraestructura de primera respuesta en gestión del riesgo de desastres, con solo 5 de los 12 almacenes soterrados de emergencia requeridos construidos.",
+            "objective": "Subsanar la brecha de infraestructura de Defensa Civil construyendo los almacenes soterrados logísticos faltantes para asegurar la resiliencia urbana del distrito.",
+            "goal": "Lograr la instalación y operatividad de 12 almacenes soterrados, construyendo los 7 faltantes durante la gestión.",
+            "indicator": "Almacenes soterrados humanitarios operativos instalados en el territorio."
+          },
+          {
+            "problem": "Centralización de trámites municipales, procesos manuales fragmentados y un nivel de cumplimiento del Portal de Transparencia Estándar de aproximadamente 78%.",
+            "objective": "Implementar agencias municipales descentralizadas (Tambos Municipales y Muni-Agencias), unificar los módulos digitales de atención e institucionalizar la Transparencia Activa.",
+            "goal": "Operar 12 Tambos Municipales (uno por sector), reparar el 100% de las vías urbanas sin baches en menos de 72 horas y alcanzar el 100% de cumplimiento en Transparencia Estándar.",
+            "indicator": "Número de Muni-Agencias descentralizadas operativas por sector. Porcentaje de calzada asfáltica urbana interna en óptimas condiciones. Nivel de cumplimiento del Portal de Transparencia Estándar."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv--Y_l7WAfSt6CpNVwgB1c2Ovk4dnJEWEN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/-Y_l7WAfSt6CpNVwgB1c2Ovk4dnJEWEN",
+      "sha256": "8b4cf9fcbc9e6a8eee885945d13e880e57a2e61b7a6ef7264a357a4fcdd7d37c",
+      "accessedAt": "2026-10-02T23:02:33.111Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012368",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012368",
+      "sha256": "f0ff22e2a35897a72c260c81740d2faab84b52285cc7eebda980b8ea89936ca4",
+      "accessedAt": "2026-10-02T23:02:33.590Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

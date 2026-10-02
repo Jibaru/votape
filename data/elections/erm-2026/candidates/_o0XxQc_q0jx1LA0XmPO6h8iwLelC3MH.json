@@ -1,0 +1,235 @@
+{
+  "id": "_o0XxQc_q0jx1LA0XmPO6h8iwLelC3MH",
+  "slug": "lucy-balna-falcon-campos",
+  "electionId": "erm-2026",
+  "name": "Lucy Balna Falcon Campos",
+  "givenNames": "Lucy Balna",
+  "surnames": "Falcon Campos",
+  "age": 62,
+  "gender": "Femenino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:23.669Z",
+      "sourceId": "jne-hv-_o0XxQc_q0jx1LA0XmPO6h8iwLelC3MH"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Hermilio Valdizán de Huánuco",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1993"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Hermilio Valdizán de Huánuco",
+        "program": "BACHILLER EN CIENCIAS CONTABLES Y FINANCIERAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1990"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ESTUDIO CONTABLE FALCON Y ASOCIADOS",
+      "role": "CONTADOR PÚBLICO",
+      "from": "1993",
+      "to": "2026"
+    },
+    {
+      "employer": "G Y F CONSTRUCCIONES METALICAS",
+      "role": "Contador",
+      "from": "1998",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIA GENERAL DE INDEPENDENCIA",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2023",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 63237,
+        "public": 0,
+        "private": 63237
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "casa",
+        "value": 9785,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 11990.37,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19344,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "FCL ASESORÍA CONTABLE Y FINANCIERA S.A.C",
+        "type": "ACCIONES",
+        "quantity": 3100,
+        "value": 1
+      },
+      {
+        "company": "ASESORES Y CONSULTORES FALCON S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 1941,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e9f5bce2-cdd2-425f-8034-494050c14296.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/61421eb1-1a3c-4702-bc6c-5317e7f048ab.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia delictiva y de extorsión: Independencia registró más de 3,160 denuncias en el primer semestre de 2024 (aprox. 3.5% del total de Lima Metropolitana) y fue declarada en estado de emergencia.",
+            "objective": "Reducir la incidencia delictiva mediante un sistema distrital integrado de seguridad: serenazgo fortalecido, videovigilancia interconectada con la PNP y juntas vecinales organizadas en los seis ejes zonales.",
+            "goal": "Reducir en 30% la tasa de denuncias al 2030; nuevas cámaras integradas a una central única; incremento de 50% del serenazgo; más juntas vecinales activas.",
+            "indicator": "Tasa de denuncias de delitos por cada 10,000 habitantes (SIDPOL-PNP)."
+          },
+          {
+            "problem": "Alta tasa de violencia contra la mujer e integrantes del grupo familiar: 126 denuncias por cada 10,000 habitantes en 2024, una de las más altas de Lima Metropolitana.",
+            "objective": "Implementar un sistema distrital de prevención, atención y protección frente a la violencia contra la mujer y el grupo familiar, articulado con el CEM, la PNP y el Ministerio Público.",
+            "goal": "Centro Municipal de Atención a la Mujer operativo al 2027; red de promotoras en los cinco ejes residenciales; reducir en 25% la tasa de denuncias al 2030.",
+            "indicator": "Tasa de denuncias por violencia contra la mujer por cada 10,000 habitantes; N° de casos atendidos."
+          },
+          {
+            "problem": "Limitadas oportunidades y espacios seguros para niños, adolescentes y jóvenes en las partes altas (El Ermitaño, Tahuantinsuyo, La Unificada): infraestructura deportiva deteriorada y débil prevención del pandillaje.",
+            "objective": "Recuperar los espacios públicos y ampliar los programas deportivos, culturales y de empleabilidad juvenil como estrategia de prevención social del delito.",
+            "goal": "40 losas deportivas y parques recuperados con iluminación al 2030; niños y jóvenes al año en programas municipales.",
+            "indicator": "N° de espacios públicos recuperados e iluminados; N° de niños y jóvenes beneficiarios por año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio ambulatorio desordenado y congestión en los principales ejes viales (Av. Túpac Amaru, Av. Carlos Izaguirre, Panamericana Norte), que afectan al peatón y al comercio formal.",
+            "objective": "Reordenar el comercio en vía pública con empadronamiento, formalización progresiva y reubicación concertada, recuperando el espacio público.",
+            "goal": "Empadronamiento de comerciantes ambulantes al 2027; reubicación en espacios autorizados o formalizados al 2030.",
+            "indicator": "% de comerciantes ambulantes empadronados; % de comerciantes reubicados o formalizados."
+          },
+          {
+            "problem": "El dinamismo del polo comercial de Lima Norte (MegaPlaza, Plaza Norte, Royal Plaza) no se articula con la economía local: las MYPE de los cinco ejes residenciales no acceden a sus cadenas de valor.",
+            "objective": "Articular el polo comercial con el tejido empresarial local a través de un programa municipal de formalización, capacitación, ruedas de negocio y compras locales.",
+            "goal": "Formalización de MYPE y emprendedores capacitados al 2030; al menos una rueda de negocio anual con los centros comerciales y grandes empresas del distrito.",
+            "indicator": "N° de MYPE formalizadas; N° de emprendedores capacitados y articulados a cadenas comerciales."
+          },
+          {
+            "problem": "Desempleo y subempleo juvenil pese a la alta demanda laboral del polo comercial: débil vinculación entre las empresas y la oferta de formación de los vecinos.",
+            "objective": "Crear la Agencia Municipal de Empleo y Capacitación, articulada con empresas, institutos y universidades, para vincular la demanda laboral local con los vecinos.",
+            "goal": "Insertar vecinos laboralmente al 2030 ; convenios con empresas, institutos y universidades.",
+            "indicator": "N° de vecinos insertados laboralmente por la bolsa municipal; N° de convenios de capacitación vigentes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante y alto riesgo de desastres en laderas: muros precarios, escaleras deterioradas y suelos vulnerables a sismos y deslizamientos.",
+            "objective": "Ampliar y mantener las áreas verdes y reducir el riesgo de desastres en laderas mediante muros de contención, escaleras seguras, reforestación y gestión del riesgo.",
+            "goal": "Incrementar en 30% el área verde mantenida al 2030; obras de mitigación (muros y escaleras) ejecutadas en zonas de laderas.",
+            "indicator": "m² de área verde mantenida por habitante; N° de obras de mitigación de riesgo en laderas."
+          },
+          {
+            "problem": "Déficit crónico de agua potable y saneamiento en las partes altas (El Ermitaño, San Camilo, AA.HH. 6 de Julio y sectores altos de Tahuantinsuyo y La Unificada), con abastecimiento por pilones o cisternas.",
+            "objective": "Gestionar y cofinanciar, con Sedapal, el MVCS y la Municipalidad Metropolitana de Lima, el cierre de la brecha de agua y saneamiento en las zonas altas.",
+            "goal": "Reducir la brecha de conexiones domiciliarias al 2030; cartera de proyectos inscrita en el Programa Multianual de Inversiones al 2027.",
+            "indicator": "% de viviendas con conexión domiciliaria de agua potable y alcantarillado en las zonas altas."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos y desmonte en puntos críticos de los cinco ejes residenciales, cobertura de recojo insuficiente y baja segregación en la fuente.",
+            "objective": "Modernizar la gestión integral de residuos sólidos: renovación de flota, optimización de rutas, erradicación de puntos críticos y segregación con recicladores formalizados.",
+            "goal": "Erradicación del 100% de los puntos críticos al 2028; valorización del 15% de los residuos sólidos al 2030.",
+            "indicator": "N° de puntos críticos erradicados; % de residuos sólidos valorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escasa participación vecinal efectiva en las decisiones municipales: presupuesto participativo poco representativo y juntas vecinales debilitadas.",
+            "objective": "Relanzar el sistema distrital de participación ciudadana: juntas vecinales fortalecidas, presupuesto participativo con votación digital y comités de vigilancia en los seis ejes zonales.",
+            "goal": "Duplicar la participación vecinal en el presupuesto participativo al 2030; los seis ejes zonales con comités de vigilancia activos.",
+            "indicator": "N° de organizaciones vecinales acreditadas; N° de vecinos participantes en el presupuesto participativo anual."
+          },
+          {
+            "problem": "Baja confianza ciudadana en la gestión municipal, percepción de opacidad y débil rendición de cuentas sobre el uso de los recursos públicos.",
+            "objective": "Implementar un modelo de gobierno abierto: transparencia activa, datos abiertos, simplificación de trámites y rendición de cuentas semestral en cabildos abiertos.",
+            "goal": "Dos rendiciones de cuentas públicas por año (8 en el período); 100% de cumplimiento del PTE durante toda la gestión.",
+            "indicator": "N° de rendiciones de cuentas públicas; % de cumplimiento del Portal de Transparencia Estándar (PTE)."
+          },
+          {
+            "problem": "Débil capacidad municipal para formular y ejecutar inversiones: baja ejecución presupuestal, proyectos paralizados y limitado uso de mecanismos alternativos de financiamiento.",
+            "objective": "Fortalecer la gerencia de inversiones (formulación, ejecución y seguimiento) y emplear Obras por Impuestos y convenios interinstitucionales para acelerar el cierre de brechas.",
+            "goal": "Ejecución presupuestal de inversiones igual o mayor al 90% anual desde 2028; 4 proyectos ejecutados vía Obras por Impuestos al 2030.",
+            "indicator": "% de ejecución del presupuesto de inversiones; N° de proyectos ejecutados mediante Obras por Impuestos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-_o0XxQc_q0jx1LA0XmPO6h8iwLelC3MH",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/_o0XxQc_q0jx1LA0XmPO6h8iwLelC3MH",
+      "sha256": "d83984f84561a1085ecd40388619d0a58ea0545c7f520e9d6435294b34b3e91e",
+      "accessedAt": "2026-10-02T22:56:23.669Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019265",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019265",
+      "sha256": "404ed7c8481c69e9972275dcd7b0820ecff9df6ed3083f39342f1f46d6af2d70",
+      "accessedAt": "2026-10-02T22:56:24.154Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

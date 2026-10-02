@@ -1,0 +1,193 @@
+{
+  "id": "QXlEZeeR9W7CYyHvo_E9bhGi6ImyMBai",
+  "slug": "victor-edward-colan-huaman",
+  "electionId": "erm-2026",
+  "name": "Victor Edward Colan Huaman",
+  "givenNames": "Victor Edward",
+  "surnames": "Colan Huaman",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 2869,
+    "name": "PARTIDO PATRIOTICO DEL PERU"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:22.770Z",
+      "sourceId": "jne-hv-QXlEZeeR9W7CYyHvo_E9bhGi6ImyMBai"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DEL CALLAO",
+        "program": "BACHILLER EN INGENIERIA MECANICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DEL CALLAO",
+        "program": "BACHILLER EN INGENIERIA MECANICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "II DIPLOMADO EN GESTION DE LAS CONTRATACIONES PUBLICAS DE BIENES SERVICIOS Y OBRAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "FLEX ENGINEERING AND CONSULTING SAC",
+      "role": "CONSULTOR CONTABLE",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 48520,
+        "public": 0,
+        "private": 48520
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 247474,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "RODILLOS Y METALES SAC",
+        "type": "ACCIONES",
+        "quantity": 13000,
+        "value": 27000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "PROPIETARIO DE SERMECO EIRL CON CAPITAL SOCIAL DE S/400.00"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a329b2a3-6c72-49bc-b471-268a548a5a90.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0f6b6681-6a64-40d2-82cf-f40f0bdb7b98.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de problemas de inseguridad ciudadana, violencia urbana y limitada capacidad preventiva en espacios públicos, lo que afecta la tranquilidad y convivencia vecinal.",
+            "objective": "Fortalecer progresivamente los mecanismos de seguridad ciudadana, recuperación de la tranquilidad vecinal y recuperación de espacios públicos, mediante políticas orientadas a mejorar la vigilancia territorial, el patrullaje preventivo y la supervisión urbana.",
+            "goal": "Consolidar un distrito moderno, seguro y organizado, con mejores condiciones de seguridad ciudadana, promoviendo una gestión comprometida con el bienestar colectivo de los vecinos.",
+            "indicator": "Nivel de percepción de seguridad en la población y número de espacios públicos recuperados con mejoramiento de iluminación y sistemas de videovigilancia."
+          },
+          {
+            "problem": "Deterioro progresivo de la infraestructura urbana, incluyendo pistas, veredas, parques y espacios públicos, afectando la transitabilidad y la calidad del entorno urbano.",
+            "objective": "Impulsar políticas orientadas a la recuperación de la infraestructura urbana y el fortalecimiento progresivo de las condiciones de transitabilidad, mantenimiento territorial y organización urbana dentro del distrito.",
+            "goal": "Lograr la recuperación progresiva de los sectores urbanos afectados por el deterioro, mejorando la organización territorial, el bienestar colectivo y la calidad del entorno urbano para toda la población.",
+            "indicator": "Cantidad de programas de recuperación de pistas, veredas y parques implementados, y nivel de mejora en la transitabilidad distrital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Condiciones inadecuadas para el desarrollo económico local, la organización comercial y la sostenibilidad de las actividades económicas dentro del distrito.",
+            "objective": "Fortalecer progresivamente las condiciones para el desarrollo económico local mediante políticas orientadas a mejorar la organización territorial, el funcionamiento comercial y la sostenibilidad de las actividades económicas.",
+            "goal": "Consolidar una ciudad moderna, competitiva y territorialmente organizada, preparada para fortalecer el desarrollo económico, la sostenibilidad urbana y el bienestar integral de toda la población.",
+            "indicator": "Número de mecanismos de coordinación con comerciantes y emprendedores implementados y nivel de formalización progresiva del comercio."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficientes mecanismos de limpieza pública, manejo de residuos sólidos y recuperación ambiental, que afectan las condiciones sanitarias y la sostenibilidad territorial del distrito.",
+            "objective": "Impulsar políticas orientadas a fortalecer la limpieza pública, la recuperación ambiental y la sostenibilidad territorial mediante programas permanentes de mantenimiento urbano y supervisión ambiental.",
+            "goal": "Consolidar un distrito más limpio, organizado y ambientalmente responsable, donde el entorno urbano contribuya directamente al bienestar y calidad de vida de la población.",
+            "indicator": "Frecuencia y cobertura de la recolección de residuos sólidos y número de áreas verdes recuperadas y mantenidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada capacidad operativa y administrativa de la municipalidad para responder a las necesidades de los vecinos, comerciantes y emprendedores del distrito.",
+            "objective": "Fortalecer progresivamente la capacidad operativa y administrativa de la municipalidad mediante mecanismos de modernización institucional, optimización de servicios y fortalecimiento de herramientas tecnológicas.",
+            "goal": "Consolidar una municipalidad más organizada, moderna y cercana al vecino, que actúe con responsabilidad, presencia permanente y compromiso real con el bienestar colectivo.",
+            "indicator": "Tiempos de respuesta a las solicitudes ciudadanas y nivel de simplificación de los procedimientos administrativos."
+          },
+          {
+            "problem": "Ocupación indebida de espacios públicos y comercio informal desordenado que afectan la transitabilidad, el orden y la convivencia dentro del distrito.",
+            "objective": "Fortalecer progresivamente los mecanismos de organización territorial y fiscalización urbana para recuperar las condiciones adecuadas de orden y convivencia en el distrito.",
+            "goal": "Recuperar progresivamente el principio de autoridad y fortalecer la presencia operativa municipal en sectores con limitada capacidad de supervisión y control urbano.",
+            "indicator": "Número de acciones de supervisión y control urbano implementadas y nivel de recuperación de espacios públicos ocupados indebidamente."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-QXlEZeeR9W7CYyHvo_E9bhGi6ImyMBai",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/QXlEZeeR9W7CYyHvo_E9bhGi6ImyMBai",
+      "sha256": "3df916d2e65e2539ce8d4b1126b5285cca07a74db204df619c91040cac254420",
+      "accessedAt": "2026-10-02T23:07:22.770Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012345",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012345",
+      "sha256": "19d7fe337d6977c2b99ca18d3cfb0a23ea9034601c0a2d28ecef29b2634f9c01",
+      "accessedAt": "2026-10-02T23:07:23.237Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

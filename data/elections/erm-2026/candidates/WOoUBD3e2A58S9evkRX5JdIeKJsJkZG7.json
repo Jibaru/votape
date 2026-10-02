@@ -1,0 +1,309 @@
+{
+  "id": "WOoUBD3e2A58S9evkRX5JdIeKJsJkZG7",
+  "slug": "rosario-pelaez-ramirez",
+  "electionId": "erm-2026",
+  "name": "Rosario Pelaez Ramirez",
+  "givenNames": "Rosario",
+  "surnames": "Pelaez Ramirez",
+  "age": 61,
+  "gender": "Femenino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:49.164Z",
+      "sourceId": "jne-hv-WOoUBD3e2A58S9evkRX5JdIeKJsJkZG7"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CENECAPE DE COSMETOLOGIA SANTA LUCIA",
+        "program": "COSMETOLOGIA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTOMOVIL MAZDA CX5",
+        "value": 60000
+      },
+      {
+        "type": "CAMIONETA TOYOTA COROLLA",
+        "value": 3000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES & INMOBILIARIOS JR&P SAC",
+        "type": "ACCIONES",
+        "quantity": 120,
+        "value": 12000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "- Percibe un ingreso mensual de S/. 3,000 soles por sociedad conyugal. - La participación de acciones en la persona jurídica Inversiones & inmobiliaria J.R & P SAC NO GENERA NINGUN INGRESO POR ESTAR INACTIVA HASTA LA FECHA."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e7dfa39a-c8c5-4b07-b0d1-1167be2522d0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/515daec5-3397-4790-ad53-c8dc694ad009.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la inseguridad ciudadana, robos y percepción de inseguridad",
+            "objective": "Fortalecer la seguridad ciudadana mediante tecnología y prevención",
+            "goal": "500 cámaras y reducción del 30% de delitos",
+            "indicator": "Cámaras instaladas, patrullajes, reducción de delitos"
+          },
+          {
+            "problem": "Persistencia de anemia infantil y malnutrición en sectores vulnerables",
+            "objective": "Reducir la anemia y desnutrición infantil mediante programas integrales de nutrición",
+            "goal": "Reducción del 30%",
+            "indicator": "Tasa de anemia"
+          },
+          {
+            "problem": "Déficit de espacios deportivos, recreativos y culturales",
+            "objective": "Promover estilos de vida saludables y fortalecer la identidad cultural local",
+            "goal": "50 espacios deportivos recuperados",
+            "indicator": "Espacios recuperados"
+          },
+          {
+            "problem": "Insuficiente atención a personas con discapacidad en rehabilitación e inclusión",
+            "objective": "Promover la inclusión plena y accesibilidad para personas con discapacidad",
+            "goal": "5,000 beneficiarios",
+            "indicator": "Personas atendidas"
+          },
+          {
+            "problem": "Persistencia de violencia familiar y limitadas oportunidades para mujeres vulnerables",
+            "objective": "Promover la protección, autonomía económica y empoderamiento de las mujeres",
+            "goal": "15,000 mujeres beneficiadas",
+            "indicator": "Mujeres atendidas"
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva",
+            "objective": "Ampliar la atención de salud municipal",
+            "goal": "10000 atenciones preventivas",
+            "indicator": "Atenciones realizadas"
+          },
+          {
+            "problem": "Limitadas oportunidades de educación complementaria y capacitación técnica para jóvenes",
+            "objective": "Fortalecer el desarrollo educativo y la formación para el empleo",
+            "goal": "20,000 jóvenes capacitados",
+            "indicator": "Jóvenes beneficiados"
+          },
+          {
+            "problem": "Necesidad de ampliar servicios de atención y bienestar para adultos mayores",
+            "objective": "Fortalecer los servicios del CIAM y promover el envejecimiento activo",
+            "goal": "10,000 beneficiarios",
+            "indicator": "Adultos mayores atendidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitaciones presupuestales para ejecutar proyectos de infraestructura",
+            "objective": "Gestionar inversiones complementarias mediante Obras por Impuestos, APP y cooperación",
+            "goal": "S/ 300 millones gestionados",
+            "indicator": "Recursos captados"
+          },
+          {
+            "problem": "Escasez de empleo formal",
+            "objective": "Generar oportunidades laborales mediante capacitación y alianzas con el sector privado",
+            "goal": "8,000 empleos",
+            "indicator": "Empleos promovidos"
+          },
+          {
+            "problem": "Limitada infraestructura para atraer inversiones industriales",
+            "objective": "Promover el desarrollo de un polo industrial generador de empleo",
+            "goal": "Parque Industrial impulsado",
+            "indicator": "Inversión captada"
+          },
+          {
+            "problem": "Escasa capacitación empresarial y limitado acceso a mercados para emprendedores",
+            "objective": "Fortalecer capacidades empresariales y competitividad de emprendimientos locales",
+            "goal": "Emprendedores capacitados",
+            "indicator": "Emprendedores capacitados"
+          },
+          {
+            "problem": "Comercio ambulatorio desordenado y baja competitividad comercial",
+            "objective": "Comercio ambulatorio desordenado y baja competitividad comercial",
+            "goal": "3,000 comerciantes formalizados",
+            "indicator": "Comercio ambulatorio desordenado y baja competitividad comercial"
+          },
+          {
+            "problem": "Potencial turístico e histórico subutilizado",
+            "objective": "Convertir a Carabayllo en destino turístico histórico, cultural y ecológico de Lima Norte",
+            "goal": "Incremento del 100% del flujo turístico",
+            "indicator": "Visitantes registrados"
+          },
+          {
+            "problem": "Alta informalidad empresarial y dificultades de formalización de MYPES",
+            "objective": "Promover el fortalecimiento empresarial y la formalización de unidades económicas",
+            "goal": "2,500 MYPES formalizadas",
+            "indicator": "MYPES formalizadas"
+          },
+          {
+            "problem": "Necesidad de fortalecer la actividad agrícola y la competitividad rural",
+            "objective": "Necesidad de fortalecer la actividad agrícola y la competitividad rural",
+            "goal": "500 productores beneficiados",
+            "indicator": "Productores beneficiados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente cultura ambiental y limitada participación ciudadana",
+            "objective": "Promover una ciudadanía comprometida con el cuidado del ambiente",
+            "goal": "Incremento del reúso de agua tratada",
+            "indicator": "Áreas irrigadas"
+          },
+          {
+            "problem": "Bajo aprovechamiento de residuos reciclables y escasa participación ciudadana",
+            "objective": "Impulsar un modelo de economía circular basado en segregación y reciclaje",
+            "goal": "5,000 hogares incorporados",
+            "indicator": "Hogares participantes"
+          },
+          {
+            "problem": "Incremento de animales abandonados y riesgos a la salud pública",
+            "objective": "Promover la tenencia responsable y el bienestar animal",
+            "goal": "10,000 ciudadanos capacitados",
+            "indicator": "Ciudadanos capacitados"
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante",
+            "objective": "Incrementar la cobertura vegetal y recuperar espacios públicos verdes",
+            "goal": "5,000 árboles",
+            "indicator": "Árboles plantados"
+          },
+          {
+            "problem": "Alta vulnerabilidad frente a lluvias intensas, huaicos y eventos climáticos extremos",
+            "objective": "Fortalecer la resiliencia del distrito y reducir riesgos de desastre",
+            "goal": "Recuperación progresiva de zonas priorizadas",
+            "indicator": "Sectores intervenidos"
+          },
+          {
+            "problem": "Persistencia de puntos críticos de acumulación de residuos sólidos",
+            "objective": "Modernizar el sistema de limpieza pública y gestión integral de residuos sólidos",
+            "goal": "100% de cobertura",
+            "indicator": "Cobertura de recolección"
+          },
+          {
+            "problem": "Contaminación y riesgo de desbordes en sectores cercanos al río Chillón",
+            "objective": "Proteger y recuperar el ecosistema del río Chillón",
+            "goal": "55 parques recuperados",
+            "indicator": "Parques recuperados"
+          },
+          {
+            "problem": "Recuperación progresiva de zonas priorizadas",
+            "objective": "Promover el acceso sostenible al agua y el uso eficiente de recursos hídricos",
+            "goal": "Protección de zonas críticas",
+            "indicator": "Obras ejecutadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil sistema de planeamiento y seguimiento orientado a resultados",
+            "objective": "Implementar un sistema moderno de planificación, seguimiento y evaluación",
+            "goal": "Evaluación trimestral permanente",
+            "indicator": "Evaluaciones realizadas"
+          },
+          {
+            "problem": "Bajo nivel de digitalización de trámites y servicios municipales",
+            "objective": "Impulsar la transformación digital de la municipalidad",
+            "goal": "80% digitalizados",
+            "indicator": "Trámites digitalizados"
+          },
+          {
+            "problem": "Necesidad de mejorar capacidades técnicas del personal municipal",
+            "objective": "Fortalecer permanentemente las competencias del recurso humano municipal",
+            "goal": "100% capacitado",
+            "indicator": "Servidores capacitados"
+          },
+          {
+            "problem": "Limitada participación ciudadana en procesos de gestión local",
+            "objective": "Fortalecer la participación ciudadana mediante mecanismos de diálogo y concertación",
+            "goal": "Incremento del 50%",
+            "indicator": "Participantes registrados"
+          },
+          {
+            "problem": "Procedimientos administrativos lentos y burocráticos",
+            "objective": "Implementar un modelo de gestión moderna basado en resultados y simplificación",
+            "goal": "Reducción del 50%",
+            "indicator": "Tiempo de atención"
+          },
+          {
+            "problem": "Necesidad de acercar servicios municipales a vecinos de sectores alejados",
+            "objective": "Descentralizar la atención municipal mediante agencias y servicios itinerantes",
+            "goal": "Incremento del 60%",
+            "indicator": "Cobertura de atención"
+          },
+          {
+            "problem": "Necesidad de fortalecer mecanismos preventivos frente a riesgos de corrupción",
+            "objective": "Consolidar una cultura institucional de integridad y ética pública",
+            "goal": "100% capacitado",
+            "indicator": "Personal capacitado"
+          },
+          {
+            "problem": "Necesidad de fortalecer la confianza ciudadana mediante mayor transparencia",
+            "objective": "Garantizar el acceso oportuno y permanente a la información pública",
+            "goal": "100% de obligaciones cumplidas",
+            "indicator": "Información publicada"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-WOoUBD3e2A58S9evkRX5JdIeKJsJkZG7",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/WOoUBD3e2A58S9evkRX5JdIeKJsJkZG7",
+      "sha256": "e194332c4491f4f592b7664c5700540b222b7b1fdc62c930ae523251854fdc24",
+      "accessedAt": "2026-10-02T22:52:49.164Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016036",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016036",
+      "sha256": "2c00977846484a0f66c684bc90058b1f148234b7987d7fa9c9f9c73550706d14",
+      "accessedAt": "2026-10-02T22:52:49.682Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

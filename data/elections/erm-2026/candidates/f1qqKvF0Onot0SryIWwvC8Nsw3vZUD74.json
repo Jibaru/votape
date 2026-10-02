@@ -1,0 +1,282 @@
+{
+  "id": "f1qqKvF0Onot0SryIWwvC8Nsw3vZUD74",
+  "slug": "fernando-lurjo-sudario-cespedes",
+  "electionId": "erm-2026",
+  "name": "Fernando Lurjo Sudario Cespedes",
+  "givenNames": "Fernando Lurjo",
+  "surnames": "Sudario Cespedes",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2898,
+    "name": "FE EN EL PERU"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:31.441Z",
+      "sourceId": "jne-hv-f1qqKvF0Onot0SryIWwvC8Nsw3vZUD74"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "LE CORDON BLEU PERU",
+        "program": "TÉCNICO EN COCINA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILASO DE LA VEGA",
+        "program": "DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE HUANUCO",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACION MULTIFERIAS EIRL",
+      "role": "GERENTE GENERAL",
+      "from": "2018",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 7000,
+        "public": 0,
+        "private": 7000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "KIA SORENTO",
+        "value": 45000
+      },
+      {
+        "type": "SANGGYONG RODIUS",
+        "value": 50000
+      },
+      {
+        "type": "CAMION HYUNDAI",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "LIBRERIAS MULTILIBROS EIRL",
+        "type": "ACCIONES",
+        "quantity": 71000,
+        "value": 71000
+      },
+      {
+        "company": "CORPORACION MULTIFERIAS E.I.R.L.",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "PARTIDA REGISTRAL N° 11736446 SUCESION INTESTADA DE DECLARATORIA DE HEREDEROS. INSCRIPCION POR MANDATO JUDICIAL"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1e11f640-4ff7-4df2-9f83-57a23217d704.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/da6430c3-ec63-4601-ab0e-b97f251deee6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiente cultura de prevención en salud, mala alimentación, obesidad, diabetes, hipertensión y cáncer detectado tardíamente.",
+            "objective": "Crear una política municipal de salud preventiva, nutrición y vida saludable, articulada con MINSA, colegios, universidades, clínicas y organizaciones sociales.",
+            "goal": "Realizar campañas trimestrales, gestionar un centro preventivo, implementar programas escolares y establecer una red distrital de salud preventiva.",
+            "indicator": "Campañas preventivas ejecutadas, personas atendidas, convenios firmados y ferias saludables realizadas."
+          },
+          {
+            "problem": "Crecimiento de población extranjera sin información municipal suficiente y presencia de personas vinculadas a delitos.",
+            "objective": "Ordenar la información distrital mediante un censo de población extranjera con fines estadísticos, sociales, de seguridad y fiscalización, evitando cualquier trato discriminatorio y diferenciando al migrante trabajador del infractor o delincuente.",
+            "goal": "Actualizar la base estadística distrital, intervenir las zonas críticas, lograr un mayor control urbano y una convivencia segura y ordenada.",
+            "indicator": "Censo realizado, operativos de fiscalización, casos derivados a la autoridad competente y programas de integración."
+          },
+          {
+            "problem": "Inseguridad ciudadana, robos, extorsiones y criminalidad organizada.",
+            "objective": "Recuperar la seguridad mediante una Central Integral de Seguridad Inteligente, patrullaje integrado, cámaras, drones, alarmas vecinales, corredores seguros y coordinación permanente con la PNP, Migraciones, juntas vecinales y fiscalización municipal.",
+            "goal": "Implementar una central 24/7, lograr la reducción progresiva de delitos priorizados, alcanzar el 100% de puntos críticos con monitoreo y mantener un patrullaje integrado permanente.",
+            "indicator": "Número de cámaras instaladas, tiempo promedio de respuesta, operativos integrados ejecutados y zonas críticas recuperadas."
+          },
+          {
+            "problem": "Adultos mayores, viudas, niños abandonados, personas con discapacidad y enfermos sin atención municipal suficiente.",
+            "objective": "Priorizar la atención humana, focalizada y digna para la población vulnerable, reconociendo al adulto mayor como fuente de sabiduría y experiencia comunitaria.",
+            "goal": "Poner en operación la Casa del Adulto Mayor, mantener un padrón actualizado, establecer programas permanentes y lograr la cobertura distrital de atención vulnerable.",
+            "indicator": "Personas registradas, atenciones brindadas, talleres ejecutados y convenios sociales."
+          },
+          {
+            "problem": "Brechas educativas, falta de acceso a lectura moderna, tesis, tecnología y formación complementaria.",
+            "objective": "Implementar bibliotecas digitales, apoyo académico, plan lector moderno, academias municipales, orientación para tesis y programas culturales y deportivos.",
+            "goal": "Activar la biblioteca digital, mantener programas académicos permanentes, lograr un mayor acceso a la cultura y ofrecer a los jóvenes mejores oportunidades.",
+            "indicator": "Usuarios de biblioteca digital, talleres educativos, estudiantes beneficiados y actividades culturales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Mercados tradicionales con infraestructura insuficiente, falta de frío, higiene y administración moderna.",
+            "objective": "Modernizar mercados con infraestructura limpia, cámaras de frío, almacenes, áreas administrativas, seguridad, tecnología y modelo \"de la chacra y del mar a la olla\".",
+            "goal": "Modernizar mercados piloto, lograr un sistema de frío operativo, alcanzar una mayor seguridad alimentaria y un comercio más competitivo.",
+            "indicator": "Mercados intervenidos, cámaras de frío instaladas, comerciantes capacitados e inspecciones sanitarias."
+          },
+          {
+            "problem": "Falta de posicionamiento económico-gastronómico del distrito.",
+            "objective": "Convertir a Los Olivos en zona gastronómica de Lima Norte mediante ferias, boulevard gastronómico, promoción de restaurantes, eventos y marca distrital.",
+            "goal": "Implementar un boulevard piloto, posicionar la marca gastronómica, realizar ferias periódicas y lograr una mayor actividad económica local.",
+            "indicator": "Eventos realizados, negocios participantes, visitantes y emprendimientos formalizados."
+          },
+          {
+            "problem": "Desempleo, informalidad y baja articulación entre vecinos, bancos y empresas.",
+            "objective": "Impulsar una economía distrital libre, formal y competitiva mediante bolsa laboral, capacitación, simplificación de licencias, acceso a financiamiento y alianzas con bancos y empresas líderes.",
+            "goal": "Activar la bolsa laboral, realizar ferias semestrales, implementar un programa de financiamiento para emprendedores y lograr trámites simplificados.",
+            "indicator": "Vecinos colocados laboralmente, emprendedores capacitados, convenios con bancos y licencias digitalizadas."
+          },
+          {
+            "problem": "Comercio informal, kioscos antiguos y falta de servicios urbanos modernos.",
+            "objective": "Implementar kioscos inteligentes y ordenados, con diseño uniforme, pagos digitales, información municipal, internet y conexión a seguridad.",
+            "goal": "Implementar el primer corredor con kioscos inteligentes, crear un modelo replicable, lograr un mayor orden urbano y ofrecer servicios modernos al vecino.",
+            "indicator": "Kioscos modernizados, kioscos formalizados, usuarios atendidos y puntos con servicios digitales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Residuos sólidos vistos como gasto y no como oportunidad económica ambiental.",
+            "objective": "Implementar plantas de valorización de residuos, segregación en origen, reciclaje formal, alianzas público-privadas y educación ambiental.",
+            "goal": "Implementar una planta o sistema piloto, establecer un programa de reciclaje distrital, lograr un distrito más limpio y convertir los residuos en valor.",
+            "indicator": "Toneladas valorizadas, recicladores formalizados, puntos críticos eliminados y hogares participantes."
+          },
+          {
+            "problem": "Necesidad de iluminación, seguridad ambiental y eficiencia energética.",
+            "objective": "Modernizar el alumbrado y promover energía limpia mediante iluminación LED, paneles solares en infraestructura pública y corredores seguros iluminados.",
+            "goal": "Lograr una iluminación total progresiva, iluminar las zonas críticas, activar pilotos solares y alcanzar una mayor seguridad nocturna.",
+            "indicator": "Puntos iluminados, luminarias LED, espacios con energía solar y ahorro energético."
+          },
+          {
+            "problem": "Contaminación urbana, déficit de sombra y aumento de temperatura.",
+            "objective": "Impulsar la arborización, parques sostenibles, techos verdes, jardines verticales y edificios con criterios ambientales que reduzcan la temperatura y mejoren el aire.",
+            "goal": "Incrementar las áreas verdes útiles, crear corredores ecológicos, reducir los puntos de calor y fomentar una cultura ambiental escolar.",
+            "indicator": "Árboles plantados, parques recuperados, metros cuadrados verdes y colegios participantes."
+          },
+          {
+            "problem": "Contaminación vehicular y transporte antiguo.",
+            "objective": "Fiscalizar, en coordinación con autoridades competentes, que las unidades que circulan por el distrito cumplan condiciones técnicas, antigüedad razonable y emisiones permitidas.",
+            "goal": "Lograr un transporte más ordenado, una menor contaminación visible, una mejor movilidad y una mayor seguridad vial.",
+            "indicator": "Operativos coordinados, paraderos ordenados, puntos de congestión intervenidos y ciclovías implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Municipalidad lenta, burocrática y poco digitalizada.",
+            "objective": "Transformar la municipalidad en una institución digital, eficiente y orientada al vecino, tomando como referencia buenas prácticas de otros distritos.",
+            "goal": "Lograr una municipalidad digital, reducir la burocracia, obtener una mayor satisfacción vecinal y una atención más rápida.",
+            "indicator": "Trámites digitalizados, tiempo de atención, usuarios de plataforma y expedientes con seguimiento."
+          },
+          {
+            "problem": "Contratación de personal por favores políticos y baja especialización técnica.",
+            "objective": "Establecer la selección meritocrática de funcionarios y equipos técnicos según profesión, especialidad, experiencia, honestidad y metas de gestión.",
+            "goal": "Alcanzar una gestión profesionalizada, contar con funcionarios idóneos, ofrecer servicios más eficientes y reducir la improvisación.",
+            "indicator": "Perfiles aprobados, evaluaciones realizadas, capacitaciones y metas cumplidas por gerencia."
+          },
+          {
+            "problem": "Riesgo de corrupción y desconfianza ciudadana.",
+            "objective": "Implementar un gobierno abierto, auditorías permanentes, publicación de gastos, mecanismos de denuncia y rendición de cuentas.",
+            "goal": "Lograr una transparencia permanente, un mayor control ciudadano, la reducción de riesgos de corrupción y la recuperación de la confianza vecinal.",
+            "indicator": "Informes publicados, denuncias atendidas, auditorías realizadas y rendiciones de cuentas."
+          },
+          {
+            "problem": "Débil participación vecinal y baja comunicación con la municipalidad.",
+            "objective": "Fortalecer las juntas vecinales, los cabildos abiertos, el presupuesto participativo y las plataformas digitales de participación ciudadana.",
+            "goal": "Fomentar la participación real, mantener a los vecinos informados, priorizar las obras y aumentar la legitimidad municipal.",
+            "indicator": "Cabildos realizados, juntas activas, propuestas recibidas y acuerdos cumplidos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-137782",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: DELITO CONTRA LA SALUD PUBLICA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2003-01-01",
+      "details": {
+        "materia": "DELITO CONTRA LA SALUD PUBLICA",
+        "fallo": "2 PENA PRIVATIVA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "PODER JUDICIAL LIMA NORTE",
+        "expediente": "147-1997-0-0901-JR-P-11",
+        "comentario": "CON FECHA 30/04/2009 RESOLUCION DE REHABILITACION"
+      },
+      "quote": "DELITO CONTRA LA SALUD PUBLICA · 2 PENA PRIVATIVA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-f1qqKvF0Onot0SryIWwvC8Nsw3vZUD74"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-f1qqKvF0Onot0SryIWwvC8Nsw3vZUD74",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/f1qqKvF0Onot0SryIWwvC8Nsw3vZUD74",
+      "sha256": "00c4ed19a37cb6fb18a1ecbd8c8f7b2400b4ebcef653c2ea752fd84cfb52e91e",
+      "accessedAt": "2026-10-02T22:58:31.441Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018425",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018425",
+      "sha256": "97ad9fb25809728705dbe2f3e7139ba55f9614bbeea29d2e2ace0b411501226f",
+      "accessedAt": "2026-10-02T22:58:31.927Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

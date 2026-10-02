@@ -1,0 +1,246 @@
+{
+  "id": "VITX2i2JDcxsxcp9ck3XsSRjIeI5TnYP",
+  "slug": "cesar-ricardo-noa-casas",
+  "electionId": "erm-2026",
+  "name": "Cesar Ricardo Noa Casas",
+  "givenNames": "Cesar Ricardo",
+  "surnames": "Noa Casas",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:29.607Z",
+      "sourceId": "jne-hv-VITX2i2JDcxsxcp9ck3XsSRjIeI5TnYP"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "I.S.T.P. HUAYCAN",
+        "program": "MECANICA AUTOMOTRIZ",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "INCA GARCILAZO DE A VEGA",
+        "program": "NO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "NOA NOA SERVICIOS GENERAES E.I.R.L.",
+      "role": "GERENTE",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO AGRUPACION INDEPENDIENTE SI CUMPLE",
+      "from": "2006",
+      "to": "2010"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "AGRUPACION INDEPENDIENTE SI CUMPLE",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "REPRESENTANTE LEGAL",
+      "party": "CAMBIEMOS ATE",
+      "from": "2006",
+      "to": "2007"
+    },
+    {
+      "position": "SECRETARIO GENERAL",
+      "party": "CAMBIEMOS ATE",
+      "from": "2006",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2019"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2014"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 0,
+        "private": 42000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "lote",
+        "value": 5000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 25000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "NOA NOA SERVICIOS GENERALES",
+        "type": "ACCIONES",
+        "quantity": 0,
+        "value": 100
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b79957d4-53ae-43ec-927f-b4ce0b253e50.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/95f23cb0-fd70-43cf-aa9d-7e3a36832f58.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Problemática del agua y desagüe.",
+            "objective": "Abastecer de agua potable en un plazo de cuatro años a los pueblos de Lurín, mejorando la calidad de vida de los ciudadanos y cubriendo en un 80% de la población en su totalidad.",
+            "goal": "Octubre 2030",
+            "indicator": "Gestiona proyectos de inversión."
+          },
+          {
+            "problem": "Problemática de la delincuencia y prostitución.",
+            "objective": "Erradicar en un plazo de tres años la delincuencia y prostitución, mejorando el patrullaje integrado y profesionalizando al equipo de Serenazgo y Policía Nacional.",
+            "goal": "Diciembre 2029",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática del tráfico de terrenos.",
+            "objective": "Gestionar y entregar títulos de propiedad en un plazo de cuatro años a los ciudadanos del pueblo de Lurín, cubriendo un 90% de la población del distrito.",
+            "goal": "Octubre 2030",
+            "indicator": "Gestión de convenio con COFOPRI para el saneamiento físico legal de propiedades."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Problemática de bandas de corrupción municipal.",
+            "objective": "Aplicar en el plazo de un año el código de ética y conducta de proveedores y funcionarios de la municipalidad de Lurín, bajo investigación de inteligencia interna, con la ayuda de la contraloría de la república del Perú.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática del comercio informal.",
+            "objective": "Formalizar en un plazo de dos años a todos los vendedores ambulantes y empresas privadas entregando licencias de funcionamiento y certificados ITSE para la mejora los recursos económicos del distrito de Lurín.",
+            "goal": "Diciembre 2028",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de falta de ferias de impulso empresarial \"de la chacra a la olla\".",
+            "objective": "Gestionar en el plazo de un año la implementación de proyectos sectoriales localizados en el distrito, haciendo participe a los empresarios agricultores del distrito de Lurín y otros distritos para la venta y consumo de productos agropecuarios y naturales; beneficiando así a un 90% de la población de las cinco zonas del distrito ya mencionado.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Problemática de la basura.",
+            "objective": "Gestionar en dos años proyectos de inversión local para el tratamiento e industrialización de la basura beneficiando al 95% de la población en general del distrito de Lurín.",
+            "goal": "Diciembre 2029",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de la contaminación ambiental al mar.",
+            "objective": "Gestionar en cuatro años proyectos de inversión para el tratamiento y purificación del mar del distrito de Lurín, re-direccionando las aguas residuales conforme a normas ambientales beneficiando al 95% de la población en general del distrito de Lurín.",
+            "goal": "Diciembre 2030",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de la contaminación ambiental al río Lurín.",
+            "objective": "Gestionar en cuatro años proyectos de inversión para el tratamiento y purificación del mar del distrito de Lurín, re-direccionando las aguas residuales conforme a normas ambientales beneficiando al 95% de la población en general del distrito de Lurín.",
+            "goal": "Diciembre 2030",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Problemática de la actualización de los instrumentos de gestión Municipal.",
+            "objective": "Implementar en el plazo de un año el sistema integrado de gestión ISO 9001, en beneficio de los trabajadores de la municipalidad de Lurín, y de los ciudadanos, ayudado, y dirigidos por terceros expertos en el tema de gestión municipal.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de la modernización de sistemas integrados de gestión municipal digital.",
+            "objective": "Implementar en el plazo de un año el sistema integrado de gestión ISO 9001, en beneficio de los trabajadores de la municipalidad de Lurín, y de los ciudadanos, ayudado, y dirigidos por terceros expertos en el tema de gestión municipal.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática del servicio administrativo de atención al ciudadano.",
+            "objective": "Implementar en el plazo de un año el sistema integrado de gestión ISO 9001, en beneficio de los trabajdores de la municipalidad de Lurín, y de los ciudadanos, ayudado, y dirigidos por terceros expertos en el tema de gestión municipal.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplica procedimientos bajo ordenanza municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-VITX2i2JDcxsxcp9ck3XsSRjIeI5TnYP",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/VITX2i2JDcxsxcp9ck3XsSRjIeI5TnYP",
+      "sha256": "0edef7a49c9f98cdca1de59ea1474a51d6c7e9785d3c99a673d2ef9395a7701e",
+      "accessedAt": "2026-10-02T22:59:29.607Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021090",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021090",
+      "sha256": "5852dd751c6525c3d4b8cb618e08e6d10a0db7149b8085f57cfb52f0acb03f3f",
+      "accessedAt": "2026-10-02T22:59:30.141Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

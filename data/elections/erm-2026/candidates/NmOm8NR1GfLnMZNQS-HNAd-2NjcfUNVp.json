@@ -1,0 +1,173 @@
+{
+  "id": "NmOm8NR1GfLnMZNQS-HNAd-2NjcfUNVp",
+  "slug": "aquiles-cirilo-collasos-villanueva",
+  "electionId": "erm-2026",
+  "name": "Aquiles Cirilo Collasos Villanueva",
+  "givenNames": "Aquiles Cirilo",
+  "surnames": "Collasos Villanueva",
+  "age": 71,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:38.608Z",
+      "sourceId": "jne-hv-NmOm8NR1GfLnMZNQS-HNAd-2NjcfUNVp"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "TECSUP",
+        "program": "Gestion de proyectos",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SERV AGUA POTAB Y ALCANT DE LIMA-SEDAPAL",
+      "role": "Tecnico Mecanico",
+      "from": "2003",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 56000,
+        "public": 56000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/731262b4-539c-4520-9fc8-a5c0ce3e8318.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/50e85305-1bd3-42aa-9cb2-3144dc388316.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana extrema, con mafias, extorsionadores y delincuentes que han tomado el distrito, dejando desprotegidas las zonas alejadas por falta de policías y serenos.",
+            "objective": "Recuperar el control de las calles mediante una alianza entre la municipalidad y la Policía Nacional del Perú (PNP), utilizando tecnología moderna.",
+            "goal": "Instalar 1,500 cámaras con Inteligencia Artificial para reconocimiento facial y de placas, y lograr patrullaje integrado las 24 horas en las 6 zonas del distrito.",
+            "indicator": "Número de robos reportados mensualmente y cantidad de cámaras de vigilancia operativas."
+          },
+          {
+            "problem": "Falta de servicios básicos en las zonas altas y nuevas de San Martín de Porres, donde muchas familias viven sin agua potable, desagüe formal ni alumbrado público.",
+            "objective": "Presionar y colaborar con SEDAPAL y las empresas de electricidad para extender estos servicios a los asentamientos humanos.",
+            "goal": "Lograr que el 85% de las zonas sin agua inicien sus obras y colocar luz LED e internet gratuito en el 100% de las plazas del distrito.",
+            "indicator": "Número de familias beneficiadas con acceso a agua formal y luz LED."
+          },
+          {
+            "problem": "Jóvenes abandonados que, por falta de oportunidades de estudio o espacios para el deporte, caen en la delincuencia o las drogas.",
+            "objective": "Crear oportunidades de estudio y recuperar los espacios deportivos del distrito, implementando escuelas municipales deportivas, talleres técnicos y de preparación preuniversitaria.",
+            "goal": "Techar, iluminar y arreglar 20 losas deportivas e implementar Escuelas Técnicas Municipales Gratuitas para capacitar a 15,000 jóvenes en herramientas digitales y emprendimiento.",
+            "indicator": "Número de losas deportivas arregladas, locales de apoyo a la educación y talleres técnicos, y cantidad de jóvenes inscritos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio informal desbordado en los ejes de Caquetá y Zarumilla, lo cual genera caos, suciedad y una baja recaudación de arbitrios municipales.",
+            "objective": "Formalizar a los comerciantes ambulantes sin recurrir a la violencia, proporcionándoles espacios ordenados para trabajar.",
+            "goal": "Formalizar al 85% de los ambulantes censados mediante la construcción u organización de mercados zonales limpios y seguros.",
+            "indicator": "Porcentaje de comerciantes que se trasladan de la vía pública a un puesto formal."
+          },
+          {
+            "problem": "Pistas destruidas y tráfico vehicular intenso, con un 40% del distrito con huecos o calles de tierra y avenidas principales que se congestionan en horas punta.",
+            "objective": "Implementar un plan agresivo de pavimentación y coordinar con la Municipalidad de Lima para ordenar el tránsito.",
+            "goal": "Asfaltar el 100% de las pistas vecinales en zonas residenciales, adquiriendo maquinaria propia para la municipalidad, y sincronizar los semáforos en los cruces más caóticos.",
+            "indicator": "Kilómetros de pistas asfaltadas y número de cruces críticos semaforizados."
+          },
+          {
+            "problem": "Caos generado por miles de mototaxistas informales que no respetan paraderos, causan accidentes y son utilizados para cometer robos.",
+            "objective": "Empadronar y ordenar a los mototaxistas formales para proteger su trabajo y garantizar la seguridad del vecino.",
+            "goal": "Formalizar al 90% de los transportistas menores, asignándoles paraderos fijos iluminados y un código QR visible en cada vehículo para identificación.",
+            "indicator": "Número de mototaxis formales registrados con un código de seguridad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crisis de la basura, con una acumulación diaria de más de 850 toneladas y 55 puntos críticos que se han convertido en focos infecciosos.",
+            "objective": "Diseñar un sistema moderno de recolección de basura que incluya horarios fijos y camiones nuevos.",
+            "goal": "Reducir a 0% los botaderos informales de basura en la vía pública mediante una nueva contrata de limpieza con camiones equipados con GPS para asegurar el cumplimiento de rutas y horarios.",
+            "indicator": "Cantidad de puntos críticos de basura eliminados por completo de las calles."
+          },
+          {
+            "problem": "Falta de áreas verdes, con parques que se encuentran secos, sin mantenimiento y sin agua para riego, pareciendo desiertos.",
+            "objective": "Plantar árboles de forma masiva y utilizar tecnología para regar los parques de manera económica y sostenible.",
+            "goal": "Recuperar el 95% de los parques abandonados e instalar sistemas de riego tecnificado utilizando pozos de agua subterránea para no desperdiciar el agua potable del distrito.",
+            "indicator": "Número de parques recuperados y metros cuadrados de áreas verdes creados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia y corrupción en la municipalidad, donde la obtención de licencias y la realización de trámites demoran meses y se prestan a la solicitud de coimas.",
+            "objective": "Digitalizar los trámites para que sean rápidos, transparentes y se realicen sin intermediarios, a través de un entorno virtual.",
+            "goal": "Lograr que el 100% de los pagos tributarios y las licencias comerciales para bodegas o pequeños negocios se gestionen de forma digital e inmediata.",
+            "indicator": "Cantidad de trámites que el ciudadano puede resolver desde su celular o computadora."
+          },
+          {
+            "problem": "Abandono en salud, ya que los vecinos de los sectores más pobres del distrito no cuentan con un centro médico cercano para emergencias o consultas básicas.",
+            "objective": "Llevar los servicios de salud de la municipalidad directamente a los barrios.",
+            "goal": "Implementar 6 clínicas móviles municipales, una por cada zona del distrito, que ofrezcan atención gratuita en medicina general, pediatría, psicología y control de anemia.",
+            "indicator": "Número de vecinos atendidos en las campañas y clínicas móviles municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-NmOm8NR1GfLnMZNQS-HNAd-2NjcfUNVp",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/NmOm8NR1GfLnMZNQS-HNAd-2NjcfUNVp",
+      "sha256": "e51798ba833f644b83148120d6a6966f7c18c9fd249087a5a57785f2207c24d6",
+      "accessedAt": "2026-10-02T23:04:38.608Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020264",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020264",
+      "sha256": "26ac85e18dabb8c88b8c8ce348b2bb40d0970be9dddf1d5b93cd335a6dd4bba8",
+      "accessedAt": "2026-10-02T23:04:39.157Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

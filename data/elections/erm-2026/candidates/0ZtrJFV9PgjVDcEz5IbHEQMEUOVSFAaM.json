@@ -1,0 +1,242 @@
+{
+  "id": "0ZtrJFV9PgjVDcEz5IbHEQMEUOVSFAaM",
+  "slug": "pedro-john-barrera-bernui",
+  "electionId": "erm-2026",
+  "name": "Pedro John Barrera Bernui",
+  "givenNames": "Pedro John",
+  "surnames": "Barrera Bernui",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140102",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:11.224Z",
+      "sourceId": "jne-hv-0ZtrJFV9PgjVDcEz5IbHEQMEUOVSFAaM"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "EGRESADO EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "VARGAS RUBIO & ASOCIADOS",
+      "role": "AV. GUZMAN BLANCO 240",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ANCON",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "UNION POR EL PERU",
+      "from": "2011",
+      "to": "2014"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "MUVA",
+      "from": "2006",
+      "to": "2006"
+    },
+    {
+      "position": "PERSONERO LEGAL TITULAR",
+      "party": "MUVA",
+      "from": "2006",
+      "to": "2006"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 0,
+        "private": 30000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "FORD ESCORT GL",
+        "value": 800
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6b3a3226-156e-4211-bb73-7d28b5abfe7c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/902d8980-010b-452e-b8be-3225e8a055b9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Escasas oportunidades para jóvenes y adultos mayores.",
+            "objective": "Recuperar y mejorar espacios públicos que fomenten la integración y participación vecinal.",
+            "goal": "Implementar al menos 20 campañas sociales y de salud por año en beneficio de la población vulnerable.",
+            "indicator": "Número de vecinos beneficiados por programas sociales y actividades municipales."
+          },
+          {
+            "problem": "Falta de espacios recreativos y deportivos,",
+            "objective": "Promover actividades educativs, culturales y deportivas para niños, Jóvenes y adultos mayores.",
+            "goal": "Recuperar y mejorar 10 espacios recreativos, deportivos y comunitarios del distrito.",
+            "indicator": "Cantidad de talleres educativos, culturales y deportivos implementados."
+          },
+          {
+            "problem": "Limitado acceso a programas sociales.",
+            "objective": "Fortalecer los programas sociales para mejorar la atención y apoyo a las familias vulnerables del distrito.",
+            "goal": "Incrementar en un 40% la participación de vecinos en programas y actividades sociales municipales.",
+            "indicator": "Número de campañas sociales y de salud realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Poco apoyo a emprendedores y comerciantes.",
+            "objective": "Gestionar oportunidades laborales y capacitaciones para jóvenes y vecinos.",
+            "goal": "Beneficiar a más de 500 emprendedores y comerciantes locales mediante capacitaciones y programas de apoyo.",
+            "indicator": "Cantidad de emprendedores y comerciantes beneficiados."
+          },
+          {
+            "problem": "Falta de oportunidades laborales,",
+            "objective": "Promover el emprendimiento y fortalecer el comercio local en el distrito.",
+            "goal": "Realizar al menos 15 ferias comerciales y de emprendimiento durante la gestión municipal.",
+            "indicator": "Número de ferias y actividades económicas realizadas."
+          },
+          {
+            "problem": "Escasa promoción turistica y comercial.",
+            "objective": "Impulsar el desarrollo turístico y económico de Ancón mediante actividades comerciales y culturales.",
+            "goal": "Incrementar las oportunidades laborales y promover el crecimiento del comercio formal y turístico en el distrito de Ancón.",
+            "indicator": "Incremento de programas de capacitación y oportunidades laborales para los vecinos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasa conservación de áreas verdes.",
+            "objective": "Recuperar y conservar áreas verdes y espacios públicos para mejorar el medio ambiente en Ancón.",
+            "goal": "Ejecutar campañas permanentes de limpieza, reciclaje y educación ambiental con participación de los vecinos de Ancón.",
+            "indicator": "Reducción de puntos criticos de contaminación y acumulación de residuos sólidos."
+          },
+          {
+            "problem": "Contaminación y acumulación de residuos sólidos.",
+            "objective": "Promover campañas de reciclaje, educación ambiental y participación vecinal.",
+            "goal": "Recuperar y mantener al menos 15 áreas verdes y espacios públicos durante la gestión municipal.",
+            "indicator": "Cantidad de áreas verdes recuperadas y mantenidas."
+          },
+          {
+            "problem": "Deficiente limpieza pública,",
+            "objective": "Fortalecer la limpieza pública y el manejo adecuado de residuos sólidos en el distrito.",
+            "goal": "Reducir en un 50% los puntos críticos de contaminación y acumulación de residuos sólidos en el",
+            "indicator": "Número de campañas de limpieza y reciclaje realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de confianza en la gestión pública.",
+            "objective": "Promover una gestión municipal transparente, moderna y con rendición permanente de cuentas en Ancón.",
+            "goal": "Digitalizar progresivamente los principales trámites y servicios municipales para brindar una atención más rápida y eficiente a los vecinos de Ancón.",
+            "indicator": "Cantidad de trámites y servicios municipales digitalizados."
+          },
+          {
+            "problem": "Limitada participación vecinal.",
+            "objective": "Fortalecer la participación vecinal y et trabajo conjunto entre la municipalidad y la cludadanía.",
+            "goal": "Realizar reuniones vecinales descentralizadas de manera permanente en los diferentes sectores del distrito.",
+            "indicator": "Número de reuniones y espacios de participación ciudadana realizados."
+          },
+          {
+            "problem": "Deficiente atención municipal.",
+            "objective": "Mejorar la atención y eficiencia de los servicios municipales brindados a los vecinos.",
+            "goal": "Mejorar en un 50% los tiempos de atención y respuesta en los servicios municipales.",
+            "indicator": "Mejora en los tiempos de atención y respuesta municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-138558",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "FAMILIA",
+        "expediente": "S/N",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-0ZtrJFV9PgjVDcEz5IbHEQMEUOVSFAaM"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-0ZtrJFV9PgjVDcEz5IbHEQMEUOVSFAaM",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/0ZtrJFV9PgjVDcEz5IbHEQMEUOVSFAaM",
+      "sha256": "6f5765b36d61924b84e98f705e16d127d409e1163414b61b6058f3dcf2c645b0",
+      "accessedAt": "2026-10-02T22:50:11.224Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012744",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012744",
+      "sha256": "e1e16b79abd7f6dc1e86e9329f8a2aef27aaec8c5d9a67664d7b7be7f626645c",
+      "accessedAt": "2026-10-02T22:50:12.467Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

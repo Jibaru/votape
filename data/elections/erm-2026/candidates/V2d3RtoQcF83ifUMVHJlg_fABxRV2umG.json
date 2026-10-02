@@ -1,0 +1,152 @@
+{
+  "id": "V2d3RtoQcF83ifUMVHJlg_fABxRV2umG",
+  "slug": "josian-tatiana-calmet-leon",
+  "electionId": "erm-2026",
+  "name": "Josian Tatiana Calmet Leon",
+  "givenNames": "Josian Tatiana",
+  "surnames": "Calmet Leon",
+  "age": 56,
+  "gender": "Femenino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:08.676Z",
+      "sourceId": "jne-hv-V2d3RtoQcF83ifUMVHJlg_fABxRV2umG"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "universidad garcilazo de la vega",
+        "program": "psicología",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/01b7f0da-31d4-4b8e-89d9-e1a6c6f7b470.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/404d7933-38fc-49fe-8b9a-37ed270e38d9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persisten brechas significativas en la atención preventiva y en el acceso a servicios sociales para la población.",
+            "objective": "Mejorar la calidad de vida de la población y promover el bienestar integral junto con la protección social.",
+            "goal": "Reducción significativa de la anemia infantil, cobertura de atención preventiva en todos los sectores y un mayor acceso a los servicios sociales.",
+            "indicator": "Cobertura de campañas médicas, número de beneficiarios atendidos y reducción de la anemia infantil."
+          },
+          {
+            "problem": "Necesidad de ampliar las oportunidades educativas, culturales y recreativas para el desarrollo integral de los habitantes.",
+            "objective": "Promover el desarrollo integral de la población, fortaleciendo el capital humano y la identidad cultural.",
+            "goal": "Alcanzar 20,000 beneficiarios por año, incrementar la participación juvenil y lograr la recuperación de espacios culturales.",
+            "indicator": "Número de participantes en programas, cantidad de eventos realizados y tasa de participación juvenil."
+          },
+          {
+            "problem": "Existencia de vías deterioradas, espacios públicos insuficientes y problemas de accesibilidad universal.",
+            "objective": "Modernizar la infraestructura urbana y elevar la calidad del espacio público.",
+            "goal": "Rehabilitar 100 km de vías, asegurar el 100% de parques con mantenimiento permanente y garantizar la accesibilidad universal en espacios públicos.",
+            "indicator": "Kilómetros de vías mejoradas, número de parques recuperados y nivel de satisfacción ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El potencial turístico y comercial del distrito se encuentra subutilizado, limitando la generación de empleo.",
+            "objective": "Impulsar el crecimiento económico local y la generación de oportunidades económicas para los vecinos.",
+            "goal": "Capacitar a 10,000 vecinos, facilitar 5,000 nuevos empleos e incrementar el turismo local.",
+            "indicator": "Número de nuevos negocios formalizados, cantidad de empleos generados e incremento en el número de visitantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Existen puntos críticos de acumulación de residuos sólidos y un notable deterioro ambiental en el distrito.",
+            "objective": "Convertir a Chorrillos en un distrito limpio y ambientalmente sostenible.",
+            "goal": "Incrementar en un 50% las áreas verdes, reciclar el 25% de los residuos sólidos y obtener la certificación ambiental de los espacios públicos.",
+            "indicator": "Toneladas de residuos reciclados, metros cuadrados de áreas verdes recuperadas y reducción de puntos críticos de contaminación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La inseguridad ciudadana afecta negativamente la calidad de vida, la actividad económica y la confianza de los vecinos.",
+            "objective": "Reducir la delincuencia y aumentar la percepción de seguridad en el distrito.",
+            "goal": "Reducir la delincuencia en un 30% y lograr un tiempo de respuesta menor a 10 minutos.",
+            "indicator": "Porcentaje de reducción de delitos denunciados, porcentaje de reducción de puntos críticos de inseguridad y tiempo de respuesta de las autoridades."
+          },
+          {
+            "problem": "La ciudadanía demanda servicios municipales más ágiles, eficientes y transparentes.",
+            "objective": "Modernizar la gestión pública y transformar la municipalidad en una institución moderna y eficiente.",
+            "goal": "Digitalizar el 100% de los trámites municipales, reducir en un 50% los tiempos de atención y realizar la publicación mensual de indicadores de gestión.",
+            "indicator": "Porcentaje de trámites digitalizados, tiempo promedio de atención, índice de transparencia y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Existe una baja participación organizada de diversos sectores de la población en los asuntos públicos.",
+            "objective": "Fortalecer la cohesión social y construir una gestión participativa e inclusiva.",
+            "goal": "Lograr la participación vecinal en todos los sectores e incrementar la confianza en la gestión municipal.",
+            "indicator": "Nivel de participación en procesos vecinales, número de organizaciones fortalecidas y nivel de confianza institucional."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-V2d3RtoQcF83ifUMVHJlg_fABxRV2umG",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/V2d3RtoQcF83ifUMVHJlg_fABxRV2umG",
+      "sha256": "534929caf70f02e947e012198d6c1463aedeeefdb12df5a686efad734b41230a",
+      "accessedAt": "2026-10-02T22:54:08.676Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022222",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022222",
+      "sha256": "8544c715c3099e7a2bf2d76c553d92965a6de3e9f5e2a0083da37c5c050b163d",
+      "accessedAt": "2026-10-02T22:54:09.222Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

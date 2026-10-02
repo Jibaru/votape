@@ -1,0 +1,234 @@
+{
+  "id": "yrr_QfgsC8AFuOQGqp9bQl-I5W7Tjgod",
+  "slug": "jorge-antonio-salazar-velasquez",
+  "electionId": "erm-2026",
+  "name": "Jorge Antonio Salazar Velasquez",
+  "givenNames": "Jorge Antonio",
+  "surnames": "Salazar Velasquez",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:53.039Z",
+      "sourceId": "jne-hv-yrr_QfgsC8AFuOQGqp9bQl-I5W7Tjgod"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "CENTRO NACIONAL ESPECIALIZADO EN GESTIÓN DEL ESTADO PERUANO",
+        "program": "DIPLOMADO EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "INGENIERÍA CIVIL",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSTRUCTORA CONSAV S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2018",
+      "to": "2026"
+    },
+    {
+      "employer": "CONSTRUCTORA CERIM PERÚ",
+      "role": "GERENTE DE VENTAS",
+      "from": "2013",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 285000,
+        "public": 0,
+        "private": 285000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSTRUCTORA CONSAV S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 16000,
+        "value": 16000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "DIPLOMADO EN DERECHO ADMINISTRATIVO - CENTRO NACIONAL ESPECIALIZADO EN GESTIÓN DEL ESTADO PERUANO",
+    "DIPLOMADO EN LEY 32069 DE CONTRATACIONES PÚBLICAS Y SU REGLAMENTO - CENTRO NACIONAL ESPECIALIZADO EN GESTIÓN DEL ESTADO PERUANO",
+    "DIPLOMADO EN SISTEMAS ADMINISTRATIVOS - CENTRO NACIONAL ESPECIALIZADO EN GESTIÓN DEL ESTADO PERUANO"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ac565e1c-f379-4950-92a5-0176a8e27e3c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/21cb0c77-9eda-4368-807a-cdb810d4e72e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiente atención a la salud de la población de adultos mayores del distrito, quienes carecen de acceso a servicios médicos regulares en sus viviendas.",
+            "objective": "Implementar campañas de salud asistencial a domicilio en coordinación con la municipalidad y las redes de salud para llevar atención médica a los adultos mayores.",
+            "goal": "Mejorar la calidad de vida de los adultos mayores, garantizando que puedan tener acceso a servicios de salud directamente en su vivienda a través de campañas trimestrales.",
+            "indicator": "Número de campañas de salud periódicas trimestrales realizadas para adultos mayores."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud digna y económica para los vecinos del distrito, especialmente para las poblaciones más vulnerables.",
+            "objective": "Garantizar el acceso a servicios de salud de calidad para todos los vecinos del distrito, con énfasis en los más vulnerables, a través de la expansión de la infraestructura sanitaria municipal.",
+            "goal": "Mejorar el acceso a la salud digna y de calidad para el vecino ateño, mediante la construcción de cinco policlínicos en zonas estratégicas como Huaycán, Valle de Amauta, Horacio Zevallos, Salamanca y Valdiviezo.",
+            "indicator": "Número de policlínicos municipales construidos, implementados y reactivados."
+          },
+          {
+            "problem": "Limitado desarrollo y calidad de vida de niños con autismo y sus familias debido a la falta de programas de apoyo psicológico y de rehabilitación en el distrito.",
+            "objective": "Brindar apoyo integral a los niños con autismo y sus familias mediante la creación de centros especializados de rehabilitación para promover su desarrollo y bienestar.",
+            "goal": "Construir e implementar cuatro centros de rehabilitación para niños autistas, realizar un censo para identificar a las familias afectadas y mejorar su calidad de vida.",
+            "indicator": "Número de centros de rehabilitación para niños con autismo implementados y operativos."
+          },
+          {
+            "problem": "Altas tasas de anemia en la población infantil y falta de soporte nutricional para los adultos mayores en las zonas más vulnerables del distrito.",
+            "objective": "Mejorar la nutrición de niños y adultos mayores mediante el fortalecimiento del programa de Vaso de Leche con alimentos nutritivos para combatir la anemia.",
+            "goal": "Reducir la tasa de anemia del 20% al 15% en las zonas más vulnerables del distrito, destinando un 30% más de presupuesto para mejorar y ampliar las raciones del programa.",
+            "indicator": "Tasa de anemia en las zonas más vulnerables de Ate."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Carencia de apoyo institucional para el desarrollo de jóvenes deportistas y talentos en diversas disciplinas como el arte, el deporte y el conocimiento.",
+            "objective": "Fomentar el desarrollo de los talentos del distrito para que logren sus metas, a través de un programa de becas municipales en coordinación con institutos y universidades.",
+            "goal": "Realzar a los jóvenes con talentos del distrito para que cumplan sus metas y representen a la localidad en competencias a nivel nacional e internacional.",
+            "indicator": "Número de becas municipales otorgadas a jóvenes talentos."
+          },
+          {
+            "problem": "Dificultad de acceso a la información y trámites burocráticos que afectan a los vecinos en su interacción con la municipalidad.",
+            "objective": "Implementar y digitalizar los servicios administrativos que brinda la municipalidad en todas sus plataformas para mejorar la gestión y el acceso del vecino.",
+            "goal": "Optimizar el acceso rápido a los servicios administrativos que brinda la municipalidad mediante la implementación de tecnología de software y hardware.",
+            "indicator": "Porcentaje de servicios administrativos municipales digitalizados y accesibles en línea."
+          },
+          {
+            "problem": "Falta de empleo y oportunidades de generación de ingresos económicos para las familias del distrito, lo que contribuye a una elevada tasa de desempleo.",
+            "objective": "Impulsar el intercambio comercial y el emprendimiento vecinal a través de la organización de ferias itinerantes sabatinas y dominicales en plazas y parques.",
+            "goal": "Reducir la tasa de desempleo del 6.8% al 2.5%, apoyando a las familias y al emprendimiento local para que generen ingresos para su sustento.",
+            "indicator": "Tasa de desempleo en el distrito."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, donde entre el 82% y 88% de los habitantes perciben que pueden ser víctimas de un delito.",
+            "objective": "Combatir la inseguridad ciudadana mediante la implementación de tecnología de vigilancia, como cámaras inteligentes interconectadas con la central de serenazgo y la PNP.",
+            "goal": "Disminuir la percepción de inseguridad ciudadana de un 90% a un 50% mediante la construcción de 12 centros de inteligencia de videovigilancia.",
+            "indicator": "Porcentaje de percepción de inseguridad ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Costos operativos exorbitantes y gestión ineficiente en el servicio de recojo de residuos sólidos en el distrito.",
+            "objective": "Optimizar los recursos destinados al recojo de basura mediante la adquisición de una flota propia de camiones compactadores modernos para la municipalidad.",
+            "goal": "Optimizar al 95% la recolección de residuos sólidos en el distrito de Ate, a través de la compra de 60 camiones compactadores de basura.",
+            "indicator": "Porcentaje de cobertura en la recolección de residuos sólidos en el distrito."
+          },
+          {
+            "problem": "Deterioro y falta de aprovechamiento de las zonas arqueológicas del distrito, que tienen un alto potencial turístico y cultural.",
+            "objective": "Reconstruir, rehabilitar y mejorar las zonas turísticas y arqueológicas para generar sostenibilidad turística y recuperar el patrimonio cultural.",
+            "goal": "Mejorar el ornato y proporcionar un espacio recreativo para los vecinos de Ate, mediante la rehabilitación de zonas arqueológicas y la creación de parques y jardines.",
+            "indicator": "Número de zonas arqueológicas y espacios recreativos rehabilitados y mejorados."
+          },
+          {
+            "problem": "Existencia de terrenos abandonados y sin uso que no son aprovechados como espacios para el deporte y la recreación de la comunidad.",
+            "objective": "Recuperar terrenos abandonados para la construcción de infraestructura deportiva y recreativa de uso público, como lozas deportivas y gimnasios al aire libre.",
+            "goal": "Incentivar la práctica del deporte entre los vecinos y jóvenes del distrito mediante la construcción de nuevos espacios deportivos y recreativos.",
+            "indicator": "Número de lozas deportivas, gimnasios al aire libre y otras estructuras recreativas construidas."
+          },
+          {
+            "problem": "Falta de una articulación efectiva entre las entidades de seguridad, lo que debilita la sostenibilidad del control de la seguridad ciudadana en el distrito.",
+            "objective": "Implementar la coordinación del trinomio conformado por la Policía Nacional, el Serenazgo Municipal y las juntas vecinales para fortalecer la seguridad ciudadana.",
+            "goal": "Reducir la inseguridad ciudadana de un 90% a un 50% mediante la reactivación y coordinación del CODISEC en las siete zonas de Ate.",
+            "indicator": "Tasa de inseguridad ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Servicio municipal ineficiente y actos de corrupción por parte de funcionarios públicos, a menudo asociados a sueldos mal remunerados o falta de vocación.",
+            "objective": "Mejorar la calidad del servicio municipal y prevenir la corrupción dotando al personal de la infraestructura y las condiciones laborales necesarias para un desempeño óptimo.",
+            "goal": "Lograr la reducción de la corrupción en la municipalidad mediante el incremento de sueldos dignos para los funcionarios según la escala permitida por ley.",
+            "indicator": "Índice de percepción de la corrupción en la municipalidad."
+          },
+          {
+            "problem": "Inexistencia de una entidad municipal especializada con la facultad de investigar y tomar acciones legales contra actos de corrupción en la gestión.",
+            "objective": "Crear una oficina anticorrupción municipal que trabaje en coordinación directa con el Poder Judicial, la Fiscalía y la Policía Nacional para combatir la corrupción.",
+            "goal": "Combatir la corrupción en la gestión municipal de Ate a través de la implementación de una oficina anticorrupción con facultades para iniciar acciones legales.",
+            "indicator": "Número de denuncias por corrupción procesadas por la nueva oficina."
+          },
+          {
+            "problem": "Ausencia de un sistema de respuesta rápida para la atención de emergencias ciudadanas como congestión vehicular, incendios y otros siniestros.",
+            "objective": "Implementar una aplicación móvil de emergencia denominada 'Alerta Ate' para que los ciudadanos puedan reportar incidentes de manera inmediata.",
+            "goal": "Reducir la percepción de la inseguridad ciudadana del 90% al 50% con la creación de una herramienta tecnológica para la atención de emergencias.",
+            "indicator": "Porcentaje de percepción de inseguridad ciudadana."
+          },
+          {
+            "problem": "Altos índices de delincuencia en diversas zonas del distrito que requieren de una vigilancia constante para disuadir actos criminales.",
+            "objective": "Mejorar la seguridad ciudadana mediante la adquisición y despliegue de drones de vigilancia para monitorear las calles más inseguras del distrito.",
+            "goal": "Bajar el índice de inseguridad ciudadana del 90% al 50% a través de la compra y distribución de 50 drones de última generación en las siete zonas de Ate.",
+            "indicator": "Índice de inseguridad ciudadana reportado por la PNP."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-yrr_QfgsC8AFuOQGqp9bQl-I5W7Tjgod",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yrr_QfgsC8AFuOQGqp9bQl-I5W7Tjgod",
+      "sha256": "fa7b470e769ed381363122a6027093f5d84658bde97c90a7334424e5566cb6a4",
+      "accessedAt": "2026-10-02T22:50:53.039Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021600",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021600",
+      "sha256": "f510028d55d3c2ea56c7706cb01b400049b25ff05a0fd2b1ac44bcd731fbc874",
+      "accessedAt": "2026-10-02T22:50:53.557Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

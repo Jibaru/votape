@@ -1,0 +1,257 @@
+{
+  "id": "TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd",
+  "slug": "milton-tomas-lluque-sosa",
+  "electionId": "erm-2026",
+  "name": "Milton Tomas Lluque Sosa",
+  "givenNames": "Milton Tomas",
+  "surnames": "Lluque Sosa",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:55.650Z",
+      "sourceId": "jne-hv-TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CREA E INNOVA - INSTITUTO DE EMPRENDEDORES",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "Instituto de Directores técnicos de Futbol \"Alfonso Huapaya Cabrera F.P.F.\"",
+        "program": "Director técnico de futbol",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "BACHILLER",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Club deportivo Contigo Perú",
+      "role": "Gestor Deportivo / Presidente del club",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "Grafica Miltoll´s",
+      "role": "Representante Legal",
+      "from": "1996",
+      "to": "2026"
+    },
+    {
+      "employer": "Ministerio del interior",
+      "role": "Subprefecto distrital de Villa el Salvador",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "GRAFICA MACHUPICHU SAC",
+      "role": "GERENTE ADMINISTRATIVO",
+      "from": "2014",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATA UNIDO PERU",
+      "year": "2024"
+    },
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 39920.5,
+        "public": 21920.5,
+        "private": 18000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 42810.99,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Auto",
+        "value": 6000
+      },
+      {
+        "type": "Auto",
+        "value": 10000
+      },
+      {
+        "type": "Camioneta",
+        "value": 12000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Organización Política: Perú Primero Comentario: Renuncia por tema laboral. Año de renuncia: 2025",
+    "EL MONTO DECLARADO EN EL SECTOR PRIVADO SE RIGE A LAS ACTIVIDADES INDEPENDIENTES QUE REALIZO EN LA ACTUALIDAD.",
+    "Vocal de la Asociación Peruana de Entrenadores APEDEY y Asociación de gráficos Lima - Sur (Ex-Presidente)"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a53c864e-7b5d-487d-a1df-1b43ee21e6e1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e203e3ac-cc38-4413-a36a-fa06dbbb43bf.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "3. Desempleo juvenil (14-24 años) del 15.4% en Lima Metropolitana (OIT 2024) e informalidad laboral en jóvenes del 74.9% (INEI 2024). Solo 3 de cada 10 jóvenes acceden a empleo adecuado.",
+            "objective": "3. Inserción laboral de jóvenes mediante programa 'VES Joven', Ferias Laborales Permanentes (MTPE), Casas de la Juventud con capacitación técnica gratuita en alianza con SENATI y SENCICO.",
+            "goal": "5,000 empleos nuevos / año",
+            "indicator": "N.° de empleos nuevos generados por año"
+          },
+          {
+            "problem": "2. Insuficiente atención integral para los adultos mayores fundadores del distrito, especialmente aquellos con enfermedades crónicas y limitaciones de movilidad, debido a la ausencia de programas municipales permanentes de atención domiciliaria, prevención y seguimiento de la salud.",
+            "objective": "2. Fortalecer la atención integral y la calidad de vida de los adultos mayores fundadores de Villa El Salvador mediante la implementación del programa \"VES Honra a sus Fundadores\", con servicios de atención domiciliaria, salud preventiva y acceso oportuno a servicios médicos especializados.",
+            "goal": "1,000 adultos mayores atendidos por año",
+            "indicator": "N° de adultos mayores beneficiarios de programas municipales de atención integral y salud preventiva.."
+          },
+          {
+            "problem": "Alta inseguridad ciudadana: 2,930 denuncias penales en el 1.er semestre 2024 (INEI). El 90% de vecinos se siente inseguro y el 51.6% fue víctima de algún delito en el último año.",
+            "objective": "1. Reducir el índice delictivo mediante videovigilancia, patrullaje integrado con la PNP, alumbrado LED en zonas oscuras y la Brigada Vecinal de Seguridad (500 serenazgos y JJ.VV. capacitados).",
+            "goal": "-30% denuncias; percepción de seguridad mejora de 10% a 40%",
+            "indicator": "N.° de denuncias por delito / % de población que manifiesta sentirse segura según encuesta anual distrital."
+          },
+          {
+            "problem": "4. Insuficiente respaldo municipal al deporte federado local debido a la limitada asistencia técnica, logística e institucional a las organizaciones deportivas del distrito, lo que restringe el desarrollo competitivo de los clubes y ligas deportivas.",
+            "objective": "4. Fortalecer el deporte federado y comunitario mediante la implementación de un programa integral de apoyo técnico, logístico e institucional para todas las disciplinas deportivas del distrito, promoviendo el desarrollo de los clubes y de la Liga Distrital de Fútbol de Villa El Salvador.",
+            "goal": "100% de organizaciones deportivas registradas recibiendo apoyo municipal integral al 2030.",
+            "indicator": "N.° de organizaciones deportivas beneficiadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1. Alta informalidad de MYPES: el Parque Industrial (~1,500 establecimientos) opera mayoritariamente en la informalidad con limitado acceso a crédito, tecnología y mercados externos.",
+            "objective": "1. Crear el Centro de Desarrollo Empresarial VES (CDE-VES) con asesoría gratuita en formalización, acceso a crédito, marketing digital y exportación; reducir trámites de 30 a 5 días hábiles.",
+            "goal": "1,000 MYPES formalizadas",
+            "indicator": "N.° de MYPES formalizadas"
+          },
+          {
+            "problem": "2. Escaso acceso a financiamiento: la mayoría de microempresarios del distrito carece de historial crediticio formal y no accede a productos financieros del sistema bancario.",
+            "objective": "2. Gestionar convenios con COFIDE, banca de desarrollo y cooperativas de crédito para facilitar créditos blandos y fondos de garantía destinados a MYPES del Parque Industrial.",
+            "goal": "500 negocios con crédito",
+            "indicator": "N.° de negocios con acceso a crédito formal"
+          },
+          {
+            "problem": "3. Baja competitividad y posicionamiento del Parque Industrial: los productos del distrito (muebles, metalmecánica, confecciones) carecen de marca colectiva y presencia en mercados nacionales e internacionales.",
+            "objective": "3. Impulsar el 'Sello VES' (marca colectiva del Parque Industrial), organizar Ferias Laborales Permanentes mensuales y gestionar la modernización del Parque con internet de alta velocidad y coworking.",
+            "goal": "CDE-VES operativo; 12 ferias/año; Sello VES lanzado",
+            "indicator": "N.° de empresas que utilizan el Sello VES / N.° ferias realizadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1. Sistema de riego ineficiente: parques y bermas se riegan con camión cisterna en movimiento (0% de ahorro hídrico), en un contexto de escasez de agua en Lima Sur. VES tiene <5 m2 de área verde/habitante (OMS recomienda 9 m2).",
+            "objective": "1. Implementar el Plan de Riego Tecnificado VES 2027-2030: aspersión fija en parques (ahorro 40%), goteo subterráneo en bermas (ahorro 70%) y sensores automáticos en el Parque Zonal Huáscar.",
+            "goal": "100% riego tecnificado; 70% ahorro hídrico",
+            "indicator": "% de parques con riego tecnificado / m3 de agua ahorrados/año"
+          },
+          {
+            "problem": "2. Gestión deficiente de residuos sólidos: cobertura de recolección con déficit en varios sectores. La inversión de S/ 2.2 millones en contenedores modernos (2024) fracasó por falta de gestión operativa.",
+            "objective": "2. Implementar el Plan de Residuos Sólidos 2027-2030: rutas optimizadas, integración de recicladores formales y expansión del programa 'Bono Verde' (descuento en arbitrios por reciclaje) a todos los sectores.",
+            "goal": "95% cobertura; 30% hogares separando residuos",
+            "indicator": "% de cobertura de recolección / N.° de hogares con reciclaje activo"
+          },
+          {
+            "problem": "3. Contaminación industrial y déficit de áreas verdes: el distrito registra una limitada disponibilidad de áreas verdes por habitante y enfrenta impactos ambientales asociados a las actividades productivas desarrolladas en el Parque Industrial.",
+            "objective": "3. Fortalecer la gestión ambiental y mejorar la calidad del entorno urbano mediante la implementación del programa \"VES Verde\", orientado a la ampliación y recuperación de áreas verdes y a la promoción del cumplimiento de la normativa ambiental en las actividades productivas del Parque Industrial.",
+            "goal": "50,000 árboles y plantas; 20 parques recuperados; 100% de empresas supervisadas; 7 m2 de áreas verdes por habitante.",
+            "indicator": "N.° de árboles sembrados / N.° de parques recuperados / % de empresas supervisadas ambientalmente"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja recaudación y escasa participación ciudadana: solo el 43.4% del padrón paga arbitrios; el Presupuesto Participativo es parcial y las audiencias públicas son irregulares.",
+            "objective": "Fortalecer el Presupuesto Participativo Digital (15% del presupuesto de inversión decidido por vecinos); realizar Audiencias Públicas trimestrales en los 13 sectores e implementar sistema de pago digital con incentivos tributarios.",
+            "goal": "65% pago de arbitrios; 28 audiencias públicas/gestión",
+            "indicator": "% de vecinos que pagan arbitrios / N.° de audiencias realizadas"
+          },
+          {
+            "problem": "3. Opacidad en la gestión y escasa modernización institucional: ausencia de sistema integrado de gestión municipal y falta de capacitación del personal en atención al ciudadano y ética pública.",
+            "objective": "Actualizar el Portal de Transparencia mensualmente (ejecución presupuestal, contratos, planillas y avance de obras); capacitar al 100% del personal en convenio con SERVIR; crear el Sistema de Gestión Municipal Integrado.",
+            "goal": "Portal actualizado al 100%; 100% personal capacitado",
+            "indicator": "% de actualización mensual del portal / % personal capacitado"
+          },
+          {
+            "problem": "1. Baja digitalización municipal: solo el 43.4% de vecinos paga arbitrios; los trámites de licencias demoran 30+ días en promedio; los servicios en línea son limitados y el Portal de Transparencia está desactualizado.",
+            "objective": "1. Lanzar el 'Portal Digital VES' (web + app móvil): 80% de trámites en línea, pago electrónico, seguimiento en tiempo real y reducción del plazo de licencias de 30 a 5 días hábiles (ventanilla única digital).",
+            "goal": "80% trámites en línea; licencias en =5 días hábiles",
+            "indicator": "% de trámites disponibles en línea / días promedio para licencia"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd",
+      "sha256": "b9180b4bc5ec6ea8e5c721da16e912ec08ed15a401a86ba2ca2910a09ba80d19",
+      "accessedAt": "2026-10-02T23:06:55.650Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020792",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020792",
+      "sha256": "a4add037fc100eb2a7bfea06c1e82ce70f0361382b623e78e4433c525c443d50",
+      "accessedAt": "2026-10-02T23:06:56.236Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

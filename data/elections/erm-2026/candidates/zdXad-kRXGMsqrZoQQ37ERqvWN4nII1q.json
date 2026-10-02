@@ -1,0 +1,363 @@
+{
+  "id": "zdXad-kRXGMsqrZoQQ37ERqvWN4nII1q",
+  "slug": "jose-antonio-aliaga-pajares",
+  "electionId": "erm-2026",
+  "name": "Jose Antonio Aliaga Pajares",
+  "givenNames": "Jose Antonio",
+  "surnames": "Aliaga Pajares",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140111",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:10.553Z",
+      "sourceId": "jne-hv-zdXad-kRXGMsqrZoQQ37ERqvWN4nII1q"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "LICENCIADO EN COMUNICACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "BACHILLER EN COMUNICACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad ESAN",
+        "program": "MAGÍSTER EN MARKETING",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2021"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "CENTRO DE ALTOS ESTUDIOS NACIONALES (CAEN)",
+        "program": "MAESTRIA EN ADMINISTRACIÓN Y GESTIÓN PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "TECNICO EN LA OFICINA DE COMUNICACIONES",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "LIMICHETS INVERSIONES E.I.R.L.",
+      "role": "BRAND MARKETING MANAGER",
+      "from": "2021",
+      "to": "2025"
+    },
+    {
+      "employer": "CORPORACIÓN GRAFICA ALIAGA SAC",
+      "role": "COORDINADOR DE COMUNICACIONES",
+      "from": "2015",
+      "to": "2025"
+    },
+    {
+      "employer": "CONSTRUCTORA CONCEPCIÓN SAC",
+      "role": "COORDINADOR DE MARKETING",
+      "from": "2020",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL DE LINCE",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 94531.21,
+        "public": 81223.20999999999,
+        "private": 13308
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 160000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DERECHOS MINEROS",
+        "value": 2040,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "SOCIEDADES LEGALES",
+        "value": 3000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 40000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 40000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESPERADA SAC",
+        "type": "ACCIONES",
+        "quantity": 7000,
+        "value": 7000
+      },
+      {
+        "company": "RESTAURANTE EL CASCAJAL SAC",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 2500
+      },
+      {
+        "company": "VALDEZ ALIAGA CANALES REYNA SAC",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 5000
+      },
+      {
+        "company": "LIMICLETS INVERSIONES EIRL",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 500
+      },
+      {
+        "company": "AN EXPLORATION SOLUTIONES SAC",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/472958d3-c7a2-4e5f-ab6c-ca628dcf2112.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/15641c8c-0320-4c10-9599-546a63124d9d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Niñas, niños, adolescentes y jóvenes protegidos y con futuro En coordinación con PRONIED/MINEDU, se gestionará el reforzamiento de instituciones educativas públicas a fin de prevenir riesgos frente a eventos sísmicos. Asimismo, se implementará un programa de reforzamiento escolar con énfasis en matemáticas con la participación de estudiantes de las mejores universidades. Se firmarán convenios con CETPROS e Institutos Superiores a fin de facilitar la formación de jóvenes de sectores de bajos recursos. Se gestionará el centro preuniversitario municipal de Lince, para que nuestros jóvenes tengan mayor posibilidad de ingreso a las universidades. Se promoverá el uso de las instalaciones de los colegios públicos y privados para el deporte, la cultura y recreación de niños, adolescentes y jóvenes fuera del horario escolar a fin de prevenir la violencia y delincuencia juvenil. No se entregarán nuevas licencias de funcionamiento para hostales y hospedajes que terminarían siendo espacios de apoyo a la prostitución. Y, finalmente, se mejorará la atención en la Biblioteca Javier Prado en la Casa de la Cultura y la Biblioteca Infantil Carlota Carvallo en el Parque Ramón Castilla, ampliando su horario de atención para incentivar la lectura y la mejora del rendimiento escolar, técnico y universitario, así como actualizando sus colecciones, especialmente para los niños, jóvenes y adultos mayores; se agregarán nuevos servicios de información que respondan a las necesidades concretas de los v",
+            "goal": "2 1 50% 6 2",
+            "indicator": "Porcentaje de colegios públicos y privados del distrito que cuentan con un informe de identificación de riesgos por desastres. Cantidad de convenios firmados con CETPROS o Institutos Superiores. Cantidad de servicios de clases preuniversitarias municipales brindadas en el distrito en articulación con la municipalidad. Porcentaje de colegios del distrito que realizan actividades culturales y deportivas fuera del horario escolar. Cantidad de parques con servicio de internet gratis. Cantidad de bibliotecas municipales mejoradas."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Servicio de cuidado y protección infantil Con relación a la primera infancia y niñez, se implementará un servicio municipal de cuidado infantil durante el horario laboral; así como se promoverá el uso de los controles CRED del Programa de Crecimiento y Desarrollo del MINSA y de ser insuficiente, se brindará estimulación temprana y despistaje del desarrollo. Por otro lado, se fortalecerá el servicio de atención y prevención de la DEMUNA mejorando su sistema de atención. Se ampliarán los espacios de juego en los parques de Lince, así como los espacios públicos municipales para la práctica deportiva, de manera que se incentive el ejercicio de manera permanente y durante todo el año. Se les brindará facilidades para la práctica de la natación y en el uso de la piscina municipal.",
+            "goal": "100 1 50% 30% 1",
+            "indicator": "Servicio de cuidado diurno infantil municipal mejorado. Porcentaje de satisfacción en la atención de la DEMUNA en relación a la gestión anterior. Porcentaje de crecimiento de los espacios de recreación y deportivos. Documento que brinda facilidades al acceso a niñas, niños y adolescentes a la piscina municipal."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Promoción y prevención en salud En coordinación con la DIRIS/MINSA se implementará un centro materno infantil con atención las 24 horas y se desarrollará una estrategia de lucha contra la anemia y prevención de la obesidad infantil; también para la realización de controles y evaluaciones periódicas del desarrollo infantil (motor, lenguaje, cognitivo, social) para detectar tempranamente retrasos o problemas a fin de derivarlos para una atención oportuna; espacio que incluirá un velatorio. Por otro lado, se desarrollará un programa para prevenir enfermedades no transmisibles en adultos, sobre todo la obesidad, dislipidemias y problemas osteomusculares. Asimismo, en coordinación con MINSA, Essalud y clínicas locales se implementará campañas itinerantes de salud (Programa salud en tu parque) con la finalidad de realizar despistaje de enfermedades crónicas (diabetes, hipertensión, obesidad, dislipidemias), tamizaje de cáncer de mama y cuello uterino, anemia infantil, salud bucal, salud mental, orientación nutricional, despistaje de VIH y enfermedades de transmisión sexual y atención geriátrica básica. Se implementará el Centro de Salud Municipal con un servicio de atención de urgencias a domicilio a través de una ambulancia municipal y en coordinación con los bomberos. Se desarrollarán campañas de salud en cada zona, con un servicio que trasladará a los médicos a fin de atender a personas que se encuentren enfermas o que no puedan movilizarse a las campañas en los parques.",
+            "goal": "1 1 10 1",
+            "indicator": "Cantidad de Centros de Salud del MINSA mejorados. Cantidad de programas para prevenir enfermedades no transmisibles en adultos. Cantidad de campañas de salud realizadas al menos 1 por zona. Cantidad de farmacias municipales implementadas."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Gratitud a nuestras Personas Adultas Mayores - PAM Se promoverá la autonomía e independencia de las personas adultas mayores a través de las siguientes medidas: i) Se pondrá en valor la Casa del Adulto Mayor aprovechando su capacidad instalada y mejorando la calidad de sus servicios, con un equipo multidisciplinario y especializado; ii) Se fortalecerá el CIAM – Centro Integral de Atención al Adulto Mayor, incorporando asistencias legales, psicológicas y sociales; iii) Se habilitará cuidados domiciliarios que permitan acercar los servicios a aquellas que se encuentran en mayor situación de vulnerabilidad; iv) Se constituirá la METRAPAM - Mesa de Trabajo para Personas Adultas Mayores, como un espacio de diálogo y participación de nuestras personas adultas mayores en la toma de decisiones de las políticas locales; v) Se firmarán convenios con diferentes instituciones deportivas y gimnasios del distrito a fin de promover que incorporen en sus programas de ejercicios (como baile y zumba) y gimnasias suaves (como el Taichi y Yoga), a los adultos mayores considerando que un fortalecimiento muscular, es la base de una vejez segura; vi) Se facilitará los accesos a los locales municipales para la práctica deportiva, como la piscina municipal; vii) Se implementará un programa de capacitación en internet, inteligencia artificial y otros temas tecnológicos para disminuir la brecha digital en este grupo etario.",
+            "goal": "1 1 1 1 4 1 100",
+            "indicator": "Un equipo del personal que atiende la Casa del Adulto Mayor fortalecido. Un CIAM – Centro Integral de Atención al Adulto Mayor fortalecido. Documento que crea e implementa el servicio de cuidados domiciliarios para personas adultas mayores en mayor situación de vulnerabilidad. METRAPAM - Mesa de Trabajo para Personas Adultas Mayores constituido. Cantidad de convenios firmados con instituciones deportivas y/o gimnasios. Documento que brinda facilidades al acceso a niñas, niños y adolescentes a la piscina municipal. Cantidad de clases sobre informática, internet e inteligencia artificial."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Prevención y atención a la violencia A fin de prevenir y atender la violencia en el distrito se realizarán coordinaciones con el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP) para repotenciar el Centro de Emergencia Mujer y Familia (CEMF) en la comisaría de Lince; con el Ministerio de Educación (MINEDU) para fortalecer la prevención de la violencia escolar (Bullying); con el Ministerio de Justicia y Derechos Humanos (MINJUSDH) para reforzar el servicio de orientación y asistencia legal gratuita (ALEGRA) en espacios municipales; y con el Ministerio Público para brindar protección a las víctimas de trata en el distrito. Potenciar la Estrategia Multisectorial Barrio Seguro para ampliar el impacto preventivo de reducción del crimen y violencia en el distrito",
+            "goal": "1 CEMF 100% 1 5",
+            "indicator": "Cantidad de Centros de Emergencia Mujer y Familia (CEMF) fortalecido. Porcentaje de colegios de Lince que implementan el Sistema Especializado en la Atención de Casos de Violencia Escolar (SiSeve). Cantidad de espacios municipales donde se implementa el servicio de orientación y asistencia legal gratuita (ALEGRA). Cantidad de actividades anuales realizadas con la Estrategia Multisectorial Barrio Seguro para ampliar el impacto preventivo de reducción del crimen y violencia en el distrito."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Gratitud a nuestras Personas Adultas Mayores - PAM Se promoverá la autonomía e independencia de las personas adultas mayores a través de las siguientes medidas: i) Se pondrá en valor la Casa del Adulto Mayor aprovechando su capacidad instalada y mejorando la calidad de sus servicios, con un equipo multidisciplinario y especializado; ii) Se fortalecerá el CIAM – Centro Integral de Atención al Adulto Mayor, incorporando asistencias legales, psicológicas y sociales; iii) Se habilitará cuidados domiciliarios que permitan acercar los servicios a aquellas que se encuentran en mayor situación de vulnerabilidad; iv) Se constituirá la METRAPAM - Mesa de Trabajo para Personas Adultas Mayores, como un espacio de diálogo y participación de nuestras personas adultas mayores en la toma de decisiones de las políticas locales; v) Se firmarán convenios con diferentes instituciones deportivas y gimnasios del distrito a fin de promover que incorporen en sus programas de ejercicios (como baile y zumba) y gimnasias suaves (como el Taichi y Yoga), a los adultos mayores considerando que un fortalecimiento muscular, es la base de una vejez segura; vi) Se facilitará los accesos a los locales municipales para la práctica deportiva, como la piscina municipal; vii) Se implementará un programa de capacitación en internet, inteligencia artificial y otros temas tecnológicos para disminuir la brecha digital en este grupo etario.",
+            "goal": "100",
+            "indicator": "Cantidad de clases sobre informática, internet e inteligencia artificial."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Inclusión social A fin de brindar atención a la población con discapacidad del distrito se realizarán campañas de empadronamiento para cerrar el subregistro que alcanza al 7,8% por OMAPED y se les brindará apoyo para acceder al programa nacional Contigo. Asimismo, se desarrollarán talleres de formación y desarrollo de habilidades, y se promoverá su inserción laboral en empresas del distrito. Por otro lado, se mejorará la accesibilidad urbana a través de rampas en las esquinas, semáforos de señal sonora, pisos podo táctiles, etc; lo que significa eliminar todas las barreras urbanas que dificultan el tránsito de personas con discapacidad.",
+            "goal": "50% 15 50%",
+            "indicator": "Porcentaje del registro de empadronamiento de personas con discapacidad en el OMAPED. Cantidad de talleres de formación y desarrollo de habilidades realizados. Porcentaje de mejoramiento de espacios con accesibilidad descritos en un informe de identificación de barreras urbanas para personas con discapacidad."
+          },
+          {
+            "problem": "Lince tiene una pobreza monetaria baja (1.45%) con focos de población vulnerable atendida por programas sociales como Pensión65, Programa de Alimentación Escolar (PEM), Contigo y Juntos. Además, los servicios a grupos vulnerables como las personas con discapacidad o adultos mayores tienen una cobertura deficitaria: solo el 7,8% de las personas con discapacidad están registradas en OMAPED y solo el 37.1% de los adultos mayores tienen atención municipal. Asimismo, un Centro de Salud es insuficiente para la atención de enfermedades de una población envejecida y la nutrición infantil. En educación, Lince cuenta con 14 servicios educativos públicos con 9,919 alumnos en educación básica; si bien sus resultados supera el promedio nacional, aún persiste una brecha en matemática.",
+            "objective": "Focalización y protección social Para reforzar la atención a la población vulnerable del distrito se realizarán coordinaciones con el MIDIS a fin de identificar a personas no registradas y facilitar el acceso a los programas de Pensión65, Programas de Alimentación Escolar, Contigo y Juntos. Se mejorará la operatividad del SISFOH para no dejar hogares sin clasificar, se fortalecerán los 17 Comités de Vaso de Leche y los comedores populares.",
+            "goal": "100% 100% 100%",
+            "indicator": "Porcentaje del SISPOH actualizado con los hogares clasificados. Porcentaje de comités del vaso de Leche organizados y fortalecidos participativamente. Porcentaje de comedores populares organizados y fortalecidos participativamente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Lince es un distrito con una economía impulsada principalmente por microempresarios (93.5%), lo que la hace dinámica pero frágil, con alta rotación. Cerca del 90% de sus 19,523 empresas se dedican al comercio y los servicios. En el distrito hay 43,675 trabajadores formales, pero por su dinamismo económico atrae a una población flotante estimada en 100,000 personas. Lince tiene una estructura socioeconómica heterogénea: 20% de los hogares supera el umbral de ingreso alto, el resto es clase media y clase media baja.",
+            "objective": "Intermediación y empleabilidad Se promoverá el empleo y la productividad de la población en edad de trabajar, a través de bolsas de empleo municipal e intermediación laboral con las empresas del distrito, ferias de empleo periódicas, capacitación y certificación de competencias en convenio con los CETPRO e Institutos Superiores del distrito y orientación laboral para jóvenes y reinserción de la población adulta.",
+            "goal": "1 8 2",
+            "indicator": "Bolsa de empleo implementado y ampliado. Cantidad de ferias de empleo realizadas Cantidad de convenios firmados con CETPROS o Institutos Superiores."
+          },
+          {
+            "problem": "Lince es un distrito con una economía impulsada principalmente por microempresarios (93.5%), lo que la hace dinámica pero frágil, con alta rotación. Cerca del 90% de sus 19,523 empresas se dedican al comercio y los servicios. En el distrito hay 43,675 trabajadores formales, pero por su dinamismo económico atrae a una población flotante estimada en 100,000 personas. Lince tiene una estructura socioeconómica heterogénea: 20% de los hogares supera el umbral de ingreso alto, el resto es clase media y clase media baja.",
+            "objective": "Empleo Joven Teniendo en consideración que Lince es un distrito en envejecimiento, es importante implementar políticas de apoyo a los jóvenes. Desde la municipalidad se establecerán convenios con los CETPRO e Institutos Superiores para brindar becas a jóvenes de bajos recursos y orientar la formación hacia la demanda laboral local.",
+            "goal": "2 10",
+            "indicator": "Cantidad de convenios firmados con CETPROS o Institutos Superiores. Cantidad de convenios firmados con empresas para brindar facilidades a contratación de jóvenes Linceños."
+          },
+          {
+            "problem": "Lince es un distrito con una economía impulsada principalmente por microempresarios (93.5%), lo que la hace dinámica pero frágil, con alta rotación. Cerca del 90% de sus 19,523 empresas se dedican al comercio y los servicios. En el distrito hay 43,675 trabajadores formales, pero por su dinamismo económico atrae a una población flotante estimada en 100,000 personas. Lince tiene una estructura socioeconómica heterogénea: 20% de los hogares supera el umbral de ingreso alto, el resto es clase media y clase media baja.",
+            "objective": "Apoyo a la actividad comercial Siendo Lince un distrito predominantemente comercial, se van a desarrollar campañas de promoción para la formalización de la actividad comercial, promover ferias comerciales y/o gastronómicas, ordenamiento del comercio ambulatorio con apoyo a su formalización. Además, se aprobará la regulación del comercio ambulatorio con el que actualmente no se cuenta.",
+            "goal": "100% 4 1",
+            "indicator": "Porcentaje de comercios formales en Lince. Cantidad de ferias comerciales y/o gastronómicas realizadas. Ordenanza de ordenamiento del comercio ambulatorio aprobado."
+          },
+          {
+            "problem": "Lince es un distrito con una economía impulsada principalmente por microempresarios (93.5%), lo que la hace dinámica pero frágil, con alta rotación. Cerca del 90% de sus 19,523 empresas se dedican al comercio y los servicios. En el distrito hay 43,675 trabajadores formales, pero por su dinamismo económico atrae a una población flotante estimada en 100,000 personas. Lince tiene una estructura socioeconómica heterogénea: 20% de los hogares supera el umbral de ingreso alto, el resto es clase media y clase media baja.",
+            "objective": "Desarrollo de la microempresa Dado el dinamismo económico del distrito es necesario desarrollar un programa integral de desarrollo del micro empresario que comprende: implementar una ventanilla única y simplificación de licencias de funcionamiento para enfrentar la alta informalidad; desarrollar programas intensivos de capacitación en gestión, contabilidad básica, tributación, ventas y marketing; asesoría legal y financiera gratuita; y vinculación con el sistema financiero formal a través de convenios con bancos y cajas para orientar el acceso al crédito. Se ampliará el programa de mujeres emprendedoras en coordinación con el Ministerio de la Mujer y Poblaciones Vulnerables y con el Ministerio de la Producción.",
+            "goal": "1 1 40 2,000 400",
+            "indicator": "Cantidad de Ventanilla Única implementada. Documento que simplifica el procedimiento de aprobación de licencias de funcionamiento. Cantidad cursos dictados en la ejecución del programa intensivo de desarrollo empresarial Cantidad de asesorías y asistencias técnicas legal y financiera brindadas. Cantidad de personas que ha participado del programa mujeres emprendedoras."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Uno de los principales problemas medioambientales de Lince es el déficit de áreas verdes, ya que tiene solo 3.90 m² por habitante, bastante menos del 9 m²/hab usado para planificación urbana. El Parque Castilla concentra casi la mitad del área verde del distrito. Por otro lado, la calidad del aire (PM10 de 16.89 µg/m³) cumple holgadamente el estándar nacional; mientras que la contaminación sonora (59.39 dB de promedio) excede los límites de las zonas residenciales. Asimismo, la generación de residuos sólidos (31,960 toneladas), mayor a la esperada, se explica por la intensa actividad comercial y la alta población flotante.",
+            "objective": "Incremento y gestión de áreas verdes Frente al déficit de áreas verdes se promoverá la agricultura urbana y huertos comunitarios en azoteas, así como techos y muros verdes en edificios. De igual modo se llevarán a cabo campañas de arborización en calles, bermas y avenidas. Se recuperarán espacios abandonados para convertirlos en áreas verdes. Además, se mejorará la calidad y mantenimiento de las áreas verdes existentes. Se realizará una evaluación integral de todos los árboles para determinar si están enfermos y puedan ser reemplazados. Se realizará la implementación de jardineras en orden, así como la distribución equidistante de los árboles y áreas verdes, de esta manera, las jardineras delimitaran los estacionamientos en el distrito. Se realizará un concurso de arquitectos urbanistas jóvenes a fin de darnos una nueva visión de nuestra ciudad, de la mano con las áreas verdes a implementar.",
+            "goal": "40 4 8 1 1",
+            "indicator": "Cantidad de techos y/o muros verdes implementados en el distrito. Cantidad de campañas de arborización en calles, bermas y/o avenidas, lo que incluye las jardineras que delimitarán los estacionamientos. Recuperación de espacios abandonados. Elaboración informe de estado situacional de todos los árboles en Lince. Ejecución de un concurso de arquitectos urbanistas jóvenes."
+          },
+          {
+            "problem": "Uno de los principales problemas medioambientales de Lince es el déficit de áreas verdes, ya que tiene solo 3.90 m² por habitante, bastante menos del 9 m²/hab usado para planificación urbana. El Parque Castilla concentra casi la mitad del área verde del distrito. Por otro lado, la calidad del aire (PM10 de 16.89 µg/m³) cumple holgadamente el estándar nacional; mientras que la contaminación sonora (59.39 dB de promedio) excede los límites de las zonas residenciales. Asimismo, la generación de residuos sólidos (31,960 toneladas), mayor a la esperada, se explica por la intensa actividad comercial y la alta población flotante.",
+            "objective": "Control de la calidad del aire Lince si bien se encuentra debajo de los estándares de la contaminación del aire, es preciso un monitoreo continuo de la calidad del aire, teniendo en cuenta que al ser un distrito con Avenidas que cruzan el distrito hay un alto tránsito.",
+            "goal": "16",
+            "indicator": "Cantidad de acciones de fiscalización y/o monitoreo de la calidad del aire."
+          },
+          {
+            "problem": "Uno de los principales problemas medioambientales de Lince es el déficit de áreas verdes, ya que tiene solo 3.90 m² por habitante, bastante menos del 9 m²/hab usado para planificación urbana. El Parque Castilla concentra casi la mitad del área verde del distrito. Por otro lado, la calidad del aire (PM10 de 16.89 µg/m³) cumple holgadamente el estándar nacional; mientras que la contaminación sonora (59.39 dB de promedio) excede los límites de las zonas residenciales. Asimismo, la generación de residuos sólidos (31,960 toneladas), mayor a la esperada, se explica por la intensa actividad comercial y la alta población flotante.",
+            "objective": "Gestión integral de residuos sólidos Teniendo en cuenta la alta generación de residuos sólidos se apoyará y fortalecerá a las asociaciones de recicladores; se promoverá la segregación de la basura con la entrega de bolsas especiales y un recojo de basura reciclable. Se hará un trabajo de sensibilización con los centros comerciales y con la ciudadanía para cuidar la limpieza del distrito. Se reforzará el recojo de basura dejando libres las calles. Se implementará tachos subterráneos en las avenidas principales y se realizarán campañas de “techo limpio” para los artículos más grandes.",
+            "goal": "4 4 4 2 4",
+            "indicator": "Cantidad de acciones en coordinación con asociaciones de recicladores. Cantidad de acciones de promoción de la segregación de basura en bolsas especiales y de recojo de basura reciclable. Cantidad de acciones de sensibilización sobre el cuidado y limpieza del distrito. Cantidad de tachos subterráneos implementados. Cantidad de campañas de techo limpio para artículos grandes para eliminación."
+          },
+          {
+            "problem": "Uno de los principales problemas medioambientales de Lince es el déficit de áreas verdes, ya que tiene solo 3.90 m² por habitante, bastante menos del 9 m²/hab usado para planificación urbana. El Parque Castilla concentra casi la mitad del área verde del distrito. Por otro lado, la calidad del aire (PM10 de 16.89 µg/m³) cumple holgadamente el estándar nacional; mientras que la contaminación sonora (59.39 dB de promedio) excede los límites de las zonas residenciales. Asimismo, la generación de residuos sólidos (31,960 toneladas), mayor a la esperada, se explica por la intensa actividad comercial y la alta población flotante.",
+            "objective": "Protección y bienestar animal Lince es un distrito que cuida y protege los animales. Se implementará la Veterinaria Municipal con profesionales y servicios variados para nuestras mascotas. Se mejorarán los espacios de esparcimiento canino en el Parque Castilla los que serán debidamente delimitados. Se realizarán campañas de vacunación, esterilización y adopción. Se instalarán dispensadores y tachos para los excrementos de los perros. Con la videovigilancia implementada, detectará a los dueños que no recojan las excretas de sus mascotas, siendo identificados, y sancionados.",
+            "goal": "1 1 12",
+            "indicator": "Implementación de veterinaria municipal sostenible. Ampliar espacio de esparcimiento canino del parque Ramón Castilla. Cantidad de campañas de vacunación y/o adopción de mascotas."
+          },
+          {
+            "problem": "Uno de los principales problemas medioambientales de Lince es el déficit de áreas verdes, ya que tiene solo 3.90 m² por habitante, bastante menos del 9 m²/hab usado para planificación urbana. El Parque Castilla concentra casi la mitad del área verde del distrito. Por otro lado, la calidad del aire (PM10 de 16.89 µg/m³) cumple holgadamente el estándar nacional; mientras que la contaminación sonora (59.39 dB de promedio) excede los límites de las zonas residenciales. Asimismo, la generación de residuos sólidos (31,960 toneladas), mayor a la esperada, se explica por la intensa actividad comercial y la alta población flotante.",
+            "objective": "Recuperación y puesta en valor del Parque Mariscal Castilla El Parque Castilla concentra casi la mitad de las áreas verdes del distrito por lo que será repotenciado como el espacio social y ambiental primordial para el desarrollo de actividades educativas, recreativas, deportivas y culturales. Se harán mejoras en el equipamiento y mantenimiento de las instalaciones respetando el ecosistema existente, incluyendo la ampliación del servicio de la Biblioteca Infantil; así como realizar diversas actividades infantiles y/o sociales que nos aseguren limpieza y respeto a las áreas públicas. Acciones de desratización para eliminar esta problemática que se encuentra en crecimiento. Se formarán grupos vecinales ecologistas que nos apoyen en el mejoramiento y cuidado de nuestras áreas verdes. Se realizarán concursos vecinales en diferentes áreas del parque. Se delimitará las áreas para los animales dentro del parque para una convivencia armónica con los vecinos.",
+            "goal": "1 12 4 9 2 2",
+            "indicator": "Servicio de biblioteca ampliado. Cantidad de actividades infantiles y/o sociales que nos aseguren limpieza y respeto a las áreas públicas. Campañas de desratización en el parque Ramón Castilla. Cantidad de grupos vecinales ecologistas. Ejecución de concursos vecinales en diferentes áreas del parque. Acciones de delimitación de las áreas para animales dentro del parque."
+          },
+          {
+            "problem": "Uno de los principales problemas medioambientales de Lince es el déficit de áreas verdes, ya que tiene solo 3.90 m² por habitante, bastante menos del 9 m²/hab usado para planificación urbana. El Parque Castilla concentra casi la mitad del área verde del distrito. Por otro lado, la calidad del aire (PM10 de 16.89 µg/m³) cumple holgadamente el estándar nacional; mientras que la contaminación sonora (59.39 dB de promedio) excede los límites de las zonas residenciales. Asimismo, la generación de residuos sólidos (31,960 toneladas), mayor a la esperada, se explica por la intensa actividad comercial y la alta población flotante.",
+            "objective": "Fiscalización del ruido Si bien Lince se encuentra dentro de los límites de la contaminación del ruido, se hará una fiscalización de los ruidos en las zonas comerciales y las vías de alto tránsito a través de mediciones con sonómetros, inspecciones y operativos a locales comerciales (bares y discotecas) en zonas críticas, sobre todo en horarios nocturnos. Se protegerá del ruido zonas residenciales y sensibles (hospitales, colegios, áreas de adultos mayores) declarándolas zonas de protección especial. Se actualizará la ordenanza que pone límite de horario y decibeles máximo a las discotecas, especialmente las de las Avenida las Heras y Risso, colocando el énfasis en el control de ruidos y la implementación de sistemas acústicos que eviten el ruido en los rooftop y otros espacios de diversión.",
+            "goal": "36 1",
+            "indicator": "Cantidad de acciones de fiscalización de ruidos molestos en zonas comerciales y vías de alto tránsito. Actualización de la ordenanza sobre límite de horario y decibeles máximos de discotecas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Lince es 5to distrito con mayor tasa de criminalidad de Lima Metropolitana con una prevalencia del 87% de los delitos patrimoniales; además, presenta criminalidad organizada relacionada con la explotación sexual en la zona de Risso. Frente a ello, tiene una débil respuesta: una sola comisaría, un déficit de serenos del 52%, 155 de 206 cámaras de vigilancia inoperativa, un cumplimiento deficitario de las metas de seguridad ciudadana (53.6%).",
+            "objective": "Ordenamiento y mejoramiento distrital con estándares urbanos Se revisará y actualizará de ser el caso, el expediente técnico para el proyecto del “complejo deportivo de Lazo”, aprobado mediante presupuesto participativo, asimismo se concluirá con su construcción e implementación para tenerlo en funcionamiento antes que culmine nuestro mandato. Se eliminará el otorgamiento de licencias a edificios muy altos o que incluyan departamentos de interés social que, para el caso del costo del metro cuadrado en Lince, no aplica en la realidad. Recuperación de las calles y jirones del distrito, empezando por Manuel Candamo, León Velarde, Merino, entre otros. Modernización del 100% de luminarias del distrito a focos LED mejorando la iluminación y reduciendo los espacios oscuros, además de incorporar iluminación con carga solar. Reorganización de los espacios de parqueo priorizando al vecino Linceño, volviendo el parqueo gratuito y rotativo, hasta por 2 horas para vecinos y 1 hora para visitantes, implementando la grúa municipal para llevarlos vehículos al depósito. Se invertirá con el financiamiento del 50% de la mano de obra para los domicilios que decidan pintar su fachada, quienes invertirán en los materiales. Se dejarán de entregar licencias para la colocación de paneles LED que aumentan la contaminación visual en el distrito. Se fiscalizará el cumplimiento de la ordenanza que prohíbe el consumo de alcohol y drogas en la vía pública. Se revisará y renegociará el contrato de concesió",
+            "goal": "1 1 4 100% 1 4 1 1",
+            "indicator": "Actualización del expediente técnico para el proyecto del “complejo deportivo de Lazo”, de ser el caso. Ejecución del proyecto del “complejo deportivo de Lazo”. Acciones de recuperación de calles y/o jirones. Porcentaje de iluminación pública pasada al sistema LED en el distrito de Lince. Implementar el parque gratuito y rotativo. Campañas de pintado de fachadas con apoyo de la municipalidad. Eliminación de nuevas licencias para la colocación de paneles LED para publicidad. Renegociación del contrato de concesión de la Piscina Municipal."
+          },
+          {
+            "problem": "Lince es 5to distrito con mayor tasa de criminalidad de Lima Metropolitana con una prevalencia del 87% de los delitos patrimoniales; además, presenta criminalidad organizada relacionada con la explotación sexual en la zona de Risso. Frente a ello, tiene una débil respuesta: una sola comisaría, un déficit de serenos del 52%, 155 de 206 cámaras de vigilancia inoperativa, un cumplimiento deficitario de las metas de seguridad ciudadana (53.6%).",
+            "objective": "Fortalecimiento de la participación Se fortalecerán las juntas vecinales y/o los presupuestos participativos. Se implementarán mecanismos de consulta y/o vigilancia ciudadana. Se realizarán rendiciones de cuentas periódicas a la ciudadanía. Se activarán los comités de participación distrital como por ejemplo del COMUDENA, entre otros. Las sesiones de concejo tendrán la apertura para que puedan se presenciados por las juntas vecinales y los vecinos en general, participación que podrá ser física o virtual.",
+            "goal": "8 4 4 3 1",
+            "indicator": "Acciones de fortalecimiento de las juntas vecinas y/o de presupuestos participativos. Acciones de consulta y/o vigilancia ciudadana. Acciones de rendición de cuentas anuales. Implementación de órganos colegiados de participación en el distrito. Implementar el sistema de observación de las sesiones de Consejo de manera presencial y virtual."
+          },
+          {
+            "problem": "Lince es 5to distrito con mayor tasa de criminalidad de Lima Metropolitana con una prevalencia del 87% de los delitos patrimoniales; además, presenta criminalidad organizada relacionada con la explotación sexual en la zona de Risso. Frente a ello, tiene una débil respuesta: una sola comisaría, un déficit de serenos del 52%, 155 de 206 cámaras de vigilancia inoperativa, un cumplimiento deficitario de las metas de seguridad ciudadana (53.6%).",
+            "objective": "Una nueva manera de gestión municipal: tecnología, eficiencia y transparencia Se reorientará el gasto de funcionamiento. Se mejorará la ejecución de la inversión pública y la transparencia de la gestión mediante el control concurrente y la rendición de cuentas periódica. Se realizará una modernización de la gestión interna, implementando una verdadera gestión por resultados, por ejemplo, i) incorporándonos a diversos programas presupuestales para recibir presupuesto específico y pueda ser ampliado con los años con mayor facilidad, ii) Modificando la estructura orgánica de la municipalidad con énfasis a una gestión nueva con enfoque de servicio al ciudadano y la gestión tecnológica e interoperabilidad entre las diferentes gerencias municipales. Mejorar la ejecución presupuestal obteniendo un resultado “óptimo” de acuerdo con la normatividad del Sistema Nacional de Planeamiento Estratégico. Se conformará el “Consejo de Notables” en el que participarán personajes notables como ex alcaldes, ex funcionarios públicos, líderes vecinales, entre otros, que se reunirá una vez cada trimestre antes de las sesiones del Consejo Municipal. Lucha frontal contra la corrupción, empezando por los espacios relacionados a la fiscalización y licencias, para fomentar el desarrollo empresarial del distrito. Se implementará acciones para una comunicación activa con los vecinos, de manera fluida, a través de la subgerencia de participación vecinal para tomar en cuenta su opinión en las mejoras del di",
+            "goal": "4 1 1 4 1",
+            "indicator": "Acciones de rendición de cuentas anuales. Propuesta de ampliación en la participación de programas presupuestales. Modificación de la estructura orgánica de la Municipalidad de Lince. Resultado en la ejecución del gasto anual como óptimo. Implementación del Consejo de Notables de Lince."
+          },
+          {
+            "problem": "Lince es 5to distrito con mayor tasa de criminalidad de Lima Metropolitana con una prevalencia del 87% de los delitos patrimoniales; además, presenta criminalidad organizada relacionada con la explotación sexual en la zona de Risso. Frente a ello, tiene una débil respuesta: una sola comisaría, un déficit de serenos del 52%, 155 de 206 cámaras de vigilancia inoperativa, un cumplimiento deficitario de las metas de seguridad ciudadana (53.6%).",
+            "objective": "Una nueva manera de gestión municipal: tecnología, eficiencia y transparencia Se reorientará el gasto de funcionamiento. Se mejorará la ejecución de la inversión pública y la transparencia de la gestión mediante el control concurrente y la rendición de cuentas periódica. Se realizará una modernización de la gestión interna, implementando una verdadera gestión por resultados, por ejemplo, i) incorporándonos a diversos programas presupuestales para recibir presupuesto específico y pueda ser ampliado con los años con mayor facilidad, ii) Modificando la estructura orgánica de la municipalidad con énfasis a una gestión nueva con enfoque de servicio al ciudadano y la gestión tecnológica e interoperabilidad entre las diferentes gerencias municipales. Mejorar la ejecución presupuestal obteniendo un resultado “óptimo” de acuerdo con la normatividad del Sistema Nacional de Planeamiento Estratégico. Se conformará el “Consejo de Notables” en el que participarán personajes notables como ex alcaldes, ex funcionarios públicos, líderes vecinales, entre otros, que se reunirá una vez cada trimestre antes de las sesiones del Consejo Municipal. Lucha frontal contra la corrupción, empezando por los espacios relacionados a la fiscalización y licencias, para fomentar el desarrollo empresarial del distrito. Se implementará acciones para una comunicación activa con los vecinos, de manera fluida, a través de la subgerencia de participación vecinal para tomar en cuenta su opinión en las mejoras del di",
+            "goal": "4 1 1 4 1",
+            "indicator": "Acciones de rendición de cuentas anuales. Propuesta de ampliación en la participación de programas presupuestales. Modificación de la estructura orgánica de la Municipalidad de Lince. Resultado en la ejecución del gasto anual como óptimo. Implementación del Consejo de Notables de Lince."
+          },
+          {
+            "problem": "Lince es 5to distrito con mayor tasa de criminalidad de Lima Metropolitana con una prevalencia del 87% de los delitos patrimoniales; además, presenta criminalidad organizada relacionada con la explotación sexual en la zona de Risso. Frente a ello, tiene una débil respuesta: una sola comisaría, un déficit de serenos del 52%, 155 de 206 cámaras de vigilancia inoperativa, un cumplimiento deficitario de las metas de seguridad ciudadana (53.6%).",
+            "objective": "Gestión del Riesgo de Desastres Modernización del COE distrital y de la Gestión Integral de Riesgos, así como el aprovechamiento del Centro de Operaciones de Emergencia, poniendo en valor y en uso el equipamiento. Se realizarán las gestiones necesarias con el objetivo de obtener donaciones que vayan directamente a la mejora del equipamiento de nuestros bomberos de la Bomba Lince N° 4.",
+            "goal": "4 4",
+            "indicator": "Acciones de aprovechamiento del centro de operaciones de emergencia. Donaciones realizadas a la compañía de bomberos Bomba N° 04 de Lince y/o a las acciones de Gestión del Riesgo de Desastres."
+          },
+          {
+            "problem": "Lince es 5to distrito con mayor tasa de criminalidad de Lima Metropolitana con una prevalencia del 87% de los delitos patrimoniales; además, presenta criminalidad organizada relacionada con la explotación sexual en la zona de Risso. Frente a ello, tiene una débil respuesta: una sola comisaría, un déficit de serenos del 52%, 155 de 206 cámaras de vigilancia inoperativa, un cumplimiento deficitario de las metas de seguridad ciudadana (53.6%).",
+            "objective": "Estrategia integral de seguridad ciudadana Para enfrentar la seria problemática de seguridad ciudadana se propone una estrategia integral con los siguientes componentes: Implementación de un observatorio del delito que permita identificar los hot spots y organizar operativos de prevención e intervención más efectivos; la operativización de las doscientas (200) cámaras de vigilancia actuales, un aumento de la cantidad en doscientas (200) cámaras adicionales y la interconexión con las cámaras externas de comercios y domicilios; la adquisición de un software con inteligencia artificial para la interconexión de las cámaras, el reconocimiento facial y de placas vehiculares, así como para la fiscalización del cumplimiento de las normas en general; la ampliación de la central de monitoreo de la Av. Iquitos en infraestructura, software y equipamiento; adquisición de al menos cuatro (4) drones colocados en puntos estratégicos del distrito para la identificación y seguimiento a casos de inseguridad e incumplimiento de normas; creación de una aplicación de denuncia y alerta con botones de pánico; aumento del número de serenos las 24 horas con intervenciones inmediatas y de emergencia; fortalecer el patrullaje integrado con la Policía Nacional del Perú; apoyo a las juntas vecinales, activar comités de seguridad en los mercados, organizar comercios otorgándoles la certificación de “comercio vecino responsable” (prevenir las extorsiones); prevención situacional del delito (CPTED) mejorand",
+            "goal": "1 100% 200 100 1 1 4 20% 16 1",
+            "indicator": "Implementación del observatorio del delito. Porcentaje de cámaras de vigilancia actuales operativas. Cantidad de cámaras nuevas implementadas. Cantidad de conexiones con cámaras de comercios o domicilios. Software de vigilancia con inteligencia artificial implementado. Ampliación de la central de monitoreo de la Av. Iquitos. Adquisición de 4 drones de seguimiento para vigilancia en funcionamiento. Porcentaje de aumento de número de serenos. Cantidad de acciones de fiscalización en paraderos informales. Implementación de una oficina para la subprefectura de Lince."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zdXad-kRXGMsqrZoQQ37ERqvWN4nII1q",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zdXad-kRXGMsqrZoQQ37ERqvWN4nII1q",
+      "sha256": "539636027a9a6a1667b31dbdcd7c577126f278461975b86ed4c6556e69694639",
+      "accessedAt": "2026-10-02T22:58:10.553Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015023",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015023",
+      "sha256": "0d6da5312f23df335879418da4435a49232d5ce9a832170c38bd82bbdd2a717d",
+      "accessedAt": "2026-10-02T22:58:11.052Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "h3M_CfzpXbft_5qB5WX6OffvfmEWwk-A",
+  "slug": "yvan-alexis-villavicencio-alvildo",
+  "electionId": "erm-2026",
+  "name": "Yvan Alexis Villavicencio Alvildo",
+  "givenNames": "Yvan Alexis",
+  "surnames": "Villavicencio Alvildo",
+  "age": 30,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140111",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:09.074Z",
+      "sourceId": "jne-hv-h3M_CfzpXbft_5qB5WX6OffvfmEWwk-A"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "BACHILLER EN CIENCIAS SOCIALES CON MENCIÓN EN CIENCIA POLÍTICA Y GOBIERNO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INMOBILIARIA EPIFANIA S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "INDEPENDIENTE",
+      "from": "2019",
+      "to": "2024"
+    },
+    {
+      "employer": "SISTEMA DE NEGOCIOS PARA LA INTEG.COOP. S.A.C.",
+      "role": "AUXILIAR",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "RAL MUÑOZ ASOCIADOS S.R.L.",
+      "role": "AUXILIAR",
+      "from": "2020",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SUBSECRETARIO NACIONAL DE JUVENTUDES",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "position": "MIEMBRO TITULAR TRIBUNAL NACIONAL DE ÉTICA Y MORAL",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2019",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INMOBILIARIA EPIFANIA S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 1960,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "FUNDÉ Y FUI PRESIDENTE DE LA ASOCIACION CIVIL DE FORMACIÓN POLÍTICA CONSILIUM PERO FUE DADA DE BAJA DE OFICIO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e23fa48a-b9a2-47d3-95aa-37d47aba4e6b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/55e6de99-dcd1-44e4-8887-ef23b08f3984.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Centro de Salud actual desbordado, con infraestructura inadecuada y falta de insumos.",
+            "objective": "Garantizar el acceso continuo a una atención de salud pública especializada y de calidad.",
+            "goal": "Consolidación del primer Hospital distrital con especialidades, cirugía y hospitalización.",
+            "indicator": "Porcentaje de avance de la construcción e implementación del Hospital."
+          },
+          {
+            "problem": "Ausencia de un servicio de emergencias médicas público de 24 horas.",
+            "objective": "Brindar atención médica continua y de mediana complejidad para evitar traslados.",
+            "goal": "Garantía de acceso continuo a la salud con atención de emergencias las 24 horas.",
+            "indicator": "Disponibilidad del servicio de emergencias (24 horas, los 365 días)."
+          },
+          {
+            "problem": "Escasez de ambulancias y falta de una respuesta rápida articulada.",
+            "objective": "Reducir el tiempo de respuesta ante emergencias críticas de salud y seguridad.",
+            "goal": "Enfoque en la salud integral y sistemas de respuesta rápida interconectados.",
+            "indicator": "Tiempo promedio de arribo de la ambulancia. Implementación del número único telefónico."
+          },
+          {
+            "problem": "Adultos mayores vulnerables sin acceso o facilidades para atención médica primaria.",
+            "objective": "Proteger y atender la salud de la población adulta mayor vulnerable directamente en sus hogares.",
+            "goal": "Implementación del programa de asistencia médica domiciliaria para adultos mayores vulnerables.",
+            "indicator": "Número de adultos mayores atendidos bajo la modalidad domiciliaria."
+          },
+          {
+            "problem": "Ausencia de espacios públicos e infraestructura dedicados a la promoción y desarrollo de la cultura.",
+            "objective": "Democratizar el acceso a la cultura y la formación artística comunitaria.",
+            "goal": "Construcción del primer Centro Cultural de Lince como faro de expresión y formación artística descentralizada.",
+            "indicator": "Porcentaje de avance de la obra del Centro Cultural. Número de ciudadanos que asisten a talleres y eventos."
+          },
+          {
+            "problem": "Bajo desempeño escolar, baja calidad educativa en colegios y aumento de casos de bullying.",
+            "objective": "Elevar los estándares de la calidad educativa escolar y promover entornos sanos y seguros.",
+            "goal": "Fortalecimiento del desarrollo humano integral a través de la educación y el reconocimiento del mérito escolar.",
+            "indicator": "Número de becas de educación superior otorgadas. Reducción en el porcentaje de casos de bullying reportados en las escuelas del distrito."
+          },
+          {
+            "problem": "Inexistencia de infraestructura educativa pública especial para la inclusión de personas con discapacidad.",
+            "objective": "Garantizar educación pública inclusiva y especializada dentro de la jurisdicción.",
+            "goal": "Promoción y creación del primer Centro de Educación Básica Especial (CEBE) para vecinos con discapacidad.",
+            "indicator": "Creación formal y funcionamiento del primer CEBE en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Trabas administrativas y excesiva demora en la emisión de licencias de funcionamiento y edificación.",
+            "objective": "Dinamizar la economía local eliminando barreras burocráticas para el comercio formal.",
+            "goal": "Un distrito moderno con procesos eficientes que impulsen el crecimiento formal.",
+            "indicator": "Tiempo promedio de emisión de licencias de funcionamiento (meta: 24 horas)."
+          },
+          {
+            "problem": "Desbalance inmobiliario y falta de atracción de inversiones corporativas de alto valor.",
+            "objective": "Posicionar al distrito como un atractivo centro de negocios e inversiones corporativas.",
+            "goal": "Consolidación de una Zona Empresarial que atraiga sedes corporativas nacionales e internacionales.",
+            "indicator": "Número de sedes corporativas instaladas en la Zona Financiera."
+          },
+          {
+            "problem": "Aumento de la informalidad callejera y de trabajadores ambulantes.",
+            "objective": "Promover la formalización comercial e inserción de emprendedores en la economía formal.",
+            "goal": "Implementación de la Casa del Emprendedor y un CETPRO municipal para empleabilidad técnica.",
+            "indicator": "Número de emprendedores capacitados y formalizados. Egresados del CETPRO insertados al mercado laboral."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de pistas y veredas que comprometen la accesibilidad de adultos mayores y personas con discapacidad.",
+            "objective": "Recuperar la infraestructura vial y garantizar la accesibilidad universal en el distrito.",
+            "goal": "Infraestructura peatonal inteligente de inclusión universal para personas con discapacidad y adultos mayores.",
+            "indicator": "Kilómetros de pistas y veredas reparadas bajo el modelo participativo."
+          },
+          {
+            "problem": "Déficit de infraestructura veterinaria municipal y falta de albergue temporal de animales.",
+            "objective": "Promover el bienestar animal y atender la demanda de atención médica para mascotas.",
+            "goal": "Enfoque en la salud integral que incluye la salud ambiental y el bienestar de los animales del distrito.",
+            "indicator": "Número de atenciones veterinarias anuales. Mascotas dadas en adopción responsable."
+          },
+          {
+            "problem": "Deficiencias en la recolección de residuos sólidos en zonas densas y mercados de abasto.",
+            "objective": "Modernizar la gestión ambiental y el sistema de limpieza pública del distrito.",
+            "goal": "Lince consolidado como un distrito ambientalmente sostenible y limpio hacia el 2030.",
+            "indicator": "Porcentaje de cobertura de contenedores soterrados en zonas críticas. Toneladas de residuos segregados adecuadamente."
+          },
+          {
+            "problem": "Restricciones físicas, privatización inadecuada y falta de libre acceso a las áreas verdes y espacios públicos.",
+            "objective": "Asegurar el acceso democrático, intangible y libre a los espacios públicos del distrito.",
+            "goal": "Recuperación, mantenimiento y defensa de las áreas verdes como espacios intangibles y de libre acceso.",
+            "indicator": "Metros cuadrados de áreas verdes recuperados e intangibles. Kilómetros de ciclovías nuevas construidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Delincuencia urbana ('arrebato', 'raqueteo' y hurto de autopartes).",
+            "objective": "Reducir drásticamente los índices delictivos en el distrito.",
+            "goal": "Reducción drástica del delito con Serenazgo profesional articulado con la PNP, FF.AA. y vecinos.",
+            "indicator": "Porcentaje de reducción de denuncias por robo. Tiempo de respuesta ante emergencias."
+          },
+          {
+            "problem": "Prostitución callejera y proxenetismo descontrolado en avenidas y zonas residenciales.",
+            "objective": "Erradicar la explotación sexual y recuperar los entornos urbanos/comerciales.",
+            "goal": "Restablecimiento del orden público con capacidades legales inmediatas para sancionar faltas.",
+            "indicator": "Número de operativos multisectoriales ejecutados. Metros cuadrados de espacios públicos recuperados."
+          },
+          {
+            "problem": "Serenazgo limitado, desprotegido y sin capacidades de sanción inmediata.",
+            "objective": "Profesionalizar, equipar y facultar legalmente al cuerpo de Serenazgo.",
+            "goal": "Un Serenazgo profesional y dotado de herramientas defensivas dentro del marco normativo local.",
+            "indicator": "Porcentaje de serenos capacitados y equipados con herramientas no letales."
+          },
+          {
+            "problem": "Puntos de alta congestión vehicular y falta de sincronización del tráfico en intersecciones clave.",
+            "objective": "Optimizar el flujo vehicular mediante tecnologías de transporte inteligente.",
+            "goal": "Crecimiento urbanístico ordenado y desarrollo de una red de movilidad sostenible.",
+            "indicator": "Porcentaje de reducción del tiempo de congestión en horas punta en intersecciones críticas."
+          },
+          {
+            "problem": "Proliferación de parqueos informales y parqueadores no autorizados.",
+            "objective": "Ordenar el espacio público y formalizar el estacionamiento vehicular en la calle.",
+            "goal": "Crecimiento urbanístico ordenado bajo un estricto principio de autoridad.",
+            "indicator": "Número de parqueadores informales erradicados/formalizados."
+          },
+          {
+            "problem": "Brecha logística, vehicular y táctica en comisarías locales de la PNP.",
+            "objective": "Optimizar el recurso policial operativo en las calles del distrito.",
+            "goal": "Articulación táctica de vanguardia entre la comunidad, el municipio y las fuerzas policiales.",
+            "indicator": "Número de efectivos de la PNP liberados para patrullaje preventivo."
+          },
+          {
+            "problem": "Jóvenes linceños desarticulados, sin espacios de representación formal ante el gobierno local.",
+            "objective": "Institucionalizar la participación activa y democrática de las juventudes en la toma de decisiones.",
+            "goal": "Consolidación de una juventud con liderazgo activo mediante canales abiertos de representación.",
+            "indicator": "Número de sesiones del Consejo de Coordinación Juvenil realizadas por año."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-h3M_CfzpXbft_5qB5WX6OffvfmEWwk-A",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/h3M_CfzpXbft_5qB5WX6OffvfmEWwk-A",
+      "sha256": "ea1dc468f90a2f133f36fb2310b6b378c48c46c1a446ff0fb1098f4806416cd9",
+      "accessedAt": "2026-10-02T22:58:09.074Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019612",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019612",
+      "sha256": "a436e6671c51d8cc9f2652f388797803372afa2cefa7f9cba0f8ecbd9809c000",
+      "accessedAt": "2026-10-02T22:58:09.574Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

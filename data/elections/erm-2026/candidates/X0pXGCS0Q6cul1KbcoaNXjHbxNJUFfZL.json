@@ -1,0 +1,178 @@
+{
+  "id": "X0pXGCS0Q6cul1KbcoaNXjHbxNJUFfZL",
+  "slug": "jorge-patricio-vasquez-nemi",
+  "electionId": "erm-2026",
+  "name": "Jorge Patricio Vásquez Nemi",
+  "givenNames": "Jorge Patricio",
+  "surnames": "Vásquez Nemi",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140128",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:44.041Z",
+      "sourceId": "jne-hv-X0pXGCS0Q6cul1KbcoaNXjHbxNJUFfZL"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "posgrado",
+        "institution": "Universidad ESAN",
+        "program": "Diplimado de Especializacion de Empresas",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "HOUSE ON LINE",
+        "program": "AGENTE INMOBILIARIO",
+        "completed": true,
+        "degree": "AGENTE INMOBILIARIO",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Independiente",
+      "role": "Asesor Comercial",
+      "from": "2010",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 51686,
+        "public": 0,
+        "private": 51686
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "VIVIENDA",
+        "value": 204383.65,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO LINEAL",
+        "value": 1500
+      },
+      {
+        "type": "MOTO LINEAL",
+        "value": 1500
+      },
+      {
+        "type": "MOTO LINEAL",
+        "value": 1000
+      },
+      {
+        "type": "MOTO LINEAL",
+        "value": 1000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 33000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5eeb7b13-0ab5-4cf9-a3f1-83ddd0597f97.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7e5e5b31-1bb0-4167-8aa4-05e294383e88.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de riesgos de inseguridad y desorden durante temporadas de alta afluencia.",
+            "objective": "Fortalecer la seguridad ciudadana y el orden público en todo el distrito.",
+            "goal": "Lograr la cobertura integral de videovigilancia en accesos y espacios públicos, la reducción de incidencias reportadas durante la temporada alta y la cobertura total de salvataje en la playa principal para el año 2030.",
+            "indicator": "Número de cámaras operativas, tiempo promedio de respuesta ante incidencias, cobertura de seguridad en playas y número de intervenciones preventivas."
+          },
+          {
+            "problem": "Limitada integración deportiva y recreativa entre Santa María del Mar y los distritos del litoral sur.",
+            "objective": "Promover el desarrollo de actividades deportivas y recreativas que fortalezcan la integración vecinal, el turismo responsable y la vida saludable.",
+            "goal": "Consolidar un calendario deportivo anual distrital e interdistrital y posicionar a Santa María del Mar como referente deportivo y recreativo del litoral sur para el año 2030.",
+            "indicator": "Número de eventos deportivos organizados, participación vecinal en actividades recreativas y convenios deportivos intermunicipales suscritos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitaciones en la recaudación tributaria y necesidad de mejorar la eficiencia administrativa.",
+            "objective": "Incrementar la eficiencia de la gestión tributaria y optimizar la sostenibilidad financiera municipal.",
+            "goal": "Incrementar la recaudación municipal en al menos un 25%, actualizar el 100% del catastro distrital y reducir los tiempos administrativos en un 50% para el año 2030.",
+            "indicator": "Incremento de recaudación anual, porcentaje de predios actualizados y tiempo promedio de atención administrativa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de preservar el entorno costero y mejorar la gestión ambiental del distrito.",
+            "objective": "Promover un distrito ambientalmente sostenible y resiliente.",
+            "goal": "Incrementar la cobertura vegetal del distrito, implementar riego tecnificado en parques principales y mantener estándares permanentes de limpieza de playas para el año 2030.",
+            "indicator": "Cantidad de áreas verdes recuperadas, número de árboles plantados, frecuencia de limpieza de playas y reducción del consumo de agua en riego."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la institucionalidad municipal y la participación ciudadana.",
+            "objective": "Modernizar la gestión municipal y fortalecer la relación entre municipio y vecinos.",
+            "goal": "Digitalizar los principales servicios municipales, consolidar mecanismos permanentes de participación vecinal y realizar la publicación periódica de indicadores de gestión para el año 2030.",
+            "indicator": "Número de audiencias públicas realizadas, participación vecinal en procesos participativos y cantidad de trámites digitales implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-X0pXGCS0Q6cul1KbcoaNXjHbxNJUFfZL",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/X0pXGCS0Q6cul1KbcoaNXjHbxNJUFfZL",
+      "sha256": "fd479160f75916a23836778cee3ec700854b5d3a61b0b7b12a1e1b4cf36e66b2",
+      "accessedAt": "2026-10-02T23:05:44.041Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021486",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021486",
+      "sha256": "c3bfde066ac881494e1e1abf22e4ace9c9329a50198ffc43e1923e4c298f7cf2",
+      "accessedAt": "2026-10-02T23:05:44.506Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

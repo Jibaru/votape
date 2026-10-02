@@ -1,0 +1,304 @@
+{
+  "id": "gH7pn5avG3G_k9eHTLNCoGsefv7VJ_qm",
+  "slug": "ever-cabanillas-menor",
+  "electionId": "erm-2026",
+  "name": "Ever Cabanillas Menor",
+  "givenNames": "Ever",
+  "surnames": "Cabanillas Menor",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:19.136Z",
+      "sourceId": "jne-hv-gH7pn5avG3G_k9eHTLNCoGsefv7VJ_qm"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IESTP WILLIAM BOEING",
+        "program": "TÉCNICO AERONAÚTICO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "CIENCIAS ECONÓMICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "AVIO PERÚ",
+      "role": "TÉCNICO AERONAÚTICO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "CONTRERAS & MEGO ASOCIADOS SAC",
+      "role": "JEFE DE PROYECTOS",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PROGRESEMOS",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO MORADO",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "VX150 VELOREX COLOR ROJO PLATA",
+        "value": 1000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONTRERAS Y MEGO ASOCIADOS SAC",
+        "type": "ACCIONES",
+        "quantity": 650,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e2a9dc28-e026-4670-ab1e-5c524e9d20ed.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/01a19c89-78da-470f-ade9-7e77afeca3ac.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de integración entre los comités vecinales y los empresarios para enfrentar la seguridad ciudadana.",
+            "objective": "Contar con vecinos y empresarios más integrados y comprometidos con los programas de seguridad ciudadana, con el soporte de drones y serenos, basado en el plan de seguridad vigente.",
+            "goal": "Contar con comités vecinales y empresarios integrados en mesas de diálogo en todos los sectores identificados en San Luis.",
+            "indicator": "Número de mesas de diálogo desarrolladas (comités vecinales y empresarios)."
+          },
+          {
+            "problem": "Falta de control y monitoreo de las causas que generan la delincuencia, como el alcohol, la drogadicción y la prostitución.",
+            "objective": "Disminuir la delincuencia mediante la formulación de programas sociales, tales como bolsas de trabajo, deporte y educación.",
+            "goal": "Reducción de la delincuencia en San Luis en un 50%.",
+            "indicator": "Porcentaje del cumplimiento del programa de manera semestral."
+          },
+          {
+            "problem": "Presencia de violencia familiar en el distrito de San Luis.",
+            "objective": "Disminuir el maltrato físico y psicológico en las familias mediante programas sociales de lucha contra la violencia familiar para los vecinos de San Luis.",
+            "goal": "Reducción del maltrato físico y familiar en un 60%.",
+            "indicator": "Número de vecinos atendidos en programas de violencia familiar en San Luis."
+          },
+          {
+            "problem": "Falta de integración de las cámaras de videovigilancia y drones de la municipalidad con las dos comisarías existentes en San Luis.",
+            "objective": "Generar el trabajo cooperativo entre la municipalidad y las comisarías a través de un sistema de seguridad ciudadana integrado.",
+            "goal": "Contar con todas las cámaras del distrito integradas con las comisarías.",
+            "indicator": "Número de cámaras integradas al sistema de seguridad ciudadana."
+          },
+          {
+            "problem": "Falta de un plan de desarrollo turístico gastronómico para San Luis.",
+            "objective": "Generar una oferta turística gastronómica para San Luis mediante la elaboración de un plan de turismo.",
+            "goal": "Ejecución del plan de turismo para San Luis al 50%.",
+            "indicator": "Porcentaje de cumplimiento de las propuestas del plan de desarrollo turístico."
+          },
+          {
+            "problem": "Inexistencia de estrategias e infraestructura de salud lideradas por la municipalidad de San Luis.",
+            "objective": "Contar con un sistema de salud gestionado por la municipalidad por medio de un plan de salud integral, que incluya infraestructura municipal de salud y programas de prevención según las necesidades de la población vulnerable.",
+            "goal": "Ejecución del plan de salud para San Luis al 50%.",
+            "indicator": "Porcentaje de cumplimiento de las propuestas del plan de salud integral."
+          },
+          {
+            "problem": "No se fomentan las actividades deportivas para la juventud y el adulto mayor en diversas ramas deportivas.",
+            "objective": "Aumentar el interés de los jóvenes y adultos mayores mediante el desarrollo de actividades deportivas, aprovechando la infraestructura de la Videna - IPD (villa deportiva nacional).",
+            "goal": "Aprovechamiento al máximo de la Videna para el desarrollo de actividades deportivas para los jóvenes y el adulto mayor.",
+            "indicator": "Número de actividades deportivas generadas (campeonatos, capacitaciones deportivas, etc.)."
+          },
+          {
+            "problem": "La actividad escolar no se complementa con las carreras técnicas.",
+            "objective": "Elevar la formación técnica de los escolares mediante convenios con las instituciones de educación superior.",
+            "goal": "Tener una población escolar del 40% capacitada con temas técnicos.",
+            "indicator": "Número de convenios institucionales firmados."
+          },
+          {
+            "problem": "Falta de mantenimiento de la infraestructura escolar pública.",
+            "objective": "Mejorar las condiciones de la infraestructura y seguridad escolar mediante peritajes anuales.",
+            "goal": "Contar con información y procedimiento técnico-tecnológico sobre la evaluación integral de toda la infraestructura educativa pública del distrito de San Luis.",
+            "indicator": "Número de instituciones educativas públicas evaluadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Poco manejo de herramientas financieras y contables digitales, habilidades empresariales y marcos de trabajo que aumenten la productividad de la gestión de las micro y pequeñas empresas.",
+            "objective": "Promover el uso de herramientas financieras y contables para aumentar la productividad de la micro y pequeña empresa mediante convenios de voluntariado con instituciones de educación superior especializadas.",
+            "goal": "Contar con una cámara de comercio para el distrito de San Luis que permita el desarrollo económico de la micro y pequeña empresa.",
+            "indicator": "Emprendedores registrados en el distrito."
+          },
+          {
+            "problem": "Micro y pequeñas empresas afectadas por la pandemia, con serias debilidades financieras e iniciativas empresariales innovadoras que no cuentan con financiamiento.",
+            "objective": "Mejorar la situación financiera de la micro y pequeña empresa en el distrito de San Luis mediante la promoción de la inversión, capacitación en finanzas y programas de voluntariado.",
+            "goal": "Contar con una cámara de comercio para el distrito de San Luis que permita el desarrollo económico de la micro y pequeña empresa.",
+            "indicator": "Número de empresas capacitadas."
+          },
+          {
+            "problem": "Poca difusión y alianza entre las empresas de los rubros comerciales más resaltantes del distrito.",
+            "objective": "Generar alianzas entre empresas del rubro comercial del distrito por medio de ferias comerciales ubicadas estratégicamente en puntos de alto poder adquisitivo.",
+            "goal": "Ferias comerciales de San Luis reconocidas a nivel de Lima metropolitana que sean puntos de atracción para la participación de empresarios de los distritos vecinos.",
+            "indicator": "Número de ferias comerciales desarrolladas anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de un Plan Maestro de Desarrollo Urbano que incorpore los nuevos cambios en la estructura urbana.",
+            "objective": "Contar con un ordenamiento urbano mediante la actualización del Plan de Desarrollo Urbano de San Luis vigente.",
+            "goal": "Ejecución del plan de desarrollo urbano para San Luis al 50%.",
+            "indicator": "Porcentaje de avance de implementación del plan."
+          },
+          {
+            "problem": "Falta de mantenimiento y conservación de los parques.",
+            "objective": "Mejorar las condiciones de uso de los parques mediante políticas de áreas verdes focalizadas.",
+            "goal": "Contar con el 50% de los parques del distrito debidamente conservados.",
+            "indicator": "Número de parques que recibieron mantenimiento."
+          },
+          {
+            "problem": "Desaprovechamiento de los residuos sólidos para obtener ingresos económicos.",
+            "objective": "Aprovechar los residuos sólidos para obtener ingresos económicos para el distrito, generando productos biodegradables.",
+            "goal": "Creación y funcionamiento de una empresa de reciclaje municipal.",
+            "indicator": "Monto de ingresos económicos generados anualmente."
+          },
+          {
+            "problem": "Inadecuado manejo de los residuos sólidos de manera permanente en el distrito.",
+            "objective": "Generar conciencia ambiental en los vecinos de San Luis por medio de la implementación de políticas de sensibilización ambiental.",
+            "goal": "Cumplimiento de los lineamientos de políticas de desarrollo ambiental (sensibilización).",
+            "indicator": "Porcentaje de participación vecinal en programas ambientales de la municipalidad."
+          },
+          {
+            "problem": "Falta de espacios públicos de estacionamiento, lo que contribuye al colapso y a la falta de fluidez del tránsito interdistrital.",
+            "objective": "Generar espacios de estacionamiento subterráneos que se incorporen dentro del plan de desarrollo urbano.",
+            "goal": "Cumplimiento con las propuestas de espacios de estacionamiento según el plan de desarrollo urbano.",
+            "indicator": "Identificación de las zonas con problemas de estacionamiento."
+          },
+          {
+            "problem": "Falta de espacio para la construcción de viviendas para soportar el mayor crecimiento poblacional del distrito.",
+            "objective": "Contar con mayor disponibilidad de viviendas mediante la promoción del desarrollo inmobiliario en el distrito.",
+            "goal": "Ejecución del plan de desarrollo inmobiliario para San Luis al 50%.",
+            "indicator": "Número de proyectos inmobiliarios ejecutados."
+          },
+          {
+            "problem": "Falta de un sistema catastral actualizado que permita soportar las actualizaciones.",
+            "objective": "Actualizar el sistema catastral a través del uso de herramientas tecnológicas y de conectividad.",
+            "goal": "Contar con un sistema catastral moderno desarrollado mediante TICs en funcionamiento al 100%.",
+            "indicator": "Porcentaje de catastro actualizado en el distrito."
+          },
+          {
+            "problem": "Existencia de espacios públicos abandonados como parques.",
+            "objective": "Recuperar espacios públicos mediante planes de intervención municipal focalizados, como estacionamientos subterráneos y parques temáticos.",
+            "goal": "Incorporar el 50% de parques abandonados al servicio de parques de la municipalidad.",
+            "indicator": "Cantidad de espacios públicos recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de voluntariado de exalumnos, estudiantes y profesionales en acciones sociales de la municipalidad.",
+            "objective": "Incrementar el voluntariado de servicio civil mediante el reconocimiento público de la municipalidad por la participación de los vecinos de San Luis.",
+            "goal": "Generar un organismo no gubernamental de voluntariado para brindar apoyo a acciones sociales del distrito de manera permanente.",
+            "indicator": "Número de voluntariados participantes anualmente."
+          },
+          {
+            "problem": "Escasa participación ciudadana en la gestión municipal.",
+            "objective": "Aumentar e incentivar la participación ciudadana en los diferentes temas y acciones municipales mediante la creación formal de comités vecinales.",
+            "goal": "Contar con comités vecinales debidamente instalados en todos los sectores del distrito.",
+            "indicator": "Número de vecinos participantes o inscritos por reunión convocada por la municipalidad."
+          },
+          {
+            "problem": "Personal municipal que no cumple el perfil y falta de capacitación del personal estable.",
+            "objective": "Contar con personal más capacitado en su puesto laboral mediante capacitaciones que fortalezcan sus conocimientos y habilidades blandas.",
+            "goal": "Contar con todo el personal municipal administrativo capacitado en sus respectivas áreas.",
+            "indicator": "Porcentaje de personal municipal capacitado sobre el total existente."
+          },
+          {
+            "problem": "Falta de control del presupuesto municipal.",
+            "objective": "Establecer una política de transparencia del uso de los recursos económicos municipales mediante la publicación de informes económicos mensuales y la participación activa del vecino.",
+            "goal": "Contar con un portal de transparencia de fácil acceso para el vecino de San Luis.",
+            "indicator": "Número de informes económicos presentados."
+          },
+          {
+            "problem": "No se implementa la ley anticorrupción.",
+            "objective": "Lograr la certificación ISO 37001-ANTISOBORNO, mediante un plan antisoborno municipal.",
+            "goal": "Ser la primera municipalidad del Perú en contar con la certificación ISO 37001-ANTISOBORNO.",
+            "indicator": "Porcentaje de avance de la certificación antisoborno."
+          },
+          {
+            "problem": "Desorden del archivo documentario municipal, incluyendo resoluciones y ordenanzas.",
+            "objective": "Actualizar y sistematizar el acervo documentario para evitar tomar decisiones sin el adecuado sustento legal.",
+            "goal": "Contar con un sistema virtual digitalizado de archivo municipal de libre acceso.",
+            "indicator": "Número de documentos municipales ordenados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-gH7pn5avG3G_k9eHTLNCoGsefv7VJ_qm",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/gH7pn5avG3G_k9eHTLNCoGsefv7VJ_qm",
+      "sha256": "d1f3e660da59ecad24672084e0362ba04b68c08f90ed3396993836ec53a3eeb2",
+      "accessedAt": "2026-10-02T23:04:19.136Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020226",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020226",
+      "sha256": "f0df38635c4992101321ccd58bf260350635d845c2b06f44e9f5a18d908f6424",
+      "accessedAt": "2026-10-02T23:04:19.615Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

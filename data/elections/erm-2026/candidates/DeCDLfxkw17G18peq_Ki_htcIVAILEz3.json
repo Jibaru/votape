@@ -1,0 +1,257 @@
+{
+  "id": "DeCDLfxkw17G18peq_Ki_htcIVAILEz3",
+  "slug": "jose-rafael-haro-zolezzi",
+  "electionId": "erm-2026",
+  "name": "Jose Rafael Haro Zolezzi",
+  "givenNames": "Jose Rafael",
+  "surnames": "Haro Zolezzi",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140114",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:50.531Z",
+      "sourceId": "jne-hv-DeCDLfxkw17G18peq_Ki_htcIVAILEz3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "ESCUELA DE AVIACIÓN CIVIL COLLIQUE",
+        "program": "PILOTO PRIVADO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "2DO CICLO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "H+H DISEÑO Y CONSTRUCCIÓN SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "COSTA FLEMING",
+      "role": "EMPLEADO",
+      "from": "2021",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "COORDINADOR DISTRITAL DE MAGDALENA",
+      "party": "PARTIDO POLÍTICO PODEMOS PERU",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "VAMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 59750,
+        "public": 0,
+        "private": 59750
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "DODGE DURANGO PLOMO",
+        "value": 35000
+      },
+      {
+        "type": "MOTO",
+        "value": 16000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "H+H DISEÑO Y CONSTRUCCIÓN SAC",
+        "type": "ACCIONES",
+        "quantity": 99.99,
+        "value": 9999
+      }
+    ]
+  },
+  "additionalInfo": [
+    "LA PERSONA JURIDICA CONSTRUCTORA JOSEMARK SAC SE ENCUENTRA EN BAJA DE OFICIO",
+    "RENUNCIÉ AL PPC EN EL 2012"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1780927b-14bb-49e0-86dd-6a964de27289.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e67858f1-4d37-4f77-b54e-190ae68b65ef.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiencias en la atención integral para adultos mayores, con insuficiente cobertura en salud especializada y brechas en la atención de urgencias distritales.",
+            "objective": "Ampliar la cobertura de los servicios de salud y asistencia social integral para el adulto mayor y la población general en situación de emergencia médica.",
+            "goal": "Al 2030, lograr el 100% de disponibilidad (24/7) del servicio de urgencias y ambulancia de la Clínica Municipal, y la construcción de un Centro Geriátrico Municipal integrado a la red CIAM.",
+            "indicator": "Horas de cobertura continua del servicio de urgencias prehospitalarias municipales. Número de Centros Integrales del Adulto Mayor (CIAM) modernizados y equipados."
+          },
+          {
+            "problem": "Escasez de espacios públicos destinados al desarrollo juvenil, con limitados espacios e infraestructura para la formación técnica, innovación, cultura y sano esparcimiento.",
+            "objective": "Promover el desarrollo integral, la inserción laboral y el capital humano juvenil mediante la creación de un ecosistema multifuncional de capacitación, innovación y bienestar.",
+            "goal": "Al 2030, tener una Casa de la Juventud construida, equipada y operativa al 100%.",
+            "indicator": "Cantidad de jóvenes usuarios atendidos anualmente en la infraestructura municipal especializada."
+          },
+          {
+            "problem": "Inexistencia de servicios públicos de salud veterinaria de alta complejidad, con una brecha en la atención nocturna especializada para urgencias y soporte vital de animales de compañía.",
+            "objective": "Salvaguardar la salud pública ambiental y el bienestar animal mediante la implementación de una red de atención médica veterinaria continua de urgencias.",
+            "goal": "Al 2030, contar con un Hospital Municipal Veterinario operando en modalidad de urgencias las 24 horas.",
+            "indicator": "Horas de atención médica veterinaria especializada en horario nocturno."
+          },
+          {
+            "problem": "Inseguridad ciudadana y delitos patrimoniales, con una percepción de inseguridad e índice delictivo latente en zonas residenciales y comerciales.",
+            "objective": "Reducir el índice de victimización delictiva en el distrito mediante patrullaje integrado, uso de tecnologías de analítica de video y articulación policial.",
+            "goal": "Al 2030, lograr la reducción del 10% del índice de victimización delictiva general en el distrito.",
+            "indicator": "Índice de victimización distrital (INEI). Tiempo de respuesta municipal ante emergencias ciudadanas."
+          },
+          {
+            "problem": "Déficit cualitativo de la iluminación pública y brecha en la formación del cuerpo de serenazgo, con vías críticas de baja luminancia y personal con oportunidades de mejora.",
+            "objective": "Optimizar las capacidades disuasivas del serenazgo bajo el enfoque de policía comunitaria y modernizar el sistema de alumbrado vial.",
+            "goal": "Al 2030, migrar el 100% del alumbrado público a tecnología LED en áreas vulnerables y avenidas, y certificar anualmente al 100% del personal de serenazgo.",
+            "indicator": "Porcentaje de cobertura de luminarias LED en el distrito. Porcentaje de serenos aprobados en el programa de certificación anual."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio informal regulable y subempleo, con una ocupación desordenada del espacio público y la necesidad de fortalecer las capacidades productivas de los emprendedores.",
+            "objective": "Promover la formalización empresarial y el ordenamiento del espacio público mediante incentivos fiscales, simplificación administrativa y capacitación técnica.",
+            "goal": "Al 2030, implementar el Plan de Formalización Progresiva, logrando un comercio regulado, seguro y asistido técnicamente al 100%.",
+            "indicator": "Número de comerciantes de la economía informal formalizados o reubicados productivamente."
+          },
+          {
+            "problem": "Saturación vehicular y déficit de estacionamientos públicos, con congestión vial y estacionamiento informal en zonas de alta densidad comercial y residencial.",
+            "objective": "Optimizar la movilidad urbana y mitigar el déficit de plazas de aparcamiento mediante infraestructura vial subterránea y ordenamiento de paraderos estratégicos.",
+            "goal": "Al 2030, construir un Complejo de Estacionamientos Subterráneos en el Parque Túpac Amaru y formalizar el 100% de paraderos de vehículos menores.",
+            "indicator": "Porcentaje de reducción del índice de congestión vehicular en áreas críticas residenciales y comerciales."
+          },
+          {
+            "problem": "Catastro desactualizado y crecimiento urbano asimétrico, con asimetría de la información predial y debilidad en la planificación urbana del territorio.",
+            "objective": "Modernizar la gestión territorial a través del saneamiento de la información catastral física, jurídica y fiscal del distrito.",
+            "goal": "Al 2030, lograr el 100% de actualización catastral accesible vía Geoportal Institucional Web y App Móvil.",
+            "indicator": "Porcentaje del territorio distrital catastrado bajo estándares multifinalitarios integrados a plataformas digitales."
+          },
+          {
+            "problem": "Desempleo juvenil y desconexión laboral, con una brecha de inserción en el mercado laboral local que afecta principalmente a la población juvenil.",
+            "objective": "Dinamizar el mercado laboral y fomentar el empleo local mediante alianzas estratégicas con el sector empresarial y el fortalecimiento de competencias.",
+            "goal": "Al 2030, implementar una Bolsa de Trabajo Digital articulada con el 100% de empresas comerciales e industriales del distrito.",
+            "indicator": "Número de ciudadanos incorporados al mercado laboral a través de plataformas municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Brechas en el sistema de gestión de residuos sólidos y mantenimiento de parques, con necesidad de modernizar el equipamiento, la infraestructura de acopio y la iluminación de áreas verdes.",
+            "objective": "Fortalecer la sostenibilidad ambiental urbana mediante la transición hacia un modelo de economía circular y la modernización tecnológica del equipamiento de parques.",
+            "goal": "Al 2030, lograr la reestructuración total del sistema de gestión ambiental con islas de contenedores de residuos soterrados y optimizar el 100% de parques con mobiliario urbano sostenible e iluminación ecoeficiente.",
+            "indicator": "Toneladas métricas anuales de residuos segregados en la fuente. Metros cuadrados de áreas verdes optimizadas con luminarias sostenibles."
+          },
+          {
+            "problem": "Déficit de densidad arbórea por habitante, con bajos índices de masa forestal y limitada participación comunitaria en el ecosistema urbano.",
+            "objective": "Incrementar la densidad arbórea urbana, optimizar los servicios ecosistémicos locales y promover la gobernanza ambiental a través de la cogestión comunitaria.",
+            "goal": "Al 2030, lanzar e institucionalizar el Programa de Cogestión Forestal '1 Árbol por Familia', para incrementar significativamente la cobertura forestal del distrito.",
+            "indicator": "Ratio de metros cuadrados de área verde por habitante. Cantidad de nuevos especímenes arbóreos plantados en zonas residenciales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Trámites administrativos complejos y burocracia presencial, con demoras en los tiempos de respuesta y baja participación ciudadana en canales digitales.",
+            "objective": "Transformar la gestión municipal hacia un modelo de Gobierno Digital, simplificando administrativamente e implementando mecanismos participativos en tiempo real.",
+            "goal": "Al 2030, tener el 100% de trámites TUPA digitalizados y habilitados para atención interactiva en línea, y una Aplicación Móvil Municipal operativa para reportes de incidencias urbanas en tiempo real.",
+            "indicator": "Porcentaje de procedimientos administrativos del TUPA digitalizados de extremo a extremo. Número de herramientas móviles institucionales activas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-136992",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: CONDUCCIÓN EN ESTADO DE EBRIEDAD",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2018-10-04",
+      "details": {
+        "materia": "CONDUCCIÓN EN ESTADO DE EBRIEDAD",
+        "fallo": "1 AÑO",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "1ER JUZGADO DE TRANSITO Y SEGURIDAD VIAL",
+        "expediente": "975-2014-0-1832-JR-PE-01",
+        "comentario": null
+      },
+      "quote": "CONDUCCIÓN EN ESTADO DE EBRIEDAD · 1 AÑO · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-DeCDLfxkw17G18peq_Ki_htcIVAILEz3"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-DeCDLfxkw17G18peq_Ki_htcIVAILEz3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DeCDLfxkw17G18peq_Ki_htcIVAILEz3",
+      "sha256": "16a687e3acb4a9219e693b6959dd2b1204fd123333d912c16e2a9d0b4ca730da",
+      "accessedAt": "2026-10-02T22:59:50.531Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019556",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019556",
+      "sha256": "04af1a0946750ada9a268638b67cf835b3cc19d18631fca75702e7542b7c2218",
+      "accessedAt": "2026-10-02T22:59:50.998Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

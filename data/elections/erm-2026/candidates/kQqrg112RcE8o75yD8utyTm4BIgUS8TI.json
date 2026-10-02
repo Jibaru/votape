@@ -1,0 +1,274 @@
+{
+  "id": "kQqrg112RcE8o75yD8utyTm4BIgUS8TI",
+  "slug": "santiago-nicolas-barreda-arias",
+  "electionId": "erm-2026",
+  "name": "Santiago Nicolas Barreda Arias",
+  "givenNames": "Santiago Nicolas",
+  "surnames": "Barreda Arias",
+  "age": 71,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:07.370Z",
+      "sourceId": "jne-hv-kQqrg112RcE8o75yD8utyTm4BIgUS8TI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERDIDAD PARTICULAR SAN MARTÍN DE PORRES",
+        "program": "BACHILLER EN CIENCIAS DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1980"
+      },
+      {
+        "level": "posgrado",
+        "institution": "PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ",
+        "program": "DIPLOMA DE ESTUDIOS SOCIOLÓGICOS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "INSTITUTO NACIONAL DE ADMINISTRACIÓN PÚBLICA",
+        "program": "GERENCIA ESTRATÉGICA DE GOBIERNOS LOCALES",
+        "completed": true,
+        "degree": "DIPLOMA DE ESPECIALIZACIÓN",
+        "year": "1995"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INSTITUTO DE FOMENTO MUNICIPAL Y REGIONAL",
+      "role": "DIRECTOR ACADÉMICO",
+      "from": "2015",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "1984",
+      "to": "1986"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "1987",
+      "to": "1989"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "DIRECTOR NACIONAL DE DEFENSA AL VOTO",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2001",
+      "to": "2011"
+    },
+    {
+      "position": "MIEMBRO DEL TRIBUNAL NACIONAL ELECTORAL",
+      "party": "PARTIDO APRISTA PERUANO",
+      "from": "2016",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/05f46472-3530-4c87-b7ad-6719b95b209b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4651049b-83d1-44c2-8c49-96b29c77ce4c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Ausencia de políticas de desarrollo humano.",
+            "objective": "Promover el desarrollo integral de la persona en todas las etapas de vida, reducir brechas sociales en poblaciones vulnerables y fortalecer el capital humano y la cohesión social.",
+            "goal": "Beneficiar al 40% de la población vulnerable del distrito, implementar al menos 10 programas sociales sostenibles, incrementar significativamente la participación ciudadana en programas comunitarios y generar oportunidades reales de inserción laboral para jóvenes.",
+            "indicator": "Número de beneficiarios de programas sociales, número de programas implementados, nivel de participación ciudadana, tasa de inserción laboral en programas de capacitación y número de actividades educativas y culturales realizadas."
+          },
+          {
+            "problem": "Creciente inseguridad ciudadana.",
+            "objective": "Restablecer el orden, la seguridad y la tranquilidad pública en el distrito, fortalecer la capacidad de respuesta del sistema de seguridad local y consolidar una cultura de prevención y participación vecinal.",
+            "goal": "Reducir la delincuencia en un 80%, instalar y modernizar 200 cámaras de videovigilancia, alcanzar el 100% de cobertura de patrullaje integrado, reducir el tiempo de respuesta ante emergencias en al menos un 40%, implementar una red distrital de participación vecinal activa en seguridad e implementar el aplicativo \"mi distrito seguro\".",
+            "indicator": "Índice de percepción de inseguridad ciudadana, tasa de incidencia delictiva, tiempo promedio de respuesta ante emergencias, número de cámaras instaladas y operativas, número de patrullajes integrados mensuales, número de juntas vecinales activas y número de alertas atendidas mediante aplicativos."
+          },
+          {
+            "problem": "Infraestructura logística deficiente.",
+            "objective": "Modernizar la capacidad operativa de la municipalidad, optimizar la eficiencia en la prestación de servicios públicos y garantizar una gestión basada en resultados.",
+            "goal": "Incrementar en un 50% la capacidad operativa municipal, reducir los tiempos de atención de servicios municipales, implementar centros operativos modernos y mejorar de manera significativa la calidad de los servicios brindados a la ciudadanía.",
+            "indicator": "Número de equipos y maquinaria adquiridos, nivel de operatividad de servicios municipales, tiempo de atención de servicios y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado.",
+            "objective": "Ordenar el desarrollo urbano bajo criterios técnicos, sostenibles y de legalidad, recuperar y poner en valor el espacio público y fortalecer la autoridad municipal en materia urbanística.",
+            "goal": "Reducir las construcciones informales en un 25%, recuperar al menos 50 espacios públicos, contar con un plan urbano actualizado y en ejecución, y fortalecer el control efectivo del desarrollo urbano distrital.",
+            "indicator": "Número de inspecciones y fiscalizaciones realizadas, número de sanciones y regularizaciones, metros cuadrados de espacios públicos recuperados y reducción de construcciones informales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Estancamiento económico local y baja competitividad.",
+            "objective": "Dinamizar la economía local y fortalecer la competitividad del distrito, así como promover el emprendimiento formal y sostenible.",
+            "goal": "Incrementar en un 30% la creación de negocios formales, capacitar a más de 1,000 emprendedores y consolidar ferias económicas permanentes en zonas estratégicas.",
+            "indicator": "Número de nuevos negocios formales creados, número de emprendedores capacitados, nivel de actividad comercial en el distrito y tasa de formalización empresarial."
+          },
+          {
+            "problem": "Limitada articulación entre economía local y empleo.",
+            "objective": "Generar oportunidades laborales en el distrito y vincular la formación con la demanda del mercado.",
+            "goal": "Insertar laboralmente a al menos 2,000 vecinos, realizar ferias laborales periódicas y fortalecer la empleabilidad juvenil en el distrito.",
+            "indicator": "Número de personas insertadas laboralmente, número de convenios con empresas y participación en ferias laborales."
+          },
+          {
+            "problem": "Percepción de fiscalización abusiva o ineficiente.",
+            "objective": "Garantizar una fiscalización justa, transparente y orientada al cumplimiento, así como reducir conflictos entre la municipalidad y el sector comercial.",
+            "goal": "Reducir las quejas por fiscalización en un 40%, mejorar la percepción ciudadana sobre la autoridad municipal e incrementar el cumplimiento voluntario de normas.",
+            "indicator": "Número de quejas contra fiscalización, número de intervenciones registradas y nivel de cumplimiento normativo."
+          },
+          {
+            "problem": "Barreras burocráticas y trámites engorrosos.",
+            "objective": "Facilitar la apertura y funcionamiento de negocios, y reducir la carga burocrática municipal.",
+            "goal": "Reducir los tiempos de trámite en un 50%, digitalizar al menos el 80% de los procedimientos administrativos e implementar licencias en plazos cortos (fast track).",
+            "indicator": "Tiempo promedio de obtención de licencias, número de trámites digitalizados y nivel de satisfacción del usuario."
+          },
+          {
+            "problem": "Baja eficiencia en la recaudación municipal.",
+            "objective": "Optimizar la recaudación sin afectar al contribuyente y fortalecer la cultura tributaria y la sostenibilidad fiscal.",
+            "goal": "Incrementar la recaudación en un 25%, reducir la morosidad en un 30% y lograr que al menos el 80% de los pagos sean digitales.",
+            "indicator": "Nivel de recaudación municipal, tasa de morosidad, número de contribuyentes activos y porcentaje de pagos digitales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro y déficit de áreas verdes y espacios públicos.",
+            "objective": "Recuperar, ampliar y mantener áreas verdes de calidad, y fortalecer el uso del espacio público como eje de bienestar ciudadano.",
+            "goal": "Recuperar y mantener al menos el 90% de las áreas verdes del distrito, implementar programas sostenibles de mantenimiento urbano e incrementar la calidad y uso de los espacios públicos.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas, número de parques intervenidos, frecuencia de mantenimiento y nivel de satisfacción vecinal."
+          },
+          {
+            "problem": "Contaminación ambiental y sonora en zonas urbanas.",
+            "objective": "Reducir los niveles de contaminación ambiental y acústica en el distrito, y mejorar la calidad de vida urbana mediante un control ambiental efectivo.",
+            "goal": "Reducir la contaminación ambiental y sonora en un 20%, implementar monitoreo ambiental en zonas críticas del distrito, disminuir significativamente las denuncias por ruidos molestos y resolver la contaminación sonora generada por los aviones que parten del Aeropuerto Internacional Jorge Chávez.",
+            "indicator": "Niveles de contaminación sonora y ambiental, número de intervenciones de fiscalización ambiental, número de sanciones aplicadas y percepción ciudadana sobre la calidad ambiental."
+          },
+          {
+            "problem": "Gestión deficiente de residuos sólidos.",
+            "objective": "Modernizar el sistema de limpieza pública y reducir el impacto ambiental de los residuos sólidos.",
+            "goal": "Alcanzar una cobertura del 100% en limpieza pública, incrementar significativamente el reciclaje distrital y reducir en un 100% los puntos críticos de acumulación de basura.",
+            "indicator": "Frecuencia de recolección de residuos, toneladas de residuos reciclados, cobertura del servicio de limpieza y número de puntos de reciclaje implementados."
+          },
+          {
+            "problem": "Reducida cultura ambiental ciudadana.",
+            "objective": "Generar conciencia ambiental sostenible en la población y fomentar hábitos responsables en el uso de recursos.",
+            "goal": "Incrementar significativamente la cultura ambiental en el distrito, lograr la participación activa de la comunidad en programas ambientales y consolidar prácticas sostenibles a nivel distrital.",
+            "indicator": "Número de campañas realizadas, nivel de participación ciudadana y porcentaje de hogares que reciclan."
+          },
+          {
+            "problem": "Déficit de infraestructura deportiva y recreativa.",
+            "objective": "Promover el deporte y la vida saludable en la comunidad, y generar espacios seguros para la recreación ciudadana.",
+            "goal": "Construir o recuperar al menos 20 espacios deportivos, incrementar la participación ciudadana en actividades deportivas, garantizar espacios seguros y accesibles para la recreación y promover los juegos deportivos vecinales.",
+            "indicator": "Número de espacios deportivos construidos o recuperados, participación en actividades deportivas y nivel de uso de espacios públicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Riesgo de corrupción y debilidad en mecanismos de control interno.",
+            "objective": "Prevenir, detectar y sancionar actos de corrupción, y fortalecer los sistemas de control institucional.",
+            "goal": "Reducir significativamente los riesgos de corrupción, implementar control interno en el 100% de las áreas municipales y garantizar una respuesta oportuna a las denuncias ciudadanas.",
+            "indicator": "Número de auditorías realizadas, número de denuncias registradas y resueltas, tiempo de respuesta ante irregularidades y número de procesos con trazabilidad digital."
+          },
+          {
+            "problem": "Falta de transparencia y desconfianza ciudadana en la gestión municipal.",
+            "objective": "Recuperar la confianza ciudadana en la municipalidad y garantizar una gestión transparente, abierta y accesible.",
+            "goal": "Publicar el 100% de la información relevante de gestión, implementar un sistema de transparencia en tiempo real e incrementar significativamente la confianza ciudadana en la gestión municipal.",
+            "indicator": "Nivel de acceso a información pública, número de reportes publicados, nivel de confianza ciudadana y número de solicitudes de información atendidas."
+          },
+          {
+            "problem": "Baja eficiencia administrativa y burocracia interna.",
+            "objective": "Modernizar la gestión pública municipal y reducir tiempos y costos administrativos.",
+            "goal": "Digitalizar al menos el 80% de los procesos municipales, reducir los tiempos de atención en un 50% y mejorar significativamente la experiencia del ciudadano.",
+            "indicator": "Tiempo promedio de atención de trámites, número de procesos digitalizados, nivel de satisfacción del ciudadano y reducción de carga administrativa."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la toma de decisiones.",
+            "objective": "Fortalecer la democracia local y la participación vecinal, e incorporar al ciudadano como actor activo en la gestión pública.",
+            "goal": "Incrementar significativamente la participación ciudadana, implementar mecanismos digitales y presenciales de participación y consolidar un modelo de gestión participativa.",
+            "indicator": "Número de ciudadanos participantes, número de mecanismos participativos implementados y nivel de participación en el presupuesto participativo."
+          },
+          {
+            "problem": "Débil gestión del talento humano municipal.",
+            "objective": "Profesionalizar la administración pública municipal y mejorar el desempeño y la calidad del servicio público.",
+            "goal": "Capacitar al 100% del personal municipal, implementar la evaluación de desempeño institucional, mejorar significativamente la calidad del servicio público y crear el programa \"curso de verano municipal\".",
+            "indicator": "Número de capacitaciones realizadas, evaluación de desempeño del personal y nivel de satisfacción ciudadana con la atención."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-kQqrg112RcE8o75yD8utyTm4BIgUS8TI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/kQqrg112RcE8o75yD8utyTm4BIgUS8TI",
+      "sha256": "779a16a2dc9cb58795e84dbe1043bb5a8d66c728e8dd46b5258bd2a9b6994288",
+      "accessedAt": "2026-10-02T23:05:07.370Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019015",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019015",
+      "sha256": "4b3ea7dd721220fa4ccec176abef21bca68b5a6149f891a5818edb0d732c2519",
+      "accessedAt": "2026-10-02T23:05:07.855Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

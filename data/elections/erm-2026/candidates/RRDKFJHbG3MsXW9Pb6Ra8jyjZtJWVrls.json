@@ -1,0 +1,266 @@
+{
+  "id": "RRDKFJHbG3MsXW9Pb6Ra8jyjZtJWVrls",
+  "slug": "noe-zender-mamani-espinoza",
+  "electionId": "erm-2026",
+  "name": "Noe Zender Mamani Espinoza",
+  "givenNames": "Noe Zender",
+  "surnames": "Mamani Espinoza",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2867,
+    "name": "PARTIDO DEMOCRATA UNIDO PERU"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:33.482Z",
+      "sourceId": "jne-hv-RRDKFJHbG3MsXW9Pb6Ra8jyjZtJWVrls"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "Le Cordon Bleu",
+        "program": "Restaurant Management",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega",
+        "program": "LICENCIADO EN TURISMO Y HOTELERIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Jaime Bausate y Meza",
+        "program": "Comunicación y Marketing",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+        "program": "DOCTORADO EN ADMINISTRACIÓN MENCIÓN EN TECNOLOGIA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "EOF - ESPAÑA",
+        "program": "DIRECCIÓN ESTRATEGICA DEL FACTOR HUMANO",
+        "completed": true,
+        "degree": "MÁSTER",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+      "role": "DOCENTE",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "BARROCO ART S.A.C",
+      "role": "Gerente General",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "Universidad Privada del Norte",
+      "role": "Docente",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Universidad César Vallejo",
+      "role": "Docente",
+      "from": "2013",
+      "to": "2023"
+    },
+    {
+      "employer": "Centro de Formación en Turismo",
+      "role": "Docente",
+      "from": "2018",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 82500,
+        "public": 4500,
+        "private": 78000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f929da1c-4c28-4d72-b5d2-6f76b9c5d1e5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/aae181f7-8e57-44c7-9921-90111391a440.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura educativa deficiente, donde el 95.7% de las escuelas primarias, el 96.3% de las secundarias y el 100% de los Centros de Educación Básica Especial (CEBE) operan con infraestructura inadecuada.",
+            "objective": "Coordinar con el MINEDU la mejora de la infraestructura educativa, priorizando los colegios en peor estado de las comunas más alejadas y utilizando el mecanismo de Obras por Impuestos para atraer recursos privados.",
+            "goal": "Lograr que 60 instituciones educativas, incluyendo niveles inicial, primaria, secundaria y técnico-productiva, cuenten con infraestructura mejorada al 2030.",
+            "indicator": "Instituciones educativas con infraestructura mejorada."
+          },
+          {
+            "problem": "El 97.7% de los establecimientos de salud de primer nivel presentan una capacidad instalada inadecuada y un 72.1% de ellos están pendientes de implementación.",
+            "objective": "Mejorar los establecimientos de salud en coordinación con el MINSA, destinando recursos municipales y gestionando fondos de Obras por Impuestos y cooperación internacional para adecuar la infraestructura de primer nivel.",
+            "goal": "Al menos 30 establecimientos mejorados al 2030, reduciendo la brecha del 97.7%.",
+            "indicator": "Número de establecimientos de salud de primer nivel mejorados."
+          },
+          {
+            "problem": "El 29.50% de la población urbana no posee un acceso adecuado a los servicios de movilidad a través de vías urbanas, sumado a la falta de servicios de agua y saneamiento para un porcentaje significativo de la población.",
+            "objective": "Implementar un Plan Integral de Vías Urbanas para la pavimentación de pistas, veredas y escaleras, y crear una Mesa Técnica Permanente con SEDAPAL y el MVCS para priorizar proyectos de agua y alcantarillado.",
+            "goal": "Pavimentar 90 km de vías acumuladas al 2030, reduciendo la brecha de movilidad urbana a menos del 25%.",
+            "indicator": "Brecha de movilidad urbana (población sin acceso), kilómetros de vías pavimentadas, brecha de agua potable urbana y brecha de alcantarillado urbano."
+          },
+          {
+            "problem": "Brecha del 96.7% en Centros Infantiles de Atención Integral (CIAI) por implementar y el 100% de los centros residenciales para adultos mayores operando en condiciones inadecuadas.",
+            "objective": "Trabajar en alianza con el MIDIS para reducir la brecha de CIAI, facilitando espacios y coordinando la gestión con Cuna Más, e implementar Centros Integrales de Atención al Adulto Mayor (CIAM).",
+            "goal": "Reducir la brecha de CIAI por implementar al 80% y poner en funcionamiento 3 nuevos CIAM al 2030.",
+            "indicator": "Brecha de CIAI (por implementar) y número de CIAM en funcionamiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El 83.66% de los recursos turísticos priorizados del distrito brindan servicios en condiciones inadecuadas, y los sitios arqueológicos y ecosistemas de lomas carecen de servicios de interpretación cultural.",
+            "objective": "Diseñar e implementar un Circuito Turístico que incluya rutas a sitios arqueológicos y naturales, con guías, señalética bilingüe y articulación con MINCETUR para su promoción nacional e internacional.",
+            "goal": "Lograr que el 50% de los recursos turísticos cuenten con servicios adecuados y aumentar en un 40% los visitantes a sitios de interés para el 2030.",
+            "indicator": "Porcentaje de recursos turísticos con servicios adecuados y número de visitantes a sitios de interés turístico."
+          },
+          {
+            "problem": "Alta informalidad empresarial, con un 71.2% de las empresas del distrito operando en dicha condición.",
+            "objective": "Implementar una ventanilla única de atención empresarial, tanto presencial como virtual, para agilizar, clarificar y digitalizar el trámite de licencias de funcionamiento, ofreciendo plazos garantizados y orientación gratuita.",
+            "goal": "Alcanzar 3,300 comerciantes formalizados al año 2030.",
+            "indicator": "Número de comerciantes formalizados."
+          },
+          {
+            "problem": "Falta de espacios y programas para el desarrollo de emprendimientos y la inserción laboral, especialmente para la población joven.",
+            "objective": "Crear el Laboratorio de Innovación, Emprendimiento y Empleo de SJL (LIEE-SJL) como un espacio físico para la creación y formalización de empresas, y ejecutar el programa 'Trabaja SJL' para la inserción laboral.",
+            "goal": "Atender a 1,000 emprendedores anualmente en el LIEE-SJL e insertar laboralmente a 3,000 jóvenes de forma acumulada al 2030.",
+            "indicator": "Número de emprendedores atendidos en el LIEE-SJL y número de jóvenes insertados laboralmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes, con un 23.46% de los metros cuadrados de espacios públicos verdes urbanos pendientes de implementar.",
+            "objective": "Implementar el programa 'SJL Verde' para integrar infraestructura verde al diseño urbano, incluyendo techos verdes, biohuertos comunitarios y corredores verdes con especies nativas.",
+            "goal": "Crear 1,200,000 metros cuadrados de nuevas áreas verdes de forma acumulada al 2030.",
+            "indicator": "Metros cuadrados de áreas verdes nuevas (acumulado)."
+          },
+          {
+            "problem": "Los ecosistemas de lomas del distrito se encuentran amenazados por la invasión de terrenos y la falta de gestión, con una brecha del 100% en superficie con potencial para biodiversidad sin intervención.",
+            "objective": "Gestionar la declaración de intangibilidad de las áreas de lomas, crear guardabosques comunales voluntarios y diseñar rutas ecoturísticas. Además, implementar cercos vivos para contener la urbanización informal.",
+            "goal": "Lograr 400 hectáreas de lomas bajo protección efectiva y 25 kilómetros de cercos vivos implementados al 2030.",
+            "indicator": "Hectáreas de lomas bajo protección efectiva y kilómetros de cercos vivos implementados."
+          },
+          {
+            "problem": "El 40% de las edificaciones esenciales del distrito tienen un riesgo muy alto ante desastres y existe una brecha del 100% en el servicio de drenaje pluvial urbano.",
+            "objective": "Actualizar el Plan de Contingencia Distrital, capacitar a brigadas vecinales y gestionar proyectos de reforzamiento estructural. Adicionalmente, gestionar proyectos de inversión para sistemas de drenaje pluvial.",
+            "goal": "Reducir la brecha de edificaciones en riesgo muy alto del 40% al 35% para el año 2030.",
+            "indicator": "Porcentaje de edificaciones esenciales con riesgo muy alto."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de inseguridad, concentrando el 12.5% de denuncias por violencia familiar de Lima, un índice de victimización por robo del 31.9% y una compañía de bomberos en condiciones 100% inadecuadas.",
+            "objective": "Implementar un Sistema de Inteligencia Territorial para la Seguridad (SITS-SJL) para anticipar el delito, crear una Escuela Distrital de Serenazgo y fortalecer el Comité Distrital de Seguridad Ciudadana (CODISEC).",
+            "goal": "Contar con 1,850 serenos certificados, instalar 300 cámaras adicionales y tener 275 organizaciones participando activamente en el CODISEC al 2030.",
+            "indicator": "Número de serenos con certificación, cámaras de videovigilancia adicionales y número de organizaciones CODISEC activas."
+          },
+          {
+            "problem": "Baja confianza ciudadana en la municipalidad (80%) y una concentración geográfica de los servicios municipales que limita el acceso para gran parte de la población.",
+            "objective": "Crear una Red de 8 Agencias Municipales Descentralizadas (AMD) y Módulos Itinerantes de Atención Municipal (MUNICAR) para acercar los servicios esenciales a los vecinos en todo el territorio.",
+            "goal": "Incrementar la confianza ciudadana al 87% y tener 8 Agencias Municipales Descentralizadas operativas para el año 2030.",
+            "indicator": "Porcentaje de confianza ciudadana en la MDSJL y número de AMD operativas."
+          },
+          {
+            "problem": "Falta de transparencia y dificultad en el acceso a procedimientos y a la información municipal, con procesos burocráticos y poco accesibles para el ciudadano.",
+            "objective": "Implementar la plataforma 'SJL Digital' para ofrecer los trámites más frecuentes en línea y un Portal de Datos Abiertos para publicar la información de gestión municipal en formato accesible y simple.",
+            "goal": "Lograr que el 100% de los trámites municipales más frecuentes estén disponibles en línea para el año 2030.",
+            "indicator": "Porcentaje de trámites municipales disponibles en línea."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18507",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Datos Personales",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-22",
+      "details": {
+        "rubro": "DATOS PERSONALES",
+        "resolucion": "RESOLUCION N° 00082-2026-JEE-LIE2-JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCION N° 00082-2026-JEE-LIE2-JNE",
+      "sourceIds": [
+        "jne-hv-RRDKFJHbG3MsXW9Pb6Ra8jyjZtJWVrls"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-RRDKFJHbG3MsXW9Pb6Ra8jyjZtJWVrls",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/RRDKFJHbG3MsXW9Pb6Ra8jyjZtJWVrls",
+      "sha256": "38c594b182ebabc223b78c51122007a560213f08a0d561f8e37e52ef911b243b",
+      "accessedAt": "2026-10-02T23:03:33.482Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020508",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020508",
+      "sha256": "9283b35578bb2c723fc4d7690feea9e81cbbf6fa9afaec4ee947439ca17186b1",
+      "accessedAt": "2026-10-02T23:03:33.967Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "TWWvYG_WDRXfnIPMfZ3coECQA4ZmDqd5",
+  "slug": "urso-grajeda-reyes",
+  "electionId": "erm-2026",
+  "name": "Urso Grajeda Reyes",
+  "givenNames": "Urso",
+  "surnames": "Grajeda Reyes",
+  "age": 69,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:58.021Z",
+      "sourceId": "jne-hv-TWWvYG_WDRXfnIPMfZ3coECQA4ZmDqd5"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL SAN ANTONIO ABAD DE CUSCO",
+        "program": "ECONOMIA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE BREÑA",
+      "role": "TECNICO",
+      "from": "1989",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2009"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 66495,
+        "public": 66495,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "SUZUKI PLOMO OSCURO",
+        "value": 5000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/aa315f6f-d3d2-42fc-919f-e869433e40a0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/12d834eb-3eaf-4f92-bf88-b96850c3ca49.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana y crecimiento de delitos patrimoniales.",
+            "objective": "Fortalecer la seguridad ciudadana mediante videovigilancia inteligente, patrullaje integrado y participación vecinal.",
+            "goal": "Reducir en 30% las denuncias por delitos patrimoniales.",
+            "indicator": "% de reducción de denuncias por delitos patrimoniales."
+          },
+          {
+            "problem": "Limitada oferta de espacios educativos, culturales y deportivos.",
+            "objective": "Implementar biblioteca virtual y rehabilitar la infraestructura deportiva distrital.",
+            "goal": "Rehabilitar el 100% de complejos deportivos municipales y operar más de 10 disciplinas permanentes.",
+            "indicator": "% de complejos deportivos rehabilitados."
+          },
+          {
+            "problem": "Riesgo de anemia, vulnerabilidad de adultos mayores y limitada atención preventiva en salud.",
+            "objective": "Fortalecer el Policlínico Municipal, asistencia domiciliaria y programas de prevención de anemia.",
+            "goal": "Alcanzar 100% de cobertura de población vulnerable focalizada.",
+            "indicator": "% de cobertura de programas sociales y de salud preventiva"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad y limitada competitividad de las MYPES.",
+            "objective": "Promover la formalización empresarial mediante el programa Breña Emprende y asistencia técnica.",
+            "goal": "Incrementar en 40% las MYPES formalizadas respecto al año base 2026.",
+            "indicator": "Número de MYPES formalizadas."
+          },
+          {
+            "problem": "Limitaciones en la gestión tributaria y actualización catastral.",
+            "objective": "Culminar la actualización del catastro urbano y optimizar la recaudación tributaria.",
+            "goal": "Actualizar el 100% del catastro urbano del distrito.",
+            "indicator": "% de predios incorporados al catastro actualizado."
+          },
+          {
+            "problem": "Escasa promoción comercial y turística del distrito.",
+            "objective": "Implementar Boulevard Gastronómico y ferias comerciales permanentes.",
+            "goal": "Realizar 12 ferias comerciales anuales y consolidar 1 Boulevard Gastronómico.",
+            "indicator": "Número de ferias comerciales realizadas por año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos urbanos.",
+            "objective": "Modernizar el sistema de limpieza pública mediante contenedores soterrados y monitoreo digital.",
+            "goal": "Cobertura del 100% de zonas críticas del distrito.",
+            "indicator": "% de sectores cubiertos con sistema inteligente de residuos."
+          },
+          {
+            "problem": "Contaminación sonora y visual.",
+            "objective": "Fortalecer la fiscalización ambiental mediante sonómetros y control de publicidad exterior.",
+            "goal": "Ejecutar al menos 100 operativos anuales de control ambiental.",
+            "indicator": "Número de operativos de fiscalización ambiental ejecutados por año."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios públicos.",
+            "objective": "Ejecutar el programa Breña Verde mediante arborización, jardines verticales y azoteas verdes.",
+            "goal": "Lograr que el 30% de los edificios cuenten con azoteas verdes.",
+            "indicator": "% de edificios con azoteas ajardinadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada participación de vecinos en la gestión pública.",
+            "objective": "Fortalecer el presupuesto participativo y crear espacios consultivos vecinales.",
+            "goal": "Implementar el Concejo de la Juventud y el Concejo de los Mayores, además del fortalecimiento anual del Presupuesto Participativo.",
+            "indicator": "Número de mecanismos permanentes de participación implementados."
+          },
+          {
+            "problem": "Débil transparencia y acceso a la información pública",
+            "objective": "Fortalecer la rendición de cuentas y el control ciudadano.",
+            "goal": "Realizar 2 cabildos abiertos por año y transmitir el 100% de sesiones de concejo.",
+            "indicator": "Número de cabildos abiertos realizados por año."
+          },
+          {
+            "problem": "Trámites burocráticos y limitada digitalización municipal.",
+            "objective": "Implementar el Gobierno Digital y la virtualización de los servicios municipales.",
+            "goal": "Digitalizar el 100% de los trámites municipales.",
+            "indicator": "% de trámites digitalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-TWWvYG_WDRXfnIPMfZ3coECQA4ZmDqd5",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/TWWvYG_WDRXfnIPMfZ3coECQA4ZmDqd5",
+      "sha256": "da76908722e6db4e8aeff9bd14217f071c72bceff43a4b841b9634976a214af5",
+      "accessedAt": "2026-10-02T22:51:58.021Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020532",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020532",
+      "sha256": "68675fc541df8139ffe016c5d4018ade1f38e71ef28d3d3d5f8ec8aa567b8262",
+      "accessedAt": "2026-10-02T22:51:58.551Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

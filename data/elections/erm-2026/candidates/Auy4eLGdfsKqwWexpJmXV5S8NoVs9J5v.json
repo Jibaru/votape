@@ -1,0 +1,243 @@
+{
+  "id": "Auy4eLGdfsKqwWexpJmXV5S8NoVs9J5v",
+  "slug": "michel-melchor-sanabria-ruiz",
+  "electionId": "erm-2026",
+  "name": "Michel Melchor Sanabria Ruiz",
+  "givenNames": "Michel Melchor",
+  "surnames": "Sanabria Ruiz",
+  "age": 52,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:07.239Z",
+      "sourceId": "jne-hv-Auy4eLGdfsKqwWexpJmXV5S8NoVs9J5v"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "IPERAG",
+        "program": "Gestión Pública",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Continental",
+        "program": "ESTUDIANTE DE DERECHO EN CURSO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Ministerio de Interior",
+      "role": "Subprefecto de San Juan de Miraflores",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "Ministerio del Interior",
+      "role": "Subprefecto Provincial de Lima",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "Ministerio del Interior",
+      "role": "Subprefecto de San Juan de Miraflores",
+      "from": "2018",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "RENACIMIENTO UNIDO NACIONAL",
+      "year": "2021"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2022"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 34394.5,
+        "public": 9394.5,
+        "private": 25000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 32.8,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Glory / Camioneta",
+        "value": 39600
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/03eb1d52-c855-418e-8e3d-82a054f5ac19.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1b4bcfb1-b7fc-4fe1-b8e0-bcff6cc89a5c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inexistencia de un programa de atención médica domiciliaria para los adultos mayores fundadores del distrito.",
+            "objective": "Reconocer y honrar a los fundadores del distrito garantizando una atención médica digna, personalizada y accesible a través de un programa específico y la creación de un Policlínico Municipal.",
+            "goal": "Atender a 1,000 adultos mayores anualmente a través del programa integral para fundadores.",
+            "indicator": "Existencia y cobertura de un programa formal de atención médica para el adulto mayor."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana y alta tasa de victimización por delitos en el distrito.",
+            "objective": "Reducir el índice delictivo mediante el fortalecimiento del sistema de seguridad, implementando videovigilancia, patrullaje integrado, alumbrado público y un centro de emergencias.",
+            "goal": "Reducir en un 30% las denuncias por delitos y disminuir la percepción de inseguridad al 60% para el año 2030.",
+            "indicator": "Porcentaje de denuncias por delitos y porcentaje de vecinos que se sienten inseguros."
+          },
+          {
+            "problem": "Alta tasa de desempleo juvenil que expone a este sector de la población a la violencia.",
+            "objective": "Promover la inserción laboral de los jóvenes mediante programas de capacitación técnica gratuita en habilidades demandadas por el mercado.",
+            "goal": "Generar 5,000 nuevos empleos para el año 2030.",
+            "indicator": "Tasa de desempleo juvenil y número de jóvenes capacitados."
+          },
+          {
+            "problem": "Falta de acceso a una preparación académica de calidad para que los jóvenes puedan ingresar a institutos de educación superior.",
+            "objective": "Crear una Academia Municipal Preuniversitaria Gratuita para brindar igualdad de oportunidades de acceso a la educación superior, en especial al Instituto G.B.R.",
+            "goal": "Otorgar 600 becas anuales y firmar un convenio de cuota de ingreso con el Instituto G.B.R.",
+            "indicator": "Número de academias preuniversitarias municipales gratuitas y tasa de ingreso de jóvenes a institutos públicos."
+          },
+          {
+            "problem": "Ausencia de campeonatos interescolares formales y estructurados que limita el desarrollo deportivo y la cohesión social.",
+            "objective": "Institucionalizar los Juegos Deportivos Interescolares como una política pública anual para fomentar la actividad física, la convivencia y la identidad distrital.",
+            "goal": "Lograr la participación del 100% de las instituciones educativas del distrito en 7 disciplinas deportivas para el 2030.",
+            "indicator": "Existencia de torneos interescolares formales organizados por el municipio."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escaso desarrollo del emprendimiento formal debido a las barreras de acceso a beneficios y estabilidad.",
+            "objective": "Fomentar un ecosistema emprendedor robusto mediante programas de capacitación técnica, ferias laborales y apoyo a la creación de nuevas empresas.",
+            "goal": "Asegurar que el Centro de Desarrollo Empresarial (CDE-SJM) se encuentre plenamente operativo.",
+            "indicator": "Número de programas de fomento al emprendimiento y nuevos emprendimientos formalizados."
+          },
+          {
+            "problem": "Elevada tasa de informalidad en las micro y pequeñas empresas, así como en el empleo juvenil.",
+            "objective": "Promover la formalización empresarial a través de la creación de un centro de desarrollo, simplificación de trámites y asesoría especializada.",
+            "goal": "Lograr la formalización de 1,000 micro y pequeñas empresas (MYPES) para el año 2030.",
+            "indicator": "Tasa de informalidad laboral y número de empresas formalizadas."
+          },
+          {
+            "problem": "Limitado acceso a fuentes de financiamiento para los comercios y emprendimientos del distrito.",
+            "objective": "Facilitar un financiamiento accesible para los negocios locales, articulando la oferta crediticia a través de asesoría especializada.",
+            "goal": "Lograr que 500 negocios obtengan acceso a crédito para el año 2030.",
+            "indicator": "Número de negocios que acceden a créditos formales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Uso de un sistema de riego ineficiente por camión cisterna para las áreas verdes, generando desperdicio de recursos hídricos.",
+            "objective": "Modernizar la gestión hídrica del distrito reemplazando el sistema de riego por camión por tecnologías de aspersión y goteo subterráneo.",
+            "goal": "Alcanzar un 70% de ahorro de agua con el 100% de las áreas verdes bajo riego tecnificado para el 2030.",
+            "indicator": "Porcentaje de áreas verdes con sistema de riego tecnificado y nivel de ahorro de agua."
+          },
+          {
+            "problem": "Déficit en la cobertura de recolección y gestión integral de los residuos sólidos en el distrito.",
+            "objective": "Implementar una gestión integral y eficiente de los residuos sólidos, optimizando rutas y formalizando a los recicladores.",
+            "goal": "Alcanzar el 95% de cobertura en la recolección de residuos sólidos para el 2030.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos sólidos."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante, muy por debajo de los estándares recomendados por la Organización Mundial de la Salud.",
+            "objective": "Incrementar significativamente los espacios verdes del distrito a través de un programa masivo de arborización y recuperación de parques.",
+            "goal": "Sembrar 50,000 nuevos árboles y plantas para el año 2030.",
+            "indicator": "Metros cuadrados de área verde por habitante y número de árboles sembrados."
+          },
+          {
+            "problem": "Contaminación ambiental generada por empresas productoras sin un control efectivo por parte de la autoridad.",
+            "objective": "Establecer un control ambiental efectivo sobre las actividades industriales, fiscalizando emisiones y exigiendo planes de manejo ambiental.",
+            "goal": "Fiscalizar al 100% de las empresas productoras del distrito para el año 2030.",
+            "indicator": "Porcentaje de empresas productoras con fiscalización ambiental y planes de manejo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja digitalización de los servicios municipales, lo que resulta en trámites lentos y poca accesibilidad para los vecinos.",
+            "objective": "Transformar la municipalidad en un municipio digital, implementando una plataforma de trámites en línea y simplificando los procedimientos administrativos.",
+            "goal": "Lograr que el 80% de los trámites municipales se realicen en línea para el año 2030.",
+            "indicator": "Porcentaje de trámites disponibles en línea y tiempo promedio para la obtención de licencias."
+          },
+          {
+            "problem": "Baja recaudación de arbitrios, afectando la capacidad financiera del municipio para proveer servicios de calidad.",
+            "objective": "Incrementar los ingresos propios de la municipalidad mediante la optimización de los sistemas de recaudación y la implementación de incentivos.",
+            "goal": "Alcanzar un 65% de pago de arbitrios sobre el total del padrón para el 2030.",
+            "indicator": "Porcentaje del padrón de contribuyentes que cumple con el pago de arbitrios."
+          },
+          {
+            "problem": "Opacidad en la gestión municipal y falta de mecanismos efectivos de transparencia y rendición de cuentas.",
+            "objective": "Garantizar una transparencia total en la gestión, actualizando permanentemente la información pública y realizando audiencias de rendición de cuentas.",
+            "goal": "Mantener el portal de transparencia actualizado al día y de forma permanente.",
+            "indicator": "Frecuencia de actualización del portal de transparencia y realización de audiencias públicas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Auy4eLGdfsKqwWexpJmXV5S8NoVs9J5v",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Auy4eLGdfsKqwWexpJmXV5S8NoVs9J5v",
+      "sha256": "806e461bb0478025fd2fa4b05e403d114031994ea743bba7612bc3a4dcc560b5",
+      "accessedAt": "2026-10-02T23:04:07.239Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020346",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020346",
+      "sha256": "7a493f6a59c098a39a3aa4340a9468c36e6dd812e8eecb132743cabc63d73a65",
+      "accessedAt": "2026-10-02T23:04:07.727Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

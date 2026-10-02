@@ -1,0 +1,157 @@
+{
+  "id": "v6e6OOGh4BSHOk1LhLAwvsn6_EdYNtTG",
+  "slug": "hilgo-antonio-manchego-ormeno",
+  "electionId": "erm-2026",
+  "name": "Hilgo Antonio Manchego Ormeño",
+  "givenNames": "Hilgo Antonio",
+  "surnames": "Manchego Ormeño",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 3036,
+    "name": "ALIANZA REGIONAL POR EL PERU"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:45.197Z",
+      "sourceId": "jne-hv-v6e6OOGh4BSHOk1LhLAwvsn6_EdYNtTG"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "ABOGADO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "RPTOS Y MANTENIMIENTO SAC",
+      "role": "JEFE ALMACEN",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 49000,
+        "public": 0,
+        "private": 49000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "BALNEARIOS - PROPIEDADES",
+        "value": 22000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PLACA EN TRAMITE DE VEHICULO HYUNDAI COLOR BLANCO VALOR DE 80000 SOLES."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5f48c46f-650e-497f-8ff3-13ace49432ed.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4e51a9c1-a55b-4262-a0f2-6d9fd18296ed.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Problemas vinculados a la seguridad ciudadana, con percepción de inseguridad en algunas zonas, presencia de delitos menores y la necesidad de fortalecer el patrullaje integrado.",
+            "objective": "Mejorar la calidad de vida de la población mediante el fortalecimiento de la seguridad ciudadana y la promoción de la convivencia pacífica.",
+            "goal": "Reducir la percepción de inseguridad en el distrito.",
+            "indicator": "Tasa de percepción de inseguridad ciudadana, número de intervenciones de serenazgo, nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Brechas en el acceso oportuno a servicios de salud preventiva, campañas de bienestar social insuficientes y necesidad de mayor cobertura de atención a adultos mayores y poblaciones vulnerables.",
+            "objective": "Mejorar la calidad de vida de la población mediante el acceso a servicios sociales de calidad.",
+            "goal": "Incrementar la cobertura de programas sociales y fortalecer la atención a adultos mayores y población vulnerable.",
+            "indicator": "Cobertura de programas sociales municipales, nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Necesidad de fortalecer programas de apoyo educativo, actividades culturales y deportivas inclusivas, así como ampliar espacios recreativos seguros para niños y jóvenes.",
+            "objective": "Mejorar la calidad de vida de la población mediante la ampliación de espacios públicos recreativos, culturales y deportivos.",
+            "goal": "Ampliar la oferta cultural y deportiva.",
+            "indicator": "Número de actividades culturales y deportivas realizadas, nivel de satisfacción ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la competitividad económica del distrito, impulsando un mayor dinamismo comercial, apoyo a emprendedores, formalización de negocios, promoción del turismo local y una mejor articulación entre el sector privado y la municipalidad.",
+            "objective": "Impulsar el desarrollo económico local sostenible mediante el fortalecimiento del emprendimiento, la promoción del turismo, la formalización de negocios y la generación de oportunidades laborales en el distrito.",
+            "goal": "Incrementar la formalización de MYPES, aumentar el empleo local, potenciar el turismo cultural del distrito y fortalecer el ecosistema emprendedor.",
+            "indicator": "Número de negocios formalizados, nivel de empleo local, número de emprendimientos apoyados, flujo turístico, actividad comercial distrital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de mejorar la gestión de residuos sólidos, el mantenimiento de áreas verdes, la reducción de contaminación ambiental, la gestión eficiente del espacio urbano y la protección del patrimonio histórico del distrito.",
+            "objective": "Promover un distrito ordenado, limpio, sostenible y resiliente mediante la mejora del sistema de limpieza pública, la ampliación de áreas verdes, el ordenamiento urbano y la protección del patrimonio cultural.",
+            "goal": "Incrementar áreas verdes urbanas, reducir la contaminación ambiental, mejorar el sistema de limpieza pública y recuperar los espacios públicos deteriorados.",
+            "indicator": "Cobertura de áreas verdes, nivel de contaminación ambiental, eficiencia del recojo de residuos sólidos, número de espacios públicos recuperados, nivel de ordenamiento urbano."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Se requiere fortalecer la modernización de la gestión municipal, mejorar la atención al ciudadano, reducir la burocracia y garantizar mayor transparencia en el uso de los recursos públicos.",
+            "objective": "Implementar una gestión municipal moderna, eficiente, digitalizada y transparente, promoviendo la participación ciudadana, la mejora de los servicios públicos y la lucha contra la corrupción.",
+            "goal": "Implementar el gobierno digital municipal, reducir los tiempos de atención, incrementar la transparencia institucional y fortalecer la participación ciudadana.",
+            "indicator": "Tiempo de atención de trámites, nivel de digitalización de servicios, índice de transparencia municipal, participación ciudadana en procesos municipales, nivel de satisfacción del ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-v6e6OOGh4BSHOk1LhLAwvsn6_EdYNtTG",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/v6e6OOGh4BSHOk1LhLAwvsn6_EdYNtTG",
+      "sha256": "b3762de56d5bdd12ca2e20e0b7f534e18e6c7c44a49389c2a2942a2f26d16002",
+      "accessedAt": "2026-10-02T23:00:45.197Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022405",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022405",
+      "sha256": "86b54b7bc97fa0cd94a7cd11ed12e23fcd9d8b2ae7fb68efb2501174318b2de8",
+      "accessedAt": "2026-10-02T23:00:45.672Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

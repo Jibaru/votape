@@ -1,0 +1,307 @@
+{
+  "id": "kDSKJeC_6UBYtYuH9Vcf5bNez-pyUJTQ",
+  "slug": "luis-alberto-ojeda-samame",
+  "electionId": "erm-2026",
+  "name": "Luis Alberto Ojeda Samame",
+  "givenNames": "Luis Alberto",
+  "surnames": "Ojeda Samame",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:03.663Z",
+      "sourceId": "jne-hv-kDSKJeC_6UBYtYuH9Vcf5bNez-pyUJTQ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ISEL",
+        "program": "TECNICO EN COMPUTACION E INFORMATICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional del Callao",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN IGNACIO DE LOYOLA",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "MAESTRIA INTERNACIONAL EN ADMINISTRACION",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "OJEDA & SAMAME CONSULTORIA SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "OJEDA & SAMAME ASOCIADOS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2015",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 207691,
+        "public": 0,
+        "private": 207691
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MAZDA 3",
+        "value": 40800
+      },
+      {
+        "type": "KIA SOLUTO",
+        "value": 27200
+      },
+      {
+        "type": "JETOUR X70 PLUS",
+        "value": 85000
+      },
+      {
+        "type": "DEWOO ESPERO",
+        "value": 12000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CLECOM SAC",
+        "type": "ACCIONES",
+        "quantity": 4500,
+        "value": 4500
+      },
+      {
+        "company": "SAVINGO CONTRASTISTAS SAC",
+        "type": "ACCIONES",
+        "quantity": 450,
+        "value": 450
+      },
+      {
+        "company": "LA FORMULA AUTO SPA SAC",
+        "type": "ACCIONES",
+        "quantity": 4500,
+        "value": 4500
+      },
+      {
+        "company": "OJEDA & SAMAME CONSULTORIA SAC",
+        "type": "ACCIONES",
+        "quantity": 4500,
+        "value": 4500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/203cd79c-e867-4e60-adef-373619b03bdb.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d53a7084-1a90-4da4-b9ff-a78b1b123f6a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "No hay una casa de la cultural",
+            "objective": "Creación de la casa de la cultura en Breña",
+            "goal": "Vecinos inscritos en talleres al primer año de gestión",
+            "indicator": "Talleres culturales en marca"
+          },
+          {
+            "problem": "Incremento de violencia a la mujer",
+            "objective": "Programa de protección contra la violencia familiar",
+            "goal": "150 casos anuales con seguimiento completo",
+            "indicator": "Ruta de atención Integral e institucionalizada"
+          },
+          {
+            "problem": "Cobertura de salud mental Insuficiente",
+            "objective": "Un módulo municipal de salud mental con psicólogos gratuitos para todas las edades",
+            "goal": "Atenciones psicológicas gratuitas desde el primer año de gestión",
+            "indicator": "Modulo municipal de salud implementado"
+          },
+          {
+            "problem": "Ausencia de una guardería Municipal",
+            "objective": "Creación de la guardería municipal",
+            "goal": "Brindar atención a los niños durante el segundo año de gestión",
+            "indicator": "Creación de la guardería municipal"
+          },
+          {
+            "problem": "No existe un seguro médicopara el deportista breñense",
+            "objective": "mplementar un seguro médico municipal para el deportista breñense",
+            "goal": "Deportistas con cobertura de seguro al ter año de gestión",
+            "indicator": "Convenio con seguro médico municipal firmado"
+          },
+          {
+            "problem": "Comedor municipal deficiente",
+            "objective": "Mejorar la infraestructura del comedor y ampliación del servicio a más breñenses",
+            "goal": "Cobertura del comedor ampliada durante el primer año de gestión",
+            "indicator": "Infraestructura del comedor remodelada y con todos los servicios implementados"
+          },
+          {
+            "problem": "Anemia Infantil",
+            "objective": "Renovación del vaso de leche, actualización del padrón.",
+            "goal": "Reducir prevalencia de la anemia",
+            "indicator": "Padrón de vaso de leche actualizado"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Pistas y veredas rotas",
+            "objective": "Mejoramiento de pistas y veredas",
+            "goal": "Conectividad urbana restablecida y veredas transitables",
+            "indicator": "Mejorar la infraestructura vial y obras aprobadas"
+          },
+          {
+            "problem": "Falta de oportunidades laborales",
+            "objective": "Ferias laborales con el apoyo del MTPE",
+            "goal": "Vecinos de sectores vulnerables con un empleo formal",
+            "indicator": "Incremento de inserción laboral en el distrito"
+          },
+          {
+            "problem": "Falta de cultura de pagos municipales",
+            "objective": "Crear un programa de pago actualizado que implemente recordatorios en SMS o WhatsApp",
+            "goal": "Mejoramiento en la sostenibilidad financiera municipal",
+            "indicator": "Incremento de recaudación tributaria por parte de los vecinos de Breña"
+          },
+          {
+            "problem": "Alto nivel de informalidad",
+            "objective": "Ordenamiento y fiscalización del comercio ambulatorio",
+            "goal": "Vias públicas recuperadas y seguras para el peatón",
+            "indicator": "Comerciantes informales reubicados en zonas ordenadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Incremento de animales en situación de abandono",
+            "objective": "implementar un veterinario municipal con adecuados",
+            "goal": "Sobrepoblación de animales controlada",
+            "indicator": "Apertura del veterinario municipal"
+          },
+          {
+            "problem": "Calidad de aire deficiente",
+            "objective": "Instalar purificadores de aire en los 5 paraderos principales",
+            "goal": "Las avenidas ya se encuentran controladas con estos purificadores de aire",
+            "indicator": "instalación, encendido y funcionamiento permanente de los purificadores de aire"
+          },
+          {
+            "problem": "Acumulación de residuos en avenidas principales",
+            "objective": "Mantenimiento diario de las avenidas principales de Breña",
+            "goal": "Despejar las avenidas principales con cúmulos de basuras",
+            "indicator": "Supervisión de barrido diario e Instalación de contenedores de reciclaje"
+          },
+          {
+            "problem": "Falta de áreas verdes para la población",
+            "objective": "Limpieza de parques diaria, fumigaciones y sistemas de riego",
+            "goal": "Recuperar los espacios públicos manteniendo los parques limpios",
+            "indicator": "Ejecución del cronograma de limpieza"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de un velatorio municipal",
+            "objective": "Construcción de un velatorio municipal",
+            "goal": "La comunidad gozará de este apoyo social en momento difíciles ante la perdida de un familiar",
+            "indicator": "Construcción de un velatorio municipal"
+          },
+          {
+            "problem": "Falta de un sitio web actualizado y creado por la propia municipalidad para la digitalización de trámites",
+            "objective": "Desarrollar un nuevo sitio web municipal moderno y accesible para mejorar el acceso de los vecinos a las nuevas tecnologías",
+            "goal": "Renovación de la página web del distrito",
+            "indicator": "Renovación de la página web del distrito"
+          },
+          {
+            "problem": "Alta percepción de inseguridad nocturna",
+            "objective": "Sistema Integrado de vigilancia con cámaras y luces led en avenidas poco transitadas",
+            "goal": "Calles mejor iluminadas y vigiladas",
+            "indicator": "implementación de los equipos de vigilancia"
+          },
+          {
+            "problem": "Calles mejor iluminadas y vigiladas",
+            "objective": "Creación de la aplicación Breña en Alerta",
+            "goal": "Lanzamiento oficial de la plataforma digita de alertas ciudadanas",
+            "indicator": "Lanzamiento oficial de la plataforma digita de alertas ciudadanas"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-kDSKJeC_6UBYtYuH9Vcf5bNez-pyUJTQ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/kDSKJeC_6UBYtYuH9Vcf5bNez-pyUJTQ",
+      "sha256": "53f52aaad237e40af2af6acdc9340f05c4ded8685f33ea2d29253840f264fe37",
+      "accessedAt": "2026-10-02T22:52:03.663Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016141",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016141",
+      "sha256": "9603f5f7177742cd3e66336ec307d2b03488ee8f7057025f06b7a708b077a01a",
+      "accessedAt": "2026-10-02T22:52:04.315Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "140128",
+  "name": "Santa María Del Mar",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "cAzktogv25_MdDhHYBUeGtMdWXqSoMu2",
+      "name": "Marwan Zakharia Kahhat Abedrabbo",
+      "party": {
+        "id": 1257,
+        "name": "ALIANZA PARA EL PROGRESO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44238,
+      "expediente": "ERM.2026022690"
+    },
+    {
+      "candidateId": "4xEXu73ABDOt4vNqyKkONzx32NHdveTB",
+      "name": "Yessica Rosselli Amuruz Dulanto",
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 45290,
+      "expediente": "ERM.2026015205"
+    },
+    {
+      "candidateId": "X0pXGCS0Q6cul1KbcoaNXjHbxNJUFfZL",
+      "name": "Jorge Patricio Vásquez Nemi",
+      "party": {
+        "id": 2943,
+        "name": "PARTIDO POPULAR CRISTIANO - PPC"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49328,
+      "expediente": "ERM.2026021486"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "zTZcZnIiT-GGBJLYRw1UHOmfz6m3YzsL",
+  "slug": "alejandro-hipolito-ramos-rivera",
+  "electionId": "erm-2026",
+  "name": "Alejandro Hipolito Ramos Rivera",
+  "givenNames": "Alejandro Hipolito",
+  "surnames": "Ramos Rivera",
+  "age": 67,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:47.469Z",
+      "sourceId": "jne-hv-zTZcZnIiT-GGBJLYRw1UHOmfz6m3YzsL"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "SALVEMOS AL PERU",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU TE QUIERO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d1aa3251-ab5c-4e9a-ad67-325271520b15.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/44830aab-50a2-4e9e-b7fa-5b9b53f1f0e6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "El distrito enfrenta problemas de deserción escolar, repitencia, bajo rendimiento académico y un foco de analfabetismo en la población adulta mayor.",
+            "objective": "Implementar los programas \"EDUCACIÓN PARA EL DESARROLLO INTEGRAL\" y \"ANALFABETISMO CERO EN CARABAYLLO\" para fortalecer la formación educativa, reducir el analfabetismo y garantizar una educación inclusiva y descentralizada.",
+            "goal": "Beneficiar a 10,000 estudiantes, jóvenes y adultos; realizar 100 talleres y campañas; implementar al menos 20 programas de reforzamiento educativo; e incorporar al menos 50 instituciones educativas y organizaciones sociales.",
+            "indicator": "Número de beneficiarios en programas de reforzamiento educativo, número de talleres y campañas de formación ciudadana, número de programas de reforzamiento educativo implementados y número de instituciones educativas y organizaciones participantes."
+          },
+          {
+            "problem": "Déficit en los servicios públicos, incluyendo pistas en mal estado, falta de parques y losas deportivas en zonas periféricas, descuido de áreas verdes existentes y falta de un horario para el recojo de desperdicios en los mercados.",
+            "objective": "Implementar los programas \"CARABAYLLO SIEMPRE LIMPIO\" y \"Obras Verdes\" para modernizar la limpieza pública, recuperar áreas verdes y gestionar la construcción y mejoramiento de pistas y veredas en asentamientos humanos, pueblos jóvenes y urbanizaciones.",
+            "goal": "Alcanzar el 100% de cobertura en recolección de residuos, incorporar 20 nuevas unidades, dotar al 100% del personal con EPP, recuperar 300,000 m² de áreas verdes, plantar 20,000 árboles, mejorar 100 parques, ejecutar 80 km de pistas, construir 120 km de veredas y reducir en 40% la brecha de infraestructura vial.",
+            "indicator": "Porcentaje de cobertura de recolección de residuos, número de vehículos y equipos incorporados, porcentaje de trabajadores con EPP, metros cuadrados de áreas verdes recuperadas, número de árboles sembrados, número de parques intervenidos, kilómetros de pistas y veredas construidas o mejoradas, y porcentaje de reducción de brechas de infraestructura vial."
+          },
+          {
+            "problem": "Alta incidencia de violencia familiar, delictiva, extorsión y criminalidad que afecta a los vecinos, agravada por la falta de estrategias y recursos.",
+            "objective": "Implementar el programa \"LA FAMILIA CRECE EN PAZ\" para prevenir la violencia familiar, articular planes de seguridad ciudadana a través del CODISEC y gestionar la adquisición de vehículos y personal para el serenazgo con el fin de fortalecer la seguridad.",
+            "goal": "Beneficiar a 15,000 familias, ejecutar 200 talleres y campañas, implementar 300 cámaras de videovigilancia, incrementar en 50% la cobertura de patrullaje, reducir en 30% el tiempo de respuesta, incorporar 50 unidades de patrullaje, capacitar al 100% del personal de serenazgo e incorporar 20 profesionales especializados.",
+            "indicator": "Número de familias beneficiadas, número de talleres y campañas de prevención, número de cámaras de videovigilancia, cobertura del patrullaje, tiempo de respuesta, número de vehículos de patrullaje, número de efectivos de serenazgo capacitados y número de especialistas en seguridad."
+          },
+          {
+            "problem": "La falta de regulación y planificación en el crecimiento de asentamientos informales ha generado que la población habite en zonas de alto riesgo, con limitaciones en el acceso a servicios básicos.",
+            "objective": "Brindar asistencia técnica especializada para la elaboración de proyectos, expedientes técnicos y planos urbanos, con la finalidad de promover un crecimiento urbanístico ordenado, planificado y sostenible en el distrito.",
+            "goal": "Brindar asistencia técnica a 5,000 familias y organizaciones vecinales, beneficiar a 20,000 vecinos con programas de orientación y atender el 100% de las solicitudes de asistencia técnica que cumplan los requisitos.",
+            "indicator": "Número de proyectos, expedientes técnicos y planos urbanos asesorados, número de ciudadanos beneficiados con orientación técnica urbanística y porcentaje de solicitudes de asistencia técnica atendidas."
+          },
+          {
+            "problem": "Infraestructura sanitaria insuficiente, alto índice de desnutrición infantil, problemas visuales y dentales en niños y adolescentes, y mala nutrición.",
+            "objective": "Articular la construcción de puestos de salud, fortalecer la supervisión sanitaria en mercados y paraderos, y brindar asistencia social integral a familias vulnerables, priorizando la salud bucal, visual, auditiva y el apoyo a niños con discapacidad severa.",
+            "goal": "Gestionar e implementar 5 nuevos puestos de salud, beneficiar a 50,000 vecinos con campañas de prevención, alcanzar el 100% de supervisión de establecimientos, reducir en 50% las observaciones sanitarias de alto riesgo, beneficiar a 20,000 personas en pobreza y brindar atención a 1,000 niños con discapacidad severa.",
+            "indicator": "Número de puestos de salud implementados, número de personas beneficiadas con programas preventivos, porcentaje de mercados supervisados, reducción de establecimientos con observaciones críticas, número de personas beneficiadas con atención en salud especializada y número de niños con discapacidad severa atendidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "La actividad agrícola en el Valle del Chillón presenta bajos niveles de productividad y competitividad debido a la limitada asistencia técnica, falta de maquinaria, deficiencias en el riego y escasa articulación comercial.",
+            "objective": "Implementar un programa integral para el fortalecimiento de la actividad agrícola en el Valle del Chillón, mediante la promoción de asistencia técnica, modernización productiva y generación de nuevos canales de comercialización.",
+            "goal": "Beneficiar a 2,000 productores, implementar 50 ferias y mercados locales, incorporar a 1,500 productores a circuitos de comercialización, promover 20 iniciativas de modernización e incrementar en 20% la productividad promedio.",
+            "indicator": "Número de productores agropecuarios beneficiados, número de ferias y mercados agropecuarios implementados, número de productores incorporados a canales de comercialización, número de proyectos de tecnificación agrícola promovidos e incremento de la productividad."
+          },
+          {
+            "problem": "Los principales centros agroturísticos, ecológicos e históricos del distrito presentan un evidente estado de abandono debido a la falta de infraestructura, mantenimiento y estrategias de promoción turística, limitando el aprovechamiento de los recursos.",
+            "objective": "Articular acciones y gestiones con entidades gubernamentales para promover el desarrollo de circuitos turísticos, miradores y espacios de interés cultural, ecológico y gastronómico, impulsando el turismo interno y poniendo en valor los recursos del distrito.",
+            "goal": "Implementar 5 circuitos turísticos, 10 miradores y espacios de interés; beneficiar a 1,500 emprendedores; realizar 50 eventos y ferias de promoción; e incrementar en 50% el flujo de visitantes a los circuitos turísticos.",
+            "indicator": "Número de circuitos turísticos implementados, número de miradores y espacios turísticos acondicionados, número de emprendedores y operadores turísticos beneficiados, número de eventos de promoción y el incremento de visitantes a los atractivos turísticos."
+          },
+          {
+            "problem": "Gran parte de la población desarrolla actividades de comercio informal como principal fuente de ingreso, generando una economía poco organizada, con bajos niveles de formalización y limitada oferta de empleo formal.",
+            "objective": "Implementar un programa integral para el reordenamiento, fortalecimiento y formalización progresiva de las actividades comerciales, promoviendo el desarrollo económico local y mejores condiciones para los comerciantes mediante un trabajo articulado.",
+            "goal": "Formalizar progresivamente a 5,000 comerciantes, implementar 50 ferias y mercados temporales, beneficiar a 8,000 comerciantes y emprendedores con capacitación, reordenar 10 zonas comerciales y alcanzar la formalización del 40% de comerciantes informales.",
+            "indicator": "Número de comerciantes incorporados a procesos de formalización, número de ferias itinerantes y mercados temporales organizados, número de comerciantes beneficiados con capacitación, número de espacios comerciales ordenados y porcentaje de comerciantes formalizados."
+          },
+          {
+            "problem": "Los microempresarios y emprendedores enfrentan serias dificultades para formalizar sus negocios debido a la excesiva carga burocrática, los elevados costos y la limitada percepción de beneficios.",
+            "objective": "Promover la organización e integración de las PYMEs y emprendedores, impulsando la creación y fortalecimiento de la Cámara de Comercio de Carabayllo para consolidar una identidad comercial propia del distrito.",
+            "goal": "Incorporar y articular a 2,000 PYMEs y emprendedores, facilitar la formalización de 1,500 unidades económicas, ejecutar 200 programas de capacitación y organizar 50 eventos de promoción comercial y empresarial.",
+            "indicator": "Número de PYMEs y emprendedores incorporados a la Cámara de Comercio, número de empresas formalizadas con asistencia municipal, número de capacitaciones y asistencias técnicas, y número de ferias y eventos de promoción comercial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado caracterizado por la ocupación informal de fajas marginales del río Chillón, laderas y zonas de protección ecológica y de alto riesgo no mitigable.",
+            "objective": "Implementar un programa integral de recuperación, protección y ordenamiento territorial de las fajas marginales del río Chillón, orientado a prevenir la ocupación informal de zonas de riesgo y crear el Parque Ribereño del Río Chillón.",
+            "goal": "Delimitar y proteger 15 km de fajas marginales, culminar el 100% del levantamiento topográfico, recuperar y proteger 100 hectáreas de áreas ecológicas, reducir en 80% las nuevas ocupaciones informales, implementar 200,000 m² de áreas recreativas y plantar 50,000 árboles.",
+            "indicator": "Kilómetros de fajas marginales delimitadas, porcentaje de avance del levantamiento topográfico, hectáreas de áreas ecológicas recuperadas, número de ocupaciones informales prevenidas, metros cuadrados de espacios públicos implementados y número de árboles plantados."
+          },
+          {
+            "problem": "El sistema de manejo de residuos sólidos presenta deficiencias en la recolección, segregación y disposición final, así como la existencia de botaderos informales y focos contaminantes.",
+            "objective": "Implementar un programa integral de manejo y tratamiento adecuado de residuos sólidos para mejorar el sistema de recolección, reducir la contaminación y promover el aprovechamiento sostenible mediante la transformación y el reciclaje.",
+            "goal": "Alcanzar una cobertura del 100% en la recolección, reciclar el 30% de los residuos, producir 5,000 toneladas de compost, recuperar y reforestar 100 hectáreas, incorporar a 30,000 vecinos a programas de segregación y ejecutar 150 campañas de educación ambiental.",
+            "indicator": "Porcentaje de cobertura del sistema de recolección diferenciada, toneladas de residuos segregados y aprovechados, toneladas de compost producidas, hectáreas recuperadas mediante forestación, número de vecinos participantes en programas de reciclaje y número de campañas de educación ambiental."
+          },
+          {
+            "problem": "La contaminación y el deterioro progresivo del cauce del río Chillón, ocasionada por el vertimiento inadecuado de residuos sólidos, desmonte y aguas residuales, impactando negativamente en el ecosistema y la calidad ambiental.",
+            "objective": "Implementar un programa integral de recuperación y protección ambiental del río Chillón, orientado a preservar su cauce y riberas, prevenir la contaminación y reducir los riesgos mediante acciones de control, fiscalización y recuperación.",
+            "goal": "Recuperar y proteger 15 km de riberas del río Chillón, ejecutar 1,000 acciones de fiscalización y control ambiental, realizar 100 campañas de educación ambiental y gestionar y ejecutar 10 km de obras de protección ribereña.",
+            "indicator": "Kilómetros de riberas del río recuperadas, número de acciones de fiscalización y control ambiental, número de campañas de educación ambiental y metros lineales de defensas ribereñas gestionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficiencias en los mecanismos de fiscalización y control interno institucional, lo que limita la eficiencia, transparencia y supervisión adecuada de la gestión municipal.",
+            "objective": "Implementar una política de gestión transparente y fortalecimiento institucional para mejorar los mecanismos de fiscalización, control interno y participación ciudadana, implementando un Comité de Fiscalización Ciudadana.",
+            "goal": "Alcanzar el 100% de cumplimiento en publicación, reducir en 60% el tiempo de respuesta, reducir en 50% las observaciones de auditorías, reducir en 40% las denuncias, incrementar en 70% la participación ciudadana, lograr el 95% de ejecución presupuestal y reducir en 30% las desviaciones.",
+            "indicator": "Cumplimiento en publicación de información, tiempo de respuesta a solicitudes, número de observaciones de auditoría, número de denuncias de corrupción, número de mecanismos de participación ciudadana activos, porcentaje de ejecución presupuestal y nivel de desviación presupuestal."
+          },
+          {
+            "problem": "Deficiencias en la actualización y consolidación de un catastro urbano y rural oficial, y limitaciones en la implementación de instrumentos de ordenamiento territorial, favoreciendo el crecimiento urbano desordenado.",
+            "objective": "Implementar un programa integral de catastro y ordenamiento territorial para consolidar un desarrollo urbano formal, planificado y sostenible, mediante la actualización y oficialización del catastro y la definición de la zonificación.",
+            "goal": "Lograr el 100% del territorio con catastro actualizado, el 95% de predios georreferenciados, el 100% del territorio con zonificación vigente, la reducción del 70% de nuevas ocupaciones informales, el 80% de predios con título inscrito y el 100% del catastro operando en GIS.",
+            "indicator": "Territorio con catastro actualizado, número de predios georreferenciados, expansión del territorio con zonificación oficializada, reducción de nuevas invasiones, predios con título inscrito e implementación del sistema GIS catastral."
+          },
+          {
+            "problem": "La gestión municipal presenta deficiencias administrativas caracterizadas por trámites burocráticos, procesos lentos y limitada accesibilidad a los servicios, afectando la eficiencia institucional.",
+            "objective": "Implementar un programa integral de modernización administrativa para optimizar procesos, simplificar trámites y mejorar la calidad de atención, mediante la incorporación de tecnología, descentralización de servicios y capacitación del personal.",
+            "goal": "Reducir el 60% de trámites innecesarios, digitalizar el 90% de los trámites, reducir en 50% los tiempos de atención, alcanzar el 85% de satisfacción ciudadana, capacitar al 100% del personal, incrementar en 70% los puntos de atención descentralizados y reducir en 40% el costo por trámite.",
+            "indicator": "Número de trámites simplificados, porcentaje de trámites en línea, tiempo promedio de atención, índice de satisfacción ciudadana, porcentaje de trabajadores capacitados, número de puntos de atención descentralizados y costo promedio por trámite."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zTZcZnIiT-GGBJLYRw1UHOmfz6m3YzsL",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zTZcZnIiT-GGBJLYRw1UHOmfz6m3YzsL",
+      "sha256": "45558e7c73c6e13d70b467e408d18b04ce8b9cba226c91033c4b1d8beb9f8abf",
+      "accessedAt": "2026-10-02T22:52:47.469Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019621",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019621",
+      "sha256": "a632473efbecbb7c30576f7efad9e2af98e3ce26010ea11e3342d12322492a49",
+      "accessedAt": "2026-10-02T22:52:48.118Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

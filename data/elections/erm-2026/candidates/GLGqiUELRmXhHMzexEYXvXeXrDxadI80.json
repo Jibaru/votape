@@ -1,0 +1,194 @@
+{
+  "id": "GLGqiUELRmXhHMzexEYXvXeXrDxadI80",
+  "slug": "giancarlos-enrique-zarate-quispe",
+  "electionId": "erm-2026",
+  "name": "Giancarlos Enrique Zarate Quispe",
+  "givenNames": "Giancarlos Enrique",
+  "surnames": "Zarate Quispe",
+  "age": 35,
+  "gender": "Masculino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140116",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:19.500Z",
+      "sourceId": "jne-hv-GLGqiUELRmXhHMzexEYXvXeXrDxadI80"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Tecnológica del Perú S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad de Villa Maria del Triunfo",
+      "role": "Abogado",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Municipalidad distrital de Chilca",
+      "role": "Asistente Tecnico",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad de Lima Metropolitana",
+      "role": "Asistencia Tecnica",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 30000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8b39fc76-b447-46b7-8b70-f7490b6bb306.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c4aeeea4-5d1b-498a-80b9-1b3873d82b3f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Pistas y veredas deterioradas, junto con un deficiente acceso vial en varios sectores del distrito.",
+            "objective": "Modernizar la infraestructura urbana y rural del distrito, implementando un plan integral de pistas y veredas que incluya pavimentación y veredas accesibles.",
+            "goal": "Lograr el 100% de avenidas principales mejoradas y una mayor conectividad vial para el año 2030.",
+            "indicator": "Porcentaje de avenidas principales mejoradas y nivel de conectividad vial."
+          },
+          {
+            "problem": "Problemas de acceso a servicios básicos de agua y saneamiento en algunas zonas de Pachacámac.",
+            "objective": "Realizar la gestión ante el Gobierno Central y Sedapal para la ampliación de las redes de agua y desagüe en el distrito.",
+            "goal": "Ampliar las redes de agua y desagüe en las zonas que carecen del servicio.",
+            "indicator": "Cobertura de redes de agua y desagüe."
+          },
+          {
+            "problem": "Carencia de parques modernos y espacios públicos seguros para el esparcimiento de los vecinos.",
+            "objective": "Implementar parques modernos y seguros con iluminación LED, juegos infantiles y gimnasios al aire libre, así como recuperar los espacios públicos.",
+            "goal": "Duplicar las áreas verdes públicas y lograr la recuperación total de los espacios públicos.",
+            "indicator": "Cantidad de áreas verdes públicas y número de espacios públicos recuperados."
+          },
+          {
+            "problem": "Limitado acceso a programas de salud, educación y apoyo a poblaciones vulnerables como mujeres, adultos mayores y jóvenes.",
+            "objective": "Implementar programas sociales como campañas médicas, centros de atención municipal, becas, centros tecnológicos, programas contra la violencia familiar y centros integrales para el adulto mayor y la juventud.",
+            "goal": "Establecer centros de atención y programas de apoyo para salud, educación, mujer y familia, adulto mayor y juventud en el distrito.",
+            "indicator": "Número de programas sociales implementados y población beneficiaria."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo aprovechamiento del potencial turístico, escasa promoción y falta de infraestructura adecuada.",
+            "objective": "Potenciar a Pachacámac como uno de los principales destinos turísticos, culturales y ecológicos del Perú, desarrollando la marca \"Pachacámac\" y mejorando la infraestructura turística.",
+            "goal": "Duplicar el número de visitantes turísticos para el año 2030.",
+            "indicator": "Número de visitantes turísticos."
+          },
+          {
+            "problem": "Débil conexión entre el turismo, la gastronomía y los emprendimientos locales, limitando el desarrollo económico.",
+            "objective": "Impulsar a los emprendedores locales a través de ferias permanentes, capacitación empresarial, créditos y alianzas estratégicas, integrándolos en un circuito turístico.",
+            "goal": "Generar miles de empleos indirectos y convertir a Pachacámac en un referente turístico de Lima Sur para el 2030.",
+            "indicator": "Número de empleos indirectos generados por la actividad turística y los emprendimientos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de basura en sectores periféricos, existencia de botaderos informales e insuficiente maquinaria para la recolección de residuos.",
+            "objective": "Convertir al distrito en uno de los más limpios y sostenibles de Lima Metropolitana, mediante una recolección moderna de residuos y la eliminación de botaderos.",
+            "goal": "Reducir los residuos informales en un 80% y alcanzar la cobertura total de limpieza pública para el año 2030.",
+            "indicator": "Porcentaje de reducción de residuos informales y nivel de cobertura del servicio de limpieza pública."
+          },
+          {
+            "problem": "Deficiente cultura ambiental en la población y carencia de áreas verdes y corredores ecológicos.",
+            "objective": "Fomentar la educación ambiental a través de programas y campañas, e implementar un programa de \"Distritos Verdes\" mediante la arborización masiva y la creación de corredores ecológicos.",
+            "goal": "Duplicar las áreas verdes públicas en el distrito para el año 2030.",
+            "indicator": "Superficie de áreas verdes públicas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incremento de la delincuencia, débil presencia de serenazgo y escasa articulación con la Policía Nacional.",
+            "objective": "Reducir drásticamente los índices de delincuencia y recuperar la tranquilidad de los vecinos, implementando un sistema de seguridad ciudadana integral.",
+            "goal": "Reducir la delincuencia en un 40%, lograr la cobertura total de videovigilancia y un tiempo de respuesta menor a 5 minutos para el 2030.",
+            "indicator": "Tasa de delincuencia, cobertura de videovigilancia en zonas urbanas y tiempo de respuesta ante emergencias."
+          },
+          {
+            "problem": "Gestión municipal poco moderna, con falta de transparencia y mecanismos de lucha contra la corrupción.",
+            "objective": "Implementar una gestión municipal moderna, transparente y cercana al ciudadano, a través de un gobierno digital, mecanismos de transparencia total y una lucha frontal contra la corrupción.",
+            "goal": "Implementar trámites virtuales, la publicación en línea de obras y gastos, y la realización de audiencias vecinales trimestrales.",
+            "indicator": "Disponibilidad de trámites virtuales, publicación de información de obras y gastos, y frecuencia de audiencias vecinales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-GLGqiUELRmXhHMzexEYXvXeXrDxadI80",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GLGqiUELRmXhHMzexEYXvXeXrDxadI80",
+      "sha256": "7190064e518d8069dfcd77cce6507152d7440237880ddad6ab55165be2897072",
+      "accessedAt": "2026-10-02T23:00:19.500Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012706",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012706",
+      "sha256": "6a6a277c76ad06251b5ecbcb61c5aa409f92b5d05462eea7ddf9e7f259356b11",
+      "accessedAt": "2026-10-02T23:00:19.992Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

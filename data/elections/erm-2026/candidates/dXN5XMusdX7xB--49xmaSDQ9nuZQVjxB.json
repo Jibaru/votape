@@ -1,0 +1,294 @@
+{
+  "id": "dXN5XMusdX7xB--49xmaSDQ9nuZQVjxB",
+  "slug": "misael-meneses-flores",
+  "electionId": "erm-2026",
+  "name": "Misael Meneses Flores",
+  "givenNames": "Misael",
+  "surnames": "Meneses Flores",
+  "age": 38,
+  "gender": "Masculino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:41.210Z",
+      "sourceId": "jne-hv-dXN5XMusdX7xB--49xmaSDQ9nuZQVjxB"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "DERECHO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "QUYLLUR GROUP CONSTRUCTORA S.A.C",
+      "role": "COORDINADOR DE DESPACHO",
+      "from": "2016",
+      "to": "2026"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA DEL PERU",
+      "role": "COORDINADOR DE DESPACHO",
+      "from": "2020",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DE PRENSA Y PROPAGANDA PROVINCIAL",
+      "party": "PARTIDO POLÍTICO FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "from": "2019",
+      "to": "2020"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MENESES Y PUNARES MARTINES S.A.C",
+        "type": "ACCIONES",
+        "quantity": 1200,
+        "value": 1200
+      },
+      {
+        "company": "QUYLLUR GROUP CONSTRUCTORA S.A.C",
+        "type": "ACCIONES",
+        "quantity": 192000,
+        "value": 19200
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/570adff9-01b4-4c38-b8cd-fd7601214de6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/16de89e2-bf5e-4745-92d6-f5a54534f50f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de anemia infantil y problemas de seguridad alimentaria en niños menores de cinco años.",
+            "objective": "Contribuir a la reducción de la anemia infantil y fortalecer el desarrollo infantil temprano mediante acciones articuladas con el sector salud.",
+            "goal": "Reducir la anemia infantil de 24.7% a menos del 5%.",
+            "indicator": "Porcentaje de niños y niñas de 6 a 59 meses con anemia."
+          },
+          {
+            "problem": "Deficiente infraestructura educativa, limitada conectividad digital y brechas de equipamiento escolar.",
+            "objective": "Mejorar las condiciones para el aprendizaje y el acceso a servicios educativos de calidad.",
+            "goal": "Intervenir al menos 40 instituciones educativas con mayores brechas.",
+            "indicator": "Porcentaje de instituciones educativas priorizadas a intervenidas."
+          },
+          {
+            "problem": "Persistencia de bajos niveles de comprensión lectora y razonamiento matemático en estudiantes de educación básica.",
+            "objective": "Fortalecer las competencias de lectura, comprensión y razonamiento matemático.",
+            "goal": "Beneficiar a 20,000 estudiantes durante la gestión.",
+            "indicator": "Número de estudiantes beneficiados por programas de reforzamiento académico."
+          },
+          {
+            "problem": "Limitado acceso de jóvenes a educación superior, formación técnica y oportunidades de capacitación para el empleo.",
+            "objective": "Fortalecer las oportunidades de formación técnica, acceso a educación superior y empleabilidad juvenil.",
+            "goal": "Beneficiar a 18,000 jóvenes mediante becas, capacitación técnica y programas de inserción laboral.",
+            "indicator": "Número de jóvenes beneficiados con becas, capacitación y programas de empleabilidad."
+          },
+          {
+            "problem": "Limitado acceso de poblaciones vulnerables a programas sociales y servicios de protección.",
+            "objective": "Fortalecer la inclusión social y ampliar el acceso a servicios de protección para grupos vulnerables.",
+            "goal": "Incrementar en 50% la atención de población vulnerable.",
+            "indicator": "Número de beneficiarios incorporados o atendidos mediante programas sociales."
+          },
+          {
+            "problem": "Crecimiento de perros y gatos en situación de abandono y limitada oferta de servicios veterinarios accesibles.",
+            "objective": "Fortalecer el bienestar animal, la salud pública y la convivencia ciudadana.",
+            "goal": "Reducir en 50% la población de perros y gatos en situación de abandono.",
+            "indicator": "Número de mascotas atendidas, esterilizadas y registradas."
+          },
+          {
+            "problem": "Incremento de delitos contra el patrimonio, extorsión y percepción de inseguridad ciudadana.",
+            "objective": "Fortalecer la seguridad ciudadana mediante acciones preventivas, tecnología y articulación institucional.",
+            "goal": "Reducir en 30% los delitos contra el patrimonio e incrementar de 250 a 1,000 cámaras de videovigilancia.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio y número de cámaras operativas."
+          },
+          {
+            "problem": "Insuficiente acceso a espacios, programas deportivos, culturales y de desarrollo juvenil.",
+            "objective": "Fortalecer el desarrollo integral de la juventud mediante la ampliación de la oferta cultural, deportiva y de participación ciudadana.",
+            "goal": "Beneficiar a 50,000 jóvenes mediante programas de cultura, deporte, liderazgo y empleabilidad.",
+            "indicator": "Número de jóvenes con acceso efectivo a programas municipales."
+          },
+          {
+            "problem": "Insuficiente infraestructura deportiva y recreativa en diversos sectores del distrito.",
+            "objective": "Ampliar y modernizar la infraestructura deportiva y recreativa para garantizar el acceso equitativo de la población.",
+            "goal": "Construir o recuperar 100 espacios deportivos y recreativos al 2030.",
+            "indicator": "Número de espacios deportivos y recreativos construidos o recuperados."
+          },
+          {
+            "problem": "Persistentes brechas en el acceso a agua potable, alcantarillado y energía eléctrica en asentamientos humanos y zonas de expansión urbana.",
+            "objective": "Ampliar el acceso de la población a servicios básicos de calidad, priorizando los sectores más vulnerables.",
+            "goal": "Beneficiar a 30,000 hogares con proyectos de infraestructura básica y mejoramiento urbano.",
+            "indicator": "Porcentaje de viviendas con acceso a agua potable, alcantarillado y energía eléctrica."
+          },
+          {
+            "problem": "Limitaciones en el acceso oportuno a servicios de salud preventiva y atención primaria.",
+            "objective": "Fortalecer la capacidad de respuesta sanitaria y acercar los servicios de salud a la población más vulnerable.",
+            "goal": "Incrementar en 30% la cobertura de atención primaria y realizar más de 500 campañas integrales de salud.",
+            "indicator": "Porcentaje de población con acceso oportuno a los servicios de atención primaria."
+          },
+          {
+            "problem": "Incremento de la violencia familiar, violencia contra la mujer y problemas de salud mental.",
+            "objective": "Fortalecer la prevención y atención integral de la violencia y la salud mental comunitaria.",
+            "goal": "Incrementar en 50% la cobertura de atención psicológica y reducir en 20% los casos recurrentes de violencia familiar.",
+            "indicator": "Número de personas atendidas mediante servicios especializados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad laboral que afecta a miles de trabajadores, especialmente jóvenes, mujeres y trabajadores independientes del distrito.",
+            "objective": "Promover el empleo digno, la formalización laboral y el fortalecimiento de capacidades para mejorar la empleabilidad y los ingresos de la población económicamente activa.",
+            "goal": "Beneficiar a 30,000 vecinos mediante programas de capacitación, empleabilidad y formalización.",
+            "indicator": "Número de personas capacitadas, formalizadas o insertadas en el mercado laboral."
+          },
+          {
+            "problem": "Baja competitividad de las micro y pequeñas empresas debido a limitaciones de innovación, digitalización, financiamiento y acceso a mercados.",
+            "objective": "Fortalecer la competitividad de las MYPES, emprendedores y comerciantes mediante asistencia técnica, innovación, digitalización y acceso a mercados.",
+            "goal": "Fortalecer y formalizar al menos el 60% de las MYPES y emprendimientos participantes.",
+            "indicator": "Número de MYPES fortalecidas y formalizadas."
+          },
+          {
+            "problem": "Congestión vehicular, deterioro de vías y limitaciones en la conectividad urbana que afectan la competitividad económica del distrito.",
+            "objective": "Mejorar la movilidad urbana y la conectividad territorial para fortalecer el desarrollo económico y la productividad local.",
+            "goal": "Mejorar 100 km de infraestructura vial y reducir en 40% los tiempos de viaje dentro del distrito.",
+            "indicator": "Kilómetros de infraestructura vial mejorada y reducción de tiempos de desplazamiento."
+          },
+          {
+            "problem": "Mercados y centros de abastecimiento presentan limitaciones de infraestructura, seguridad, accesibilidad y manejo de residuos.",
+            "objective": "Fortalecer la infraestructura comercial y logística distrital mediante la modernización de mercados y centros de abastecimiento.",
+            "goal": "Modernizar al menos 15 mercados y centros de abastecimiento.",
+            "indicator": "Número de mercados y centros de abastecimiento modernizados."
+          },
+          {
+            "problem": "Potencial turístico, arqueológico y cultural subaprovechado, a pesar de contar con importantes complejos arqueológicos y patrimonio histórico.",
+            "objective": "Fortalecer la conservación, protección y aprovechamiento sostenible del patrimonio histórico y arqueológico como factor de identidad cultural y desarrollo económico local.",
+            "goal": "Incrementar en 100% el flujo de visitantes a los principales sitios arqueológicos y culturales de Ate.",
+            "indicator": "Número de visitantes a los principales atractivos turísticos y culturales del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos, presencia de botaderos informales y acumulación de residuos en espacios públicos y zonas de difícil acceso.",
+            "objective": "Mejorar la gestión integral de residuos sólidos y promover la economía circular en el distrito.",
+            "goal": "Eliminar el 90% de los botaderos informales identificados y valorizar al menos el 20% de los residuos sólidos generados.",
+            "indicator": "Porcentaje de residuos valorizados y número de puntos críticos erradicados."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante, limitada arborización urbana y pérdida progresiva de espacios verdes.",
+            "objective": "Incrementar la cobertura vegetal y las áreas verdes urbanas para mejorar la calidad ambiental y la calidad de vida de la población.",
+            "goal": "Plantar 100,000 árboles y recuperar 500,000 m² de áreas verdes al 2030.",
+            "indicator": "Número de árboles plantados y metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población frente a huaicos, deslizamientos, caída de rocas y movimientos en masa en diversas zonas del distrito.",
+            "objective": "Reducir la vulnerabilidad física de la población frente a desastres naturales mediante obras de prevención y mitigación del riesgo.",
+            "goal": "Intervenir el 100% de las zonas priorizadas con riesgo alto y muy alto.",
+            "indicator": "Número de sectores vulnerables intervenidos con obras de mitigación."
+          },
+          {
+            "problem": "Elevados niveles de contaminación atmosférica, sonora y deterioro ambiental asociados al intenso tránsito vehicular, actividad industrial y acumulación de residuos.",
+            "objective": "Reducir la contaminación ambiental y mejorar la calidad del aire y del entorno urbano.",
+            "goal": "Implementar una red distrital de monitoreo ambiental y recuperar el 90% de los puntos críticos de contaminación identificados.",
+            "indicator": "Número de estaciones de monitoreo implementadas y puntos críticos de contaminación recuperados."
+          },
+          {
+            "problem": "Crecimiento urbano acelerado y ocupaciones informales en laderas, quebradas y zonas de riesgo sin adecuada planificación territorial.",
+            "objective": "Promover un desarrollo urbano ordenado y sostenible mediante la planificación territorial y la protección de zonas de riesgo.",
+            "goal": "Actualizar el 100% de los instrumentos de planificación territorial y contar con un catastro digital integral al 2030.",
+            "indicator": "Porcentaje del territorio incorporado a instrumentos y actualizados de planificación urbana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos lentos, limitada digitalización de servicios y baja percepción de eficiencia municipal.",
+            "objective": "Modernizar la gestión municipal para brindar servicios más eficientes, transparentes y accesibles.",
+            "goal": "Digitalizar el 100% de los trámites prioritarios de atención al ciudadano.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          },
+          {
+            "problem": "Debilitamiento de la confianza ciudadana en las instituciones públicas y limitada participación vecinal en la toma de decisiones.",
+            "objective": "Fortalecer la participación ciudadana, la transparencia y la gobernanza local.",
+            "goal": "Incrementar en 50% la participación ciudadana en mecanismos de gobernanza a local.",
+            "indicator": "Número de organizaciones y ciudadanos participantes en espacios de concertación."
+          },
+          {
+            "problem": "Necesidad de fortalecer la sostenibilidad financiera municipal y mejorar la calidad del gasto público.",
+            "objective": "Incrementar los ingresos municipales y optimizar el uso de los recursos públicos.",
+            "goal": "Incrementar la recaudación propia en 30% respecto a la línea base.",
+            "indicator": "Incremento de la recaudación tributaria municipal."
+          },
+          {
+            "problem": "Baja ejecución de inversiones públicas en sectores estratégicos como seguridad ciudadana, gestión del riesgo de desastres e infraestructura urbana.",
+            "objective": "Fortalecer la capacidad institucional para mejorar la ejecución de proyectos y el cierre de brechas.",
+            "goal": "Alcanzar una ejecución anual superior al 90% de las inversiones programadas.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversiones."
+          },
+          {
+            "problem": "Débil articulación entre la municipalidad, organizaciones sociales, comedores populares, clubes de madres y actores económicos del distrito.",
+            "objective": "Consolidar una gestión municipal articulada con la comunidad para el desarrollo local.",
+            "goal": "Implementar mecanismos de coordinación en los principales sectores del distrito.",
+            "indicator": "Número de acciones de articulación y trabajo conjunto implementadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-dXN5XMusdX7xB--49xmaSDQ9nuZQVjxB",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/dXN5XMusdX7xB--49xmaSDQ9nuZQVjxB",
+      "sha256": "20412c2f3eb667d4f22458350db80df5e0870fbd9d16f00d4cca0b3d25365a8b",
+      "accessedAt": "2026-10-02T22:50:41.210Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022176",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022176",
+      "sha256": "752f50280b8c497132d80a88caa3d2c0153c9ed4f6aafc1f898600f9c763acee",
+      "accessedAt": "2026-10-02T22:50:41.692Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

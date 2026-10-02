@@ -1,0 +1,244 @@
+{
+  "id": "EbNMht7q62YaUdnTeERKX2AV2uZixcDW",
+  "slug": "julian-ramos-mendez",
+  "electionId": "erm-2026",
+  "name": "Julian Ramos Mendez",
+  "givenNames": "Julian",
+  "surnames": "Ramos Mendez",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:32.988Z",
+      "sourceId": "jne-hv-EbNMht7q62YaUdnTeERKX2AV2uZixcDW"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IST SAN CARLOS",
+        "program": "MECANICA AUTOMOTRIZ",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MAXIBRAKE IMPORT SA",
+      "role": "GERENTE GENERAL",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 61864,
+        "public": 0,
+        "private": 61864
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 186006.72,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO EN DESUSO",
+        "value": 30
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c04e6cd9-9951-4c8e-85ad-4cd8a4164a56.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/438c6e11-b314-4b74-b7da-6f1d84d66fcc.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Ausencia de Apoyo al Cuidado de Mascotas",
+            "objective": "Creación de Programas de cuidado de salud de Mascotas",
+            "goal": "Lograr la implementación total del servicio y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los servicios de programas de cuidado de mascotas"
+          },
+          {
+            "problem": "Falta de la Casa de la Mujer",
+            "objective": "Creación de la Casa de la Mujer",
+            "goal": "Lograr la implementación total del servicio y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los servicios de la casa de la mujer."
+          },
+          {
+            "problem": "Falta de la Farmacias Municipales",
+            "objective": "Contar con Farmacias Municipales en el Distrito.",
+            "goal": "Lograr la implementación total del servicio y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los servicios de las farmacias municipales."
+          },
+          {
+            "problem": "Falta de Programas Médicos Municipales",
+            "objective": "Seguro Social para prestación de servicios médicos",
+            "goal": "Lograr la implementación total del servicio y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los programas médicos municipales."
+          },
+          {
+            "problem": "Falta de Internet en Lugares Públicos",
+            "objective": "Internet Gratuita en Lugares Públicos Principales",
+            "goal": "Lograr la implementación total del servicio y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los servicios de internet en lugares públicos."
+          },
+          {
+            "problem": "Fata de Bibliotecas Virtuales Municipales",
+            "objective": "Creación de Bibliotecas Virtuales Municipales",
+            "goal": "Lograr la implementación total del servicio y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional utilizando las bibliotecas virtuales."
+          },
+          {
+            "problem": "Deficientes Programas de Inserción Social",
+            "objective": ".Crear Eficientes Programas de Inserción social y Mejorar los existentes.",
+            "goal": "Lograr la implementación total de los nuevos servicios y garantizar el acceso progresivo a los vecinos del distrito.",
+            "indicator": "Porcentaje poblacional incluido en nuevos programas sociales"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de Programas de apoyo a las Pymes.",
+            "objective": "Creación de Programas de apoyo a pymes y pequeños negocios del Distrito.",
+            "goal": "Consolidar el desarrollo del programa y ampliar de manera continua el número de beneficiarios.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los servicios de apoyo a las pymes."
+          },
+          {
+            "problem": "Falta de Programas de fomento del Empleo Juvenil",
+            "objective": "Desarrollo de Festivales del Empleo en el Distrito",
+            "goal": "Consolidar el desarrollo del programa y ampliar de manera continua el número de beneficiarios.",
+            "indicator": "Porcentaje poblacional beneficiada y utilizando los servicios de fomento al empleo juvenil."
+          },
+          {
+            "problem": "Falta de un Patronato para fomento del desarrollo de los vecinos o poblaciones más vulnerables",
+            "objective": "Constitución del Patronato de los Olivos.",
+            "goal": "Consolidar el desarrollo del programa y ampliar de manera continua el número de beneficiarios.",
+            "indicator": "Porcentaje poblacional beneficiada con el desarrollo de los programas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de viveros municipales",
+            "objective": "Creación de vivero Municipal",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con los viveros municipales."
+          },
+          {
+            "problem": "Paralización de Fronteras comerciales",
+            "objective": "Ampliación de la Frontera Comercial",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con ampliación de la frontera comercial."
+          },
+          {
+            "problem": "Pistas y veredas en condiciones deplorables",
+            "objective": "Programa de rehabilitación de pistas y veredas.",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con pistas y veredes."
+          },
+          {
+            "problem": "Deficiencia de Programas de mejora de Parques y creación de Áreas verdes",
+            "objective": "Desarrollo de Programas de Parques y Áreas verdes",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con nuevas áreas verdes"
+          },
+          {
+            "problem": "Falta de Brigadas Vecinales para el cuidado del Medio Ambiente.",
+            "objective": "Creación de Brigadas vecinales para el cuidado del Medio Ambiente.",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con la gestión de las brigadas de medioambiente."
+          },
+          {
+            "problem": "Deficiente Plan de Desarrollo Urbano.",
+            "objective": "Actualizar el Plan de Desarrollo Urbano.",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con los planes de desarrollo urbano."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escasez de Proyectos Planes y Obras de Inversión Distrital y Territorial",
+            "objective": "Desarrollo del Distrito mediante Obras",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con el desarrollo del distrito"
+          },
+          {
+            "problem": "Escasez de Proyectos de Desarrollo Educativos y de Pymes",
+            "objective": "Desarrollo de Sector Educativo y Pymes",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con el desarrollo de las pymes."
+          },
+          {
+            "problem": "Deficiente Comunicación entre la Municipalidad y la Población",
+            "objective": "Mejora de la Comunicación Gobierno Distrital y el Vecino",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con la mejora de la comunicación"
+          },
+          {
+            "problem": "Poca participación vecinal",
+            "objective": "Mejora de la Participación Vecinal",
+            "goal": "Garantizar la ejecución de los proyectos y optimizar la infraestructura en beneficio de la comunidad.",
+            "indicator": "Porcentaje poblacional beneficiada con el desarrollo de la participación vecinal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-EbNMht7q62YaUdnTeERKX2AV2uZixcDW",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/EbNMht7q62YaUdnTeERKX2AV2uZixcDW",
+      "sha256": "7fa01e5c2c4b1c5bd9c18192bc62948f379c43eed0354bd5faf79b947d614a86",
+      "accessedAt": "2026-10-02T22:58:32.988Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031157",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031157",
+      "sha256": "1cd3f536864281096765d7d1497a872cb3f454f03ec9b0b13fa3e499a36b526e",
+      "accessedAt": "2026-10-02T22:58:33.550Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

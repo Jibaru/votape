@@ -1,0 +1,247 @@
+{
+  "id": "R1IIpINbmpqBCWrUY0JZ4wAwqUrNcOUU",
+  "slug": "genaro-soto-mendoza",
+  "electionId": "erm-2026",
+  "name": "Genaro Soto Mendoza",
+  "givenNames": "Genaro",
+  "surnames": "Soto Mendoza",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:35.938Z",
+      "sourceId": "jne-hv-R1IIpINbmpqBCWrUY0JZ4wAwqUrNcOUU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "Bachiller en ciencia política y gobierno",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "Gobierno y políticas publicas",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "AFRY(PERU) SAC",
+      "role": "ESPECIALISTA SOCIAL",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC - UNIDAD NACIONAL",
+      "from": "2011",
+      "to": "2014"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC - UNIDAD NACIONAL",
+      "from": "2011",
+      "to": "2014"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "RESTAURACION NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "RESTAURACION NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2016"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 72000,
+        "public": 0,
+        "private": 72000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1dc66c3c-11ec-47dd-a0c4-6d7563b9bc08.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6f313758-d81c-4247-b369-3fea9bffde11.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Privatización y abandono de la infraestructura deportiva municipal, como el Complejo Deportivo Iván Elías La Rosa y el Coliseo La Paz, además del mal estado de más de 200 losas deportivas vecinales.",
+            "objective": "Promover el deporte fundamental en niños, adolescentes, jóvenes y adultos en los complejos deportivos municipales y lozas deportivas, y fomentar el deporte de alta competencia equipando adecuadamente dichos complejos.",
+            "goal": "Desprivatizar el complejo deportivo municipal Iván Elías La Rosa, crear escuelas deportivas en diversas disciplinas, equipar e iluminar 200 lozas deportivas y recuperar las \"Olimpiadas Escolares\".",
+            "indicator": "Número de niños y adolescentes participantes en programas y escuelas deportivas, número de lozas deportivas equipadas e iluminadas, y número de instituciones deportivas participantes en las \"Olimpiadas Escolares\"."
+          },
+          {
+            "problem": "Inexistencia de una política cultural local para potenciar la creación artística y la clausura de las casas de la juventud, que contaban con bibliotecas y salas de cómputo.",
+            "objective": "Recuperar la memoria de la fundación e historia de Villa El Salvador, construir y equipar Casas de la Juventud y Cultura como espacios seguros de socialización, y generar un fondo concursable para el financiamiento de proyectos culturales.",
+            "goal": "Difundir la historia de Villa El Salvador en las instituciones educativas, construir y equipar 30 Casas de la Juventud y Cultura, invertir S/. 100,000.00 anuales en un fondo concursable e institucionalizar el Festival Nacional de Danzas Folclóricas.",
+            "indicator": "Número de docentes capacitados en la historia de Villa El Salvador, número de Casas de la Juventud y Cultura implementadas, inversión anual en el fondo concursable para proyectos de arte y cultura, y número de festivales de danzas folclóricas ejecutados."
+          },
+          {
+            "problem": "Focalización de la pobreza extrema en asentamientos humanos, persistencia de la desnutrición infantil y el fracaso escolar, y monopolización en las contrataciones para la compra de insumos del Programa de Vaso de Leche.",
+            "objective": "Eliminar el monopolio en la compra de insumos para el Programa de Vaso de Leche, promover la generación de puestos de empleo a jefes de familia en situación de pobreza extrema y acompañar a los niños y adolescentes de estas familias en el sistema educativo.",
+            "goal": "Eliminar la corrupción en la adquisición de insumos para programas sociales, promover la generación de 1000 puestos de empleo a jefes de familia en situación de pobreza extrema y acompañar a los niños y adolescentes de dichas familias en su matrícula y permanencia en el sistema educativo.",
+            "indicator": "Compra oportuna de insumos para el Programa de Vaso de Leche, compra de alimentos para los comedores a precios de mercado y número de puestos de empleo a jefes de familia en situación de pobreza extrema."
+          },
+          {
+            "problem": "Deterioro del bienestar en salud debido a hábitos no saludables, contaminación, escasa cultura preventiva y una débil articulación institucional, además de la ausencia de una política pública de control poblacional de canes.",
+            "objective": "Reducir los factores de riesgo y mejorar el bienestar mediante intervenciones preventivas y territoriales, así como reducir la contaminación sonora y la contaminación de espacios públicos por desechos de canes.",
+            "goal": "Equipar 100 Parques Saludables, ampliar la red de ciclovías, desprivatizar los complejos deportivos, apoyar campañas de salud para prevenir la anemia infantil y enfermedades en adultos, y controlar la población de canes y gatos.",
+            "indicator": "Porcentaje de instituciones educativas en el programa \"Escuelas Saludables\", porcentaje de niños menores de 6 años con anemia, kilómetros de nuevas ciclovías construidas, número de campañas de salud y número de canes y gatos rescatados."
+          },
+          {
+            "problem": "Persistencia de brechas en comprensión lectora y matemáticas en la educación primaria, y una desvinculación entre la oferta educativa superior y la demanda profesional del sector productivo local.",
+            "objective": "Contribuir desde el gobierno local a la reducción de las brechas en comprensión lectora y matemática, promover un sistema de servicios de estimulación temprana de calidad y fomentar el gusto por la lectura en la población infantil.",
+            "goal": "Apoyar al sector Educación en reducir en 10% la brecha en comprensión lectora y matemáticas, implementar 30 centros de estimulación temprana y 30 bibliotecas infantiles en locales comunales multiusos.",
+            "indicator": "Porcentaje de logro satisfactorio en comprensión lectora y matemática en niños de 4to grado de primaria, porcentaje de centros de estimulación temprana de calidad implementados y porcentaje de bibliotecas infantiles implementadas."
+          },
+          {
+            "problem": "Altas tasas de denuncias por extorsión, delitos contra el patrimonio, homicidios, microcomercialización de drogas y violencia, junto con el abandono de políticas de prevención social.",
+            "objective": "Mejorar en forma significativa la seguridad ciudadana, reduciendo la incidencia delictiva y mejorando la percepción de seguridad en todos los ciudadanos y todo el territorio del distrito de Villa El Salvador.",
+            "goal": "Reducir la victimización por persona en 50%, incrementar la percepción de seguridad ciudadana en 100%, reducir en 50% las tasas de violencia, implementar 30 programas de prevención social, 30 Casas de la Juventud y Cultura, y recuperar 50 espacios públicos.",
+            "indicator": "Victimización por persona, percepción de inseguridad ciudadana, tasa de denuncias de violencia física y psicológica, y porcentaje de programas de prevención social dirigidos a niños y adolescentes en riesgo ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil integración y especialización comercial, desordenamiento del comercio formal e informal, débil modernización de mercados cooperativos y asociativos, y crecimiento del comercio ambulatorio con problemas de tráfico y seguridad.",
+            "objective": "Desarrollar la integración y especialización comercial mediante el ordenamiento, promover la modernización integral de los mercados y fomentar servicios de calidad para la comunidad con programas de capacitación.",
+            "goal": "Ejecutar 20 programas de ordenamiento del comercio, 20 programas de articulación comercial, 20 programas de gestión de mercados, promover 10 proyectos de infraestructura moderna y ejecutar 20 programas de desarrollo de capacidades para comerciantes.",
+            "indicator": "Número de proyectos de ordenamiento y unificación del comercio ejecutados, número de proyectos de gestión de mercados e información gerencial, y número de programas de desarrollo de capacidades para comerciantes."
+          },
+          {
+            "problem": "Sobrepoblación de mototaxis informales que generan congestión, contaminación y delincuencia, junto con un débil posicionamiento de las actividades económicas del distrito en el contexto de Lima Sur.",
+            "objective": "Regular el servicio de vehículos menores, formalizando a los informales; promover el desarrollo de actividades recreativas y culturales; promocionar las actividades gastronómicas y fortalecer el posicionamiento económico del distrito.",
+            "goal": "Ejecutar un programa de ordenamiento del servicio de mototaxis, 5 programas de desarrollo de actividades culturales, 5 programas gastronómicos y de hospedaje, y 2 programas de turismo para la zona de playas.",
+            "indicator": "Número de vehículos menores en el servicio de transporte de pasajeros formalizados, número de programas de desarrollo de actividades recreativas y culturales, y número de programas de actividades económicas del distrito."
+          },
+          {
+            "problem": "Baja competitividad de los mercados de abastos, aumento del subempleo y del comercio ambulatorio, pérdida de empleo formal en el Parque Industrial y un incremento del desempleo en los jóvenes.",
+            "objective": "Mejorar la competitividad de los mercados formales, formalizar a los comerciantes ambulantes, promover el fortalecimiento e innovación tecnológica del Parque Industrial y generar nuevas oportunidades de empleo para los jóvenes.",
+            "goal": "Capacitar a 2000 comerciantes, modernizar más del 80% de mercados cooperativos, formalizar al 30% de los comerciantes ambulantes, colocar a 4000 jóvenes en puestos de trabajo formales y capacitar a 8000 jóvenes en habilidades para la empleabilidad.",
+            "indicator": "Número de comerciantes capacitados, número de proyectos de modernización de mercados, número de mercados informales reubicados, número de jóvenes colocados en puestos de trabajo y número de jóvenes capacitados."
+          },
+          {
+            "problem": "Baja calidad de la oferta productiva y tecnológica del Parque Industrial, alto déficit de infraestructura básica y servicios, y deficientes condiciones laborales de los trabajadores de las PYMES.",
+            "objective": "Incrementar la calidad de la oferta productiva y tecnológica del Parque Industrial, mejorar la infraestructura básica y servicios enlazados con sus necesidades y contribuir al empleo digno.",
+            "goal": "Implementar 10 programas de desarrollo comercial, 4 programas de fomento de formas asociativas, 4 programas de desarrollo de marca colectiva, 10 proyectos de infraestructura urbana y mejorar las condiciones laborales de los trabajadores de las PYMES.",
+            "indicator": "Número de programas de desarrollo comercial, organizacional y de financiamiento productivo implementados; número de programas de desarrollo de marca colectiva PIVES y comercio exterior implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de 3,917,666 m² de áreas verdes para cumplir con el estándar de la OMS, a pesar de existir 810,000 m² de terreno destinado para ello, de los cuales solo 132,600 m² se encuentran verdes.",
+            "objective": "Equipar los parques con sistemas de almacenamiento de agua y riego, recuperar y enverdecer las áreas verdes con árboles nativos de la costa central, y generar puestos de empleo para jefes de hogar de familias en extrema pobreza y adultos mayores.",
+            "goal": "Equipar 200 parques de los grupos residenciales, recuperar y enverdecer 300,000 m² de áreas verdes en 200 parques, y generar puestos de empleo para jefes de hogar de familias en extrema pobreza y adultos mayores.",
+            "indicator": "Número de parques de los grupos residenciales, asentamientos humanos y asociaciones de vivienda equipados, metros cuadrados de áreas verdes incrementados y número de puestos de empleo generado."
+          },
+          {
+            "problem": "Incapacidad institucional para cumplir con el recojo domiciliario diario, lo que genera contaminación, incremento de residuos, abandono del programa de reciclaje y aparición de centros de acopio informales.",
+            "objective": "Mejorar de forma sostenida el servicio municipal de recojo domiciliario de residuos sólidos, relanzar el programa de segregación domiciliaria, formalizar y apoyar a los segregadores informales, y reubicar los centros de acopio informales.",
+            "goal": "Lograr la mejora del 50% del servicio de recojo domiciliario de residuos sólidos, recuperar los espacios en todos los parques, sembrar 10,000 árboles, atender el 100% de las quejas por contaminación sonora y esterilizar 20,000 canes y 4,000 gatos.",
+            "indicator": "Número de predios con servicio de recojo domiciliario con una frecuencia diaria, número de hogares que practican la segregación domiciliaria, número de segregadores informales formalizados y número de centros de acopio informales reubicados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Uso de la oficina de participación ciudadana y del Presupuesto Participativo por Resultados como instrumentos de cooptación de dirigentes y manipulación de la población por parte de la administración municipal.",
+            "objective": "Fortalecer la democracia representativa con mecanismos de democracia directa, despolitizar la Oficina de Participación Ciudadana y relanzar el Presupuesto Participativo como un mecanismo de participación y movilización ciudadana.",
+            "goal": "Realizar una consulta ciudadana anual en el marco del Presupuesto Participativo, formar al 50% de los dirigentes inscritos en el Registro de Organizaciones Sociales y ampliar el fondo de inversión del Presupuesto Participativo de 6 a 20 millones de soles.",
+            "indicator": "Número de ciudadanos participantes en las consultas populares en el marco del Presupuesto Participativo, número de dirigentes formados en las Escuelas de Dirigentes y fondo invertido en el Presupuesto Participativo por año."
+          },
+          {
+            "problem": "Uso limitado de tecnologías de la información, carencia de sistemas de trámite documentario, catastro o licencias electrónicas, y un portal de transparencia desactualizado.",
+            "objective": "Digitalizar los servicios municipales para reducir costos en dinero y tiempo, e introducir el uso de la Inteligencia Artificial en el procesamiento de trámites, monitoreo de cámaras de vigilancia y otorgamiento de licencias.",
+            "goal": "Digitalizar el 100% de los trámites documentarios, usar la Inteligencia Artificial en el 50% de los trámites y en el 100% del monitoreo de cámaras de videovigilancia, y crear un canal virtual de la Municipalidad.",
+            "indicator": "Número de trámites documentarios digitalizados, número de trámites documentarios con uso de Inteligencia Artificial y número de cámaras de videovigilancia monitoreadas con inteligencia artificial."
+          },
+          {
+            "problem": "Instalación de un sistema de corrupción sistemática en las contrataciones de obras, bienes y servicios, y anulación de las instituciones de control y fiscalización, principalmente del Concejo Municipal.",
+            "objective": "Eliminar la corrupción en las contrataciones, recuperar la democracia municipal y el equilibrio de poderes devolviendo al Concejo Municipal su rol fiscalizador, y promover la participación ciudadana en la fiscalización y control.",
+            "goal": "Realizar el 100% de los procesos de contrataciones de forma transparente y sin corrupción, crear un canal virtual del Concejo Municipal para transmitir las sesiones y crear una comisión especial de regidores de fiscalización.",
+            "indicator": "Número de procesos de contrataciones transparentes con fiscalización de la sociedad civil y número de sesiones de concejo transmitidas en directo por redes sociales."
+          },
+          {
+            "problem": "Contratación de la mayoría de servidores municipales por clientelismo político bajo la modalidad de locación de servicios, sin vínculo ni derechos laborales, lo que favorece la complicidad en casos de corrupción.",
+            "objective": "Profesionalizar la contratación de personal municipal mediante concursos públicos y fortalecer la carrera pública designando a servidores nombrados en puestos gerenciales.",
+            "goal": "Contratar personal municipal por concurso público en la modalidad CAS, designar a servidores de carrera (nombrados) como gerentes y subgerentes, e instaurar el Premio a la Integridad en la función pública.",
+            "indicator": "Número de servidores contratados por concurso público en la modalidad CAS y número de servidores nombrados designados como gerentes y subgerentes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-R1IIpINbmpqBCWrUY0JZ4wAwqUrNcOUU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/R1IIpINbmpqBCWrUY0JZ4wAwqUrNcOUU",
+      "sha256": "b71dfe6b23e18c533eba25cd5a6301f6a3051cdfa24cb0f47c606204bdda165c",
+      "accessedAt": "2026-10-02T23:06:35.938Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018451",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018451",
+      "sha256": "4bc3ade7056dc272643d4383ec04e1fb6ff1db70c8f5c2d7bf23b725e5bb9315",
+      "accessedAt": "2026-10-02T23:06:36.441Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

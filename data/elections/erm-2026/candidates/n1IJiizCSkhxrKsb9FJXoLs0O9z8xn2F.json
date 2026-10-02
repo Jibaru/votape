@@ -1,0 +1,178 @@
+{
+  "id": "n1IJiizCSkhxrKsb9FJXoLs0O9z8xn2F",
+  "slug": "miguel-angel-saman-ballarta",
+  "electionId": "erm-2026",
+  "name": "Miguel Angel Saman Ballarta",
+  "givenNames": "Miguel Angel",
+  "surnames": "Saman Ballarta",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140121",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:50.388Z",
+      "sourceId": "jne-hv-n1IJiizCSkhxrKsb9FJXoLs0O9z8xn2F"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "cepeban",
+        "program": "administracion bancaria",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "san juan bautista",
+        "program": "administracion",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4f7be9a0-7827-4167-bd28-8f86440b7feb.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/46f7d909-2d95-47fc-9694-00086189992d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiencias en educación y oportunidades para jóvenes.",
+            "objective": "Fortalecer programas educativos, becas, capacitación técnica y orientación vocacional.",
+            "goal": "Implementar programas de reforzamiento escolar y becas municipales.",
+            "indicator": "Número de beneficiarios y convenios educativos."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud y apoyo social.",
+            "objective": "Implementar Policlínico Municipal, Farmacia Solidaria y campañas de salud preventiva.",
+            "goal": "Policlínico Municipal y Farmacia Solidaria en funcionamiento.",
+            "indicator": "Servicios de salud implementados y campañas realizadas."
+          },
+          {
+            "problem": "Baja atención a adultos mayores, personas con discapacidad y población vulnerable.",
+            "objective": "Fortalecer programas sociales, CIAM y OMAPED, y crear espacios especializados de atención.",
+            "goal": "Casa del Adulto Mayor y Centro Integral para Personas con Discapacidad implementados.",
+            "indicator": "Programas implementados y población atendida."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo apoyo a emprendedores y pequeños comerciantes.",
+            "objective": "Promover emprendimiento, formalización y asistencia técnica.",
+            "goal": "Programas de asesoría y formalización empresarial implementados.",
+            "indicator": "Emprendimientos formalizados y apoyados."
+          },
+          {
+            "problem": "Necesidad de fortalecer el turismo y la economía local.",
+            "objective": "Impulsar infraestructura turística, actividades culturales y recuperación de espacios públicos.",
+            "goal": "Mejoramiento del borde costero y espacios turísticos del distrito.",
+            "indicator": "Proyectos turísticos ejecutados y eventos realizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiencias en limpieza pública y manejo de residuos sólidos.",
+            "objective": "Modernizar la gestión de residuos, renovar flota y ampliar cobertura de recolección.",
+            "goal": "Implementar el Proyecto Integral de Gestión y Recolección de Residuos Sólidos.",
+            "indicator": "Flota renovada, cobertura y frecuencia de recolección."
+          },
+          {
+            "problem": "Riesgos de contaminación y afectación de ecosistemas.",
+            "objective": "Implementar monitoreo ambiental y planes de adaptación al cambio climático.",
+            "goal": "Plan Distrital de Adaptación al Cambio Climático implementado.",
+            "indicator": "Planes aprobados y acciones de fiscalización realizadas."
+          },
+          {
+            "problem": "Deterioro y escasez de áreas verdes.",
+            "objective": "Recuperar parques y jardines, arborizar y fortalecer el vivero municipal.",
+            "goal": "Programa \"Punta Negra Verde\" ejecutado.",
+            "indicator": "Áreas verdes recuperadas y árboles plantados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado y falta de planificación.",
+            "objective": "Actualizar instrumentos de planificación urbana y ejecutar proyectos de infraestructura.",
+            "goal": "Planes urbanos actualizados y obras de infraestructura priorizadas.",
+            "indicator": "Instrumentos aprobados y proyectos ejecutados."
+          },
+          {
+            "problem": "Inseguridad ciudadana y limitada capacidad de respuesta.",
+            "objective": "Fortalecer el serenazgo, videovigilancia y patrullaje integrado.",
+            "goal": "Implementar central de monitoreo, serenazgo motorizado y nuevas casetas de serenazgo.",
+            "indicator": "Equipamiento adquirido, cámaras instaladas y cobertura de patrullaje."
+          },
+          {
+            "problem": "Necesidad de mejorar la gestión municipal y la participación vecinal.",
+            "objective": "Fortalecer juntas vecinales, canales de comunicación y rendición de cuentas.",
+            "goal": "Programa \"Alerta Vecinal Punta Negra\" y espacios de concertación en funcionamiento.",
+            "indicator": "Juntas vecinales activas y mecanismos de participación implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-n1IJiizCSkhxrKsb9FJXoLs0O9z8xn2F",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/n1IJiizCSkhxrKsb9FJXoLs0O9z8xn2F",
+      "sha256": "9c5db1da3d904222efdb64bdbdc0181ac9f9fa82bbd696ac5ba2ca8c2437ddcd",
+      "accessedAt": "2026-10-02T23:01:50.388Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011907",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011907",
+      "sha256": "b5f34c7177ed1e8e5aa0c9b8ae5f1420c508e4df176c2515fc035008f6dbc683",
+      "accessedAt": "2026-10-02T23:01:50.909Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

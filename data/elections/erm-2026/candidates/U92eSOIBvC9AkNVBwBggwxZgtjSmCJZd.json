@@ -1,0 +1,215 @@
+{
+  "id": "U92eSOIBvC9AkNVBwBggwxZgtjSmCJZd",
+  "slug": "cresencio-gonzales-ccapcha",
+  "electionId": "erm-2026",
+  "name": "Cresencio Gonzales Ccapcha",
+  "givenNames": "Cresencio",
+  "surnames": "Gonzales Ccapcha",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:25.945Z",
+      "sourceId": "jne-hv-U92eSOIBvC9AkNVBwBggwxZgtjSmCJZd"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "TRANSPORTES GODAMEY E.I.R.L",
+      "role": "GERENTE GENERAL",
+      "from": "2011",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 67917.12,
+        "public": 43917.12,
+        "private": 24000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 120000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 80000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "color negro",
+        "value": 25000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "TRANSPORTES GODAMEY E.I.R.L",
+        "type": "ACCIONES",
+        "quantity": 1,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/500d603b-45dd-4605-ad04-81a4d33727ad.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/91a45f6f-0935-4bef-b1eb-7a63886aa3b3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevada crisis de inseguridad ciudadana caracterizada por el incremento de delitos como robos, asaltos, extorsiones, sicariato, microcomercialización de drogas y violencia urbana, afectando la tranquilidad y calidad de vida de las familias.",
+            "objective": "Fortalecer el sistema integral de seguridad ciudadana mediante la prevención, el patrullaje integrado, la recuperación de espacios públicos y la participación vecinal organizada.",
+            "goal": "Implementar el programa “SJM Seguro 24/7” con un sistema moderno de videovigilancia inteligente, fortalecer el servicio de Serenazgo municipal y ejecutar el programa de patrullaje integrado por sectores.",
+            "indicator": "Reducción porcentual de delitos reportados, número de cámaras de videovigilancia instaladas, cantidad de espacios públicos recuperados y nivel de percepción de seguridad ciudadana."
+          },
+          {
+            "problem": "Existencia de brechas en la formalización de predios y el acceso a servicios básicos, lo que resulta en que miles de familias vivan en condiciones de informalidad urbana sin títulos de propiedad, limitando su acceso a servicios públicos, vivienda y créditos.",
+            "objective": "Impulsar un programa integral de formalización urbana y acceso universal a servicios básicos para garantizar condiciones dignas de vida.",
+            "goal": "Implementar el programa “Título Seguro para tu Familia” para la formalización y titulación masiva de predios, e impulsar el programa “Agua y Dignidad para San Juan” para ejecutar proyectos integrales de agua potable y alcantarillado.",
+            "indicator": "Número de títulos de propiedad entregados, número de familias beneficiadas con acceso a agua y desagüe, y reducción del déficit de servicios básicos."
+          },
+          {
+            "problem": "Limitaciones significativas para la población joven en el acceso a oportunidades de educación, deporte, capacitación técnica y espacios adecuados para su desarrollo integral, afectando su calidad de vida y posibilidades de futuro.",
+            "objective": "Promover oportunidades de formación, emprendimiento y desarrollo integral para la juventud sanjuanina.",
+            "goal": "Fortalecer el programa “Deporte para la Vida” mediante la recuperación de academias deportivas y talleres culturales, e implementar el programa “Juventud con Bienestar” para ofrecer servicios de orientación psicológica y liderazgo.",
+            "indicator": "Número de jóvenes capacitados, número de losas deportivas con infraestructura mejorada y nivel de participación juvenil en programas municipales."
+          },
+          {
+            "problem": "Grave problemática en el transporte público, congestión vehicular y deficiente transitabilidad urbana, que afecta la movilidad, seguridad y calidad de vida de miles de residentes, estudiantes y trabajadores del distrito.",
+            "objective": "Promover un sistema de transporte ordenado, seguro y eficiente, mejorando la transitabilidad, fiscalizando el transporte informal y modernizando la infraestructura vial.",
+            "goal": "Implementar el programa “Movilidad Ordenada para San Juan” y el programa “Pistas y Veredas para Todos”, orientados a mejorar la circulación vehicular, la infraestructura vial y la accesibilidad universal en el distrito.",
+            "indicator": "Kilómetros de vías mejoradas, reducción de puntos críticos de congestión vehicular y nivel de satisfacción ciudadana sobre transitabilidad y transporte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "La población juvenil enfrenta una realidad de desempleo, informalidad laboral y precariedad económica, con falta de acceso a programas de formación técnica y profesional que permitan su inserción competitiva en el mercado laboral.",
+            "objective": "Promover oportunidades de formación, emprendimiento y desarrollo integral para la juventud sanjuanina, facilitando su inserción laboral y el autoempleo.",
+            "goal": "Implementar la “Escuela Municipal de Emprendedores de San Juan”, desarrollar el programa “Jóvenes Digitales y Técnicos para el Futuro” y crear la “Bolsa Laboral Municipal de San Juan de Miraflores”.",
+            "indicator": "Número de emprendimientos juveniles formalizados, cantidad de jóvenes insertados laboralmente y convenios empresariales suscritos."
+          },
+          {
+            "problem": "La informalidad comercial representa un desafío económico y urbano, generando competencia desleal, ocupación de vías públicas y dificultades para el tránsito, a pesar de ser una fuente de ingreso para miles de familias.",
+            "objective": "Promover la formalización progresiva de comerciantes y emprendedores informales mediante asistencia técnica, orientación tributaria, simplificación administrativa y acceso a programas de desarrollo económico local.",
+            "goal": "Desarrollar el programa “Formalízate y Crece” para la formalización de comerciantes y ejecutar el programa “Ordenemos San Juan” para el reordenamiento progresivo del comercio ambulatorio.",
+            "indicator": "Número de comerciantes formalizados y cantidad de espacios públicos recuperados del comercio informal."
+          },
+          {
+            "problem": "Limitado aprovechamiento del potencial cultural para el desarrollo económico local, debido al escaso apoyo institucional a artistas, la falta de una política cultural integral y la subutilización de la gastronomía, el turismo y las industrias creativas.",
+            "objective": "Promover el turismo cultural y gastronómico local para revalorar la diversidad cultural, fortalecer emprendimientos y dinamizar la economía del distrito.",
+            "goal": "Organizar el “Festival de la Identidad Sanjuanina” para dinamizar la economía local y el turismo, e implementar el programa “Rutas de la Cultura y Gastronomía” para fortalecer emprendimientos culturales y actividades económicas vinculadas.",
+            "indicator": "Número de artistas y agrupaciones beneficiadas, y cantidad de eventos culturales organizados anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de residuos sólidos y deficiencias en el servicio de limpieza pública, lo que provoca acumulación de basura en calles, mercados y espacios públicos, generando contaminación y deterioro del entorno urbano.",
+            "objective": "Implementar un modelo eficiente de limpieza pública y ordenamiento territorial que promueva una ciudad limpia, ordenada y sostenible.",
+            "goal": "Implementar el programa “San Juan Limpio y Ordenado” para reestructurar integralmente el sistema de limpieza pública y fortalecer el sistema de supervisión y fiscalización del servicio.",
+            "indicator": "Frecuencia de recolección de residuos sólidos, reducción de puntos críticos de basura y nivel de satisfacción vecinal sobre la limpieza pública."
+          },
+          {
+            "problem": "Bajas tasas de reciclaje y una limitada cultura ambiental en la población, lo que contribuye a que un alto porcentaje de residuos sólidos urbanos no reciba un tratamiento adecuado, afectando el medio ambiente y la salud pública.",
+            "objective": "Fomentar una cultura de segregación de residuos, reciclaje y economía circular, articulando el trabajo con recicladores, organizaciones sociales y empresas privadas.",
+            "goal": "Implementar el programa “Recicla San Juan” para instalar contenedores diferenciados y puntos ecológicos, y ejecutar el programa “Educación Ambiental para Todos” para promover el manejo responsable de residuos.",
+            "indicator": "Cantidad de campañas ambientales ejecutadas y número de puntos ecológicos de reciclaje instalados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Creciente desconfianza ciudadana hacia la gestión municipal, originada por problemas de corrupción, burocracia, falta de transparencia y escasa rendición de cuentas por parte de las autoridades locales.",
+            "objective": "Desarrollar una gestión municipal transparente, participativa y basada en principios éticos y de rendición de cuentas para recuperar la confianza ciudadana.",
+            "goal": "Implementar la plataforma “Transparencia en Tiempo Real” para la publicación de información de gestión y el sistema “Alerta Vecinal Anticorrupción” para crear canales de denuncia seguros y confidenciales.",
+            "indicator": "Nivel de acceso ciudadano a información municipal, índice de satisfacción ciudadana y número de denuncias por corrupción atendidas y resueltas."
+          },
+          {
+            "problem": "Débil articulación entre las autoridades municipales y la población, lo que ha generado una limitada participación vecinal y escasa involucración de la comunidad en la planificación y fiscalización de la gestión pública local.",
+            "objective": "Fortalecer la organización vecinal y promover una gestión participativa y territorial, donde los vecinos sean actores activos en la construcción del desarrollo distrital.",
+            "goal": "Crear las “Oficinas Municipales Descentralizadas” para acercar los servicios a la población y fortalecer el programa “Juntas Vecinales Unidas” para promover el fortalecimiento organizacional de las entidades de base.",
+            "indicator": "Número de cabildos realizados, cantidad de organizaciones vecinales fortalecidas y nivel de participación ciudadana en presupuestos participativos."
+          },
+          {
+            "problem": "La burocracia y los procesos administrativos lentos generan dificultades para vecinos y comerciantes que buscan acceder a licencias y servicios municipales, creando condiciones que propician la corrupción.",
+            "objective": "Construir una municipalidad moderna, transparente y orientada al servicio ciudadano, mejorando la eficiencia de los procesos administrativos.",
+            "goal": "Implementar el programa “Municipalidad Digital y Simplificación Administrativa” para modernizar los procesos, reducir trámites burocráticos y disminuir los tiempos de atención mediante herramientas digitales.",
+            "indicator": "Reducción del tiempo de atención administrativa municipal y porcentaje de trámites digitalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-U92eSOIBvC9AkNVBwBggwxZgtjSmCJZd",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/U92eSOIBvC9AkNVBwBggwxZgtjSmCJZd",
+      "sha256": "2707d4839f379eff7b0ae25eee79ab047d114b44a035f90dbbe5ff6677cbb82a",
+      "accessedAt": "2026-10-02T23:07:25.945Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020960",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020960",
+      "sha256": "7dfe883b4630a33c74fe1586e1a639bd5d71a8df38ee60782ffda83645045c49",
+      "accessedAt": "2026-10-02T23:07:26.438Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

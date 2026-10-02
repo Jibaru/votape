@@ -1,0 +1,250 @@
+{
+  "id": "kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF",
+  "slug": "franco-enrique-cortez-gutierrez",
+  "electionId": "erm-2026",
+  "name": "Franco Enrique Cortez Gutierrez",
+  "givenNames": "Franco Enrique",
+  "surnames": "Cortez Gutierrez",
+  "age": 52,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:20.331Z",
+      "sourceId": "jne-hv-kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilazo de la Vega",
+        "program": "Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Inca Garcilazo de la Vega",
+        "program": "Doctorado en Derecho",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Inca Garcilazo de la Vega",
+        "program": "Derecho Administrativo",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Gobierno Regional de Lima",
+      "role": "Coordinador de Transportes",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "ATU",
+      "role": "abogado especialista",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad Provincial del Callao",
+      "role": "Asesor legal de la gerencia de transporte",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 56813.44,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 4240.2,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CMP AMAUTA SAC",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/27b55418-c7eb-4c91-b1fa-5e3f8fac508d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2db4a862-cd2f-4a71-8598-fccd9113b2b1.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Demanda creciente de oportunidades educativas, deportivas, culturales y de inserción laboral para jóvenes, junto con una limitada disponibilidad de espacios públicos modernos para su desarrollo integral.",
+            "objective": "Promover el desarrollo de capacidades, liderazgo, empleabilidad y participación de la juventud mediante programas educativos, culturales, tecnológicos y deportivos.",
+            "goal": "Beneficiar a más de 20,000 jóvenes con programas educativos, implementar una PRE Municipal gratuita, construir el primer Skatepark Municipal, recuperar y modernizar 50 espacios deportivos y recreativos, e incrementar en 30% la participación juvenil.",
+            "indicator": "Número de jóvenes beneficiarios de programas municipales, número de becas y capacitaciones, número de espacios deportivos recuperados, número de participantes en actividades culturales y número de jóvenes insertados laboralmente."
+          },
+          {
+            "problem": "Limitaciones en el acceso a servicios de salud preventiva, atención psicológica y programas sociales para poblaciones vulnerables como adultos mayores, mujeres, personas con discapacidad y familias en riesgo social.",
+            "objective": "Fortalecer la atención social y preventiva a través de programas inclusivos, descentralizados y orientados al bienestar integral de la población.",
+            "goal": "Incrementar en 65% el acceso a programas de salud preventiva, incorporar a 10,000 adultos mayores a programas de bienestar, beneficiar a 5,000 personas con discapacidad con servicios inclusivos y realizar al menos 200 campañas médicas descentralizadas.",
+            "indicator": "Número de beneficiarios en campañas médicas, número de adultos mayores en programas municipales, número de personas con discapacidad atendidas, número de beneficiarios de programas psicológicos y sociales, y porcentaje de actualización del padrón social."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, manifestada en la presencia de delitos contra el patrimonio, robos, extorsiones y violencia urbana, que afectan la calidad de vida y limitan el desarrollo social del distrito.",
+            "objective": "Fortalecer el sistema distrital de seguridad ciudadana mediante el uso intensivo de tecnología, la articulación interinstitucional y la participación vecinal, para reducir los índices delictivos y mejorar la percepción de seguridad.",
+            "goal": "Implementar 1,000 cámaras inteligentes, reducir en 40% los delitos de mayor incidencia, alcanzar un tiempo de respuesta menor a cinco minutos en zonas priorizadas, incrementar en 50% la percepción de seguridad y fortalecer al menos 150 juntas vecinales.",
+            "indicator": "Número de cámaras inteligentes operativas, tiempo promedio de respuesta ante emergencias, número de patrullajes integrados, porcentaje de vecinos que se sienten seguros y número de juntas vecinales activas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Los procedimientos administrativos representan barreras para la formalización de negocios, afectando la competitividad local y la generación de empleo formal.",
+            "objective": "Reducir los costos y tiempos administrativos para facilitar la formalización empresarial y promover la inversión privada responsable.",
+            "goal": "Reducir en 50% los tiempos de atención administrativa, digitalizar el 80% de los procedimientos empresariales, incrementar en 40% las licencias formalizadas y alcanzar niveles de satisfacción superiores al 85%.",
+            "indicator": "Tiempo promedio de emisión de licencias, número de licencias otorgadas, número de procedimientos digitalizados, nivel de satisfacción de los usuarios y número de empresas formalizadas."
+          },
+          {
+            "problem": "Limitaciones en la competitividad de las micro y pequeñas empresas (MYPES) relacionadas con la capacitación empresarial, acceso a mercados, digitalización, financiamiento y gestión comercial.",
+            "objective": "Fortalecer la competitividad de los emprendimientos y las MYPES del distrito mediante programas de asistencia técnica, innovación y acceso a oportunidades comerciales.",
+            "goal": "Capacitar a más de 10,000 emprendedores, asesorar a 5,000 MYPES, formalizar 3,000 negocios, realizar 60 ferias productivas y digitalizar al menos 2,500 emprendimientos.",
+            "indicator": "Número de MYPES capacitadas, número de emprendedores beneficiados, número de ferias realizadas, número de negocios formalizados y número de empresas digitalizadas."
+          },
+          {
+            "problem": "Creciente demanda de empleo formal, especialmente entre jóvenes, mujeres y personas que buscan reinsertarse al mercado laboral, frente a la necesidad de las empresas por personal capacitado.",
+            "objective": "Promover la empleabilidad y la inserción laboral de los vecinos mediante programas de intermediación laboral, capacitación y articulación con el sector privado.",
+            "goal": "Beneficiar a 25,000 vecinos con programas de empleo, facilitar la inserción laboral de al menos 8,000 ciudadanos, realizar 40 ferias laborales y suscribir convenios con más de 200 empresas.",
+            "indicator": "Número de personas colocadas laboralmente, número de ferias laborales realizadas, número de empresas participantes, número de jóvenes beneficiados y tasa de inserción laboral."
+          },
+          {
+            "problem": "Necesidad de fortalecer el posicionamiento económico del distrito, mejorar la competitividad de sus mercados y atraer nuevas inversiones para consolidarse como polo comercial.",
+            "objective": "Consolidar a Los Olivos como el principal centro comercial, empresarial y gastronómico de Lima Norte, promoviendo la inversión y el desarrollo económico local.",
+            "goal": "Modernizar al menos cinco mercados estratégicos, promover inversiones privadas superiores a S/ 100 millones, organizar 20 ruedas de negocios y posicionar a Los Olivos como referente comercial de Lima Norte.",
+            "indicator": "Número de inversiones promovidas, número de mercados modernizados, número de eventos comerciales realizados, número de visitantes a ferias y eventos, e índice de satisfacción de comerciantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Incremento de la generación de residuos sólidos y una limitada cultura de reciclaje en la población del distrito.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos y promover la economía circular en el distrito.",
+            "goal": "Incrementar en 50% el reciclaje distrital e incorporar 30,000 viviendas a programas de segregación.",
+            "indicator": "Toneladas de material reciclado, número de viviendas incorporadas a programas de segregación y cantidad de puntos ecológicos implementados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y necesidad de mejorar la infraestructura verde y los espacios públicos sostenibles para la recreación.",
+            "objective": "Incrementar la infraestructura verde del distrito y recuperar las áreas destinadas a la recreación de los vecinos.",
+            "goal": "Plantar 20,000 árboles, recuperar 100,000 m² de áreas verdes y modernizar 80 parques.",
+            "indicator": "Número de árboles plantados, metros cuadrados de áreas verdes recuperadas y número de parques rehabilitados."
+          },
+          {
+            "problem": "Necesidad de fortalecer la protección animal y promover la tenencia responsable de mascotas en el distrito.",
+            "objective": "Promover el bienestar animal mediante la implementación de programas preventivos y educativos para la comunidad.",
+            "goal": "Esterilizar 20,000 mascotas, registrar 50,000 animales y habilitar 30 parques amigables para mascotas (pet friendly).",
+            "indicator": "Número de mascotas esterilizadas, número de adopciones promovidas y cantidad de mascotas registradas en el sistema municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada digitalización de los servicios municipales y de los procesos administrativos, lo que dificulta el acceso y la eficiencia para los ciudadanos.",
+            "objective": "Modernizar la gestión municipal mediante la transformación digital de sus servicios y procesos internos.",
+            "goal": "Digitalizar el 90% de los trámites municipales y alcanzar la cifra de 100,000 usuarios digitales registrados.",
+            "indicator": "Porcentaje de trámites digitalizados, número de usuarios registrados en plataformas digitales y nivel de satisfacción ciudadana con los servicios digitales."
+          },
+          {
+            "problem": "Percepción de falta de transparencia en la gestión municipal y escaso control por parte de la ciudadanía.",
+            "objective": "Fortalecer la transparencia, la integridad y la fiscalización de la gestión pública, garantizando el acceso a la información.",
+            "goal": "Transmitir el 100% de las sesiones de Concejo y alcanzar más del 95% de cumplimiento en el portal de transparencia activa.",
+            "indicator": "Número de informes de gestión publicados, porcentaje de sesiones de concejo transmitidas en vivo y nivel de cumplimiento de las normativas de transparencia."
+          },
+          {
+            "problem": "Baja participación de la ciudadanía en los procesos de gestión municipal, como la planificación y fiscalización.",
+            "objective": "Promover la participación vecinal activa y el gobierno abierto para involucrar a los ciudadanos en la toma de decisiones.",
+            "goal": "Incrementar en 50% la participación ciudadana en los procesos de gestión y realizar audiencias públicas de rendición de cuentas de forma trimestral.",
+            "indicator": "Número de participantes en consultas públicas, cantidad de organizaciones sociales involucradas en la gestión y número de audiencias públicas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-143407",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: VIOLENCIA FAMILIAR",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "VIOLENCIA FAMILIAR",
+        "juzgado": "2do Juzgado Mixto Transitorio de Condevilla",
+        "expediente": "01102-2008-0-0904-JM-TC-02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "VIOLENCIA FAMILIAR",
+      "sourceIds": [
+        "jne-hv-kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF",
+      "sha256": "3e3ab6be83f13da8a2fedac40f5b25208da8386ff0f4dc9b2b9b22125fcfba38",
+      "accessedAt": "2026-10-02T22:58:20.331Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022115",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022115",
+      "sha256": "93f9bc1a2de75754e38445f29238fc99067c9dda06622e0f49524b18ff3c2bad",
+      "accessedAt": "2026-10-02T22:58:21.001Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

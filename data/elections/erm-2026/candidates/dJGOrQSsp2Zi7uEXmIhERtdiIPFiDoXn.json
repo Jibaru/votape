@@ -1,0 +1,228 @@
+{
+  "id": "dJGOrQSsp2Zi7uEXmIhERtdiIPFiDoXn",
+  "slug": "edwin-freddy-cuya-espinoza",
+  "electionId": "erm-2026",
+  "name": "Edwin Freddy Cuya Espinoza",
+  "givenNames": "Edwin Freddy",
+  "surnames": "Cuya Espinoza",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:33.016Z",
+      "sourceId": "jne-hv-dJGOrQSsp2Zi7uEXmIhERtdiIPFiDoXn"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INSTITUTO SUPERIOR TECNOLOGICO SALESIANO",
+        "program": "PROFESIONAL TECNICO ESPECIALIDAD DE MECANICA AUTOMOTRIZ",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "INSTITUTO PERUANO DE NEGOCIOS",
+        "program": "INNOVACION EN LA GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR",
+      "role": "FUNCIONARIO PÚBLICO",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR",
+      "role": "FUNCIONARIO PÚBLICO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR",
+      "role": "FUNCIONARIO PÚBLICO",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR",
+      "role": "FUNCIONARIO PÚBLICO",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR",
+      "role": "FUNCIONARIO PÚBLICO",
+      "from": "2025",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 100849,
+        "public": 100849,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 8320,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "HYUNDAI AÑO 2015",
+        "value": 37000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ac11a47a-fa14-4467-9f95-97ccb35773da.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/34f60600-4f53-49fa-9b95-8e0a72c3bcdb.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "3. EL DISTRITO NO CUENTA CON UN ESTUDIO CATASTRAL, QUE PERMITA BRINDAR UNA ATENCIÓN PRECISA Y EFICAZ AL VECINO.",
+            "objective": "REALIZAR EL CATASTRO DISTRITAL",
+            "goal": "DURANTE EL AÑO 2027, SE ESTIMA TENER CONCLUIDO EL CATASTRO DISTRITAL, LO CUAL DESDE 2028 AL 2030 BENEFICIARIA A TODA LA COMUNIDAD Y A LA ENTIDAD MUNICIPAL RESPECTIVAMENTE.",
+            "indicator": "100%"
+          },
+          {
+            "problem": "2. GRAN PARTE DE LA POBLACIÓN NO LE DA LA DEBIDA IMPORTANCIA AL PRESUPUESTO PARTICIPATIVO.",
+            "objective": "DIFUNDIR, ORIENTAR Y CAPACITAR A LA POBLACIÓN ACERCA DEL PRESUPUESTO PARTICIPATIVO ALTERNATIVA IMPORTANTE PARA LOGRAR EL DESARROLLO DEL DISTRITO.",
+            "goal": "LOGRAR UNA GRAN PARTICIPACIÓN CIUDADANA EN LA EJECUCIÓN DE LOS PROYECTOS DE INVERSIÓN PÚBLICA (2027 AL 2030), GENERANDO EL DESARROLLO INTEGRAL DEL DISTRITO.",
+            "indicator": "70.0%"
+          },
+          {
+            "problem": "1. FALTA MAYOR PARTICIPACIÓN DE LAS EMPRESAS PRIVADAS EN APOYO A LA EDUCACIÓN, CULTURA Y DEPORTE",
+            "objective": "CONVOCAR A LA EMPRESA PRIVADA E INCENTIVAR UN MEJOR APOYO PARA LA INVERSIÓN EN EDUCACIÓN, CULTURA Y DEPORTE.",
+            "goal": "CON EL APOYO DE LA EMPRESA PRIVADA SE ESPERA FORTALECER DURANTE LOS AÑOS 2027 AL 2030 LA EDUCACIÓN, CULTURA Y DEPORTE, BENEFICIANDO A 20,000 HABITANTES APROX..",
+            "indicator": "80.0%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1. FALTA PROMOVER E INTENSIFICAR LA GENERACIÓN DE EMPLEO A TRAVÉS DE LA INVERSIÓN PRIVADA.",
+            "objective": "PROMOVER LA INVERSIÓN PRIVADA, CUIDANDO NO PERJUDICAR A LA COMUNIDAD Y MEDIO AMBIENTE.",
+            "goal": "LOGRAR LA GENERACIÓN DE EMPLEO PARA MÁS DE 15,000 POBLADORES HASTA EL 2030.",
+            "indicator": "70%"
+          },
+          {
+            "problem": "2. FALTA PROMOVER EL DESARROLLO INTEGRAL DEL DISTRITO A TRAVÉS DEL TURISMO.",
+            "objective": "GESTIONAR LA FIRMA DE CONVENIOS CON EL MINISTERIO DE TURISMO PARA LA EJECUCIÓN DE IMPORTANTES OBRAS TURÍSTICAS.",
+            "goal": "LOGRAR EJECUTAR HASTA EL AÑO 2030, IMPORTANTES OBRAS TURÍSTICAS QUE PERMITAN ATRAER A MÁS DE 20,000 TURISTAS POR AÑO. LO CUAL GENERARÍA MILES DE PUESTOS DE TRABAJO.",
+            "indicator": "80%"
+          },
+          {
+            "problem": "3. FALTA PROMOVER Y COORDINAR MAYOR APOYO A LA ACTIVIDAD PESQUERA.",
+            "objective": "GESTIONAR CON EL MINISTERIO DE LA PRODUCCIÓN APOYO AL PESCADOR, SIENDO LA MUNICIPALIDAD UN ALIADO DE GESTIÓN Y APOYO PARA EL GREMIO DE PESCADORES.",
+            "goal": "LOGRAR QUE ENTIDADES DEL GOBIERNO CENTRAL BRINDEN MAYOR APOYO A LOS PESCADORES DANDOLES BENEFICIOS PARA EL MEJORAMIENTO DE SUS EQUIPOS DE TRABAJO.",
+            "indicator": "50%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1. FALTA DE SANEAMIENTO FÍSICO LEGAL (TITULACIÓN) Y FALTA DEFINIR NUESTROS LÍMITES DISTRITALES POR EL SUR CON CHILCA Y POR EL NORTE CON SANTA MARÍA DEL MAR.",
+            "objective": "GESTIÓN ANTE COFOPRI Y SBN PARA LA TITULACIÓN DE LOS ASENTAMIENTOS HUMANOS Y ASOCIACIONES. GESTIONAREMOS MESAS DE TRABAJO CON EL IMP Y LA PCM PARA DEFINIR NUESTROS LIMITES DISTRITALES, CON LOS DISTRITOS DE CHILCA Y SANTA MARÍA DEL MAR.",
+            "goal": "LOGRAR GESTIONAR LA TITULACIÓN A UN PROMEDIO DE 4,000 PREDIOS. DEFINIR Y CONCRETAR ESPECÍFICAMENTE NUESTROS LÍMITES POR EL SUR Y POR EL NORTE.",
+            "indicator": "70%"
+          },
+          {
+            "problem": "2. FALTA CONCRETAR LAS OBRAS DE AGUA Y ALCANTARILLADO PARA TODOS LOS ASENTAMIENTOS HUMANOS, ASOCIACIONES, AMPLIACIONES Y PARA EL PUEBLO DE PUCUSANA.",
+            "objective": "SE CONTINUARÁ GESTIONANDO ANTE EL MINISTERIO DE VIVIENDA CONSTRUCCIÓN Y SANEAMIENTO PARA VIABILIZAR Y EJECUTAR LAS OBRAS DE AGUA Y ALCANTARILLADO PARA EL DISTRITO EN GENERAL.",
+            "goal": "SOLUCIONAR LA PROBLEMÁTICA DEL AGUA Y DESAGÜE, BENEFICIANDO A MÁS DE LOS 30,000 HABITANTES EN EL DISTRITO.",
+            "indicator": "70%"
+          },
+          {
+            "problem": "3. FALTA REALIZAR ESTUDIOS DE MONITOREO DE NIVELES DE CONTAMINACIÓN AMBIENTAL.",
+            "objective": "CONTRATAR A ESPECIALISTAS, PARA HACER UN ESTUDIO DE IMPACTO AMBIENTAL DE OFICIO A LAS INVERSIONES PRIVADAS YA CONSOLIDADAS EN EL DISTRITO.",
+            "goal": "VELAR POR EL CUIDADO DEL MEDIO AMBIENTE, CUIDAR LA SALUD PÚBLICA Y ELEVAR EL NIVEL DE VIDA DE LOS MÁS DE 30,000 HABITANTES DEL DISTRITO Y DE LAS FUTURAS GENERACIONES.",
+            "indicator": "100%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "3. MEJORAR LA EFICIENCIA Y EFICACIA ADMINISTRATIVA DE LA ENTIDAD PARA UNA ADECUADA ATENCIÓN AL PÚBLICO Y DESARROLLO DEL DISTRITO.",
+            "objective": "CONTINUAR MPLEMENTANDO LA AUTOMATIZACIÓN Y MEJOR USO DE LA TECNOLOGÍA. MEJORAR EL ORGANIGRAMA MUNICIPAL Y ACTUALIZAR TODOS LOS DOCUMENTOS DE GESTIÓN.",
+            "goal": "MEJORAR LA ATENCIÓN AL VECINO; CONCRETAR AL 100 % LOS PLANES ANUALES (OPERATIVOS Y ESTRATÉGICOS DE LA ENTIDAD).",
+            "indicator": "50.0%"
+          },
+          {
+            "problem": "2. FALTA PROMOVER Y FOMENTAR LA PARTICIPACIÓN ACTIVA Y LA IGUALDAD DE OPORTUNIDADES DEL ADULTO MAYOR.",
+            "objective": "TENER AMBIENTES ADECUADOS PARA EL ADULTO MAYOR, CON UN CENTRO DE ATENCIÓN ESPECIAL DE SALUD PARA ELLOS.",
+            "goal": "ADECUAR LOS AMBIENTES E IMPLEMENTARLOS ADECUADAMENTE EN COORDINACIÓN CON EL MINISTERIO DE SALUD A FIN DE REALIZAR UN TRABAJO ARICULADO POR EL BIENESTAR DEL ADULTO MAYOR",
+            "indicator": "50.0%"
+          },
+          {
+            "problem": "1. MEJORAR LA SUPERVISIÓN Y CONDUCCIÓN HONESTA Y RESPONSABLE DE LA LABOR FUNCIONAL DE LA ENTIDAD.",
+            "objective": "FACILIDADES AL VECINO PARA EL ACCESO A LA INFORMACIÓN DE INTERÉS, REALIZAR EXÁMENES PERIÓDICOS DE AUDITORÍAS, AYUDAR AL TRABAJO DE FISCALIZACIÓN DE LOS REGIDORES Y OTROS CONFORME A LEY.",
+            "goal": "PREVENIR LA CORRUPCIÓN, SUPERVISAR Y CONTROLAR LA ADMINISTRACIÓN, GENERAR CONFIANZA AL VECINO Y MEJORAR LA LA IMAGEN INSTITUCIONAL",
+            "indicator": "50.0%"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-dJGOrQSsp2Zi7uEXmIhERtdiIPFiDoXn",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/dJGOrQSsp2Zi7uEXmIhERtdiIPFiDoXn",
+      "sha256": "f4c90a6c2c1f99b83a4c4b0d3736f9c051897fcfa8c8856f1f5fc5bab091a26c",
+      "accessedAt": "2026-10-02T23:00:33.016Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015355",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015355",
+      "sha256": "b99e88214f84e150f489f095599ec33e2ea4e7ba53dc03390c495aeaf42ac591",
+      "accessedAt": "2026-10-02T23:00:33.502Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

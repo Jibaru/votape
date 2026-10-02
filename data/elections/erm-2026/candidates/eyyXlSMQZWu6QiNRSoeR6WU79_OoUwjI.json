@@ -1,0 +1,232 @@
+{
+  "id": "eyyXlSMQZWu6QiNRSoeR6WU79_OoUwjI",
+  "slug": "heidelberger-willians-davis-suyon-diaz",
+  "electionId": "erm-2026",
+  "name": "Heidelberger Willians Davis Suyon Diaz",
+  "givenNames": "Heidelberger Willians Davis",
+  "surnames": "Suyon Diaz",
+  "age": 34,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:34.654Z",
+      "sourceId": "jne-hv-eyyXlSMQZWu6QiNRSoeR6WU79_OoUwjI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "Bachiller en Contabilidad",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL LURIGANCHO CHOSICA",
+      "role": "FUNCIONARIO",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "COMMUNITY SERVICES EIRL",
+      "role": "GERENTE",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LOS OLIVOS",
+      "role": "FUNCIONARIO",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 72250,
+        "public": 72250,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MOTO PULSAR",
+        "value": 16900
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4e68eff9-3fc3-4bf5-9ba4-17a335f7e74b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/06787bde-d348-4a40-962a-80cc2904e382.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente atención a la salud mental de la comunidad, problemática agudizada por factores como la pandemia y el aislamiento social.",
+            "objective": "Implementar un Centro de Salud Mental Comunitario y servicios de soporte emocional para atender las necesidades de bienestar psicológico de los vecinos.",
+            "goal": "Para el 2030, contar con un Centro de Salud Mental Comunitario en pleno funcionamiento y una línea de soporte emocional consolidada, garantizando el acceso a servicios de salud mental para la población olivense.",
+            "indicator": "Establecimiento de un convenio con el Instituto Nacional de Salud Mental \"Honorio Delgado-Hideyo Noguchi\". Creación de una línea de apoyo emocional con profesionales. Número de talleres y programas de reforzamiento y terapias."
+          },
+          {
+            "problem": "Prevalencia de la anemia infantil que afecta el desarrollo cognitivo y motor de los niños y niñas del distrito.",
+            "objective": "Erradicar y prevenir de manera temprana la anemia infantil en niños de 0 a 5 años y en gestantes, asegurando su adecuado desarrollo integral.",
+            "goal": "Reducir a cero los índices de anemia en la población infantil menor de 5 años y en gestantes del distrito para el año 2030, mediante la ejecución sostenida de un programa integral de intervención sanitaria y nutricional.",
+            "indicator": "Implementación del programa \"Cero Anemia\". Realización de campañas de tamizaje de hemoglobina. Número de capacitaciones a madres y cuidadores sobre alimentación rica en hierro. Entrega de suplementos de hierro y evaluación nutricional mensual."
+          },
+          {
+            "problem": "Deficiente acceso a servicios de salud integrales y falta de cobertura de aseguramiento para un sector importante de la población del distrito.",
+            "objective": "Garantizar el acceso universal a servicios de salud oportunos y de calidad, mediante la implementación de un sistema de atención primaria eficiente y la realización de convenios con entidades públicas y privadas.",
+            "goal": "Al 2030, incrementar significativamente la cobertura de aseguramiento en salud y mejorar el acceso a servicios médicos para todos los vecinos, a través de la gestión de convenios interinstitucionales y la optimización de la oferta de salud municipal.",
+            "indicator": "Número de convenios firmados con el SIS, ESSALUD y otras instituciones de salud. Creación de un Hospital Municipal con tarifas diferenciadas. Porcentaje de la población con acceso a seguro de salud."
+          },
+          {
+            "problem": "Existencia de violencia contra niños, niñas, mujeres y otros grupos vulnerables, lo que atenta contra su integridad y el bienestar ciudadano.",
+            "objective": "Prevenir y combatir la violencia mediante el fortalecimiento de la DEMUNA, la articulación intersectorial y la promoción de conductas saludables en la familia, la escuela y la comunidad.",
+            "goal": "Disminuir los índices de violencia de género e intrafamiliar al 2030, a través del fortalecimiento institucional y la implementación de una estrategia integral de prevención, atención y protección a las víctimas.",
+            "indicator": "Creación de un observatorio contra la violencia. Implementación de un aplicativo móvil para denuncias. Generación de protocolos de protección a víctimas, como la cámara Gessell. Número de talleres y programas de prevención."
+          },
+          {
+            "problem": "Limitado acceso a educación superior, técnica y preuniversitaria de calidad para los jóvenes del distrito, especialmente aquellos de bajos recursos económicos.",
+            "objective": "Garantizar el acceso a la educación superior y técnica, fomentando el desarrollo académico y profesional de los jóvenes olivenses y reduciendo las brechas sociales.",
+            "goal": "Al 2030, establecer y poner en operación un Instituto Tecnológico Municipal y una Academia Municipal que brinden formación de calidad y accesible para los jóvenes del distrito.",
+            "indicator": "Creación de un Instituto Tecnológico Municipal. Creación de una Academia Municipal con costo social. Número de convenios con instituciones educativas para la oferta de becas integrales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desaprovechamiento del potencial turístico, cultural y gastronómico del distrito como polo de desarrollo económico en Lima Norte.",
+            "objective": "Dinamizar la economía local mediante la creación de un corredor turístico, cultural y gastronómico que integre, ponga en valor y promueva los atractivos del distrito.",
+            "goal": "Crear y consolidar el Corredor Turístico, Cultural y Gastronómico de Los Olivos para el año 2030, en articulación con los ministerios competentes, para posicionar al distrito como un nuevo destino en Lima.",
+            "indicator": "Gestión y creación del Corredor Turístico, Cultural y Gastronómico de Los Olivos. Incremento del flujo de visitantes. Número de restaurantes, emprendedores y artesanos beneficiados."
+          },
+          {
+            "problem": "Presencia de comercio informal que genera desorden en el espacio público y competencia desleal, sin ofrecer alternativas viables de formalización.",
+            "objective": "Ordenar y formalizar el comercio en la vía pública, mejorando las condiciones de vida de los comerciantes y garantizando el uso adecuado de los espacios públicos.",
+            "goal": "Para el 2030, haber reubicado y formalizado al comercio ambulatorio en espacios regulados, integrando a los comerciantes en la economía formal del distrito.",
+            "indicator": "Implementación del Plan de Ordenamiento del Comercio en Vía Pública. Empadronamiento de comerciantes informales. Creación de \"Ferias Itinerantes\" con participación de emprendedores locales. Capacitaciones y talleres de formalización."
+          },
+          {
+            "problem": "Falta de espacios y apoyo para el desarrollo y la formalización de los emprendimientos locales, especialmente los liderados por jóvenes.",
+            "objective": "Fomentar la formalización y el crecimiento de las micro, pequeñas y medianas empresas (PYME) del distrito, ofreciendo servicios de asesoramiento y espacios de trabajo colaborativo.",
+            "goal": "Alcanzar la formalización del 8.5% de los emprendedores jóvenes del distrito durante el primer año de gestión, mediante la implementación del Centro de Emprendimiento Municipal.",
+            "indicator": "Creación y funcionamiento del Centro de Emprendimiento Municipal. Número de empresas constituidas con asesoría municipal. Implementación de un espacio de Coworking Municipal."
+          },
+          {
+            "problem": "Dificultades de los jóvenes del distrito para insertarse en el mercado laboral formal debido a la falta de intermediación y oportunidades.",
+            "objective": "Facilitar la inserción laboral de los jóvenes olivenses en empresas competitivas, sirviendo de enlace entre la oferta y la demanda de empleo.",
+            "goal": "Implementar y mantener activa una Bolsa de Trabajo digital y realizar alianzas estratégicas con el sector empresarial para mejorar las oportunidades de empleo de los jóvenes del distrito al 2030.",
+            "indicator": "Implementación de un programa de Bolsa de Trabajo digital. Realización de ferias de bolsas de trabajo periódicas. Número de alianzas estratégicas con empresas públicas y privadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de los residuos sólidos y una baja cultura de segregación en la fuente, lo que genera contaminación y desaprovechamiento de materiales.",
+            "objective": "Impulsar un sistema integral de gestión de residuos sólidos basado en la segregación en la fuente, el reciclaje y la reutilización para promover una economía circular.",
+            "goal": "Al 2030, lograr la implementación de un programa de segregación de residuos en la fuente en todo el distrito, aumentando significativamente la tasa de reciclaje y reaprovechamiento.",
+            "indicator": "Implementación del programa \"Los Olivos Reduce, Recicla y Reutiliza\". Porcentaje de residuos sólidos segregados en la fuente. Número de programas de reciclaje de residuos orgánicos e inorgánicos."
+          },
+          {
+            "problem": "Deterioro y déficit de áreas verdes, así como la ineficiencia de los sistemas de riego, afectando el ornato y la calidad ambiental del distrito.",
+            "objective": "Conservar, ampliar y mejorar el mantenimiento de las áreas verdes del distrito, implementando sistemas de riego tecnificados y sostenibles.",
+            "goal": "Para el 2030, haber mejorado y tecnificado los sistemas de riego de la totalidad de parques y jardines del distrito, asegurando su sostenibilidad y embellecimiento.",
+            "indicator": "Implementación de sistemas de riego automatizado. Porcentaje de áreas verdes con mantenimiento continuo. Elaboración de un plan de forestación de parques con árboles frutales."
+          },
+          {
+            "problem": "Uso de agua potable para el riego de parques y jardines, representando un alto costo y un uso ineficiente de un recurso escaso.",
+            "objective": "Asegurar el abastecimiento hídrico para las áreas verdes mediante la construcción de una planta de tratamiento de aguas residuales, promoviendo el uso racional del agua potable.",
+            "goal": "Construir y poner en operación una Planta de Tratamiento de Aguas Residuales para el 2030, que permita el riego sostenible de los parques y jardines del distrito.",
+            "indicator": "Elaboración y ejecución del proyecto de construcción de una Planta de Tratamiento de Aguas Residuales. Volumen de agua residual tratada y reutilizada para el riego de áreas verdes."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población y la infraestructura del distrito frente a la ocurrencia de desastres de origen natural o inducido por la acción humana.",
+            "objective": "Fortalecer la cultura de prevención y la capacidad de respuesta del distrito ante emergencias y desastres, a fin de disminuir la vulnerabilidad y aumentar la resiliencia.",
+            "goal": "Al 2030, contar con un sistema de gestión del riesgo de desastres fortalecido, con brigadas comunitarias activas, planes operativos actualizados y una red de almacenes de emergencia para proteger a la población.",
+            "indicator": "Formación de brigadistas comunitarios en gestión de riesgo. Aprobación y ejecución de planes de preparación y operaciones de emergencia. Implementación y renovación de almacenes de emergencia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de percepción de inseguridad y una elevada incidencia delictiva que afectan la convivencia pacífica y la calidad de vida de los vecinos.",
+            "objective": "Reducir los índices delictivos y mejorar la seguridad ciudadana a través de una estrategia integral que combine tecnología, mayor presencia de serenos y articulación con la Policía Nacional y la comunidad.",
+            "goal": "Disminuir significativamente la tasa de delitos contra el patrimonio al 2030, mediante la modernización tecnológica del serenazgo y el fortalecimiento del patrullaje integrado y la participación vecinal.",
+            "indicator": "Modernización de la flota vehicular y del sistema de videovigilancia con inteligencia artificial. Creación de una unidad de escuadrón de drones. Incremento del número de serenos. Fortalecimiento de las juntas vecinales."
+          },
+          {
+            "problem": "Procedimientos administrativos municipales lentos, burocráticos y centralizados, que dificultan la atención oportuna y eficiente al ciudadano.",
+            "objective": "Modernizar la gestión municipal mediante la implementación de un gobierno digital, la sistematización de procedimientos y la creación de canales de atención descentralizados.",
+            "goal": "Para el 2030, haber digitalizado y sistematizado los principales procedimientos administrativos, reduciendo los tiempos de respuesta y mejorando la calidad de la atención al vecino.",
+            "indicator": "Implementación de un Plan de Gobierno Municipal Digital. Creación de una aplicación móvil para trámites municipales. Implementación de una estrategia de datos abiertos (Open Data)."
+          },
+          {
+            "problem": "Limitada transparencia en la gestión municipal y escasos espacios para la participación ciudadana efectiva en la toma de decisiones.",
+            "objective": "Fomentar una cultura de gobierno abierto, fortaleciendo la transparencia, la rendición de cuentas y la participación ciudadana en los asuntos públicos del distrito.",
+            "goal": "Implementar una iniciativa de gobernanza participativa para el 2030, que garantice la transparencia de la gestión y promueva la participación activa de la ciudadanía en las decisiones locales.",
+            "indicator": "Transmisión en vivo de las sesiones de concejo y del CODISEC. Mantenimiento actualizado del portal de transparencia. Implementación de cabildos abiertos. Creación del programa \"Un día con tu alcalde\"."
+          },
+          {
+            "problem": "Congestión vehicular, desorden en el transporte público y falta de seguridad vial en las principales arterias del distrito.",
+            "objective": "Desarrollar una gestión de tránsito eficiente y segura que mejore la fluidez vehicular, ordene el transporte público y proteja la integridad de peatones y conductores.",
+            "goal": "Mejorar la gestión del tránsito y la seguridad vial en el distrito para el 2030, a través de la modernización de la infraestructura vial y una fiscalización efectiva del transporte.",
+            "indicator": "Implementación de un sistema inteligente de semaforización. Reordenamiento y señalización de vías. Fiscalización para la eliminación de paraderos informales en coordinación con la ATU. Implementación de una norma de velocidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-eyyXlSMQZWu6QiNRSoeR6WU79_OoUwjI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/eyyXlSMQZWu6QiNRSoeR6WU79_OoUwjI",
+      "sha256": "90ca245c975be5a92e1f7df6488327c5eb26525184b86c978138e0ccf793be12",
+      "accessedAt": "2026-10-02T22:58:34.654Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018225",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018225",
+      "sha256": "31a306dfcd6a24f61845f050957e5c70281b224ea59113dd6980795daee455fc",
+      "accessedAt": "2026-10-02T22:58:35.371Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

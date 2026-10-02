@@ -1,0 +1,148 @@
+{
+  "id": "TS4j99YKHvm390yf8t3qwdQt2Tpck_ty",
+  "slug": "virginia-sandy-meza-pucho",
+  "electionId": "erm-2026",
+  "name": "Virginia Sandy Meza Pucho",
+  "givenNames": "Virginia Sandy",
+  "surnames": "Meza Pucho",
+  "age": 37,
+  "gender": "Femenino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:13.883Z",
+      "sourceId": "jne-hv-TS4j99YKHvm390yf8t3qwdQt2Tpck_ty"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "BACHILLER UNIVERSITARIO EN CIENCIAS DE LA EDUCACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO CIVICO OBRAS",
+      "from": "2022",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "SECRETARÍA NACIONAL DE JUVENTUDES",
+      "party": "PARTIDO CIVICO OBRAS",
+      "from": "2022",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/85d6d70c-5696-4df8-9479-23989e3ddad9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1ae8df07-ad55-4f36-8f09-8707f1cc94c4.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, alcanzando un 92.8%.",
+            "objective": "OEI.02: Disminuir la inseguridad ciudadana.",
+            "goal": "Reducir la victimización a menos del 15%.",
+            "indicator": "Porcentaje de población víctima de eventos delictivos."
+          },
+          {
+            "problem": "Brecha en servicios básicos, con un 22.2% de la población con Necesidades Básicas Insatisfechas (NBI).",
+            "objective": "OEI.06: Promover la protección social de grupos vulnerables.",
+            "goal": "Cobertura del 100% en programas de asistencia social.",
+            "indicator": "Porcentaje de población vulnerable con acceso a programas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Demoras en la formalización, con un tiempo de entrega de licencias de 10 días.",
+            "objective": "OEI.01: Promover el desarrollo de actividades económicas y la competitividad de las MYPES.",
+            "goal": "Capacitar a 5,000 emprendedores anualmente y reducir la emisión de licencias a 24 horas.",
+            "indicator": "Número de micro y pequeños empresarios capacitados en gestión."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Elevada vulnerabilidad ante desastres, afectando al 90.63% de la población.",
+            "objective": "OEI.08: Reducir el riesgo de desastres.",
+            "goal": "Reducir la vulnerabilidad física al 30%.",
+            "indicator": "Porcentaje de población en condición de vulnerabilidad."
+          },
+          {
+            "problem": "Deficiencia en la limpieza de espacios públicos.",
+            "objective": "OEI.04: Mejorar la gestión ambiental y la limpieza pública.",
+            "goal": "Lograr el 100% de cobertura de barrido y recolección diaria.",
+            "indicator": "Porcentaje de espacios públicos con servicio de limpieza."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la fiscalización y la ejecución presupuestal.",
+            "objective": "OEI.09: Fortalecer la gestión institucional y el servicio al ciudadano.",
+            "goal": "Alcanzar una ejecución superior al 95% e implementar un 'Municipio Digital' para trámites 100% virtuales.",
+            "indicator": "Porcentaje de ejecución presupuestal anual y número de fiscalizaciones realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-TS4j99YKHvm390yf8t3qwdQt2Tpck_ty",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/TS4j99YKHvm390yf8t3qwdQt2Tpck_ty",
+      "sha256": "0a890bb970dc47b550bd80e15f709baaa2e0f8a8ec8bba1d3884681c21aa20e6",
+      "accessedAt": "2026-10-02T23:01:13.883Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019622",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019622",
+      "sha256": "b93adf4313b4c15744c0b4e0ce8e8f8ca15b6b3de9fb2e68e15cc1b6a3f8e86c",
+      "accessedAt": "2026-10-02T23:01:14.391Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

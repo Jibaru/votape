@@ -1,0 +1,359 @@
+{
+  "id": "oxAYuQXpJpUHcmymwAYpb6F4YYmvymjp",
+  "slug": "jean-pool-granados-lazo",
+  "electionId": "erm-2026",
+  "name": "Jean Pool Granados Lazo",
+  "givenNames": "Jean Pool",
+  "surnames": "Granados Lazo",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:27.759Z",
+      "sourceId": "jne-hv-oxAYuQXpJpUHcmymwAYpb6F4YYmvymjp"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "TECCEN",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "TEXCEN S.A.C.",
+      "role": "GERENTE",
+      "from": "2014",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "VAMOS PERU",
+      "year": "2020"
+    },
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 102442,
+        "public": 0,
+        "private": 102442
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 9270,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 9270,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10476.13,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 9270,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "BLANCO",
+        "value": 94762.5
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "TEXCEN S.A.C",
+        "type": "ACCIONES",
+        "quantity": 1998,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "EMPRESA TEXCEN S.A.C COMO PERSONA JUDIRICA RUC: 20563598345 DECLARACIÓN ANUAL AÑO :2025 VENTAS NETA Y INGRESOS: 983,096 SOLES, SEGUN DECLARACIÓN JURADA ANTE SUNARP N° 1160789766",
+    "EMPRESAS QUE ESTAN INACTIVAS CON NUMERO DE PARTIDAS: PARTIDA N° 01795899 PARTIDA N° 12334001 PARTIDA N° 13997815 PARTIDA N° 11931235",
+    "NOMBRE DEL CENTRO DE ESTUDIOS: CHARLES CHAPLIN CARRERA: COMUNICACIÓN AUDIOVISUAL CONCLUIDO: SÍ CON FECHA: 04 DE JUNIO 2024 CODIGO: J26202402806",
+    "ASOCIACION EDUCATIVA LOS ANGELES DE CRISTO SIN FIN DE LUCRO PARTIDA N° 13997815 EL CUAL SOY EL PRESIDENTE DEL CONSEJO DIRECTIVO",
+    "LOS SIGUENTES PROCESOS JUDICIALES SE ENCUENTRAN TERMINADOS: EXPEDIENTE N°: 508010141-2014-123-0 EXPEDIENTE N°: 508010144-2011-184-0"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/70adf879-0891-429d-b2da-9a452276c6c1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/80749662-da9e-40e0-a75e-a0b5324b2614.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta delincuencia, robos, extorsión y una elevada percepción de inseguridad en el distrito.",
+            "objective": "Reducir la percepción de inseguridad al 50% para el año 2030 y fortalecer la seguridad ciudadana mediante una acción articulada entre la municipalidad, la Policía Nacional y la comunidad.",
+            "goal": "Integrar el 100% de los sectores del distrito al Sistema de Seguridad Ciudadana Integral y Tecnológica (SISECIT).",
+            "indicator": "Número de sectores integrados al sistema de seguridad y porcentaje de cobertura territorial."
+          },
+          {
+            "problem": "Baja calidad educativa, falta de oportunidades para los jóvenes, deserción escolar y riesgo social.",
+            "objective": "Reducir la deserción escolar en un 30% y promover la inclusión social y la igualdad de oportunidades mediante programas orientados al fortalecimiento de la educación y la cultura.",
+            "goal": "Beneficiar a 5,000 jóvenes a través de la Academia Pre Militar y Pre Universitaria.",
+            "indicator": "Número de jóvenes matriculados en la Academia Pre Militar y Pre Universitaria."
+          },
+          {
+            "problem": "Débil cultura preventiva en salud y limitada atención sanitaria.",
+            "objective": "Fortalecer la salud preventiva y los servicios municipales de salud.",
+            "goal": "100,000 beneficiarios en programas de salud.",
+            "indicator": "Vecinos beneficiados."
+          },
+          {
+            "problem": "Violencia familiar, discriminación y exclusión social.",
+            "objective": "Promover igualdad de oportunidades y protección de poblaciones vulnerables.",
+            "goal": "50,000 beneficiarios.",
+            "indicator": "Beneficiarios de programas sociales."
+          },
+          {
+            "problem": "Baja calidad educativa y pocas oportunidades para jóvenes.",
+            "objective": "Fortalecer programas educativos, tecnológicos y de formación para el trabajo.",
+            "goal": "10,000 jóvenes capacitados.",
+            "indicator": "Jóvenes beneficiados."
+          },
+          {
+            "problem": "Incremento de violencia familiar, pandillaje, drogas y alcoholismo.",
+            "objective": "Implementar programas preventivos y de atención integral a población vulnerable.",
+            "goal": "100 campañas desarrolladas y 50,000 beneficiarios.",
+            "indicator": "Número de campaña y beneficiarios."
+          },
+          {
+            "problem": "Débil articulación entre Serenazgo, PNP y juntas vecinales.",
+            "objective": "Fortalecer la coordinación operativa entre municipalidad, PNP y comunidad organizada.",
+            "goal": "Cobertura del 100% del territorio distrital.",
+            "indicator": "Sectores cubiertos por patrullaje integrado."
+          },
+          {
+            "problem": "Alta delincuencia, robos, extorsión y percepción de inseguridad.",
+            "objective": "Implementar un sistema integral de seguridad ciudadana con tecnología, patrullaje integrado y participación vecinal.",
+            "goal": "Reducir la percepción de inseguridad al 50%.",
+            "indicator": "Percepción de inseguridad ciudadana."
+          },
+          {
+            "problem": "Desnutrición infantil, débil acceso a servicios de salud de calidad y falta de cultura preventiva.",
+            "objective": "Promover programas de salud preventiva, fomentar hábitos de vida saludables y llevar servicios de atención directamente a los barrios, especialmente a las zonas más vulnerables.",
+            "goal": "Beneficiar a 50,000 vecinos con campañas de prevención en salud mental.",
+            "indicator": "Número de personas sensibilizadas y atendidas en campañas de prevención de salud mental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado acceso de la población a alimentos nutritivos, seguros y de bajo costo.",
+            "objective": "Fortalecer la seguridad alimentaria del distrito mediante infraestructura moderna de abastecimiento y comercialización de alimentos.",
+            "goal": "01 Terminal Pesquero Municipal operando y atendiendo a más de 10,000 familias por mes y 01 Camal Municipal funcionando con certificaciones sanitarias y abasteciendo al mercado local.",
+            "indicator": "Infraestructuras de abastecimiento alimentario implementadas."
+          },
+          {
+            "problem": "Mano de obra poco calificada, con un alto nivel de subempleo y desempleo en jóvenes y mujeres.",
+            "objective": "Generar más de 30,000 empleos y lograr la inserción laboral de la población, con especial énfasis en jóvenes y mujeres.",
+            "goal": "Lograr la inserción laboral de 15,000 jóvenes y mujeres durante la gestión municipal.",
+            "indicator": "Número de personas insertadas laboralmente a través de la bolsa de trabajo municipal."
+          },
+          {
+            "problem": "Escasa promoción y acompañamiento a emprendedores, con dificultades para su formalización y crecimiento.",
+            "objective": "Fortalecer el espíritu emprendedor, impulsando la formalización de negocios, facilitando el acceso a financiamiento y promoviendo la generación de empleo digno.",
+            "goal": "Implementar al menos 10 redes empresariales articuladas a mercados regionales y nacionales.",
+            "indicator": "Número de redes empresariales conformadas."
+          },
+          {
+            "problem": "Baja competitividad en la producción y servicios, con una actividad económica poco articulada.",
+            "objective": "Incrementar en un 30% la formalización comercial e impulsar el desarrollo económico local promoviendo el emprendimiento, la innovación y la capacitación para el empleo.",
+            "goal": "Capacitar a 5,000 emprendedores, empresarios y trabajadores en gestión empresarial y acceso a mercados.",
+            "indicator": "Número de participantes capacitados en la Escuela de Empresarios."
+          },
+          {
+            "problem": "Débil apoyo al emprendimiento y acceso a financiamiento.",
+            "objective": "Implementar programas para emprendedores, mujeres y jóvenes empresarios.",
+            "goal": "5,000 emprendedores beneficiados.",
+            "indicator": "Emprendedores beneficiados."
+          },
+          {
+            "problem": "Escasa formalización y competitividad empresarial.",
+            "objective": "Impulsar la formalización, simplificación administrativa y fortalecimiento empresarial.",
+            "goal": "Incrementar formalización comercial en 30%.",
+            "indicator": "Comercios formalizados."
+          },
+          {
+            "problem": "Alto desempleo y subempleo en jóvenes y mujeres.",
+            "objective": "Promover capacitación laboral, empleabilidad y bolsa de trabajo municipal.",
+            "goal": "30,000 empleos generados o facilitados.",
+            "indicator": "Personas insertadas laboralmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes y deterioro ambiental.",
+            "objective": "Recuperar áreas verdes y promover una ciudad sostenible.",
+            "goal": "100,000 árboles plantados.",
+            "indicator": "Árboles plantados."
+          },
+          {
+            "problem": "Deficiente limpieza pública y manejo de residuos sólidos.",
+            "objective": "Modernizar la gestión de residuos sólidos y promover el reciclaje.",
+            "goal": "100% de cobertura distrital.",
+            "indicator": "Cobertura del servicio de limpieza pública."
+          },
+          {
+            "problem": "Sistema de recolección de residuos deficiente y manejo inadecuado de los mismos desde el origen.",
+            "objective": "Alcanzar el 100% de cobertura de limpieza pública en el distrito y mejorar el manejo sostenible de residuos.",
+            "goal": "Lograr el 100% de cobertura y la eliminación del 90% de los puntos críticos de acumulación de residuos.",
+            "indicator": "Cobertura del servicio de recojo de residuos sólidos y reducción de puntos críticos."
+          },
+          {
+            "problem": "Contaminación del río Chillón e invasión de terrenos en las Lomas de Collique, un ecosistema frágil.",
+            "objective": "Recuperar los ecosistemas del río Chillón y las Lomas de Collique, protegiendo el medio ambiente.",
+            "goal": "Lograr la conservación integral de Las Lomas de Collique y aumentar el flujo turístico en un 50%.",
+            "indicator": "Plan de Acción Ambiental de Las Lomas de Collique ejecutado."
+          },
+          {
+            "problem": "Bajo nivel de áreas verdes por habitante y déficit de espacios públicos saludables.",
+            "objective": "Incrementar la disponibilidad de áreas verdes en el distrito para mejorar la calidad de vida de la población.",
+            "goal": "Plantar 100,000 árboles en el distrito.",
+            "indicator": "Número de árboles plantados a través del programa Comas Verde."
+          },
+          {
+            "problem": "Deterioro y déficit de parques, áreas verdes y espacios públicos para la recreación y convivencia ciudadana.",
+            "objective": "Incrementar y mejorar la infraestructura recreativa y las áreas verdes del distrito.",
+            "goal": "Recuperar, crear o remodelar 150 parques distritales.",
+            "indicator": "Número de parques y espacios públicos intervenidos."
+          },
+          {
+            "problem": "Deficiente infraestructura vial y accesibilidad.",
+            "objective": "Mejorar pistas, veredas, escaleras y conectividad urbana.",
+            "goal": "100 km de infraestructura vial mejorada.",
+            "indicator": "Kilómetros de vías mejoradas."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y ocupación informal del territorio.",
+            "objective": "Implementar instrumentos de planificación territorial y catastro urbano.",
+            "goal": "100% del territorio urbano catastrado.",
+            "indicator": "Cobertura catastral."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Insuficientes recursos municipales y limitaciones presupuestales para atender las demandas de la población.",
+            "objective": "Mejorar la recaudación municipal, optimizar el uso de los recursos y generar nuevas fuentes de financiamiento para la municipalidad.",
+            "goal": "Incrementar en un 40% la cultura de cumplimiento tributario entre los contribuyentes.",
+            "indicator": "Número de campañas realizadas y contribuyentes alcanzados por el programa de cultura tributaria."
+          },
+          {
+            "problem": "Débil participación ciudadana, con mecanismos de concertación poco efectivos y desgaste en las dirigencias sociales.",
+            "objective": "Incrementar la participación ciudadana en un 50% y fortalecerla mediante mecanismos permanentes de diálogo, concertación y vigilancia.",
+            "goal": "Capacitar a 5,000 líderes vecinales, sociales y juveniles.",
+            "indicator": "Número de dirigentes y líderes capacitados por la Escuela para Líderes."
+          },
+          {
+            "problem": "Débil transparencia y control institucional.",
+            "objective": "Fortalecer la transparencia, el control interno y la rendición de cuentas.",
+            "goal": "100% de áreas municipales modernizadas.",
+            "indicator": "Instrumentos de gestión implementados."
+          },
+          {
+            "problem": "Municipalidad desactualizada, sin modernización ni simplificación administrativa, lo que resulta en servicios deficientes al ciudadano.",
+            "objective": "Lograr que el 80% de los trámites municipales estén disponibles en línea y modernizar la gestión mediante la transformación digital y la simplificación de trámites.",
+            "goal": "Alcanzar el 80% de trámites municipales disponibles en línea.",
+            "indicator": "Porcentaje de servicios digitalizados disponibles para la ciudadanía."
+          },
+          {
+            "problem": "Baja calidad en la atención al ciudadano.",
+            "objective": "Implementar plataformas de atención moderna y gestión por resultados.",
+            "goal": "Reducir tiempos de atención en 70%.",
+            "indicator": "Tiempo promedio de atención."
+          },
+          {
+            "problem": "Organizaciones sociales debilitadas.",
+            "objective": "Capacitar y fortalecer organizaciones sociales y vecinales.",
+            "goal": "80% de organizaciones fortalecidas.",
+            "indicator": "Organizaciones fortalecidas."
+          },
+          {
+            "problem": "Déficit de liderazgo comunitario y juvenil.",
+            "objective": "Implementar la Escuela para Líderes y programas de formación ciudadana.",
+            "goal": "5,000 líderes formados.",
+            "indicator": "Líderes capacitados."
+          },
+          {
+            "problem": "Trámites lentos y burocráticos.",
+            "objective": "Modernizar la gestión municipal mediante gobierno digital y simplificación administrativa.",
+            "goal": "80% de trámites digitalizados.",
+            "indicator": "Trámites disponibles en línea."
+          },
+          {
+            "problem": "Débil participación ciudadana en la gestión local.",
+            "objective": "Fortalecer mecanismos de concertación y vigilancia ciudadana.",
+            "goal": "Incrementar participación en 50%.",
+            "indicator": "Participación ciudadana en espacios de gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-oxAYuQXpJpUHcmymwAYpb6F4YYmvymjp",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/oxAYuQXpJpUHcmymwAYpb6F4YYmvymjp",
+      "sha256": "493cadc7bc1423aa7839cbce90e3419b3c30b8e5b55986256febc66143ad8bc5",
+      "accessedAt": "2026-10-02T22:55:27.759Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016309",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016309",
+      "sha256": "3e5c1475774197c2c47bad03fec6327cc5d858e199686ca0e63e84f49277a945",
+      "accessedAt": "2026-10-02T22:55:28.335Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "id": "1b4pvxyc6zJcQNGQp5doIM1eX158DFP0",
+  "slug": "francis-james-allison-oyague",
+  "electionId": "erm-2026",
+  "name": "Francis James Allison Oyague",
+  "givenNames": "Francis James",
+  "surnames": "Allison Oyague",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:14.543Z",
+      "sourceId": "jne-hv-1b4pvxyc6zJcQNGQp5doIM1eX158DFP0"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD ALAS PERUANAS SA",
+        "program": "DOCTOR EN DERECHO",
+        "completed": true,
+        "degree": "Doctor",
+        "year": "2014"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD ALAS PERUANAS SA",
+        "program": "MAESTRO EN DERECHO EN CIENCIAS PENALES",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2013"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "INSTITUTO DE GOBIERNO Y DE GESTIÓN PÚBLICA UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "DOCTORADO EN GOBIERNO Y POLITICA PÚBLICA",
+        "completed": true,
+        "degree": "EGRESADO",
+        "year": "2016"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR",
+      "role": "ALCALDE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "ALLISON ABOGADOS ASOCIADOS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2008",
+      "to": "2023"
+    },
+    {
+      "employer": "MUNICIPALIDA DISTRITAL DE MAGDALENA DEL MAR",
+      "role": "ALCALDE",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "MAGDALENA AVANZA",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO PROVINCIAL LIMA CERCADO",
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2004",
+      "to": "2005"
+    },
+    {
+      "position": "PRESIDENTE DEL COMITÉ ELECTORAL NACIONAL",
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2005",
+      "to": "2005"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 123618.44,
+        "public": 123618.44,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 479623.32,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 13419.02,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "STATION WAGON TOYOTA DEL AÑO 1992",
+        "value": 6000
+      },
+      {
+        "type": "EMBARCACIÓN TIPO BALLOTA DE FIBRA DE VIDRIO USADA DE 16\"",
+        "value": 20280
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ALLISON ABOGADOS Y ASESORES SAC",
+        "type": "ACCIONES",
+        "quantity": 999,
+        "value": 999
+      },
+      {
+        "company": "ALLISON ABOGADOS ASOCIADOS SAC",
+        "type": "ACCIONES",
+        "quantity": 885702,
+        "value": 885702
+      },
+      {
+        "company": "EMPRESA PUCARÁ AF CONTRATISTAS SAC",
+        "type": "ACCIONES",
+        "quantity": 999,
+        "value": 999
+      },
+      {
+        "company": "SOLUCIONES AMBIENTALES VALLE VERDE SAC",
+        "type": "ACCIONES",
+        "quantity": 999,
+        "value": 999
+      },
+      {
+        "company": "SPOT INVERSIONES SAC",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 500
+      },
+      {
+        "company": "ALLISON PRODUCCIONES SAC",
+        "type": "ACCIONES",
+        "quantity": 99,
+        "value": 990
+      },
+      {
+        "company": "ARMONIA PRODUCCIONES SAC",
+        "type": "ACCIONES",
+        "quantity": 99,
+        "value": 990
+      }
+    ]
+  },
+  "additionalInfo": [
+    "MUEBLES Y EQUIPOS DE OFICINA DE CAOBA Y OTROS VALORIZADOS EN S/ 70000 SOLES - SOCIEDAD CONYUGAL.",
+    "NO HE DECLARADO RENTA DE ACCIONES DE EMPRESAS PORQUE NO HAN GENERADO UTILIDADES.",
+    "OBJETOS DE ARTE: 04 ÓLEOS Y UNA ESCULTURA VALORIZADOS EN DOCE MIL DÓLARES (TIPO DE CAMBIO SUNAT S/ 3.38 AL 19.06.2026) CUYO DETALLE ES: 1) ÓLEO SOBRE LIENZO DEL ARTISTA JOSÉ TOLA. 2) ÓLERO SOBRE LIENZO DEL PINTOR CARLOS REVILLA. 3) ÓLEO SOBRE LIENZO DEL PINTOR DAVID HERSKOVIZ. 4) ÓLEO SOBRE LIENZO DEL PINTOR VENANCIO SHINKI. 5) ESCULTURA DEL ARTISTA JOSÉ TOLA - SOCIEDAD CONYUGAL",
+    "OBJETOS DE ARTE: PINTURAS DE LA ESCUELA CUZQUEÑA - LIMA VALORIZADAS EN S/ 55 000 SOLES - SOCIEDAD CONYUGAL",
+    "ARMA: PISTOLA MARCA RUGGER MODELO LCP - CALIBRE 380 AUTO VALORIZADA EN S/ 1995.00 SOLES.",
+    "EN LA EMPRESA ALLISON ABOGADOS Y ASESORES SAC (EMPRESA SIN MOVIMIENTO EN SU OBJETO SOCIAL TRIBUTARIO) TENGO LA CONDICIÓN DE GERENTE GENERAL. EN LA EMPRESA SOLUCIONES AMBIENTALES VALLE VERDE SAC (EMPRESA SIN MOVIMIENTO EN SU OBJETO SOCIAL TRIBUTARIO) TENGO LA CONDICIÓN DE GERENTE GENERAL. EN LA EMPRESA ALLISON PRODUCCIONES SAC (EMPRESA SIN MOVIMIENTO EN SU OBJETO SOCIAL TRIBUTARIO TENGO LA CONDICIÓN DE GERENTE GENERAL).",
+    "PINTURAS: 03 OLEOS VALORIZADOS EN $ 15000 (TIPO DE CAMBIO SUNAT DEL 19.06.2026 A S/ 3.38) CUYO DETALLE ES: 1) ÓLEO SOBRE LIENZO DEL ARTISTA VENANCIO SHINKI. 2) ÓLEO SOBRE LIENZO DEL ARTISTA GERARDO CHAVEZ. 3) OLEO SOBRE LIENZO DEL ARTISTA GERARDO CHAVEZ - SOCIEDAD CONYUGAL.",
+    "JOYAS DE ORO VALORIZADAS EN S/ 35000 SOLES.",
+    "ARMAS - GLOCK MODELO 25 CALIBRE 3.80 ACP CUYO VALOS ES DE S/ 2352.00 SOLES.",
+    "MUEBLES ANTIGUEDADES VALORIZADOS EN S/ 70000 SOLES - SOCIEDAD CONYUGAL.",
+    "En el año 2008 renuncié a la organización política Renovación Popular, antes Partido Político Solidaridad Nacional.",
+    "EN JULIO DEL AÑO 2025 SE CREÓ LA ASOCIACIÓN INSTITUTO LEY Y ORDEN, DESIGNANDOME COMO PRESIDENTE DE LA MISMA, RENUNCIANDO A DICHO CARGO EL 11 DE JUNIO DE 2026 EN PROCESO DE INSCRIPCION EN LOS REGISTROS PÚBLICOS (TÍTULO N° 226-1943361)",
+    "EN EL AÑO 2024, EL PARTIDO ALIANZA PARA EL PROGRESO A TRAVÉS DEL SECRETARIO NACIONAL EJECUTIVO Y DEL SECRETARIO NACIONAL TERRITORIAL, ME ENCOMENDÓ LA RESPONSABILIDAD POLÍTICA DE LIMA METROPOLITANA, LO DECLARO POR TRANSPARENCIA.",
+    "EN EL AÑO 2020 SE EMITIÓ LA RESOLUCIÓN DE ALCALDÍA N° 438-2020/MDSM DE FECHA 15.09.2020, MEDIANTE LA CUAL SE ME DESIGNÓ COMO ASESOR AD HONOREM DE LA ALTA DIRECCIÓN DE LA MUNICIPALIDAD DISTRITAL DE SAN MIGUEL, NO EXISTIENDO VINCULO LABORAL ALGUNO, LO DECLARO POR TRANSPARENCIA.",
+    "ARMA GLOCK MODELO 19GEN5 CALIBRE 9X19MM VALORIZADA EN S/ 3600.00 SOLES",
+    "MI ESPOSA CARLA ROBBIANO MONTES DE ALLISON, HA SIDO DECLARADA HEREDERA DE SU PADRE, CONFORME LA SUCESIÓN INTESTADA INSCRITA EN REGISTROS PÚBLICOS, SE DECLARA SÓLO POR TRANSPARENCIA."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6363dca0-efe7-4057-93c2-b57829888833.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0c095312-669d-4f69-85d9-4906146b3471.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Fragmentación y limitada capacidad operativa del serenazgo metropolitano.",
+            "objective": "Modernizar y profesionalizar el serenazgo metropolitano.",
+            "goal": "Capacitar y certificar a 10 mil serenos metropolitanos.",
+            "indicator": "Número de serenos capacitados; equipamiento adquirido."
+          },
+          {
+            "problem": "Deficiente iluminación y deterioro de espacios públicos que afectan la seguridad ciudadana.",
+            "objective": "Recuperar espacios públicos y fortalecer la iluminación urbana.",
+            "goal": "Instalar 10 mil luminarias LED e intervenir 500 espacios públicos.",
+            "indicator": "Número de espacios recuperados; luminarias instaladas."
+          },
+          {
+            "problem": "Alta incidencia delictiva en puntos críticos de la ciudad.",
+            "objective": "Fortalecer la capacidad preventiva y la recuperación territorial.",
+            "goal": "Ejecutar 2,000 megaoperativos preventivos e intervenir 500 puntos críticos.",
+            "indicator": "Número de megaoperativos ejecutados; puntos críticos intervenidos."
+          },
+          {
+            "problem": "Expansión de mercados ilegales y economías criminales.",
+            "objective": "Recuperar el control urbano y eliminar los mercados ilegales.",
+            "goal": "Desarticular 20 mercados ilegales y ejecutar 1,000 operativos conjuntos.",
+            "indicator": "Número de mercados intervenidos; operativos ejecutados."
+          },
+          {
+            "problem": "Incremento de homicidios y casos de sicariato.",
+            "objective": "Fortalecer la colaboración ciudadana contra la violencia organizada.",
+            "goal": "Implementar un programa metropolitano de recompensas y activar 500 alertas priorizadas.",
+            "indicator": "Número de recompensas activadas; información útil recibida."
+          },
+          {
+            "problem": "Débil prevención social del delito en jóvenes.",
+            "objective": "Fortalecer programas preventivos y comunitarios.",
+            "goal": "Implementar 300 intervenciones deportivas y culturales y beneficiar a 500 mil jóvenes.",
+            "indicator": "Número de programas implementados; jóvenes beneficiados."
+          },
+          {
+            "problem": "La anemia infantil continúa afectando a niños en sectores vulnerables.",
+            "objective": "Reducir la anemia y la malnutrición infantil.",
+            "goal": "Realizar 2 millones de tamizajes y reducir en un 15% la anemia infantil en zonas priorizadas.",
+            "indicator": "Número de tamizajes realizados; niños atendidos."
+          },
+          {
+            "problem": "Tiempos excesivos de desplazamiento debido a la congestión crónica y baja integración del sistema de transporte público.",
+            "objective": "Fortalecer un sistema integrado de movilidad urbana que reduzca los tiempos de viaje y mejore la conectividad metropolitana.",
+            "goal": "Reducir en un 15% el tiempo promedio de viaje en corredores priorizados e implementar 5 nodos metropolitanos de integración modal al 2030.",
+            "indicator": "Tiempo promedio de viaje urbano, porcentaje de integración modal y número de nodos de intercambio implementados."
+          },
+          {
+            "problem": "Débil capacidad de atención primaria y saturación de hospitales.",
+            "objective": "Implementar la Red Primaria Metropolitana de Salud mediante módulos descentralizados de atención.",
+            "goal": "Implementar 10 módulos.",
+            "indicator": "Número de Módulos Metropolitanos de Salud implementados y operativos."
+          },
+          {
+            "problem": "Brechas territoriales de acceso a servicios de salud en zonas periféricas.",
+            "objective": "Acercar los servicios preventivos y la atención básica a los barrios.",
+            "goal": "Acumular 500 mil atenciones.",
+            "indicator": "Número de atenciones brindadas en la Red Primaria Metropolitana."
+          },
+          {
+            "problem": "Persistencia de brechas tecnológicas en instituciones educativas públicas.",
+            "objective": "Fortalecer la modernización y el equipamiento tecnológico escolar.",
+            "goal": "Equipar 150 colegios emblemáticos y priorizados con pizarras electrónicas y herramientas digitales.",
+            "indicator": "Número de colegios equipados con tecnología educativa."
+          },
+          {
+            "problem": "Desigualdades en el acceso a herramientas digitales y conectividad educativa.",
+            "objective": "Fortalecer el acceso tecnológico y la conectividad para estudiantes de sectores vulnerables.",
+            "goal": "Implementar 500 espacios de conectividad educativa y beneficiar a 300 mil estudiantes con acceso tecnológico complementario.",
+            "indicator": "Número de espacios conectados; estudiantes beneficiados; programas tecnológicos implementados."
+          },
+          {
+            "problem": "Altos niveles de pobreza e inseguridad alimentaria.",
+            "objective": "Fortalecer las redes alimentarias y el apoyo comunitario.",
+            "goal": "Fortalecer 1,000 ollas comunes, comedores y programas alimentarios, beneficiando a 1 millón de ciudadanos.",
+            "indicator": "Número de organizaciones fortalecidas; personas beneficiadas."
+          },
+          {
+            "problem": "Persistencia de la violencia contra la mujer.",
+            "objective": "Fortalecer la prevención y atención frente a la violencia de género.",
+            "goal": "Implementar 1,000 campañas preventivas y brindar atención a 300 mil mujeres.",
+            "indicator": "Número de campañas implementadas; mujeres atendidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja productividad y limitada capacidad de crecimiento de las MYPE.",
+            "objective": "Fortalecer la competitividad y formalización de las MYPE.",
+            "goal": "Beneficiar a 200 mil MYPE mediante programas de capacitación, asistencia y formalización.",
+            "indicator": "Número de empresas capacitadas; emprendedores beneficiados."
+          },
+          {
+            "problem": "Persistencia de barreras burocráticas para la formalización y el desarrollo empresarial.",
+            "objective": "Simplificar y digitalizar los trámites económicos metropolitanos.",
+            "goal": "Digitalizar el 100% de los trámites económicos metropolitanos y reducir en un 70% los tiempos de atención.",
+            "indicator": "Número de trámites digitalizados; tiempo promedio de atención."
+          },
+          {
+            "problem": "El comercio ambulatorio genera desorden y ocupación inadecuada del espacio público.",
+            "objective": "Ordenar y formalizar progresivamente el comercio ambulatorio.",
+            "goal": "Empadronar a 100 mil comerciantes y formalizar progresivamente a 40 mil trabajadores ambulantes.",
+            "indicator": "Número de comerciantes empadronados y formalizados."
+          },
+          {
+            "problem": "La gastronomía local presenta una limitada articulación con el turismo urbano.",
+            "objective": "Fortalecer el turismo gastronómico y la economía local.",
+            "goal": "Implementar 50 corredores gastronómicos y realizar 1,000 ferias y festivales culinarios.",
+            "indicator": "Número de corredores y ferias gastronómicas implementadas."
+          },
+          {
+            "problem": "Limitada integración digital de servicios e información turística.",
+            "objective": "Modernizar la experiencia turística mediante plataformas digitales.",
+            "goal": "Implementar una plataforma metropolitana de turismo digital y alcanzar 5 millones de usuarios.",
+            "indicator": "Plataforma implementada; usuarios atendidos digitalmente."
+          },
+          {
+            "problem": "Persistencia de problemas de inseguridad y deterioro urbano en zonas turísticas.",
+            "objective": "Fortalecer corredores turísticos seguros y competitivos.",
+            "goal": "Implementar 25 corredores turísticos seguros en Lima Metropolitana.",
+            "indicator": "Número de corredores turísticos intervenidos; visitantes beneficiados."
+          },
+          {
+            "problem": "Limitada articulación entre turismo, comercio y desarrollo urbano.",
+            "objective": "Fortalecer la economía local y el turismo urbano.",
+            "goal": "Modernizar 50 mercados de abasto y desarrollar 500 ferias y circuitos turísticos y gastronómicos.",
+            "indicator": "Número de ferias, circuitos y mercados modernizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Limitada cobertura vegetal y deterioro de ecosistemas urbanos.",
+            "objective": "Fortalecer la recuperación ecológica y la ampliación de áreas verdes.",
+            "goal": "Plantar 500 mil árboles y recuperar 2,000 hectáreas de espacios verdes y ecosistemas urbanos.",
+            "indicator": "Número de árboles plantados; hectáreas recuperadas."
+          },
+          {
+            "problem": "Uso ineficiente del agua para el riego urbano.",
+            "objective": "Fortalecer el reúso hídrico y la sostenibilidad del recurso agua.",
+            "goal": "Recuperar y poner en operación 10 PTAR metropolitanas e incrementar en un 50% el reúso de agua tratada para riego.",
+            "indicator": "Número de PTAR recuperadas; áreas verdes irrigadas con agua tratada."
+          },
+          {
+            "problem": "La contaminación vehicular afecta la calidad ambiental y la salud pública.",
+            "objective": "Promover la movilidad sostenible y la reducción de emisiones.",
+            "goal": "Implementar 100 km de corredores verdes y espacios de movilidad sostenible.",
+            "indicator": "Número de corredores verdes implementados."
+          },
+          {
+            "problem": "Bajos niveles de reciclaje y valorización de residuos sólidos.",
+            "objective": "Fortalecer la economía circular y el reciclaje metropolitano.",
+            "goal": "Incrementar al 25% la valorización de residuos sólidos metropolitanos.",
+            "indicator": "Toneladas valorizadas; programas implementados."
+          },
+          {
+            "problem": "Alta exposición sísmica, tsunami y multirriesgo en la metrópoli.",
+            "objective": "Fortalecer la gestión preventiva y la resiliencia territorial.",
+            "goal": "Implementar un sistema metropolitano integral de GRD en los 43 distritos.",
+            "indicator": "Mapa de riesgo actualizado; distritos con diagnóstico técnico."
+          },
+          {
+            "problem": "Crecimiento informal en laderas, quebradas y fajas marginales.",
+            "objective": "Evitar nuevos riesgos y ordenar la ocupación del territorio.",
+            "goal": "Actualizar los mapas temáticos y aplicar criterios de GRD en la planificación urbana y formalización.",
+            "indicator": "Análisis de riesgo emitidos; zonas críticas fiscalizadas."
+          },
+          {
+            "problem": "Infraestructura crítica vulnerable y servicios esenciales expuestos.",
+            "objective": "Mejorar la seguridad estructural y la continuidad operativa.",
+            "goal": "Evaluar 100 mil viviendas o edificaciones vulnerables y priorizar la infraestructura crítica.",
+            "indicator": "Evaluaciones preventivas; planes actualizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Persistencia de riesgos de corrupción y limitada transparencia institucional.",
+            "objective": "Fortalecer la integridad pública y el control preventivo.",
+            "goal": "Implementar estándares de integridad y control en el 100% de las áreas metropolitanas.",
+            "indicator": "Número de procesos auditados; mecanismos implementados."
+          },
+          {
+            "problem": "Miles de familias carecen de títulos de propiedad y seguridad jurídica sobre sus viviendas.",
+            "objective": "Fortalecer la formalización y titulación de viviendas en Lima Metropolitana.",
+            "goal": "Beneficiar a 50,000 familias con procesos de titulación y formalización de vivienda durante el periodo 2027-2030.",
+            "indicator": "Número de familias beneficiadas con procesos de titulación y saneamiento físico legal."
+          },
+          {
+            "problem": "Baja participación ciudadana en las decisiones metropolitanas.",
+            "objective": "Fortalecer los mecanismos de participación y rendición de cuentas.",
+            "goal": "Triplicar la participación ciudadana en el presupuesto participativo metropolitano.",
+            "indicator": "Número de participantes y procesos participativos realizados."
+          },
+          {
+            "problem": "Limitada integración de información territorial y urbana.",
+            "objective": "Implementar un catastro metropolitano integrado.",
+            "goal": "Integrar la información catastral de los 43 distritos en una sola plataforma metropolitana.",
+            "indicator": "Plataforma implementada; distritos integrados."
+          },
+          {
+            "problem": "Los trámites municipales continúan siendo burocráticos y fragmentados.",
+            "objective": "Modernizar y digitalizar los servicios municipales.",
+            "goal": "Digitalizar el 100% de los trámites prioritarios y reducir en un 70% los tiempos de atención.",
+            "indicator": "Número de trámites digitalizados; reducción de tiempos."
+          },
+          {
+            "problem": "Organizaciones comunitarias presentan infraestructura precaria y limitadas capacidades de mejoramiento físico.",
+            "objective": "Fortalecer la infraestructura comunitaria mediante trabajo colaborativo y apoyo municipal.",
+            "goal": "Mejorar 1,000 locales comunales, ollas comunes y espacios comunitarios mediante el programa “Minka Metropolitana”.",
+            "indicator": "Número de espacios comunitarios mejorados; organizaciones beneficiadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139388",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: OMISIÓN DE DECLARACIÓN Y OTROS",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2010-01-28",
+      "details": {
+        "materia": "OMISIÓN DE DECLARACIÓN Y OTROS",
+        "fallo": "DETENCIÓN 4 DÍAS Y MULTA (SIN EFECTOS JURÍDICOS EN EL PERÚ)",
+        "modalidad": "EFECTIVA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA - MIAMI DIVISION",
+        "expediente": "1:09-20965-CR-MORENO-1",
+        "comentario": "SENTENCIA SIN EFECTOS JURÍDICOS EN EL PERÚ, AL NO HABERSE APLICADO EL PROCEDIMIENTO DE EXECUATOR CONFORME AL CODIGO CIVIL - COSA JUZGADA ELECTORAL CONFORME A LOS PRONUNCIAMIENTOS DEL JURADO NACIONAL DE ELECCIONES EN LOS PROCESOS ELECTORALES 2010 Y 2022. SE DECLARA POR TRANSPARENCIA."
+      },
+      "quote": "OMISIÓN DE DECLARACIÓN Y OTROS · DETENCIÓN 4 DÍAS Y MULTA (SIN EFECTOS JURÍDICOS EN EL PERÚ) · EFECTIVA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-1b4pvxyc6zJcQNGQp5doIM1eX158DFP0"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-1b4pvxyc6zJcQNGQp5doIM1eX158DFP0",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1b4pvxyc6zJcQNGQp5doIM1eX158DFP0",
+      "sha256": "efab6d5b00f727ce4d8228c258eb701d7a8fc83f2694053cae9276fa551dce91",
+      "accessedAt": "2026-10-02T22:49:14.543Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020277",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020277",
+      "sha256": "2958fe4a5fd0d7b859bddfa2baffb46363169fcee4200efce1d8d6ff17fafc02",
+      "accessedAt": "2026-10-02T22:49:15.024Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "GqoETsHsMMu08mdj3teShlTYBkxZm2vi",
+  "slug": "lucero-echevarria-quispe",
+  "electionId": "erm-2026",
+  "name": "Lucero Echevarria Quispe",
+  "givenNames": "Lucero",
+  "surnames": "Echevarria Quispe",
+  "age": 38,
+  "gender": "Femenino",
+  "party": {
+    "id": 2869,
+    "name": "PARTIDO PATRIOTICO DEL PERU"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:53.916Z",
+      "sourceId": "jne-hv-GqoETsHsMMu08mdj3teShlTYBkxZm2vi"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "COLEGIO DE ABOGADOS DE LIMA",
+        "program": "CONCILIADOR EXTRAJUDICIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD AUTÓNOMA DEL PERÚ",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MININTER",
+      "role": "SUB PREFECTA DISTRITAL",
+      "from": "2020",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA NISSAN. MODELO ALMERA. COLOR PLATA DEPORTIVO. AÑO 2011",
+        "value": 5000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "TENGO EL CARGO DE PRESIDENTA DE LA ASOCIACIÓN CONCILIATE PERÚ CONSTITUIDA, PERO SIN FUNCIONAMIENTO NI EJERCICIO ECONÓMICO. POR ENDE AL NO ESTAR EN FUNCIONAMIENTO NO GENERA INGRESOS DE NINGUN TIPO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4149c30a-dd0f-4e75-b448-53b1990302e8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/505cedd8-d38f-4d27-8235-3b1ad0b26dc7.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Ineficiente servicio de limpieza pública que ha generado hábitos insalubres en la población, como el arrojo de basura en las calles o en lugares con desmontes, agravando la existencia de focos infecciosos.",
+            "objective": "Optimizar el manejo de residuos sólidos en la comunidad a través de la implementación de contenedores subterráneos e incentivos tributarios, como parte del \"Programa Villa Limpia\".",
+            "goal": "Reducir en un 50% la acumulación de desechos en el lapso de un año, llegando a un 10% al término del periodo.",
+            "indicator": "Acumulación de 50 toneladas de desechos en las vías."
+          },
+          {
+            "problem": "La inseguridad y la criminalidad han cobrado la vida de muchos vecinos, sumado a la nula acción de la municipalidad para activar el CODISEC.",
+            "objective": "Crear la Comisión Mixta para la Seguridad Ciudadana, integrada por la Municipalidad, Policía Nacional, Fuerzas Armadas y comunidad organizada. Implementar el \"Programa de Profesionalización del Personal de Serenazgo\".",
+            "goal": "Erradicar el problema de raíz a un 0% de casos de criminalidad.",
+            "indicator": "Alto índice de criminalidad organizada a nivel de Lima Metropolitana y deficiente acción de la gestión local para resolver la problemática."
+          },
+          {
+            "problem": "Alto índice de deserción escolar y baja calidad de la educación pública.",
+            "objective": "Replantear la currícula escolar para que responda a las necesidades de empleabilidad de los estudiantes del distrito, fortaleciendo a su vez el civismo y la promoción de valores.",
+            "goal": "Reducir la deserción escolar al 1%.",
+            "indicator": "Tasa de deserción escolar del 2.5% en Villa El Salvador, equivalente a 2 o 3 estudiantes de cada 100 que abandonan la escuela."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ausencia de una política de promoción al emprendedor y a las organizaciones de empresarios del distrito.",
+            "objective": "Potenciar la capacidad creativa de las organizaciones empresariales del distrito, tales como mercados, asociaciones comerciales y de transportistas.",
+            "goal": "Crear un Centro de Desarrollo Empresarial Municipal.",
+            "indicator": "Inexistencia de un centro de Desarrollo Empresarial Municipal."
+          },
+          {
+            "problem": "Altos índices de población económicamente activa desocupada y un considerable porcentaje de jóvenes que no estudian ni trabajan (NINIS).",
+            "objective": "Promover la inserción laboral de la PEA desocupada a través del programa \"Mi Primera Chamba\", dirigido a jóvenes egresados de educación básica, articulando al empresariado y fortaleciendo las capacidades técnicas de los estudiantes.",
+            "goal": "Lograr reducir la PEA desocupada a un 10%.",
+            "indicator": "El 51% de la PEA desocupada está compuesta por mujeres y el 43% por jóvenes entre 18 y 24 años."
+          },
+          {
+            "problem": "Desempleo, abundancia de subempleo y falta de empleo formal, factores que impulsan a jóvenes y adultos a buscar ocupaciones informales.",
+            "objective": "Proponer una Ordenanza de Promoción de Ferias y comercio minorista para los fines de semana.",
+            "goal": "Autorizar mediante Ordenanza Municipal la realización de dos ferias por semana.",
+            "indicator": "Realización de una feria por semana, únicamente los domingos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Mal manejo del recojo y tratamiento de residuos sólidos.",
+            "objective": "Optimizar el manejo de residuos sólidos en la comunidad mediante la implementación de contenedores subterráneos e incentivos tributarios.",
+            "goal": "Reducir en un 50% los desechos acumulados en el lapso de un año, llegando a un 10% al término del periodo.",
+            "indicator": "Existencia de 50 toneladas de desechos acumulados en las vías."
+          },
+          {
+            "problem": "Deterioro y ausencia de zonas verdes y de esparcimiento para el uso de los ciudadanos.",
+            "objective": "Convertir los parques en espacios recreativos y de integración multidisciplinaria a través del programa \"Villa Verde\", promoviendo campañas de arborización y regado.",
+            "goal": "Realizar cuatro campañas anuales de arborización con la participación de la comunidad.",
+            "indicator": "Cero campañas de arborización promovidas por la municipalidad."
+          },
+          {
+            "problem": "Mal hábito generalizado en la población de no fiscalizar ni participar en el mantenimiento de una ciudad limpia.",
+            "objective": "Involucrar a los vecinos y organizaciones en la vigilancia comunitaria para crear cuadrantes de vigilancia ambiental que sancionen el arrojo de basura en la vía pública.",
+            "goal": "Creación de un cuadrante de vigilancia ambiental en cada grupo residencial.",
+            "indicator": "Inexistencia de cuadrantes de vigilancia ambiental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ausencia de una participación ciudadana real en la gestión municipal.",
+            "objective": "Crear Comités de Gestión Participativa e implementar Asambleas Ciudadanas o Cabildos Abiertos trimestrales para la rendición de cuentas por parte del Alcalde, Regidores y funcionarios municipales.",
+            "goal": "Realizar cuatro Asambleas Ciudadanas anuales de rendición de cuentas ante la ciudadanía en general.",
+            "indicator": "Existencia de una asamblea anual de rendición de cuentas de carácter estrictamente formal y sin acceso a la ciudadanía."
+          },
+          {
+            "problem": "Villa El Salvador se encuentra en el séptimo lugar con mayor número de personas con discapacidad a nivel de Lima Metropolitana, según datos de 2017.",
+            "objective": "Promover el desarrollo de capacidades y la atención de necesidades de las personas con discapacidad a través de la creación de la oficina de registro de la Persona con Discapacidad.",
+            "goal": "Identificar a 60,000 personas con discapacidad.",
+            "indicator": "Existencia de 45,863 personas con discapacidad identificadas."
+          },
+          {
+            "problem": "Ausencia de políticas sectoriales para la juventud del distrito, siendo los más afectados por la inseguridad y la falta de oportunidades.",
+            "objective": "Crear la Gerencia de la Juventud, la cual se encargará de diseñar y ejecutar programas de participación en cultura, deporte, educación y empleo.",
+            "goal": "Contar con una Gerencia de la Juventud.",
+            "indicator": "Existencia de 90,000 jóvenes, que representan el 25% de la población."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-GqoETsHsMMu08mdj3teShlTYBkxZm2vi",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GqoETsHsMMu08mdj3teShlTYBkxZm2vi",
+      "sha256": "f9f7def8721ae42b565176c3fbf7cccb9e61c9ab22f0c55f6b514d4ad9c1d006",
+      "accessedAt": "2026-10-02T23:06:53.916Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011787",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011787",
+      "sha256": "a9de70f0e1c12a9ade33be9ae419e49f70d4c4959330a0d9df29df590b3f743f",
+      "accessedAt": "2026-10-02T23:06:54.425Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

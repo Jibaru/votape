@@ -1,0 +1,211 @@
+{
+  "id": "m0lSXDLUw4qafnomMLpX9FApeoLztjXl",
+  "slug": "pedro-quispe-galdos",
+  "electionId": "erm-2026",
+  "name": "Pedro Quispe Galdos",
+  "givenNames": "Pedro",
+  "surnames": "Quispe Galdos",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140116",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:12.061Z",
+      "sourceId": "jne-hv-m0lSXDLUw4qafnomMLpX9FApeoLztjXl"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "Q&Q TECHNICAL SERVICE SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2010",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 0,
+        "private": 36000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 536,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "COLOR PLATA, TOYOTA STATION WAGON 2001",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Pedro Quispe Galdos",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 0.1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/11a867e4-6719-4e22-8ba2-39e159e02a8c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d49ce966-9a7a-42d3-ae06-b675e32efe5e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiencias en salud preventiva, anemia y tuberculosis.",
+            "objective": "Fortalecer la prevención y promoción de la salud mediante campañas permanentes y programas de atención comunitaria.",
+            "goal": "Reducir en 30% la anemia infantil y fortalecer las acciones de prevención y control de la tuberculosis.",
+            "indicator": "Número de beneficiarios de programas preventivos de salud."
+          },
+          {
+            "problem": "Limitadas oportunidades para jóvenes.",
+            "objective": "Promover la capacitación técnica, empleabilidad y emprendimiento juvenil.",
+            "goal": "Capacitar a 15,000 jóvenes e insertar laboralmente a 4,000 durante la gestión municipal.",
+            "indicator": "Número de jóvenes capacitados e insertados en el mercado laboral."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana.",
+            "objective": "Modernizar integralmente el sistema de seguridad ciudadana mediante tecnología, patrullaje integrado, prevención y participación vecinal.",
+            "goal": "Alcanzar el 100% de cobertura de vigilancia en las zonas críticas del distrito y reducir en 40% los delitos de mayor incidencia.",
+            "indicator": "Porcentaje de zonas críticas monitoreadas con videovigilancia y patrullaje integrado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Informalidad comercial.",
+            "objective": "Impulsar la formalización empresarial y fortalecer las MYPES mediante asistencia técnica y simplificación administrativa.",
+            "goal": "Formalizar nuevos negocios durante el periodo de gobierno.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Bajo crecimiento económico local.",
+            "objective": "Consolidar a Pachacamac como lugar turístico y principal polo productivo del sur de Lima.",
+            "goal": "Incrementar en 30% la actividad empresarial formal y promover nuevas inversiones productivas.",
+            "indicator": "Incremento de empresas formales y nuevas inversiones."
+          },
+          {
+            "problem": "Elevada informalidad empresarial y limitadas oportunidades de crecimiento para las MYPES, emprendedores y productores de Pachacamac.",
+            "objective": "Convertir a Pachacamac en la capital productiva y emprendedora de Lima Sur, impulsando la formalización, la inversión privada, la generación de empleo y el fortalecimiento del turismo.",
+            "goal": "Formalizar el 30% de los negocios informales del distrito y fortalecer la competitividad de MYPES locales.",
+            "indicator": "Porcentaje de negocios formalizados."
+          },
+          {
+            "problem": "Predios sin saneamiento físico legal.",
+            "objective": "Promover la formalización y titulación de predios para brindar seguridad jurídica a las familias.",
+            "goal": "Beneficiar a 7,000 familias con saneamiento físico legal y titulación.",
+            "indicator": "Número de predios formalizados y titulados."
+          },
+          {
+            "problem": "Mercados de abasto con infraestructura insuficiente, problemas de salubridad, manejo inadecuado de residuos y limitada competitividad.",
+            "objective": "Convertir los mercados de Pachacamac en centros modernos, seguros, limpios y competitivos, impulsando el desarrollo económico local y mejorando la calidad de vida de comerciantes y consumidores.",
+            "goal": "Modernizar el 80% de los mercados formales del distrito, implementar programas ambientales en el 50% de ellos y beneficiar a más de 5,000 comerciantes con acciones de fortalecimiento empresarial.",
+            "indicator": "Porcentaje de mercados modernizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos, presencia de puntos críticos de basura, limitada cultura ambiental y necesidad de modernizar el servicio de limpieza pública.",
+            "objective": "Mejorar integralmente la gestión de limpieza pública y el manejo de residuos sólidos mediante la modernización del servicio, la erradicación de puntos críticos, el fortalecimiento del reciclaje y la participación ciudadana.",
+            "goal": "Alcanzar el 100% de cobertura de recolección, 90% de reducción de puntos críticos, 95% de cumplimiento de rutas, 50% de incremento del reciclaje y 80% de reducción de reclamos vecinales.",
+            "indicator": "Cobertura de recolección de residuos sólidos, reducción de puntos críticos, cumplimiento de rutas programadas, incremento del reciclaje distrital y reducción de reclamos vecinales."
+          },
+          {
+            "problem": "Escasez de áreas verdes.",
+            "objective": "Incrementar y recuperar las áreas verdes mediante arborización y rehabilitación de parques internos en grupos residenciales, asentamientos humanos y alamedas.",
+            "goal": "Incrementar al 100% las áreas verdes del distrito.",
+            "indicator": "Cumplimiento de la recuperación de metros cuadrados de áreas verdes."
+          },
+          {
+            "problem": "Baja cultura ambiental.",
+            "objective": "Transformar a Pachacamac en un distrito limpio, responsable y amigable con el medio ambiente, impulsando el reciclaje desde los hogares, articulando con los recicladores formalizados y aliados estratégicos.",
+            "goal": "Incorporar a 20,000 hogares en programas de reciclaje y segregación de residuos.",
+            "indicator": "Número de ciudadanos incorporados a programas ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja confianza ciudadana en la gestión pública.",
+            "objective": "Implementar un gobierno municipal transparente y con rendición permanente de cuentas.",
+            "goal": "Realizar dos audiencias públicas por año durante toda la gestión.",
+            "indicator": "Número de audiencias públicas y rendiciones de cuentas realizadas."
+          },
+          {
+            "problem": "Trámites lentos y burocráticos.",
+            "objective": "Modernizar la gestión municipal mediante la digitalización de procedimientos y servicios.",
+            "goal": "Digitalizar el 80% de los procedimientos y archivos documentarios municipales.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Débil participación vecinal.",
+            "objective": "Fortalecer las organizaciones de base comunitaria y la participación ciudadana en la gestión municipal.",
+            "goal": "Duplicar la participación organizada de vecinos en los espacios de concertación y vigilancia ciudadana.",
+            "indicator": "Número de ciudadanos y organizaciones de base comunitaria participantes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-m0lSXDLUw4qafnomMLpX9FApeoLztjXl",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/m0lSXDLUw4qafnomMLpX9FApeoLztjXl",
+      "sha256": "7f0e7d30eaa620e9551151763178270e2d1f336c53aaed13a0ac26e92c7f7a7e",
+      "accessedAt": "2026-10-02T23:00:12.061Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022546",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022546",
+      "sha256": "b1edf3ee64207863650ca74431484f670d7ca3324b9b1f97820642d898c010e8",
+      "accessedAt": "2026-10-02T23:00:13.029Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "cBFGizJvVHJ2dWo7uBOrNkJGtck4KC1x",
+  "slug": "erick-melchor-torres",
+  "electionId": "erm-2026",
+  "name": "Erick Melchor Torres",
+  "givenNames": "Erick",
+  "surnames": "Melchor Torres",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:42.656Z",
+      "sourceId": "jne-hv-cBFGizJvVHJ2dWo7uBOrNkJGtck4KC1x"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "NO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LOS OLIVOS",
+      "role": "REGIDOR",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "COMAPORO SAC",
+      "role": "ADMINISTRADOR",
+      "from": "2021",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL DE LOS OLIVOS",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 91726.85,
+        "public": 47736,
+        "private": 43990.85
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/00a1729e-4830-4623-832d-ea2ab5427254.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f6ed84df-e897-4524-bf41-5e4f925227ce.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "7.- Existe un déficit en infraestructura deportiva, que no permite la práctica de deportes, lo que pone en riesgo a los adolescentes y jóvenes en caer en manos del pandillaje y del consumo de drogas y alcohol",
+            "objective": "7.- Promover el desarrollo humano y estilos de vida saludables en la población del distrito",
+            "goal": "7.1.- Mantenimiento del 100% de la infraestructura deportiva 7.1.- Creación de nuevas losas deportivas 7.2.Implementación del campeonato Interescolar Copa Ciudad de Los Olivos (futbol, vóley, natación, ajedrez) 7.2.Implementación del mundialito de Los Olivos",
+            "indicator": "7.1.- Mejorar la infraestructura deportiva 7.2.- Torneos e iniciativas de integración comunitaria o educativa"
+          },
+          {
+            "problem": "5.- Insuficiente oferta de atención de salud de mascotas, espacios públicos para recreación y deficiente cultura de tenencia responsable",
+            "objective": "5.- Promover la salud preventiva, la vigilancia sanitaria y el bienestar animal en los espacios públicos del distrito",
+            "goal": "5.1.- Creación del albergue de mascotas 5.1.Implementación de 2 centros veterinarios 5.1.- Capacitación en tenencia responsable de mascotas al 100% de colegios, centros de estudios universitarios y técnicos, Juntas Vecinales 5.1.- Implementación de espacios públicos acondicionados, limpios y seguros en parques del distrito, que fomenten la recreación responsable",
+            "indicator": "5.- Mejoramiento de la oferta de servicios para las mascotas y capacitar en tenencia responsable"
+          },
+          {
+            "problem": "10.- La inseguridad alimentaria moderada y severa afecta a un gran porcentaje de la población del distrito. Su impacto directo en las comunidades atendidas por las OSB se refleja en altas tasas de anemia y desnutrición crónica infantil, comprometiendo gravemente el capital humano del distrito",
+            "objective": "10.- Promover el desarrollo humano, la seguridad alimentaria y la participación democrática de las OSB en el distrito",
+            "goal": "10.1.-Capacitación con Talleres Productivos al 100% de las OSB 10.1.- Equipamiento de equipos de cocina al 100% de las OSB",
+            "indicator": "10.- Fortalecer las capacidades de las OSB"
+          },
+          {
+            "problem": "2.- No se identifican ni se han implementado las zonas de refugio temporales en los lugares más vulnerables del Distrito, así como tampoco ha implementado los contenedores para la asistencia de desastres",
+            "objective": "2.- Promover la gestión del riesgo de desastres de manera integral para reducir la vulnerabilidad de la población ante la ocurrencia de sismos y fenómenos naturales en el distrito",
+            "goal": "2.1.-Actualización de mapa de microzonificación sísmic 2.2.- Implementación de 4 zonas de refugio temporal 2.3.- Capacitación en temas de seguridad y prevención de riesgos (presencial o virtual) al 100% instituciones públicas o privadas, colegios, mercados, iglesias, centros de educación superior, centros comerciales",
+            "indicator": "2.1.- Estudio de evaluación de riesgos y mapa de microzonificación del distrito 2.2.- Implementar refugios Temporales y Contenedores de Primera Asistencia en cada una de las zonas más vulnerables del distrito 2.3.- Capacitación continua en medidas de seguridad, rutas de evacuación y simulacros nacionales de sismo en el distrito"
+          },
+          {
+            "problem": "11.-El distrito no cuenta con un velatorio municipal digno y a costo social",
+            "objective": "11.- Mejorar las condiciones de vida de la población vulnerable",
+            "goal": "11.- Creación del velatorio municipa",
+            "indicator": "11.- Servicio de asistencia social integral accesibles para la comunidad"
+          },
+          {
+            "problem": "3.- Insuficiente capacidad del MINSA y EsSalud para cubrir la demanda de salud de la población, encontrándose un gran porcentaje de la población que no tiene cobertura de salud, como tampoco el beneficio social hacia las personas mayores y de menores recursos económicos.",
+            "objective": "3.- Promover la salud preventiva y los estilos de vida saludable en la población del distrito",
+            "goal": "3.1.- Repotenciamiento y mejoramiento de la oferta de servicios en el Hospital de los Olivos 3.1.- Adquisición de ambulancia para el servicio de los vecinos del distrito 3.1.- Implementación de tarifas sociales para personas en situación vulnerable, tarifas preferenciales para los Olivenses, tarifa exclusiva para los Adultos Mayores Olivenses 3.1.- Implementación del Programa de Enfermedades Crónicas 3.1.Implementación del Programa de Salud Mental 3.1.- Gestionar convenios con MINSA y ESSALUD",
+            "indicator": "3.- Servicio de atención médica primaria de fácil acceso en el distrito"
+          },
+          {
+            "problem": "8.- AAHH que no cuentan con servicios básicos esenciales",
+            "objective": "8.- Mejorar las condiciones de habitalidad en el distrito, con énfasis en la población de los asentamientos humanos y zonas vulnerables",
+            "goal": "8.- Implementación del Programa Agua de Emergencia a fin de dotar de agua al 100% de AAHH quienes aún no tienen acceso a dicho recurso",
+            "indicator": "8.- Incrementar el acceso a servicios de agua para la población"
+          },
+          {
+            "problem": "1.- Inseguridad Ciudadana es cada vez más creciente en el Distrito de Los Olivos, reflejada en un alto índice de robos a viviendas, robo de vehículos, robos al paso, extorsiones y sicariato ligadas a bandas organizadas.",
+            "objective": "1.- Reducir los índices de Inseguridad Ciudadana y la comisión de delitos y faltas en beneficio de la población del distrito.",
+            "goal": "1.1.- Contratación de 800 serenos 1.1.- Adquisición de chalecos antibalas, escudos, pistolas eléctricas de electrochoque y bodycam 1.1.- 100% de unidades móviles realizando patrullaje integrado 1.1.- Gestionar firma de convenio PNP 1.2.- Implementar conexión de central de operaciones con la central 105 de la PNP 1.2.- 100% cámaras de video vigilancia operativas 1.2.- Implementar software de IA, para reconocimiento facial. 1.3.- 100% de recuperación de espacios públicos abandonados 1.3.- Gestionar con PLUS el alumbrado público del 100% de las vías del distrito que no cuentan con dicho servicio",
+            "indicator": "1.1.- Servicio de patrullaje de manera oportuna en el distrito. 1.2.- Sistema de videovigilancia, analítica de datos y centrales de emergencia interconectadas y operativas en zonas de alta incidencia delictiva del distrito. 1.3.- Espacios públicos críticos recuperados, iluminados y vigilados para mitigar factores de riesgo en el distrito"
+          },
+          {
+            "problem": "4.- Alto índice de anemia en la población adulta mayor y primera infancia",
+            "objective": "4.- Promover la salud preventiva y los estilos de vida saludable en la población del distrito",
+            "goal": "4.-Implementación del Programa de Complementación Nutricional para combatir la anemia infantil y en adultos mayores de anemia y desnutrición crónica infantil y en adultos mayores",
+            "indicator": "4.- Prevención y control de anemia y desnutrición crónica infantil y en adultos mayores"
+          },
+          {
+            "problem": "9.- Personas con discapacidad no tienen acceso a locales municipales y a espacios públicos",
+            "objective": "9.- Promover el desarrollo humano e inclusión social con igualdad de oportunidades para la población vulnerable",
+            "goal": "9.1.Implementación de accesos a personas con discapacidad (rampas) (100% de acceso en locales institucionales y espacios públicos) 9.2.Implementación de parques inclusivos para la recreación de personas con discapacidad",
+            "indicator": "9.1.- Adecuar la infraestructura pública urbana (rampas, accesos a edificios y a espacios públicos) 9.2.- Espacios públicos que cuentan con criterios de accesibilidad universal e inclusión"
+          },
+          {
+            "problem": "6.- Se cuenta con una variada y amplia oferta educativa pública y privada en su mayoría con niveles medios y bajos de calidad de enseñanza, así como de infraestructura y mobiliario, asimismo se carece de mayor oferta cultural",
+            "objective": "6.1.- Mejorar el acceso y la calidad de los servicios educativos y de soporte pedagógico en la población del distrito 6.2.- Promover la identidad cultural y la puesta en valor del patrimonio material e inmaterial en beneficio de la población del distrito",
+            "goal": "6.1.- Gestionar convenio con el MINEDU para el mejoramiento de la infraestructura de los colegios nacionales 6.1.Repotenciación de la Cuna / Jardín Municipal y mejoramiento de la tarifa de servicios 6.2.- Gestionar convenios con Universidades e Institutos, nacionales e internacionales 6.2.Implementación del Programa SUPERATE Los Olivos (cursos, talleres, conferencias, becas nacionales e internacionales) 6.2.Repotenciación de la Academia Municipal y acceso gratuito 6.3.Implementación de Talleres Culturales (teatro, música, danzas), en las distintas zonas del distrito 6.3.-Mejoramiento de la infraestructura y optimización del auditorio municipal 6.3.- Implementación de pasacalles festivos, con la participación de instituciones, colegios, centros de educación superior y técnico 6.3.- Implementación del concurso del Gran Desfile Escolar por Fiestas Patrias",
+            "indicator": "6.1.- Mantenimiento y equipamiento complementario en la infraestructura de las escuelas públicas locales 6.2.- Capacitación y becas de estudio (profesional, productivo/técnico) para jóvenes y adultos del distrito 6.3.- Programas de promoción artística y actividades culturales de acceso gratuito e inclusivo y espacios públicos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "2.- El distrito no desarrolla actividades turísticas, sufriendo un estancamiento económico y social debido a la pérdida de oportunidades de ingresos directos, empleo y desarrollo de infraestructura",
+            "objective": "2.1.- Incrementar el valor y la competitividad de los recursos turísticos del distrito, mediante la creación de nuevos productos turísticos, el mejoramiento de la infraestructura de soporte y la puesta en valor del patrimonio cultural y natural 2.2.- Posicionar a la jurisdicción como un destino turístico seguro y atractivo en los mercados emisores locales, regionales y nacionales",
+            "goal": "2.1.- Creación de la Alameda Olivense 2.1.- Implementación de rutas gastronómicas 2.1.- Realización de 6 Ferias Gastronómicas en los distintos sectores del distrito 2.1.- Puestas en valor de las Huacas Aznapuquio, Huaca Infantas y Huaca Pro 2.2.- Creación de marca \"Los Olivos\" 2.2. Implementación de plataformas digitales informativas y campañas en redes sociales 2.2.- Implementar el Bus Olivense (4 unidades) que permitirá movilizar a los vecinos por las principales atracciones en el distrito de manera gratuita y a los Trabajadores de la Municipalidad 2.2.- Capacitación a hoteles, restaurantes, artesanos, taxistas 2.2.-Implementación del Programa de Restaurantes Saludables",
+            "indicator": "2.1.- Diseñar rutas e itinerarios temáticos 2.2.- Desarrollar la \"Marca Ciudad\" 2.2.- Implementar estrategias de marketing 2.2.- Implementar un sistema de transporte que recorra las principales atracciones del distrito 2.2.- Capacitación a prestadores de servicios 2.2.- Certificación de restaurantes"
+          },
+          {
+            "problem": "1.- La problemática del desarrollo urbano en Los Olivos se debe principalmente a que el distrito se ha quedado sin suelo disponible para expandirse horizontalmente, lo que ha transformado su crecimiento en un proceso acelerado y desordenado de densificación vertical. Al no contar con un planeamiento técnico y tecnológico capaz de soportar este ritmo, se han desencadenado severos conflictos de infraestructura, servicios y convivencia social",
+            "objective": "1.- Promover un desarrollo urbano planificado, sostenible, seguro e inteligente en beneficio de la población del distrito",
+            "goal": "1.1.- Aprobación del Plan de Desarrollo Urbano Distrital Actualización del catastro urbano 1.2.- Gestionar convenio con COFOPRI para formalización de las propiedades y obtención de títulos 1.2.- Promover la regularización de Habilitaciones Urbanas1.3.- Mejoramiento del 100% de las áreas verdes de los parques y bermas centrales 1.3.- Implementación de luces led en el 100% de parques 1.3.- Implementación de juegos para niños en el 100% de parques 1.3.- Implementación de anfiteatros en los principales parques del distrito. Implementación de parques temáticos 1.3.Implementación del riego tecnificado en el 100% de parques 1.4.- Programa de mejoramiento (mantenimiento) vial y peatonal (30 KM) de las principales avenidas y jirones 1.4.- Programa de nueva infraestructura vial y peatonal (20 km de concreto armado) de las principales avenidas y jirones Mejorar el 100% de la red de ciclovías Mejorar el 100% de la señalización vial 1.5.-Convenio con la ATU para regular el tránsito de unidades menores, de transporte y de carga 1.5.- Implementar campañas de seguridad vial 1.6.- Desarrollar y consolidar la infraestructura tecnológica del territorio a través de soluciones de conectividad, IoT y analítica de datos, alineando los sistemas de información municipales con el modelo de Ciudad Inteligente para ofrecer un entorno urbano seguro, eficiente y sostenible (SMART CITY)",
+            "indicator": "1.1.-Instrumento de gestión urbana 1.2.- Saneamiento físico legal 1.3.- Áreas verdes, parques y espacios públicos recuperados, mantenidos e implementados con criterio de ecoeficiencia para la recreación ciudadana. 1.3.Implementación del riego tecnificado en el 100% de parques 1.4.- Infraestructura vial y peatonal urbana (pistas, veredas, ciclovías) construida, mantenida y señalizada de manera integral en beneficio de la transitabilidad 1.5.- Mejorar la seguridad vial en beneficio de la población 1.6.- Desplegar e integrar redes de sensores e Internet de las Cosas (IoT) para la automatización y monitoreo en tiempo real de los servicios públicos urbanos"
+          },
+          {
+            "problem": "3.- Alta cifra de desempleo arrastra un incremento en los índices de pobreza monetaria, 7 de 10 personas realizan trabajos informales, caracterizada por la falta de protección social, inestabilidad de ingresos y baja productividad. La formalización es una tarea titánica por la burocracia municipal y alienta la informalidad, todo ello constituye una problemática social y limita el desarrollo económico del distrito",
+            "objective": "3.1.- Incrementar el nivel de formalidad de las unidades económicas (Mypes y Pymes) del distrito, mediante la simplificación de trámites administrativos, incentivos no tributarios y programas de asistencia técnica integral 3.2.- Impulsar el ecosistema de emprendimiento e innovación local, fortaleciendo las capacidades comerciales de los productores y comerciantes locales a través del acceso a nuevos canales de venta y tecnologías digitales",
+            "goal": "3.1.- Implementación de Plataforma de Ventanilla Única para la obtención de Licencias de Funcionamiento y Certificados ITSE 3.1.- Campañas itinerantes de formalización en mercados de abastos, conglomerados comerciales y zonas industriales del distrito 3.1.- Capacitación y asesoría técnica gratuita para la constitución de empresas 3.2.- Promover la formalización de emprendedores 3.2.- Implementación de espacios de coworking para los emprendedores del distrito 3.2.- Creación del centro de capacitación y entrenamiento empresarial para emprendedores 3.2.-Realización de 12 Ferias comerciales temáticas, para los emprendedores del distrito Creación del APP Los Olivos Emprende, donde los emprendedores podrán ofrecer sus productos 3.3.-Implementar 4 ferias laborales 3.3.-Firma de convenios con instituciones privadas 3.3.-Capacitación en el manejo de herramientas informáticas (Office) y en habilidades blandas 3.3.-Creación del Programa Bolsa Laboral Olivense (Ordenanza que regula beneficios a las empresas que contratan vecinos del distrito a través de la bolsa de trabajo municipal)",
+            "indicator": "3.1.- Agilizar emisión de Licencias de Funcionamiento y Certificados ITSE 3.2.-Fomentar el emprendimiento local 3.2.- Desarrollar canales de venta 3.3.-Fortalecimiento de capacidades y competencias"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1.- Se evidencian constantemente en el distrito, centros de acopio de residuos sólidos (desechos orgánicos y desmonte), así como las vías y veredas sucias, por la falta de un buen sistema de gestión de residuos solidos",
+            "objective": "1.- Mejorar la gestión integral de residuos sólidos en beneficio de la población del distrito",
+            "goal": "1.1.- Implementación de un sistema de mejoramiento del servicio de recolección de residuos sólidos que permita tener la ciudad 100% limpia 1.1.- Campaña de sensibilización sobre residuos sólidos en todo el distrito 1.1.- Implementación del canal WhatsApp de alerta de residuos solidos 1.1.- Eliminar centros de acopio de residuos sólidos informales 1.1.- Implementación de contenedores soterrados 1.2.- Implementación del servicio de recolección de desmonte en el distrito 1.3.-Implementación de islas ecológicas 1.3.-Implementación del nuevo Programa de Segregación en la Fuente 1.4.- Mejorar la calidad y ampliar la cobertura del servicio de barrido de calles y limpieza de espacios públicos; a través de la adquisición de equipamiento estratégico",
+            "indicator": "1.1.- Mejorar el sistema de recolección de residuos sólidos en el distrito 1.2.- Implementar servicio de recolección de desmonte en el distrito 1.3.- Fortalecer programa de segregación en la fuente en el distrito 1.4.- Mejorar el programa de limpieza pública en el distrito"
+          },
+          {
+            "problem": "2.- El caos vehicular y el desorden de los comercios generan contaminación sonora y producen agentes contaminantes en el distrito",
+            "objective": "2.- Fortalecer la fiscalización y el monitoreo de la calidad ambiental en el distrito",
+            "goal": "2.1.- Operativos y sensibilización para reducir la contaminación sonora en los distintos puntos del distrito 2.1.- Operativos y sensibilización para controlar las emisiones de humos, gases y olores provenientes de actividades comerciales del distrito (como pollerías, chifas, panaderías con hornos a leña o carbón, lavanderías e industrias artesanales), exigiendo la instalación de filtros y chimeneas adecuadas bajo los límites permitidos 2.1.- Operativos con la PNP para intervenir vehículos con emisiones visiblemente contaminantes 2.1.- Implementar estaciones de monitoreo del aire en puntos de alta congestión del distrito para medir gases como dióxido de nitrógeno o monóxido de carbono",
+            "indicator": "2.1.- Monitoreo y control de emisiones de ruido y agentes contaminantes en el distrito"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1.- Alta percepción ciudadana respecto a la poca eficiencia del trabajador municipal, existencia de corrupción, burocracia y obsolescencia tecnológica",
+            "objective": "1.1.- Modernizar la gestión municipal mediante la adopción de tecnologías de la información seguras, interoperables y eficientes, con el fin de brindar servicios públicos digitales e inclusivos que mejoren la experiencia del ciudadano y promuevan la transparencia 1.2.- Fortalecer las competencias y capacidades del talento humano de la Municipalidad para asegurar una gestión pública eficiente y orientada al servicio del ciudadano 1.3.- Implementar la gestión por procesos y la simplificación administrativa en la Municipalidad para optimizar la prestación de los servicios públicos y agilizar los procedimientos internos 1.4.- Fortalecer la gestión institucional de la Municipalidad para brindar servicios de calidad a los ciudadanos 1.5 - Promover la participación ciudadana democrática e inclusiva en las decisiones del gobierno local 1.6.- Mejorar continuamente la eficacia de los procesos municipales para elevar el nivel de satisfacción del ciudadano en la prestación de los servicios públicos 1.7.- Promover la integridad institucional y prevenir actos de corrupción en la gestión municipal en beneficio de la ciudadanía",
+            "goal": "1.1.- Implementar el sistema de gestión documental digital (0 papel) 1.1.- Implementar sistemas de pago en línea de todos los servicios que brinda la Municipalidad 1.1.- Implementar la Plataforma Virtual ¨Los Olivos Compra\" mediante el cual se podrán realizar las compras menores de 8 UIT, abierta a la participación de público en general 1.2.- Crear un sistema de capacitación por niveles, funciones y competencias 1.2.- Capacitar adecuadamente a todo el personal de la Municipalidad de Los Olivos, para brindar un óptimo servicio al administrado 1.3.- Implementar al 100% la gestión por procesos 1.4.- Actualizar los instrumentos de gestión municipal (ROF, CAP, POI, TUPA y otros) 1.5.- Implementar el programa \"Tú Alcalde Escucha\", que se realizará todos los miércoles en las distintas zonas del distrito, con la participación del Alcalde y de los funcionarios para escuchar, atender y solucionar los problemas de los vecinos 1.6.- Implementar ISO 9001 - Gestión de la calidad en la atención al ciudadano 1.6.- Implementación del Sistema de Gestión de Calidad para estandarizar procesos y procedimientos, como parte de la mejora permanente de los servicios municipales 1.7.- Implementar y certificar el ISO 37001 – Sistemas de Gestión Antisoborno 1.7.- Implementar canales de denuncia con relación a actos de corrupción",
+            "indicator": "1.1.- Transformación digital y de fácil acceso al vecino 1.2.- Profesionalización del servidor público 1.3.- Simplificación de procesos 1.4.- Modernización operativa 1.5.- Atención y participación ciudadana 1.6- Automatización y estandarización de procesos 1.7.- Capacidad preventiva contra la corrupción"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cBFGizJvVHJ2dWo7uBOrNkJGtck4KC1x",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cBFGizJvVHJ2dWo7uBOrNkJGtck4KC1x",
+      "sha256": "7ffda23dba6ee47c34b8af273d346ecf589cf91e76fca27666382e6699ff9ae2",
+      "accessedAt": "2026-10-02T22:58:42.656Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015207",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015207",
+      "sha256": "a9fd794900c4af29e760c5ab8660ff8b03d06f23361d13c4149c36cc7a32ed46",
+      "accessedAt": "2026-10-02T22:58:43.140Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

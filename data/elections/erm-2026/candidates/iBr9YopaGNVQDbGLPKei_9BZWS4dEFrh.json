@@ -1,0 +1,212 @@
+{
+  "id": "iBr9YopaGNVQDbGLPKei_9BZWS4dEFrh",
+  "slug": "victor-antonio-alegria-garcia",
+  "electionId": "erm-2026",
+  "name": "Victor Antonio Alegria Garcia",
+  "givenNames": "Victor Antonio",
+  "surnames": "Alegria Garcia",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:22.336Z",
+      "sourceId": "jne-hv-iBr9YopaGNVQDbGLPKei_9BZWS4dEFrh"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN IGNACIO DE LOYOLA",
+        "program": "TITULO PROFESIONAL DE LICENCIADO EN ARTE Y DISEÑO EMPRESARIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado",
+        "institution": "ESCUELA DE POSTGRADO DE LA UNIVERSIDAD SAN IGNACIO DE LOYOLA",
+        "program": "MAESTRIA EN CIENCIAS EMPRESARIALES CON MENCION EN GESTIÓN DE PROYECTOS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2014"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 12164,
+        "public": 0,
+        "private": 12164
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 16779,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "SUBARU IMPREZA 2018 COLOR BLANCO CRISTAL PERLADO",
+        "value": 50000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/043e9c67-8253-400d-ac28-f3b87ff32938.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c12a0c80-5ed9-4c52-9e37-ebce58af529a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada atención en salud y bienestar, evidenciada en la insuficiente oferta de servicios de salud mental, atención a adultos mayores y una escasa cultura de prevención de enfermedades crónicas.",
+            "objective": "Fortalecer el bienestar integral de la población mediante la promoción de la salud mental, la prevención de enfermedades y el acceso a servicios de salud de calidad.",
+            "goal": "Incrementar la participación de la población en programas de salud preventiva y bienestar al 50%, acumulando 5,000 beneficiarios en programas de salud mental y 10,000 personas tamizadas para enfermedades crónicas, y lograr el 100% de las mejoras gestionadas para el Centro de Salud.",
+            "indicator": "Número de personas beneficiadas con programas de salud mental, porcentaje de adultos mayores atendidos, número de campañas de prevención de enfermedades crónicas, número de personas tamizadas para diabetes e hipertensión, y estado de la infraestructura del Centro de Salud."
+          },
+          {
+            "problem": "Elevada inseguridad ciudadana y delincuencia, caracterizada por robos, asaltos y la actuación de delincuentes motorizados, lo que afecta la tranquilidad y calidad de vida de los habitantes.",
+            "objective": "Implementar un sistema integral de seguridad ciudadana inteligente para fortalecer la prevención, vigilancia y participación vecinal.",
+            "goal": "Reducir en un 30% la incidencia de delitos patrimoniales y elevar al 60% la percepción de seguridad ciudadana, logrando una cobertura del 100% en cámaras, iluminación de parques y patrullaje integrado, con un tiempo de respuesta a emergencias menor a 7 minutos.",
+            "indicator": "Porcentaje de cobertura de cámaras de videovigilancia, porcentaje de parques y espacios públicos con iluminación LED, porcentaje de sectores con patrullaje integrado, número de comités vecinales activos, tiempo promedio de respuesta a emergencias e incidencia de delitos patrimoniales."
+          },
+          {
+            "problem": "Falta de espacios adecuados y de una programación permanente para el desarrollo cultural y deportivo de la juventud, lo que limita las oportunidades de integración comunitaria y recreación saludable.",
+            "objective": "Promover el desarrollo integral de la juventud mediante la cultura, el deporte y el liderazgo ciudadano, a través del acceso a infraestructura, actividades y programas de formación.",
+            "goal": "Incrementar al 50% la participación de niños, adolescentes y jóvenes en actividades culturales, deportivas y de liderazgo, logrando la remodelación del 100% de la infraestructura priorizada y la implementación de 10 escuelas deportivas.",
+            "indicator": "Operatividad del Auditorio y Estadio Municipal, porcentaje de losas deportivas recuperadas, número de escuelas deportivas y talleres culturales implementados, y número de jóvenes participantes en programas de liderazgo y juegos deportivos."
+          },
+          {
+            "problem": "Desafíos en materia de inclusión social para grupos vulnerables como personas con discapacidad, adultos mayores, mujeres víctimas de violencia, y niños y adolescentes en riesgo social.",
+            "objective": "Fortalecer la inclusión social y la protección de las poblaciones vulnerables mediante servicios integrales de atención, apoyo alimentario, acompañamiento social y promoción de derechos.",
+            "goal": "Incrementar al 70% la cobertura de atención de la población vulnerable, alcanzando el 80% de incorporación de adultos mayores al CIAM, el 90% de atención en DEMUNA y atendiendo a 10,000 personas en servicios psicológicos.",
+            "indicator": "Porcentaje de personas con discapacidad atendidas por OMAPED, porcentaje de adultos mayores en programas CIAM, porcentaje de niños y adolescentes atendidos por DEMUNA, número de familias beneficiadas con programas alimentarios y número de personas atendidas en servicios psicológicos y sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades laborales para los jóvenes, derivada de una limitada articulación entre las empresas y la población, y un déficit en capacitación técnica y digital.",
+            "objective": "Incrementar las oportunidades de empleo y empleabilidad juvenil mediante la capacitación, intermediación laboral y la articulación con el sector empresarial.",
+            "goal": "Lograr que el 60% de los jóvenes participantes en programas municipales accedan a un empleo formal o desarrollen emprendimientos sostenibles, colocando a 4000 jóvenes en empleos formales.",
+            "indicator": "Número de jóvenes registrados en la Bolsa Laboral Digital, número de convenios con empresas, número de ferias laborales, número de jóvenes capacitados en competencias tecnológicas y número de jóvenes colocados en empleos formales."
+          },
+          {
+            "problem": "Congestión comercial e informalidad debido al crecimiento del comercio ambulatorio y el uso inadecuado de espacios públicos, lo que afecta la movilidad y la competitividad de los negocios formales.",
+            "objective": "Promover la formalización y el ordenamiento de las actividades económicas, fortaleciendo las capacidades de emprendedores, comerciantes y MYPES para mejorar la competitividad local.",
+            "goal": "Incrementar al 60% la formalización y fortalecimiento de las unidades económicas, recuperando el 100% de los espacios públicos ocupados informalmente y capacitando a 5000 emprendedores.",
+            "indicator": "Porcentaje de comerciantes formalizados, porcentaje de espacios públicos recuperados, número de licencias de funcionamiento simplificadas, número de emprendedores capacitados y número de MYPES con asistencia técnica."
+          },
+          {
+            "problem": "Baja recaudación de tributos municipales y alta dependencia de los recursos ordinarios del gobierno nacional, lo que restringe la autonomía financiera y la capacidad de inversión del distrito.",
+            "objective": "Fortalecer la sostenibilidad financiera municipal mediante el incremento de los ingresos propios, la gestión de inversiones y la diversificación de fuentes de financiamiento.",
+            "goal": "Alcanzar una participación del 55% de ingresos propios y fuentes complementarias de financiamiento respecto del total de ingresos municipales.",
+            "indicator": "Porcentaje de incremento de los ingresos municipales generados por recursos propios y fuentes complementarias de financiamiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro progresivo de la infraestructura vial y de los espacios públicos, lo cual afecta negativamente la movilidad, la seguridad y la calidad de vida de la población.",
+            "objective": "Mejorar la infraestructura vial, deportiva y los espacios públicos del distrito mediante intervenciones de rehabilitación, modernización y accesibilidad universal.",
+            "goal": "Lograr que el 90% de la infraestructura vial, deportiva y de espacios públicos priorizada del distrito sea rehabilitada, modernizada o equipada.",
+            "indicator": "Porcentaje de vías rehabilitadas, porcentaje de parques recuperados y modernizados, porcentaje de veredas accesibles implementadas y porcentaje de mobiliario urbano renovado."
+          },
+          {
+            "problem": "Limitada disponibilidad de áreas verdes por habitante, debido a la alta densidad urbana y la escasez de espacios para la creación de nuevos parques, afectando la calidad ambiental.",
+            "objective": "Incrementar la cobertura de áreas verdes y la infraestructura ecológica urbana mediante programas de arborización, recuperación de parques e implementación de soluciones verdes sostenibles.",
+            "goal": "Incrementar la cobertura de áreas verdes del distrito a un mínimo de 8 m² por habitante, sembrando 10,000 árboles y aumentando en un 50% la superficie de áreas verdes recuperadas.",
+            "indicator": "Índice de incremento de áreas verdes por habitante, número de árboles sembrados, superficie de áreas verdes recuperadas y número de corredores verdes y jardines verticales implementados."
+          },
+          {
+            "problem": "Gestión deficiente de residuos sólidos, evidenciada en bajos niveles de reciclaje, escasa segregación en la fuente y una deficiente cultura ambiental en la población.",
+            "objective": "Implementar un sistema integral de gestión de residuos sólidos basado en la segregación en la fuente, el reciclaje, la educación ambiental y la formalización de recicladores.",
+            "goal": "Incrementar al 35% la valorización de residuos sólidos mediante la implementación de segregación en la fuente, reciclaje y educación ambiental.",
+            "indicator": "Porcentaje de residuos sólidos valorizados mediante reciclaje y segregación en la fuente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia en la gestión municipal y una percepción de reducida apertura en la difusión de información pública, lo que debilita la confianza ciudadana.",
+            "objective": "Fortalecer la transparencia y la confianza ciudadana mediante la implementación de un modelo de gobierno abierto, con acceso a la información pública y rendición de cuentas permanente.",
+            "goal": "Alcanzar un 80% de transparencia y participación ciudadana efectiva, logrando un 90% de cumplimiento del Índice de Transparencia y Participación Ciudadana.",
+            "indicator": "Índice de Transparencia y Participación Ciudadana en la Gestión Municipal, operatividad del portal de datos abiertos y número de rendiciones de cuentas realizadas."
+          },
+          {
+            "problem": "Gestión municipal con oportunidades de mejora en la modernización, simplificación administrativa, digitalización de servicios y gestión por resultados, limitando el acceso ágil de la población a los trámites.",
+            "objective": "Modernizar la gestión municipal mediante la digitalización de trámites, la implementación de herramientas tecnológicas y la gestión por resultados, mejorando la eficiencia institucional y la calidad de atención.",
+            "goal": "Obtener un 85% de transformación digital y eficiencia en la gestión municipal.",
+            "indicator": "Índice de Transformación Digital y Eficiencia de la Gestión Municipal."
+          },
+          {
+            "problem": "Reducida participación de los vecinos en los espacios de concertación, vigilancia y toma de decisiones promovidos por la municipalidad, lo que limita la corresponsabilidad entre autoridades y ciudadanía.",
+            "objective": "Fortalecer la participación activa de la ciudadanía en la gestión municipal.",
+            "goal": "Incrementar en 80% la participación ciudadana, logrando un incremento del 60% en la asistencia a audiencias públicas.",
+            "indicator": "Índice de participación ciudadana en la gestión municipal, nivel de participación en audiencias públicas y estado de los mecanismos de vigilancia ciudadana."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-iBr9YopaGNVQDbGLPKei_9BZWS4dEFrh",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/iBr9YopaGNVQDbGLPKei_9BZWS4dEFrh",
+      "sha256": "20d2b3d13f1223a285d8aa12ed803823070f276d04a75fc9d74c7d2f22226dd3",
+      "accessedAt": "2026-10-02T23:04:22.336Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022508",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022508",
+      "sha256": "c8f77019ba683db13c3d5f2d878846174278aa964bba55f85b5b710376347b66",
+      "accessedAt": "2026-10-02T23:04:22.863Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": "Xvw-EUJeTchLpwGHat_bct0G98duqQlY",
+  "slug": "juan-carlos-martin-zurek-pardo-figueroa",
+  "electionId": "erm-2026",
+  "name": "Juan Carlos Martin Zurek Pardo Figueroa",
+  "givenNames": "Juan Carlos Martin",
+  "surnames": "Zurek Pardo Figueroa",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140110",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:26.056Z",
+      "sourceId": "jne-hv-Xvw-EUJeTchLpwGHat_bct0G98duqQlY"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.A.",
+        "program": "BACHILLER EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "F INMOBILIARIA SAC",
+      "role": "DIRECTOR EJECUTIVO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "ZUDEL SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2018",
+      "to": "2026"
+    },
+    {
+      "employer": "CANCHAS RECREATIVAS SINTENTICAS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2018",
+      "to": "2026"
+    },
+    {
+      "employer": "GLOBAL FACTORING SA",
+      "role": "GERENTE COMERCIAL",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA MOLINA",
+      "role": "ALCALDE DISTRITAL",
+      "from": "2011",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO NACIONAL DE ORGANIZACIÓN",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2013",
+      "to": "2015"
+    },
+    {
+      "position": "SECRETARIO GENERAL NACIONAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2017",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2010"
+    },
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 351125.7,
+        "public": 0,
+        "private": 351125.7
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 99880.9,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 437384.65,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AÑO 2010 TRIMOTO CARGA",
+        "value": 1500
+      },
+      {
+        "type": "AÑO 2014 HONDA PILOT BLANCA",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES Y NEGOCIOS JMJ SAC",
+        "type": "ACCIONES",
+        "quantity": 300,
+        "value": 300
+      },
+      {
+        "company": "CANCHAS RECREATIVAS SINTENTICAS SAC",
+        "type": "ACCIONES",
+        "quantity": 999,
+        "value": 999
+      },
+      {
+        "company": "ZUDEL SAC",
+        "type": "ACCIONES",
+        "quantity": 160875,
+        "value": 160875
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d5fef6cc-0e86-41fd-bbae-6ff27c14ef9d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ab762a29-1176-4158-8afe-f18a8f162075.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada capacidad de atención y protección de animales domésticos",
+            "objective": "Garantizar el bienestar y protección de los animales",
+            "goal": "Animales beneficiados con los servicios de la Veterinaria Municipal",
+            "indicator": "Repotenciación de la Veterinaria Municipal y Albergue Temporal"
+          },
+          {
+            "problem": "Limitada oferta de servicios de atención primaria de salud",
+            "objective": "Fortalecer la red de centros de salud municipales",
+            "goal": "Personas atendidas en Centros Médicos Municipales",
+            "indicator": "Relanzamiento y fortalecimiento de los Centros Médicos Municipales"
+          },
+          {
+            "problem": "Limitada cobertura y efectividad de la videovigilancia",
+            "objective": "Mejorar la cobertura y capacidad de la videovigilancia",
+            "goal": "Incidentes detectados por cámaras",
+            "indicator": "Instalación de nuevas cámaras de videovigilancia con inteligencia artificial"
+          },
+          {
+            "problem": "Necesidad de mejorar el desarrollo humano y la formación técnica de los jóvenes",
+            "objective": "Fortalecer el desarrollo humano y la formación técnica",
+            "goal": "Estudiantes beneficiados con programas de desarrollo y formación",
+            "indicator": "Retomar programa de desarrollo humano y mejoramiento del CETPRO"
+          },
+          {
+            "problem": "Limitada oferta de servicios y programas para el adulto mayor",
+            "objective": "Fortalecer la atención integral al adulto mayor",
+            "goal": "Personas mayores atendidas en programas",
+            "indicator": "Reapertura del CIAM"
+          },
+          {
+            "problem": "Acumulación de cables en desuso en el espacio público",
+            "objective": "Coordinar la limpieza de cables en desuso",
+            "goal": "Reducción de cables en desuso",
+            "indicator": "Gestión de limpieza de cables en desuso con empresas proveedoras"
+          },
+          {
+            "problem": "Insuficiente infraestructura deportiva",
+            "objective": "Incrementar la oferta de espacios deportivos",
+            "goal": "Número de infraestructuras deportivas",
+            "indicator": "Construcción del Polideportivo Municipal"
+          },
+          {
+            "problem": "Insuficientes espacios de cuidado infantil para padres con limitada disponibilidad de tiempo",
+            "objective": "Brindar espacios de cuidado infantil a familias vulnerables",
+            "goal": "Niños atendidos en programa",
+            "indicator": "Implementación del programa \"Madres Guardería\""
+          },
+          {
+            "problem": "Limitado acceso a la red de gas natural",
+            "objective": "Ampliar la cobertura de la red de gas natural",
+            "goal": "Cobertura de gas natural",
+            "indicator": "Gestión con Ministerio de Energía y Minas para expansión de red"
+          },
+          {
+            "problem": "Dificultad para detectar delincuentes y vehículos robados",
+            "objective": "Implementar controles de acceso y detección tecnológica",
+            "goal": "Detecciones efectivas",
+            "indicator": "Instalación de Pórticos de Seguridad Inteligentes \"Escudo Digital La Molina\""
+          },
+          {
+            "problem": "Insuficiente coordinación entre autoridades para prevenir y combatir delincuencia",
+            "objective": "Fortalecer la integración y coordinación interinstitucional",
+            "goal": "Reducción de índices delictivos",
+            "indicator": "Implementación de Patrullaje Integrado con PNP, RENIEC, Fiscalía y Migraciones"
+          },
+          {
+            "problem": "Limitado acceso de mujeres a oportunidades de desarrollo económico y financiero",
+            "objective": "Promover el empoderamiento económico y financiero de las mujeres",
+            "goal": "Mujeres beneficiadas con el programa de empoderamiento",
+            "indicator": "Implementación del programa \"Mujer Molinense\""
+          },
+          {
+            "problem": "Respuesta lenta a emergencias y falta de centralización",
+            "objective": "Optimizar la atención y respuesta a emergencias",
+            "goal": "Mínimo tiempo promedio de respuesta",
+            "indicator": "Implementación de Central de Emergencia \"La Molina SOS\" - Sistema Unificado 24/7"
+          },
+          {
+            "problem": "Ausencia de servicios para la disposición final de mascotas",
+            "objective": "Brindar servicios para la disposición final digna de mascotas",
+            "goal": "Mascotas beneficiadas con el servicio de disposición fina",
+            "indicator": "Implementar un cinerario y columbario en el Parque Ecológico"
+          },
+          {
+            "problem": "Insuficiente iluminación pública en zonas de riesgo",
+            "objective": "Mejorar la iluminación pública en el distrito",
+            "goal": "Cobertura de iluminación LED",
+            "indicator": "Implementación de sistema de iluminación pública inteligente LED"
+          },
+          {
+            "problem": "Dificultad para el reencuentro entre mascotas y propietarios",
+            "objective": "Pronto encuentro de mascotas con sus propietarios",
+            "goal": "Reencuentro de mascotas con sus propietarios",
+            "indicator": "Programa de atención y difusión multiplataforma para mascotas perdidas"
+          },
+          {
+            "problem": "Insuficiente orientación y programas para personas con discapacidad",
+            "objective": "Mejorar la inclusión y atención a personas con discapacidad",
+            "goal": "Personas con discapacidad atendidas",
+            "indicator": "Fortalecimiento de la OMAPED"
+          },
+          {
+            "problem": "Limitado espacio y facilidades para el depósito de residuos diversos",
+            "objective": "Implementar un espacio integral para recolección y reciclaje",
+            "goal": "Volumen de residuos revalorizados",
+            "indicator": "Implementación de \"Mega Punto Limpio\" para recepción de todo tipo de residuos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de apoyo integral a emprendedores locales",
+            "objective": "Fortalecer el ecosistema emprendedor del distrito",
+            "goal": "Emprendimientos incubados anualmente",
+            "indicator": "Implementación del programa \"Incubadora de negocios molinenses\""
+          },
+          {
+            "problem": "Limitado acceso de productores locales a mercados",
+            "objective": "Potenciar el desarrollo comercial local y artesanal",
+            "goal": "Mercados saludables itinerantes operando",
+            "indicator": "Repotenciación del programa \"Mercados saludables\" en espacios públicos descentralizados e itinerantes"
+          },
+          {
+            "problem": "Semaforización no adaptativa",
+            "objective": "Optimizar flujovehicular y peatonal",
+            "goal": "Semáforos inteligentes instalados",
+            "indicator": "Semaforización inteligente con sensores de flujo"
+          },
+          {
+            "problem": "Limitada responsabilidad social empresarial",
+            "objective": "Incentivar la participación empresarial en desarrollo local",
+            "goal": "Empresas participantes en programa RSE",
+            "indicator": "Programa de beneficios tributarios por responsabilidad social"
+          },
+          {
+            "problem": "Comerciantes informales sin capacitación",
+            "objective": "Formalizar y capacitar a comerciantes del distrito",
+            "goal": "Comerciantes empadronados y capacitados",
+            "indicator": "Empadronamiento y capacitación integral de comerciantes"
+          },
+          {
+            "problem": "Complejidad en trámites municipales para el ciudadano",
+            "objective": "Simplificar y digitalizar los trámites municipales",
+            "goal": "Trámites municipales virtualizados",
+            "indicator": "Implementación de la Plataforma Única de Atención al Ciudadano"
+          },
+          {
+            "problem": "Gestión municipal no integrada tecnológicamente",
+            "objective": "Transformar La Molina en Smart City",
+            "goal": "Cobertura Smart City del distrito",
+            "indicator": "Implementación integral de tecnología Smart City"
+          },
+          {
+            "problem": "Trámites complejos para licencias comerciales",
+            "objective": "Simplificar procesos administrativos comerciales",
+            "goal": "Tiempo promedio de trámite reducido",
+            "indicator": "Ventanilla única digital para licencias de bajo riesgo"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Pérdida del carácter residencial y crecimiento desordenado",
+            "objective": "Preservar la zonificación y carácter residencial del distrito",
+            "goal": "Cumplimiento de zonificación residencial",
+            "indicator": "Zonificación clara y normativa específica para residencialidad"
+          },
+          {
+            "problem": "Ciclovías desconectadas e insuficientes",
+            "objective": "Consolidar y ampliar ciclovías interconectadas",
+            "goal": "35 km interconectados",
+            "indicator": "Kilómetros de ciclovías integradas"
+          },
+          {
+            "problem": "Dependencia de energía convencional en espacios públicos",
+            "objective": "Implementar sistemas eficientes de uso de agua y energía en el distrito",
+            "goal": "Espacios recreativos con energía solar",
+            "indicator": "Instalación progresiva de paneles solares en espacios recreativos"
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios recreativos de calidad",
+            "objective": "Convertir a La Molina en el primer distrito con mayor área verde por habitante",
+            "goal": "ncrementar los M² de área verde por habitante Parques con riego de aguas tratadas Predios con techos verdes",
+            "indicator": "Plan maestro del \"Parque Ecológico - La Molina\" con convenio USMPUNALM Construcción de PTAR para riego de parques y jardines Programa \"Techos Verdes y Jardines Verticales\" con beneficios tributarios"
+          },
+          {
+            "problem": "Predominio del transporte motorizado contaminante",
+            "objective": "Promover transporte limpio y sostenible en el distrito",
+            "goal": "Cobertura del Molibus",
+            "indicator": "Implementación del \"Molibus\" eléctrico inclusivo y seguro"
+          },
+          {
+            "problem": "Desperdicio de agua en riego de áreas verdes",
+            "objective": "Implementar sistemas eficientes de uso de agua y energía en el distrito",
+            "goal": "Porcentaje de áreas verdes con riego tecnificado",
+            "indicator": "Implementación gradual del Sistema de Riego Tecnificado (aspersión, goteo, microaspersión)"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitado acceso de sectores vulnerables a beneficios municipales",
+            "objective": "Garantizar inclusión social en la gestión municipal",
+            "goal": "Sectores vulnerables con beneficios municipales",
+            "indicator": "Incorporación de beneficios municipales a sectores menos favorecidos"
+          },
+          {
+            "problem": "Trámites burocráticos y procesos lentos para licencias",
+            "objective": "Modernizar y digitalizar los procesos administrativos municipales",
+            "goal": "Licencias de bajo riesgo digitalizadas",
+            "indicator": "Modernización, digitalización y simplificación de trámites para licencias de actividades de bajo riesgo"
+          },
+          {
+            "problem": "Distanciamiento entre autoridad municipal y vecinos",
+            "objective": "Establecer mecanismos de acercamiento directo entre la autoridad y la ciudadanía",
+            "goal": "Atenciones directas del Alcalde programadas",
+            "indicator": "Implementación del programa \"Alcaldía de puertas abiertas\" con atención personal del Alcalde"
+          },
+          {
+            "problem": "Necesidad de mantener estándares de transparencia y calidad institucional",
+            "objective": "Consolidar una gestión municipal transparente, eficiente y libre de corrupción",
+            "goal": "Certificación ISO 37001 / ISO 9001 vigente",
+            "indicator": "Re-certificación del sistema ISO 37001: Gestión Antisoborno Re-certificación del sistema ISO 9001: Gestión de Procesos de Calidad"
+          },
+          {
+            "problem": "Limitada participación ciudadana en rendición de cuentas",
+            "objective": "Promover la participación ciudadana activa en la gestión municipal",
+            "goal": "Sesiones de rendición de cuentas realizadas",
+            "indicator": "Implementación de rendición de cuentas públicas periódicas"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Xvw-EUJeTchLpwGHat_bct0G98duqQlY",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Xvw-EUJeTchLpwGHat_bct0G98duqQlY",
+      "sha256": "c333b22a3d5c31cfe9e5423d2270961efd7a45be6d94b8fec696c99a74aa76f3",
+      "accessedAt": "2026-10-02T22:57:26.056Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012695",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012695",
+      "sha256": "b0a8a251d076760b4a59ee0bde38c8937a58e7449f38f6ef3f1d3242079291be",
+      "accessedAt": "2026-10-02T22:57:26.581Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "84Xi8jBoJGxo6CsgIo4p0frPj5rWovgk",
+  "slug": "alan-freddy-mendoza-ramos",
+  "electionId": "erm-2026",
+  "name": "Alan Freddy Mendoza Ramos",
+  "givenNames": "Alan Freddy",
+  "surnames": "Mendoza Ramos",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:03.959Z",
+      "sourceId": "jne-hv-84Xi8jBoJGxo6CsgIo4p0frPj5rWovgk"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "Cisco Networking Academy",
+        "program": "Cisco Certified Network Associate (CCNA) v7",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "Escuela Superior de Tecnología SENATI",
+        "program": "Electrónica",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Tecnologica del Perú",
+        "program": "Ingeniería de Sistemas e Informática",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Onplay Electrónics",
+      "role": "Profesional en TI / infraestructura / Independiente",
+      "from": "2010",
+      "to": "2026"
+    },
+    {
+      "employer": "BMP INGENIEROS S.A.",
+      "role": "Profesional en Infraestructura / Coordinador de instalaciones",
+      "from": "2009",
+      "to": "2009"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 38400,
+        "public": 0,
+        "private": 38400
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1a4054dd-41fe-4134-8354-828bbb11f0c6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/114d7f03-2c58-43bc-a72f-4dd5bfb7dad0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana y violencia en el distrito, alcanzando un 92.6% de temor entre los habitantes.",
+            "objective": "Reducir la percepción de inseguridad y disminuir la incidencia delictiva mediante la implementación de un sistema de videovigilancia de última generación, bajo un modelo de cooperación internacional.",
+            "goal": "Reducir la percepción de inseguridad del 92.6% al 47.6% al 2030 y bajar la tasa de homicidios en un 30%.",
+            "indicator": "Porcentaje de percepción de inseguridad ciudadana y tasa de homicidios."
+          },
+          {
+            "problem": "Vulnerabilidad social y falta de oportunidades para los jóvenes, evidenciada por un 31% de la población con al menos una Necesidad Básica Insatisfecha (NBI), alta informalidad laboral y desempleo juvenil.",
+            "objective": "Reducir el porcentaje de población con NBI del 31% al 20% y gestionar 1000 oportunidades de inserción laboral de calidad para jóvenes, mediante la articulación con la oferta del Estado y el sector privado local.",
+            "goal": "Reducir la población con NBI del 31% al 20% y generar 1000 oportunidades efectivas de inserción laboral con empleos temporales, formales y emprendimientos.",
+            "indicator": "Porcentaje de población con Necesidades Básicas Insatisfechas (NBI) y número de oportunidades de inserción laboral generadas."
+          },
+          {
+            "problem": "Prevalencia crítica de anemia y desnutrición infantil, especialmente en niños de 4 a 11 meses, causada por la baja adherencia al tratamiento y un débil seguimiento domiciliario.",
+            "objective": "Reducir la prevalencia de anemia en menores de 3 años al 20% al 2030, asegurando que el 100% de los niños diagnosticados completen su suplementación a través de un sistema de trazabilidad municipal articulado con el MINSA.",
+            "goal": "Disminuir la tasa de anemia en menores de 3 años del 38% al 20% al 2030, logrando que el 100% de los niños diagnosticados completen su suplementación.",
+            "indicator": "Tasa de prevalencia de anemia en menores de 3 años y porcentaje de niños diagnosticados que completan su suplementación."
+          },
+          {
+            "problem": "Crisis de sobrepoblación de animales en situación de abandono y existencia de criaderos clandestinos, limitando el impacto de las políticas de bienestar animal existentes.",
+            "objective": "Activar y articular el módulo de adopción municipal con los albergues y la comunidad para fomentar la adopción responsable y reducir la población de animales en situación de calle.",
+            "goal": "Empadronar al menos al 70% de los albergues, activar el módulo \"Mi mejor amigo\", facilitar al menos 200 adopciones responsables por año a partir del segundo año y reducir en un 20% los reportes de animales en situación de abandono.",
+            "indicator": "Porcentaje de albergues empadronados, número de consultas mensuales en el módulo de adopción, número de adopciones responsables por año y porcentaje de reducción de reportes de animales en situación de abandono."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada informalidad en el transporte público, donde el 92% de los vehículos operan de manera informal, generando caos y accidentes en el distrito.",
+            "objective": "Reducir la informalidad vehicular del 92% al 70% mediante una estrategia de articulación con la Autoridad de Transporte Urbano para Lima y Callao (ATU) y acciones focalizadas de ordenamiento.",
+            "goal": "Reducir la informalidad vehicular al 70% al 2030 y disminuir los accidentes de tránsito en zonas críticas en un 30%.",
+            "indicator": "Porcentaje de informalidad vehicular y número de accidentes de tránsito en zonas críticas."
+          },
+          {
+            "problem": "Comercio ambulatorio desordenado que invade el espacio público y genera competencia desleal, en un contexto donde el 70.9% de la población ocupada en comercio y servicios opera en la informalidad.",
+            "objective": "Formalizar al 50% de los comerciantes ambulatorios censados y recuperar el espacio público para el peatón, aprovechando la normativa municipal vigente.",
+            "goal": "Formalizar al 50% de los comerciantes ambulatorios censados al 2030 y recuperar 10 puntos críticos de espacio público para el peatón.",
+            "indicator": "Porcentaje de comerciantes ambulatorios formalizados y número de puntos críticos de espacio público recuperados."
+          },
+          {
+            "problem": "Alta morosidad en el pago de impuestos y deudas financieras, estimada en más del 60%, lo que limita los recursos propios del municipio para la inversión.",
+            "objective": "Reducir la morosidad en el impuesto predial en 20 puntos porcentuales, pasando de una morosidad estimada superior al 60% a menos del 40%.",
+            "goal": "Reducir la morosidad a menos del 40% e incrementar los ingresos propios en un 25%.",
+            "indicator": "Tasa de morosidad del impuesto predial y porcentaje de incremento de los ingresos propios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión inadecuada de residuos sólidos, con una generación de 489.7 toneladas diarias y el desperdicio del 25% de este total, que corresponde a material reciclable.",
+            "objective": "Implementar un modelo de economía circular que permita recuperar y comercializar los residuos sólidos reciclables, reduciendo el volumen enviado al relleno sanitario y generando ingresos sostenibles.",
+            "goal": "Para 2030, reciclar el 25% de los residuos sólidos municipales y lograr que el programa sea completamente autosostenible, cubriendo sus costos operativos con los ingresos generados.",
+            "indicator": "Porcentaje de residuos sólidos municipales reciclados y nivel de autosostenibilidad del programa de reciclaje."
+          },
+          {
+            "problem": "Déficit significativo de áreas verdes, con solo 2.3 m² por habitante, cifra muy por debajo de los 9 m² recomendados por la Organización Mundial de la Salud (OMS).",
+            "objective": "Aumentar la superficie de áreas verdes por habitante a 5.0 m², mediante la recuperación de espacios abandonados y la restauración de parques.",
+            "goal": "Aumentar el índice de áreas verdes de 2.3 m² a 5.0 m² por habitante.",
+            "indicator": "Índice de metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Brecha de saneamiento básico, donde el 14% de las viviendas no tiene acceso a la red pública de agua potable y desagüe, afectando principalmente a asentamientos humanos y zonas periféricas.",
+            "objective": "Articular con SEDAPAL para facilitar la reducción de la brecha de acceso a agua potable y desagüe del 14% al 5%.",
+            "goal": "Lograr que SEDAPAL complete el empalme de 2,500 nuevas conexiones domiciliarias en asentamientos humanos y zonas periféricas, reduciendo la brecha de saneamiento al 5%.",
+            "indicator": "Porcentaje de la brecha de agua potable y desagüe y número de nuevas viviendas con conexiones domiciliarias."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La información pública municipal no es oportuna ni amigable, lo que limita el control ciudadano, genera desconfianza y satura las ventanillas de atención presencial.",
+            "objective": "Implementar un portal web y una aplicación móvil que permitan realizar trámites en línea, consultar información de obras y presupuestos en tiempo real, y acceder a datos abiertos actualizados.",
+            "goal": "Lograr que el portal esté operativo en el primer año y alcanzar un índice de transparencia superior al 80% al 2030.",
+            "indicator": "Índice de transparencia municipal según la Defensoría del Pueblo."
+          },
+          {
+            "problem": "Ausencia de un mecanismo de medición estándar sobre la calidad del servicio municipal, lo que impide conocer la percepción real del vecino y dificulta la identificación de áreas críticas para la mejora.",
+            "objective": "Medir la satisfacción ciudadana de manera continua, identificar áreas de mejora y elevar la calidad del servicio municipal a los estándares del sector privado.",
+            "goal": "Al 2030, implementar un sistema permanente de medición de satisfacción, logrando que al menos el 85% de los usuarios califique la atención como satisfactoria o muy satisfactoria, y reducir en un 50% las incidencias y quejas recurrentes.",
+            "indicator": "Porcentaje de usuarios que califican la atención como satisfactoria o muy satisfactoria y porcentaje de reducción de incidencias y quejas recurrentes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-84Xi8jBoJGxo6CsgIo4p0frPj5rWovgk",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/84Xi8jBoJGxo6CsgIo4p0frPj5rWovgk",
+      "sha256": "2a6d32247dea9610f9fb69648ed4920410057537ee80ec19098bfa0dc0b120bd",
+      "accessedAt": "2026-10-02T23:04:03.959Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021970",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021970",
+      "sha256": "5ecd16f1dc16fa5d5c25e04419449389cc4a23a3968d26080518bb0748ec0555",
+      "accessedAt": "2026-10-02T23:04:04.438Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

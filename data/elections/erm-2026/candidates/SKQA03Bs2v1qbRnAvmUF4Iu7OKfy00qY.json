@@ -1,0 +1,152 @@
+{
+  "id": "SKQA03Bs2v1qbRnAvmUF4Iu7OKfy00qY",
+  "slug": "luis-eusebio-poma-tacuri",
+  "electionId": "erm-2026",
+  "name": "Luis Eusebio Poma Tacuri",
+  "givenNames": "Luis Eusebio",
+  "surnames": "Poma Tacuri",
+  "age": 39,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:36.506Z",
+      "sourceId": "jne-hv-SKQA03Bs2v1qbRnAvmUF4Iu7OKfy00qY"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "colegio gustavo mohme llona",
+      "role": "docente",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 42000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1efb92fb-c7bf-434d-9870-1e0f49fadc98.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a0e1f48b-b951-422e-b00c-82124bba9e07.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de victimización y robo agravado en los principales ejes comerciales del distrito de Ate.",
+            "objective": "Reducir los índices de victimización y robo agravado en los principales ejes comerciales del distrito.",
+            "goal": "Reducir la percepción de inseguridad por debajo del 35% e instalar 500 cámaras de inteligencia artificial operativas al 100%.",
+            "indicator": "Porcentaje de incidencia delictiva reportada por la PNP en cuadrantes críticos."
+          },
+          {
+            "problem": "Elevados niveles de anemia y desnutrición crónica infantil en menores de tres años en asentamientos humanos.",
+            "objective": "Reducir los niveles de anemia y desnutrición crónica infantil en menores de 3 años.",
+            "goal": "Disminución de la anemia infantil a menos del 15% mediante el programa municipal de promotores de salud.",
+            "indicator": "Tasa de prevalencia de anemia infantil en Asentamientos Humanos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio ambulatorio informal y desordenado en los nodos viales más congestionados como Ceres y Huaycán.",
+            "objective": "Formalizar el comercio ambulatorio en los nodos viales más congestionados (Ceres, Huaycán).",
+            "goal": "Formalización e inserción de 8,000 comerciantes en los 3 nuevos Mercados de Oportunidad Municipal.",
+            "indicator": "Número de comerciantes autónomos reubicados y formalizados con licencias vigentes."
+          },
+          {
+            "problem": "Tiempos de tramitación excesivos para la formalización empresarial y la obtención de licencias de funcionamiento para MYPES.",
+            "objective": "Acelerar la formalización empresarial y reducir tiempos de trámites de licencias para MYPES.",
+            "goal": "Implementación del canal digital express con emisión automatizada en un máximo de 48 horas hábiles.",
+            "indicator": "Días promedio para la entrega de licencias de funcionamiento de mediano riesgo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Presencia de micro y macro basurales en avenidas principales y zonas altas por una gestión de residuos ineficiente.",
+            "objective": "Erradicar la presencia de micro y macro basurales en avenidas principales y zonas altas.",
+            "goal": "Alcanzar el 100% de cobertura de recojo diario georreferenciado por GPS y camiones fiscalizados.",
+            "indicator": "Toneladas de residuos sólidos urbanos recolectados de manera formal y eficiente."
+          },
+          {
+            "problem": "Bajo índice de áreas verdes urbanas por habitante en zonas residenciales e industriales del distrito.",
+            "objective": "Aumentar el índice de áreas verdes urbanas per cápita en zonas residenciales e industriales.",
+            "goal": "Alcanzar los 4.5 m² por habitante al 2030 mediante la forestación técnica y uso de aguas de tratamiento.",
+            "indicator": "Metros cuadrados de áreas verdes mantenidas por habitante en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja digitalización de los servicios de atención al ciudadano, lo que genera demoras y trámites presenciales.",
+            "objective": "Migrar los servicios de atención al ciudadano hacia plataformas electrónicas transparentes.",
+            "goal": "Lograr el 85% de trámites totalmente virtuales con pasarelas de pago y firma digital integrada.",
+            "indicator": "Porcentaje de trámites internos y externos digitalizados con sistema cero papel."
+          },
+          {
+            "problem": "Falta de transparencia y mecanismos de control ciudadano en los procesos de contratación y ejecución de obras públicas.",
+            "objective": "Implementar una política de anticorrupción, fiscalización transparente y presupuesto participativo.",
+            "goal": "Institucionalizar comités vecinales de fiscalización de obras y transmitir en tiempo real todos los procesos de licitación y contratación del municipio.",
+            "indicator": "Implementación de veedurías ciudadanas autónomas y transmisión pública de procesos de selección."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-SKQA03Bs2v1qbRnAvmUF4Iu7OKfy00qY",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/SKQA03Bs2v1qbRnAvmUF4Iu7OKfy00qY",
+      "sha256": "290b9c2b7dd249ed463a65fa477b84d8ec5ab613b6ab464610809bbb9b096ae9",
+      "accessedAt": "2026-10-02T22:50:36.506Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017901",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017901",
+      "sha256": "e2f3e9da9aa2d4b0ae3bf5e3f3e4971f5477cdbb25ea9e9c3d925526cee41388",
+      "accessedAt": "2026-10-02T22:50:36.978Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

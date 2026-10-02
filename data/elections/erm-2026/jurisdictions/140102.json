@@ -1,0 +1,81 @@
+{
+  "id": "140102",
+  "name": "Ancón",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU",
+      "name": "Lauro Cristobal Muñoz Soldevilla",
+      "party": {
+        "id": 1366,
+        "name": "FUERZA POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44839,
+      "expediente": "ERM.2026023158"
+    },
+    {
+      "candidateId": "0ZtrJFV9PgjVDcEz5IbHEQMEUOVSFAaM",
+      "name": "Pedro John Barrera Bernui",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42908,
+      "expediente": "ERM.2026012744"
+    },
+    {
+      "candidateId": "E4Y00bJ5gST3NVj91jTnh8wbHxEJ5eeg",
+      "name": "Oscar Enrique Aliaga Abanto",
+      "party": {
+        "id": 2956,
+        "name": "PARTIDO PAIS PARA TODOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49689,
+      "expediente": "ERM.2026011423"
+    },
+    {
+      "candidateId": "RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW",
+      "name": "Felipe Arakaki Shapiama",
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46303,
+      "expediente": "ERM.2026020410"
+    },
+    {
+      "candidateId": "bVvCnTnOIB9cp8to2E3wZjuVz7U5ImiC",
+      "name": "Victor Hernan Medina Zuñiga",
+      "party": {
+        "id": 2967,
+        "name": "PROGRESEMOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50160,
+      "expediente": "ERM.2026032255"
+    },
+    {
+      "candidateId": "URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3",
+      "name": "Pablo Cesar Ramos Ocaña",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52505,
+      "expediente": "ERM.2026016534"
+    }
+  ]
+}

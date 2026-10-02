@@ -1,0 +1,200 @@
+{
+  "id": "yx7wUgvnMJpV4KutdOgcHOULvezM2UcR",
+  "slug": "maria-rosario-lopez-solano",
+  "electionId": "erm-2026",
+  "name": "Maria Rosario Lopez Solano",
+  "givenNames": "Maria Rosario",
+  "surnames": "Lopez Solano",
+  "age": 67,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:32.564Z",
+      "sourceId": "jne-hv-yx7wUgvnMJpV4KutdOgcHOULvezM2UcR"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "LICENCIADA DE PSICOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1989"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN PSICOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1985"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 48000,
+        "public": 0,
+        "private": 48000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "auto",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "DEPOSITO SISTEMA FINANCIERO PANDERO SA EAFC (SOCIEDAD CONYUGAL) CONTRATO 4344-163-25 POR EL MONTO DE S/16 386.75 CONTRATO 6677-057-19 POR EL MONTO DE S/43 723.68",
+    "TENGO UNA EMPRESA AURIVAL SAC CON RUC 20515203193 QUE ESTA INACTIVA."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/07acc1e8-2c30-40d7-9ace-540972e2ac2d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/36f50c93-f875-4afa-81a0-b251f6f5be98.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia de políticas locales de salud preventiva y hábitos saludables, con un déficit en la oferta de atención pública para la población, especialmente la más vulnerable.",
+            "objective": "Promocionar la salud preventiva y hábitos saludables, con preferencia en la población vulnerable.",
+            "goal": "Implementar programas como 'Cunas Emocionales' para padres primerizos, 'Salud Mental Escolar' para la detección temprana de bullying y ansiedad, y un 'CIAM Activo y Preventivo' para adultos mayores.",
+            "indicator": "Número de programas de salud integral implementados. Número de alianzas estratégicas con instituciones educativas y de la sociedad civil."
+          },
+          {
+            "problem": "Altos índices de delincuencia común y organizada que generan una percepción de inseguridad en la población del distrito de San Luis.",
+            "objective": "Fortalecer la seguridad ciudadana en el distrito.",
+            "goal": "Renovar e incrementar la flota vehicular de serenazgo en 12 unidades, adquirir 02 drones para patrullaje aéreo e implementar fibra óptica para el soporte de las cámaras de videovigilancia.",
+            "indicator": "Número de unidades vehiculares de serenazgo operativas. Número de cámaras de videovigilancia instaladas. Número de drones para patrullaje aéreo."
+          },
+          {
+            "problem": "Falta de políticas y espacios públicos que fomenten la inclusión social, la integración ciudadana y familiar a través del deporte, la recreación, el arte y la cultura.",
+            "objective": "Fomentar las prácticas deportivas, recreativas, artísticas y culturales con inclusión social.",
+            "goal": "Gestionar programas como 'Cinepark', 'Ritmo Color y Sabor en San Luis' y 'DivertiFamilia' en parques, así como implementar ferias de emprendimientos y talleres de formación laboral para jóvenes en riesgo.",
+            "indicator": "Número de programas culturales y recreativos implementados en espacios públicos. Número de talleres de formación laboral para jóvenes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil promoción del potencial gastronómico del distrito y falta de articulación con las organizaciones de emprendedores para mejorar la calidad del servicio.",
+            "objective": "Promover el emprendimiento gastronómico como destino turístico.",
+            "goal": "Implementar corredores gastronómicos y realizar convenios con universidades e instituciones para la capacitación de emprendedores en administración, finanzas, producción y marketing.",
+            "indicator": "Número de talleres de capacitación para emprendedores gastronómicos. Número de convenios con instituciones educativas."
+          },
+          {
+            "problem": "Existencia de trabas burocráticas e insuficientes medidas para la formalización de negocios y la promoción de iniciativas de inversión económica en el distrito.",
+            "objective": "Promover la competitividad económica sostenible en el distrito.",
+            "goal": "Crear la incubadora de negocios municipal 'Emprende San Luis' con enfoque en mujeres y jóvenes, y cambiar la fiscalización agresiva por una orientada al acompañamiento del comerciante.",
+            "indicator": "Número de emprendimientos apoyados por la incubadora municipal. Número de corredores gastronómicos implementados."
+          },
+          {
+            "problem": "Falta de políticas de incentivo y articulación con las empresas de las zonas industriales para generar fuentes de trabajo para los jóvenes del distrito.",
+            "objective": "Fomentar la empleabilidad local, especialmente de la población joven.",
+            "goal": "Crear una bolsa de trabajo local mediante alianzas con las empresas del distrito para priorizar la contratación de técnicos y profesionales jóvenes de San Luis.",
+            "indicator": "Número de alianzas estratégicas con empresas del distrito y zonas colindantes. Número de jóvenes contratados a través de la bolsa de trabajo local."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Carencia de una política local de planificación urbana que ordene el crecimiento vertical y atienda el deterioro de la infraestructura en zonas críticas del distrito.",
+            "objective": "Reforzar la planificación urbana concertada.",
+            "goal": "Implementar el 'Urbanismo Terapéutico' mediante la remodelación de parques para que sean inclusivos, con rampas para adultos mayores, juegos para niños con habilidades diferentes y 'Rincones de Paz'.",
+            "indicator": "Número de parques remodelados con criterios de inclusión y accesibilidad. Diseño de espacios para la lectura y el descanso."
+          },
+          {
+            "problem": "Insuficientes esfuerzos en la gestión ambiental para mitigar la contaminación y sentar las bases de una cultura ambiental en la comunidad.",
+            "objective": "Fortalecer la gestión ambiental sostenible.",
+            "goal": "Implementar el programa 'Techos Verdes y San Luis Limpio', consistente en la segregación de residuos desde casa, premiando a los vecinos puntuales con el mantenimiento de sus áreas verdes.",
+            "indicator": "Número de viviendas participantes en el programa de segregación de residuos en la fuente. Porcentaje de áreas verdes mantenidas."
+          },
+          {
+            "problem": "Falta de organización y capacitación de la comunidad para la prevención y respuesta ante riesgos de desastres naturales, considerando los niveles de exposición sísmica del distrito.",
+            "objective": "Implementar políticas de prevención y gestión de riesgos de desastres.",
+            "goal": "Ejecutar el programa 'Vías Seguras y Accesibles' a través de la reparación de veredas y rampas, y la instalación de semaforización inteligente en avenidas críticas como Las Torres o San Luis.",
+            "indicator": "Número de veredas y rampas reparadas. Número de avenidas críticas con semaforización inteligente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Bajos niveles de acceso y transparencia en la gestión municipal, lo que genera colas innecesarias y afecta el tiempo de los vecinos para realizar trámites.",
+            "objective": "Fortalecer los mecanismos de transparencia y anticorrupción en la gestión institucional.",
+            "goal": "Implementar una 'Ventanilla Única Digital' para la digitalización de trámites, con el fin de evitar colas innecesarias que afectan el tiempo familiar de los vecinos.",
+            "indicator": "Porcentaje de trámites municipales digitalizados. Tiempo promedio de atención por trámite."
+          },
+          {
+            "problem": "Deficiencias en la calidad de la atención al vecino, generando que el ciudadano no se sienta escuchado y experimente estrés en sus interacciones con el municipio.",
+            "objective": "Mejorar la calidad y calidez en la atención al ciudadano.",
+            "goal": "Realizar una auditoría y rediseño de los procesos municipales, y capacitar al personal administrativo en inteligencia emocional y atención asertiva para que el vecino salga escuchado y no estresado.",
+            "indicator": "Número de procesos municipales rediseñados. Número de capacitaciones al personal administrativo en habilidades blandas."
+          },
+          {
+            "problem": "Escasa participación de las juntas vecinales en la vigilancia y toma de decisiones sobre las obras y la gestión del presupuesto participativo del distrito.",
+            "objective": "Reforzar la participación vecinal en la vigilancia ciudadana y la gestión municipal.",
+            "goal": "Implementar un 'Presupuesto Participativo Real', convocando a las juntas vecinales para que decidan las obras del distrito, devolviéndoles el sentido de pertenencia y control sobre su comunidad.",
+            "indicator": "Número de juntas vecinales convocadas para la decisión de obras. Porcentaje del presupuesto participativo decidido por la comunidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-yx7wUgvnMJpV4KutdOgcHOULvezM2UcR",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yx7wUgvnMJpV4KutdOgcHOULvezM2UcR",
+      "sha256": "dd6a8f64eb85fdfcee48722c0d3a924521fbfeb91cca269faaef3e845ed13e79",
+      "accessedAt": "2026-10-02T23:04:32.564Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016442",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016442",
+      "sha256": "797aac60c522f13d7b8cbd74a3edfdd18101dca7946087725ec7290bfcd4b6df",
+      "accessedAt": "2026-10-02T23:04:33.204Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

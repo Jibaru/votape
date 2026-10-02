@@ -1,0 +1,263 @@
+{
+  "id": "CP6XzKtqTR-FyEJyLFqzDSBVxs9Q2LBf",
+  "slug": "jorge-henry-sarmiento-reynoso",
+  "electionId": "erm-2026",
+  "name": "Jorge Henry Sarmiento Reynoso",
+  "givenNames": "Jorge Henry",
+  "surnames": "Sarmiento Reynoso",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 2933,
+    "name": "LIBERTAD POPULAR"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:59.536Z",
+      "sourceId": "jne-hv-CP6XzKtqTR-FyEJyLFqzDSBVxs9Q2LBf"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2010"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6fce472e-52dd-4f95-905f-02ced6e4b9dc.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a3d99c71-074c-44a3-9b5b-887064f7335b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado de la población a servicios de salud especializados, de emergencia y a medicamentos asequibles.",
+            "objective": "Ampliar la cobertura de salud municipal con énfasis en geriatría, salud mental, asistencia de emergencia y acceso a medicamentos a bajo costo.",
+            "goal": "Implementar un Policlínico Municipal Ampliado, una Línea Única de Emergencia y una Red de Farmacias Municipales con precios sociales.",
+            "indicator": "Número de áreas especializadas implementadas en el policlínico. Cantidad de medicamentos esenciales disponibles en la red de farmacias."
+          },
+          {
+            "problem": "Deficiente alumbrado público que incrementa la percepción de inseguridad y limita el uso nocturno de los espacios.",
+            "objective": "Modernizar integralmente el sistema de alumbrado público del distrito para mejorar la seguridad ciudadana y la calidad de vida.",
+            "goal": "Reemplazar el 100% de las luminarias antiguas por tecnología LED para lograr una \"Breña Iluminada 100% LED\".",
+            "indicator": "Porcentaje de luminarias de vapor de sodio reemplazadas por tecnología LED de alta potencia."
+          },
+          {
+            "problem": "Brecha digital que limita el acceso a recursos educativos y tecnológicos para niños y jóvenes.",
+            "objective": "Reducir la brecha digital proporcionando acceso a internet y herramientas tecnológicas a costos sociales.",
+            "goal": "Implementar Bibliotecas Digitales con WiFi Escolar en zonas de bajos recursos y habilitar Cabinas Estudiantiles con software de diseño y programación.",
+            "indicator": "Número de puntos de conexión WiFi Escolar implementados. Número de jóvenes utilizando las Cabinas Estudiantiles."
+          },
+          {
+            "problem": "Existencia de viviendas en quintas históricas con condiciones de precariedad estructural, cuyos residentes no acceden a programas de reforzamiento habitacional del Estado.",
+            "objective": "Realizar un diagnóstico estructural de las quintas históricas para facilitar su postulación a fondos de programas nacionales de vivienda, como Techo Propio y Mivivienda.",
+            "goal": "Censar el 100% de las quintas históricas del distrito para diagnosticar su estado y gestionar la postulación de al menos el 50% de las viviendas precarias a programas nacionales de vivienda.",
+            "indicator": "Porcentaje de quintas históricas censadas. Número de expedientes de postulación a fondos de reforzamiento habitacional presentados."
+          },
+          {
+            "problem": "Proliferación de plagas en mercados y parques que representa un riesgo para la salud pública.",
+            "objective": "Proteger la salud de los residentes mediante la ejecución de un programa estructural de desratización en espacios públicos.",
+            "goal": "Establecer un cronograma anual de desratización, en coordinación con el MINSA, para el 100% de los mercados y parques, utilizando cebaderos de seguridad.",
+            "indicator": "Porcentaje de mercados y parques del distrito incluidos en el cronograma anual de desratización."
+          },
+          {
+            "problem": "Brecha digital y educativa que afecta a niños y jóvenes de zonas con bajos recursos, limitando sus oportunidades de desarrollo académico y profesional.",
+            "objective": "Reducir la brecha digital mediante la instalación de puntos de conexión a internet gratuitos y la creación de espacios equipados con software para el aprendizaje de carreras tecnológicas a costo social.",
+            "goal": "Instalar puntos de conexión a internet en el 100% de las zonas de bajos recursos identificadas y capacitar a 500 jóvenes en software de diseño y programación durante el periodo de gobierno.",
+            "indicator": "Número de bibliotecas digitales y puntos de WiFi escolar implementados. Cantidad de jóvenes capacitados en las cabinas estudiantiles."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud especializados y asequibles, particularmente en áreas de geriatría y salud mental, para los residentes del distrito.",
+            "objective": "Ampliar la cobertura de los servicios de salud municipal mediante la implementación de áreas especializadas en el policlínico y la creación de programas de tarifas sociales.",
+            "goal": "Implementar al 100% las áreas especializadas de Geriatría y Salud Mental en el Policlínico Municipal y establecer el programa 'Martes de Salud Social' durante el primer año de gestión.",
+            "indicator": "Porcentaje de implementación de las áreas de Geriatría y Salud Mental. Número de residentes atendidos bajo el programa de tarifas reducidas."
+          },
+          {
+            "problem": "Insuficiente oferta de servicios de cuidado infantil y falta de mecanismos para la protección de la niñez.",
+            "objective": "Crear una red de guarderías de barrio y fortalecer la detección temprana del maltrato infantil en alianza con el MIMP.",
+            "goal": "Habilitar guarderías estratégicas cerca de mercados principales e instalar módulos de la DEMUNA para garantizar un entorno seguro.",
+            "indicator": "Número de guarderías de barrio habilitadas. Número de módulos de la DEMUNA instalados en las guarderías."
+          },
+          {
+            "problem": "Existencia de viviendas en condición de precariedad estructural, especialmente en las quintas históricas del distrito.",
+            "objective": "Diagnosticar la situación de las viviendas precarias para gestionar su acceso a programas nacionales de reforzamiento habitacional.",
+            "goal": "Realizar un \"Censo de Propiedad y Vivienda Precaria\" para postular a los propietarios a fondos de programas como Techo Propio y Mivivienda.",
+            "indicator": "Número de viviendas diagnosticadas mediante el censo de propiedad. Cantidad de familias postuladas a fondos de vivienda."
+          },
+          {
+            "problem": "Carencia de servicios de cuidado infantil seguros y accesibles para familias trabajadoras, y una limitada capacidad para la detección temprana del maltrato infantil.",
+            "objective": "Establecer una red de guarderías de barrio cerca de los mercados principales, que además sirvan como centros para la detección temprana de violencia en alianza con el MIMP.",
+            "goal": "Habilitar al menos tres guarderías de barrio estratégicamente ubicadas e instalar módulos de la DEMUNA en cada una de ellas para garantizar un entorno seguro para la niñez.",
+            "indicator": "Número de guarderías de barrio habilitadas. Número de módulos de la DEMUNA instalados y operativos en las guarderías."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades de empleo formal para segmentos de la población como amas de casa y adultos mayores.",
+            "objective": "Generar empleo local digno para grupos poblacionales tradicionalmente ignorados mediante su incorporación en servicios municipales.",
+            "goal": "Contratar y capacitar a amas de casa y adultos mayores para la atención de las \"Guarderías de Barrio\", fomentando el empleo local.",
+            "indicator": "Número de puestos de trabajo generados para amas de casa y adultos mayores en las guarderías."
+          },
+          {
+            "problem": "Costos elevados y trámites burocráticos que desincentivan la formalización de actividades y propiedades.",
+            "objective": "Fomentar la formalización vecinal mediante la facilitación y reducción de costos en los trámites municipales.",
+            "goal": "Implementar \"Tarifas Sociales Municipales\" con días de descuento masivo en trámites para incentivar la formalización.",
+            "indicator": "Número de licencias, partidas y constancias emitidas durante los días de descuento."
+          },
+          {
+            "problem": "Baja competitividad del comercio local tradicional debido a su escasa presencia en el entorno digital.",
+            "objective": "Impulsar la modernización y competitividad de los mercados locales a través de la digitalización y el comercio electrónico.",
+            "goal": "Realizar un \"Censo de Mercados\" y crear un perfil digital para cada puesto con el fin de fomentar el e-commerce local.",
+            "indicator": "Porcentaje de puestos de mercado que cuentan con un perfil digital para ventas en línea."
+          },
+          {
+            "problem": "Alta informalidad de negocios y propiedades debido a la percepción de trámites municipales costosos y complejos.",
+            "objective": "Incentivar la formalización de la propiedad y los negocios locales a través de la implementación de tarifas sociales y descuentos masivos en trámites de licencias, partidas y constancias.",
+            "goal": "Aumentar en un 20% la tasa de formalización de pequeños negocios y propiedades mediante la realización de campañas trimestrales de descuentos en trámites municipales.",
+            "indicator": "Número de trámites acogidos a las tarifas sociales. Tasa de formalización de negocios en el distrito."
+          },
+          {
+            "problem": "Falta de oportunidades de empleo formal para segmentos de la población como amas de casa y adultos mayores.",
+            "objective": "Generar empleo local inclusivo mediante la capacitación y contratación de amas de casa y adultos mayores para la atención de servicios municipales como las guarderías de barrio.",
+            "goal": "Crear un mínimo de 50 nuevos puestos de trabajo dirigidos a amas de casa y adultos mayores del distrito durante la gestión.",
+            "indicator": "Número de puestos de trabajo creados para amas de casa y adultos mayores en programas municipales."
+          },
+          {
+            "problem": "Baja competitividad y escasa digitalización del comercio local en los mercados del distrito, limitando su alcance y capacidad de venta.",
+            "objective": "Impulsar la modernización y competitividad del comercio local mediante la digitalización de los puestos de mercado para fomentar el comercio electrónico.",
+            "goal": "Lograr la digitalización del 80% de los puestos de mercado del distrito y fomentar un crecimiento del 25% en sus ventas a través del e-commerce local.",
+            "indicator": "Porcentaje de puestos de mercado con perfil digital activo. Tasa de incremento de ventas a través de canales digitales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación visual y ocupación del espacio público por vehículos abandonados en las calles del distrito.",
+            "objective": "Erradicar la \"chatarra urbana\" para recuperar el espacio público y mejorar el entorno del distrito.",
+            "goal": "Ejecutar un procedimiento sancionador inmediato para el retiro de todos los vehículos abandonados y acondicionar dichos espacios para uso recreativo o parqueo ordenado.",
+            "indicator": "Número de vehículos en estado de abandono retirados de la vía pública. Metros cuadrados de espacio público recuperado."
+          },
+          {
+            "problem": "Ocupación indebida del espacio público y contaminación visual generada por vehículos abandonados en las calles.",
+            "objective": "Recuperar los espacios públicos mediante un procedimiento sancionador para el retiro de vehículos abandonados, destinando las áreas recuperadas a usos recreativos o de parqueo ordenado.",
+            "goal": "Erradicar el 100% de la 'chatarra urbana' identificada en el distrito y recuperar al menos 1,000 metros cuadrados de espacio público para los vecinos.",
+            "indicator": "Número de vehículos retirados de la vía pública. Metros cuadrados de espacio público recuperado y habilitado."
+          },
+          {
+            "problem": "Sistema de alumbrado público obsoleto, de alto consumo energético y deficiente, lo que contribuye a la percepción de inseguridad en pasajes y quintas.",
+            "objective": "Modernizar integralmente el sistema de alumbrado público del distrito, reemplazando las luminarias de vapor de sodio por tecnología LED de alta potencia y eficiencia energética.",
+            "goal": "Alcanzar el 100% de reemplazo del alumbrado público por luminarias LED en todo el distrito para mejorar la seguridad y la eficiencia energética.",
+            "indicator": "Porcentaje del parque de luminarias públicas reemplazadas por tecnología LED."
+          },
+          {
+            "problem": "Riesgo para la salud pública por la proliferación de roedores y otras plagas en mercados y parques del distrito.",
+            "objective": "Implementar un programa anual y estructural de desratización en coordinación con el MINSA, utilizando métodos seguros para la comunidad.",
+            "goal": "Ejecutar el 100% del cronograma anual de control de plagas en todos los mercados y parques del distrito, reduciendo en un 90% los incidentes reportados.",
+            "indicator": "Porcentaje de cumplimiento del cronograma anual de desratización. Índice de reducción de reportes de plagas en espacios públicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Insuficiencia del presupuesto municipal para la ejecución de proyectos de infraestructura de gran envergadura.",
+            "objective": "Viabilizar la ejecución de proyectos de alto impacto sin generar endeudamiento municipal, a través del mecanismo de Obras por Impuestos (OxI) en alianza con la empresa privada.",
+            "goal": "Financiar y ejecutar al menos dos proyectos estratégicos, como el nuevo Policlínico Municipal o la Central de Alerta, mediante el mecanismo de Obras por Impuestos.",
+            "indicator": "Monto de inversión captado a través de Obras por Impuestos. Número de proyectos de gran escala ejecutados bajo esta modalidad."
+          },
+          {
+            "problem": "Gestión municipal basada en la improvisación y falta de datos precisos sobre las necesidades de la población.",
+            "objective": "Implementar una gestión basada en datos para la toma de decisiones estratégicas y la focalización de políticas públicas.",
+            "goal": "Realizar censos de vulnerabilidad, propiedad precaria y mercados para gobernar con datos precisos y sin estigmatización.",
+            "indicator": "Número de censos estratégicos (vulnerabilidad, vivienda, mercados) realizados y utilizados en la planificación."
+          },
+          {
+            "problem": "Escasa participación y voluntariado de los vecinos en las actividades de mejora y mantenimiento del distrito.",
+            "objective": "Incentivar la participación ciudadana activa en labores comunitarias a través de un sistema de beneficios tributarios.",
+            "goal": "Implementar un \"Programa de Beneficios por Servicio\" que otorgue una reducción directa en los arbitrios a los vecinos voluntarios.",
+            "indicator": "Número de vecinos inscritos en el programa de voluntariado. Porcentaje de reducción de arbitrios aplicado."
+          },
+          {
+            "problem": "Falta de transparencia en la gestión pública y baja capacidad de ejecución de proyectos de infraestructura de gran escala.",
+            "objective": "Promover una gestión transparente y eficiente, ejecutando proyectos de gran envergadura sin generar endeudamiento municipal.",
+            "goal": "Financiar proyectos estratégicos mediante Obras por Impuestos e invitar a la Contraloría a auditar los procesos de licitación en tiempo real.",
+            "indicator": "Número de proyectos ejecutados mediante Obras por Impuestos. Número de procesos de licitación con control concurrente."
+          },
+          {
+            "problem": "Elevados índices de delincuencia y desarticulación entre la seguridad municipal y la Policía Nacional del Perú.",
+            "objective": "Fortalecer la seguridad ciudadana a través de la integración tecnológica, inteligencia artificial y alianzas estratégicas con la PNP.",
+            "goal": "Crear un \"Comando Unificado (C4)\" que integre todas las cámaras de seguridad y aplicar inteligencia artificial para la prevención del delito.",
+            "indicator": "Tasa de criminalidad del distrito. Tiempo de respuesta del patrullaje integrado."
+          },
+          {
+            "problem": "Falta de mecanismos de transparencia y fiscalización en tiempo real de los procesos de contratación pública y ejecución de obras.",
+            "objective": "Garantizar la máxima transparencia en la gestión pública mediante la invitación formal a la Contraloría General de la República y al Órgano de Control Institucional (OCI) para aplicar el control concurrente en cada proceso de licitación.",
+            "goal": "Someter al 100% de los procesos de licitación para proyectos de gran escala al mecanismo de control concurrente, asegurando la fiscalización desde el inicio del proceso.",
+            "indicator": "Porcentaje de procesos de licitación de obras importantes sometidos a control concurrente. Número de informes de auditoría sin observaciones graves."
+          },
+          {
+            "problem": "Inseguridad ciudadana elevada y una desarticulación operativa entre el serenazgo municipal y la Policía Nacional del Perú.",
+            "objective": "Fortalecer la seguridad ciudadana a través de la creación de una Central de Comando Unificado (C4) que integre los sistemas de videovigilancia y comunicación, y el uso de inteligencia artificial para la prevención del delito.",
+            "goal": "Reducir los índices de delincuencia común en un 30% e integrar el 100% de las cámaras municipales y policiales en la Central de Comando Unificado (C4) al término de la gestión.",
+            "indicator": "Tasa de victimización del distrito. Tiempo promedio de respuesta a emergencias. Número de intervenciones preventivas basadas en análisis de patrones delictivos."
+          },
+          {
+            "problem": "Baja participación de los vecinos en asuntos cívicos y desconfianza hacia la administración municipal.",
+            "objective": "Fomentar la participación y el voluntariado vecinal en actividades de mejora del distrito, estableciendo un programa de incentivos tributarios como la reducción de arbitrios.",
+            "goal": "Lograr la participación activa de al menos 500 vecinos en el programa de voluntariado y establecer un sistema transparente de beneficios tributarios por servicio a la comunidad.",
+            "indicator": "Número de vecinos inscritos en el programa de voluntariado. Monto total de arbitrios exonerados como incentivo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-CP6XzKtqTR-FyEJyLFqzDSBVxs9Q2LBf",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/CP6XzKtqTR-FyEJyLFqzDSBVxs9Q2LBf",
+      "sha256": "224787def81443d7339e0f150139bb0724aede90a9a0085645dd92d89d0678d7",
+      "accessedAt": "2026-10-02T22:51:59.536Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016840",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016840",
+      "sha256": "2eb30b5b252b8a4ed3337e177442b2e8ffe85fc298a98320b5c25147abce58e6",
+      "accessedAt": "2026-10-02T22:52:00.015Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

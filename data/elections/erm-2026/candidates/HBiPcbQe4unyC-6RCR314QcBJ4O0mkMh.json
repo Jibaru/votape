@@ -1,0 +1,203 @@
+{
+  "id": "HBiPcbQe4unyC-6RCR314QcBJ4O0mkMh",
+  "slug": "dionisio-navarro-de-la-o",
+  "electionId": "erm-2026",
+  "name": "Dionisio Navarro De La O",
+  "givenNames": "Dionisio",
+  "surnames": "Navarro De La O",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:20.822Z",
+      "sourceId": "jne-hv-HBiPcbQe4unyC-6RCR314QcBJ4O0mkMh"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "EL CHACHA SERVICIOS GENERALES EIRL",
+      "role": "ADMINISTRADOR",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO PRIN",
+      "year": "2025"
+    },
+    {
+      "party": "PROGRESEMOS",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/61da236b-14f5-4f1f-9892-20f549b53ec3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fff56dd4-7fbb-4d4f-b2e5-7f5a8125cadf.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Asimetrías estructurales en la cobertura sanitaria, con alta prevalencia de anemia infantil, saturación del primer nivel de atención e insuficiente oferta de servicios de salud mental y control de enfermedades crónicas.",
+            "objective": "Reducir la prevalencia de anemia y desnutrición crónica infantil, optimizar la accesibilidad a consultas médicas especializadas, ampliar la cobertura de salud mental comunitaria y fortalecer el control de enfermedades crónicas no transmisibles.",
+            "goal": "Reducir la prevalencia de anemia al 12%, asegurar un tiempo de espera máximo de 48 horas para consultas, consolidar un mínimo de 25,000 atenciones psicológicas anuales y lograr una tasa de control metabólico del 85% en adultos mayores para 2030.",
+            "indicator": "Tasa de prevalencia de anemia ferropénica en niños menores de 3 años, tiempo promedio de espera para consultas médicas especializadas, volumen anual de atenciones psicológicas y porcentaje de población adulta mayor con control metabólico."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana y criminalidad común que afectan la cohesión social y la calidad de vida de los residentes.",
+            "objective": "Reducir los índices de victimización, modernizar el sistema de videovigilancia, optimizar el tiempo de respuesta ante emergencias y mitigar los factores de oportunidad delictiva.",
+            "goal": "Reducir la tasa de delitos comunes en paraderos críticos en un 45%, alcanzar el 98% de operatividad de las cámaras, reducir el tiempo de respuesta por debajo de los 5 minutos y recuperar 150 puntos ciegos críticos para el año 2030.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio, porcentaje de operatividad de cámaras de videovigilancia, tiempo promedio de respuesta operativa y número de puntos ciegos de alta peligrosidad erradicados."
+          },
+          {
+            "problem": "Brechas estructurales de equidad y calidad en la educación, evidenciadas en bajos logros de aprendizaje, infraestructura tecnológica deficiente, exclusión del sistema educativo superior y violencia en entornos escolares.",
+            "objective": "Elevar los niveles de logro de aprendizaje en competencias lectoras y lógico-matemáticas, cerrar la brecha de infraestructura tecnológica, incrementar la tasa de transición a la educación superior y reducir la violencia escolar.",
+            "goal": "Elevar al 65% el logro de aprendizaje, alcanzar el 100% de cobertura tecnológica en escuelas de la periferia, lograr que el 70% de los egresados se matricule en educación superior y reducir en un 80% la incidencia delictiva alrededor de las escuelas para 2030.",
+            "indicator": "Porcentaje de estudiantes de primaria con nivel satisfactorio, porcentaje de instituciones educativas con conectividad, porcentaje de egresados de secundaria que acceden a educación superior y tasa de incidencias delictivas en perímetros escolares."
+          },
+          {
+            "problem": "Deterioro de la infraestructura deportiva y recreativa en zonas periféricas, con una oferta disciplinaria limitada y exclusión de poblaciones vulnerables como mujeres y personas con discapacidad.",
+            "objective": "Renovar la infraestructura deportiva barrial, diversificar la oferta de disciplinas deportivas con enfoque de género y garantizar la accesibilidad universal para personas con discapacidad.",
+            "goal": "Recuperar el 85% de las infraestructuras deterioradas, alcanzar una tasa de participación femenina del 50%, incorporar a un mínimo de 800 usuarios con discapacidad y lograr una reducción del 40% en los indicadores de sedentarismo para 2030.",
+            "indicator": "Porcentaje de losas deportivas recuperadas, porcentaje de participación femenina en escuelas deportivas, número de ciudadanos con discapacidad en programas adaptados y tasa de reducción de sedentarismo en adultos mayores."
+          },
+          {
+            "problem": "Alta vulnerabilidad de los activos patrimoniales y una marcada asimetría en el acceso a la oferta cultural, con una fuerte centralización de la infraestructura y precariedad económica para los creadores locales.",
+            "objective": "Garantizar la conservación del patrimonio histórico, descentralizar el acceso a la infraestructura cultural, promover la formalización y sostenibilidad económica de los agentes culturales y salvaguardar el patrimonio cultural inmaterial.",
+            "goal": "Alcanzar un registro de 40,000 estudiantes anuales en circuitos patrimoniales, garantizar un mínimo de 120 actividades culturales descentralizadas al año, beneficiar a 350 agentes culturales y lograr un incremento del 50% en el impacto económico del muelle tradicional para 2030.",
+            "indicator": "Flujo anual de estudiantes en circuitos patrimoniales, número de eventos culturales descentralizados, número de creadores y colectivos artísticos formalizados y tasa de incremento en el flujo de visitantes e ingresos económicos en corredores culturales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Potencial turístico, cultural y gastronómico del distrito insuficientemente desarrollado, funcionando como una actividad aislada y no como una cadena de valor que beneficie a la comunidad.",
+            "objective": "Potenciar el desarrollo turístico, cultural y gastronómico de Chorrillos mediante la promoción de sus atractivos, el fortalecimiento de la identidad local y la articulación de los actores económicos vinculados al turismo.",
+            "goal": "Implementar proyectos que fortalezcan los principales atractivos de Chorrillos e impulsen la economía local.",
+            "indicator": "Implementación de proyectos orientados a la promoción turística, cultural y gastronómica del distrito."
+          },
+          {
+            "problem": "Existencia de negocios con bajos niveles de productividad, dificultades para la formalización y una escasa articulación entre los actores económicos, lo que limita la generación de empleo e ingresos sostenibles.",
+            "objective": "Incrementar la formalización, competitividad y sostenibilidad de los emprendimientos y microempresas, y fortalecer las capacidades laborales, técnicas y empresariales de los vecinos.",
+            "goal": "Asistir a más de 4,000 emprendedores, reducir en un 50% el tiempo de trámites municipales, capacitar a más de 6,000 vecinos y generar al menos 2,000 oportunidades de inserción laboral.",
+            "indicator": "Número de emprendedores y microempresarios que reciben asistencia técnica, tiempo promedio de atención de trámites de licencias, número de vecinos capacitados en empleabilidad y número de oportunidades de inserción laboral generadas."
+          },
+          {
+            "problem": "Mercados y espacios comerciales con deficiencias en orden, limpieza, seguridad y accesibilidad, lo que limita su competitividad y atractivo para consumidores y comerciantes.",
+            "objective": "Modernizar y fortalecer los mercados y espacios comerciales del distrito para mejorar su competitividad, seguridad, ordenamiento y capacidad de generar oportunidades económicas.",
+            "goal": "Modernizar los mercados y espacios comerciales priorizados y realizar más de 50 ferias durante la gestión municipal.",
+            "indicator": "Número de mercados y espacios comerciales modernizados y número de ferias comerciales, productivas y gastronómicas realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión inadecuada de residuos sólidos, con acumulación de basura en espacios públicos, puntos críticos de contaminación y una insuficiente cultura de segregación y reciclaje en la ciudadanía.",
+            "objective": "Implementar un sistema integral de limpieza pública para eliminar progresivamente los puntos críticos de acumulación de residuos y desarrollar campañas permanentes de educación ambiental.",
+            "goal": "Reducir en un 80% los puntos críticos de residuos identificados y alcanzar una cobertura del 100% de los sectores urbanos con servicios regulares de limpieza y recolección.",
+            "indicator": "Porcentaje de reducción de puntos críticos de acumulación de residuos sólidos y porcentaje de cobertura de limpieza pública."
+          },
+          {
+            "problem": "Abandono e insuficiente mantenimiento de parques, losas deportivas y espacios recreativos, lo que limita su uso comunitario y favorece la aparición de focos de inseguridad.",
+            "objective": "Impulsar la recuperación progresiva de campos deportivos, losas recreativas, parques y espacios públicos estratégicos para fortalecer la integración vecinal y la prevención de la delincuencia.",
+            "goal": "Recuperar progresivamente parques, losas y campos deportivos, incrementando en al menos un 50% el uso comunitario de estos espacios.",
+            "indicator": "Porcentaje de recuperación de espacios públicos y deportivos priorizados por criterios técnicos y participación vecinal."
+          },
+          {
+            "problem": "Deterioro del patrimonio natural e histórico y déficit de áreas verdes, especialmente en sectores con alta densidad poblacional, lo que afecta la calidad ambiental y el potencial turístico.",
+            "objective": "Promover la recuperación, conservación y difusión de espacios históricos y naturales, y aumentar la cobertura de áreas verdes en el distrito.",
+            "goal": "Desarrollar proyectos de recuperación de espacios emblemáticos y aumentar la cobertura de áreas verdes mediante programas de arborización y mantenimiento.",
+            "indicator": "Desarrollo de proyectos de puesta en valor de espacios históricos y naturales, e incremento de la cobertura de áreas verdes urbanas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desafíos en la modernización de la gestión local, con procesos administrativos poco digitalizados, falta de simplificación, y mecanismos de transparencia y rendición de cuentas insuficientes.",
+            "objective": "Modernizar la gestión municipal mediante la transformación digital de los servicios y fortalecer la transparencia, la rendición de cuentas y el acceso a la información pública.",
+            "goal": "Digitalizar el 80% de los trámites más demandados, reducir en un 50% el tiempo promedio de atención y realizar al menos dos audiencias públicas de rendición de cuentas por año.",
+            "indicator": "Porcentaje de trámites municipales digitalizados, tiempo promedio de atención de procedimientos y publicación permanente de información en plataformas públicas de seguimiento."
+          },
+          {
+            "problem": "Baja recaudación tributaria y alta morosidad, lo que compromete la sostenibilidad financiera de la municipalidad y su capacidad de inversión, en un contexto de ajuste fiscal.",
+            "objective": "Fortalecer la sostenibilidad financiera de la municipalidad mediante una gestión tributaria eficiente, una adecuada administración de los recursos y el cumplimiento de las reglas fiscales.",
+            "goal": "Incrementar en un 20% la recaudación tributaria municipal respecto al inicio de la gestión y reducir progresivamente la morosidad distrital.",
+            "indicator": "Porcentaje de incremento en la recaudación tributaria municipal y reducción de la morosidad tributaria distrital."
+          },
+          {
+            "problem": "Fractura en los canales de intermediación y representación entre el gobierno municipal y la sociedad civil, con una baja participación ciudadana, especialmente de los jóvenes, y desconfianza en los procesos institucionales.",
+            "objective": "Promover una gestión municipal participativa e inclusiva, fortaleciendo los espacios de diálogo, concertación y vigilancia ciudadana en la toma de decisiones públicas.",
+            "goal": "Implementar al menos 20 espacios permanentes de participación vecinal para promover una gestión más cercana a la ciudadanía y fortalecer la concertación territorial.",
+            "indicator": "Número de espacios permanentes de participación vecinal implementados entre juntas vecinales, organizaciones sociales, comerciantes y jóvenes."
+          },
+          {
+            "problem": "Riesgos de corrupción, conflictos de interés y mal uso de los recursos públicos que minan la confianza ciudadana en la institución municipal.",
+            "objective": "Fortalecer la integridad institucional y los mecanismos de control interno para prevenir actos de corrupción, promover la ética pública y garantizar el uso eficiente y transparente de los recursos municipales.",
+            "goal": "Capacitar al 100% de los funcionarios y servidores municipales en ética pública, integridad y lucha contra la corrupción durante el periodo 2027-2030.",
+            "indicator": "Implementación de programas permanentes de integridad institucional y porcentaje de funcionarios y servidores que reciben capacitación en ética pública."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-HBiPcbQe4unyC-6RCR314QcBJ4O0mkMh",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/HBiPcbQe4unyC-6RCR314QcBJ4O0mkMh",
+      "sha256": "93e6298102b4785ffc0bdfd7b43bc5af1e949b8bfafe28b11ea237c3fadc5b7c",
+      "accessedAt": "2026-10-02T22:54:20.822Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020893",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020893",
+      "sha256": "91d6aedc276b2e7358dcb9e2a0973c8329d2dcb721709424ff720cdc272a12ce",
+      "accessedAt": "2026-10-02T22:54:21.301Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

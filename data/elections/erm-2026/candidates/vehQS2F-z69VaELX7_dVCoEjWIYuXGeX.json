@@ -1,0 +1,272 @@
+{
+  "id": "vehQS2F-z69VaELX7_dVCoEjWIYuXGeX",
+  "slug": "jose-luis-flores-llauca",
+  "electionId": "erm-2026",
+  "name": "Jose Luis Flores Llauca",
+  "givenNames": "Jose Luis",
+  "surnames": "Flores Llauca",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:34.444Z",
+      "sourceId": "jne-hv-vehQS2F-z69VaELX7_dVCoEjWIYuXGeX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL SAN LUIS GONZAGA DE ICA",
+        "program": "CIrujano Dentista",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Inversiones Jholuse SRL",
+      "role": "Gerente General",
+      "from": "2000",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 411820,
+        "public": 0,
+        "private": 411820
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 450000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1700000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 102000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 450000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 350000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 300000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 450000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 102000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 200000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1156000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 350000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1700000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "TOYOTA FORTUNER NEGRO",
+        "value": 80000
+      },
+      {
+        "type": "CAMIONETA HYUNDAI BLANCO",
+        "value": 70000
+      },
+      {
+        "type": "CAMION FAW AMARILLO",
+        "value": 80000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES JHOLUSE S.R.L.",
+        "type": "PARTICIPACIONES",
+        "quantity": 1500,
+        "value": 1
+      },
+      {
+        "company": "SERVICIOS MEDICOS ODONTOLOGICOS FLORES S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 50000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9e5e4b03-fc3c-43e9-8fb7-8675d9275843.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6130f013-4b45-4bfe-81c5-288229267af0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Brechas en el acceso a educación superior y oportunidades para la población juvenil vulnerable del distrito.",
+            "objective": "Ampliar las oportunidades educativas y recreativas para la población juvenil y vulnerable del distrito.",
+            "goal": "Implementar la Academia Gratuita Municipal Preuniversitaria, dotada de docentes calificados y material académico de alto nivel, para la preparación integral de los jóvenes del distrito y garantizar su acceso a las universidades públicas y privadas del país.",
+            "indicator": "Número de jóvenes beneficiados por la Academia Gratuita Municipal Preuniversitaria y porcentaje de acceso a universidades."
+          },
+          {
+            "problem": "Déficit de espacios deportivos y recreativos accesibles para promover un estilo de vida saludable en la comunidad.",
+            "objective": "Ampliar las oportunidades recreativas para la población del distrito, fomentando la salud y el deporte.",
+            "goal": "Crear el programa \"Salud en tu Sector\" mediante la construcción e instalación de complejos multiusos descentralizados en las áreas recreativas de los diversos sectores, equipados con gimnasio municipal gratuito y cancha multiusos.",
+            "indicator": "Número de complejos multiusos construidos e instalados en los diversos sectores del distrito."
+          },
+          {
+            "problem": "Insuficiente acceso a servicios de salud primarios y preventivos para la niñez y los adultos mayores en situación de vulnerabilidad.",
+            "objective": "Institucionalizar mecanismos modernos de participación comunal orientados a la salud y a la información oportuna del entorno vecinal.",
+            "goal": "Implementar el Consultorio Médico Municipal Especializado en Pediatría y Geriatría, destinado a brindar atención de primera respuesta y control preventivo gratuito a la niñez y a los adultos mayores en situación de vulnerabilidad o abandono en el distrito.",
+            "indicator": "Número de atenciones de primera respuesta y control preventivo realizadas a niños y adultos mayores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Barreras burocráticas y procesos lentos que dificultan la formalización de las micro y pequeñas empresas del distrito.",
+            "objective": "Fomentar la formalización y el reordenamiento del comercio mediante la simplificación administrativa y procesos eficientes.",
+            "goal": "Implementar la política de \"Licencia de Funcionamiento Exprés\" mediante la digitalización y reducción de barreras burocráticas para la formalización acelerada de las micro y pequeñas empresas de Villa El Salvador.",
+            "indicator": "Reducción del tiempo promedio para la obtención de licencias de funcionamiento para micro y pequeñas empresas."
+          },
+          {
+            "problem": "Crecimiento del comercio informal en mercados que carecen de condiciones de seguridad y licencias de funcionamiento.",
+            "objective": "Fomentar la formalización y el reordenamiento del comercio, transformando los mercados en espacios modernos, formales y seguros.",
+            "goal": "Crear el programa \"Tu Mercado Seguro\" para brindar asistencia y asesoría técnica en la elaboración de expedientes técnicos, acelerando la obtención de licencias de funcionamiento y asegurando el cumplimiento de la ITSE.",
+            "indicator": "Número de mercados que obtienen su licencia de funcionamiento y cumplen con la Inspección Técnica de Seguridad en Edificaciones (ITSE)."
+          },
+          {
+            "problem": "Bajo cumplimiento de las obligaciones tributarias por parte de los vecinos, afectando la capacidad de inversión municipal.",
+            "objective": "Estimular el cumplimiento de las obligaciones tributarias de los vecinos a través de incentivos tangibles vinculados al cuidado del ornato.",
+            "goal": "Poner en marcha el programa de incentivo tributario \"Techo Limpio\", ejecutando campañas de recojo de materiales en desuso a cambio de descuentos escalonados y directos en el pago de arbitrios a los vecinos participantes.",
+            "indicator": "Porcentaje de incremento en la recaudación de arbitrios municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de iluminación y seguridad en parques vecinales, generando puntos oscuros y espacios de riesgo para las familias.",
+            "objective": "Elevar la calidad ambiental y la seguridad del distrito mediante la recuperación y modernización de los espacios públicos.",
+            "goal": "Ejecutar un plan de modernización de los parques vecinales con la instalación de Sistemas de Iluminación LED de alta potencia para erradicar los puntos oscuros y devolver el ornato, la seguridad y los espacios de recreación a las familias.",
+            "indicator": "Número de parques vecinales modernizados con sistemas de iluminación LED de alta potencia."
+          },
+          {
+            "problem": "Carencia de servicios básicos de saneamiento y habilitación urbana en las zonas periféricas del distrito.",
+            "objective": "Garantizar un hábitat ordenado, saludable y con accesibilidad prioritaria a los servicios básicos.",
+            "goal": "Implementar un Plan de Saneamiento y Habilitación Urbana para las zonas periféricas que carecen de servicios básicos, brindando asistencia técnico-legal para acelerar sus procesos de formalización ante SEDAPAL y las entidades rectoras.",
+            "indicator": "Número de familias de zonas periféricas que acceden a servicios básicos de saneamiento formalizados."
+          },
+          {
+            "problem": "Aglomeración de residuos sólidos en la vía pública debido a un sistema de limpieza pública con horarios y flota inadecuados.",
+            "objective": "Elevar la calidad ambiental del distrito mediante la optimización de los servicios básicos y la recuperación de espacios públicos.",
+            "goal": "Reestructurar el sistema de Limpieza Pública fijando Horarios Estrictos de Recojo de Basura por Sectores, acompañado de un plan de renovación progresiva de la flota municipal con camiones compactadores de mayor vida útil y eficiencia.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo de basura en horarios estrictos por sector y número de unidades renovadas de la flota municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incremento de la delincuencia y falta de una respuesta coordinada y tecnológica en las zonas de frontera del distrito.",
+            "objective": "Consolidar una interconexión radial y tecnológica integral en los límites del territorio para mejorar la seguridad ciudadana.",
+            "goal": "Suscribir el Convenio de Serenazgo Sin Fronteras del Cono Sur para lograr la interconexión radial, tecnológica y de cámaras de vigilancia con los distritos colindantes y ejecutar el \"Plan Cerco Distrital\" en las zonas de frontera.",
+            "indicator": "Número de convenios de Serenazgo Sin Fronteras suscritos y operativos, y reducción de incidencias delictivas en zonas de frontera."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la priorización de proyectos de infraestructura y en la fiscalización del presupuesto municipal.",
+            "objective": "Garantizar el uso honesto, abierto y fiscalizable de los recursos financieros del municipio, fortaleciendo la democracia participativa.",
+            "goal": "Operar el Sistema de Participación y Presupuesto Participativo Descentralizado, garantizando que los comités de cada sector cuenten con canales democráticos y vinculantes para la priorización, elección y suscripción de proyectos de infraestructura.",
+            "indicator": "Número de proyectos de infraestructura priorizados y ejecutados a través del Sistema de Participación y Presupuesto Participativo Descentralizado."
+          },
+          {
+            "problem": "Falta de mecanismos de transparencia que permitan a los ciudadanos fiscalizar el uso de recursos financieros y el avance de obras.",
+            "objective": "Optimizar los servicios de la Municipalidad y garantizar el uso honesto, abierto y fiscalizable de los recursos financieros del municipio.",
+            "goal": "Habilitar un portal de datos y rendición de cuentas en tiempo real, permitiendo que los ciudadanos y comités fiscalicen de manera transparente el uso de los recursos financieros y el avance de las obras financiadas.",
+            "indicator": "Disponibilidad y actualización en tiempo real de la información en el portal de datos y rendición de cuentas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vehQS2F-z69VaELX7_dVCoEjWIYuXGeX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vehQS2F-z69VaELX7_dVCoEjWIYuXGeX",
+      "sha256": "3718f73ace8d9fd9d33645b385f8f951296c555261d30ce29e13a0b865041c30",
+      "accessedAt": "2026-10-02T23:06:34.444Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019389",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019389",
+      "sha256": "8e1e1bb657222e215596ea9c7d4e92ddf4b65f5f0fe629b44818ccb7fcaa4ca7",
+      "accessedAt": "2026-10-02T23:06:34.967Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

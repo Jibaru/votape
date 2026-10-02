@@ -1,0 +1,278 @@
+{
+  "id": "8kmdpMB43qjJKQeobRZjTETqvcVjoXh9",
+  "slug": "jonathan-enrique-sena-manguinury",
+  "electionId": "erm-2026",
+  "name": "Jonathan Enrique Seña Manguinury",
+  "givenNames": "Jonathan Enrique",
+  "surnames": "Seña Manguinury",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:59.243Z",
+      "sourceId": "jne-hv-8kmdpMB43qjJKQeobRZjTETqvcVjoXh9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada César Vallejo",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada César Vallejo",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "MAESTRO EN GOBIERNO Y POLÍTICAS PÚBLICAS",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2024"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ",
+        "program": "MAESTRÍA EN DERECHO CONSTITUCIONAL",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN MARTÍN DE PORRES",
+      "role": "ASESOR II DEL DESPACHO DE ALCALDÍA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "CONSEJO NACIONAL PARA LA INTEGRACIÓN DE LA PERSONA CON DISCAPACIDAD - CONADIS",
+      "role": "SERVICIO ESPECIALIZADO EN ASUNTOS LEGALES ADMINISTRATIVOS",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA VICTORIA",
+      "role": "ESPECIALISTA LEGAL",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CHACLACAYO",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CHORRILLOS",
+      "role": "ABOGADO DE GERENCIA MUNICIPAL",
+      "from": "2020",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DE JUVENTUDES",
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2007",
+      "to": "2009"
+    },
+    {
+      "position": "SECRETARIO LOCAL DE GOB. LOCALES",
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 210000,
+        "public": 126000,
+        "private": 84000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "DEPARTAMENTO",
+        "value": 80000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Camioneta - Automatica",
+        "value": 90895
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3e060b39-591f-4033-a07b-fdd0508160a2.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/773bb13a-4894-4866-8df4-f0e2e50a5220.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de altos índices delictivos y una elevada percepción de inseguridad ciudadana que restringe el uso de los espacios comunes, facilitado por la carencia de un sistema integrado de control perimetral.",
+            "objective": "Garantizar la seguridad comunitaria integral mediante el fortalecimiento del patrullaje integrado, la implementación de una central de monitoreo inteligente con cámaras y arcos lectores, y la creación de un programa de justicia rápida en convenio con el Poder Judicial y el Ministerio Público.",
+            "goal": "Reducir en un 45% la tasa de denuncias por delitos, instalar 600 cámaras y 12 arcos operativos, y lograr el 100% de operatividad del Módulo de Justicia con fiscales y jueces en tiempo real.",
+            "indicator": "Porcentaje de reducción de la tasa de denuncias por delitos, número de cámaras de seguridad y arcos lectores operativos, y estado de operatividad del Módulo Integral de Seguridad y Justicia."
+          },
+          {
+            "problem": "Déficit crónico de infraestructura y equipamiento en el primer nivel de atención de salud, altos índices de malnutrición y anemia en menores de 36 meses, y falta de centros especializados para el cuidado del adulto mayor y personas con discapacidad.",
+            "objective": "Elevar el desarrollo humano mediante la implementación de un plan nutricional infantil, la construcción de la Casa del Adulto Mayor, la optimización de la OMAPED y la creación de un programa de atención a víctimas de violencia familiar.",
+            "goal": "Reducir a menos del 10% la anemia infantil, alcanzar el 70% de espacios públicos con accesibilidad universal y atender el 100% de los casos de violencia con soporte interdisciplinario y judicialización oportuna.",
+            "indicator": "Porcentaje de niños con diagnóstico de anemia, porcentaje de espacios públicos con accesibilidad universal y porcentaje de casos de violencia atendidos con soporte especializado."
+          },
+          {
+            "problem": "Entornos escolares vulnerables con acoso escolar y deserción, junto a una carencia estructural de espacios públicos deportivos con condiciones inclusivas.",
+            "objective": "Implementar un programa preventivo contra el bullying y la delincuencia en colegios, y construir o modernizar los complejos deportivos municipales para masificar el deporte y la recreación inclusiva.",
+            "goal": "Lograr la cobertura del programa preventivo en el 100% de colegios públicos, e incrementar en un 100% los usuarios inscritos en los 10 polideportivos construidos o renovados.",
+            "indicator": "Porcentaje de instituciones educativas públicas con resguardo y número de ciudadanos participando en programas y complejos deportivos municipales."
+          },
+          {
+            "problem": "Proliferación de animales domésticos en estado de abandono y ausencia de una estrategia municipal para el control de la sobrepoblación y de servicios veterinarios a costo social.",
+            "objective": "Establecer el Servicio de Salud Pública Veterinaria, construyendo el primer Centro de Emergencias Veterinarias y Albergue Municipal para mascotas en abandono.",
+            "goal": "Alcanzar las 15,000 mascotas atendidas y consolidar la red de adopción distrital.",
+            "indicator": "Número anual de mascotas esterilizadas, vacunadas y registradas mediante microchip de identificación municipal."
+          },
+          {
+            "problem": "Alto riesgo de colapso físico en solares, quintas históricas e inmuebles coloniales declarados inhabitables, donde residen familias en situación de hacinamiento y desprotección estructural.",
+            "objective": "Gestionar convenios de renovación urbana y reforzamiento estructural de solares históricos habitables, coordinando con el Fondo MIVIVIENDA para soluciones de vivienda dignas.",
+            "goal": "Lograr que 1,200 familias residan en entornos estructuralmente seguros.",
+            "indicator": "Cantidad de familias residentes en viviendas vulnerables o quintas beneficiadas con bonos de reforzamiento o reubicación segura."
+          },
+          {
+            "problem": "Pavimento severamente deteriorado en las vías locales secundarias, lo que impacta negativamente la movilidad y aumenta la congestión vehicular.",
+            "objective": "Ejecutar el Plan Distrital de Pavimentación, bacheo y renovación de veredas, incluyendo inclusión peatonal universal en vías secundarias de competencia municipal.",
+            "goal": "Renovar totalmente 65 kilómetros de vías internas.",
+            "indicator": "Kilómetros de vías vecinales y locales rehabilitadas íntegramente con asfalto, señalización vial y veredas seguras."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevado índice de informalidad comercial y desorden en el comercio ambulatorio, acentuado por procedimientos administrativos lentos y burocráticos.",
+            "objective": "Realizar la reingeniería de procesos a través de una Ventanilla Única de Formalización y ordenar integralmente el comercio ambulatorio con un padrón técnico y capacitación.",
+            "goal": "Formalizar 4,500 Mypes y lograr que el 100% del comercio en vía pública esté ordenado y formalizado en módulos ecoeficientes.",
+            "indicator": "Número de micro y pequeñas empresas (Mypes) formalizadas y porcentaje de comerciantes en vía pública formalmente empadronados y ordenados."
+          },
+          {
+            "problem": "Brecha significativa de inserción laboral en la población juvenil vulnerable, por una desarticulación entre la demanda del mercado y la oferta formativa local.",
+            "objective": "Poner en funcionamiento el Centro de Emprendimiento e Incubadora Digital \"Rímac Innova\", con espacios de Co-Working y una Bolsa Laboral Municipal interconectada con empresas privadas.",
+            "goal": "Insertar a 3,500 jóvenes con alta productividad laboral en el mercado formal.",
+            "indicator": "Número de jóvenes de 18 a 29 años capacitados en habilidades técnicas con inserción en el mercado laboral formal."
+          },
+          {
+            "problem": "Subutilización del potencial turístico del Centro Histórico del Rímac, debido a la falta de circuitos cohesionados, señalética tecnológica y seguridad perimetral.",
+            "objective": "Consolidar el Corredor Turístico-Gastronómico y poner en valor las zonas monumentales, generando alianzas público-privadas para la inversión en infraestructura turística de calidad.",
+            "goal": "Alcanzar los 600,000 turistas anuales y tener 6 monumentos de valor histórico totalmente restaurados y abiertos.",
+            "indicator": "Flujo anual de turistas nacionales y extranjeros registrados, y número de convenios de restauración de patrimonio arquitectónico y cultural ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiencia en la frecuencia y cobertura de la recolección selectiva de residuos, generando puntos críticos de acumulación de basura y botaderos informales.",
+            "objective": "Rediseñar y optimizar las rutas de recolección de residuos sólidos e implementar un programa intensivo de segregación en la fuente con recicladores formalizados.",
+            "goal": "Alcanzar el 100% de cobertura y disposición final de residuos bajo estándares ambientales y lograr que el 75% de la comunidad participe en el reciclaje diario.",
+            "indicator": "Toneladas métricas de residuos sólidos recolectadas selectivamente y porcentaje de viviendas y locales que separan sus residuos aprovechables."
+          },
+          {
+            "problem": "Índice de metros cuadrados de área verde por habitante críticamente inferior a los estándares internacionales, con abandono y aridez en zonas periféricas y laderas.",
+            "objective": "Realizar una campaña masiva de arborización y forestación urbana en laderas, sembrando especies nativas de bajo consumo hídrico e implementando plantas de tratamiento de aguas residuales.",
+            "goal": "Alcanzar 6.0 metros cuadrados de área verde por habitante y tener 2 plantas de tratamiento de aguas residuales activas.",
+            "indicator": "Metros cuadrados de áreas verdes públicas mantenidas eficientemente por habitante en la jurisdicción."
+          },
+          {
+            "problem": "Elevada presencia de material particulado y contaminación acústica por un parque automotor antiguo, alta congestión y uso indebido del claxon.",
+            "objective": "Controlar la contaminación sonora y atmosférica a través de operativos conjuntos de medición y la aplicación de sanciones ejemplares.",
+            "goal": "Lograr una reducción del 60% de la contaminación acústica y establecer un control estricto de emisiones vehiculares.",
+            "indicator": "Porcentaje de reducción de puntos críticos de contaminación acústica ambiental monitoreados en avenidas principales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos de atención administrativa lentos, complejos y en papel, que fomentan la existencia de tramitadores externos y generan una baja percepción de satisfacción ciudadana.",
+            "objective": "Desplegar la estrategia \"Tramitología Cero\", digitalizando el 100% de los procedimientos del TUPA a través de una ventanilla única virtual.",
+            "goal": "Lograr que el 100% de los procedimientos TUPA estén simplificados e integrados a la plataforma electrónica.",
+            "indicator": "Porcentaje de trámites, licencias y solicitudes realizables enteramente por canales virtuales protegidos."
+          },
+          {
+            "problem": "Necesidad de robustecer los sistemas preventivos de control, los canales de denuncia y la transparencia en la contratación de obras de infraestructura pública local.",
+            "objective": "Incrementar la eficiencia en la ejecución del presupuesto de inversiones locales, formulando proyectos viables bajo el sistema Invierte.pe, en un marco de \"Tolerancia Cero a la Corrupción\".",
+            "goal": "Alcanzar una ejecución presupuestal del 94% de manera sostenida en proyectos de inversión pública.",
+            "indicator": "Porcentaje anual de ejecución del presupuesto institucional modificado (PIM) destinado al rubro de proyectos de inversión pública."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-8kmdpMB43qjJKQeobRZjTETqvcVjoXh9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/8kmdpMB43qjJKQeobRZjTETqvcVjoXh9",
+      "sha256": "291237d08b9acb7dd600c47fcbccdbdae6b176a101323f047d95e28535f9c3db",
+      "accessedAt": "2026-10-02T23:01:59.243Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016709",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016709",
+      "sha256": "0ce8ae30af5ca0a8e9fcf5eef7251eceb37f902eae10076742bd5b24a5b16ea7",
+      "accessedAt": "2026-10-02T23:01:59.734Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

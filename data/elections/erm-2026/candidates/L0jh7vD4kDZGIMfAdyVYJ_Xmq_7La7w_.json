@@ -1,0 +1,174 @@
+{
+  "id": "L0jh7vD4kDZGIMfAdyVYJ_Xmq_7La7w_",
+  "slug": "walter-ciro-perez-norena",
+  "electionId": "erm-2026",
+  "name": "Walter Ciro Perez Noreña",
+  "givenNames": "Walter Ciro",
+  "surnames": "Perez Noreña",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 2984,
+    "name": "BATALLA PERU"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:44.890Z",
+      "sourceId": "jne-hv-L0jh7vD4kDZGIMfAdyVYJ_Xmq_7La7w_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "santiago antunez de mayolo",
+        "program": "ing. civil.",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "geminisconstructora&consultora",
+      "role": "GERENTE",
+      "from": "2011",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 122000,
+        "public": 0,
+        "private": 122000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "cuento con empresa propia, la cual soy director y gerente, realizo consultoria y constructora a nivel nacional"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a91b2fd2-767d-4397-8bc5-99d58a3243b8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/21869e02-f991-4d10-b1dc-04b4a58ef894.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la inseguridad ciudadana, manifestada en la alta incidencia de robos, microcomercialización de drogas y pandillaje, generando un clima de temor en la población.",
+            "objective": "Garantizar la seguridad de la población mediante la implementación de un sistema integral y descentralizado de seguridad ciudadana, en estrecha coordinación con la Policía Nacional y las organizaciones vecinales.",
+            "goal": "Implementar 43 Bases Descentralizadas de Seguridad Ciudadana, instalar cámaras de videovigilancia en todas las zonas del distrito y en puntos de alto riesgo delincuencial, y lograr la descentralización total del servicio de seguridad.",
+            "indicator": "Número de Bases Descentralizadas de Seguridad Ciudadana (BDSC) implementadas. Número de cámaras de videovigilancia instaladas y operativas."
+          },
+          {
+            "problem": "Acceso limitado y calidad deficiente de los servicios de salud, evidenciado en la falta de infraestructura y equipamiento adecuado, y en las elevadas tasas de morbilidad por enfermedades infecciosas y patologías como la TBC pulmonar.",
+            "objective": "Mejorar la calidad y el acceso a los servicios de salud para toda la población, formulando una política de salud integral con un fuerte componente preventivo-promocional y recuperativo.",
+            "goal": "Construir el Hospital Municipal de La Victoria, implementar una Botica Municipal y reducir los índices de morbilidad de enfermedades prevalentes como la tuberculosis pulmonar.",
+            "indicator": "Índice de morbi-mortalidad de los grupos más vulnerables. Nivel de cobertura de los servicios de salud. Número de especialidades médicas disponibles."
+          },
+          {
+            "problem": "Desatención a la niñez y la juventud, reflejada en la carencia de espacios y programas para el desarrollo de actividades deportivas, culturales y de recreación.",
+            "objective": "Promover el desarrollo integral de la niñez y la juventud, dotándoles de oportunidades para explotar sus aptitudes en educación, deporte y diversas expresiones culturales.",
+            "goal": "Construir lozas deportivas en cada sector, crear una escuela municipal de deportes masivos, recuperar terrenos abandonados para la implementación de parques recreativos y construir y equipar la Casa de la Juventud.",
+            "indicator": "Número de lozas deportivas construidas. Cantidad de parques recreativos recuperados y habilitados. Número de inscritos en la escuela municipal de deportes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil promoción del desarrollo económico local que no genera suficientes oportunidades de empleo para los residentes del distrito.",
+            "objective": "Promover el desarrollo económico, priorizando el fortalecimiento de las micro y pequeñas empresas y el turismo, en compatibilidad con las potencialidades del distrito para dinamizar la economía local.",
+            "goal": "Crear la Escuela Municipal de Gestión Empresarial para la capacitación en formación y administración de empresas, y establecer que las empresas de toda índole contraten un porcentaje de trabajadores del distrito.",
+            "indicator": "Número de micro y pequeñas empresas formalizadas. Porcentaje de trabajadores del distrito contratados en empresas locales. Número de convenios firmados con institutos de formación empresarial."
+          },
+          {
+            "problem": "Sistema tributario que no incentiva la inversión privada y el desarrollo, con tributos considerados altos por los habitantes.",
+            "objective": "Fortalecer y promocionar la actividad económica mediante incentivos que fomenten la inversión y el desarrollo de la localidad.",
+            "goal": "Implementar un sistema de estimulación tributaria para las empresas que inviertan en el distrito y un programa de canje de deuda por la ejecución de obras pequeñas de impacto municipal.",
+            "indicator": "Número de empresas acogidas a la estimulación tributaria. Monto de deuda municipal canjeada por obras de impacto."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de los residuos sólidos y de la limpieza pública, con incumplimiento de horarios de recojo que generan acumulación de basura, suciedad y malestar vecinal.",
+            "objective": "Mejorar los niveles de saneamiento ambiental a través de una gestión de residuos sólidos eficiente y la promoción de una cultura cívica de limpieza y conservación del distrito.",
+            "goal": "Tercerizar el servicio de recojo de basura con altas exigencias de cumplimiento, crear una Empresa Municipal de Reciclaje para industrializar la basura y ejecutar un programa de formación cívica sobre la conservación del distrito.",
+            "indicator": "Porcentaje de cumplimiento de los horarios de recojo de basura. Toneladas de residuos sólidos reciclados. Número de campañas de formación cívica realizadas."
+          },
+          {
+            "problem": "Altos niveles de contaminación ambiental y déficit de áreas verdes, ocasionados por el parque automotor, la industria y la falta de conservación de los espacios públicos.",
+            "objective": "Contribuir al desarrollo armónico del distrito con su entorno ambiental, mitigando los impactos de la contaminación, mejorando la calidad del aire y recuperando las áreas verdes.",
+            "goal": "Reducir la contaminación generada por el tráfico vehicular mediante un Plan Maestro Vial, proponer la creación de un vivero municipal y ejecutar un plan de mantenimiento y relanzamiento de las áreas verdes del distrito.",
+            "indicator": "Niveles de partículas suspendidas en el aire. Superficie de áreas verdes por habitante. Número de especies producidas en el vivero municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión municipal ineficiente, burocrática y con sistemas administrativos deficientes, lo que genera lentitud en los procedimientos y una inadecuada atención a los ciudadanos.",
+            "objective": "Modernizar la gestión institucional para desarrollar una administración eficiente, eficaz y transparente, orientada a brindar una óptima calidad en los servicios que presta.",
+            "goal": "Adoptar una estructura orgánica plana (chata) para agilizar la atención al público, buscar la simplificación administrativa y realizar una actualización constante de los documentos de gestión.",
+            "indicator": "Tiempo promedio para la resolución de expedientes administrativos. Nivel de satisfacción del ciudadano con la atención y los servicios municipales."
+          },
+          {
+            "problem": "Fractura en la relación entre la municipalidad y los vecinos, caracterizada por la desconfianza, la falta de participación ciudadana en la toma de decisiones y la desatención a las organizaciones sociales.",
+            "objective": "Fortalecer las capacidades organizativas e institucionales para construir un sistema de gestión integral basado en una cultura de concertación y participación activa de la comunidad.",
+            "goal": "Impulsar la participación ciudadana a través de la creación y/o reactivación de instituciones como el Consejo de Coordinación Local Distrital, los Comités Comunales y las Juntas Vecinales, y activar la realización de Cabildos Abiertos.",
+            "indicator": "Número de organizaciones vecinales participantes en la gestión local. Frecuencia de reuniones del Consejo de Coordinación Local Distrital. Número de cabildos abiertos realizados por año."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-L0jh7vD4kDZGIMfAdyVYJ_Xmq_7La7w_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/L0jh7vD4kDZGIMfAdyVYJ_Xmq_7La7w_",
+      "sha256": "0bbe107ee8ecd4a1070dfdf2f7d23467075c7c99d7352d916eb3f2d76b586b4e",
+      "accessedAt": "2026-10-02T22:57:44.890Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016797",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016797",
+      "sha256": "8d33406329dbc65f29992cdf60777b795dad57a5e984e9c48f0c77d753385725",
+      "accessedAt": "2026-10-02T22:57:45.364Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

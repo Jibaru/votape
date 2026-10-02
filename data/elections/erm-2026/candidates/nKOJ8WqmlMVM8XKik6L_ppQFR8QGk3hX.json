@@ -1,0 +1,196 @@
+{
+  "id": "nKOJ8WqmlMVM8XKik6L_ppQFR8QGk3hX",
+  "slug": "nilda-esperanza-carranza-rodriguez",
+  "electionId": "erm-2026",
+  "name": "Nilda Esperanza Carranza Rodriguez",
+  "givenNames": "Nilda Esperanza",
+  "surnames": "Carranza Rodriguez",
+  "age": 74,
+  "gender": "Femenino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:39.399Z",
+      "sourceId": "jne-hv-nKOJ8WqmlMVM8XKik6L_ppQFR8QGk3hX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "MIEMBRO DEL CONGRESO NACIONAL ORDINARIO",
+      "party": "PERU POSIBLE",
+      "from": "2004",
+      "to": "2017"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2024"
+    },
+    {
+      "party": "PERU POSIBLE",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 80497,
+        "public": 56497,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "HYUNDAI COLOR AZUL AÑO 2016",
+        "value": 81000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/50e6ae24-e160-4b5b-86c3-d20622fb999d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/459d59f9-12aa-468b-9d02-d59b22fc1ce2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiencias en los servicios de salud y educación, con brechas significativas en el acceso y la calidad.",
+            "objective": "Reducir las brechas en salud y educación, ampliando la cobertura de postas médicas, fortaleciendo programas de salud preventiva y mejorando la infraestructura educativa.",
+            "goal": "Ampliar la cobertura de los servicios de salud y mejorar la infraestructura educativa para garantizar el acceso universal.",
+            "indicator": "Cobertura de postas médicas y número de programas de salud preventiva implementados."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana y altos índices de delincuencia en el distrito.",
+            "objective": "Reducir la delincuencia y la percepción de inseguridad mediante la implementación de un sistema integral de videovigilancia, patrullaje integrado y programas de prevención.",
+            "goal": "Disminuir en un 25% los delitos en zonas críticas del distrito.",
+            "indicator": "Porcentaje de reducción de delitos denunciados."
+          },
+          {
+            "problem": "Existencia de viviendas en estado tugurizado y un notable déficit de espacios públicos de calidad.",
+            "objective": "Implementar programas de renovación urbana y mejoramiento de tugurios para proporcionar viviendas dignas a la población.",
+            "goal": "Renovar los barrios tugurizados a través de proyectos de vivienda social.",
+            "indicator": "Número de proyectos de renovación urbana y mejoramiento de viviendas iniciados."
+          },
+          {
+            "problem": "Escasa inclusión social de poblaciones vulnerables como adultos mayores, personas con discapacidad y jóvenes en riesgo.",
+            "objective": "Fortalecer la inclusión social mediante la creación de programas de apoyo específicos para adultos mayores, personas con discapacidad y jóvenes en situación de riesgo.",
+            "goal": "Priorizar la atención a mujeres, jóvenes y adultos mayores en los programas sociales del distrito.",
+            "indicator": "Número de programas de apoyo a poblaciones vulnerables implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Acceso limitado a financiamiento y falta de apoyo para los emprendedores locales.",
+            "objective": "Fomentar el emprendimiento a través de la creación de incubadoras municipales y la facilitación del acceso a microcréditos.",
+            "goal": "Establecer incubadoras municipales y programas de acceso a microcréditos para apoyar a los emprendedores del distrito.",
+            "indicator": "Número de incubadoras municipales creadas y volumen de microcréditos otorgados."
+          },
+          {
+            "problem": "Alta tasa de informalidad laboral y comercial, especialmente en el emporio de Gamarra y los mercados locales.",
+            "objective": "Formalizar el comercio en Gamarra y los mercados locales, integrando a los comerciantes a la economía formal mediante estrategias progresivas e incentivos.",
+            "goal": "Lograr que el 40% de los comerciantes informales se integren a la economía formal.",
+            "indicator": "Porcentaje de comerciantes formalizados."
+          },
+          {
+            "problem": "Baja competitividad del comercio local frente a otros polos comerciales de la metrópoli.",
+            "objective": "Potenciar el desarrollo productivo y el empleo, diversificando la economía con turismo cultural y gastronómico.",
+            "goal": "Promover la diversificación económica mediante el impulso del turismo y la gastronomía local.",
+            "indicator": "Tasa de crecimiento del empleo formal en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de los residuos sólidos, lo que genera acumulación de basura y problemas de salubridad.",
+            "objective": "Implementar una gestión integral de residuos sólidos, que incluya la implementación de plantas de reciclaje y programas de segregación en la fuente.",
+            "goal": "Reciclar el 30% de los residuos sólidos generados en el distrito.",
+            "indicator": "Porcentaje de residuos sólidos reciclados."
+          },
+          {
+            "problem": "Escasez de áreas verdes, parques y espacios públicos de calidad, afectando el bienestar de los vecinos.",
+            "objective": "Recuperar y crear espacios públicos sostenibles, incluyendo parques y plazas, con adecuada arborización y áreas recreativas.",
+            "goal": "Recuperar 15 espacios públicos, como parques y plazas, dotándolos de infraestructura verde.",
+            "indicator": "Número de parques y plazas recuperados con infraestructura verde."
+          },
+          {
+            "problem": "Alta contaminación urbana generada por el transporte y el comercio informal.",
+            "objective": "Promover la movilidad sostenible mediante la implementación de ciclovías, la optimización del transporte público y el control de emisiones contaminantes.",
+            "goal": "Implementar un sistema de movilidad sostenible que reduzca la contaminación vehicular en el distrito.",
+            "indicator": "Kilómetros de ciclovías implementadas y nivel de reducción de emisiones vehiculares."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos municipales burocráticos, lentos y con una limitada digitalización de los servicios al ciudadano.",
+            "objective": "Modernizar la gestión municipal a través de la digitalización de trámites y servicios para mejorar la eficiencia y la transparencia.",
+            "goal": "Digitalizar el 70% de los trámites municipales para facilitar el acceso a los servicios.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          },
+          {
+            "problem": "Débil participación ciudadana en la gestión local y una baja confianza en las autoridades municipales.",
+            "objective": "Fortalecer la participación ciudadana mediante la creación de consejos vecinales, mesas de trabajo temáticas y plataformas de consulta pública.",
+            "goal": "Crear consejos de barrio y mesas de trabajo temáticas para fomentar una participación vecinal activa en presupuestos y proyectos.",
+            "indicator": "Número de consejos vecinales y plataformas de consulta pública activas."
+          },
+          {
+            "problem": "Percepción de falta de transparencia y corrupción en gestiones municipales anteriores.",
+            "objective": "Garantizar la transparencia en la gestión pública a través de la rendición de cuentas periódica, la publicación del presupuesto participativo y la realización de auditorías ciudadanas.",
+            "goal": "Realizar auditorías ciudadanas y rendiciones de cuentas de manera semestral.",
+            "indicator": "Frecuencia de rendición de cuentas semestrales y número de auditorías ciudadanas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-nKOJ8WqmlMVM8XKik6L_ppQFR8QGk3hX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/nKOJ8WqmlMVM8XKik6L_ppQFR8QGk3hX",
+      "sha256": "750ed1fbcbf6f61dc8da844992e9028b83cccbf7d23c07f13b08a295209526d4",
+      "accessedAt": "2026-10-02T22:57:39.399Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016269",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016269",
+      "sha256": "577735ced68fdea607819d746c9580ea2a78cd67bdbec73fe7690b47ef3ab040",
+      "accessedAt": "2026-10-02T22:57:39.932Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": "IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre",
+  "slug": "tanus-barraza-calvo",
+  "electionId": "erm-2026",
+  "name": "Tanus Barraza Calvo",
+  "givenNames": "Tanus",
+  "surnames": "Barraza Calvo",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140129",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:46.284Z",
+      "sourceId": "jne-hv-IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO Y CIENCIA POLITICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SOCIEDAD CIVIL SEMBRANDO VALORES",
+      "role": "ABOGADO",
+      "from": "2018",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2014"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 360,
+        "public": 0,
+        "private": 360
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTO",
+        "value": 5300
+      },
+      {
+        "type": "COLOR CELESTE",
+        "value": 3000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "EN LA ACTUALIDAD EJERZO EL DERECHO EN LITIGIOS PENALES DE FORMA INDEPENDIENTE, EN ELLO RADICA MI FUENTE DE INGRESOS."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a402f4cc-06ad-4133-8316-30ccfca79e0c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4fc52fd8-ff11-4531-96c7-2c83c62be030.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso de la población a espacios públicos de recreación, cultura y deporte debido al avanzado estado de deterioro, abandono y falta de mantenimiento del ornato en el distrito de Santa Rosa.",
+            "objective": "Recuperar, modernizar y poner en valor la infraestructura recreativa, deportiva y los espacios verdes del distrito, garantizando su mantenimiento sostenible para incrementar los niveles de participación comunitaria, deportiva y el sano esparcimiento de los vecinos.",
+            "goal": "Ejecutar el plan de recuperación integral del ornato y la infraestructura deportiva del distrito bajo administración municipal, logrando habilitar progresivamente el 100% de las losas, parques y centros recreativos abandonados, lo que permitirá elevar la tasa de participación comunitaria de manera sostenible al año 2030.",
+            "indicator": "Tasa de participación de Niñez y Adolescencia (6 a 17 años): ~55%. Tasa de participación de Juventud y Adultez Temprana (18 a 29 años): ~35%. Tasa de participación de Adultez y Adulto Mayor (30 a 64 años / 65 a más): ~12%."
+          },
+          {
+            "problem": "Deficiente acceso a servicios de protección integral, salud mental y educación inclusiva para las personas con discapacidad y poblaciones vulnerables (adultos mayores, mujeres, niños y adolescentes) en situación de desprotección en el distrito de Santa Rosa.",
+            "objective": "Garantizar la protección integral, la inclusión social y el acceso a servicios especializados de salud y educación para las personas con discapacidad, adultos mayores y poblaciones vulnerables del distrito, mediante la implementación y puesta en valor de infraestructura social y comunitaria especializada.",
+            "goal": "Para el periodo 2027-2030, la meta es implementar la Red Distrital de Protección Social mediante la apertura progresiva del Departamento de Salud Mental (2027), la Casa del Adulto Mayor y de la Mujer (2028), y el Centro de Tratamiento para Personas con Discapacidad (2029); logrando que la cobertura de atención integral a la población vulnerable de Santa Rosa escale de manera sostenible del 25% inicial hasta alcanzar el 95% de capacidad operativa total en 2030.",
+            "indicator": "Se proyecta que entre el 9% y el 11% de la población de Santa Rosa presenta algún tipo de discapacidad (ya sea física, sensorial, intelectual o mental). Los adultos mayores representan aproximadamente el 8.3% de la población total del distrito."
+          },
+          {
+            "problem": "Alto porcentaje de jóvenes de 15 a 29 años en el distrito de Santa Rosa no se encuentran insertos en el sistema educativo superior ni en el mercado laboral formal (Jóvenes \"NiNi\").",
+            "objective": "Incrementar el acceso a la educación superior (técnica y universitaria) y mejorar las condiciones de empleabilidad formal para los jóvenes del distrito a través de alianzas estratégicas, programas de becas por rendimiento y fortalecimiento de competencias.",
+            "goal": "Reducir al 18% para el 2027 con la implementación de convenios y primeras becas. Reducir al 15% para el 2028 con la inserción de las primeras promociones a carreras técnicas cortas. Reducir al 13% para el 2029 con la consolidación de ferias laborales y bolsas de trabajo distritales. Reducir al 10% para el 2030.",
+            "indicator": "Se calcula que aproximadamente entre el 18% y el 20% de los jóvenes del distrito se encuentran en esta condición. Esto significa que 1 de cada 5 jóvenes en Santa Rosa no está inserto en el sistema educativo superior (técnico/universitario) ni en el mercado laboral formal."
+          },
+          {
+            "problem": "Inexistencia e inadecuada infraestructura pública destinada de forma exclusiva a la expresión artística, el fomento de la lectura, el debate ciudadano y la difusión de las manifestaciones culturales en el distrito de Santa Rosa.",
+            "objective": "Promover la identidad local y el desarrollo cultural del distrito mediante la creación, adecuación y descentralización de espacios públicos dedicados a la difusión artística, actividades lúdico-educativas y el encuentro comunitario de los vecinos.",
+            "goal": "Consolidar un circuito cultural distrital mediante la creación del primer Museo de Sitio y la Biblioteca Municipal entre 2027 y 2028, seguido de la descentralización de anfiteatros itinerantes en zonas periféricas para 2029, logrando que la participación vecinal en manifestaciones culturales y artísticas se incremente de forma sostenida, pasando de una línea de base estimada menor al 5% actual hasta alcanzar una cobertura del 45% de la población distrital beneficiada activamente al cierre de la gestión en 2030.",
+            "indicator": "El distrito cuenta con limitadas áreas dedicadas exclusivamente a la expresión artística, la lectura o el debate ciudadano."
+          },
+          {
+            "problem": "Alto índice de brecha en el acceso a servicios básicos de agua potable, alcantarillado y energía eléctrica, agudizado por la informalidad patrimonial y la falta de saneamiento físico-legal en los Asentamientos Humanos del distrito de Santa Rosa.",
+            "objective": "Cerrar las brechas de infraestructura urbana en el distrito mediante el impulso intensivo al saneamiento físico-legal, la titulación de predios y la articulación técnica con las entidades competentes (Sedapal, Enel, COFOPRI) para viabilizar la instalación de servicios básicos definitivos.",
+            "goal": "Formalizar y otorgar el saneamiento físico-legal al 100% de los Asentamientos Humanos viables del distrito para destrabar los proyectos de inversión, logrando mediante la gestión con Sedapal y COFOPRI reducir la brecha de carencia de servicios básicos del 50% actual al 35% en 2027, al 25% en 2028, al 15% en 2029, hasta alcanzar una meta histórica al cierre del 2030.",
+            "indicator": "Más del 50% de la población carece de servicios básicos."
+          },
+          {
+            "problem": "Grave déficit y limitada capacidad resolutiva de la infraestructura pública de salud para atender la demanda asistencial primaria de la población en el distrito de Santa Rosa.",
+            "objective": "Expandir y modernizar la infraestructura de salud del distrito mediante el mejoramiento de los establecimientos del primer nivel de atención existentes y la edificación de un Policlínico Municipal, garantizando una mayor oferta y oportunidad en los servicios médicos para los vecinos.",
+            "goal": "Transformar la capacidad asistencial del distrito mediante el mejoramiento de la infraestructura y equipamiento de las 3 postas médicas actuales entre 2027 y 2028, en paralelo con la ejecución del proyecto y construcción del nuevo Policlínico Municipal para su inauguración en 2029; logrando con ello descentralizar las especialidades médicas básicas y duplicar de forma progresiva la cobertura de atención primaria, permitiendo que el acceso efectivo a la salud de los más de 40 mil habitantes del distrito escale de los niveles críticos actuales hasta un 85% de optimización de la demanda atendida al cierre de la gestión en 2030.",
+            "indicator": "Existen solo 3 postas médicas muy limitadas para una población de más de 40 mil habitantes."
+          },
+          {
+            "problem": "Alta incidencia de casos de violencia familiar e intrafamiliar en el distrito de Santa Rosa, agravada por la falta de espacios municipales de protección, asistencia legal y soporte psicológico oportuno para las víctimas.",
+            "objective": "Reducir los índices de violencia familiar en el distrito a través de la implementación de un sistema integral de protección, prevención y asistencia a las víctimas, articulando esfuerzos con la Policía Nacional del Perú (PNP), el Poder Judicial y servicios municipales especializados.",
+            "goal": "Contener y reducir el impacto de la violencia intrafamiliar mediante la inauguración y equipamiento de la Casa de la Mujer en 2027, la cual operará en articulación directa con la Comisaría de Santa Rosa para activar un protocolo de respuesta inmediata, logrando así disminuir de manera sostenida la reincidencia de agresiones en los hogares del distrito.",
+            "indicator": "El proyecto arranca con un promedio de 174 a 200 casos reportados en la comisaría que necesitan una tasa de absorción y atención integral del 100% a través de la nueva infraestructura municipal articulada a la PNP, MINDEF, PJ."
+          },
+          {
+            "problem": "Alta incidencia de animales de compañía (mascotas) en situación de abandono y desprotección en la vía pública del distrito de Santa Rosa, lo que genera riesgos de salud pública, sobrepoblación y vulnera el bienestar animal.",
+            "objective": "Promover el bienestar animal y proteger la salud pública en el distrito mediante la creación y operación de una Veterinaria Municipal con Albergue Temporal, impulsando campañas masivas de esterilización, atención médica accesible y adopción responsable.",
+            "goal": "Construir, equipar y poner en funcionamiento la Veterinaria Municipal y el Albergue Temporal en 2027, logrando rescatar, esterilizar e insertar en programas de adopción al 25% de los animales callejeros identificados en su primer año; expandiendo la capacidad operativa para atender al 50% en 2028, al 75% en 2029, hasta alcanzar el 100% de la meta programada de control poblacional y asistencia animal al cierre del 2030, logrando un distrito con calles libres de abandono y con una cultura sólida de tenencia responsable.",
+            "indicator": "En Santa Rosa, un distrito con zonas de reciente expansión urbana donde el abandono suele ser mayor, existe gran cantidad de mascotas desprotegidas y en estado de abandono."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasas oportunidades de inserción laboral formal, debilidad en la articulación con la inversión privada y ausencia de una plataforma efectiva de intermediación y bolsa de trabajo local para la población vulnerable y jóvenes del distrito de Santa Rosa.",
+            "objective": "Incrementar la inserción laboral formal y el acceso a empleo digno para los ciudadanos de Santa Rosa, mediante la implementación y dinamización de una Bolsa Laboral Municipal articulada estratégicamente con las empresas del sector privado y los programas de empleo temporal del Estado.",
+            "goal": "Modernizar la Bolsa Laboral Municipal mediante una plataforma digital interactiva y la firma de al menos 20 convenios anuales con empresas privadas de Lima Norte, logrando insertar de manera efectiva en el mercado laboral formal a miles de vecinos del distrito.",
+            "indicator": "Identificar a los jóvenes potenciales y capacitados en la bolsa laboral con el Estado y la empresa privada."
+          },
+          {
+            "problem": "Alto porcentaje de ciudadanos y jóvenes emprendedores en el distrito de Santa Rosa que conducen unidades económicas sin contar con capacitación técnica en gestión empresarial, finanzas y comercialización.",
+            "objective": "Fortalecer las capacidades técnico-empresariales de los emprendedores y jóvenes del distrito a través de la implementación de un Centro de Capacitación y Preparación Empresarial Municipal que impulse la competitividad y sostenibilidad de sus negocios.",
+            "goal": "La meta es la creación, equipamiento y puesta en marcha del Centro de Capacitación y Preparación Empresarial en 2027, logrando certificar prioritariamente a través de sus programas formativos.",
+            "indicator": "Debido a que es un distrito periférico con zonas de reciente expansión urbana, comercio vecinal, las estimaciones locales sitúan la informalidad comercial en el distrito entre el 70% y el 75%."
+          },
+          {
+            "problem": "Elevada tasa de informalidad comercial y empresarial en el distrito de Santa Rosa, que limita el crecimiento económico de los emprendedores, genera desorden urbano y restringe la recaudación fiscal municipal.",
+            "objective": "Promover la formalización progresiva y la sostenibilidad de los comerciantes y emprendedores del distrito, mediante la simplificación administrativa, incentivos tributarios, campañas de sensibilización y programas de capacitación en gestión empresarial.",
+            "goal": "Implementar el Programa de Formalización Express y Formalización Progresiva con periodos de sensibilización (\"marcha blanca\") sin multas operativas, logrando incorporar a la legalidad comercial a los miles de comerciantes. Hasta alcanzar el 100% de la meta programada de ordenamiento y regularización comercial al cierre del 2030, consolidando una base comercial distrital competitiva y ordenada.",
+            "indicator": "Más del 35% de comercios son informales en la actualidad, es por ello que vamos a priorizar resolver esta problemática."
+          },
+          {
+            "problem": "Predominancia del distrito de Santa Rosa como una \"Ciudad Dormitorio\" debido a la escasa dinámica económica interna y al limitado aprovechamiento sostenible de su potencial, recursos e identidad turística local.",
+            "objective": "Transformar la matriz económica del distrito impulsando el turismo sostenible como motor de desarrollo local, mediante la puesta en valor de sus atractivos (playas, ferias gastronómicas, patrimonio cultural), la atracción de visitantes de Lima Norte y el fomento del empleo e inversión interna.",
+            "goal": "Ejecutar el Plan de Desarrollo Turístico Local (PDTL) para institucionalizar los circuitos del distrito (festivales playeros, gastronomía y caballos de paso), logrando duplicar el flujo de visitantes de Lima Norte de manera progresiva (25% en 2028, 60% en 2029 y 100% en 2030) para dinamizar el comercio interno y generar empleo directo en el propio territorio.",
+            "indicator": "Santa Rosa posee diferentes atractivos turísticos que deben ser explotados, en beneficio de la población de Santa Rosa y en atención de los diferentes distritos de Lima Norte."
+          },
+          {
+            "problem": "Alto porcentaje de la infraestructura vial (pistas, veredas y vías de acceso) del distrito de Santa Rosa en estado de deterioro, abandono o sin pavimentar, afectando la transitabilidad vehicular y peatonal.",
+            "objective": "Mejorar las condiciones de transitabilidad, conectividad y seguridad vial en el distrito mediante el mantenimiento integral, la rehabilitación de pavimentos dañados y la construcción de nueva infraestructura vial urbana.",
+            "goal": "Reducir progresivamente la brecha de infraestructura vial del distrito mediante un plan intensivo de bacheo, pavimentación y veredas seguras, logrando intervenir y rehabilitar el 20% de las vías críticas en 2027, acumulando un 45% en 2028, un 70% en 2029, hasta alcanzar el 90% de la red vial principal del distrito pavimentada y en óptimo estado al cierre del 2030.",
+            "indicator": "Gran número de pistas y veredas en mal estado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente prestación del servicio de recolección, transporte y disposición final de residuos sólidos en el distrito de Santa Rosa, lo que genera acumulación de basura en la vía pública y riesgos para la salud ambiental.",
+            "objective": "Optimizar y ampliar la capacidad operativa del servicio de limpieza pública en el distrito mediante el diseño de proyectos de inversión y la ejecución de IOARR para la adquisición de nuevas compactadoras, garantizando la eficiencia en las rutas de recojo.",
+            "goal": "Modernizar el sistema de limpieza pública mediante la compra e incorporación de la nueva flota de compactadoras vía IOARR entre 2027 y 2028, logrando ampliar la cobertura del servicio regular del 60% actual al 75% en 2027, al 85% en 2028, al 95% en 2029, hasta consolidar el 100% de las rutas urbanas programadas atendidas de manera eficiente al cierre del 2030, logrando la erradicación total de los puntos críticos de acumulación de basura en el distrito.",
+            "indicator": "Porcentaje de población que recibe un eficiente servicio de recolección de residuos sólidos."
+          },
+          {
+            "problem": "Inexistencia de un sistema moderno y hermético de almacenamiento público de residuos sólidos en el distrito de Santa Rosa, lo que ocasiona la dispersión de basura por vectores (animales) y contaminación visual en las zonas críticas.",
+            "objective": "Modernizar y ordenar el sistema de acopio urbano de residuos mediante la instalación estratégica de contenedores soterrados y tachos ecológicos, optimizando los puntos de recojo para evitar la acumulación informal de basura en la superficie.",
+            "goal": "Implementar de forma progresiva la primera red de contenedores soterrados en los puntos más críticos del distrito; iniciando en 2027 con la instalación del 25% de las estaciones programadas en las zonas comerciales y de mayor afluencia, escalando al 50% de cobertura en 2028, al 75% en 2029, hasta consolidar el 100% de los puntos ecológicos urbanos soterrados previstos al cierre del 2030, logrando eliminar los focos insalubres tradicionales de la vía pública.",
+            "indicator": "Deficiente número de contenedores de basura instalados."
+          },
+          {
+            "problem": "Deficiente mantenimiento, pérdida de cobertura vegetal y escasez de infraestructura verde sostenible en diversos sectores y espacios públicos del distrito de Santa Rosa.",
+            "objective": "Incrementar y poner en valor las áreas verdes y el ornato urbano del distrito a través de programas intensivos de reforestación, arborización y mantenimiento integral, promoviendo la participación activa de la ciudadanía en el cuidado ambiental.",
+            "goal": "Ejecutar un plan sostenido de arborización comunitaria y recuperación del ornato, logrando intervenir y consolidar el mantenimiento del 35% de los espacios públicos y parques del distrito en 2027, elevando la cobertura al 60% en 2028 con la siembra de especies nativas de bajo consumo de agua, alcanzando el 85% en 2029, hasta lograr el 100% de la meta programada de recuperación de áreas verdes y ejes viales principales al cierre del 2030, asegurando la sostenibilidad ambiental con participación vecinal.",
+            "indicator": "Número de áreas verdes con mantenimiento deficiente."
+          },
+          {
+            "problem": "Incremento de la contaminación sonora en sectores comerciales, residenciales y ejes viales del distrito de Santa Rosa, debido a ruidos nocivos originados por actividades comerciales, transporte y eventos públicos no regulados.",
+            "objective": "Prevenir, vigilar y controlar la contaminación sonora en el distrito, fortaleciendo la fiscalización ambiental y el monitoreo del nivel de decibelios para garantizar un entorno urbano acústicamente sano y mejorar la convivencia vecinal.",
+            "goal": "Adquirir sonómetros calibrados e implementar el Plan de Fiscalización Acústica, logrando atender y resolver el 40% de los focos de contaminación sonora detectados en 2027, elevando la efectividad al 65% en 2028 mediante la regulación estricta de zonas comerciales y paraderos, alcanzando el 85% en 2029, hasta consolidar para el 2030 un 95% de control y mitigación en los puntos críticos de ruido, reduciendo al mínimo la afectación a la tranquilidad pública de los vecinos del distrito.",
+            "indicator": "Porcentaje de vecinos insatisfechos con el nivel de ruido."
+          },
+          {
+            "problem": "Deficiente cultura ambiental y debilidad en las prácticas de participación ciudadana de los vecinos del distrito de Santa Rosa, manifestada en el arrojo de residuos fuera de horario, acumulación de desmontes en vías públicas y bajo nivel de segregación en la fuente.",
+            "objective": "Fortalecer la cultura, educación y ciudadanía ambiental en el distrito a través de la optimización y expansión del Programa EDUCCA y el Programa Recicla Santa Rosa, promoviendo el manejo responsable de residuos sólidos y el respeto por los horarios de recolección.",
+            "goal": "Consolidar una sólida cultura ecológica mediante la formación de brigadas de Promotores Ambientales Escolares y Comunitarios, logrando que el 25% de las viviendas del distrito segreguen sus residuos correctamente en 2027, escalando al 50% en 2028, al 75% en 2029, hasta alcanzar el 95% de cobertura de sensibilización y participación vecinal activa al cierre del 2030, erradicando de manera sostenible la disposición informal de basura y desmontes en las avenidas principales del distrito.",
+            "indicator": "Porcentaje de capacitación y sensibilización en protección del Medio Ambiente y manejo de residuos solidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficientes competencias técnicas, falta de especialización y limitada capacitación del personal administrativo de la municipalidad, lo que genera demoras en el trámite documentario y afecta la calidad de la atención al vecino de Santa Rosa.",
+            "objective": "Desarrollar y fortalecer las capacidades profesionales y técnicas del personal municipal a través de la implementación del Plan de Desarrollo de Personas (PDP) visado por SERVIR, optimizando el desempeño laboral y la eficiencia en la prestación de los servicios públicos locales.",
+            "goal": "Institucionalizar las capacitaciones obligatorias en modernización del Estado y simplificación administrativa, logrando certificar de forma progresiva al 30% del personal administrativo en 2027, elevando la cobertura al 55% en 2028, alcanzando el 80% en 2029, hasta lograr el 100% del personal apto y programado capacitado al cierre del 2030, logrando reducir los tiempos de espera en los trámites vecinales.",
+            "indicator": "Número de servidores capacitados."
+          },
+          {
+            "problem": "Limitado acceso a la información pública, deficiente actualización de las herramientas de transparencia municipal y debilidad en los mecanismos de rendición de cuentas hacia los ciudadanos del distrito de Santa Rosa.",
+            "objective": "Garantizar el derecho al acceso a la información pública y fortalecer la transparencia institucional en la Municipalidad de Santa Rosa, mediante la modernización del Portal de Transparencia Estándar (PTE), la digitalización de trámites y la implementación de audiencias públicas descentralizadas de rendición de cuentas.",
+            "goal": "Alcanzar el 100% de cumplimiento en la calificación de transparencia activa evaluada por los entes rectores del Estado; logrando digitalizar e interconectar el 40% de los servicios y trámites municipales en 2027, implementando las primeras audiencias públicas de rendición de cuentas en formato descentralizado por sectores en 2028, optimizando el tiempo de respuesta a solicitudes vecinales a menos de 5 días hábiles en 2029, hasta consolidar un gobierno local abierto, íntegro y con cero observaciones en materia de transparencia al cierre del 2030.",
+            "indicator": "Número de sesiones transmitidas."
+          },
+          {
+            "problem": "Inexistencia de un catastro técnico distrital actualizado y georreferenciado en Santa Rosa, lo que genera desactualización de la información predial, subvaluación tributaria y serias limitaciones para la planificación urbana y formalización del territorio.",
+            "objective": "Implementar el Catastro Municipal integral y multifinalitario en el distrito de Santa Rosa, mediante el levantamiento de información cartográfica y alfanumérica, para modernizar la gestión predial, optimizar la recaudación fiscal y ordenar el crecimiento urbano.",
+            "goal": "Suscribir convenios de asistencia técnica con el Ministerio de Vivienda o SUNARP para ejecutar el proyecto por etapas, logrando el levantamiento cartográfico y catastral del 25% del territorio del distrito (priorizando zonas comerciales y consolidadas) en 2027, alcanzando un 50% acumulado en 2028, un 75% en 2029 incluyendo las zonas de reciente expansión urbana, hasta consolidar el 100% del catastro urbano distrital implementado y articulado con la base de datos predial al cierre del 2030.",
+            "indicator": "Número de contribuyentes con su data actualizada y real del predial."
+          },
+          {
+            "problem": "Ausencia de capacidades técnicas y administrativas en la gestión municipal para la formulación, promoción y adjudicación de proyectos de inversión pública bajo el mecanismo de Obras por Impuestos (Oxl) Ley N° 29230.",
+            "objective": "Promover el desarrollo de infraestructura pública de gran envergadura en el distrito mediante el uso eficiente del mecanismo de Obras por Impuestos, fortaleciendo las capacidades del equipo técnico municipal y estableciendo alianzas estratégicas con el sector privado.",
+            "goal": "Capacitar al equipo de proyectos e identificar la cartera priorizada de obras (seguridad, transitabilidad o turismo), logrando suscribir los primeros convenios comprometiendo el 10% del techo presupuestal asignado en 2027, elevando la adjudicación al 25% acumulado en 2028, escalando al 50% en 2029, hasta lograr comprometer y ejecutar el 75% del presupuesto disponible mediante este mecanismo al cierre del 2030, ejecutando proyectos de impacto sin comprometer los recursos ordinarios de la municipalidad.",
+            "indicator": "Porcentaje de obras por impuestos de proyectos de envergadura."
+          },
+          {
+            "problem": "Deficientes competencias técnicas y operativas del cuerpo de serenazgo, sumado al limitado número de efectivos policiales y municipales asignados, lo que restringe la capacidad de patrullaje y respuesta oportuna ante el delito en el distrito.",
+            "objective": "Fortalecer el Sistema de Seguridad Ciudadana en el distrito mediante la profesionalización del personal de serenazgo bajo los estándares de la Ley N° 31297 y el incremento progresivo del contingente operativo, optimizando el patrullaje integrado y la prevención del delito.",
+            "goal": "Lograr la instrucción obligatoria del personal en derechos humanos, primeros auxilios y arresto ciudadano, iniciando en 2027 con el 100% del personal existente capacitado e incorporando un primer incremento del 20% de nuevos efectivos; expandiendo la flota de personal al 40% acumulado en 2028, al 60% en 2029, hasta consolidar para el 2030 un incremento sostenible del 80% en el número de serenos operativos en las calles, todos debidamente certificados y acreditados según el estándar nacional.",
+            "indicator": "Número de capacitación de serenos e incremento de personal de serenazgo para la seguridad ciudadana."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre",
+      "sha256": "313311b8114c5fe1c6efcba37c91788f76c21c35968350d83ecc647e5871fafd",
+      "accessedAt": "2026-10-02T23:05:46.284Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012529",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012529",
+      "sha256": "0a882583563f641899df61c130ffd918a4627a71705cbda9fee885fa063b300e",
+      "accessedAt": "2026-10-02T23:05:46.766Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

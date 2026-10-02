@@ -1,0 +1,300 @@
+{
+  "id": "l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX",
+  "slug": "miguel-oswaldo-huacre-mendez",
+  "electionId": "erm-2026",
+  "name": "Miguel Oswaldo Huacre Mendez",
+  "givenNames": "Miguel Oswaldo",
+  "surnames": "Huacre Mendez",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:37.641Z",
+      "sourceId": "jne-hv-l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD MAYOR DE SAN MARCOS",
+        "program": "MAESTRIA EN GESTION PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "USMP-EUCIM BUSINESS SCHOOL-MADRID ESPAÑA",
+        "program": "GERENCIA PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ANCO HUALLO",
+      "role": "ALCALDE DISTRITAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "SUPERINTENDENCIA NACIONAL DE REGISTRO PUBLICOS SUNARP",
+      "role": "ABOGADO ZONA REGISTRAL CUSCO",
+      "from": "2020",
+      "to": "2022"
+    },
+    {
+      "employer": "COLEGIO DE CONCILIADORES EXTRAJUDICIALES Y ARBITROS DEL PERU",
+      "role": "DIRECTOR REGIONAL APURIMAC",
+      "from": "2016",
+      "to": "2019"
+    },
+    {
+      "employer": "MUNICIPALIDAD PROVINCIAL DE COTABAMBAS",
+      "role": "COORDINADOR PROVINCIAL SOSEM/MEF",
+      "from": "2015",
+      "to": "2015"
+    },
+    {
+      "employer": "MIDIS - PROGRAMA NACIONAL JUNTOS",
+      "role": "GESTOR LOCAL - U.T.APURIMAC",
+      "from": "2012",
+      "to": "2014"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARÍA NACIONAL DE JUVENTUDES",
+      "party": "PERU POSIBLE",
+      "from": "2012",
+      "to": "2014"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 63600,
+        "public": 63600,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 81.94,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "PICK UP",
+        "value": 90000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1f3f7eeb-2cac-427a-a3e5-63c444648084.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/65a0882f-bddc-48f0-bed0-c0d852b466df.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Brechas significativas en el acceso y calidad de los servicios de salud y educación.",
+            "objective": "Garantizar el acceso universal a servicios básicos de salud y educación de calidad para toda la población del distrito.",
+            "goal": "Lograr que el 80% de las instituciones educativas se encuentren en buen estado al 2030 y reducir la anemia infantil en un 30%.",
+            "indicator": "Porcentaje de mejora en infraestructura y equipamiento de instituciones educativas, y tasa de anemia infantil."
+          },
+          {
+            "problem": "Alto índice de inseguridad ciudadana y violencia familiar que afecta la calidad de vida de la población.",
+            "objective": "Mejorar la calidad de vida de la población mediante la protección de grupos vulnerables y la reducción de la violencia.",
+            "goal": "Reducir la violencia familiar en un 40% y crear 15 nuevas bases de serenazgo en zonas críticas.",
+            "indicator": "Reducción de la violencia familiar y reducción de la percepción de inseguridad."
+          },
+          {
+            "problem": "Deficiencias graves de agua potable y saneamiento, especialmente en las laderas y asentamientos humanos del distrito.",
+            "objective": "Cerrar las brechas de acceso a servicios de agua y saneamiento mediante una gestión prioritaria con las entidades correspondientes.",
+            "goal": "Alcanzar una cobertura de agua y saneamiento superior o igual al 95% para el año 2030.",
+            "indicator": "Porcentaje de cobertura de agua y saneamiento en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Insuficiente desarrollo de la infraestructura comercial y turística para aprovechar el potencial del distrito.",
+            "objective": "Impulsar el desarrollo comercial y turístico a través de la modernización de mercados y la creación de circuitos culturales.",
+            "goal": "Implementar la modernización de mercados y la creación del Circuito Turístico Cultural de San Juan de Lurigancho.",
+            "indicator": "Número de mercados modernizados y creación de un circuito turístico cultural."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo y baja formalización empresarial en el distrito.",
+            "objective": "Fomentar la creación de empleo, el emprendimiento y la formalización de las micro y pequeñas empresas (MYPES).",
+            "goal": "Implementar una Ventanilla Única Empresarial y reducir el tiempo de emisión de licencias municipales a 48 horas.",
+            "indicator": "Creación del Centro Municipal de Emprendimiento e Innovación y número de licencias municipales emitidas."
+          },
+          {
+            "problem": "Falta de infraestructura productiva que limite el desarrollo de las MYPES y la formalización de comerciantes.",
+            "objective": "Promover el desarrollo económico mediante la creación de parques industriales y la formalización de actividades comerciales.",
+            "goal": "Construir el Parque Industrial para manufactura y logística, y formalizar a los comerciantes ambulantes.",
+            "indicator": "Implementación del Parque Industrial de San Juan de Lurigancho y construcción de un mercado mayorista moderno."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Bajos niveles de calidad ambiental y una inadecuada gestión de los residuos sólidos en el distrito.",
+            "objective": "Mejorar la calidad ambiental y fortalecer la gestión de residuos sólidos a través de infraestructura y programas de reciclaje.",
+            "goal": "Construir una planta municipal de reciclaje e instalar contenedores soterrados en puntos críticos de alta concentración de residuos.",
+            "indicator": "Creación de una planta de tratamiento de residuos sólidos e implementación de programas de segregación."
+          },
+          {
+            "problem": "Riesgos elevados de desastres naturales, como huaycos e inundaciones, que amenazan a la población.",
+            "objective": "Fortalecer la gestión de riesgos de desastres, el monitoreo del río Rímac y la implementación de defensas ribereñas.",
+            "goal": "Aumentar las acciones de adaptación climática y lograr una reducción de riesgos en un 100%.",
+            "indicator": "Implementación de un sistema de alerta temprana y construcción de defensas ribereñas."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios de recreación, afectando la calidad de vida y el bienestar de los ciudadanos.",
+            "objective": "Incrementar las áreas verdes y recuperar los espacios públicos para el esparcimiento de la comunidad.",
+            "goal": "Implementar el programa \"Un Millón de Árboles para SJL\" y la recuperación integral de parques y jardines.",
+            "indicator": "Número de árboles plantados y creación de corredores ecológicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiente gestión institucional que se refleja en una baja ejecución presupuestal y falta de transparencia.",
+            "objective": "Fortalecer la gestión institucional, mejorando la ejecución presupuestal, la participación ciudadana y la transparencia.",
+            "goal": "Incrementar la ejecución presupuestal a un valor superior al 90% y alcanzar una municipalidad 100% digital.",
+            "indicator": "Porcentaje de ejecución presupuestal y nivel de digitalización de los servicios municipales."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la toma de decisiones y en la fiscalización de la gestión municipal.",
+            "objective": "Promover e incrementar la participación ciudadana en los asuntos públicos del distrito.",
+            "goal": "Establecer cabildos abiertos en cada zona del distrito y crear un Observatorio Ciudadano de Gestión Municipal.",
+            "indicator": "Implementación de plataformas de consulta y número de cabildos abiertos realizados."
+          },
+          {
+            "problem": "Debilidad en los mecanismos de gobernabilidad y en la formación de líderes comunitarios.",
+            "objective": "Mejorar la gobernabilidad a través de la capacitación de funcionarios y el fortalecimiento del liderazgo vecinal.",
+            "goal": "Crear la Escuela Municipal de Liderazgo Vecinal y mantener una capacitación permanente de los funcionarios.",
+            "indicator": "Implementación de programas de capacitación para funcionarios y líderes vecinales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-138660",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: COLUSION",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2018-09-12",
+      "details": {
+        "materia": "COLUSION",
+        "fallo": "SUSPENDIDA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "TERCERA SALA PENAL",
+        "expediente": "10612-2006-0-1801-JR-PE-16",
+        "comentario": "SENTENCIA ANULADA A FAVOR DE MIGUEL OSWALDO HUACRE MENDEZ, SIN EFECTOS JURIDICOS (TENERSE POR NO PRONUNCIADA) Y SIN ANTECEDENTES. CONFORME ALA RESOLUCION Nro. 002 / 29°JUZGADO PENAL UNIPERSONAL ( AD FUN LIQ)"
+      },
+      "quote": "COLUSION · SUSPENDIDA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX",
+      "sha256": "dc2e9b302e233408325213bef36849e0d7c349aeef5ab2bf28f91122903305af",
+      "accessedAt": "2026-10-02T23:03:37.641Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026013328",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026013328",
+      "sha256": "538dd77616f3ec01f2536a9473b915f767b33cef7c0c8c3a5611b715158ee1af",
+      "accessedAt": "2026-10-02T23:03:38.285Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

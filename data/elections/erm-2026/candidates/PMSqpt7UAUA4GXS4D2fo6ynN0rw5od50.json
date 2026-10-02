@@ -1,0 +1,267 @@
+{
+  "id": "PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50",
+  "slug": "walter-quispe-vilcas",
+  "electionId": "erm-2026",
+  "name": "Walter Quispe Vilcas",
+  "givenNames": "Walter",
+  "surnames": "Quispe Vilcas",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:00.725Z",
+      "sourceId": "jne-hv-PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA LAS AMAERICAS",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ABA CORPORACION INDUSTRIAL SAC",
+      "role": "GERENTE",
+      "from": "2011",
+      "to": "2026"
+    },
+    {
+      "employer": "PERSONA NATURAL CON NEGOCIO",
+      "role": "ADMINISTRADOR TITULAR",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU POSIBLE",
+      "from": "2011",
+      "to": "2014"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU POSIBLE",
+      "from": "2003",
+      "to": "2006"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARIA NACIONAL DE ECONOMÍA Y FINANZAS",
+      "party": "PERU POSIBLE",
+      "from": "2009",
+      "to": "2012"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "JUNTOS POR EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MODELO LIFAN - SCOOTER ESTADO EN CHATARRA Y DESHUSO",
+        "value": 0
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "ESTUDIOS CONCLUIDOS SECUNDARIA GUEMIGLEL GRAU",
+    "ESTUDIOS CONCLUIDOS PRIMARIA FRAY ARMANDO BONIFAZ ABANCAY"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1f88f3f8-ff85-4eea-b289-535c1ba2a880.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/768755c4-41c2-4b0c-a749-73257b747f96.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la incidencia delictiva y alta percepción de inseguridad ciudadana en el distrito, generando un trauma familiar y desconfianza en el entorno.",
+            "objective": "Reducir la incidencia delictiva y la percepción de inseguridad mediante una estrategia coordinada que combine prevención social, mejora de la respuesta policial, fortalecimiento del serenazgo y gobernanza participativa.",
+            "goal": "A corto plazo (0-6 meses), conformar el Comité Distrital de Seguridad Ciudadana (CODISEC) e instalar el 20% de las cámaras planificadas. A mediano plazo (6-18 meses), realizar el despliegue completo del patrullaje integrado. A largo plazo (18-48 meses), consolidar el empleo juvenil y la expansión de la infraestructura pública segura.",
+            "indicator": "Reducción porcentual anual de denuncias por delitos patrimoniales, reducción del tiempo de respuesta policial, número de atenciones del Centro de Emergencia Mujer (CEM), número de jóvenes insertados en programas de formación y empleo, y percepción de seguridad según encuesta distrital semestral."
+          },
+          {
+            "problem": "Ausencia de una adecuada capacitación e implementación de medidas de corrección frente a desastres naturales, en un distrito considerado de alto riesgo sísmico y propenso al colapso.",
+            "objective": "Implementar brigadas de defensa civil con personal constantemente capacitado y construir bóvedas de defensa civil en avenidas centrales para el auxilio inmediato de los afectados.",
+            "goal": "Contar con brigadas de defensa civil operativas en coordinación con la Compañía de Bomberos, Policía Nacional, ONGs y empresas privadas. Construir bóvedas equipadas con maquinarias, herramientas y material de supervivencia.",
+            "indicator": "Número de brigadas de defensa civil implementadas y capacitadas. Número de bóvedas de defensa civil construidas y equipadas."
+          },
+          {
+            "problem": "Desactivación y falta de apoyo a los programas sociales en salud y educación, afectando la atención a diversas enfermedades que azotan a la población.",
+            "objective": "Reactivar los programas vecinales de voluntariado en los sectores de salud y educación, y construir módulos adecuados en los parques centrales de los grupos residenciales.",
+            "goal": "Reactivar los programas \"Los Voluntariados del Sector de Salud\" y \"Los Voluntariados de Educación\", y construir un módulo adecuado en cada parque central de los grupos residenciales del distrito.",
+            "indicator": "Número de programas de voluntariado reactivados. Número de módulos de atención construidos en parques centrales."
+          },
+          {
+            "problem": "Dejadez de los gobiernos locales frente a los problemas de salud y económicos que afectan a los vecinos de sectores vulnerables, situación acentuada por la pandemia.",
+            "objective": "Implementar Módulos de Asistencia Social con la participación de profesionales del sector, el Ministerio de la Mujer, ONGs y otras entidades cooperantes.",
+            "goal": "Establecer Módulos de Asistencia Social para atender a la población vulnerable a través de diversos programas con participación multisectorial.",
+            "indicator": "Número de Módulos de Asistencia Social implementados. Número de personas atendidas en los programas de asistencia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Inexistencia de un plan concertado para el ordenamiento del comercio ambulatorio y falta de apoyo a los mercados formales en el distrito.",
+            "objective": "Implementar un estudio de mercado en lo comercial y tránsito para ordenar el comercio, y promover la formalización de las nuevas empresas familiares con requisitos viables.",
+            "goal": "Lograr el ordenamiento del comercio ambulatorio en todo el distrito mediante la implementación de un plan concertado y el apoyo a la formalización.",
+            "indicator": "Porcentaje de comerciantes ambulatorios formalizados. Número de mercados formales que reciben apoyo municipal."
+          },
+          {
+            "problem": "Abandono total de la promoción productiva y empresarial del Parque Industrial de Villa El Salvador, sumado al abuso de autoridad que desincentiva la inversión.",
+            "objective": "Impulsar el programa de \"Relanzamiento Productivo, Comercial y Empresarial de Villa El Salvador\" para promover actividades económicas, comerciales, artísticas y gastronómicas.",
+            "goal": "Posicionar a Villa El Salvador como la capital de la micro y pequeña empresa, promoviendo amnistías municipales, exoneraciones en licencias y la formalización de nuevas empresas.",
+            "indicator": "Número de ferias internacionales realizadas. Incremento de la formalización de empresas. Número de licencias de funcionamiento otorgadas bajo el nuevo esquema de facilidades."
+          },
+          {
+            "problem": "Desorden en los medios de transporte, particularmente en lo que respecta a los vehículos menores informales que operan sin una regulación adecuada.",
+            "objective": "Realizar un \"Estudio del Mercado de Oferta y Demanda\" con participación de los usuarios para un ordenamiento adecuado del servicio y lograr la formalización de los vehículos menores informales.",
+            "goal": "Alcanzar la formalización de los vehículos menores y establecer un ordenamiento del servicio de transporte basado en un estudio técnico de oferta y demanda.",
+            "indicator": "Porcentaje de vehículos menores formalizados. Nivel de satisfacción de los usuarios con el servicio de transporte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de responsabilidad municipal y de programas de limpieza vecinal, riego de áreas verdes y gestión de residuos, lo que provoca que los vecinos dejen la basura en cualquier lugar.",
+            "objective": "Implementar programas municipales para la limpieza, el ornato y la gestión de residuos con la participación de los vecinos, como el programa \"Un Árbol, Una Casa\".",
+            "goal": "Implementar el programa \"Un Árbol, Una Casa\" y construir invernaderos en avenidas y parques para abastecer de árboles a los vecinos, logrando un distrito más limpio y verde.",
+            "indicator": "Número de árboles plantados. Número de pequeños invernaderos construidos. Reducción del volumen de basura en las calles."
+          },
+          {
+            "problem": "Inexistencia de zonas de acopio primario de residuos, lo que conlleva a una inadecuada disposición de la basura por parte de los ciudadanos.",
+            "objective": "Mejorar el sistema de gestión de residuos mediante la construcción de contenedores subterráneos y la programación de horarios de recojo consensuados con los vecinos.",
+            "goal": "Construir contenedores subterráneos en las avenidas principales y establecer un sistema de recojo de basura en horarios consensuados, con una adecuada información sobre la selección de residuos.",
+            "indicator": "Número de contenedores subterráneos construidos. Porcentaje de cumplimiento de los horarios de recojo. Mejora en la percepción ciudadana sobre la limpieza."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión municipal basada en el clientelismo político, dejando de lado el Plan Concertado Municipal y sin respaldo a las organizaciones vivas de la sociedad.",
+            "objective": "Fortalecer el trabajo articulado del gobierno local con la comunidad sin condicionamientos políticos, promoviendo la participación juvenil y restableciendo convenios de cooperación internacional.",
+            "goal": "Restablecer la ejecución del Plan Concertado Municipal de Villa El Salvador, involucrando a la comunidad en la organización, planificación y ejecución de proyectos.",
+            "indicator": "Número de convenios con cooperación internacional restablecidos. Número de jóvenes beneficiados con pasantías. Tasa de ejecución del Plan Concertado Municipal."
+          },
+          {
+            "problem": "Administración municipal percibida como un ente castigador y recaudador, con barreras administrativas que dificultan los trámites y no atienden eficientemente a los vecinos.",
+            "objective": "Transformar la gestión municipal en una al servicio de los vecinos, implementando horarios de atención extendidos, eliminando barreras administrativas y orientando a los ciudadanos.",
+            "goal": "Implementar un doble horario de atención hasta las 10:00 p.m. y cambiar la percepción del gobierno local a una entidad de servicio, rompiendo las barreras administrativas.",
+            "indicator": "Reducción del tiempo promedio de los trámites administrativos. Nivel de satisfacción ciudadana con la atención municipal. Número de oficinas con horario extendido."
+          },
+          {
+            "problem": "Desorden generalizado en la infraestructura vial y la construcción urbana debido a la falta de interés y planificación por parte de la autoridad local.",
+            "objective": "Promover y gestionar el financiamiento de proyectos de infraestructura vial de impacto local y nacional, e implementar un mantenimiento permanente de la señalización y semaforización.",
+            "goal": "Elaborar perfiles y buscar financiamiento para la construcción de túneles de acceso y bay-pass. Implementar un sistema de semaforización moderno y garantizar el mantenimiento permanente de la señalización vial.",
+            "indicator": "Número de perfiles y proyectos de infraestructura elaborados y financiados. Kilómetros de vías con señalización adecuada. Número de intersecciones con semaforización moderna."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-140641",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2DO JUZG. PAZ LETRADO FAM. CHORRILLOS",
+        "expediente": "00395-2008-0-3005-JP-FC-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-140635",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2DO JUZGADO PAZ LETRADO CHORRILLOS",
+        "expediente": "02315-2008-0-3005-JP-FC-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50",
+      "sha256": "78ac21ee8ed26be144ea66614391bf9a8ab35d11029cdbcfd9388a8695fa915e",
+      "accessedAt": "2026-10-02T23:07:00.725Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019682",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019682",
+      "sha256": "0aea771e4a53ff88d9747a9387907b463a3d1969b3de4bb78af069d3e5a4567e",
+      "accessedAt": "2026-10-02T23:07:01.265Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

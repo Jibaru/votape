@@ -1,0 +1,248 @@
+{
+  "id": "AhqTrIjbstDKnl3TGlZf9CxUZ4gUZGWC",
+  "slug": "carlos-francisco-gallardo-neyra",
+  "electionId": "erm-2026",
+  "name": "Carlos Francisco Gallardo Neyra",
+  "givenNames": "Carlos Francisco",
+  "surnames": "Gallardo Neyra",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:29.182Z",
+      "sourceId": "jne-hv-AhqTrIjbstDKnl3TGlZf9CxUZ4gUZGWC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Huánuco",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Huánuco",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PRIVADA SAN JUAN BAUTISTA",
+        "program": "Maestría",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 43420,
+        "public": 0,
+        "private": 43420
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bd8332dd-0cff-448d-91fa-ceace2968697.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a45d02d9-cd27-49db-ada8-8168152de792.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de niveles significativos de anemia infantil y vulnerabilidad alimentaria en sectores de menores ingresos.",
+            "objective": "Garantizar mejores condiciones nutricionales para niños, madres gestantes y población vulnerable.",
+            "goal": "Reducir significativamente la anemia infantil y la inseguridad alimentaria en hogares vulnerables para el año 2030.",
+            "indicator": "Tasa de anemia infantil y porcentaje de hogares en situación de inseguridad alimentaria."
+          },
+          {
+            "problem": "Predominio de un modelo reactivo de atención sanitaria, con aumento de enfermedades crónicas asociadas al sedentarismo y mala alimentación.",
+            "objective": "Reducir la incidencia de enfermedades crónicas mediante acciones preventivas y promoción de hábitos saludables.",
+            "goal": "Reducir la prevalencia de obesidad y diabetes en la población adulta para el año 2030.",
+            "indicator": "Prevalencia de obesidad y diabetes en la población."
+          },
+          {
+            "problem": "Persistencia de brechas sociales y territoriales que afectan a mujeres, adultos mayores, personas con discapacidad, niñez y población vulnerable.",
+            "objective": "Implementar la Red Metropolitana de Inclusión y Protección Social con servicios descentralizados y atención territorial priorizada.",
+            "goal": "Garantizar la inclusión plena de los grupos vulnerables y reducir las brechas de desigualdad social y territorial.",
+            "indicator": "Porcentaje de ciudadanos que reportan haber sufrido discriminación y brecha salarial de género."
+          },
+          {
+            "problem": "Incremento de la delincuencia, criminalidad organizada y percepción de inseguridad ciudadana.",
+            "objective": "Implementar un efectivo Sistema Metropolitano Integrado de Seguridad Ciudadana con videovigilancia inteligente, patrullaje integrado, interoperabilidad distrital y articulación con las juntas vecinales.",
+            "goal": "Reducir la tasa de victimización delictiva y la percepción de inseguridad en la población de Lima Metropolitana.",
+            "indicator": "Tasa de delitos por cada 100 habitantes y porcentaje de percepción de inseguridad."
+          },
+          {
+            "problem": "Incremento de depresión, ansiedad, violencia familiar y estrés urbano, con una cobertura insuficiente de atención comunitaria en salud mental.",
+            "objective": "Fortalecer la salud mental comunitaria y la prevención de riesgos psicosociales.",
+            "goal": "Duplicar la cobertura de atención comunitaria en salud mental y prevención para el año 2030.",
+            "indicator": "Cobertura de atención comunitaria en salud mental."
+          },
+          {
+            "problem": "Sectores de la población con acceso insuficiente a agua segura y condiciones sanitarias precarias.",
+            "objective": "Reducir los riesgos sanitarios asociados a la falta de servicios básicos de agua y saneamiento.",
+            "goal": "Reducir la incidencia de enfermedades gastrointestinales en zonas vulnerables para el año 2030.",
+            "indicator": "Número de habitantes sin acceso a agua potable y alcantarillado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Subaprovechamiento del patrimonio histórico, cultural y gastronómico para el desarrollo turístico.",
+            "objective": "Desarrollar la Marca Lima Metropolitana y circuitos turísticos integrados que pongan en valor el patrimonio.",
+            "goal": "Consolidar a Lima como un destino turístico cultural y gastronómico de clase mundial.",
+            "indicator": "Número de visitantes a circuitos turísticos y posicionamiento de la Marca Lima."
+          },
+          {
+            "problem": "Aprovechamiento insuficiente de las ventajas logísticas de Lima para la integración productiva.",
+            "objective": "Impulsar corredores logísticos, plataformas de servicios empresariales y proyectos de integración productiva metropolitana.",
+            "goal": "Transformar a Lima en la principal plataforma logística, económica y tecnológica del Pacífico Sudamericano.",
+            "indicator": "Volumen de inversión en infraestructura logística y número de empresas articuladas en corredores productivos."
+          },
+          {
+            "problem": "Baja productividad en pequeños negocios y limitada incorporación tecnológica en los procesos productivos.",
+            "objective": "Crear distritos de innovación y centros metropolitanos de desarrollo empresarial y transformación digital.",
+            "goal": "Establecer distritos de innovación y centros de desarrollo empresarial para fomentar la competitividad.",
+            "indicator": "Número de empresas que acceden a programas de innovación y desarrollo tecnológico."
+          },
+          {
+            "problem": "Alta informalidad laboral y empresarial que limita el acceso a mercados y la protección social.",
+            "objective": "Implementar el Programa Lima Emprende y Formaliza para simplificar trámites, brindar asistencia técnica y facilitar el acceso a mercados.",
+            "goal": "Incrementar la inserción laboral formal, especialmente de los jóvenes, y la formalización de empresas.",
+            "indicator": "Tasa de informalidad laboral y empresarial."
+          },
+          {
+            "problem": "Limitada capacidad institucional para estructurar y ejecutar proyectos estratégicos de inversión pública y privada.",
+            "objective": "Constituir una cartera metropolitana de proyectos priorizados bajo mecanismos de Asociación Público-Privada, Obras por Impuestos y cooperación internacional.",
+            "goal": "Acelerar la ejecución de una cartera de proyectos de alto impacto para el desarrollo metropolitano.",
+            "indicator": "Monto de inversión ejecutado a través de mecanismos de APP y Obras por Impuestos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Expansión urbana informal y desordenada, con ocupación de áreas de riesgo y déficit de equipamientos.",
+            "objective": "Actualizar e implementar instrumentos metropolitanos de planificación territorial y renovación urbana.",
+            "goal": "Lograr un crecimiento urbano ordenado y planificado, reduciendo la ocupación de zonas vulnerables.",
+            "indicator": "Porcentaje de suelo urbano ocupado informalmente y en zonas de riesgo."
+          },
+          {
+            "problem": "Congestión vehicular crónica y deficiente integración modal del sistema de transporte público.",
+            "objective": "Desarrollar corredores metropolitanos multimodales, ciclovías integradas y sistemas inteligentes de transporte.",
+            "goal": "Establecer un sistema de movilidad sostenible, integrado y eficiente para la metrópoli.",
+            "indicator": "Tiempos promedio de desplazamiento y nivel de integración entre modos de transporte."
+          },
+          {
+            "problem": "Contaminación del aire, suelo y recursos hídricos que afectan la salud pública y la calidad de vida.",
+            "objective": "Implementar el Programa Lima Circular para la gestión ambiental, el reciclaje y la reducción de emisiones.",
+            "goal": "Reducir los niveles de contaminación atmosférica y acústica en zonas críticas, en el marco del Proyecto Lima Verde 2030.",
+            "indicator": "Niveles de concentración de contaminantes en el aire y porcentaje de residuos sólidos valorizados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y deterioro de ecosistemas urbanos estratégicos para la sostenibilidad ambiental.",
+            "objective": "Incrementar significativamente la infraestructura verde mediante corredores ecológicos y la recuperación de ecosistemas estratégicos.",
+            "goal": "Aumentar la infraestructura verde y proteger los ecosistemas urbanos para mejorar la calidad ambiental.",
+            "indicator": "Metros cuadrados de área verde por habitante y hectáreas de ecosistemas recuperados."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población e infraestructura frente a sismos, inundaciones y movimientos de masa.",
+            "objective": "Implementar un Sistema Metropolitano de Resiliencia Urbana con prevención, alerta temprana y reducción de riesgos.",
+            "goal": "Reducir la vulnerabilidad de la ciudad ante desastres mediante un sistema de resiliencia urbana implementado.",
+            "indicator": "Porcentaje de la población expuesta a peligros geológicos o hidrometeorológicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil articulación y limitada coordinación territorial entre la Municipalidad Metropolitana, los gobiernos distritales y las entidades nacionales.",
+            "objective": "Implementar el Sistema Metropolitano de Gobernanza y Coordinación Territorial para la gestión integrada de problemas metropolitanos.",
+            "goal": "Consolidar un sistema de gobernanza metropolitana que permita la articulación efectiva para la solución de problemas comunes.",
+            "indicator": "Número de políticas y proyectos ejecutados de manera coordinada entre los distintos niveles de gobierno."
+          },
+          {
+            "problem": "Procesos administrativos complejos, presenciales, con alta discrecionalidad y baja interoperabilidad institucional.",
+            "objective": "Digitalizar integralmente los servicios y trámites metropolitanos mediante una plataforma única de atención ciudadana con trazabilidad.",
+            "goal": "Digitalizar el 100% de los trámites municipales y reducir el tiempo promedio de la licencia de funcionamiento a 3 días.",
+            "indicator": "Porcentaje de trámites digitalizados y tiempo promedio para obtener licencias y permisos."
+          },
+          {
+            "problem": "Baja confianza ciudadana en las instituciones públicas y limitada participación en la toma de decisiones.",
+            "objective": "Implementar mecanismos permanentes de rendición de cuentas, datos abiertos y vigilancia ciudadana.",
+            "goal": "Alcanzar 85 puntos en el Índice de Transparencia Municipal y fortalecer los mecanismos de participación y control ciudadano.",
+            "indicator": "Índice de Transparencia Municipal y nivel de satisfacción ciudadana con los canales de participación."
+          },
+          {
+            "problem": "Inexistencia de un sistema de integridad pública eficaz y canales de denuncia de corrupción débiles.",
+            "objective": "Implementar un modelo de integridad pública en la Municipalidad Metropolitana de Lima y sus entidades adscritas, y fortalecer los canales de denuncia.",
+            "goal": "Lograr que el 100% de las entidades adscritas implementen el modelo de integridad en su etapa 3 (consolidada).",
+            "indicator": "Número de entidades adscritas que alcanzan la etapa consolidada del Índice de Capacidad Preventiva (ICP) y nivel de satisfacción de los denunciantes."
+          },
+          {
+            "problem": "Baja ejecución presupuestal de inversión y brechas en la planificación, priorización y ejecución de proyectos.",
+            "objective": "Consolidar una Oficina Metropolitana de Gestión Estratégica de Proyectos y establecer un sistema de gestión por resultados.",
+            "goal": "Alcanzar el 90% de ejecución presupuestal de inversión con transparencia radical para el año 2030.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversión anual."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-AhqTrIjbstDKnl3TGlZf9CxUZ4gUZGWC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/AhqTrIjbstDKnl3TGlZf9CxUZ4gUZGWC",
+      "sha256": "497e6c696f4d8e7a405758ccdf92e2aef9148778977ab051f0f1c97f9d1a3434",
+      "accessedAt": "2026-10-02T22:49:29.182Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032574",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032574",
+      "sha256": "2e24416fa66192c1ee5e9989ac918f449f2a71feb8c537a56b36bef73902f25f",
+      "accessedAt": "2026-10-02T22:49:29.694Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

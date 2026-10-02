@@ -1,0 +1,215 @@
+{
+  "id": "kELVDuxf_WlpZO8k7xR0qBhhshH2b2xf",
+  "slug": "jose-carlos-bolivar-mejia",
+  "electionId": "erm-2026",
+  "name": "Jose Carlos Bolivar Mejia",
+  "givenNames": "Jose Carlos",
+  "surnames": "Bolivar Mejia",
+  "age": 37,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:07.755Z",
+      "sourceId": "jne-hv-kELVDuxf_WlpZO8k7xR0qBhhshH2b2xf"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "FEDERACION PERUANA DE FUTBOL",
+      "role": "PRESIDENTE FUTBOL PLAYA",
+      "from": "2021",
+      "to": "2026"
+    },
+    {
+      "employer": "A1 FPORTS PERU SRL",
+      "role": "GERENTE GENERAL",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "GERENTE DE DEPORTES",
+      "from": "2022",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 29000,
+        "public": 0,
+        "private": 29000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "COLOR GRIS CAMIONETA",
+        "value": 55000
+      },
+      {
+        "type": "CAMIONETA CAPTIVA COLOR NEGRO",
+        "value": 65000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7a85d86f-2ffc-429f-aba1-8010ee2d136d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/bf761268-75de-4c3f-83b3-f8f3fa110360.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana y la prevención del delito.",
+            "goal": "Al 2030, lograr que el 65% de los vecinos se sientan seguros en su barrio.",
+            "indicator": "Porcentaje de vecinos que se sienten seguros en su barrio."
+          },
+          {
+            "problem": "Incremento de la población adulta mayor y su demanda de servicios especializados.",
+            "objective": "Mejorar la atención integral de los adultos mayores.",
+            "goal": "Al 2030, alcanzar los 16,000 adultos mayores como beneficiarios de los programas municipales.",
+            "indicator": "Número de adultos mayores beneficiarios de programas municipales."
+          },
+          {
+            "problem": "Limitada cobertura de programas preventivos de salud mental.",
+            "objective": "Promover el bienestar integral de la población.",
+            "goal": "Al 2030, realizar 38,000 atenciones preventivas anualmente.",
+            "indicator": "Número de atenciones preventivas realizadas por año."
+          },
+          {
+            "problem": "Baja participación vecinal en la gestión pública.",
+            "objective": "Fortalecer la participación ciudadana.",
+            "goal": "Al 2030, lograr que el 90% de las juntas vecinales se encuentren activas.",
+            "indicator": "Porcentaje de juntas vecinales activas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil articulación entre los emprendimientos y los mercados.",
+            "objective": "Promover la competitividad y el emprendimiento local.",
+            "goal": "Al 2030, capacitar a 7,000 emprendedores anualmente.",
+            "indicator": "Número de emprendedores capacitados anualmente."
+          },
+          {
+            "problem": "Necesidad de fortalecer la empleabilidad juvenil en el distrito.",
+            "objective": "Incrementar las oportunidades laborales para los jóvenes.",
+            "goal": "Al 2030, lograr la inserción laboral de 2,200 jóvenes a través de programas municipales.",
+            "indicator": "Número de jóvenes insertados laboralmente mediante programas municipales."
+          },
+          {
+            "problem": "Limitada digitalización de los pequeños negocios.",
+            "objective": "Impulsar la transformación digital empresarial.",
+            "goal": "Al 2030, capacitar al 60% de los negocios en materia de comercio digital.",
+            "indicator": "Porcentaje de negocios capacitados en comercio digital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Presión urbana sobre las áreas verdes y los espacios públicos.",
+            "objective": "Incrementar y conservar las áreas verdes urbanas.",
+            "goal": "Al 2030, alcanzar 9.8 metros cuadrados de áreas verdes por habitante.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Congestión vehicular y contaminación urbana.",
+            "objective": "Mejorar la movilidad sostenible en el distrito.",
+            "goal": "Al 2030, implementar 50 kilómetros de ciclovías y corredores sostenibles.",
+            "indicator": "Kilómetros de ciclovías y corredores sostenibles implementados."
+          },
+          {
+            "problem": "Vulnerabilidad del distrito frente al cambio climático y las olas de calor.",
+            "objective": "Fortalecer la resiliencia climática.",
+            "goal": "Al 2030, implementar 20 proyectos de adaptación climática.",
+            "indicator": "Número de proyectos de adaptación climática implementados."
+          },
+          {
+            "problem": "Incremento de los residuos sólidos domiciliarios.",
+            "objective": "Mejorar la gestión ambiental y el reciclaje.",
+            "goal": "Al 2030, lograr la valorización del 30% de los residuos.",
+            "indicator": "Porcentaje de residuos valorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de mejorar la calidad de la atención al ciudadano.",
+            "objective": "Incrementar la satisfacción ciudadana con los servicios municipales.",
+            "goal": "Al 2030, lograr que el 90% de los ciudadanos se encuentren satisfechos con los servicios municipales.",
+            "indicator": "Porcentaje de ciudadanos satisfechos con los servicios municipales."
+          },
+          {
+            "problem": "Limitada transparencia y acceso a la información pública.",
+            "objective": "Fortalecer la transparencia institucional.",
+            "goal": "Al 2030, alcanzar el 100% en el índice de cumplimiento de transparencia.",
+            "indicator": "Índice de cumplimiento de transparencia."
+          },
+          {
+            "problem": "Necesidad de una mayor digitalización de los servicios municipales.",
+            "objective": "Modernizar la gestión pública local.",
+            "goal": "Al 2030, alcanzar la digitalización del 95% de los trámites.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Escasa utilización de herramientas de gobierno abierto.",
+            "objective": "Consolidar la gobernanza participativa.",
+            "goal": "Al 2030, implementar 12 mecanismos digitales de participación.",
+            "indicator": "Número de mecanismos digitales de participación implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-kELVDuxf_WlpZO8k7xR0qBhhshH2b2xf",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/kELVDuxf_WlpZO8k7xR0qBhhshH2b2xf",
+      "sha256": "f0cb9b4e821b9ac43eb359e7a4f60127613c3bc23c852aad083b1c2c36681324",
+      "accessedAt": "2026-10-02T23:06:07.755Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021244",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021244",
+      "sha256": "cac0551f6719e60b798a008578097d9a49e73a9720ee73b755b435dad4c048d5",
+      "accessedAt": "2026-10-02T23:06:08.308Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

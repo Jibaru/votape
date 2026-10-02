@@ -1,0 +1,277 @@
+{
+  "id": "uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN",
+  "slug": "anatoly-renan-bedrinana-cordova",
+  "electionId": "erm-2026",
+  "name": "Anatoly Renan Bedriñana Cordova",
+  "givenNames": "Anatoly Renan",
+  "surnames": "Bedriñana Cordova",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:54.818Z",
+      "sourceId": "jne-hv-uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidas San Martin de Porres",
+        "program": "Titulo",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad del Pacifico",
+        "program": "Gestion Publica",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "Universidad Nacional de Piura",
+        "program": "Contabilidad y Gestión Gubernamental",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Independencia Nacional de Bomberos",
+      "role": "Asesor",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "Ministerio del Interior",
+      "role": "Secretario General",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "Municipalidad de Chorrillos",
+      "role": "Gerente Municipal",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "SUCAMEC - MININTER",
+      "role": "Director Administrativo",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "MINISTERIO DE TRANSPORTE",
+      "role": "Asesor",
+      "from": "2021",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2015"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 243842,
+        "public": 243842,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 166001.82,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 36651.1,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "un auto de color negro SUSUKI",
+        "value": 60000
+      },
+      {
+        "type": "Camioneta de marca SHANGAN de color negro del año 2019",
+        "value": 51000
+      },
+      {
+        "type": "marca FORD TERRITORY de color azul",
+        "value": 91800
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8475f817-1c1b-4794-a591-5cbe6cf22a0b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2e1bfdba-46de-40f0-abeb-2cc119457829.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiente acceso a servicios sociales (salud, educación, programas sociales)",
+            "objective": "Mejorar la cobertura y calidad de servicios sociales.",
+            "goal": "Incrementar al 85%",
+            "indicator": "Porcentaje de población atendida por programas sociales"
+          },
+          {
+            "problem": "Alta inseguridad ciudadana",
+            "objective": "Reducir los índices de delincuencia en el distrito",
+            "goal": "Reducir al 30%",
+            "indicator": "Tasa de delitos por cada 1000 habitantes"
+          },
+          {
+            "problem": "Débil participación ciudadana",
+            "objective": "Fortalecer la participación vecinal y organización social",
+            "goal": "Incrementar en 50%",
+            "indicator": "Numero de juntas vecinales activas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desempleo juvenil",
+            "objective": "Generar oportunidades laborales para jóvenes",
+            "goal": "Incrementar en 25%",
+            "indicator": "Tasas de empleo juvenil"
+          },
+          {
+            "problem": "Alto nivel de informalidad comercial",
+            "objective": "Formalizar actividades económicas del distrito",
+            "goal": "Incrementar en 40%",
+            "indicator": "Porcentaje de negocios formalizados"
+          },
+          {
+            "problem": "Bajo desarrollo económico local",
+            "objective": "Promover el emprendimiento de la inversión local",
+            "goal": "Incrementar en 35%",
+            "indicator": "Numero de nuevos emprendimientos formales"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de residuos solidos",
+            "objective": "Mejorar el sistema de recolección y reciclaje",
+            "goal": "Incrementar al 40%",
+            "indicator": "Porcentaje de residuos reciclados"
+          },
+          {
+            "problem": "Escasez de áreas verdes",
+            "objective": "Incrementar espacios públicos y áreas verdes",
+            "goal": "Incrementar en 20%",
+            "indicator": "Metro cuadrado de áreas verdes por habitante"
+          },
+          {
+            "problem": "Contaminacion ambiental (aire y suelo)",
+            "objective": "Reducir los niveles de contaminación",
+            "goal": "Mejorar en 30%",
+            "indicator": "Índice de calidad ambiental"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil capacidad del personal municipal",
+            "objective": "Mejorar las capacidades del recurso humano",
+            "goal": "Incrementar al 90%",
+            "indicator": "Porcentaje de servidores capacitados"
+          },
+          {
+            "problem": "Percepción de corrupción",
+            "objective": "Fortalecer la transparencia y control institucional",
+            "goal": "Reducir en 30%",
+            "indicator": "Índice de percepción de corrupción."
+          },
+          {
+            "problem": "Baja eficiencia en la gestión municipal",
+            "objective": "Modernizar la gestión pública municipal",
+            "goal": "Alcanzar el 80%",
+            "indicator": "Porcentaje de procesos digitalizados"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139368",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: Usurpación (Complice)",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2020-10-14",
+      "details": {
+        "materia": "Usurpación (Complice)",
+        "fallo": "tres años",
+        "modalidad": "RESERVA DE FALLO",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "5 Juez Investigacion Preparatoria",
+        "expediente": "518-2015-5-3005-JR-PE-01",
+        "comentario": null
+      },
+      "quote": "Usurpación (Complice) · tres años · RESERVA DE FALLO · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN",
+      "sha256": "4d8ab48899a8a70277d876c308e01844d81891e10890f9ee17831478149db92a",
+      "accessedAt": "2026-10-02T23:03:54.818Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032143",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032143",
+      "sha256": "6ab8c7296774932a14c414add969d34e975e8c828b8f51468faa0900273e7bd8",
+      "accessedAt": "2026-10-02T23:03:55.359Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

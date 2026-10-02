@@ -1,0 +1,199 @@
+{
+  "id": "yHdlPR7PTdT47zYMCdsWKXRXjDdzi-tv",
+  "slug": "irellis-lisbbet-muchaypina-barriales",
+  "electionId": "erm-2026",
+  "name": "Irellis Lisbbet Muchaypiña Barriales",
+  "givenNames": "Irellis Lisbbet",
+  "surnames": "Muchaypiña Barriales",
+  "age": 34,
+  "gender": "Femenino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:51.664Z",
+      "sourceId": "jne-hv-yHdlPR7PTdT47zYMCdsWKXRXjDdzi-tv"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ISIL",
+        "program": "ADMINISTRACION HOTELERA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.A.",
+        "program": "BACHILLER EN NEGOCIOS INTERNACIONALES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "a la brasa asociados sac",
+      "role": "administradora",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "representaciones marujita sac",
+      "role": "administradora",
+      "from": "2018",
+      "to": "2023"
+    },
+    {
+      "employer": "EL HUERTO COMERCIAL EIRL",
+      "role": "ANALISTA COMERCIAL",
+      "from": "2014",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 17600,
+        "public": 0,
+        "private": 17600
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "REPRESENTACIONES MARUJITA",
+        "type": "ACCIONES",
+        "quantity": 40,
+        "value": 1
+      },
+      {
+        "company": "MOMS MARKET FOOD",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "estoy en la sucesion intestada en el departamento de mi mamá. con el 10%",
+    "REPRESENTACIONES MARUJITA FUE DADA DE BAJA COMO SE MUESTRA EN LA SUNAT",
+    "EN MOMS MARKET SE REALIZO UN TRASPASO",
+    "LLEVE UN INTERCAMBIO DEL PROGRAMA GLOBAL ADVANCED MANAGEMENT - SAN IGNACIO COLLEGE MIAMI 2016"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/cec60641-0426-43fd-a79e-c1479daff1dd.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5af982af-9106-4ed5-9d94-d04775f25ad6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "El distrito de El Agustino es percibido como uno de los más inseguros, con una imagen asociada a pandillas y drogadicción, generando una preocupante sensación de inseguridad en la población.",
+            "objective": "Brindar seguridad a todos los vecinos, con especial atención a niños, adolescentes y mujeres, para que puedan transitar por las calles y vivir con tranquilidad en sus barrios y hogares.",
+            "goal": "Alcanzar la cobertura del 100% de las zonas de riesgo del distrito de El Agustino mediante el fortalecimiento de programas de seguridad y la creación de espacios culturales y deportivos.",
+            "indicator": "Cobertura de las zonas de riesgo del distrito."
+          },
+          {
+            "problem": "Carencia de servicios básicos como agua, desagüe y energía eléctrica en los asentamientos humanos del distrito, a pesar de haber transcurrido varias décadas desde su ocupación.",
+            "objective": "Mejorar la cobertura de agua potable para dotar de acceso a las familias que aún no cuentan con conexión a domicilio.",
+            "goal": "Lograr la cobertura del 100% de la población del distrito de El Agustino en el acceso a servicios básicos como agua y alcantarillado.",
+            "indicator": "Cobertura de servicios básicos en la población del distrito."
+          },
+          {
+            "problem": "Condiciones de salud inadecuadas en la población, manifestadas en una alta incidencia de tuberculosis, desnutrición y anemia infantil, junto a una prestación deficiente de la red de salud pública.",
+            "objective": "Reducir la incidencia de la población afectada por tuberculosis, así como prevenir y controlar la anemia y la desnutrición crónica infantil en el distrito.",
+            "goal": "Lograr la cobertura del 100% de las personas afectadas por tuberculosis para su recuperación y atender al 100% de la población infantil menor de tres años con anemia.",
+            "indicator": "Porcentaje de personas afectadas por tuberculosis atendidas y porcentaje de población infantil con anemia."
+          },
+          {
+            "problem": "Existencia de condiciones de inequidad, desigualdad de oportunidades y violencia contra las mujeres en el distrito de El Agustino.",
+            "objective": "Empoderar a la mujer para que tenga acceso a oportunidades de realización a través del estudio, formación técnico-profesional, trabajo y emprendimiento empresarial.",
+            "goal": "Alcanzar el 100% de cobertura en la atención de la población en riesgo identificada y atendida por los servicios de la DEMUNA, OMAPED y CIAM.",
+            "indicator": "Cobertura de atención a la población en riesgo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Las principales actividades económicas del distrito, como el comercio y la industria, no han alcanzado su máximo potencial de crecimiento, y se requiere la promoción de actividades productivas que generen empleo inclusivo y oportunidades para la población en edad de trabajar.",
+            "objective": "Aumentar los emprendimientos industriales, culturales, gastronómicos, turísticos y comerciales con impacto en el empleo, ofreciendo mayores oportunidades para los jóvenes y personas con discapacidad.",
+            "goal": "Alcanzar la cobertura del 100% de las unidades económicas atendidas y formalizadas a través de programas de capacitación y desarrollo empresarial.",
+            "indicator": "Porcentaje de unidades económicas atendidas y formalizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Creciente concentración de micropartículas suspendidas en el aire, debido a emisiones de vehículos e industrias, superando los estándares ambientales nacionales en muchas zonas del distrito.",
+            "objective": "Incrementar la calidad del aire y la cantidad de áreas verdes en el distrito, de acuerdo con los estándares mínimos establecidos.",
+            "goal": "Reducir el Polvo Atmosférico Sedimentable a los niveles establecidos por la Organización Mundial de la Salud, fijados en 5 toneladas por kilómetro cuadrado al mes.",
+            "indicator": "Nivel de Polvo Atmosférico Sedimentable (PAS)."
+          },
+          {
+            "problem": "Gestión deficiente de los residuos sólidos, lo que resulta en conductas inadecuadas de manipulación por parte de la población y contribuye al deterioro general de las condiciones ambientales del distrito.",
+            "objective": "Mejorar sustancialmente la gestión de los residuos sólidos mediante la implementación de programas de segregación en la fuente y una planta de tratamiento, con el fin de reducir las emisiones contaminantes.",
+            "goal": "Incrementar la proporción de áreas verdes a 9.2 metros cuadrados por habitante en el distrito.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Atención inadecuada por parte de las gestiones municipales en los servicios de su competencia, con deficiencias en organización, procesos y procedimientos que obstaculizan un modelo de gestión moderno, transparente y enfocado en resultados.",
+            "objective": "Promover la automatización y simplificación administrativa, así como el cumplimiento estricto de los instrumentos de gestión existentes y los que se generen.",
+            "goal": "Lograr que el 100% de los documentos normativos de gestión, como el ROF y el MPP, se encuentren actualizados, formulados y en proceso de implementación.",
+            "indicator": "Porcentaje de documentos normativos de gestión actualizados y formulados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-yHdlPR7PTdT47zYMCdsWKXRXjDdzi-tv",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yHdlPR7PTdT47zYMCdsWKXRXjDdzi-tv",
+      "sha256": "0fe0327713b2da9d697fc0dd9b1d78c541a909a08aafd764a1bab3dd7d915f92",
+      "accessedAt": "2026-10-02T22:55:51.664Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021953",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021953",
+      "sha256": "bb1a24e3be2a0aa890024dee541fcbaf1e8f9d97f1726d93cab7a016850624c9",
+      "accessedAt": "2026-10-02T22:55:52.169Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

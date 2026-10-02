@@ -1,0 +1,257 @@
+{
+  "id": "ju2CJSIvI4XHOw4-WulHTxW-QPg0cPXM",
+  "slug": "carlos-walter-mejia-escajadillo",
+  "electionId": "erm-2026",
+  "name": "Carlos Walter Mejia Escajadillo",
+  "givenNames": "Carlos Walter",
+  "surnames": "Mejia Escajadillo",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:12.776Z",
+      "sourceId": "jne-hv-ju2CJSIvI4XHOw4-WulHTxW-QPg0cPXM"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "INCA GARCILASO DE LA VEGA",
+        "program": "Titulado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad San Ignacio de Loyola",
+        "program": "interrumpida",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "GRUPO CONSTRUCTOR",
+      "role": "Gerente",
+      "from": "2011",
+      "to": "2026"
+    },
+    {
+      "employer": "CONGRESO DE LA REPÚBLICA",
+      "role": "PROFESIONAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN JUAN DE MIRAFLORES",
+      "role": "ASESOR",
+      "from": "2021",
+      "to": "2023"
+    },
+    {
+      "employer": "CORPORACION PERUANA DE AEROPUERTO",
+      "role": "ANALISTA",
+      "from": "1991",
+      "to": "2011"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL VAMOS VECINO",
+      "from": "2003",
+      "to": "2006"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "MOVIMIENTO INDEPENDIENTE VAMOS VECINO",
+      "from": "1999",
+      "to": "2002"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 263837.6,
+        "public": 263837.6,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 17335,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 18000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 18000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "SOCIEDADES LEGALES",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 17335,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Grupo Constructor M.E.S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 20000,
+        "value": 20000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4dc737ec-dfc6-45e7-abd8-6672c5b5e797.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/25edebac-598b-4093-a941-0c1d00791075.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deterioro de parques y espacios públicos",
+            "objective": "Recuperar espacios públicos: A traves de Casetas de Vigilancia 24/7. Recuperacion de area verde.",
+            "goal": "15 parques recuperados % de parques con mantenimiento. % de parques seguros",
+            "indicator": "Parques recuperados, Encuestas mensuales de parques seguros."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana",
+            "objective": "Fortalecer la seguridad ciudadana",
+            "goal": "Reducir inseguridad en 30%.: 25% a 30% de Puntos criticos recuparados. N° de Actas ejecutadas en el patrullaje integrado. N° de denuncias de robo/ agreciones.",
+            "indicator": "- Cámaras instaladas, serenos capacitados, patrullaje integrado, Juntas Vecinales integradas al CODISEC. - Actividades deportivas con jóvenes en riesgo"
+          },
+          {
+            "problem": "Atención insuficiente a poblaciones vulnerables",
+            "objective": "Fortalecer programas sociales: sinceramiento del padron de los beneficiarios del SISFOH. CIAM , OMAPED, NIÑOS SIN ANEMIA y campañas medicas en la 7 zonas de Villa Maria del Triunfo.",
+            "goal": "Incrementar cobertura en 40%: % población empadronada SISFOH. %CIAM. % OMAPED. %NIÑOS SIN ANEMIA. % de campañas medicas.",
+            "indicator": "Beneficiarios atendidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades para emprendedores",
+            "objective": "Creacion del Centro de Emprendimiento e Innovacion Municipal. Ferias desentralizadas en las (07) siete zonas del Distrito de Villa Maria del Triunfo.",
+            "goal": "2,000 capacitados: % Emprendedores capacitados. % ferias en las (07) siete zonas.",
+            "indicator": "Emprendedores capacitados"
+          },
+          {
+            "problem": "Escaso desarrollo turístico",
+            "objective": "Impulsar turismo local: Posicionar a Villa Maria del Triunfo como destino turistico urbano y gastronomico de Lima Sur. Talleres para crear la Marca Turistica de VMT.",
+            "goal": "Incrementar turismo en 20%:",
+            "indicator": "Actividades turísticas realizadas: Ferias Gastronomicas trimestrales en la 7 zonas del distrito de Villa Maria del Triunfo."
+          },
+          {
+            "problem": "Alto nivel de informalidad comercial",
+            "objective": "Facilitar formalizacion: Ordenar el comercio y reducir la informalidad en la (07) zonas del distrito. Ordenamiento de los mercados. Talleres de formalizacion comercial",
+            "goal": "500 negocios formalizados: % N° de Mercados Ordenados. % N° de Licencia de Funcionamiento.",
+            "indicator": "Negocios formalizados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de residuos sólidos",
+            "objective": "Mejorar gestión de residuos: Mejorar la gestión integral de residuos sólidos y reducir puntos criticos en la 7 zonas de VMT.",
+            "goal": "Reducion 60 % de residuo solido. Reduccion % de puntos criticos. Incremento de % de reciclaje.",
+            "indicator": "Toneladas de residuos valorizados/año. N° de puntos críticos eliminados. Programa \"Recicla\" VMT."
+          },
+          {
+            "problem": "Déficit de áreas verdes",
+            "objective": "Ampliar y mejorar la cobertura de áreas verdes Urbanas en VMT para elevar el bienestar y Calidad Ambiental de la población.",
+            "goal": "% de Incremento de areas verdes",
+            "indicator": "% m² de área verde por habitante"
+          },
+          {
+            "problem": "Bajo nivel de conciencia ambiental",
+            "objective": "Promover y Fortalecer la cultura en educación ambiental en VMT",
+            "goal": "4 campañas por año: % de Incremento de Arboles. Encuestas trimestrales educación y cultura en medio ambiente",
+            "indicator": "Campañas realizadas: N° de toneladas de residuos no arrojados en vía pública. Creacion de Brigadas Ambientales \"Guardianes Ambientales\""
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escasa participación ciudadana",
+            "objective": "Promover y Fortalecer la participación ciudadana en VMT.",
+            "goal": "2 por semester. % de Ciudadanos participando en el presupuesto participativo. % de obras con participacion ciudadana.",
+            "indicator": "Audiencias realizadas Cabildos abiertos 3 a 4 por año"
+          },
+          {
+            "problem": "Trámites burocráticos y lentos",
+            "objective": "Optimizar y simplificar los procedimientos administrativos para brindar un servicio municipal rápido, digital y orientado al ciudadano Reducir tiempos y pasos de trámites TUPA mediante digitalización, simplificación administrativa y gestión por procesos, mejorando la satisfacción del ciudadano",
+            "goal": "80% de trámites digitalizados: Cero Papel\" al 2030. El TUPA debe simplificarse",
+            "indicator": "Trámites digitalizados. N° de procedimientos simplificados. Ciudadanos satisfechos con atención"
+          },
+          {
+            "problem": "Limitado acceso a la información pública",
+            "objective": "Fortalecer transparencia: Garantizar el acceso a la información pública y fortalecer la transparencia municipal",
+            "goal": "100% de información obligatoria",
+            "indicator": "Información publicada: % de solicitudes de información atendidas en plazo legal 7 días. N° de proyectos elegidos en Presupuesto Participativo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ju2CJSIvI4XHOw4-WulHTxW-QPg0cPXM",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ju2CJSIvI4XHOw4-WulHTxW-QPg0cPXM",
+      "sha256": "ee0bafe00d3fdd6f33dba5fdd77702ba3c1d8707ee7581cc914d4c1d7ef38f5c",
+      "accessedAt": "2026-10-02T23:07:12.776Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023193",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023193",
+      "sha256": "13c4844bcb0a1f3e3010ab6d3689e5b13b7540471b5c3acd6496b9b1c01ac775",
+      "accessedAt": "2026-10-02T23:07:13.430Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

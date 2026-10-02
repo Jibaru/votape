@@ -1,0 +1,287 @@
+{
+  "id": "y40MI6fxqwbT8YWdWhj8dVii9AsuTExw",
+  "slug": "javier-martin-diez-gaspard",
+  "electionId": "erm-2026",
+  "name": "Javier Martin Diez Gaspard",
+  "givenNames": "Javier Martin",
+  "surnames": "Diez Gaspard",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:42.754Z",
+      "sourceId": "jne-hv-y40MI6fxqwbT8YWdWhj8dVii9AsuTExw"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Piura",
+        "program": "BACHILLER EN ADMINISTRACION DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "HALTER S.A.C",
+      "role": "ADMINISTRADOR DE EMPRESAS",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "FITZCA S.A.C",
+      "role": "ASESOR DE GESTION DE EMPRESAS",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "LA HANSEATICA S.A.",
+      "role": "GESTOR COMERCIAL",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN BORJA",
+      "role": "GERENTE DE PARTICIPACION VECINAL",
+      "from": "2015",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2021"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 151200,
+        "public": 0,
+        "private": 151200
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SOCIEDAD MINERA J&C S.A.C",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 10
+      }
+    ]
+  },
+  "additionalInfo": [
+    "CONSTRUCTORA & SERVICIOS GENERALES AGUCHI S.A.C, ACCIONES 98000, CON VALOR DE CADA ACCION DE 1 SOL, CON UN TOTAL DE 98000.00"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6a94e529-2256-4e01-a26e-82898bae0ec1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/26ee51e0-fe31-4e43-9b36-00471f8a8980.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Afectación de la residencialidad del distrito por proyectos que vulneran la normativa local.",
+            "objective": "Defensa jurídica, normativa y comunitaria de la zonificación y los parámetros urbanísticos del distrito frente a proyectos desproporcionados o licencias lesivas.",
+            "goal": "Defensa férrea y legal de la residencialidad. No permitir la construcción de ningún proyecto que afecte la zonificación y parámetros urbanísticos.",
+            "indicator": "Cantidad de proyectos aprobados por revisores urbanos que atenten la normatividad local."
+          },
+          {
+            "problem": "Incremento de robos, hurtos, micro comercialización de drogas, entre otros delitos.",
+            "objective": "Fortalecimiento táctico, operativo y tecnológico del orden público municipal mediante el despliegue del programa integral 'Mi Sector Seguro'.",
+            "goal": "Reducir en un 50% la tasa de delitos por cada 10,000 habitantes en el distrito de San Borja, implementando con éxito el Programa 'Mi Sector Seguro'.",
+            "indicator": "Tasas de delitos cometidos por cada 10,000 habitantes en la jurisdicción del distrito."
+          },
+          {
+            "problem": "Insuficientes instalaciones especializadas en servicios a la población adulto mayor.",
+            "objective": "Ampliación sustantiva de la infraestructura social y descentralización de los servicios de salud preventiva y bienestar integral orientados al adulto mayor.",
+            "goal": "Lograr el 100% de cobertura y atención activa de la población adulta mayor vulnerable identificada mediante la articulación de la Casa del Adulto Mayor, el programa de asistencia médica domiciliaria y la telemedicina.",
+            "indicator": "Cobertura de programas sociales (%) dirigidos a la población adulta mayor del distrito."
+          },
+          {
+            "problem": "Percepción de Inseguridad Ciudadana a nivel local.",
+            "objective": "Incremento sustancial de la presencia y visibilidad de las fuerzas del orden municipal junto con el fomento del esquema asociativo vecinal.",
+            "goal": "Alcanzar el 80% de percepción positiva de seguridad ciudadana a nivel local en las mediciones anuales del distrito.",
+            "indicator": "Porcentaje (%) de vecinos residentes en el distrito que manifiestan sentirse seguros dentro de la jurisdicción local."
+          },
+          {
+            "problem": "Insuficiente cobertura de servicios de salud municipal.",
+            "objective": "Despliegue y expansión de la oferta prestacional de salud pública municipal orientada a la medicina preventiva y de especialidades.",
+            "goal": "Lograr una cobertura de atención médica preventiva y especializada del 50% de la población del distrito.",
+            "indicator": "Porcentaje (%) de cobertura del servicio de salud municipal alcanzado al año 2025/2026 sobre la población objetivo sin cobertura privada."
+          },
+          {
+            "problem": "Insuficiente oferta cultural y/o deportiva.",
+            "objective": "Democratización, descentralización y modernización de la infraestructura recreodeportiva y de la agenda cultural comunitaria del distrito.",
+            "goal": "Incrementar en un 100% la oferta de actividades vigentes, ejecutar el programa del Estudio Municipal de Música y modernizar integralmente los espacios deportivos existentes.",
+            "indicator": "Número total de actividades y eventos culturales y deportivos ejecutados anualmente por la corporación municipal."
+          },
+          {
+            "problem": "Falta de cultura preventiva en temas de drogadicción, alcoholismo y violencia familiar.",
+            "objective": "Intervención social comunitaria de carácter preventivo articulada en espacios públicos y núcleos familiares del distrito.",
+            "goal": "Lograr una cobertura efectiva del 50% de los hogares del distrito mediante programas articulados en la Casa de la Juventud y activaciones preventivas en espacios públicos.",
+            "indicator": "Porcentaje de participantes de programas focalizados y/o dirigidos a las familias del distrito de San Borja."
+          },
+          {
+            "problem": "Falta de una política de inclusión social para personas con discapacidad y habilidades diferentes.",
+            "objective": "Institucionalización transversal de políticas públicas de accesibilidad universal, inserción productiva formal y visibilización de capacidades.",
+            "goal": "Lograr una cobertura y atención integral del 80% de la población registrada con discapacidad o habilidades diferentes en el distrito.",
+            "indicator": "Porcentaje de personas registradas con discapacidad u habilidades diferentes que acceden a los programas de inclusión municipal."
+          },
+          {
+            "problem": "Falta de espacios para atención de mascotas.",
+            "objective": "Expansión de la infraestructura sanitaria animal del distrito y consolidación de la política pública de tenencia responsable.",
+            "goal": "Lograr una cobertura del 100% de la población animal identificada del distrito mediante la ampliación veterinaria y las políticas de adopción y tenencia responsable.",
+            "indicator": "Porcentaje (%) de cobertura de la población animal atendida a través de programas de voluntariado, adopción y atención médica veterinaria."
+          },
+          {
+            "problem": "Falta de un centro especializado para jóvenes.",
+            "objective": "Fomento de la competitividad, la innovación, el emprendimiento tecnológico y la preparación académica de la juventud sanborjina.",
+            "goal": "Lograr una cobertura mínima del 50% de la población juvenil del distrito a través del inicio de operaciones de la Casa de la Juventud Sanborjina y sus servicios conexos.",
+            "indicator": "Porcentaje de participantes activos en los programas focalizados y/o dirigidos a los jóvenes dentro de la infraestructura municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de promoción de la inversión privada para beneficio del distrito.",
+            "objective": "Atracción estratégica de capitales mediante el impulso de la cooperación público-privada y la simplificación administrativa corporativa.",
+            "goal": "Incrementar en un 50% la ejecución de proyectos y alianzas público-privadas en beneficio directo de la infraestructura pública del distrito.",
+            "indicator": "Número total de Alianzas Público-Privadas (APP) u Obras por Impuestos (OxI) viabilizadas e implementadas por la gestión."
+          },
+          {
+            "problem": "Escasa promoción de pequeños negocios.",
+            "objective": "Dinamización comercial e inserción comercial competitiva de las micro y pequeñas empresas (Mypes) de propiedad de vecinos del distrito.",
+            "goal": "Incrementar en un 100% la realización de ferias y ruedas de negocios descentralizadas para favorecer exponencialmente a los emprendedores sanborjinos.",
+            "indicator": "Número de ferias comerciales y ruedas de negocios de emprendedores formalmente realizadas anualmente."
+          },
+          {
+            "problem": "Baja generación de empleo local.",
+            "objective": "Articulación competitiva del mercado de trabajo del distrito mediante capacitación técnica certificada e incentivos de colocación corporativa.",
+            "goal": "Incrementar en un 100% la empleabilidad e inserción laboral de nuestros vecinos a través de la potenciación de la bolsa de trabajo, alianzas de incentivos corporativos y convenios colectivos.",
+            "indicator": "Número de vecinos residentes formalmente insertados en el ámbito laboral distrital a través de los canales de intermediación municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Baja participación vecinal en el programa municipal de reciclaje.",
+            "objective": "Optimización del sistema de segregación en la fuente mediante incentivos fiscales progresivos y programas intensivos de educación ciudadana.",
+            "goal": "Lograr el 100% de la participación de los hogares del distrito dentro del programa municipal de reciclaje y segregación en la fuente.",
+            "indicator": "Porcentaje (%) de residuos reciclados y tasa de participación vecinal activa registrada al año 2025/2026."
+          },
+          {
+            "problem": "Contaminación sonora en zonas urbanas.",
+            "objective": "Fiscalización acústica rigurosa apoyada en tecnología de monitoreo continuo y operativos de control de tránsito vehicular en puntos críticos.",
+            "goal": "Incrementar en un 100% los operativos inopinados e implementar programas permanentes y fijos de fiscalización acústica al transporte vehicular en los nudos críticos identificados.",
+            "indicator": "Número de operativos de fiscalización acústica y ambiental ejecutados en los puntos críticos de ruido del distrito."
+          },
+          {
+            "problem": "Incremento de contaminación ambiental producto de las emisiones de gases tóxicos vehiculares.",
+            "objective": "Monitoreo exhaustivo de la calidad del aire del distrito combinado con el incentivo prioritario de los medios de transporte de cero emisiones.",
+            "goal": "Reducir las emisiones de gases tóxicos vehiculares en un 50% dentro del distrito e incrementar los operativos de fiscalización técnica de emisiones en un 100%.",
+            "indicator": "Número de operativos de fiscalización de emisión de gases tóxicos vehiculares realizados anualmente."
+          },
+          {
+            "problem": "Contaminación visual por elementos publicitarios no regulados en la vía pública.",
+            "objective": "Reordenamiento, fiscalización y adecuación estricta del paisaje urbano del distrito frente a la saturación de elementos publicitarios comerciales.",
+            "goal": "Garantizar el control integral absoluto y la disminución progresiva de elementos publicitarios invasivos o no autorizados en los espacios públicos del distrito.",
+            "indicator": "Cantidad total de elementos publicitarios no autorizados o antirreglamentarios retirados efectivamente de la vía pública."
+          },
+          {
+            "problem": "Áreas verdes del distrito regadas con aguas de regadío sin tratamiento adecuado.",
+            "objective": "Migración integral del sistema de mantenimiento de áreas verdes públicas hacia el uso exclusivo de recursos hídricos residuales con tratamiento certificado.",
+            "goal": "Lograr el 100% de las áreas verdes y ornamentales del distrito regadas exclusivamente con agua de regadío que cuente con el tratamiento biológico adecuado.",
+            "indicator": "Porcentaje (%) de áreas verdes totales del distrito mantenidas bajo riego de agua tratada adecuadamente."
+          },
+          {
+            "problem": "Deficiente gestión de prevención y mantenimiento del Arbolado Urbano por caídas constantes de árboles.",
+            "objective": "Implementación de Programa de Gestión de Riesgos del Arbolado Urbano.",
+            "goal": "Disminuir la caída de árboles en un 50%.",
+            "indicator": "Arboles caídos por año en el distrito."
+          },
+          {
+            "problem": "Contaminación ambiental por el tratamiento deficiente de los residuos sólidos.",
+            "objective": "Modernización e innovación de la infraestructura de almacenamiento de residuos urbanos mediante el despliegue de sistemas confinados subterráneos.",
+            "goal": "Culminar con la instalación total de modernos contenedores soterrados en todas aquellas zonas comerciales, de alta densidad y puntos críticos donde sea técnicamente necesario.",
+            "indicator": "Cantidad de contenedores soterrados e islas ecológicas instaladas y operativas en los puntos neurálgicos del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Política deficiente de lucha contra la corrupción a nivel institucional.",
+            "objective": "Blindaje ético e institucional mediante la implementación estricta del modelo de integridad, auditoría concurrente y esquemas de gestión antisoborno.",
+            "goal": "Contar con una política institucional y administrativa eficiente al 100% enfocada en la prevención, detección y sanción contra cualquier acto de corrupción corporativa.",
+            "indicator": "Acciones de integridad institucional implementadas y porcentaje de auditorías concurrentes en el uso de los recursos públicos del distrito."
+          },
+          {
+            "problem": "Falta de modernización, eficiencia y organización en los servicios prestados a la ciudad, especialmente en la atención al vecino.",
+            "objective": "Transformación digital profunda de la corporación municipal y reingeniería de procesos orientada a la simplificación administrativa y agilidad en el servicio.",
+            "goal": "Consolidar la totalidad de los servicios a la ciudad y la atención directa al vecino mediante sistemas municipales modernizados, altamente eficientes, transparentes y organizados.",
+            "indicator": "Porcentaje (%) y reducción del tiempo de atención de trámites a vecinos y de los principales servicios brindados a la ciudad."
+          },
+          {
+            "problem": "Limitada transparencia municipal.",
+            "objective": "Apertura democrática total de la información de gestión gubernamental mediante el uso intensivo de portales interactivos de Datos Abiertos y participación vecinal.",
+            "goal": "Mantener al 100% la información pública de la municipalidad completamente actualizada, transparente y accesible para el control ciudadano permanente de los vecinos.",
+            "indicator": "Porcentaje (%) de información de gestión, ejecución presupuestal y resoluciones publicada oportunamente y de libre acceso en el portal web público."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-y40MI6fxqwbT8YWdWhj8dVii9AsuTExw",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/y40MI6fxqwbT8YWdWhj8dVii9AsuTExw",
+      "sha256": "c49a56740ae2474d4b52def3c5b2e64af11606c66c0c5081957446bf957f5012",
+      "accessedAt": "2026-10-02T23:02:42.754Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016362",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016362",
+      "sha256": "f350a4320fbfd97ef8dd205617be6fa4490a4777e594757540fb7ee2a4d662a7",
+      "accessedAt": "2026-10-02T23:02:43.268Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

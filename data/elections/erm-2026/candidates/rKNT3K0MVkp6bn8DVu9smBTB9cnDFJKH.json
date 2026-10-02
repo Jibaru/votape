@@ -1,0 +1,231 @@
+{
+  "id": "rKNT3K0MVkp6bn8DVu9smBTB9cnDFJKH",
+  "slug": "pablo-alejandro-gonzalez-villanueva",
+  "electionId": "erm-2026",
+  "name": "Pablo Alejandro Gonzalez Villanueva",
+  "givenNames": "Pablo Alejandro",
+  "surnames": "Gonzalez Villanueva",
+  "age": 67,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:51.037Z",
+      "sourceId": "jne-hv-rKNT3K0MVkp6bn8DVu9smBTB9cnDFJKH"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "Escuela técnica del ejercito",
+        "program": "ABASTO EN GENERAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad Distrital de Carabayllo",
+      "role": "Regidor",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "CAMBIO RADICAL",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARIO GENERAL",
+      "party": "MORALIZACION INDEPENDIENTE CARABAYLLO AL FUTURO",
+      "from": "2005",
+      "to": "2007"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "MORALIZACION INDEPENDIENTE CARABAYLLO AL FUTURO",
+      "from": "2005",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    },
+    {
+      "party": "CAMBIO RADICAL",
+      "year": "2012"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 76320,
+        "public": 76320,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 94172.22,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA 4X4 DISEL MARCA CHANGAN MODELO 770 COLOR GRIS",
+        "value": 73200
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ee541599-c8eb-4af6-b866-0f0266f93b29.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ea3ca006-7f06-4d8f-ac6d-9cf919fa6a32.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana evidenciada en el incremento de hechos delictivos, pandillaje y microcomercialización de drogas.",
+            "objective": "Modernizar el servicio de serenazgo, ampliar la videovigilancia y fortalecer el patrullaje integrado entre la Policía Nacional del Perú, el serenazgo y las juntas vecinales.",
+            "goal": "Reducir en un 80% el índice delictivo, instalar 350 cámaras, adquirir 30 unidades móviles y contar con 450 serenos para el año 2027.",
+            "indicator": "Número de videocámaras instaladas, unidades móviles de serenazgo y juntas vecinales capacitadas."
+          },
+          {
+            "problem": "Deficiencia de servicios básicos como agua, desagüe, electricidad e internet en sectores vulnerables y asentamientos humanos del distrito.",
+            "objective": "Ejecutar el proyecto de saneamiento y gestionar la infraestructura básica para 223 pueblos y 17,000 familias.",
+            "goal": "Proveer a 15,000 viviendas con servicios básicos, con una ejecución de 5,000 por año entre 2027 y 2029.",
+            "indicator": "Porcentaje de cobertura de agua potable, alcantarillado y electrificación."
+          },
+          {
+            "problem": "Limitaciones en la infraestructura educativa, el acceso a capacitación tecnológica y a actividades culturales y deportivas.",
+            "objective": "Fortalecer la infraestructura educativa e implementar programas de capacitación tecnológica, así como talleres culturales y deportivos.",
+            "goal": "Mejorar y mantener la infraestructura educativa, e implementar programas de capacitación tecnológica y talleres para jóvenes.",
+            "indicator": "Número de instituciones educativas beneficiadas, talleres implementados y beneficiarios de programas culturales y deportivos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajos niveles de producción agropecuaria y limitado acceso a asistencia técnica y mercados.",
+            "objective": "Fortalecer el sector agropecuario mediante asistencia técnica, el impulso de cadenas productivas y la organización de ferias de comercialización.",
+            "goal": "Implementar programas de asistencia técnica, promover ferias y fortalecer la asociatividad de los productores.",
+            "indicator": "Número de productores beneficiados, programas de asistencia técnica y ferias agropecuarias realizadas."
+          },
+          {
+            "problem": "Informalidad comercial, baja recaudación tributaria y limitada inversión en el distrito.",
+            "objective": "Promover la formalización de actividades económicas, fortalecer la recaudación y promover programas de emprendimiento.",
+            "goal": "Incrementar la formalización de manera progresiva, implementar ferias comerciales y programas de capacitación empresarial.",
+            "indicator": "Número de negocios formalizados, ingresos por recaudación municipal y emprendedores beneficiados."
+          },
+          {
+            "problem": "Limitado aprovechamiento del potencial histórico, cultural y arqueológico para el desarrollo turístico.",
+            "objective": "Recuperar y poner en valor el patrimonio histórico-arqueológico e impulsar corredores turísticos y culturales.",
+            "goal": "Recuperar espacios arqueológicos e implementar corredores turísticos vinculados al Río Chillón.",
+            "indicator": "Número de proyectos turísticos ejecutados, espacios culturales recuperados y visitantes a atracciones turísticas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Limitado aprovechamiento de los recursos naturales del Río Chillón para actividades recreativas y económicas.",
+            "objective": "Promover la recuperación ambiental y el aprovechamiento sostenible del Río Chillón con infraestructura recreativa.",
+            "goal": "Construir corredores recreativos y ecológicos, y promover actividades sostenibles vinculadas al entorno natural.",
+            "indicator": "Número de proyectos ambientales ejecutados, espacios recreativos implementados y corredores ecológicos desarrollados."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos y contaminación ambiental en sectores urbanos y periurbanos.",
+            "objective": "Fortalecer el servicio de limpieza pública y promover una cultura de segregación y reciclaje en el distrito.",
+            "goal": "Mejorar la cobertura de limpieza pública e implementar programas de reciclaje y educación ambiental.",
+            "indicator": "Número de toneladas de residuos gestionados, sectores con servicio de recojo mejorado y campañas de sensibilización."
+          },
+          {
+            "problem": "Escasez de áreas verdes y espacios públicos para la recreación, especialmente en zonas de alta densidad poblacional.",
+            "objective": "Recuperar y ampliar las áreas verdes, parques y espacios públicos para el esparcimiento y el deporte comunitario.",
+            "goal": "Incrementar las áreas verdes por habitante, construir polideportivos y habilitar espacios de recreación.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas, parques rehabilitados y polideportivos construidos o mejorados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil transparencia institucional, limitada participación ciudadana y deficiente atención al vecino.",
+            "objective": "Fortalecer la gestión municipal con transparencia, digitalización de servicios y mecanismos de participación ciudadana.",
+            "goal": "Implementar un portal de transparencia, simplificar trámites y realizar cabildos abiertos semestrales.",
+            "indicator": "Número de servicios digitalizados, audiencias públicas realizadas y tramitaciones resueltas en plazo."
+          },
+          {
+            "problem": "Limitadas capacidades técnicas del personal municipal y deficiente planificación estratégica institucional.",
+            "objective": "Fortalecer las capacidades del personal, implementar la planificación estratégica y mejorar los procedimientos internos.",
+            "goal": "Capacitar al 100% del personal municipal y actualizar los instrumentos de gestión institucional.",
+            "indicator": "Número de funcionarios capacitados, sistemas de planificación implementados, y manuales y procedimientos actualizados."
+          },
+          {
+            "problem": "Escasa articulación interinstitucional con entidades públicas, privadas y la sociedad civil organizada.",
+            "objective": "Promover convenios y alianzas estratégicas con instituciones públicas, universidades, el sector privado y las organizaciones sociales de base (OSB).",
+            "goal": "Suscribir un mínimo de 20 convenios interinstitucionales al año y fortalecer las juntas vecinales y las OSB del distrito.",
+            "indicator": "Número de convenios suscritos, proyectos articulados con otras instituciones y organizaciones vecinales fortalecidas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-rKNT3K0MVkp6bn8DVu9smBTB9cnDFJKH",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rKNT3K0MVkp6bn8DVu9smBTB9cnDFJKH",
+      "sha256": "e03a3e17cc064cc41a40765103bd94d29d98093ee1ac92be1b8d949ea32135ae",
+      "accessedAt": "2026-10-02T22:52:51.037Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011279",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011279",
+      "sha256": "c1896048878870829f40c3c5183b6fca2637da53dc2e67fc186d8014ea3cd9ac",
+      "accessedAt": "2026-10-02T22:52:51.670Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

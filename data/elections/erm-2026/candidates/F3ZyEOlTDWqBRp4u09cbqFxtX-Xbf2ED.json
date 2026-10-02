@@ -1,0 +1,187 @@
+{
+  "id": "F3ZyEOlTDWqBRp4u09cbqFxtX-Xbf2ED",
+  "slug": "jessica-ofelia-barrera-mendoza",
+  "electionId": "erm-2026",
+  "name": "Jessica Ofelia Barrera Mendoza",
+  "givenNames": "Jessica Ofelia",
+  "surnames": "Barrera Mendoza",
+  "age": 50,
+  "gender": "Femenino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140131",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:26.330Z",
+      "sourceId": "jne-hv-F3ZyEOlTDWqBRp4u09cbqFxtX-Xbf2ED"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "AVE LATAM S.A.C",
+      "role": "ASISTENTE DE MERCADERÍA",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "A&D SOLUCIONES EMPRESARIALES SAC",
+      "role": "SUPERVISORA MERCADERISTA",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MEDICAL CARE SOLUTIONS CENTER SAC",
+      "role": "SUPERVISORA DE VENTAS",
+      "from": "2019",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/958df430-0321-495b-897c-f59858cf31c5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d4345d9f-447f-466b-a43c-8a05b493b312.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada oferta cultural, deportiva y recreativa, junto a una escasa participación juvenil.",
+            "objective": "Fomentar el desarrollo humano integral de los surquillanos a través del deporte, la cultura y la recreación, con énfasis en jóvenes y niños, implementando un polideportivo, una escuela de artes y ligas deportivas.",
+            "goal": "Construir 1 polideportivo, 1 cancha de vóley, una Escuela de Arte y formar 100 líderes juveniles al 2030.",
+            "indicator": "Número de jóvenes en programas, número de infraestructuras y número de líderes juveniles formados."
+          },
+          {
+            "problem": "Escasa atención a personas con discapacidad y adultos mayores, con incumplimiento de la normativa vigente.",
+            "objective": "Implementar centros de día en las zonas, una botica municipal y asegurar el cumplimiento de la Ley N.° 29973 para mejorar la atención a personas con discapacidad y adultos mayores.",
+            "goal": "Establecer 1 centro de día, 1 botica y lograr que el 100% de las empresas notificadas cumplan la cuota de discapacidad al 2028.",
+            "indicator": "Centros operativos, botica municipal y porcentaje de empresas que cumplen con la cuota de discapacidad."
+          },
+          {
+            "problem": "Anemia infantil superior al 20% y desnutrición en zonas vulnerables del distrito.",
+            "objective": "Mejorar la calidad de vida y los indicadores de salud de la población más vulnerable del distrito, a través de capacitación a madres y brigadas de salud móviles.",
+            "goal": "Reducir la anemia infantil al 5% al 2030.",
+            "indicator": "Porcentaje de niños menores de 5 años con anemia."
+          },
+          {
+            "problem": "Alta inseguridad ciudadana, caracterizada por pandillaje, asaltos, extorsiones y micro comercialización de droga.",
+            "objective": "Reducir en 40% la inseguridad ciudadana al 2030 y garantizar la convivencia pacífica en las zonas del distrito, mediante la implementación del Plan Centinela, un Serenazgo de Alto Estándar y una Oficina de Inteligencia.",
+            "goal": "Reducir la inseguridad en un 40%, instalar 200 cámaras y contar con una ambulancia para emergencias al 2030.",
+            "indicator": "Número de delitos anuales, número de cámaras operativas y número de serenos activos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escaso aprovechamiento turístico y cultural de lugares con historia que la población desconoce.",
+            "objective": "Fomentar el turismo y la cultura mediante guías vecinales certificados que difundan la identidad histórica de Surquillo.",
+            "goal": "Alcanzar 5,000 visitantes por año y certificar a 20 guías turísticos al 2030.",
+            "indicator": "Número de visitantes anuales y número de guías formados."
+          },
+          {
+            "problem": "Alta informalidad laboral y comercial, que supera el 70% en el sector informal.",
+            "objective": "Dinamizar la economía local, generar empleo digno y formalizar el comercio a través de la simplificación de licencias y la sensibilización a las MYPE.",
+            "goal": "Alcanzar el 70% de negocios formalizados y generar 1,000 empleos formales al 2030.",
+            "indicator": "Porcentaje de negocios formalizados y número de empleos formales generados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Carencia de servicios higiénicos en parques principales y déficit de áreas verdes en el distrito.",
+            "objective": "Instalar servicios higiénicos en parques principales y recuperar áreas críticas con césped para mejorar el entorno urbano y la calidad de vida.",
+            "goal": "Instalar servicios higiénicos en los parques principales y proteger las áreas verdes recuperadas al 2030.",
+            "indicator": "Número de servicios higiénicos instalados y número de lugares recuperados con áreas verdes."
+          },
+          {
+            "problem": "Existencia de diversos puntos críticos de acumulación de basura y una gestión deficiente de residuos sólidos.",
+            "objective": "Proteger el medio ambiente implementando un sistema integrado de residuos sólidos y formalizando a los recicladores para promover un Surquillo sostenible.",
+            "goal": "Eliminar los puntos críticos de basura y alcanzar el 95% de cobertura del servicio al 2030.",
+            "indicator": "Número de puntos críticos de basura activos y porcentaje de cobertura del servicio de recojo."
+          },
+          {
+            "problem": "Desorden urbano causado por el comercio ambulatorio, falta de señalización y contaminación sonora.",
+            "objective": "Implementar el ordenamiento urbano y la señalización vial, y establecer ordenanzas para el control del ruido.",
+            "goal": "Señalizar el 100% de las calles y reducir en un 30% la contaminación sonora.",
+            "indicator": "Porcentaje de calles señalizadas y número de quejas por contaminación sonora."
+          },
+          {
+            "problem": "Déficit crítico de pistas y veredas en mal estado que afectan la transitabilidad y seguridad.",
+            "objective": "Ejecutar obras de infraestructura vial y urbana para mejorar la transitabilidad, seguridad y calidad de vida, con especial atención a las zonas críticas.",
+            "goal": "Realizar obras viales en las zonas priorizadas al 2030 y contar con un diagnóstico vial completo al 2027.",
+            "indicator": "Kilómetros de pistas y veredas ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja ejecución presupuestal histórica y una alta percepción de corrupción en la gestión municipal.",
+            "objective": "Modernizar la gestión municipal y garantizar la transparencia total mediante un canal de denuncias, auditorías y un sistema de meritocracia.",
+            "goal": "Lograr un 85% de ejecución presupuestal y cero sanciones por corrupción al 2030.",
+            "indicator": "Porcentaje de ejecución presupuestal anual y número de sanciones por corrupción."
+          },
+          {
+            "problem": "Bajo porcentaje de trámites digitalizados (10%) y una brecha digital en zonas alejadas con servicios centralizados.",
+            "objective": "Fortalecer las agencias municipales y desarrollar una municipalidad digital para acercar los servicios al ciudadano con igualdad entre zonas.",
+            "goal": "Digitalizar el 80% de los trámites municipales.",
+            "indicator": "Porcentaje de trámites digitalizados, porcentaje de trámites resueltos en agencia y cobertura de internet."
+          },
+          {
+            "problem": "Escasa participación ciudadana y juvenil en las decisiones del municipio.",
+            "objective": "Fomentar la participación ciudadana asignando el 10% al presupuesto participativo, promoviendo la participación juvenil y realizando audiencias públicas semestrales.",
+            "goal": "Destinar el 10% del presupuesto a proyectos participativos, realizar 2 audiencias públicas al año y formar 100 líderes juveniles.",
+            "indicator": "Porcentaje del presupuesto con participación ciudadana, número de audiencias y número de jóvenes activos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-F3ZyEOlTDWqBRp4u09cbqFxtX-Xbf2ED",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/F3ZyEOlTDWqBRp4u09cbqFxtX-Xbf2ED",
+      "sha256": "f637fec403d53232176211c2bb31f21ac16bcfb27a38107f69b6e6543ded3215",
+      "accessedAt": "2026-10-02T23:06:26.330Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012965",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012965",
+      "sha256": "8c82d272f8e4f04283d9c6fa7d7056ccd88b2473c6a2ae173515c8cef8edc03c",
+      "accessedAt": "2026-10-02T23:06:26.825Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

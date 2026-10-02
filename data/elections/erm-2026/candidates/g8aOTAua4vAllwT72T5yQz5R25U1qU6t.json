@@ -1,0 +1,210 @@
+{
+  "id": "g8aOTAua4vAllwT72T5yQz5R25U1qU6t",
+  "slug": "maria-elena-rios-suarez",
+  "electionId": "erm-2026",
+  "name": "Maria Elena Rios Suarez",
+  "givenNames": "Maria Elena",
+  "surnames": "Rios Suarez",
+  "age": 65,
+  "gender": "Femenino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:28.155Z",
+      "sourceId": "jne-hv-g8aOTAua4vAllwT72T5yQz5R25U1qU6t"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "FREDERICK WILSON TAYLOR",
+        "program": "CONTABILIDAD",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MISIÓN DE DIOS",
+      "role": "PRESIDENTA",
+      "from": "2011",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN JUAN DE MIRAFLORES",
+      "role": "ASISTENTE ADMINISTRATIVO",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE INDEPENDENCIA",
+      "role": "AREA DE MUJER Y DESARROLLO SOCIAL",
+      "from": "2014",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2014"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 3000,
+        "public": 0,
+        "private": 3000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "INMUEBLE MZ I LOTE 29 MONTE AZUL, SAN MARTÍN DE PORRES",
+        "value": 182244.92,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "ESTUDIOS DE COMPUTACIÓN E INFORMÁTICA (2015-2016) ESTUDIOS EN GESTIÓN PÚBLICA (2015) ESTUDIOS EN ADMINISTRACIÓN DE EMPRESAS (2017) ESTUDIOS EN GESTIÓN MUNICIPAL (2020)"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2d7b0bf8-fe7a-4197-9190-c354b1d065df.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/89efff90-d3bf-4b27-9d2f-f71855a91846.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia de acceso a redes públicas de agua potable y alcantarillado, y deficiente cobertura de energía eléctrica.",
+            "objective": "Garantizar el acceso equitativo a agua potable y saneamiento en el distrito.",
+            "goal": "Al 2030, la cobertura de saneamiento básico alcanzará el 90% de forma progresiva en el distrito de Independencia.",
+            "indicator": "Porcentaje de hogares que no acceden a agua por red pública y dependen de pozos, camiones cisterna o acarreo."
+          },
+          {
+            "problem": "Deficiente infraestructura educativa en el distrito de Independencia.",
+            "objective": "Garantizar la seguridad y habitabilidad básica. Mejorar las instituciones educativas.",
+            "goal": "Reducción en más del 50% de la brecha de infraestructura educativa en el distrito.",
+            "indicator": "Número de instituciones educativas en mal estado, declaradas en emergencia o inhabitables."
+          },
+          {
+            "problem": "Más del 30% de la población no cuenta con un seguro de salud (SIS o ESSALUD).",
+            "objective": "Garantizar el Aseguramiento Universal en Salud y el cierre de brechas.",
+            "goal": "Cobertura del 90% de la brecha en aseguramiento de salud de la población de Independencia al 2030.",
+            "indicator": "Tasa de carencia de aseguramiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "La problemática de los “Ninis” (jóvenes de entre 15 y 29 años que ni estudian ni trabajan).",
+            "objective": "Implementar programas de becas locales, talleres de nivelación escolar, convenios con CETPROs, ONGs y programas de inserción laboral.",
+            "goal": "Al 2030, el 30% de los Ninis serán insertados al mercado laboral y al primer empleo a través de convenios.",
+            "indicator": "Número de jóvenes entre 15 y 29 años del distrito de Independencia que ni estudian ni trabajan."
+          },
+          {
+            "problem": "Las barreras burocráticas identificadas en la Municipalidad de Independencia.",
+            "objective": "Disminuir las barreras administrativas y burocráticas que desincentivan la legalidad.",
+            "goal": "Al 2030, incrementar la formalización de los emprendimientos informales en un 30% en el distrito.",
+            "indicator": "Número de licencias y/o autorizaciones municipales."
+          },
+          {
+            "problem": "La deficiente infraestructura y salubridad en los mercados de abastos del distrito.",
+            "objective": "Modernizar los mercados de abastos del distrito de Independencia.",
+            "goal": "Lograr el 20% de mejoras en los mercados de abasto del distrito de Independencia al 2030.",
+            "indicator": "Número de mercados con infraestructura física adecuada que brinde productos de calidad y garantía en salubridad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La mala gestión de residuos sólidos en el distrito.",
+            "objective": "Minimizar la generación en la fuente y fomentar la valorización.",
+            "goal": "Lograr que el 65.5% de los residuos sólidos municipales generados se dispongan en infraestructuras adecuadas.",
+            "indicator": "Número de zonas del distrito sin acceso al servicio de camiones recolectores."
+          },
+          {
+            "problem": "La dependencia de energía no renovable que provoca contaminación ambiental.",
+            "objective": "Reducir la contaminación ambiental.",
+            "goal": "Lograr que el 30% de la sede institucional y espacios públicos cuenten con panel solar.",
+            "indicator": "Porcentaje de instalación de paneles solares en el distrito de Independencia."
+          },
+          {
+            "problem": "El crecimiento inmobiliario desmedido, infraestructura de transporte e invasiones informales habitadas.",
+            "objective": "Gestionar, a través de la Gerencia de Gestión Ambiental, el sembrado de árboles en las laderas.",
+            "goal": "Reforestar el 30% del distrito de Independencia, tomando en cuenta el nivel de riesgo de desastres.",
+            "indicator": "Índice de área verde urbana (relación entre la superficie de áreas verdes y el número de habitantes)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Exceso de burocracia.",
+            "objective": "Implementar la automatización de procesos operativos.",
+            "goal": "Reducir en más del 20% la burocracia administrativa.",
+            "indicator": "Número de procesos administrativos reducidos."
+          },
+          {
+            "problem": "Incapacidad operativa y presupuestal.",
+            "objective": "Fortalecer la gestión institucional.",
+            "goal": "Mejorar en un 30% la recaudación municipal.",
+            "indicator": "Número de procesos implementados para la mejora de la gestión municipal."
+          },
+          {
+            "problem": "Debilidad en los instrumentos de gestión y planificación.",
+            "objective": "Implementar metodologías de planificación ágiles y claras para el personal.",
+            "goal": "Optimizar la gestión interna formulando el 100% de los documentos de gestión.",
+            "indicator": "Número de reportes de seguimiento y evaluación del CEPLAN."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-g8aOTAua4vAllwT72T5yQz5R25U1qU6t",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/g8aOTAua4vAllwT72T5yQz5R25U1qU6t",
+      "sha256": "9d354e73338d4966e1a5356127dca8505c2876f94e867b3f451834a0a786e8ae",
+      "accessedAt": "2026-10-02T22:56:28.155Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023136",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023136",
+      "sha256": "95c7be6022f08dd155f2a83b86289fe2763ef357313a9ccb58c46f4678cc9ae1",
+      "accessedAt": "2026-10-02T22:56:28.660Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

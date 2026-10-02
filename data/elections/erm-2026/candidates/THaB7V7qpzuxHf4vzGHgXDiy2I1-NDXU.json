@@ -1,0 +1,428 @@
+{
+  "id": "THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU",
+  "slug": "elio-fernando-riera-garro",
+  "electionId": "erm-2026",
+  "name": "Elio Fernando Riera Garro",
+  "givenNames": "Elio Fernando",
+  "surnames": "Riera Garro",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:12.982Z",
+      "sourceId": "jne-hv-THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C.",
+        "program": "MAESTRO EN DERECHO DE LA EMPRESA SÍ",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2019"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "RIERA LAW OFFICE SOCIEDAD ANONIMA",
+      "role": "GERENTE GENERAL",
+      "from": "2012",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C",
+      "role": "DOCENTE",
+      "from": "2014",
+      "to": "2018"
+    },
+    {
+      "employer": "TEKTON CORP S.A.C",
+      "role": "ABOGADO",
+      "from": "2016",
+      "to": "2018"
+    },
+    {
+      "employer": "PANAPEX S.A",
+      "role": "ABOGADO",
+      "from": "2016",
+      "to": "2016"
+    },
+    {
+      "employer": "UNIVERSIDAD CESAR VALLEJO S.A.C",
+      "role": "DOCENTE",
+      "from": "2015",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2022"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 78122,
+        "public": 0,
+        "private": 78122
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 80061.76,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 116452.05,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VALORADQUIRIDOENDÓLARES56990.00 - PARTIDA REGISTRAL 55246192",
+        "value": 213256.5
+      },
+      {
+        "type": "PARTIDA REGISTRAL : 54236259",
+        "value": 5100
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "VICTOREMS.A.C",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 10
+      },
+      {
+        "company": "TEKTONSERVICIOS LEGALESSAC",
+        "type": "ACCIONES",
+        "quantity": 5200,
+        "value": 1
+      },
+      {
+        "company": "RIERA LAWOFFICE SAC",
+        "type": "ACCIONES",
+        "quantity": 9000,
+        "value": 1
+      },
+      {
+        "company": "GLOBAL TRAKTOR SA.C",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ebca9562-6970-43ec-990d-3a3e27bf1b14.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/344a4afa-ec7d-4f5c-9bdd-f43ff1ee1e85.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta tasa de victimización y violencia de género en el espacio público.",
+            "objective": "Recuperar el 100% de los parques metropolitanos del SERPAR y garantizar rutas seguras con iluminación, cámaras y botones de pánico en todas las jurisdicciones para el año 2029.",
+            "goal": "Reducir la tasa de victimización a menos del 20%.",
+            "indicator": "La tasa de victimización en Lima Metropolitana es del 38.1%."
+          },
+          {
+            "problem": "Prevalencia de la desnutrición crónica infantil en distritos de la periferia de Lima.",
+            "objective": "Reducir la desnutrición crónica infantil en distritos prioritarios de Lima del 12.8% al 7% para el año 2030, mediante el fortalecimiento de la red de comedores metropolitanos.",
+            "goal": "Reducir la desnutrición crónica infantil al 7%.",
+            "indicator": "El 12.8% de los niños menores de 5 años en Lima padece de desnutrición crónica."
+          },
+          {
+            "problem": "Inexistencia de accesibilidad universal en la mayoría de los espacios públicos.",
+            "objective": "Incrementar del 18% al 60% la proporción de espacios públicos, mercados y edificios municipales que cumplen con los estándares de accesibilidad universal para el año 2030.",
+            "goal": "El 60% de los espacios públicos serán accesibles.",
+            "indicator": "Solo el 18% de los espacios públicos son accesibles."
+          },
+          {
+            "problem": "Adultos mayores en situación de vulnerabilidad económica y sin acceso a servicios integrales.",
+            "objective": "Garantizar que el 100% de los 43 distritos cuente con al menos un Centro Integral del Adulto Mayor (CIAM) activo y articulado con la Red Metropolitana para el año 2029.",
+            "goal": "El 100% de los distritos contará con un CIAM activo.",
+            "indicator": "38% de adultos mayores se encuentran en vulnerabilidad económica."
+          },
+          {
+            "problem": "Falta de saneamiento físico legal de los predios urbanos y rurales.",
+            "objective": "Realizar el saneamiento físico legal de los predios urbanos y rurales, así como de las instituciones del Estado.",
+            "goal": "Gestionar ante COFOPRI y la Municipalidad Provincial de Lima desde el 2027-2030 la titulación para las familias.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Inseguridad ciudadana en el distrito.",
+            "objective": "Implementar las Juntas Vecinales y coordinar con la Policía Nacional para la realización de operativos de prevención y patrullaje integrado.",
+            "goal": "Instalar 12 cámaras de seguridad adicionales en el casco urbano y asentamientos humanos, capacitar y equipar a la Junta Vecinal durante el período 2027-2030, y realizar patrullaje integrado los 365 días del año con la PNP y Juntas Vecinales.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Oferta cultural metropolitana limitada y de bajo alcance poblacional.",
+            "objective": "Crear un circuito cultural metropolitano que eleve la participación de la población en la oferta artística al 35% para el año 2030.",
+            "goal": "Lograr un 35% de participación cultural.",
+            "indicator": "Menos del 20% de los limeños asisten a eventos culturales."
+          },
+          {
+            "problem": "Infraestructura educativa y deportiva en mal estado.",
+            "objective": "Reparar y mantener la infraestructura educativa del distrito, así como la infraestructura deportiva, incluyendo losas y el estadio.",
+            "goal": "Conformar la mesa de trabajo anual en educación y deporte.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Poca promoción y apoyo a la cultura y el deporte.",
+            "objective": "Crear los Talleres Municipales Culturales y proporcionar apoyo con profesores para incentivar el deporte en los jóvenes.",
+            "goal": "Implementar vacaciones útiles para escolares, talleres de danza, música, repostería, manualidades y escuelas deportivas para el período 2027-2030.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Violencia al interior de las familias, incluyendo maltrato a niños, adolescentes y mujeres.",
+            "objective": "Sensibilizar a la población sobre la problemática de la violencia familiar que afecta a niños, adolescentes, mujeres y jóvenes.",
+            "goal": "Contratar un profesional con experiencia en el tratamiento de problemas de poblaciones vulnerables y un profesional para asesoría legal permanente en la oficina de la DEMUNA.",
+            "indicator": "No se especifica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Acceso limitado de las micro y pequeñas empresas (MYPE) al financiamiento formal.",
+            "objective": "Incrementar del 15% al 30% la proporción de MYPE limeñas con acceso a financiamiento formal para el año 2030.",
+            "goal": "Lograr que el 30% de las MYPE cuenten con financiamiento.",
+            "indicator": "Menos del 15% de las MYPE acceden a crédito formal."
+          },
+          {
+            "problem": "Congestión vehicular severa que genera un alto costo económico y pérdida de horas-hombre.",
+            "objective": "Aumentar la velocidad comercial del transporte público de 12 km/h a más de 20 km/h mediante la implementación de tres nuevos corredores BRT para el año 2030.",
+            "goal": "Alcanzar una velocidad promedio de 20 km/h o más.",
+            "indicator": "La velocidad promedio en hora punta es de 12 km/h."
+          },
+          {
+            "problem": "Infraestructura vial metropolitana deteriorada.",
+            "objective": "Rehabilitar el 80% de las pistas metropolitanas para el año 2030 a través de un Plan Vial Metropolitano.",
+            "goal": "Lograr que el 80% o más de las pistas estén en buen estado.",
+            "indicator": "El 38% de las pistas se encuentran en mal estado."
+          },
+          {
+            "problem": "Bajo desarrollo económico en el distrito.",
+            "objective": "Fomentar el consumo de alimentos naturales mediante ferias, promover ofertas laborales en coordinación con el Ministerio de Trabajo y Promoción del Empleo, y recuperar y repotenciar las zonas turísticas para la creación de un circuito turístico.",
+            "goal": "Lograr el incremento del ingreso económico mensual y impulsar el turismo en el distrito de Pucusana al 100%.",
+            "indicator": "Porcentaje vinculado al fomento del emprendimiento laboral y calidad de vida, metas temáticas laborales promovidas por la municipalidad e incremento del desarrollo turístico."
+          },
+          {
+            "problem": "Brecha recaudatoria predial significativa y catastro desactualizado.",
+            "objective": "Actualizar el 100% del catastro predial de Lima para el año 2029, con el fin de incrementar los ingresos propios de la Municipalidad Metropolitana de Lima en un 35%.",
+            "goal": "Incrementar los ingresos propios en un 35%.",
+            "indicator": "Brecha recaudatoria de S/ 820 millones anuales sin capturar."
+          },
+          {
+            "problem": "Elevada tasa de informalidad laboral y empresarial en Lima Metropolitana.",
+            "objective": "Reducir la tasa de informalidad laboral en Lima Metropolitana del 66.5% al 55% para el año 2030, a través de centros de formalización y simplificación de trámites.",
+            "goal": "Reducir la informalidad laboral al 55%.",
+            "indicator": "El 66.5% de los trabajadores son informales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Ausencia de voluntad política para la inversión en proyectos de impacto y sociales en favor de la población.",
+            "objective": "Impulsar proyectos de inversión.",
+            "goal": "Asignar un porcentaje del Presupuesto Participativo para su debida atención.",
+            "indicator": "Número de proyectos registrados en el plan de desarrollo concertado."
+          },
+          {
+            "problem": "Necesidad de fortalecer la cultura de prevención y la gestión de riesgo de desastres.",
+            "objective": "Capacitar a dirigentes, instituciones educativas y empresas privadas para la creación de una brigada ante la ocurrencia de desastres naturales.",
+            "goal": "Alcanzar el compromiso y la concientización sobre temas de peligros de riesgos de desastres naturales para mantener a la población segura.",
+            "indicator": "Número de Asentamientos Humanos, Centros Poblados Informales y Centros Educativos involucrados."
+          },
+          {
+            "problem": "Deficiencia en la calidad ambiental y en la calidad de vida de los vecinos.",
+            "objective": "Crear la Comisión Ambiental Municipal (CAM) de la Bahía.",
+            "goal": "Mejorar la calidad de vida de los pobladores del distrito de Pucusana en un 100%.",
+            "indicator": "Realización de un estudio de contaminación ambiental."
+          },
+          {
+            "problem": "Alto riesgo sísmico y existencia de más de 200,000 viviendas en zonas de alto riesgo.",
+            "objective": "Reducir el número de viviendas en zonas de riesgo muy alto en un 40% para el año 2030, mediante programas de reforzamiento estructural y preparación comunitaria.",
+            "goal": "Reforzar 80,000 viviendas.",
+            "indicator": "Existencia de más de 200,000 viviendas en zonas de riesgo."
+          },
+          {
+            "problem": "Altos niveles de contaminación del aire que superan los límites permisibles.",
+            "objective": "Lograr que los niveles de PM2.5 se ubiquen dentro de los límites permisibles en al menos el 80% de las zonas monitoreadas para el año 2030.",
+            "goal": "Lograr que el 80% de las zonas cumplan con la norma de PM2.5.",
+            "indicator": "Las concentraciones de PM2.5 superan hasta 3 veces el límite permitido."
+          },
+          {
+            "problem": "Baja tasa de reciclaje formal y gestión fragmentada de residuos sólidos.",
+            "objective": "Crear un sistema metropolitano integrado de gestión de residuos sólidos, alcanzando el 30% de reciclaje formal y eliminando los puntos críticos para el año 2030.",
+            "goal": "Alcanzar el 30% o más de reciclaje formal para el año 2030.",
+            "indicator": "Menos del 5% de los residuos sólidos se reciclan formalmente."
+          },
+          {
+            "problem": "Déficit crítico de áreas verdes por habitante, muy por debajo del mínimo recomendado por la OMS.",
+            "objective": "Incrementar las áreas verdes en Lima de 2.8 m²/habitante a 5 m²/habitante para el año 2030, mediante arborización masiva y uso de aguas residuales tratadas.",
+            "goal": "Alcanzar un índice de 5 m²/habitante o más en áreas verdes.",
+            "indicator": "Índice de áreas verdes de 2.8 m²/habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Bajo nivel de digitalización de los trámites administrativos municipales.",
+            "objective": "Digitalizar el 90% de los trámites administrativos de la Municipalidad Metropolitana de Lima para el año 2030.",
+            "goal": "Lograr que el 90% o más de los trámites sean digitales.",
+            "indicator": "Menos del 25% de los trámites se encuentran disponibles en línea."
+          },
+          {
+            "problem": "Gestión de recursos humanos sin meritocracia para la cobertura de puestos directivos.",
+            "objective": "Elevar el porcentaje de puestos directivos cubiertos por concurso público del 35% al 70% para el año 2029.",
+            "goal": "Alcanzar el 70% o más de puestos directivos cubiertos por concurso público.",
+            "indicator": "Menos del 35% de los puestos directivos son cubiertos por concurso."
+          },
+          {
+            "problem": "Deterioro financiero y pérdidas operativas sostenidas en las empresas municipales.",
+            "objective": "Llevar a las empresas municipales a un punto de equilibrio financiero sostenible para el año 2029.",
+            "goal": "Lograr que las empresas municipales alcancen el equilibrio financiero en 2029.",
+            "indicator": "Empresas como EMAPE y EMMSA registran pérdidas."
+          },
+          {
+            "problem": "Baja ejecución presupuestal de los proyectos de inversión pública.",
+            "objective": "Elevar la ejecución presupuestal de inversiones de la Municipalidad Metropolitana de Lima del 58% al 85% para el año 2030.",
+            "goal": "Alcanzar una ejecución presupuestal del 85% o más.",
+            "indicator": "La ejecución de inversiones es del 58%."
+          },
+          {
+            "problem": "Sistema de videovigilancia con un alto porcentaje de cámaras desconectadas o inoperativas.",
+            "objective": "Implementar una red integrada de 2,000 cámaras con inteligencia artificial y estandarizar el Serenazgo Metropolitano en los 43 distritos.",
+            "goal": "Lograr que el 95% o más de las cámaras estén operativas.",
+            "indicator": "Más del 40% de las cámaras de la red metropolitana están inoperativas."
+          },
+          {
+            "problem": "Limitadas oportunidades de capacitación para el servidor municipal que garanticen la oferta de servicios de calidad.",
+            "objective": "Mejorar la imagen institucional y el principio de autoridad.",
+            "goal": "Establecer un convenio con una universidad o institutos para la capacitación sostenida de los servidores.",
+            "indicator": "Registro de capacitaciones para servidores promovido por la municipalidad."
+          },
+          {
+            "problem": "Servidores que desconocen el Plan de Desarrollo Concertado, planes estratégicos y otros instrumentos de gestión.",
+            "objective": "Mejorar la imagen institucional y el principio de autoridad.",
+            "goal": "Lograr un número de servidores sensibilizados con los instrumentos de gestión y el plan de gobierno.",
+            "indicator": "Encuesta de socialización de instrumentos de gestión identificados por los servidores de la municipalidad."
+          },
+          {
+            "problem": "Ausencia de voluntad política para impulsar las oficinas técnicas que contribuyan a la captación de financiamiento para proyectos sociales.",
+            "objective": "Mejorar la imagen institucional y el principio de autoridad.",
+            "goal": "Crear una Oficina de Proyectos y Gestión Municipal.",
+            "indicator": "Número de oficinas de acompañamiento a las gerencias para tareas específicas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-144182",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: VIOLENCIA FAMILIAR",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "VIOLENCIA FAMILIAR",
+        "juzgado": "9NO JUZGADO DE FAMILIA SUEBSP DE VIOLENCIA CONTRA LA MUJER",
+        "expediente": "20759-2022-0-3202-JR-FT-06",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "VIOLENCIA FAMILIAR",
+      "sourceIds": [
+        "jne-hv-THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-144181",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "4TO JUZGADO DE FAMILIA DE LIMA ESTE",
+        "expediente": "02869-2018-0-3204-JP-FC-C2",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU",
+      "sha256": "34d488b9f4f1b4461fb48784095fd8ea1d0b0b79fca44ebdff29c28163ce6053",
+      "accessedAt": "2026-10-02T22:49:12.982Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032561",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032561",
+      "sha256": "6f8fac2ce6037757c6c8246a94893e4a67f29a80279688d3e8d366eaf45766e8",
+      "accessedAt": "2026-10-02T22:49:13.492Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

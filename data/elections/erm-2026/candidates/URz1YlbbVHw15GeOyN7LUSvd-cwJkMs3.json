@@ -1,0 +1,268 @@
+{
+  "id": "URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3",
+  "slug": "pablo-cesar-ramos-ocana",
+  "electionId": "erm-2026",
+  "name": "Pablo Cesar Ramos Ocaña",
+  "givenNames": "Pablo Cesar",
+  "surnames": "Ramos Ocaña",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140102",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:18.518Z",
+      "sourceId": "jne-hv-URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "LICENCIADO EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SERVICIO DE PARQUES DE LIMA - SERPAR",
+      "role": "ADMINISTRADOR",
+      "from": "2023",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 0,
+        "private": 30000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/04b2c0a9-432d-45d5-832b-a86849534637.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4de2c82a-de85-41e7-be5e-4b6060ac03dd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil infraestructura educativa, pocas oportunidades de formación técnica y limitada promoción cultural.",
+            "objective": "Mejorar las condiciones educativas y promover capacidades técnicas, culturales y patrimoniales en niños, jóvenes y familias.",
+            "goal": "Implementar una Biblioteca Municipal en los sectores alejados.",
+            "indicator": "Biblioteca municipal implementada; convenios con universidades y/o institutos técnicos."
+          },
+          {
+            "problem": "Deficiente acceso a servicios de salud, anemia y desnutrición crónica en niños menores de 3 años.",
+            "objective": "Fortalecer la atención primaria, gestionar la repotenciación de centros de salud y articular programas preventivos contra anemia y desnutrición.",
+            "goal": "Reducir progresivamente la anemia infantil en zonas vulnerables; realizar campañas trimestrales de salud; dejar gestionado y encaminado el proyecto del Hospital de Ancón o sede tipo Hospital de la Solidaridad.",
+            "indicator": "20 campañas de salud realizadas; 70% de niños tamizados; 10% de reducción de anemia infantil."
+          },
+          {
+            "problem": "Incremento de inseguridad, pandillaje, micro comercialización de drogas y débil presencia municipal en zonas críticas.",
+            "objective": "Reducir la percepción de inseguridad mediante videovigilancia, patrullaje integrado, juntas vecinales y recuperación del principio de autoridad.",
+            "goal": "Implementar cámaras en el 100% de puntos críticos priorizados; duplicar la capacidad operativa del serenazgo; lograr patrullaje integrado permanente en zonas de alta incidencia.",
+            "indicator": "Cámaras instaladas y puestos de vigilancia; contar con serenazgos vigilando las calles."
+          },
+          {
+            "problem": "Pocos espacios de atención social, limitada integración vecinal y escaso apoyo a jóvenes, adultos mayores y personas con discapacidad.",
+            "objective": "Crear una red municipal de soporte social, deporte y participación comunitaria para fortalecer la convivencia y la integración distrital.",
+            "goal": "Crear programas permanentes para adultos mayores, personas con discapacidad y jóvenes; recuperar o construir infraestructura deportiva prioritaria.",
+            "indicator": "Más de 200 beneficiarios adultos mayores y personas con discapacidad; organizaciones juveniles formalizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Potencial turístico subutilizado, débil promoción de la identidad histórica y baja generación económica vinculada al turismo.",
+            "objective": "Convertir el turismo histórico, cultural, gastronómico y marítimo en una fuente sostenible de empleo e inversión local.",
+            "goal": "Implementar circuitos turísticos de Ancón; fortalecer la marca distrital como balneario histórico y destino de Lima Norte.",
+            "indicator": "2 circuitos turísticos diseñados; 10 actividades turísticas promovidas."
+          },
+          {
+            "problem": "Bajo aprovechamiento del potencial industrial y limitada generación de empleo local.",
+            "objective": "Promover la reactivación y ordenamiento del Parque Industrial como polo de inversión, empleo y desarrollo productivo.",
+            "goal": "Contar con un plan de repotenciación del Parque Industrial; generar alianzas con empresas para empleo local; posicionar Ancón como zona productiva de Lima Norte.",
+            "indicator": "Acciones de fortalecimiento e inversión ejecutadas."
+          },
+          {
+            "problem": "Falta de oportunidades laborales, bajo desarrollo empresarial y débil acompañamiento municipal a emprendedores.",
+            "objective": "Impulsar el crecimiento de MYPES y PYMES mediante asistencia técnica, capacitación, formalización y articulación comercial.",
+            "goal": "Capacitar y acompañar a emprendedores de todos los sectores del distrito; institucionalizar ferias productivas y comerciales; aumentar la formalización empresarial local.",
+            "indicator": "Contar con emprendedores capacitados; 10 ferias comerciales realizadas."
+          },
+          {
+            "problem": "Comercio desordenado, falta de mercados zonales y limitada infraestructura para abastecimiento local.",
+            "objective": "Ordenar el comercio local mediante asistencia para mercados zonales, fiscalización eficiente y promoción de centros de abastecimiento modernos.",
+            "goal": "Gestionar mercados zonales en sectores priorizados; reducir el comercio informal en zonas críticas; establecer reglas claras de ordenamiento comercial con participación de comerciantes.",
+            "indicator": "3 mercados zonales promovidos; incrementar la formalización de comerciantes, 10 mesas de trabajo con comerciantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Ineficiente limpieza pública, acumulación de basura, desorden y contaminación ambiental.",
+            "objective": "Modernizar el sistema de recojo de residuos sólidos con rutas, horarios, equipamiento, contenedores y gestión eficiente.",
+            "goal": "Implementar un sistema integrado de recojo con horarios establecidos; renovar progresivamente la flota; instalar contenedores en puntos críticos.",
+            "indicator": "3 camiones recolectores adquiridos o gestionados; 100% de cobertura de recojo en el distrito."
+          },
+          {
+            "problem": "Bajo nivel de reciclaje y ausencia de cultura ambiental en hogares, comercios e instituciones.",
+            "objective": "Implementar la segregación en la fuente y la recolección selectiva como política municipal de sostenibilidad.",
+            "goal": "Ejecutar un programa distrital de segregación; incorporar zonas piloto y ampliar cobertura; formalizar recicladores y reducir residuos enviados a disposición final.",
+            "indicator": "40% de viviendas incorporadas al programa; toneladas de residuos valorizados; recicladores formalizados; 10 campañas ambientales."
+          },
+          {
+            "problem": "Déficit de áreas verdes, degradación de espacios ecológicos y abandono de parques, avenidas y laderas.",
+            "objective": "Recuperar y ampliar áreas verdes mediante arborización, mantenimiento de parques y protección de zonas ecológicas.",
+            "goal": "Arborizar principales avenidas, parques, asentamientos humanos; recuperar áreas ecológicas dañadas; posicionar Ancón como distrito ecológico.",
+            "indicator": "200 árboles plantados; 1000m² de áreas verdes recuperadas; 80% parques intervenidos."
+          },
+          {
+            "problem": "Falta de infraestructura ambiental para tratamiento y aprovechamiento de residuos.",
+            "objective": "Gestionar la creación de una planta de procesamiento de residuos sólidos para reducir contaminación y promover economía circular.",
+            "goal": "Dejar gestionado y/o en ejecución el proyecto de planta de procesamiento; reducir puntos críticos de acumulación de residuos; articular el proyecto con programas de reciclaje.",
+            "indicator": "2 expedientes técnicos elaborados; financiamiento gestionado; avance físico del proyecto; 80% de toneladas de residuos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza ciudadana, percepción de corrupción y débil acceso a información pública.",
+            "objective": "Institucionalizar la transparencia, la rendición de cuentas y el control ciudadano sobre la gestión municipal.",
+            "goal": "Realizar rendición de cuentas anual en todo el distrito; mantener actualizado el portal de transparencia; fortalecer la participación ciudadana.",
+            "indicator": "Realizar trimestralmente rendiciones de cuentas realizadas; nivel de actualización del portal de transparencia; audiencias vecinales."
+          },
+          {
+            "problem": "Gerencias poco eficientes, trámites lentos y estructura municipal con baja capacidad de respuesta.",
+            "objective": "Reorganizar las gerencias municipales para simplificar procesos, mejorar atención y elevar la eficiencia administrativa.",
+            "goal": "Reducir tiempos de trámite; capacitar permanentemente al personal municipal; implementar procesos más simples y orientados al vecino.",
+            "indicator": "10 procesos simplificados; tiempo promedio de atención de trámites; más del 90% de servidores capacitados; 60% de satisfacción Ciudadana."
+          },
+          {
+            "problem": "Sectores alejados sin presencia municipal efectiva y vecinos con dificultad para acceder a servicios municipales.",
+            "objective": "Fortalecer agencias municipales y mecanismos de atención territorial para acercar la municipalidad a los vecinos.",
+            "goal": "Potenciar agencias municipales en sectores estratégicos; realizar atención itinerante; mejorar la presencia municipal en zonas periféricas.",
+            "indicator": "Agencias municipales fortalecidas; realizar atenciones descentralizadas; impulsar las campañas municipales por sector; 80% de cobertura territorial."
+          },
+          {
+            "problem": "Débil articulación entre municipalidad, dirigentes, jóvenes, adultos mayores, organizaciones sociales y líderes locales.",
+            "objective": "Consolidar un modelo de gobierno local participativo, concertador e inclusivo para priorizar obras y programas con legitimidad social.",
+            "goal": "Institucionalizar mesas de trabajo por sectores; incorporar a dirigentes y organizaciones en la priorización de proyectos; fortalecer la gobernabilidad local y la confianza vecinal.",
+            "indicator": "10 mesas de trabajo instaladas; más de 50 organizaciones participantes; 5 proyectos priorizados con participación vecinal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-136374",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: OMISIÓN DE ASISTENCIA FAMILIAR",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2022-10-30",
+      "details": {
+        "materia": "OMISIÓN DE ASISTENCIA FAMILIAR",
+        "fallo": "DOS AÑOS",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "1° JIP LOS OLIVOS",
+        "expediente": "679-2021",
+        "comentario": "RES. 21 DE FECHA 25/09/2025 ORDENA ARCHIVAMIENTO DEFINITIVO Y DISPONE LA ANULACIÓN DE ANTECEDENTES PENALES."
+      },
+      "quote": "OMISIÓN DE ASISTENCIA FAMILIAR · DOS AÑOS · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-138319",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2DO JUZG. PAZ LETRADO LOS OLIVOS",
+        "expediente": "118-2008",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3",
+      "sha256": "4a43eac97ffec5a5ae7b7060113409c43322972053305bae4b1a96bec0ce8ead",
+      "accessedAt": "2026-10-02T22:50:18.518Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016534",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016534",
+      "sha256": "8df39c35383987717e09c4619c0942204884328440d7043a4079edcbdfc1fffc",
+      "accessedAt": "2026-10-02T22:50:19.049Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

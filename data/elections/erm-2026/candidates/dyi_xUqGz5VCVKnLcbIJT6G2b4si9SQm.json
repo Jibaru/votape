@@ -1,0 +1,216 @@
+{
+  "id": "dyi_xUqGz5VCVKnLcbIJT6G2b4si9SQm",
+  "slug": "victoria-betzabe-la-cruz-garces",
+  "electionId": "erm-2026",
+  "name": "Victoria Betzabe La Cruz Garces",
+  "givenNames": "Victoria Betzabe",
+  "surnames": "La Cruz Garces",
+  "age": 64,
+  "gender": "Femenino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:35.945Z",
+      "sourceId": "jne-hv-dyi_xUqGz5VCVKnLcbIJT6G2b4si9SQm"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "EGEC PERÚ",
+        "program": "DIPLOMADO DE POLÍTICAS PÚBLICAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDA PARTICULAR SAN MARTÍN DE PORRES",
+        "program": "BACHILLER PSICOLOGÍA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "COLEGIO JHON SMITH",
+      "role": "ASESORÍA INSTITUCIONAL",
+      "from": "2018",
+      "to": "2019"
+    },
+    {
+      "employer": "CEP SAN BENITO DE PALARMO - SURCO",
+      "role": "ASESORÍA PSICOLÓGICA",
+      "from": "2013",
+      "to": "2015"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "DIRECTORA ESCUELA FORMACIÓN POLÍTICA",
+      "party": "PARTIDO POLÍTICO PARTIDO MORADO",
+      "from": "2025",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERU",
+      "year": "2024"
+    },
+    {
+      "party": "AHORA NACION - AN",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "RECIBO PENSIÓN DE MI EX CONVIVIENTE S/. 1000 MENSUAL, RECIBO PENSIÓN DE MI HIJA LA CANTIDAD DE S/. 600 , MÁS VIVERES S/600. INGRESO ANUAL POR ESTOS RUBROS = S/. 26,400"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/adf0153a-55bf-4d46-8605-e2fb69a2f7a0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1c322499-ef21-4704-aae0-8ccd80cd8700.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Bajo nivel en la calidad de la educación en la provincia.",
+            "objective": "Transformar estructuralmente el sistema educativo para revertir los rezagos en los aprendizajes esenciales, elevando los niveles de comprensión lectora, fortaleciendo las competencias de razonamiento matemático y fomentando la educación técnico-productiva.",
+            "goal": "Crear la \"Beca Lima Capital\" con un sistema de selección de doble filtro que evalúa la vulnerabilidad socioeconómica (SISFOH) y premia el mérito académico.",
+            "indicator": "Implementación y focalización del programa de becas de acceso y estímulos económicos."
+          },
+          {
+            "problem": "Bajo nivel de calidad de vida en la población.",
+            "objective": "Estructurar un plan operativo y tecnológico para modernizar la atención primaria de salud, promover la actividad física, garantizar la inclusión de personas con discapacidad, fomentar la salud mental y ampliar el acceso a servicios básicos.",
+            "goal": "Lograr un promedio de 50,000 ciudadanos atendidos semestralmente en los programas de contención emocional para el estrés urbano, la ansiedad o la depresión.",
+            "indicator": "Número de ciudadanos atendidos en los Núcleos de Apoyo en Salud Mental (NASAM)."
+          },
+          {
+            "problem": "Inseguridad ciudadana en Lima Metropolitana, con altos índices de delincuencia.",
+            "objective": "Abordar la problemática de la inseguridad ciudadana detallando el alcance estratégico y tecnológico de cada objetivo propuesto, que incluyen la implementación de vigilancia predictiva, reconocimiento facial, interconexión de serenazgos y la reducción de la comisión de delitos.",
+            "goal": "Reducir la frecuencia de los hechos delictivos a una tasa promedio de 3,5% semestral acumulado.",
+            "indicator": "Frecuencia de hechos delictivos denunciados y registrados en las comisarías y dependencias fiscales de la provincia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta tasa de mortalidad empresarial (80% el primer año) que afecta a los emprendedores.",
+            "objective": "Mitigar la tasa de mortalidad empresarial a través de un enfoque que combine seguridad ciudadana, desburocratización, inclusión financiera y soporte predictivo para el emprendedor, protegiéndolos de la extorsión y facilitando el acceso a financiamiento.",
+            "goal": "Implementar la Plataforma Digital de Licencia Única Metropolitana para emitir licencias electrónicas de forma automática e inyectar microcréditos formales y líneas de factoring en menos de 24 horas.",
+            "indicator": "Tiempo de emisión de licencias de funcionamiento y de acceso a financiamiento."
+          },
+          {
+            "problem": "Alto porcentaje de agentes económicos informales y poco apoyo en su formalización.",
+            "objective": "Revertir la informalidad comercial y de transporte menor mediante una estrategia de inclusión económica basada en la analítica de datos, la identidad digital y el soporte social focalizado, implementando un empadronamiento biométrico y un asistente virtual para la formalización.",
+            "goal": "Implementar un esquema donde el comerciante o transportista formalizado pagará 0% de arbitrios el primer año, 25% el segundo, 50% el tercero y 100% a partir del cuarto año de su registro.",
+            "indicator": "Aplicación del \"Régimen de Arbitrios Progresivos\" para agentes económicos formalizados."
+          },
+          {
+            "problem": "Limitada oferta de empleos en la provincia.",
+            "objective": "Transformar el tejido productivo de la subsistencia informal a una economía basada en el conocimiento, la descentralización industrial y la adopción de tecnologías de la información e inteligencia artificial para elevar la productividad.",
+            "goal": "Ejecutar una estrategia de capacitación técnica exprés con bootcamps intensivos en competencias digitales y estructurar el programa \"Mi Primer Empleo\" con incentivos fiscales para la contratación formal de jóvenes.",
+            "indicator": "Implementación de programas de reconversión laboral y de fomento al primer empleo juvenil."
+          },
+          {
+            "problem": "Limitado soporte logístico e inadecuada promoción de la oferta turística y gastronómica.",
+            "objective": "Consolidar a Lima Metropolitana como la Capital Gastronómica de América y un destino turístico inteligente y seguro, solucionando los cuellos de botella logísticos y modernizando la promoción a través de la analítica de datos e inteligencia artificial.",
+            "goal": "Desarrollar y desplegar una super-app oficial metropolitana que centralice la oferta de la provincia, e institucionalizar un calendario anual de ferias itinerantes en Lima Norte, Sur y Este.",
+            "indicator": "Creación de la plataforma \"Lima Inteligente\" y posicionamiento del Circuito de Ferias Gastronómicas Descentralizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta contaminación ambiental en la provincia.",
+            "objective": "Transitar hacia un modelo de ciudad sostenible e inteligente, sustituyendo la gestión reactiva por políticas basadas en la economía circular, la analítica de datos, el Internet de las Cosas (IoT) y la preservación de la infraestructura natural.",
+            "goal": "Implementar una red densa de nodos de monitoreo ambiental con sensores IoT e IA para predecir crisis de esmog, y exigir que las nuevas flotas de transporte utilicen exclusivamente motores eléctricos o Gas Natural Vehicular (GNV).",
+            "indicator": "Implementación de una red de monitoreo de calidad del aire y renovación de la flota de transporte público."
+          },
+          {
+            "problem": "Débil ordenamiento territorial e insostenible desarrollo urbano en la provincia.",
+            "objective": "Frenar la expansión horizontal caótica sobre desiertos y laderas, implementando un modelo de gestión dinámica que integre los objetivos de ordenamiento físico y tecnológico con la sostenibilidad económico-empresarial.",
+            "goal": "Implementar una plataforma geoespacial única para un catastro unificado actualizado en tiempo real con IA, y establecer el PDU Metropolitano en un formato digital normativo e interactivo de cumplimiento obligatorio.",
+            "indicator": "Implementación del Catastro Metropolitano Inteligente y el Plan de Desarrollo Urbano (PDU) Metropolitano Digital."
+          },
+          {
+            "problem": "Baja calidad de movilidad ciudadana y de carga en la provincia.",
+            "objective": "Migrar hacia un Sistema Integrado y Tecnificado de Movilidad, sustituyendo el desorden vial por un control automatizado, priorizando modalidades alternativas y protegiendo el flujo logístico que abastece a la capital.",
+            "goal": "Concesionar la construcción de tres Macroterminales Logísticos de Transferencia en Ancón, Lurín y Ate, donde todo camión pesado de larga distancia deberá descargar obligatoriamente su mercancía.",
+            "indicator": "Construcción de macroterminales logísticos de transferencia de carga pesada."
+          },
+          {
+            "problem": "Alta vulnerabilidad ante riesgos de desastres.",
+            "objective": "Pasar de una respuesta reactiva a una gestión del riesgo inteligente y predictiva para mitigar la vulnerabilidad ante sismos, tsunamis, huaicos e incendios, implementando sistemas de alerta temprana y planes de reconstrucción resiliente.",
+            "goal": "Enviar alertas sísmicas geolocalizadas entre 10 y 30 segundos antes de la llegada de la onda destructiva, y realizar transferencias monetarias a familias damnificadas en menos de 72 horas.",
+            "indicator": "Tiempo de anticipación de la alerta sísmica y tiempo de respuesta económica post-desastre."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil gobernanza del territorio en la provincia.",
+            "objective": "Realizar una reingeniería de la gestión pública para solucionar el débil ordenamiento territorial y la desarticulación institucional, transitando hacia un modelo de Gobernanza Metropolitana Abierta, Inteligente e Íntegra.",
+            "goal": "Implementar una única plataforma basada en SIG para centralizar de forma obligatoria las capas cartográficas de los 43 distritos, e institucionalizar el Consejo de Alcaldes de la Provincia como el máximo órgano vinculante de coordinación metropolitana.",
+            "indicator": "Implementación de un Sistema de Información Geográfica (SIG) interoperable y la institucionalización del Consejo de Alcaldes."
+          },
+          {
+            "problem": "Excesiva burocracia y percepción de ineficiencia.",
+            "objective": "Transformar radicalmente la gestión de la Municipalidad Metropolitana de Lima, erradicando la burocracia y la percepción de ineficiencia mediante una reingeniería estructural bajo principios de arquitectura empresarial moderna.",
+            "goal": "Decretar la política radical de \"Cero Papel\" implementando un Sistema de Gestión Documental 100% electrónico, y completar el tránsito definitivo de la totalidad del personal de la MML hacia el Régimen del Servicio Civil (Ley N.º 30057).",
+            "indicator": "Implementación de la política de \"Cero Papel\" y el tránsito del personal al régimen del Servicio Civil."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-dyi_xUqGz5VCVKnLcbIJT6G2b4si9SQm",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/dyi_xUqGz5VCVKnLcbIJT6G2b4si9SQm",
+      "sha256": "6261cb4e4a1a56be366dc4e8e7c5b53146fec4469b7dfcb1f3cbce4a889e76ec",
+      "accessedAt": "2026-10-02T22:49:35.945Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022356",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022356",
+      "sha256": "4a043853a0aee0650b0ec530f04b9e413527a6777a076c999a28fa303dca9b76",
+      "accessedAt": "2026-10-02T22:49:36.445Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "T3wfUeWpBGhk49bU4GwN0IuAbz5I6Vom",
+  "slug": "juan-david-barrientos-arce",
+  "electionId": "erm-2026",
+  "name": "Juan David Barrientos Arce",
+  "givenNames": "Juan David",
+  "surnames": "Barrientos Arce",
+  "age": 65,
+  "gender": "Masculino",
+  "party": {
+    "id": 3036,
+    "name": "ALIANZA REGIONAL POR EL PERU"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:50.091Z",
+      "sourceId": "jne-hv-T3wfUeWpBGhk49bU4GwN0IuAbz5I6Vom"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "UNIVERSIDAD RICARDO PALMA",
+        "program": "AGENTE INMOBILIARIO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "CONTADOR",
+      "from": "2017",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 48000,
+        "public": 0,
+        "private": 48000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "PREDIO",
+        "value": 37890.04,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 11641,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 200000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 85000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 11641,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "PREDIO",
+        "value": 11641,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GASANDCONTROL SAC",
+        "type": "ACCIONES",
+        "quantity": 80,
+        "value": 100
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ccf22174-1f36-4204-b855-6d7a22d57c1e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f0e14ade-b8e4-4fc0-9fd2-ef538cf2e002.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Bajo rendimiento educativo entre los estudiantes del distrito.",
+            "objective": "Mejorar el nivel educativo a través de programas de becas, acceso a preparación preuniversitaria y capacitación continua para los docentes.",
+            "goal": "Incrementar el rendimiento escolar en un 30% al 2030.",
+            "indicator": "Nivel de rendimiento escolar."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Incrementar el número de serenos, implementar sistemas de videovigilancia y desarrollar programas preventivos para fortalecer la seguridad.",
+            "goal": "Reducir la percepción de inseguridad en un 50% al 2030.",
+            "indicator": "Porcentaje de percepción de inseguridad."
+          },
+          {
+            "problem": "Prevalencia de anemia infantil y otras enfermedades en la población.",
+            "objective": "Implementar un enfoque de medicina preventiva y realizar campañas comunitarias de salud para combatir la anemia y otras enfermedades.",
+            "goal": "Reducir la anemia infantil en un 50% al 2030.",
+            "indicator": "Tasa de anemia infantil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Altas tasas de bajo empleo y desempleo en la población juvenil.",
+            "objective": "Fomentar la empleabilidad juvenil mediante programas de capacitación técnica y el impulso al emprendimiento local.",
+            "goal": "Reducir el desempleo juvenil en un 50% al 2030.",
+            "indicator": "Tasa de desempleo juvenil."
+          },
+          {
+            "problem": "Alta tasa de informalidad en el comercio local.",
+            "objective": "Implementar un plan de formalización integral del comercio, estableciendo una regulación moderna que garantice la seguridad y el orden.",
+            "goal": "Alcanzar el 100% de formalización del comercio al 2030.",
+            "indicator": "Porcentaje de comercio formalizado."
+          },
+          {
+            "problem": "Bajo nivel de inversión privada en el distrito.",
+            "objective": "Atraer capitales privados mediante la implementación de incentivos fiscales y la simplificación de trámites administrativos para la apertura de empresas.",
+            "goal": "Duplicar la inversión privada al 2030.",
+            "indicator": "Monto de inversión privada anual."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Existencia de urbanización informal y desordenada en el territorio.",
+            "objective": "Promover la habilitación urbana formal y mejorar la conectividad en zonas elevadas mediante la construcción de teleféricos.",
+            "goal": "Alcanzar el 100% del territorio formalizado y poner en operación 2 teleféricos al 2030.",
+            "indicator": "Porcentaje del territorio formalizado y número de teleféricos operativos."
+          },
+          {
+            "problem": "Contaminación ambiental y déficit de áreas verdes por habitante.",
+            "objective": "Ejecutar programas de reforestación urbana, mejorar la limpieza pública y promover el reciclaje para aumentar las áreas verdes y gestionar los residuos.",
+            "goal": "Lograr 8 metros cuadrados de áreas verdes por habitante y gestionar el 100% de los residuos al 2030.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante y porcentaje de residuos sólidos gestionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiencia en la gestión y los procesos de la administración municipal.",
+            "objective": "Realizar una reingeniería de los procesos municipales, fortalecer la capacitación del personal y crear un patronato para optimizar la gestión.",
+            "goal": "Lograr una municipalidad completamente reorganizada y eficiente al 2030.",
+            "indicator": "Nivel de eficiencia y reorganización de la estructura municipal."
+          },
+          {
+            "problem": "Bajos niveles de transparencia y rendición de cuentas en la gestión municipal.",
+            "objective": "Implementar un portal de transparencia accesible y realizar audiencias públicas periódicas para informar a la ciudadanía sobre el uso de los recursos.",
+            "goal": "Establecer un sistema de monitoreo y rendición de cuentas de carácter trimestral al 2030.",
+            "indicator": "Frecuencia del monitoreo y la rendición de cuentas a la ciudadanía."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-T3wfUeWpBGhk49bU4GwN0IuAbz5I6Vom",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/T3wfUeWpBGhk49bU4GwN0IuAbz5I6Vom",
+      "sha256": "f5dafea8b376856423dc275f0c9d10b95b02d15415f0735b6e3e350a9c957653",
+      "accessedAt": "2026-10-02T22:55:50.091Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017734",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017734",
+      "sha256": "9cb08542f66b77abe66d78bec9dac18aefb19e44895f2421a87c29c633af8aff",
+      "accessedAt": "2026-10-02T22:55:50.563Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

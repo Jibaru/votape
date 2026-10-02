@@ -1,0 +1,229 @@
+{
+  "id": "oViN9cuNLvOaMHLD34gEbzWsUoQtdO4P",
+  "slug": "jorge-luis-chicata-moreno",
+  "electionId": "erm-2026",
+  "name": "Jorge Luis Chicata Moreno",
+  "givenNames": "Jorge Luis",
+  "surnames": "Chicata Moreno",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:16.662Z",
+      "sourceId": "jne-hv-oViN9cuNLvOaMHLD34gEbzWsUoQtdO4P"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "LICENCIADO EN EDUCACION FISICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN EDUCACION FISICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad de Chilca",
+      "role": "Asesor de la gerencia de sociales",
+      "from": "2021",
+      "to": "2024"
+    },
+    {
+      "employer": "Municipalida de Santo Domingo de Olleros",
+      "role": "Gerente de Sociales",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "Municipalidad de Punta Negra",
+      "role": "Gerente de Sociales",
+      "from": "2020",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2003",
+      "to": "2006"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2014"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45000,
+        "public": 0,
+        "private": 45000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Mis ingreso anual del año 2025 fue un retiro de la AFP, económicamente vivo de ello ya que no cuento con un puesto laboral actual."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6c617e76-40b5-46a4-8fd3-2d4188ac75a0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e51f1e2b-b7d1-4b06-88bd-462d93e81cd5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "agua potable",
+            "objective": "gestión ministerio vivienda",
+            "goal": "reducir la falta de agua en el distrito",
+            "indicator": "90 por ciento de viviendas con agua"
+          },
+          {
+            "problem": "seguridad ciudadana",
+            "objective": "convenio ministerio interior",
+            "goal": "reducción de la delincuencia",
+            "indicator": "reducción de denuncias por delito"
+          },
+          {
+            "problem": "salud",
+            "objective": "creación de postas medicas",
+            "goal": "mejorar la atención de salud en la población",
+            "indicator": "4 postas medicas implementadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "morosidad tributaria",
+            "objective": "admitía tributaria",
+            "goal": "mejorar el registro tributario",
+            "indicator": "80 por ciento de incremento en recaudación"
+          },
+          {
+            "problem": "actualización catastral",
+            "objective": "fiscalización total del distrito",
+            "goal": "mejorar la recaudación",
+            "indicator": "80 por ciento de predios actualizados"
+          },
+          {
+            "problem": "exceso de personal",
+            "objective": "reorganización del personal",
+            "goal": "mejoras la distribución del presupuesto municipal",
+            "indicator": "30 por ciento de reducción"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "deforestación",
+            "objective": "convenio con ONG para arborización",
+            "goal": "mejorar la calidad de vida",
+            "indicator": "50,000 arboles"
+          },
+          {
+            "problem": "parques y jardines",
+            "objective": "mantenimiento constante",
+            "goal": "garantizar espacios públicos seguros y salubres",
+            "indicator": "100 por ciento"
+          },
+          {
+            "problem": "limpieza publica",
+            "objective": "concientización a la comunidad Horarios adecuados",
+            "goal": "distrito limpio y ordenado",
+            "indicator": "80 porciento de reducción de puntos críticos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1) transparencia y lucha contra la corrupción",
+            "objective": "1) implementar un portal de datos abiertos",
+            "goal": "1) información clara y precisa a la población",
+            "indicator": "1) información ilimitada"
+          },
+          {
+            "problem": "2) participación ciudadana",
+            "objective": "2) cabildos abiertos",
+            "goal": "2) 2 al año",
+            "indicator": "2) 2 al año"
+          },
+          {
+            "problem": "3) modernización y gestión publica",
+            "objective": "3) optimizar los instrumentos de gestión",
+            "goal": "3) mejorar la eficiencia en el municipio",
+            "indicator": "3) 90 por ciento de tramites digitalizado"
+          },
+          {
+            "problem": "2) participación ciudadana",
+            "objective": "2) cabildos abiertos",
+            "goal": "2) involucrar a la población en la toma de decisiones",
+            "indicator": "2) 2 al año"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-oViN9cuNLvOaMHLD34gEbzWsUoQtdO4P",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/oViN9cuNLvOaMHLD34gEbzWsUoQtdO4P",
+      "sha256": "d7c0a157b7ea7442a04d9eb755c2605b4f47261401845cafc4aedc2e68e637a2",
+      "accessedAt": "2026-10-02T22:54:16.662Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021313",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021313",
+      "sha256": "6c6bd76b12810c7b6722b814c3561e99f5ee118149429e3dbc80a708f1147bfb",
+      "accessedAt": "2026-10-02T22:54:17.268Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

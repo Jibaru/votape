@@ -1,0 +1,225 @@
+{
+  "id": "GpDLFWxBgb4SUVNpNGo3PyyVH2UrvkxU",
+  "slug": "daniel-rodriguez-zanabria",
+  "electionId": "erm-2026",
+  "name": "Daniel Rodriguez Zanabria",
+  "givenNames": "Daniel",
+  "surnames": "Rodriguez Zanabria",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 2933,
+    "name": "LIBERTAD POPULAR"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:59.420Z",
+      "sourceId": "jne-hv-GpDLFWxBgb4SUVNpNGo3PyyVH2UrvkxU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "cia peruana de radiofusion sa",
+      "role": "publicista",
+      "from": "2025",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 189000,
+        "public": 0,
+        "private": 189000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 71000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "carro lexus",
+        "value": 70000
+      },
+      {
+        "type": "fiat carro",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/29d5113e-a86b-4fe8-b724-dbfbb44be7a8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3efa25f2-6e40-4ea0-bbc2-7d086cdb23dd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Existencia de violencia familiar y de género que afecta a mujeres e integrantes del grupo familiar.",
+            "objective": "Establecer un programa integral contra la violencia familiar y de género que brinde orientación legal, apoyo psicológico y se articule con comisarías y juntas vecinales.",
+            "goal": "Incrementar en un 50% la atención a mujeres y familias respecto a la línea base para el año 2030.",
+            "indicator": "Mujeres y familias orientadas."
+          },
+          {
+            "problem": "Incremento de casos de depresión y otros padecimientos de salud mental en la población.",
+            "objective": "Implementar un servicio municipal de salud mental, de carácter preventivo, que sea presencial, telefónico y virtual para atender a la comunidad.",
+            "goal": "Alcanzar un acumulado de 20,000 atenciones psicológicas para el año 2030.",
+            "indicator": "Atenciones psicológicas."
+          },
+          {
+            "problem": "Alta presencia de adultos mayores en la estructura poblacional del distrito, con necesidades específicas de salud y atención.",
+            "objective": "Mejorar la calidad de vida de los adultos mayores mediante servicios especializados de atención domiciliaria, teleasistencia, inclusión digital y salud preventiva.",
+            "goal": "Realizar 5,000 visitas domiciliarias anuales para el año 2030.",
+            "indicator": "Visitas domiciliarias a adultos mayores."
+          },
+          {
+            "problem": "Infraestructura urbana con barreras que dificultan la movilidad de personas con discapacidad y movilidad reducida.",
+            "objective": "Desarrollar un plan de accesibilidad universal para intervenir en veredas, rampas, cruces peatonales, parques y locales municipales.",
+            "goal": "Lograr que el 100% de las zonas priorizadas cuenten con accesibilidad universal para el año 2030.",
+            "indicator": "Zonas accesibles intervenidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de una estrategia de marca ciudad unificada, resultando en una promoción dispersa y de menor impacto internacional.",
+            "objective": "Posicionar la marca “Miraflores Capital Turística del Pacífico Sur” a través de una estrategia integral que incluye un portal multilingüe y campañas digitales.",
+            "goal": "Lograr que la mesa turística público-privada se encuentre operativa de forma permanente para el año 2030.",
+            "indicator": "Mesa turística público-privada."
+          },
+          {
+            "problem": "Lentitud en la tramitología empresarial que frena la inversión y la formalización de negocios.",
+            "objective": "Digitalizar y simplificar los trámites empresariales, implementando una ventanilla rápida para la obtención de licencias y permisos.",
+            "goal": "Reducir en un 50% el tiempo promedio de los trámites empresariales para el año 2030.",
+            "indicator": "Tiempo de trámites empresariales."
+          },
+          {
+            "problem": "Concentración de la actividad turística en pocas zonas del distrito, limitando la distribución del valor económico.",
+            "objective": "Aumentar la permanencia y el gasto promedio del visitante mediante la creación de rutas y circuitos turísticos integrados que diversifiquen la oferta.",
+            "goal": "Tener 6 circuitos turísticos operativos y señalizados para el año 2030.",
+            "indicator": "Circuitos turísticos oficiales."
+          },
+          {
+            "problem": "Presencia de comercio informal en zonas de alta afluencia, generando desorden urbano y competencia desigual.",
+            "objective": "Promover el empleo formal y la inversión privada responsable, fortaleciendo la gastronomía, el comercio y la economía creativa con reglas claras y fiscalización inteligente.",
+            "goal": "Incrementar en un 20% la formalización empresarial para el año 2030.",
+            "indicator": "Formalización empresarial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Congestión vehicular en ejes viales principales que genera contaminación, ruido y deterioro de la infraestructura.",
+            "objective": "Mejorar la movilidad urbana a través de la actualización de un plan maestro que incluya la sincronización semafórica y el reordenamiento del parqueo.",
+            "goal": "Reducir en un 25% el tiempo promedio de desplazamiento para el año 2030.",
+            "indicator": "Reducción del tiempo de viaje."
+          },
+          {
+            "problem": "Generación diaria de una importante cantidad de residuos sólidos por parte de la población residente y flotante.",
+            "objective": "Mejorar la gestión de residuos sólidos implementando un programa integral de segregación, reciclaje y valorización.",
+            "goal": "Incrementar en un 100% la tasa de reciclaje distrital para el año 2030.",
+            "indicator": "Tasa de reciclaje distrital."
+          },
+          {
+            "problem": "Riesgos asociados al cambio climático, como erosión y deslizamientos en la zona de la Costa Verde y los acantilados.",
+            "objective": "Proteger la Costa Verde y los acantilados, y fortalecer la resiliencia climática mediante el monitoreo geotécnico y la estabilización de taludes.",
+            "goal": "Monitorear el 100% de las zonas críticas para el año 2030.",
+            "indicator": "Monitoreo de acantilados."
+          },
+          {
+            "problem": "Necesidad de preservar y ampliar las áreas verdes del distrito para garantizar la calidad de vida.",
+            "objective": "Incrementar las áreas verdes y la arborización del distrito mediante un plan de plantación de especies adecuadas.",
+            "goal": "Plantar 10,000 nuevos árboles para el año 2030.",
+            "indicator": "Nuevos árboles."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana y ocurrencia de delitos vinculados a la población flotante y la concentración de comercios.",
+            "objective": "Reducir la incidencia delictiva mediante la modernización integral del serenazgo, con patrullaje inteligente, analítica predictiva y monitoreo georreferenciado.",
+            "goal": "Reducir en un 40% los delitos de oportunidad para el año 2030.",
+            "indicator": "Delitos de oportunidad."
+          },
+          {
+            "problem": "Existencia de burocracia administrativa, procesos lentos y una limitada digitalización en la gestión municipal.",
+            "objective": "Modernizar la gestión municipal e implementar el gobierno digital, digitalizando el 100% de los trámites y servicios como licencias, pagos y expedientes.",
+            "goal": "Alcanzar el 90% de trámites digitales para el año 2030.",
+            "indicator": "Trámites digitales."
+          },
+          {
+            "problem": "Necesidad de una mayor transparencia en el uso de los recursos públicos y la ejecución de proyectos.",
+            "objective": "Incrementar la transparencia institucional a través de la implementación de un portal de obras en tiempo real y una plataforma de presupuesto abierto.",
+            "goal": "Publicar en línea el 100% de las obras para el año 2030.",
+            "indicator": "Obras publicadas en línea."
+          },
+          {
+            "problem": "Creciente demanda de la ciudadanía por espacios de participación en las decisiones del gobierno local.",
+            "objective": "Fortalecer la participación ciudadana mediante la realización de reuniones descentralizadas, cabildos digitales y una escuela de liderazgo vecinal.",
+            "goal": "Lograr más de 10,000 participaciones ciudadanas anuales para el año 2030.",
+            "indicator": "Participación ciudadana anual."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-GpDLFWxBgb4SUVNpNGo3PyyVH2UrvkxU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GpDLFWxBgb4SUVNpNGo3PyyVH2UrvkxU",
+      "sha256": "0544a2cc2e2dcc4dff3357f2e4a9e96dbbdbfdf1c6d2c65a43df38a544c5c53d",
+      "accessedAt": "2026-10-02T22:59:59.420Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016838",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016838",
+      "sha256": "ad4258c267f2bcb3311ce3f17586daa028cfbb80fa3f1792857db38ddf40043c",
+      "accessedAt": "2026-10-02T23:00:00.081Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

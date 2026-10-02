@@ -1,0 +1,223 @@
+{
+  "id": "OwMpUtBuidBTCc3ABJGKyxV-BpH5eZob",
+  "slug": "cesar-efrain-sifuentes-chavez",
+  "electionId": "erm-2026",
+  "name": "Cesar Efrain Sifuentes Chavez",
+  "givenNames": "Cesar Efrain",
+  "surnames": "Sifuentes Chavez",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 3046,
+    "name": "COOPERACION, VERDAD Y HONRADEZ"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:41.822Z",
+      "sourceId": "jne-hv-OwMpUtBuidBTCc3ABJGKyxV-BpH5eZob"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "Instituto Pedagogico Manuel Gonzales Prada",
+        "program": "Historia y Geografía",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad José Carlos Mariátegui",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad José Carlos Mariátegui",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CEBA3043 RAMON CASTILLA",
+      "role": "PROFESOR",
+      "from": "1993",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "JUNTOS POR EL PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 38400,
+        "public": 38400,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 120000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "20330146860 - EMPRESA DE TRANSPORTES Y SERVICIOS 29 DE JUNIO S.A.",
+        "type": "ACCIONES",
+        "quantity": 4,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bb04a803-860f-44c8-a3eb-f14a87c5b686.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0561ea92-cc0f-405c-beef-fa6bc8b1dc8b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Atención insuficiente a la población en situación de vulnerabilidad.",
+            "objective": "Ampliar la cobertura de los servicios sociales municipales para la población vulnerable.",
+            "goal": "Incrementar en un 50% el número de beneficiarios de los servicios sociales.",
+            "indicator": "Incremento del número de beneficiarios atendidos."
+          },
+          {
+            "problem": "Inseguridad ciudadana que afecta la calidad de vida y la convivencia vecinal en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana y promover la convivencia vecinal pacífica.",
+            "goal": "Reducir en un 30% la percepción de inseguridad al 2030.",
+            "indicator": "Reducción de la percepción de inseguridad."
+          },
+          {
+            "problem": "Déficit de espacios públicos y recreativos adecuados para el esparcimiento de la comunidad.",
+            "objective": "Recuperar y mejorar los espacios públicos y recreativos del distrito.",
+            "goal": "Recuperar 150,000 m² de espacios públicos.",
+            "indicator": "Metros cuadrados (m²) de espacios públicos recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades laborales para los residentes del distrito.",
+            "objective": "Fortalecer la empleabilidad local a través de programas de capacitación.",
+            "goal": "Beneficiar a 15,000 vecinos mediante programas de empleabilidad.",
+            "indicator": "Número de beneficiarios de programas laborales."
+          },
+          {
+            "problem": "Alta informalidad económica que limita el crecimiento de los negocios locales.",
+            "objective": "Promover la formalización empresarial en el distrito.",
+            "goal": "Formalizar 10,000 emprendimientos y pequeños negocios.",
+            "indicator": "Número de emprendimientos formalizados."
+          },
+          {
+            "problem": "Infraestructura comercial insuficiente y desactualizada.",
+            "objective": "Modernizar los espacios económicos para mejorar la competitividad.",
+            "goal": "Modernizar 15 mercados.",
+            "indicator": "Número de mercados modernizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes que afecta la calidad ambiental del distrito.",
+            "objective": "Incrementar la infraestructura verde urbana.",
+            "goal": "Recuperar 150,000 m² de áreas verdes.",
+            "indicator": "Metros cuadrados (m²) de áreas verdes recuperados."
+          },
+          {
+            "problem": "Gestión insuficiente de los residuos sólidos generados en el distrito.",
+            "objective": "Fortalecer los programas de reciclaje y valorización de residuos sólidos.",
+            "goal": "Alcanzar el 40% de residuos valorizados.",
+            "indicator": "Porcentaje de residuos valorizados."
+          },
+          {
+            "problem": "Existencia de espacios públicos degradados que impactan negativamente en el entorno urbano.",
+            "objective": "Recuperar los espacios críticos y degradados del distrito.",
+            "goal": "Recuperar el 100% de los espacios críticos.",
+            "indicator": "Porcentaje de espacios críticos recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procedimientos administrativos lentos y burocráticos en la municipalidad.",
+            "objective": "Modernizar la gestión municipal para simplificar los trámites.",
+            "goal": "Digitalizar el 80% de los principales procedimientos municipales.",
+            "indicator": "Porcentaje de procedimientos municipales digitalizados."
+          },
+          {
+            "problem": "Déficit de transparencia en la información sobre la gestión municipal.",
+            "objective": "Fortalecer la transparencia institucional activa.",
+            "goal": "Alcanzar el 100% de cumplimiento en la publicación de información de transparencia activa.",
+            "indicator": "Nivel de cumplimiento de la normativa de transparencia activa."
+          },
+          {
+            "problem": "Participación ciudadana limitada en la toma de decisiones y fiscalización de la gestión.",
+            "objective": "Fortalecer los mecanismos de participación ciudadana.",
+            "goal": "Lograr una cobertura distrital integral de la participación ciudadana.",
+            "indicator": "Cobertura de la participación ciudadana en el distrito."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-OwMpUtBuidBTCc3ABJGKyxV-BpH5eZob",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/OwMpUtBuidBTCc3ABJGKyxV-BpH5eZob",
+      "sha256": "bf58bd866ad09808c1e8894cec6c0e36b7bab89f3c9acb6c3f6f750c8b9c998f",
+      "accessedAt": "2026-10-02T23:04:41.822Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021771",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021771",
+      "sha256": "38442927d27db49b0076f6a1f145d79b3fc5b4b3cd3bb8198f7a82a84d9e4f0e",
+      "accessedAt": "2026-10-02T23:04:42.413Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

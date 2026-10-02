@@ -1,0 +1,191 @@
+{
+  "id": "wZSfRarzl5M7PikCA1kBDPDde8C826QK",
+  "slug": "gabriela-huamani-aliaga",
+  "electionId": "erm-2026",
+  "name": "Gabriela Huamani Aliaga",
+  "givenNames": "Gabriela",
+  "surnames": "Huamani Aliaga",
+  "age": 47,
+  "gender": "Femenino",
+  "party": {
+    "id": 2895,
+    "name": "PARTIDO DEMOCRATA VERDE"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:41.135Z",
+      "sourceId": "jne-hv-wZSfRarzl5M7PikCA1kBDPDde8C826QK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "Abogada",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA TOYOTA - MODELO HILUX",
+        "value": 5000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9ecaf93b-27d5-48c1-a79e-9134654d26b3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f9f78a57-66b9-4c6a-bffb-9b42f571828d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios de salud, especialmente para la población vulnerable, y una brecha asistencial médica significativa.",
+            "objective": "Fortalecer el sistema de salud local mediante la implementación de programas de salud preventiva y recuperativa, el uso de telemedicina, y la recuperación y equipamiento del Hospital Municipal para que opere como una institución de nivel 3.",
+            "goal": "Reducir la brecha asistencial médica al 0% y lograr que el Hospital Municipal de Los Olivos funcione como una institución hospitalaria de nivel 3.",
+            "indicator": "Porcentaje de reducción de la brecha asistencial médica, nivel de categorización del Hospital Municipal, número de campañas de salud realizadas."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana, manifestados en delincuencia común, pandillaje y comercialización de drogas.",
+            "objective": "Implementar un sistema integral de seguridad ciudadana que incluya postes y patrulleros inteligentes, drones, y un cuerpo de serenos capacitado, en coordinación con la Policía Nacional y otras instituciones, para garantizar una respuesta inmediata y efectiva ante actos delictivos.",
+            "goal": "Instalar 500 postes inteligentes, reclutar 1000 serenos y desplegar 50 patrulleros inteligentes y 50 motocicletas en los 20 cuadrantes del distrito.",
+            "indicator": "Número de postes inteligentes instalados, número de serenos reclutados y capacitados, tiempo de respuesta a emergencias."
+          },
+          {
+            "problem": "Falta de estímulos y oportunidades educativas y de desarrollo para los jóvenes, lo que incrementa su vulnerabilidad al riesgo social como la delincuencia.",
+            "objective": "Crear y poner en funcionamiento el Instituto Tecnológico Municipal, implementar un programa de becas para jóvenes emprendedores y promover programas de recuperación de jóvenes en riesgo a través del deporte, el arte y la cultura.",
+            "goal": "Otorgar un total de 50 becas municipales integrales, financiadas mediante el sistema de obras por impuestos.",
+            "indicator": "Creación del Instituto Tecnológico Municipal, número de becas otorgadas, número de jóvenes participantes en programas de recuperación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja competitividad y limitado acceso a financiamiento y tecnología por parte de las micro, pequeñas y medianas empresas (MYPES) del distrito.",
+            "objective": "Fortalecer el desarrollo de las MYPES proporcionando soluciones tecnológicas, implementando un sistema de información para nuevos emprendimientos y creando una entidad financiera municipal que facilite el acceso al crédito.",
+            "goal": "Crear \"La Caja Municipal de Ahorro y Crédito de Los Olivos\" con un capital inicial de 7.5 millones de soles.",
+            "indicator": "Creación de la Caja Municipal de Ahorro y Crédito, número de MYPES beneficiadas con programas de apoyo, implementación de un sistema de información empresarial."
+          },
+          {
+            "problem": "Alta presencia de comercio informal debido a la pobreza y la falta de oportunidades, generando desorden y evasión tributaria.",
+            "objective": "Impulsar la incorporación gradual del comercio informal a la economía formal, asegurando el abastecimiento competitivo y ordenado del municipio mediante la reubicación del comercio ambulatorio en futuros mercados municipales.",
+            "goal": "Formalizar el comercio ambulatorio mediante un proceso dialogante y su reubicación en mercados municipales ordenados.",
+            "indicator": "Porcentaje de comerciantes informales formalizados, número de mercados municipales habilitados para la reubicación."
+          },
+          {
+            "problem": "Desaprovechamiento del potencial turístico del distrito por la falta de una oferta de productos de calidad y el deterioro de monumentos arqueológicos.",
+            "objective": "Potenciar el desarrollo integral del turismo ofreciendo productos de calidad, rentables y competitivos, y gestionar la restauración de los monumentos arqueológicos y patrimonios para promover un turismo responsable que genere una derrama económica en el municipio.",
+            "goal": "Gestionar con el ministerio correspondiente el cuidado y restauración de los monumentos arqueológicos y patrimonios de la humanidad del distrito.",
+            "indicator": "Incremento de la derrama económica por turismo, número de monumentos arqueológicos restaurados, creación de circuitos turísticos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos, con una falta de sensibilización y masificación de la segregación en la fuente.",
+            "objective": "Mejorar la gestión ambiental implementando un sistema municipal de recolección de residuos sólidos por segregación, a través de programas de sensibilización y la colocación de puntos estratégicos de recolección.",
+            "goal": "Colocar puntos estratégicos de recolección con 4 contenedores (papel, vidrio, plástico y orgánicos) en espacios públicos, acompañado de un programa de beneficios tributarios para los vecinos.",
+            "indicator": "Implementación del sistema de recolección por segregación, número de puntos estratégicos de recolección instalados, toneladas de residuos sólidos segregados."
+          },
+          {
+            "problem": "Contaminación y degradación de recursos naturales, especialmente en las riberas del río Chillón y áreas aledañas.",
+            "objective": "Rehabilitar los recursos naturales degradados mediante la implementación de proyectos con visión productiva y de sustentabilidad para mejorar las condiciones ambientales y la calidad de vida de los habitantes de la cuenca del río Chillón.",
+            "goal": "Implementar proyectos integrales que mejoren las condiciones ambientales y de calidad de vida de los habitantes de la cuenca del río Chillón.",
+            "indicator": "Número de proyectos de recuperación implementados en la cuenca del río Chillón, mejora en los índices de calidad ambiental del área."
+          },
+          {
+            "problem": "Déficit y mal estado de áreas verdes, parques y espacios públicos para la recreación en el distrito.",
+            "objective": "Generar y recuperar áreas verdes, parques y espacios públicos, implementando riego tecnificado para optimizar el uso del recurso hídrico y creando parques temáticos para el esparcimiento familiar y el aprendizaje lúdico.",
+            "goal": "Mejorar los índices de área verde por habitante acorde a la normatividad y crear parques temáticos en cada zona del distrito.",
+            "indicator": "Índice de área verde por habitante, número de parques temáticos creados, porcentaje de áreas verdes con riego tecnificado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión municipal ineficiente y excesiva burocracia en los trámites administrativos, generando malestar en los contribuyentes.",
+            "objective": "Simplificar y fortalecer los procedimientos administrativos en todas las dependencias municipales para garantizar la efectividad, eficiencia y celeridad en la prestación de servicios al ciudadano.",
+            "goal": "Garantizar la efectividad y eficiencia en la prestación de los servicios al ciudadano a través de la simplificación de los procedimientos administrativos.",
+            "indicator": "Reducción del tiempo promedio de los trámites municipales, nivel de satisfacción ciudadana con los servicios públicos."
+          },
+          {
+            "problem": "Bajos niveles de transparencia en la gestión pública y escasa participación ciudadana, lo que contribuye a la percepción de corrupción.",
+            "objective": "Fortalecer la transparencia y la confianza ciudadana implementando sistemas tecnológicos de seguimiento de proyectos, gastos y obras, y facilitando el acceso a la información gubernamental para promover una sociedad crítica y participativa.",
+            "goal": "Mantener continuamente informada a la ciudadanía sobre la gestión municipal para dar cumplimiento a la ley y fortalecer la gobernabilidad.",
+            "indicator": "Implementación de sistemas tecnológicos de seguimiento de la gestión, número de canales de acceso a la información pública, grado de participación ciudadana en la fiscalización."
+          },
+          {
+            "problem": "Rezago en la recaudación del impuesto predial y desactualización del catastro, afectando la equidad fiscal y los ingresos municipales.",
+            "objective": "Modernizar los sistemas de catastro urbano y generar mayores ingresos para el municipio, abatiendo el rezago en la recaudación a través de campañas de educación y recuperación del ejercicio pleno de la ciudadanía.",
+            "goal": "Actualizar la base de datos de los certificados de catastro a nivel distrital para asegurar la equidad en la recaudación fiscal.",
+            "indicator": "Porcentaje de actualización de la base de datos del catastro, incremento en la recaudación del impuesto predial."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-wZSfRarzl5M7PikCA1kBDPDde8C826QK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/wZSfRarzl5M7PikCA1kBDPDde8C826QK",
+      "sha256": "ea884332f3e5d6860a7fa33fc498477d35d0ce32966f241ff1dfa2b33cac18a4",
+      "accessedAt": "2026-10-02T22:58:41.135Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026013894",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026013894",
+      "sha256": "fa3cc8657e71c3096f90259691c5f9be892dc1bfff7e01c12b2a8a0402ebdd0e",
+      "accessedAt": "2026-10-02T22:58:41.688Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

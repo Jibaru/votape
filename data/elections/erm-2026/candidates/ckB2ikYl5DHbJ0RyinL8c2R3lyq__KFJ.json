@@ -1,0 +1,262 @@
+{
+  "id": "ckB2ikYl5DHbJ0RyinL8c2R3lyq__KFJ",
+  "slug": "ingrid-alcarraz-guia",
+  "electionId": "erm-2026",
+  "name": "Ingrid Alcarraz Guia",
+  "givenNames": "Ingrid",
+  "surnames": "Alcarraz Guia",
+  "age": 40,
+  "gender": "Femenino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:25.185Z",
+      "sourceId": "jne-hv-ckB2ikYl5DHbJ0RyinL8c2R3lyq__KFJ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "NORBERT WIENER",
+        "program": "PROFESIONAL TÉCNICO EN COMPUTACIÓN E INFORMÁTICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INGENIEROS & CONSULTORES TRANSPORT SAC.",
+      "role": "GERENTE GENERAL",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "MINSTERIO DEL INTERIOR",
+      "role": "SUBPREFECTO DISTRITAL DE SANTA ANITA",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PERU POSIBLE",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 3600,
+        "public": 0,
+        "private": 3600
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 235766,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 9660,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO CARGA",
+        "value": 5000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 70000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "SI, CUENTO CON UN TERRENO UBICADO EN EL DISTRITO DE CHILCA, PROVINCIA DE CAÑETE, EL CUAL CUENTA SÓLO CON CONTRATO NOTARIAL Y NO CUENTA CON AUTOVALUO MUNICIPAL Y NO ESTÁ EN REGISTOS PUBLÍCOS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fdceabeb-64a1-46d3-b1c0-1d622367e5eb.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0e24f57c-a670-4f7d-b228-ecb9acd31ef4.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Distrito altamente vulnerable frente a los eventos naturales como sismos.",
+            "objective": "Diseñar e implementar un Plan Integral de Prevención de Riesgo de Desastre articulando a los diferentes niveles del SINAGERD con acciones conjuntas y complementarias.",
+            "goal": "Tratamiento de zonas de alto riesgo no mitigable y de alto riesgo.",
+            "indicator": "2 zonas"
+          },
+          {
+            "problem": "Deficiente servicio de cuidado para las mascotas del distrito.",
+            "objective": "Promover el bienestar y protección animal mediante acciones de prevención, tenencia responsable y mejorar los servicios municipales orientados al cuidado animal",
+            "goal": "Implementar el programa “Mi Mascota”. Crear el Centro Municipal de Bienestar y Salud Animal que incluya entre sus servicios; emergencias veterinarias. Establecer acciones de atención de animales en situación de abandono Y registro municipal de mascotas. Realizar campañas permanentes de vacunación y esterilización.",
+            "indicator": "Centro Municipal De Bienestar y Salud Animal"
+          },
+          {
+            "problem": "Existe personas de la tercera edad sin vínculo familiar, con dificultades para acceder a espacios adecuados para recreación, actividad física e integración social.",
+            "objective": "Promover el envejecimiento activo, saludable y digno de los adultos mayores de Santa Anita, fortaleciendo su participación social, el acceso a servicios preventivo, actividades recreativas y espacios públicos seguros e inclusivos.",
+            "goal": "Fortalecer el CIAM e incrementar la participación de adultos mayores en programas recreativos, culturales y deportivos. Crear el “Programa Guardianes de la Historia de Santa Anita” donde los fundadores participen en proyectos de memoria histórica del distrito.",
+            "indicator": "50% más de adultos mayores participantes"
+          },
+          {
+            "problem": "Acceso deficiente y no oportuno al sistema de salud.",
+            "objective": "Fortalecer un Sistema de ambulancia con el principio de solidaridad interinstitucional.",
+            "goal": "Establecer un convenio de acciones conjuntas para traslado de pacientes entre: Municipalidad, instituciones de salud públicas y privadas y la Compañía de Bomberos, adquisición de ambulancias",
+            "indicator": "2 ambulancias"
+          },
+          {
+            "problem": "Ausencia de planes y programas que contribuyan al desarrollo social de la población",
+            "objective": "Ausencia de planes y programas que contribuyan al desarrollo social de la población Establecer espacios de diálogo y participación, para que los jóvenes expresen su demandas y aspiraciones, de emprendimiento, empleo y desarrollo.",
+            "goal": "Conformar el Concejo Municipal de la Juventud. Establecer los Talleres de Presupuesto Participativo Anual de Niños y Jóvenes.",
+            "indicator": "% de jóvenes participantes"
+          },
+          {
+            "problem": "Insuficientes oportunidades de capacitaciones técnicas y escasas posibilidades de la juventud de alcanzarlas.",
+            "objective": "Promover Convenios con Instituciones Educativas Superiores para la capacitación técnica y superior de los jóvenes del distrito. Conformar un Patronato de Becas para jóvenes destacados.",
+            "goal": "Incrementar el número de jóvenes con capacitación técnica mínimamente en un 30%.",
+            "indicator": "3 convenios educativos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de mantenimiento y rehabilitación de pistas y veredas",
+            "objective": "Mejoramiento de vías locales las pistas y veredas en mal estado.",
+            "goal": "“Programa Bache Cero” Alcanzar con el programa el parchado rápido del 80% de pistas y veredas para un buen estado.",
+            "indicator": "1 programa"
+          },
+          {
+            "problem": "Deficiente transitabilidad vehicular hacia Lima centro, y otros distritos de la capital, que como consecuencia se tiene una pérdida alta de horas-hombre.",
+            "objective": "Gestionar, mejorar y rehabilitar tramo correspondiente a la Carretera Central y vías de acceso metropolitanas: Av. César Vallejo (puente Atarjea), Av. Huarochirí, vías adyacentes al Anillo Vial Periférico (Av. 22 de Julio)",
+            "goal": "Gestión y convenio con la Municipalidad Metropolitana de Lima para la ampliación y modernización de las vías metropolitanas Av. Cesar Vallejo (Puente Atarjea).",
+            "indicator": "3 acciones"
+          },
+          {
+            "problem": "Ausencia de actividades económicas generadoras de empleo.",
+            "objective": "Ausencia de actividades económicas generadoras de empleo. Reactivación de la actividad turística del distrito, asumiendo compromisos orientados al fomento y la promoción del turismo.",
+            "goal": "Institucionalizar el Programa “Turismo Santa Anita\" de Turismo Cultural y Medio Ambiental. Promover la constitución de la Asociación de Desarrollo Turístico del Distrito. Capacitación de todas las instancias vinculadas a la actividad turística distrital",
+            "indicator": "1 programa"
+          },
+          {
+            "problem": "Alto porcentaje de comercios sin capacitación",
+            "objective": "Implementar un programa de fortalecimiento de emprendedores y MYPES que permita mejorar sus capacidades empresariales, tecnológicas y financieras.",
+            "goal": "“Programa Santa Anita Emprende”; lograr la capacitación de emprendedores y MYPES del distrito.",
+            "indicator": "1 programa"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Incremento de la generación de residuos sólidos urbanos que contaminan el medio ambiente o atentando contra la conservación del medio ambiente y el desarrollo sostenible.",
+            "objective": "Reducción del volumen de residuos sólidos, incrementando la reutilización y reciclaje, contribuyendo a la conservación del medio ambiente.",
+            "goal": "Programa “Santa Anita Recicla”; Incrementar y repotenciar los alcances del Programa de Segregación en la fuente y recolección selectiva de residuos sólidos.",
+            "indicator": "1 programa"
+          },
+          {
+            "problem": "Escasez de espacios que fortalezcan la interacción ciudadana debido a estructura deteriorada, equipamiento insuficiente y escasos espacios recreativos diferenciados.",
+            "objective": "Recuperar y modernizar los espacios públicos mediante implementación de parques urbanos temáticos inclusivos, seguros y sostenibles.",
+            "goal": "Implementar progresivamente parques modernos y accesibles, equipados con infraestructura recreativa, deportiva, cultural y ambiental, que promuevan la espacios públicos.",
+            "indicator": "5 Zonas"
+          },
+          {
+            "problem": "Contaminación ambiental regadío de áreas verdes con aguas sin tratamiento del rio Surco",
+            "objective": "Riego de áreas verdes y parques con agua tratadas del rio Surco.",
+            "goal": "Implementación de una planta de tratamiento de aguas para regadío. Riego tecnificado de áreas verdes.",
+            "indicator": "1 PTAR municipal (para regadío)"
+          },
+          {
+            "problem": "Deficiente mantenimiento del ornato y de las áreas verde en algunos sectores del distrito",
+            "objective": "Alcanzar un eficiente mantenimiento del ornato y de las áreas verdes del distrito en su totalidad.",
+            "goal": "Lograr el buen mantenimiento de las áreas verdes del distrito.",
+            "indicator": "98%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de modernización de la atención municipal para realizar trámites administrativos y pagos de tributos.",
+            "objective": "Mejorar la atención municipal mediante la tecnología para realizar trámites administrativos comunes y de tributación.",
+            "goal": "Implementación de plataformas digitales de atención ciudadana y aplicativos que permite acceder a la información de las diferentes áreas administrativas.",
+            "indicator": "Plataforma actualizada"
+          },
+          {
+            "problem": "Deficientes servicios y carencia integrativa con la sociedad civil del Sistema de Serenazgo.",
+            "objective": "Mejorar los servicios, integrando a la sociedad civil organizada en los procesos de intervenciones y control.",
+            "goal": "Programa “Rondas Urbanas”; convenir con la Sociedad Civil organizada según distribución geográfica de las Unidades de Serenazgo, los espacios físicos que serán usados como base.",
+            "indicator": "1 programa"
+          },
+          {
+            "problem": "Crisis institucional en la Municipalidad de Santa Anita",
+            "objective": "Elaborar proyectos de inversión pública priorizados por la población organizada a través de los Talleres de Presupuesto Participativo.",
+            "goal": "Implementación y funcionamiento de las Oficinas Descentralizadas de Proyectos a través de las agencias municipales. Ejecutar los proyectos priorizados a través del Presupuesto Participativo.",
+            "indicator": "1 agencia municipal descentralizada - 1 unidad ejecutora anticorrupción"
+          },
+          {
+            "problem": "ineficiente ejecución presupuestal para proyectos de inversión ante el MEF y deficientes servicios a los ciudadanos",
+            "objective": "Modernizar la administración municipal, para mejorar la ejecución presupuestal para proyectos de inversión de la municipalidad, con eficacia y eficiencia",
+            "goal": "Ejecución presupuestal para proyectos de inversión sobre el 95%, Contar con funcionarios y personal idóneo, con capacidad para el desempeño de sus funciones. Mejorar la cobertura de los servicios, optimizando costos.",
+            "indicator": "Ejecución presupuestal en proyectos de inversión pública mínima del 95%"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ckB2ikYl5DHbJ0RyinL8c2R3lyq__KFJ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ckB2ikYl5DHbJ0RyinL8c2R3lyq__KFJ",
+      "sha256": "124ece2217cffb4efc3930a63b799ec9796241da9e5dfa04e7c65eaef2b28254",
+      "accessedAt": "2026-10-02T23:05:25.185Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020485",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020485",
+      "sha256": "a3040193448c91faf0d2b5658afd0ba11cb1497e36b7f274c47aca71622e349c",
+      "accessedAt": "2026-10-02T23:05:25.841Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

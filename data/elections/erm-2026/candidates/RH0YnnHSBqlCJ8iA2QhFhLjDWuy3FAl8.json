@@ -1,0 +1,176 @@
+{
+  "id": "RH0YnnHSBqlCJ8iA2QhFhLjDWuy3FAl8",
+  "slug": "paul-dino-carrasco-salazar",
+  "electionId": "erm-2026",
+  "name": "Paul Dino Carrasco Salazar",
+  "givenNames": "Paul Dino",
+  "surnames": "Carrasco Salazar",
+  "age": 34,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:59.035Z",
+      "sourceId": "jne-hv-RH0YnnHSBqlCJ8iA2QhFhLjDWuy3FAl8"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "RELACIONISTA PUBLICO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 0,
+        "private": 30000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 507.45,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1dcb14e7-a51c-4ab8-82ca-8ea36dde9bd8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d2b163b1-b568-455b-8cc5-cff06bd4a633.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevados índices de inseguridad ciudadana, caracterizados por el incremento de actos delincuenciales como robos, asesinatos y extorsiones.",
+            "objective": "Implementar el Plan VILLA SEGURA, basado en el control territorial para disuadir el delito, recuperar el espacio público y devolver la tranquilidad a las zonas vulnerables del distrito.",
+            "goal": "Recuperar el control de los territorios tomados por la delincuencia, generando espacios de sana convivencia y mejorando la calidad de vida de los pobladores.",
+            "indicator": "Implementación de un sistema de zonificación y mapeo de riesgo, número de cámaras de alta resolución instaladas y unidades de patrullaje permanente por zona."
+          },
+          {
+            "problem": "Deficiente calidad educativa y carencia de un proyecto educativo local actualizado que responda a las necesidades de la comunidad.",
+            "objective": "Promover la actualización, implementación y desarrollo del Proyecto Educativo Local de Villa El Salvador, con la participación de la comunidad educativa y la sociedad civil.",
+            "goal": "Repotenciar las potencialidades educativas del distrito, dando respuesta a las necesidades reales y concretas que se expresan en la comunidad.",
+            "indicator": "Proyecto Educativo Local actualizado e implementado, y número de instituciones educativas beneficiadas con programas de apoyo."
+          },
+          {
+            "problem": "Infraestructura deportiva antigua, descuidada y con una oferta limitada de disciplinas, junto a la ausencia de una política municipal de promoción del deporte.",
+            "objective": "Recuperar y modernizar la infraestructura deportiva existente, como losas y el Coliseo de la Paz, e implementar nuevos centros polideportivos para diversificar la oferta deportiva.",
+            "goal": "Fomentar una cultura deportiva en la comunidad para promover la formación de ciudadanos íntegros con buena salud física, mental y socioemocional.",
+            "indicator": "Número de losas deportivas modernizadas, centros polideportivos implementados y organización de olimpiadas escolares."
+          },
+          {
+            "problem": "Alta demanda de servicios de salud que supera la capacidad de la infraestructura actual, con falta de especialistas y equipamiento, y alta prevalencia de enfermedades.",
+            "objective": "Centrar los esfuerzos en la prevención y promoción de la salud, mediante el trabajo coordinado con promotoras y centros de salud, y la realización de campañas educativas.",
+            "goal": "Lograr que la ciudadanía tome conciencia sobre la necesidad de acudir a chequeos preventivos para reducir la prevalencia de las enfermedades más comunes.",
+            "indicator": "Número de campañas educativas de salud realizadas y ejecución de programas de vigilancia sanitaria en establecimientos de expendio de alimentos."
+          },
+          {
+            "problem": "Vulnerabilidad y falta de atención a las necesidades de la población de adultos mayores y personas con discapacidad.",
+            "objective": "Impulsar los programas para personas con discapacidad y adultos mayores, dotando de mayores espacios como los Centros Integrales del Adulto Mayor (CIAM) de manera descentralizada.",
+            "goal": "Facilitar el acceso de las personas adultas mayores y con discapacidad a los servicios brindados por la municipalidad, protegiendo sus derechos y dignidad.",
+            "indicator": "Construcción y habilitación de Centros Integrales del Adulto Mayor (CIAM) descentralizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desorden en el comercio urbano que genera inseguridad y trámites administrativos engorrosos que desincentivan la formalización de los emprendimientos.",
+            "objective": "Promover y fomentar el emprendimiento facilitando los trámites para la obtención de licencias de funcionamiento y desarrollar programas de capacitación en gestión empresarial.",
+            "goal": "Contribuir al desarrollo económico local y de las familias emprendedoras, dotando de capacidades para hacer más eficientes y competitivas sus iniciativas empresariales.",
+            "indicator": "Número de programas de capacitación en gestión empresarial, liderazgo, tributación y contabilidad implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión y recolección de residuos sólidos, con acumulación de basura en la periferia y calles del distrito debido a la falta de un plan adecuado.",
+            "objective": "Resolver el problema de la recogida de residuos sólidos a través de un trabajo organizado y planificado, aplicando un plan que establezca rutas, frecuencias y horarios de recolección.",
+            "goal": "Recoger las más de 400 toneladas de basura que se producen diariamente en el distrito y complementar con un servicio de barrido de calles y avenidas.",
+            "indicator": "Implementación de un plan de recolección de residuos sólidos y un programa de recolección selectiva."
+          },
+          {
+            "problem": "Contaminación por excretas de mascotas en calles, parques y alamedas debido a la tenencia no responsable, generando un problema sanitario.",
+            "objective": "Iniciar un plan de educación ciudadana para generar conciencia sobre la tenencia responsable de mascotas e implementar centros municipales de rescate y protección animal.",
+            "goal": "Lograr un cambio favorable en la tenencia de mascotas para salvaguardar la salud pública y el entorno urbano.",
+            "indicator": "Implementación de un plan de educación ciudadana y centros de rescate animal con programas de esterilización y adopción."
+          },
+          {
+            "problem": "Contaminación sonora generada por el uso indiscriminado de cláxones y equipos de sonido a alto volumen por parte de los vehículos.",
+            "objective": "Realizar un programa de educación y concientización para evitar los ruidos molestos, seguido de la aprobación de una ordenanza para sancionar a los infractores.",
+            "goal": "Cambiar los malos hábitos relacionados con los ruidos molestos a través de la educación y la regulación municipal.",
+            "indicator": "Implementación de un programa de educación y concientización sobre contaminación sonora y aprobación de una ordenanza municipal sancionadora."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de trabas burocráticas, mala atención al contribuyente y ausencia de avances en la digitalización de la administración municipal.",
+            "objective": "Iniciar el proceso de digitalización de la administración municipal, modernizar los procedimientos para erradicar el uso de papel y actualizar el TUPA para agilizar los trámites.",
+            "goal": "Brindar un servicio eficiente a los ciudadanos, agilizando los trámites y mejorando la atención al contribuyente.",
+            "indicator": "Implementación del proceso de digitalización, modernización de procedimientos y actualización del Texto Único de Procedimientos Administrativos (TUPA)."
+          },
+          {
+            "problem": "Falta de capacitación y sensibilización del personal municipal sobre su rol como servidores públicos, tanto en áreas administrativas como de campo.",
+            "objective": "Implementar un programa de capacitación permanente para el personal administrativo y de campo, con el fin de sensibilizar sobre su conducta y rol de servidor público.",
+            "goal": "Inculcar la ética y la moral en el funcionario público, promoviendo el respeto, la transparencia y la imparcialidad para mejorar la calidad del servicio.",
+            "indicator": "Ejecución de un programa de capacitación permanente para el personal municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-RH0YnnHSBqlCJ8iA2QhFhLjDWuy3FAl8",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/RH0YnnHSBqlCJ8iA2QhFhLjDWuy3FAl8",
+      "sha256": "9daf5a5f47d277f8d7a9794377d706125e6af83b7665a9441f16150a11645a5c",
+      "accessedAt": "2026-10-02T23:06:59.035Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021204",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021204",
+      "sha256": "1e9f7a7a9962ef5f4e78c83574163c19e03772258cef696f46f7a9055ee9c3f8",
+      "accessedAt": "2026-10-02T23:06:59.714Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

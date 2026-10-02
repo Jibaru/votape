@@ -1,0 +1,209 @@
+{
+  "id": "z1mgEq7MLOKiUkO4p1MfFr3YkQMEBMLk",
+  "slug": "juan-carlos-medina-morillo",
+  "electionId": "erm-2026",
+  "name": "Juan Carlos Medina Morillo",
+  "givenNames": "Juan Carlos",
+  "surnames": "Medina Morillo",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:21.002Z",
+      "sourceId": "jne-hv-z1mgEq7MLOKiUkO4p1MfFr3YkQMEBMLk"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "Instituto de Desarrollo Gerencial",
+        "program": "Administración de Seguridad Industrial",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MR INNOVA SAC",
+      "role": "CEO",
+      "from": "2017",
+      "to": "2023"
+    },
+    {
+      "employer": "SODEXO PERU SAC",
+      "role": "JEFE DE MANTENIMIENTO",
+      "from": "2007",
+      "to": "2011"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 40015144,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/51427888-f341-49b3-a192-473668664d57.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b87429f1-30d2-44a7-a9e2-448d67ad38e3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevada prevalencia de anemia infantil, superando el 30% en zonas vulnerables del distrito.",
+            "objective": "Mejorar los indicadores de salud de la población vulnerable, a través de la capacitación a madres de familia y la movilización de brigadas de salud para contrarrestar la anemia y la desnutrición.",
+            "goal": "Reducir la anemia infantil al 15% para el año 2030.",
+            "indicator": "Porcentaje de niños menores de cinco años con anemia."
+          },
+          {
+            "problem": "Alta incidencia de inseguridad ciudadana, manifestada en pandillaje, asaltos, extorsiones y microcomercialización de droga.",
+            "objective": "Reducir en un 40% la inseguridad ciudadana al 2030 y garantizar la convivencia pacífica en las siete zonas del distrito, mediante la implementación de un plan de videovigilancia, un serenazgo de alto estándar y una oficina de inteligencia municipal.",
+            "goal": "Reducción de la inseguridad en un 40%, instalación de 800 cámaras operativas, 500 serenos activos y 7 ambulancias al 2030.",
+            "indicator": "Número de delitos anuales, número de cámaras operativas y número de serenos activos."
+          },
+          {
+            "problem": "Atención deficiente a personas con discapacidad y adultos mayores, con incumplimiento de la normativa vigente.",
+            "objective": "Mejorar la calidad de vida de las personas con discapacidad y adultos mayores mediante la implementación de Centros de Día, boticas municipales por agencia y la fiscalización del cumplimiento de la Ley N.º 29973.",
+            "goal": "Siete centros de día y siete boticas municipales operativas; 100% de empresas notificadas al 2028.",
+            "indicator": "Número de centros de día operativos, número de boticas municipales implementadas y porcentaje de empresas notificadas sobre la cuota de discapacidad."
+          },
+          {
+            "problem": "Limitada oferta de actividades culturales, deportivas y recreativas, lo que resulta en una escasa participación juvenil.",
+            "objective": "Fomentar el desarrollo humano integral de los villamarianos a través de la creación de infraestructura deportiva y cultural, como un polideportivo, un coliseo y una escuela de artes, además de promover la participación juvenil.",
+            "goal": "Construcción de un polideportivo y un coliseo, implementación de una Escuela de Artes y formación de 500 líderes juveniles al 2030.",
+            "indicator": "Número de jóvenes en programas, número de infraestructuras construidas y número de líderes juveniles formados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Condiciones de pobreza y falta de oportunidades de emprendimiento, especialmente en las zonas altas del distrito.",
+            "objective": "Promover el emprendimiento y combatir la pobreza a través de la construcción de alamedas comerciales, la creación de un centro de emprendimiento y la suscripción de convenios con institutos para la capacitación.",
+            "goal": "Alamedas operativas al 2028, 1,500 personas capacitadas anualmente y 500 emprendimientos formalizados.",
+            "indicator": "Número de alamedas construidas, número de emprendedores beneficiados y número de personas capacitadas por año."
+          },
+          {
+            "problem": "Alta informalidad laboral y comercial, que supera el 70% en el sector informal del distrito.",
+            "objective": "Dinamizar la economía local y formalizar el comercio mediante la simplificación de licencias municipales y la sensibilización sobre las ventajas de la formalización para las micro y pequeñas empresas (MYPE).",
+            "goal": "Alcanzar el 70% de negocios formalizados y generar 2,000 empleos formales para el año 2030.",
+            "indicator": "Porcentaje de negocios formalizados y número de empleos formales generados."
+          },
+          {
+            "problem": "Escaso aprovechamiento del potencial turístico de las Lomas de Villa María y otros atractivos locales.",
+            "objective": "Consolidar el potencial turístico del distrito mediante la creación de un circuito oficial en las Lomas de Villa María, con guías certificados y una estrategia de promoción.",
+            "goal": "Alcanzar 10,000 visitantes por año y certificar a 100 guías turísticos para el año 2030.",
+            "indicator": "Número de visitantes anuales y número de guías formados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Existencia de diversos puntos críticos de acumulación de basura y una gestión deficiente de los residuos sólidos.",
+            "objective": "Implementar un sistema integrado de gestión de residuos sólidos que incluya la formalización de recicladores, la optimización de rutas de recojo y la eliminación de puntos críticos de acumulación.",
+            "goal": "Eliminar todos los puntos críticos y alcanzar una cobertura del 95% del servicio para el año 2030.",
+            "indicator": "Número de puntos críticos de basura activos y porcentaje de cobertura del servicio de recojo de residuos."
+          },
+          {
+            "problem": "Carencia de servicios higiénicos en parques principales y un déficit crítico de áreas verdes por habitante.",
+            "objective": "Mejorar la calidad de los espacios públicos mediante la instalación de servicios higiénicos, un programa masivo de arborización y la protección de las Lomas de Villa María como pulmón verde del distrito.",
+            "goal": "Instalar servicios higiénicos en las siete zonas, plantar 50,000 árboles y proteger 500 hectáreas de lomas para el año 2030.",
+            "indicator": "Número de servicios higiénicos instalados, número de árboles plantados y hectáreas de lomas protegidas."
+          },
+          {
+            "problem": "Desorden urbano generalizado, incluyendo comercio ambulatorio sin control, falta de señalización vial y contaminación sonora.",
+            "objective": "Promover el ordenamiento urbano a través de la señalización vial integral, la regulación del comercio ambulatorio y la implementación de ordenanzas para el control del ruido.",
+            "goal": "Señalizar el 100% de las calles principales y reducir en un 30% la contaminación sonora para el año 2030.",
+            "indicator": "Porcentaje de calles principales señalizadas y número de quejas por contaminación sonora."
+          },
+          {
+            "problem": "Déficit crítico de infraestructura vial y urbana, como pistas, veredas, muros de contención y escaleras, en las siete zonas del distrito.",
+            "objective": "Ejecutar un plan integral de obras de infraestructura vial y urbana para mejorar la transitabilidad, seguridad y calidad de vida, con especial atención a las zonas altas y de riesgo.",
+            "goal": "Ejecutar el plan de obras viales en las siete zonas al 2030 y contar con un diagnóstico vial completo de todas las zonas para el 2027.",
+            "indicator": "Kilómetros de pistas y veredas construidas, número de muros de contención y número de escaleras ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja ejecución presupuestal histórica, con un promedio del 55%, y una alta percepción de corrupción en la gestión municipal.",
+            "objective": "Fortalecer la integridad y la transparencia en la gestión municipal, implementando un canal de denuncias anónimo, realizando auditorías internas y basando la contratación de personal en la meritocracia.",
+            "goal": "Alcanzar una ejecución presupuestal del 85% y lograr cero sanciones por corrupción para el año 2030.",
+            "indicator": "Porcentaje de ejecución presupuestal anual y número de sanciones por corrupción."
+          },
+          {
+            "problem": "Servicios municipales centralizados, con solo un 10% de trámites digitalizados y una brecha digital significativa en las zonas altas.",
+            "objective": "Modernizar la gestión municipal y acercar los servicios al ciudadano, mediante el fortalecimiento y la descentralización de funciones en las agencias municipales, la digitalización de trámites y la expansión de la conectividad a internet.",
+            "goal": "Digitalizar el 80% de los trámites, operar siete agencias modernizadas y proveer internet en las zonas altas para el año 2028.",
+            "indicator": "Porcentaje de trámites digitalizados, porcentaje de trámites resueltos en agencias zonales y cobertura de internet en cerros."
+          },
+          {
+            "problem": "Escasa participación ciudadana y juvenil en los espacios de toma de decisiones del municipio.",
+            "objective": "Fomentar la participación ciudadana y el liderazgo juvenil en la toma de decisiones locales, a través de la asignación del 10% del presupuesto participativo, programas de formación de líderes y la realización de audiencias públicas semestrales.",
+            "goal": "Destinar el 10% al presupuesto participativo, realizar dos audiencias públicas al año y formar 500 líderes juveniles.",
+            "indicator": "Porcentaje del presupuesto asignado con participación ciudadana, número de audiencias públicas realizadas y número de jóvenes activos en programas de liderazgo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-z1mgEq7MLOKiUkO4p1MfFr3YkQMEBMLk",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/z1mgEq7MLOKiUkO4p1MfFr3YkQMEBMLk",
+      "sha256": "2877d2e00a2b740d395e7eb8a3ed6ebae65a21e7b5c508cf7fe7da176b982cae",
+      "accessedAt": "2026-10-02T23:07:21.002Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023021",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023021",
+      "sha256": "cdb6e3192b5d4da664759824bc97fe525085e20611dd05337d106ddba3a7a7e8",
+      "accessedAt": "2026-10-02T23:07:21.582Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

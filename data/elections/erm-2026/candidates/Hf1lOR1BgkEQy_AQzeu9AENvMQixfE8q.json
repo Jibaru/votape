@@ -1,0 +1,237 @@
+{
+  "id": "Hf1lOR1BgkEQy_AQzeu9AENvMQixfE8q",
+  "slug": "ricardo-pablo-belmont-cassinelli",
+  "electionId": "erm-2026",
+  "name": "Ricardo Pablo Belmont Cassinelli",
+  "givenNames": "Ricardo Pablo",
+  "surnames": "Belmont Cassinelli",
+  "age": 81,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:27.548Z",
+      "sourceId": "jne-hv-Hf1lOR1BgkEQy_AQzeu9AENvMQixfE8q"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE LIMA",
+        "program": "BACHILLER EN ADMINISTRACION DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1977"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "RED BICOLOR DE COMUNICACIONES S.A.A.",
+      "role": "EMPRESARIO",
+      "from": "1986",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE PROVINCIAL",
+      "party": "MOVIMIENTO OBRAS",
+      "from": "1993",
+      "to": "1995"
+    },
+    {
+      "office": "ALCALDE PROVINCIAL",
+      "party": "L.I.N° 3 OBRAS",
+      "from": "1990",
+      "to": "1992"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "PRESIDENTE",
+      "party": "PARTIDO CIVICO OBRAS",
+      "from": "2022",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO CIVICO OBRAS",
+      "from": "2022",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45480.28,
+        "public": 0,
+        "private": 45480.28
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "RED BICOLOR DE COMUNICACIONES S.A.A",
+        "type": "ACCIONES",
+        "quantity": 2933498115,
+        "value": 0.01
+      }
+    ]
+  },
+  "additionalInfo": [
+    "MIEMBRO DEL DIRECTORIO DE IPAE (INSTITUTO PERUANO DE ADMINISTRACION DE EMPRESAS), 1989-1991"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e2c6761b-a593-4947-88d5-dc223fb92f34.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2d589116-fe10-490f-8be0-e8304c1be2c5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit habitacional superior a 450,000 unidades, compuesto principalmente por viviendas con materiales precarios, hacinamiento o sin servicios básicos, y consolidación de la autoconstrucción informal en zonas de riesgo.",
+            "objective": "Generar bancos de suelo estatal para proyectos de Vivienda de Interés Social, potenciar subsidios como Techo Propio y Mi Vivienda, e implementar programas masivos de mejoramiento integral de barrios.",
+            "goal": "Habilitar un promedio de 15,000 nuevas hectáreas de suelo urbano formal en la periferia y movilizar recursos anuales superiores a los S/ 3,600 millones en créditos y subsidios habitacionales.",
+            "indicator": "Hectáreas de suelo urbano formal habilitadas anualmente y monto de inversión en créditos y subsidios."
+          },
+          {
+            "problem": "Cerca de 800,000 personas carecen de conexión a la red pública de agua, dependiendo de camiones cisterna con costos elevados y sufriendo una continuidad deficiente del servicio en zonas periféricas.",
+            "objective": "Ejecutar megaproyectos de ampliación de redes de agua y saneamiento a través de SEDAPAL, construir y optimizar Plantas de Tratamiento de Aguas Residuales (PTAR) y aplicar la nueva Política Nacional Multisectorial de Saneamiento.",
+            "goal": "Elevar el acceso seguro a agua potable del 20.7% al 70.5% y el saneamiento del 34.7% al 70.2% para los próximos 25 años.",
+            "indicator": "Porcentaje de acceso seguro a agua potable y saneamiento en términos cualitativos de continuidad y pureza."
+          },
+          {
+            "problem": "Incremento de la delincuencia, extorsión y crimen organizado, agravado por la debilidad institucional y la baja confianza policial.",
+            "objective": "Fortalecer la seguridad ciudadana mediante el patrullaje integrado, el despliegue de tecnología de vigilancia, la promoción de la organización vecinal y la articulación con el Plan Nacional de Seguridad Ciudadana.",
+            "goal": "Reducir la tasa de criminalidad y el tiempo de respuesta del serenazgo a menos de 5 minutos en zonas de alto riesgo.",
+            "indicator": "Tasa de delitos por cada 10,000 habitantes."
+          },
+          {
+            "problem": "Brecha presupuestaria severa en comedores populares y ollas comunes, donde el subsidio estatal por ración (S/ 1.69) es insuficiente frente al costo real de una alimentación saludable (S/ 15.00 diarios).",
+            "objective": "Implementar programas piloto para la compra directa de alimentos por parte de las socias, evitando intermediarios, y realizar la entrega continua de equipamiento como kits de cocina y balones de gas.",
+            "goal": "Ampliar el padrón de beneficiarios integrando a más de 4,000 ollas comunes al Programa de Complementación Alimentaria.",
+            "indicator": "Número de ollas comunes integradas al Programa de Complementación Alimentaria (PCA)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Sistema de transporte urbano precario, de mala calidad, informal y altamente contaminante, que posiciona a Lima como una de las ciudades más congestionadas del mundo, generando pérdidas de tiempo y competitividad.",
+            "objective": "Priorizar un portafolio de inversiones en transporte masivo subterráneo, ordenamiento vial integral y desarrollo tecnológico, incluyendo la ampliación de la red de Metro, corredores exclusivos y soluciones de micromovilidad.",
+            "goal": "Reducir los tiempos de traslado en las principales vías troncales y aumentar los kilómetros de ciclovías conectadas, con proyectos clave como la Línea 2 del Metro finalizada hacia 2028.",
+            "indicator": "Tiempo promedio de viaje en vías troncales y porcentaje de flota formal en rutas operativas."
+          },
+          {
+            "problem": "El crecimiento del turismo se ve frenado por la estacionalidad y una estadía corta, ya que la mayoría de los turistas extranjeros utilizan Lima como ciudad de paso, disminuyendo el tiempo de permanencia y el gasto per cápita.",
+            "objective": "Fomentar rutas gastronómicas, mejorar el corredor turístico, posicionar la Marca Lima y desarrollar el turismo inteligente para aumentar la retención de visitantes y el impacto económico.",
+            "goal": "Lograr que el turista internacional incremente su tiempo de estadía en Lima Metropolitana a una meta de más de 3 noches, aumentando así el impacto económico local.",
+            "indicator": "Tiempo de estadía promedio del turista internacional en Lima Metropolitana."
+          },
+          {
+            "problem": "Baja productividad y subempleo: la proliferación de microempresas y el autoempleado de subsistencias atomizan la economía limeña, limitando el acceso al crédito financiero formal y estancando la productividad",
+            "objective": "En respuesta a esta problemática, el Estado peruano —a través del Ministerio de Trabajo y Promoción del Empleo (MTPE) y otros sectores— ha puesto en marcha la Estrategia Nacional para la Formalización Laboral (ENFL) 2026–2040, cuyo Plan Multisectorial de Acción se está validando y desplegando directamente en el territorio de Lima Metropolitana mediante talleres regionales.",
+            "goal": "Mantener un crecimiento anual sostenido mayor al 5% en puestos formales.",
+            "indicator": "Creció 6.6% en el primer trimestre de 2026."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta vulnerabilidad de la ciudad ante sismos de gran magnitud y fenómenos climáticos como lluvias e inundaciones, agravada por la expansión urbana informal en laderas y la autoconstrucción sin criterios técnicos.",
+            "objective": "Implementar estrategias de gestión prospectiva, correctiva y reactiva, incluyendo la incorporación del riesgo en la planificación urbana, la ejecución de obras de mitigación y el fortalecimiento de la preparación comunitaria.",
+            "goal": "Implementar sistemas de alerta temprana (SAT) operativos y asegurar el cumplimiento de los proyectos de inversión pública orientados a la reducción de la vulnerabilidad.",
+            "indicator": "Porcentaje de población reubicada desde zonas de riesgo no mitigable y número de estudios de evaluación de riesgo (EVAR) aprobados."
+          },
+          {
+            "problem": "Déficit crónico de espacios públicos, con un promedio de apenas 1 m² de área verde por habitante, cifra muy distante del estándar mínimo de 9 m² recomendado por la Organización Mundial de la Salud (OMS).",
+            "objective": "Implementar campañas masivas de arborización urbana, corredores verdes, biohuertos y parques ecológicos para elevar el índice de áreas verdes por habitante.",
+            "goal": "Lograr un crecimiento progresivo de la superficie de área verde por habitante para acercarse gradualmente al estándar recomendado por la OMS.",
+            "indicator": "Superficie de área verde urbana per cápita (m²/habitante)."
+          },
+          {
+            "problem": "Generación de aproximadamente 8,000 toneladas diarias de basura con una tasa de reciclaje de apenas 1%, una infraestructura deficiente y la proliferación de botaderos informales en espacios públicos y cuencas de ríos.",
+            "objective": "Fomentar programas de segregación en la fuente, construir centros de compostaje y plantas de valorización, y cerrar botaderos informales para canalizar los desechos hacia rellenos sanitarios formales.",
+            "goal": "Incrementar exponencialmente la tasa de reciclaje y valorización de residuos, y crear 4 Plantas de Valorización y 2 puntos de disposición final de residuos de construcción y demolición.",
+            "indicator": "Toneladas de residuos sólidos valorizados versus generados y porcentaje de recuperación municipal."
+          },
+          {
+            "problem": "Calidad del aire crítica, siendo Lima la ciudad con el aire más contaminado de Sudamérica, donde el tráfico vehicular es el principal causante y se superan ampliamente los límites de material particulado fino (PM2.5).",
+            "objective": "Impulsar la movilidad sostenible mediante la renovación progresiva del parque automotor, la promoción de vehículos eléctricos/GNC y la expansión de la red de ciclovías.",
+            "goal": "Reducir la exposición media anual de PM2.5 hasta alinearse con las directrices de la OMS (15 µg/m³) y cumplir al 100% con los Estándares de Calidad Ambiental del Aire.",
+            "indicator": "Concentración de Material Particulado (PM10 y PM2.5) medido en µg/m³."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada transparencia en contrataciones, excesivos trámites administrativos y desconfianza ciudadana en las autoridades, configurando un problema de corrupción y burocracia.",
+            "objective": "Implementar el Gobierno Digital en las entidades municipales para agilizar los trámites, reducir la corrupción y hacer más eficiente la gestión de la información, junto con la modernización y simplificación administrativa.",
+            "goal": "Actualizar el 100% de los manuales de procedimientos (MAPRO) y el Reglamento de Organización y Funciones (ROF) de la entidad.",
+            "indicator": "Número de Instrumentos de gestión (Manual de Procedimientos y Reglamento de Organización y Funciones) actualizados y aprobados."
+          },
+          {
+            "problem": "Baja ejecución presupuestal, deficiencias en el gasto público orientado a resultados y falta de conexión entre el planeamiento (PDC, PEI) y la asignación presupuestal (POI).",
+            "objective": "Articular el Presupuesto por Resultados para que los recursos respondan a las demandas sociales y alinear las metas del Plan Estratégico Institucional con el presupuesto asignado para evitar brechas en la ejecución.",
+            "goal": "Ejecutar eficientemente el presupuesto asignado sin caer en subejecución y alcanzar una eficiencia superior al 95% en el cumplimiento de las metas físicas anuales.",
+            "indicator": "Porcentaje de ejecución del gasto de la entidad y porcentaje de cumplimiento de las metas físicas anuales."
+          },
+          {
+            "problem": "Debilidad y fragmentación institucional debido a la superposición de funciones entre los 43 distritos y la Municipalidad Metropolitana, lo que dificulta la ejecución de políticas integrales en transporte y seguridad.",
+            "objective": "Fomentar la participación ciudadana y el acceso a la información pública para construir un nuevo modelo de gobernanza local, y aplicar rigurosamente el Plan de Desarrollo Metropolitano (PLANMET 2040).",
+            "goal": "Incrementar progresivamente el involucramiento activo de la sociedad civil en el presupuesto participativo y los comités de vigilancia.",
+            "indicator": "Porcentaje de espacios de concertación vecinal implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Hf1lOR1BgkEQy_AQzeu9AENvMQixfE8q",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Hf1lOR1BgkEQy_AQzeu9AENvMQixfE8q",
+      "sha256": "130e849c750a52743f755c5cfc94dedc4484c903e0724b1f4abd6b2cb3cc3c77",
+      "accessedAt": "2026-10-02T22:49:27.548Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021969",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021969",
+      "sha256": "2ffe2d769cb9b798bc6d930a3f54ad82627046922ff2cb407bf2d97b1163d63d",
+      "accessedAt": "2026-10-02T22:49:28.085Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

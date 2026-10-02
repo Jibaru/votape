@@ -1,0 +1,477 @@
+{
+  "id": "yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN",
+  "slug": "milton-fernando-jimenez-salazar",
+  "electionId": "erm-2026",
+  "name": "Milton Fernando Jimenez Salazar",
+  "givenNames": "Milton Fernando",
+  "surnames": "Jimenez Salazar",
+  "age": 69,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "TACHADO",
+  "statusHistory": [
+    {
+      "status": "TACHADO",
+      "observedAt": "2026-10-02T23:01:07.263Z",
+      "sourceId": "jne-hv-yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "EJERCITO DEL PERU",
+        "program": "OFICIAL SUB TENIENTE",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "CONTADOR",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1986"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1984"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSTRUCTORA POWERS MACHINER & EQUIPMENT SOCIEDAD ANONIMA CERRADA",
+      "role": "GERENTE GENERAL",
+      "from": "1999",
+      "to": "2026"
+    },
+    {
+      "employer": "DISTRIBUIRAPI S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "ASOCIACION SIN FINES DE LUCRO RESPIRA PUENTE PIEDRA",
+      "role": "PRESIDENTE DEL CONSEJO DIRECTIVO",
+      "from": "2021",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA",
+      "role": "REGIDOR",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD PUENTE PIEDRA",
+      "role": "ALCALDE",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PROGRESEMOS",
+      "year": "2025"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 972634.65,
+        "public": 0,
+        "private": 972634.65
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 39584.87,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 142377.77,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19800,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 1500000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO-CASA",
+        "value": 218374.3,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "RUSTICO",
+        "value": 49500,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "CASA",
+        "value": 163225.76,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19800,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "LOCAL - TERRENO",
+        "value": 165956.26,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 2692561.7,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19800,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 109472.01,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19800,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DEPARTAMENTO",
+        "value": 40326.94,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 9900,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUDI 2017",
+        "value": 102000
+      },
+      {
+        "type": "FORD 600",
+        "value": 10000
+      },
+      {
+        "type": "CHEVROLET VERDE",
+        "value": 10000
+      },
+      {
+        "type": "FORD F-150",
+        "value": 10000
+      },
+      {
+        "type": "MARCA HENDA MODELO HDFO-30",
+        "value": 36000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSTRUCTORA POWERS MACHINER & EQUIPMENT SOCIEDAD ANONIMA CERRADA",
+        "type": "ACCIONES",
+        "quantity": 191283036,
+        "value": 1912830.36
+      },
+      {
+        "company": "OXIGEN PERU SAC",
+        "type": "ACCIONES",
+        "quantity": 360000,
+        "value": 360000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "CASO 04989-2019-0-0909-JR-PE-01 (JUZ-INV-PREP-TRANS-SEDE CISAJ PUENTE PIEDRA) CASO 03217-2018-0-0909-JR-C1-01 (JUZGADO CIVIL PUENTE PIEDRA) CASO 02637-2016-0-0909-JR-JR-C1-01 (JUZGADO CIVIL TRANS. SHANGRILLA) CASO 00879-2008-37-0909-JR-PE-02 (JUZGADO PENAL TRANS PUENTE PIEDRA)",
+    "CASO 03597-2013-0-09-09-JR-CI(JUZGADO CIVIL PP) CASO 26169-2003-0-09-01-JR-PE-07 (7MO JUZGADO PENAL) CASO 27213-80-0901-JR-PE-02(13VO INV.PRED)",
+    "EN LA MUNICIPALIDAD DE ATE FIGURO COMO DUEÑO DE UN PALCO EN EL ESTADIO MONUMENTAL, HACE MUCHO TIEMPO QUE DESDE 1999 SOY EL PROPIETARIO DEL PALCO E123",
+    "OTRA EMPRESA: BLANQUITA DADA DE BAJA HACE MUCHOS AÑOS / LABORATORIOS FARMACEUTICOS QUIMICOS SALAZAR. 16,300 ACCIONES, EXTINGUIDA Y INACTIVA. PARTIDA 00863017 / ASOCIACION DIA DE ACCION DE GRACIAS EN EL PERU/ PARTIDA 14882267",
+    "CASO 07514-2013-0-09-09-JR-PE01,PP. CASO 543-2008-0-09-09JR-PE-01,PP. CASO 24932-2003-0-09-01-JR-PEOS. CASO 00879-20080-09-09-JR-PE-02,PP. CASO 00242-1998-0-19-01-JR-C1-02. CASO 02648-2004-70-0901-JR-C1-02",
+    "CASO 00167-2008-2909-09-JRPE02 CASO 24442-2003-0-0901-JRPE01 CASO 00033-2009-0-0909-JR-PE-01 CASO 00675-2008-50-0909-JR-PE-02 (3RA SALA PENAL DE APELACIONES FUNDICION)",
+    "PARTICIPACION DE EMPRESA: IMPERIO ORO BLACK PARTIDA 12800694 / GRIFO PRIMAVERA PATRIMONIO ACCIENDE A S/.105.000 SUNARP PARTIDA 13027646 / PERUVIANS LIFE S.A. 3 ACCIONES SOCIO FUNDADOR NO SE PÚEDE DETERMINAR LA CANTIDAD DE ACCIONES QUE POSEE PARTIDA SUNARP 03022290",
+    "VEHICULO DE PLACA WC3192/FORD DATA DEL AÑO 1914 DADO QUE EN EL SISTEMA NO REGISTRA, HE COLOCADO 1920 Q. ESE VEHICULO NO EXITE Y NO SE HA REGULARIZADO EN LA SUNARP",
+    "CASO ANCASH DISTRITO FISCAL 271-2010 ANTE 2FPM-HUARI CASO 365-2010- ANTE 2FPM-HUARI CASO 02648-2004-0-0901-JR-PE-09-9 NO JUZGADO INDEPENDENCIA CASO 00675-2008-78-09-09-JR-PE-02 PUENTE PIEDRA",
+    "CASO 01776-2000-0-09-01-JR-C1-04 (4TOJUZGADO CIVIL CEDE CENTRAL) HUANUCO ANTICORRUPCION CASO 39-2016. HUANCAYO EXP 01338-2008-0-1507-JP-PE-03 EXHORTO.",
+    "OTRAS EMPRESAS: DIVISION QUIMICA, SOCIO FUNDADOR PARTIDA 01244477 SE REALIZO UN AUMENTO DE CAPITAL, NO SE PUEDE DETERMINAR LA CANTIDAD DE ACCIONES QUE SE POSEE EN ESTA SOCIEDAD 368 ACCIONES \"TELEMAX\" PATRIMONIO 700 SOLES. 700 ACCIONES, EXTINGUIDA Y INACTIVA.",
+    "COOPERATIVA SAN ISIDRO DE LA CUAL FUI AVAL DE UN CREDITO EL CUAL DE TITUALR FALLECIDO"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2b838e99-3fad-4e12-9d0c-19a41c490b9c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b42fea82-eaa8-48d4-ae40-c5b7bc668450.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta prevalencia de desnutrición crónica infantil y anemia.",
+            "objective": "Supervisar el nivel nutricional de las raciones alimentarias de niños y niñas. Articulación de acciones entre el gobierno local, sector salud y educación para la reducción de cifras de anemia y desnutrición infantil.",
+            "goal": "Al 2030, ejecutar con el sector correspondiente un plan articulado de nutrición crónica en niños y niñas menores de 5 años y en disminución de la anemia en menores de 6 a 35 meses, reduciendo en un 10%.",
+            "indicator": "Porcentaje de Niños con Desnutrición."
+          },
+          {
+            "problem": "Incapacidad de atención rápida a casos de emergencia médica en zonas vulnerables del distrito.",
+            "objective": "Dotar de ambulancias para mejorar la atención rápida de casos de emergencia en zonas vulnerables del Distrito.",
+            "goal": "Al 2030, Puente Piedra contará con tres ambulancias para la atención rápida de casos de emergencia en las zonas vulnerables.",
+            "indicator": "Cantidad de ambulancias para la atención de casos de emergencia."
+          },
+          {
+            "problem": "Déficit de atención primaria de la salud especializada para la población.",
+            "objective": "Gestionar la creación de un Policlínico Municipal para la Atención Primaria de la Salud.",
+            "goal": "Al 2030, Puente Piedra contará con un Policlínico Municipal construido y en funcionamiento.",
+            "indicator": "Cantidad de policlínicos Municipales en funcionamiento."
+          },
+          {
+            "problem": "Crecimiento del consumo de drogas entre la población juvenil.",
+            "objective": "Implementación de programas de formación educativa e inserción laboral para los jóvenes.",
+            "goal": "Al 2030, el 50% de los jóvenes participan en programas y el consumo de drogas disminuye en un 50%.",
+            "indicator": "Porcentaje de jóvenes que participan en los programas de formación educativa e inserción laboral."
+          },
+          {
+            "problem": "Limitadas oportunidades de formación educativa en los jóvenes egresados de colegios con desventaja económica.",
+            "objective": "Poner a disposición de los jóvenes del distrito diversas carreras para su formación técnica y superior.",
+            "goal": "Al 2030, los jóvenes egresados con dificultades económicas cuentan con 15 carreras de formación técnica y superior.",
+            "indicator": "Número de carreras de formación técnica y superior para jóvenes con dificultades económicas."
+          },
+          {
+            "problem": "Altos niveles de inseguridad ciudadana.",
+            "objective": "Desarrollar el Plan Integrado de Seguridad Ciudadana.",
+            "goal": "Al 2030, la percepción de seguridad ciudadana se incrementa al 50%.",
+            "indicator": "Porcentaje de inseguridad ciudadana."
+          },
+          {
+            "problem": "Déficit de acceso a agua potable y alcantarillado en asentamientos humanos y zonas de expansión urbana.",
+            "objective": "Gestionar ante SEDAPAL, Ministerio de Vivienda y organismos financiadores proyectos de ampliación de redes de agua potable y alcantarillado.",
+            "goal": "Beneficiar a 20,000 familias y gestionar la incorporación de 50 asentamientos humanos a proyectos de agua y saneamiento.",
+            "indicator": "Número de familias beneficiadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja participación laboral de jóvenes puentepedrinos.",
+            "objective": "Firmar convenios con empresas privadas otorgándoles beneficios tributarios para la contratación de jóvenes y personas con discapacidad.",
+            "goal": "Al 2030, el 30% de jóvenes puentepedrinos se hallan incorporados en el mundo laboral.",
+            "indicator": "Porcentaje de jóvenes puentepedrinos incorporados en el mundo laboral."
+          },
+          {
+            "problem": "Limitados espacios para el desarrollo comercial y empresarial en el distrito.",
+            "objective": "Generar nuevas zonas de desarrollo comercial, incentivando la inversión pública y privada.",
+            "goal": "Al 2030, Puente Piedra cuenta con 50 nuevos espacios para el desarrollo comercial.",
+            "indicator": "Cantidad de nuevos espacios para el desarrollo comercial."
+          },
+          {
+            "problem": "Altos niveles de informalidad y desorden en las calles del distrito.",
+            "objective": "Captación, formación y formalización de nuevos actores económicos con ayuda de financiamiento mediante terceros.",
+            "goal": "Al 2030, se ha logrado el 100% de ordenamiento del comercio ambulatorio.",
+            "indicator": "Comercio formal y ordenado."
+          },
+          {
+            "problem": "Escasa articulación y capacitación empresarial de actores para aprovechar las oportunidades del mercado.",
+            "objective": "Crear el Consejo Económico Local, promotor de la asociatividad y competitividad de los pequeños y medianos empresarios.",
+            "goal": "Al 2030, el Consejo Económico Local lidera e implementa el Plan de Desarrollo Económico Local del distrito.",
+            "indicator": "Consejo Económico Local dotado de un Plan de Desarrollo Económico Local del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Herramientas desactualizadas para el ordenamiento territorial.",
+            "objective": "Aprobar el Plan de Acondicionamiento Territorial Distrital.",
+            "goal": "Al 2030, el distrito implementa el Plan de Acondicionamiento.",
+            "indicator": "Plan de Acondicionamiento Territorial Distrital."
+          },
+          {
+            "problem": "Carencia de relleno sanitario dentro del distrito que permita depositar residuos sólidos.",
+            "objective": "Instalación de relleno sanitario para disposición de residuos sólidos.",
+            "goal": "Al 2030, contar con un relleno sanitario debidamente implementado y operando conforme a la normativa ambiental vigente.",
+            "indicator": "Relleno sanitario en funcionamiento."
+          },
+          {
+            "problem": "Carencia de espacios para la protección de la flora.",
+            "objective": "Creación de un Vivero Municipal que permita cultivar diversas variedades de flora.",
+            "goal": "Al 2030, implementar y mantener operativos al menos 10 viveros municipales para la producción y conservación de especies vegetales.",
+            "indicator": "Número de Viveros Municipales en funcionamiento."
+          },
+          {
+            "problem": "Limitados espacios de áreas verdes en el distrito.",
+            "objective": "Forestar zonas con mayor contaminación ambiental, parques y avenidas principales.",
+            "goal": "Al 2030, incrementar en 50% la superficie de áreas verdes por habitante respecto al año base 2026.",
+            "indicator": "Porcentaje de área verde por habitante."
+          },
+          {
+            "problem": "Alta contaminación de la ciudad y poca capacidad para gestionar las áreas verdes y espacios públicos.",
+            "objective": "Lograr que el 100% de los residuos sólidos que se producen sean adecuadamente dispuestos en los rellenos sanitarios y/o implementando eficientemente los programas de segregación a través de las asociaciones de recicladores debidamente constituidas.",
+            "goal": "Al 2030, reducción del 30% de los puntos críticos de contaminación ambiental mediante programas de segregación, reciclaje y disposición adecuada de residuos sólidos.",
+            "indicator": "Porcentaje de reducción de contaminación ambiental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada automatización de procesos y sistemas administrativos.",
+            "objective": "Transformación digital en la gestión de la municipalidad de Puente Piedra.",
+            "goal": "Al 2030, digitalizar y automatizar el 100% de los procedimientos administrativos prioritarios, garantizando la interoperabilidad entre las diferentes áreas municipales.",
+            "indicator": "Porcentaje de procesos automatizados y sistemas administrativos con interoperabilidad."
+          },
+          {
+            "problem": "Baja participación ciudadana en los procesos de fiscalización del presupuesto público.",
+            "objective": "Fortalecer el proceso del presupuesto participativo.",
+            "goal": "Al 2030, logro de incremento al 70% la participación de organizaciones vecinales y sociales en los procesos de presupuesto participativo y vigilancia ciudadana.",
+            "indicator": "Porcentaje de organizaciones vecinales participantes del proceso del presupuesto participativo."
+          },
+          {
+            "problem": "Deficiente capacitación de los funcionarios de la Municipalidad.",
+            "objective": "Establecer programas permanentes de desarrollo de capacidades en temas de instrumento de gestión, gestión municipal y procedimientos administrativos.",
+            "goal": "Al 2030, capacitar y certificar al 100% de los funcionarios y servidores municipales en gestión pública, procedimientos administrativos y atención al ciudadano.",
+            "indicator": "Porcentaje de funcionarios municipales capacitados."
+          },
+          {
+            "problem": "Insuficiente mecanismo para la lucha contra la corrupción y la participación ciudadana en el distrito de Puente Piedra.",
+            "objective": "Generación y fortalecimiento de los mecanismos de transparencia y rendición de cuentas para el buen uso de los recursos públicos para la gestión local.",
+            "goal": "Al 2030, implementar mecanismos de transparencia, control interno y vigilancia ciudadana que permitan reducir en 50% las denuncias por presuntos actos de corrupción respecto al año base 2026.",
+            "indicator": "Porcentaje de reducción de corrupción."
+          },
+          {
+            "problem": "Limitada capacidad institucional para formular y gestionar proyectos de inversión de gran impacto.",
+            "objective": "Crear la Oficina de Gestión de Inversiones, Cooperación Técnica y Alianzas Estratégicas.",
+            "goal": "Al 2030, gestión de más de S/. 200 millones en inversiones para el distrito.",
+            "indicator": "Recursos externos captados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139010",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: NEGOCIACION INCOMPATIBLE",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2026-03-31",
+      "details": {
+        "materia": "NEGOCIACION INCOMPATIBLE",
+        "fallo": "4 PPL",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "EN CUMPLIMIENTO",
+        "juzgado": "JUZGADO PENAL UNIPERSONAL VENTANILLA",
+        "expediente": "827-2021",
+        "comentario": "SENTENCIA PRIMERA INSTANCIA Y APELADA/CONSIGNA ASI POR SUGERENCIA DEL ABOGADO"
+      },
+      "quote": "NEGOCIACION INCOMPATIBLE · 4 PPL · SUSPENDIDA · EN CUMPLIMIENTO",
+      "sourceIds": [
+        "jne-hv-yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-penal-139009",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: PECULADO",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2018-06-15",
+      "details": {
+        "materia": "PECULADO",
+        "fallo": "4 PPL",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "1 ERA SALA PENAL LIQUIDATORIA CORTE DE LIMA NORTE",
+        "expediente": "184-2006",
+        "comentario": null
+      },
+      "quote": "PECULADO · 4 PPL · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN",
+      "sha256": "1605a6006f83be12c15e7af8ab13f88dcd0ed8544182d11dd3b65967b4ed767f",
+      "accessedAt": "2026-10-02T23:01:07.263Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017337",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017337",
+      "sha256": "3c489f0db2a9e79aeaa97330fea5802684cfc8c062fc6c3823873c759541f7d8",
+      "accessedAt": "2026-10-02T23:01:07.775Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "_H6ULQIT4sTztF1sjMbXnGnkO20vLGSX",
+  "slug": "roger-edinsson-parra-taboada",
+  "electionId": "erm-2026",
+  "name": "Roger Edinsson Parra Taboada",
+  "givenNames": "Roger Edinsson",
+  "surnames": "Parra Taboada",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:04.682Z",
+      "sourceId": "jne-hv-_H6ULQIT4sTztF1sjMbXnGnkO20vLGSX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PRIVADA SAN JUAN BAUTISTA",
+        "program": "MAESTRIA EN DERECHO ADMINISTRATIVO Y DE GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2009",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45027,
+        "public": 9005,
+        "private": 36022
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "BANQUITO SAC",
+        "type": "ACCIONES",
+        "quantity": 36500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "DEBO PRECISAR QUE TENGO 3 CONCILIACIONES EXTRAJUDICIALES A FAVOR DE MI TRES ALIMENTISTAS DE INICIALES EETA, BLPL, CTPCH,; ESTA ULTIMA FUE JUDICIALIZADA PARA AUMENTAR (EXP- 1471 Y 917). SE PRECISA A RAZON DE 600 SOLES PARA CADA ALIMENTISTA."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/dec8d371-5cd3-4ada-95ac-474f2275ab41.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2fcb7914-096e-4d80-af6c-e434cb14c485.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de espacios públicos que la población adulto mayor, madre, niñez y juventud desarrolle recreación, integración a actividades culturales.",
+            "objective": "Creación y formación de espacios recreativos y de formación cultural para adulto mayor, jóvenes y niños.",
+            "goal": "Mejoramiento e implementación de la casa del Adulto mayor, madre y de la juventud.",
+            "indicator": "Registros de la data en la Gerencia de Desarrollo Social."
+          },
+          {
+            "problem": "Existe un crecimiento del distrito de forma desordenada a través de posesiones informales sin una planificación, ni estudios técnicos, con construcciones sin planos y mano de obra calificada que garantice la seguridad dentro de la posesión a si como la seguridad vial pública.",
+            "objective": "Gestionar el desarrollo urbano, e incluir muros de contención en las zonas altas del distrito.",
+            "goal": "- Inversión aproximada de s/.30000,000.00 en ejecución de infraestructura y el plan de desarrollo urbano implementado en beneficio del distrito. - Formulación de instrumentos de gestión que faciliten la formalización de la vivienda implementadas en el distrito. - Fiscalización y control técnico de las edificaciones en el ámbito urbano.",
+            "indicator": "Porcentaje del Presupuesto."
+          },
+          {
+            "problem": "Falta de tratamiento oportuna en salud Publica",
+            "objective": "Establecer convenios con centros de salud ubicados en el distrito para conjuntamente con el ministerio de cultura otorgar diplomados con valor oficial en concursos para ascender en la gestión publica a los servidores de salud y los directores de los centro de salud permitan que la municipalidad en convenio realice mediciones en encuesta entrevista a los usuarios pacientes residentes de villa mara del triunfo, con objeto de otorgar becas, estudios diplomados gratuitos y premiar su eficiencia y sean beneficiados los vecinos villamarianos.",
+            "goal": "Mejorar la calidad del servicio de salud a los vecinos villamarianos y por otro lado capacitar al personal de salud de los centro que se ubiquen en nuestro distrito.",
+            "indicator": "Registros de la data de los centros de salud."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto porcentaje de comercio informal en el distrito villa maría del triunfo que no cuentan con licencia o permiso.",
+            "objective": "Promover la formalización de negocios pequeños y otorgar plazos razonables.",
+            "goal": "Reducir el comercio informal en el distrito villamariano.",
+            "indicator": "Número de licencias autorizadas en el distrito."
+          },
+          {
+            "problem": "En la población villamariana continúa creciendo el sector muy pobre.",
+            "objective": "Promover convenios con las medianas y pequeñas empresas para darle facilidad de difusión de su actividad comercial y por otro lado recibir mayor número de ofertas de trabajo para la comunidad villamariana.",
+            "goal": "Reducir el nivel socio económico muy pobre en el distrito villa maría del triunfo.",
+            "indicator": "Registro de la data de la gerencia de participación vecinal y desarrollo social."
+          },
+          {
+            "problem": "Ausencia de promoción de las micro y pequeñas empresas con sus productos y servicios.",
+            "objective": "Promover en convenio con la empresa privada ferias de difusión de productos de las micro y pequeñas empresas.",
+            "goal": "Generar una difusión optima de los productos y servicios de las micro y pequeñas empresas del distro villamariano.",
+            "indicator": "Registro de la data de la gerencia de desarrollo económico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de residuos sólidos en zonas de alto transito que afectan a la comunidad del distrito.",
+            "objective": "Gestionar eficientemente el recojo de residuos sólidos y fomentar cultura y disciplina en el horario de recojo de residuos sólidos.",
+            "goal": "Mantenimiento del ornato y cumplimiento estricto del plan de manejo de residuos sólidos.",
+            "indicator": "Puntos altamente contaminantes que segregan los comerciantes informales y por la falta de disciplina de los moradores identificados por la unidad orgánica de la Municipalidad de la Gerencia de Salud Pública y Medio Ambiente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Escaza identidad del vecino con su municipalidad",
+            "objective": "Fomentar espacios de información y actividades que acerque al vecino con sus autoridades y funcionarios.",
+            "goal": "Identificación del vecino con sus autoridades como defensor de sus derechos.",
+            "indicator": "Registros de la data de la oficina de participación vecinal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-_H6ULQIT4sTztF1sjMbXnGnkO20vLGSX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/_H6ULQIT4sTztF1sjMbXnGnkO20vLGSX",
+      "sha256": "013a7605c7a4921fcbce7caf2d3a04cd71df0a3ae9134df1b9e97006ead462cd",
+      "accessedAt": "2026-10-02T23:07:04.682Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026013996",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026013996",
+      "sha256": "14ed22d07e00e059834f28aea3164cf16aa7391555e147635cb076598353cc3c",
+      "accessedAt": "2026-10-02T23:07:05.191Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

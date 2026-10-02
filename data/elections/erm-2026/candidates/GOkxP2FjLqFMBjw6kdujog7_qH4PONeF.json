@@ -1,0 +1,199 @@
+{
+  "id": "GOkxP2FjLqFMBjw6kdujog7_qH4PONeF",
+  "slug": "jose-luis-herrera-urueta",
+  "electionId": "erm-2026",
+  "name": "Jose Luis Herrera Urueta",
+  "givenNames": "Jose Luis",
+  "surnames": "Herrera Urueta",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:07.824Z",
+      "sourceId": "jne-hv-GOkxP2FjLqFMBjw6kdujog7_qH4PONeF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CIADELCO",
+        "program": "LIC. CONCILIADOR FAMILIAR Y JUDICIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MININTER",
+      "role": "EMPLEADO",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "DEMOCRACIA DIRECTA",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2022"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 199000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a74d9d98-0f71-407e-b7e8-b88e85b1d3aa.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d55c10b4-9f4f-42d6-a6de-6df571ad52c6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Problemática juvenil asociada a adicciones, violencia social y pandillaje.",
+            "objective": "Impulsar la cultura, la identidad local y el deporte, con atención prioritaria a niños y jóvenes vulnerables.",
+            "goal": "Impulsar el empleo digno para jóvenes, desarrollar capacidades laborales y de emprendimiento, promover campañas de sensibilización y prevención de adicciones, y fortalecer a la familia con programas de salud y apoyo psicológico.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento y el impacto social."
+          },
+          {
+            "problem": "Existencia de pobreza, desigualdad y marginación en el distrito.",
+            "objective": "Reducir la pobreza y la marginación, mejorar los indicadores de bienestar social y ampliar las oportunidades para la población.",
+            "goal": "Promover la inversión social focalizando las inversiones en zonas urbano marginales, formular proyectos de alto impacto social y suscribir convenios con entidades públicas y privadas para la superación de la pobreza.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento y el impacto social."
+          },
+          {
+            "problem": "Insuficiente calidad educativa y persistencia de brechas como el analfabetismo y la brecha digital.",
+            "objective": "Fortalecer la calidad educativa y fomentar la participación comunitaria en la educación.",
+            "goal": "Reducir el analfabetismo, mejorar el rendimiento escolar, cerrar la brecha digital, optimizar la infraestructura educativa y otorgar becas a la población vulnerable.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento y el impacto social."
+          },
+          {
+            "problem": "Reducir la pobreza y marginación",
+            "objective": "Implementar una política social integral que fortalezca ciudadanía y tejido social",
+            "goal": "formular y evaluar proyectos de alto impacto",
+            "indicator": "Porcentaje de hogares en situación de vulnerabilidad beneficiados por programas sociales locales"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada oferta de empleos formales y persistencia del comercio informal.",
+            "objective": "Garantizar un entorno que genere empleo y desarrollo económico, fomentando un distrito productivo y competitivo.",
+            "goal": "Promover la formalización del comercio, la generación de empleo, la defensa del consumidor y el desarrollo de micro y pequeñas empresas.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento."
+          },
+          {
+            "problem": "Marco institucional y normativo que no incentiva suficientemente la actividad económica y la inversión.",
+            "objective": "Implementar reformas institucionales para el crecimiento económico y desarrollar una economía basada en el conocimiento y el capital humano.",
+            "goal": "Mejorar el marco institucional y simplificar trámites para incentivar la actividad económica, garantizando seguridad jurídica, zonificación adecuada y transparencia administrativa.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento."
+          },
+          {
+            "problem": "Baja competitividad empresarial y escasa innovación tecnológica en el sector productivo.",
+            "objective": "Promover un crecimiento económico sostenido e impulsar la infraestructura y conectividad que favorezcan la economía.",
+            "goal": "Desarrollar infraestructura y servicios para la producción, promover inversiones en infraestructura física y tecnológica, y modernizar las microempresas e industria.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro y falta de espacios públicos, áreas verdes y de recreación.",
+            "objective": "Ampliar la cobertura y calidad de los servicios públicos y orientar el crecimiento urbano hacia el uso racional de los recursos.",
+            "goal": "Fortalecer la gestión ambiental, las áreas verdes y la reforestación, recuperar espacios públicos y promover parques y la recreación.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento e impacto social."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y gestión inadecuada de los residuos sólidos.",
+            "objective": "Armonizar el desarrollo urbano con el territorio y garantizar un desarrollo sostenible a corto, mediano y largo plazo.",
+            "goal": "Promover el ordenamiento territorial y la planificación sostenible, actualizar los planes urbanos y de zonificación, y ampliar la recolección de residuos.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento e impacto social."
+          },
+          {
+            "problem": "Contaminación del aire y sonora, principalmente generada por el tráfico vehicular.",
+            "objective": "Mejorar la calidad de vida de la población para lograr un 'distrito saludable' y proteger la integridad de la población.",
+            "goal": "Mejorar la movilidad urbana y la infraestructura vial, optimizar el transporte y la gestión de residuos.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento e impacto social."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión municipal con limitada transparencia, eficiencia y participación ciudadana.",
+            "objective": "Impulsar una gestión pública estratégica e innovadora, y consolidar un gobierno transparente, eficiente y con rendición de cuentas.",
+            "goal": "Promover una municipalidad moderna y transparente, fortalecer la participación ciudadana, facilitar el acceso a la información pública y fortalecer la cultura de la transparencia y la denuncia.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento."
+          },
+          {
+            "problem": "Sistema financiero y presupuestal municipal débil y con escasa capacidad de inversión.",
+            "objective": "Fortalecer el sistema financiero y presupuestal para que sea sostenible, equilibrado y eficiente.",
+            "goal": "Fortalecer el sistema financiero y presupuestal con disciplina y eficiencia, generar ahorro e inversión pública, gestionar financiamiento e impulsar el presupuesto participativo.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento."
+          },
+          {
+            "problem": "Altos índices de inseguridad ciudadana que afectan la calidad de vida de los vecinos.",
+            "objective": "Fortalecer la seguridad ciudadana a través de la prevención y acciones coordinadas con la Policía Nacional.",
+            "goal": "Garantizar la seguridad ciudadana, fortalecer la prevención, la participación vecinal y el patrullaje, y promover una cultura de autoprotección y gestión de riesgos.",
+            "indicator": "Seguimiento mediante indicadores cualitativos y cuantitativos, con evaluaciones semestrales para medir el cumplimiento."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-GOkxP2FjLqFMBjw6kdujog7_qH4PONeF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GOkxP2FjLqFMBjw6kdujog7_qH4PONeF",
+      "sha256": "f7350d757be83cd0dcfa5642165fa16f29f76ff9a348b40e6c9f4f89cd974543",
+      "accessedAt": "2026-10-02T22:57:07.824Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019627",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019627",
+      "sha256": "a490b5b9477437c3037829061945920be5d0d0ae8fdd66427c99b12e1a5e1c47",
+      "accessedAt": "2026-10-02T22:57:08.318Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "id": "55_Y11z_e1b04jcEUCknAzoZZa-Uzrkg",
+  "slug": "rennan-santiago-espinoza-venegas",
+  "electionId": "erm-2026",
+  "name": "Rennan Santiago Espinoza Venegas",
+  "givenNames": "Rennan Santiago",
+  "surnames": "Espinoza Venegas",
+  "age": 32,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:15.431Z",
+      "sourceId": "jne-hv-55_Y11z_e1b04jcEUCknAzoZZa-Uzrkg"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD ESAN",
+        "program": "ADMINISTRACIÓN CON MENCIÓN EN DIRECCIÓN DE EMPRESA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PALMAS DEL PERU SAC",
+      "role": "ADMINISTRADOR GENERAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "ESPINOZA HOLDING GROUP SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA",
+      "role": "ALCALDE DISTRITAL",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "LOS MOLINOS DE SAN ANDRES EIRL",
+      "role": "GERENTE ADMINISTRATIVOS",
+      "from": "2016",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA NACIONAL DE COMUNICACIÓN, NUEVAS TECNOLOGÍAS Y PARTICIPACIÓN CIUDADANA",
+      "party": "ALIANZA ELECTORAL PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "position": "SECRETARÍA NACIONAL DE COMUNICACIÓN, NUEVAS TECNOLOGÍAS Y PARTICIPACIÓN CIUDADANA",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2026",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 300000,
+        "public": 0,
+        "private": 300000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 250000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESPINOZA HOLDING GROUP SAC",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 5000
+      },
+      {
+        "company": "PALMAS DEL PERU SAC",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/da70b388-a83b-4007-9d8c-6aa5fd585bf1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1b315ac6-ebcc-453f-9496-8fad0d6d98ad.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alto porcentaje de viviendas autoconstruidas sin licencia ni declaratoria de fábrica. Ordenanzas de regularización vigentes (N.° 682-MSS y N.° 018-2024-MSS) ya vencidas; 615 viviendas fueron regularizadas en 2023–2025 durante la gestión actual",
+            "objective": "Promover la regularización y formalización de edificaciones para garantizar seguridad estructural, cumplimiento normativo y sinceramiento de la recaudación predial.",
+            "goal": "Meta: Aprobar la normativa actualizada e incrementar significativamente la formalización técnico-legal de viviendas, priorizando las zonas vulnerables de los Sectores 1 y 2.",
+            "indicator": "Norma legal de actualización aprobada. N.° total de edificaciones residenciales regularizadas con declaratoria de fábrica"
+          },
+          {
+            "problem": "Predios estratégicos actúan como barreras urbanas desarticulados de la planificación distrital y son considerados espacios de oportunidad.",
+            "objective": "Identificar y articular grandes espacios de oportunidad para potenciar su desarrollo, generando vías, parques, equipamientos y nueva oferta de vivienda.",
+            "goal": "Al primer año: Identificación de espacios de oportunidad. Al cuarto año: Cartera priorizada aprobada y haber iniciado la formulación de propuestas técnicas consensuadas con al menos un espacio seleccionado. Meta: 01 Cartera priorizada aprobada e implementada.",
+            "indicator": "Cartera priorizada aprobada. N.° de espacios que inician formulación de propuestas técnicas consensuadas."
+          },
+          {
+            "problem": "Déficit habitacional de 29,554 viviendas; 1,307 con precariedad material (triplay, esteras, piso de tierra). Se logró atender a 53 familias durante la gestión actual.",
+            "objective": "Reducir el déficit de vivienda precaria mediante la continuidad, ampliación y diversificación del financiamiento del programa existente Techo Propio Surcano.",
+            "goal": "Al primer año: Evaluación y mesas técnicas con el MVCS para cofinanciamiento con el BFH. Al segundo año: Nueva convocatoria pública optimizada con recursos de reciclaje de EMUSS S.A. Al tercer y cuarto año: Cofinanciamiento con el MVCS y convocatorias ampliadas. Meta: Incrementar las convocatorias anuales y multiplicar el número de viviendas entregadas al término de la gestión.",
+            "indicator": "N.° de viviendas entregadas por año y al término de la gestión."
+          },
+          {
+            "problem": "Oferta formal de alquiler inexistente para sectores medios y bajos; mercado informal de alquiler en sectores 1 y 2 con riesgo estructural no verificado; cero programas municipales de alquiler social.",
+            "objective": "Promover el acceso a vivienda formal mediante el fomento del alquiler social y la formalización de edificaciones.",
+            "goal": "Al primer año: Coordinación IMP y gestión de subsidios Renta Joven con el MVCS. Al segundo año: Mapeo, empadronamiento de inmuebles y diseño del primer paquete. Al tercer y cuarto año: Implementación y ejecución de proyectos piloto. Meta: Implementar el primer programa y paquete piloto de viviendas bajo el esquema de alquiler social al término de la gestión.",
+            "indicator": "Cantidad de viviendas de alquiler social asignadas en el distrito."
+          },
+          {
+            "problem": "Normativa urbanística fragmentada, desactualizada y desarticulada respecto a la Ley N° 31313 y el PLANMET 2040; genera confusión e inhibe vivienda formal e inversión.",
+            "objective": "Actualizar y articular los instrumentos de planificación distrital en el marco del PDU Lima Centro.",
+            "goal": "Al primer año: Instalación de una mesa de trabajo con el IMP. Al cuarto año: Incorporación de la propuesta técnica de Surco para la actualización normativa de planificación urbana en el marco del desarrollo del PDU Lima Centro. Meta: Propuesta técnica incorporada al PDU Lima Centro al término de la gestión",
+            "indicator": "N.° de propuestas técnicas formuladas y presentadas al IMP."
+          },
+          {
+            "problem": "30% del distrito sin habilitación urbana al inicio de 2023. La brecha de formalización persiste pese a las 56 habilitaciones de oficio entregadas por la gestión actual (2023–2025) que beneficiaron a más de 7,400 habitantes.",
+            "objective": "Culminar y ampliar los procesos de habilitación urbana para consolidar la infraestructura pública y el saneamiento legal de predios.",
+            "goal": "Al primer año: cartera priorizada de sectores consolidados Al segundo año: ejecución de primer paquete priorizado Al cuarto año: Consolidación del proceso. Meta: Reducir la brecha de formalización de las habilitaciones urbanas en el distrito al término de la gestión.",
+            "indicator": "N.° de habilitaciones urbanas regularizadas. N.° de beneficiarios."
+          },
+          {
+            "problem": "Riesgos de anemia, desnutrición y mala nutrición infantil afectan el bienestar, la asistencia, la concentración y el aprendizaje de niñas y niños en instituciones educativas priorizadas.",
+            "objective": "Mejorar las condiciones de nutrición, salud preventiva y educación alimentaria de niñas, niños y familias de instituciones educativas priorizadas.",
+            "goal": "Intervención nutricional y educativa anual en el 100% de instituciones educativas públicas priorizadas; al menos 03 mediciones preventivas anuales en colegios focalizados; tablero de seguimiento implementado.",
+            "indicator": "Nº de escolares beneficiados; Nº de tamizajes; Nº de familias capacitadas; % de II.EE. atendidas; costo promedio (S/)."
+          },
+          {
+            "problem": "Información territorial dispersa entre áreas municipales; sin plataforma integrada ni catastro georreferenciado actualizado; limita fiscalización y toma de decisiones.",
+            "objective": "Modernizar el catastro e integrar la información territorial en una plataforma de inteligencia territorial como eje de la gestión urbana municipal.",
+            "goal": "Al primer y segundo año: consolidación de base cartográfica Al cuarto año: Puesta en marcha de la Plataforma SIG Pública de Surco con libre acceso ciudadano e inicio de la carga progresiva de información validada. Meta: Plataforma SIG operativa, accesible y con información territorial integrada.",
+            "indicator": "Plataforma SIG Pública de Surco desarrollada e implementada."
+          },
+          {
+            "problem": "Persistencia de violencia familiar y vulneración de derechos que exige orientación temprana, prevención y derivación fuera de la oficina central, especialmente en colegios, clubes, comisarías y espacios comunitarios.",
+            "objective": "Fortalecer la prevención y atención temprana de situaciones de riesgo familiar, violencia y vulneración de derechos de niñas, niños, adolescentes y familias.",
+            "goal": "04 campañas itinerantes anuales por zonas priorizadas; colegios públicos priorizados con jornada preventiva anual; sistema de seguimiento de derivaciones implementado.",
+            "indicator": "Nº de jornadas itinerantes; Nº de personas orientadas; Nº de II.EE. y nodos intervenidos; % de casos con seguimiento."
+          },
+          {
+            "problem": "Servicios sociales municipales dispersos y con dificultades para identificar, derivar y acompañar oportunamente a familias, personas mayores, personas con discapacidad, niñas, niños y adolescentes en situación de riesgo.",
+            "objective": "Consolidar una red distrital de cuidados y protección social de proximidad, articulada desde los Clubes del Vecino y servicios municipales existentes.",
+            "goal": "01 red distrital de Clubes del Vecino y Servicios Sociales operativa, con cartera mínima de servicios, registro anual de usuarios y diagnóstico de infraestructura en locales priorizados.",
+            "indicator": "Nº de nodos implementados; Nº de usuarios únicos; % de casos con seguimiento; % de satisfacción."
+          },
+          {
+            "problem": "nsuficiente infraestructura de pistas y veredas en diferentes sectores del distrito.",
+            "objective": "30 OBRAS DE PISTAS Y VEREDAS en asociaciones de vivienda con servicios básicos completos.",
+            "goal": "30 proyectos",
+            "indicator": "Metros cuadrados pavimentados / N° de familias beneficiadas."
+          },
+          {
+            "problem": "Ocupación de áreas de dominio público que limita el desarrollo de proyectos de inversión.",
+            "objective": "Recuperación de áreas de dominio público invadidas (vías, parques, jardines) y liberación de derechos de vía para proyectos de inversión.",
+            "goal": "100 % de derechos de vía críticos liberados",
+            "indicator": "N° de procedimientos administrativos concluidos."
+          },
+          {
+            "problem": "Limitada capacidad e infraestructura del Estadio Municipal para eventos deportivos.",
+            "objective": "Ampliación del Estadio Municipal: tribuna occidente para 10 000 personas, camerinos y ambientes para talleres deportivos de salón.",
+            "goal": "Capacidad final = 10 000",
+            "indicator": "% de avance físico / aforo autorizado por Defensa Civil."
+          },
+          {
+            "problem": "Percepción de una cobertura insuficiente y de una capacidad de respuesta insuficiente del Serenazgo en el patrullaje motorizado del distrito.",
+            "objective": "Modernización de la flota del Serenazgo con 30 camionetas patrulleras y 30 motocicletas equipadas con GPS.",
+            "goal": "30 camionetas + 30 motos",
+            "indicator": "% de cobertura de patrullaje motorizado por sector / tiempo de respuesta promedio menor a 8 min."
+          },
+          {
+            "problem": "Congestionamiento y creciente tránsito vehicular en las principales vías del distrito.",
+            "objective": "Ejecución de las 11 vías colectoras y arteriales priorizadas (Av. Las Torres, Auxiliar Panamericana Norte, Av. Lecaros, Av. Perimétrica, Av. Playa Hermosa, entre otras), con expediente técnico y financiamiento gestionado.",
+            "goal": "11 vías concluidas",
+            "indicator": "Kilómetros de pista entregados / IMD (Índice Medio Diario) atendido."
+          },
+          {
+            "problem": "Red de veterinarias municipales insuficiente para la atención animal en el distrito.",
+            "objective": "Ampliar la red de veterinarias a 03 veterinarias, para ello se construirá y pondrá en funcionamiento 01 CLÍNICA VETERINARIA en el sector norte del distrito",
+            "goal": "Incrementar de dos (02) a tres (03) los establecimientos veterinarios municipales.",
+            "indicator": "Número de veterinarias municipales implementadas y en funcionamiento"
+          },
+          {
+            "problem": "Percepción de alta incidencia de hechos delictivos en zonas con limitada implementación de barreras físicas de seguridad.",
+            "objective": "Programa PLAN CERCO con instalación de tranqueras, plumas levadizas y casetas en zonas de alta incidencia delictiva.",
+            "goal": "15 sectores intervenidos",
+            "indicator": "Reducción del delito patrimonial en sectores intervenidos (línea base vs. medición anual)."
+          },
+          {
+            "problem": "Ausencia de albergue canino municipal para la gestión de animales en situación de calle.",
+            "objective": "Crear, con el apoyo de asociaciones para la protección y el bienestarde animales, el “ALBERGUE CANINO",
+            "goal": "Implementar y poner en funcionamiento un (01) Albergue Canino Municipal",
+            "indicator": "Número de albergues caninos implementados y en funcionamiento."
+          },
+          {
+            "problem": "Falta de un centro integral de rehabilitación para personas con discapacidad y adultos mayores.",
+            "objective": "Centro Municipal de Rehabilitación Integral para personas con discapacidad y adultos mayores.",
+            "goal": "1 centro integral",
+            "indicator": "N° de pacientes atendidos / N° de terapias/año."
+          },
+          {
+            "problem": "Limitadas condiciones de equipamiento e infraestructura en los Centros de Monitoreo.",
+            "objective": "Mejorar y repotenciar los CENTROS DE MONITOREO, a través de equipamiento y mobiliario adecuado",
+            "goal": "Alcanzar el 100% de operatividad de los Centros de Monitoreo mediante la renovación de equipos, mobiliario y sistemas tecnológicos",
+            "indicator": "Número de Centros de Monitoreo modernizados e implementados"
+          },
+          {
+            "problem": "Insuficiente cobertura de los programas de seguridad alimentaria en el distrito.",
+            "objective": "Continuar y ampliar la cobertura de la estrategia distrital NUTRE PUENTE PIEDRA",
+            "goal": "Incrementar en 50% la cobertura de atención y beneficiarios de la estrategia Nutre Puente Piedra",
+            "indicator": "Número de beneficiarios atendidos por la estrategia distrital Nutre Puente Piedra"
+          },
+          {
+            "problem": "Déficit de aulas en instituciones educativas públicas con alta demanda estudiantil.",
+            "objective": "Construcción de 30 aulas nuevas con mobiliario completo en IIEE públicas con mayor déficit (priorizando inicial y secundaria).",
+            "goal": "30 aulas",
+            "indicator": "Reducción del número de aulas con sobrepoblación (> 35 alumnos)."
+          },
+          {
+            "problem": "Limitado desarrollo de la ciudadanía y la convivencia escolar en las instituciones educativas.",
+            "objective": "Programa CONSTRUYENDO CIUDADANÍA, articulado con la UGEL y orientado al pensamiento crítico y la convivencia escolar.",
+            "goal": "Cobertura distrital",
+            "indicator": "N° de IIEE participantes / encuesta anual de clima escolar."
+          },
+          {
+            "problem": "Limitada cobertura de infraestructura deportiva para la población.",
+            "objective": "Construcción de 50 losas multideportivas con cerco perimétrico, iluminación LED y graderías mínimas.",
+            "goal": "50 losas",
+            "indicator": "N° de losas operativas / N° de usuarios/semana."
+          },
+          {
+            "problem": "Alta demanda de atención del adulto mayor en el distrito.",
+            "objective": "Implementar y ampliar a cinco (05) los LOCALES CIAM en el distrito",
+            "goal": "Implementar y poner en funcionamiento cinco (05) Locales CIAM estratégicamente ubicados en el distrito",
+            "indicator": "Número de Locales CIAM implementados y en funcionamiento."
+          },
+          {
+            "problem": "Limitadas oportunidades de acceso a la educación superior debido a factores económicos.",
+            "objective": "Programa BECAS PUENTE PIEDRA",
+            "goal": "200 becas/año",
+            "indicator": "% de becarios que culminan estudios."
+          },
+          {
+            "problem": "Alta prevalencia de anemia infantil en el distrito.",
+            "objective": "Programa PUENTE PIEDRA SIN ANEMIA",
+            "goal": "60% de niños tamizados",
+            "indicator": "% de prevalencia de anemia infantil (línea base 2025 vs. 2030)."
+          },
+          {
+            "problem": "Limitada infraestructura de comunicaciones para la interconexión e integración de los sistemas de seguridad",
+            "objective": "Red distrital de fibra óptica para interconectar cámaras, alarmas comunitarias y centros de monitoreo.",
+            "goal": "50 km de fibra óptica",
+            "indicator": "Kilómetros tendidos y en operación / disponibilidad del enlace (uptime = 99 %)."
+          },
+          {
+            "problem": "Personas con discapacidad severa excluidas del sistema educativo regular.",
+            "objective": "Ampliación de la Escuelita OMAPED a personas con discapacidad severa que hoy quedan fuera del sistema educativo regular.",
+            "goal": "duplicar las atenciones",
+            "indicator": "N° de niños y jóvenes con discapacidad atendidos."
+          },
+          {
+            "problem": "Ausencia de educación superior tecnológica Lima Norte.",
+            "objective": "Gestión ante el MINEDU, SUNEDU y el Congreso para la creación de la UNIVERSIDAD NACIONAL TECNOLÓGICA DE LIMA NORTE con sede en Puente Piedra, priorizando carreras logísticas, portuarias y de TIC vinculadas al corredor Chancay.",
+            "goal": "Ley de creación + terreno saneado",
+            "indicator": "Hito normativo de creación / hectáreas asignadas para campus."
+          },
+          {
+            "problem": "Percepción de limitada capacidad de videovigilancia para la detección, monitoreo y prevención oportuna de incidentes",
+            "objective": "Centro de videovigilancia inteligente con 1 000 cámaras nuevas integradas a IA para reconocimiento facial, lectura de placas (LPR) y detección automática de incidentes.",
+            "goal": "1 000 cámaras IA",
+            "indicator": "N.º de incidentes detectados automáticamente / casos resueltos con evidencia de video."
+          },
+          {
+            "problem": "Déficit de establecimientos de salud en sectores Gallinazos y Copacabana con alta densidad poblacional.",
+            "objective": "Construcción y puesta en operación de 2 Centros de Salud Municipales nivel I-2 en los sectores Gallinazos y Copacabana",
+            "goal": "2 centros nuevos",
+            "indicator": "N° de atenciones anuales / población cubierta por sector"
+          },
+          {
+            "problem": "Alto porcentaje de predios sin titulación formal en el distrito.",
+            "objective": "Habilitaciones Urbanas de Oficio, planeamientos integrales, evaluaciones de riesgo y cambios de zonificación para alcanzar el 70 % de predios titulados.",
+            "goal": "70 % de predios titulados",
+            "indicator": "% de predios con título inscrito en SUNARP"
+          },
+          {
+            "problem": "Alta demanda de atención ante emergencias médicas que supera la capacidad de respuesta disponible en el distrito.",
+            "objective": "Ampliar el servicio municipal de emergencias médicas mediante la adquisición de DOS (2) modernas ambulancias totalmente equipadas.",
+            "goal": "Incrementar la flota de atención de emergencias médicas de 2 a 4 ambulancias totalmente equipadas y operativas, ampliando la cobertura y reduciendo los tiempos de respuesta ante emergencias en el distrito",
+            "indicator": "Número de ambulancias operativas al servicio de emergencias médicas"
+          },
+          {
+            "problem": "Limitado acceso a servicios básicos de salud en pobladores de laderas y asentamientos humanos",
+            "objective": "Adquisición de 2 clínicas móviles con consultorio, ecógrafo portátil y kit de tamizaje para llegar a zonas de laderas y AA.HH",
+            "goal": "2 unidades móviles",
+            "indicator": "N° de campañas/año y personas atendidas en zonas sin centro de salud"
+          },
+          {
+            "problem": "Insuficiente atención psicológica en las instituciones educativas para el fortalecimiento de la convivencia y la prevención de situaciones de riesgo.",
+            "objective": "Programa PSICÓLOGO EN TU COLE ampliado a 30 instituciones educativas con enfoque en prevención de bullying y violencia familiar.",
+            "goal": "30 IIEE atendidas",
+            "indicator": "N° de estudiantes atendidos / casos derivados a la DEMUNA o CEM."
+          },
+          {
+            "problem": "Limitada formación técnica especializada del personal de Serenazgo, lo que dificulta el fortalecimiento de sus capacidades operativas.",
+            "objective": "Instituto Municipal de Formación del Sereno",
+            "goal": "1 instituto + 4 promociones/año",
+            "indicator": "N.º de serenos egresados, certificados y operativos"
+          },
+          {
+            "problem": "Ausencia infraestructura de piscina pública temperada para actividades deportivas y recreativas.",
+            "objective": "Construcción de la Piscina Municipal Temperada para uso recreativo y deportivo durante todo el año, con accesibilidad universal.",
+            "goal": "1 piscina semiolímpica",
+            "indicator": "N° de usuarios/mes / N° de escuelas deportivas operando."
+          },
+          {
+            "problem": "Limitado equipamiento del personal de Serenazgo para el adecuado registro y documentación de las intervenciones.",
+            "objective": "Equipamiento con body-cam y armas no letales certificadas al personal de Serenazgo, previa instrucción en el Instituto de Formación",
+            "goal": "200 body-cam + dotación de armas no letales",
+            "indicator": "% de intervenciones documentadas / quejas ciudadanas por mal uso de la fuerza."
+          },
+          {
+            "problem": "Limitadas condiciones de seguridad en las pircas de viviendas ubicadas en laderas.",
+            "objective": "Programa REFORZANDO TU PIRCA, con capacitación técnica gratuita y supervisión municipal en laderas críticas.",
+            "goal": "200 viviendas reforzadas",
+            "indicator": "N° de pircas intervenidas con informe técnico / colapsos ante sismos."
+          },
+          {
+            "problem": "Limitada implementación de muros de contención en asentamientos humanos.",
+            "objective": "Construcción de 20 muros de contención en AA.HH.",
+            "goal": "20 muros",
+            "indicator": "Metros lineales ejecutados / población protegida."
+          },
+          {
+            "problem": "Limitada integración del catastro distrital con información predial y social.",
+            "objective": "CATASTRO DISTRITAL al 100 %, integrando datos prediales, sociales (discapacidad, enfermedades crónicas, adultos mayores) y de servicios básicos en una sola plataforma georreferenciada.",
+            "goal": "100 % de predios catastrados",
+            "indicator": "% de predios cargados en GIS municipal / cobertura de capas sociales."
+          },
+          {
+            "problem": "Déficit de iluminación pública en vías y zonas críticas del distrito.",
+            "objective": "Programa ILUMINA PUENTE PIEDRA: sustitución y ampliación de luminarias LED en vías y zonas críticas.",
+            "goal": "1 000 luminarias LED",
+            "indicator": "% de calles con iluminación = 20 lux / ahorro energético anual (kWh)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades de empleo formal y brecha en la formalización laboral en el distrito.",
+            "objective": "Fortalecer y ampliar el programa CHAMBEA PUENTE PIEDRA",
+            "goal": "Beneficiar a más de 5,000 vecinos mediante ferias laborales, programas de capacitación",
+            "indicator": "Número de personas beneficiadas mediante acciones de intermediación laboral, capacitación y acceso al empleo"
+          },
+          {
+            "problem": "Limitada participación económica y empresarial de las mujeres del distrito.",
+            "objective": "Continuar y ampliar la cobertura de la estrategia distrital MUJERES DE HIERRO",
+            "goal": "Incrementar en 50% la cobertura de atención y participación de mujeres en la estrategia Mujeres de Hierro",
+            "indicator": "Número de mujeres beneficiarias de la estrategia Mujeres de Hierro"
+          },
+          {
+            "problem": "Brechas en la promoción y posicionamiento de los negocios del distrito.",
+            "objective": "Catálogo Empresarial de Puente Piedra",
+            "goal": "100 negocios indexados",
+            "indicator": "N° de descargas/consultas"
+          },
+          {
+            "problem": "Enfoque predominantemente fiscalizador, posterior, que lleva a los emprendedores a invertir en locales no aptos antes de ser evaluados técnicamente.",
+            "objective": "Reorientar el rol municipal hacia un enfoque preventivo que dote al vecino de herramientas de diagnóstico antes de iniciar el trámite administrativo.",
+            "goal": "Al primer año: Guías Empresariales Simplificadas, habilitación de las mesas técnicas virtuales y puesta en marcha de los módulos descentralizados. Al segundo año: Integración total de la Plataforma Digital de Formalización con el sistema de consulta automatizada de compatibilidad de uso. Al tercer y cuarto año: Optimización del ecosistema digital, reducción de los tiempos de respuesta institucional y acompañamiento preventivo en todo el distrito. Meta 2030: Mínimo 5.000 atenciones preventivas gratuitas y 30% de reducción en tiempos de formalización.",
+            "indicator": "Número de atenciones de asesoría preventiva y visitas técnicas orientativas realizadas antes del inicio del trámite formal Tiempo promedio (en días hábiles) asociado al proceso de formalización comercial desde la asesoría previa hasta la emisión de la licencia"
+          },
+          {
+            "problem": "Los corredores comerciales de Surco enfrentan problemas de congestión, deterioro urbano, baja digitalización y limitadas capacidades empresariales. Por ello, se requiere una estrategia integral que promueva la recuperación de espacios comerciales, la transformación digital y el fortalecimiento del emprendimiento local.",
+            "objective": "Posicionar a Surco como referente en innovación y emprendimiento mediante una metodología de aceleración empresarial y soporte financiero directo.",
+            "goal": "Al primer año: Incubadora Municipal, primera convocatoria y selección de la primera generación de emprendedores surcanos. Al segundo año: Primer concurso distrital de Capital Semilla y habilitación de los primeros espacios de testeo comercial temporales. Al tercer y cuarto año: Consolidación del ecosistema de innovación del distrito, ejecución de las convocatorias anuales de incubación y capital semilla, y articulación de los graduados con redes de inversión privada y cámaras de comercio. Meta 2030: Incubar y graduar un mínimo de 200 nuevos emprendimientos innovadores y otorgar capital semilla a un mínimo de 50 nuevos negocios liderados por jóvenes y mujeres del distrito.",
+            "indicator": "Número de nuevos emprendimientos locales que culminan exitosamente el programa integral de incubación y mentorías empresariales Número de microempresas emergentes financiadas y puestas en marcha a través de los concursos municipales de Capital Semilla"
+          },
+          {
+            "problem": "Alta informalidad y sobrecostos en MYPEs debido a retrasos, desconocimiento técnico y trabas en trámites de Licencias e ITSE.",
+            "objective": "Formalizar y volver competitivas a las MYPE mediante acompañamiento preventivo, transformación digital y simplificación comercial.",
+            "goal": "Meta general del programa al 2030: Reducir en 50% las observaciones recurrentes en trámites de Licencia e ITSE",
+            "indicator": "Indicador general del Programa: Porcentaje de reducción de observaciones recurrentes en expedientes de Licencia de Funcionamiento e ITSE"
+          },
+          {
+            "problem": "Limitada capacidad de crecimiento de los emprendimientos locales.",
+            "objective": "Incubadora Municipal de Negocios",
+            "goal": "100 emprendimientos incubados",
+            "indicator": "% de emprendimientos formalizados al año 2 / N° de empleos generados."
+          },
+          {
+            "problem": "Brecha en el aprovechamiento de las oportunidades logísticas e inversión privada del Megapuerto de Chancay.",
+            "objective": "Atracción de Almacenes Aduaneros y Operadores 3PL/4PL",
+            "goal": "operadores logísticos instalados",
+            "indicator": "Inversión privada captada / empleos formales generados."
+          },
+          {
+            "problem": "Sección vial de la Panamericana Norte insuficiente para el incremento del tráfico logístico del Megapuerto de Chancay.",
+            "objective": "Gestionar ante las entidades competentes la ampliación de la CARRETERA PANAMERICANA NORTE hasta alcanzar y liberar los 120 metros de sección vial proyectados",
+            "goal": "Gestionar y lograr el inicio del proceso de liberación y ampliación de los 120 metros de sección vial proyectados de la Carretera Panamericana Norte, en coordinación con el Ministerio de Transportes y Comunicaciones",
+            "indicator": "Porcentaje de avance de las gestiones y acciones para la liberación y ampliación de la sección vial de la Panamericana Norte"
+          },
+          {
+            "problem": "Limitadas vías alternas para atender la brecha de segregación entre el tráfico pesado y el transporte ciudadano.",
+            "objective": "Gestión con MTC y MML para vías alternas a la Panamericana Norte que segreguen el tráfico pesado del transporte ciudadano.",
+            "goal": "1 vía alterna en estudio de pre inversión",
+            "indicator": "Hitos del expediente técnico / aprobación de Invierte.pe."
+          },
+          {
+            "problem": "Limitada digitalización de los comerciantes locales y brecha en el acceso a canales de venta en línea.",
+            "objective": "HUB DE DIGITALIZACIÓN Y COMERCIO ELECTRÓNICO: capacitación gratuita en Yape, Plin, Niubiz, WhatsApp Business, manejo de inventarios y marketing digital",
+            "goal": "1 000 comerciantes capacitados",
+            "indicator": "% de comerciantes que adoptan al menos un canal digital de venta"
+          },
+          {
+            "problem": "Las actividades comerciales y turísticas actuales carecen de un esquema de predictibilidad que permita al comercio local prepararse para temporadas bajas.",
+            "objective": "Consolidar a Santiago de Surco como el principal polo de macroeventos de Lima Metropolitana mediante un calendario anual planificado que inyecte flujos económicos.",
+            "goal": "Al primer año: Calendario Anual. Lanzamiento de las primeras ediciones de Festivales. Al segundo año: Implementación de la \"Maratón Comercial de Surco\" en los principales corredores del distrito y expansión del circuito publicitario. Al tercer y cuarto año: Consolidación de la agenda de eventos, autofinanciamiento total de los festivales, logrando máxima participación de comercios surcanos integrados. Meta 2030: Consolidar una agenda fija de un mínimo de 6 macroeventos masivos anuales y lograr un incremento mínimo del 40% en las ventas de los comercios participantes.",
+            "indicator": "Número de macroeventos y festivales de escala metropolitana institucionalizados y ejecutados dentro del calendario anual del distrito. Nivel de incremento porcentual promedio en las ventas declaradas por los comercios locales participantes durante los días de ejecución de los festivales."
+          },
+          {
+            "problem": "Recursos históricos y culturales del distrito sin aprovechamiento turístico organizado.",
+            "objective": "CIRCUITO TURÍSTICO YACHAY con dos ejes integrados: histórico (Museo Municipal y Huaca Tambo Inga)",
+            "goal": "Circuito implementado",
+            "indicator": "N° de visitantes/año / ingreso económico estimado para operadores."
+          },
+          {
+            "problem": "Los pequeños negocios mantienen una limitada incorporación de herramientas digitales e interactividad, restringiendo su visibilidad y competitividad.",
+            "objective": "Impulsar la inserción masiva de las MYPE formales en la economía digital convirtiendo la formalidad en un beneficio directo de ventas.",
+            "goal": "Al primer año: Desarrollo de la aplicación, lanzamiento de la marcha blanca e inicio del empadronamiento y registro digital de los primeros negocios formales piloto. Al segundo año: Lanzamiento de la plataforma web y la app móvil \"Compra en Surco\", incorporando geolocalización activa y la primera campaña comercial digital distrital. Al tercer y cuarto año: Ecosistema digital comercial, automatización de registros vinculados e incorporación de comercios de todos los sectores económicos. Meta 2030: Incorporar y mantener activos a más de 2,000 negocios y emprendimientos formales dentro de la plataforma.",
+            "indicator": "Número de micro y pequeñas empresas formales del distrito registradas y activas dentro de la plataforma \"Compra en Surco\"."
+          },
+          {
+            "problem": "Población local sin formación técnica para acceder a empleos del sector portuario y logístico.",
+            "objective": "Capacitaciones Técnicas Portuari",
+            "goal": "100 capacitaciones /año",
+            "indicator": "% porcentaje de participantes certificados que acceden a empleo"
+          },
+          {
+            "problem": "Establecimientos gastronómicos sin certificación en buenas prácticas de manipulación de alimentos.",
+            "objective": "Programa RUTA GASTRONÓMICA SEGURA con certificación municipal en Buenas Prácticas de Manipulación de Alimentos (BPM) y Guía Gastronómica Oficial.",
+            "goal": "100 restaurantes certificados",
+            "indicator": "N° de establecimientos con certificación BPM vigente / visitas a la guía."
+          },
+          {
+            "problem": "Surco Pueblo cuenta con un activo histórico subexplotado que requiere transitar de la etapa constructiva física a una etapa productiva y comercial.",
+            "objective": "Transformar el casco histórico de Surco Pueblo en el principal eje turístico, cultural y gastronómico del distrito de manera segura y ordenada.",
+            "goal": "Al primer año: Incentivos para la atracción de nuevos operadores gastronómicos y plan piloto del corredor de terrazas. Diseño técnico de los circuitos y rutas turísticas. Al segundo año: Calendario anual de eventos y festivales de fin de semana, integrando a los nuevos comercios establecidos. Al tercer y cuarto: Surco Pueblo como polo gastronómico y cultural de Lima, y 100% de los espacios comerciales de terrazas regulados, formales y activos. Meta 2030: Lograr la instalación de un mínimo de 40 nuevos negocios bajo el sistema de terrazas y mantener una agenda anual de 24 activaciones o ferias.",
+            "indicator": "Número de nuevos establecimientos comerciales y gastronómicos formales que operan bajo la modalidad de terrazas autorizadas con incentivos en Surco Pueblo. Número de actividades culturales, ferias gastronómicas y circuitos turísticos permanentes desarrollados al año en el corredor Surco Pueblo."
+          },
+          {
+            "problem": "Limitada articulación comercial de las MYPE y falta de un plan curricular continuo para medir el impacto real de las capacitaciones en sus ventas.",
+            "objective": "Potenciar las capacidades comerciales y digitales de las MYPE del distrito mediante una malla de entrenamiento permanente certificado y ferias articuladas.",
+            "goal": "Al primer año: Ciclos permanentes de capacitación empresarial e inicio del calendario de ferias itinerantes en las primeras zonas del distrito. Al segundo año: Inclusión de talleres avanzados (como IA para negocios) y escalabilidad de las ferias barriales. Al tercer y cuarto año: Ferias comerciales itinerantes junto con la ejecución de ruedas de negocios a gran escala. Meta 2030: 10,000 emprendedores certificados y más de 100 ferias comerciales realizadas",
+            "indicator": "Número de emprendedores surcanos capacitados y certificados de forma permanente Número de ferias comerciales itinerantes desarrolladas en el distrito"
+          },
+          {
+            "problem": "Emprendedores con limitadas capacidades empresariales y de gestión.",
+            "objective": "Continuar y fortalecer el programa EMPRENDE PUENTE PIEDRA",
+            "goal": "Capacitar y fortalecer las capacidades de al menos 2,000 emprendedores del distrito",
+            "indicator": "Número de emprendedores capacitados y beneficiados por el programa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Brecha en la oferta de parques de gran escala para atender a la población de las zonas centro y norte.",
+            "objective": "Construcción de 2 nuevos PARQUES DE LA CULTURA en la zona centro (Urb. Los Naranjos) y zona norte (Lomas de Zapallal).",
+            "goal": "2 parques de la cultura",
+            "indicator": "Metros cuadrados de área verde habilitada / aforo diario."
+          },
+          {
+            "problem": "Limitada cobertura del servicio de limpieza pública y brecha en la atención de puntos críticos de acumulación de residuos.",
+            "objective": "Programa BARRIO LIMPIO: barrido, baldeo, recuperación de puntos críticos y eliminación progresiva de desmonte.",
+            "goal": "100 % de cobertura urbana",
+            "indicator": "N° de puntos críticos eliminados / toneladas/día recolectadas."
+          },
+          {
+            "problem": "Limitada infraestructura de contención en los puntos críticos de acumulación de residuos del distrito.",
+            "objective": "Instalación de 20 contenedores soterrados con sistema de compactación en puntos críticos.",
+            "goal": "20 contenedores",
+            "indicator": "Reducción de quejas vecinales / volumen recolectado por punto."
+          },
+          {
+            "problem": "Limitada capacidad operativa de la flota de limpieza pública frente a la demanda del distrito.",
+            "objective": "Modernización de la flota: 5 camiones compactadores, 2 camiones baranda y 1 barredora mecánica adicional",
+            "goal": "8 unidades nuevas",
+            "indicator": "% de cobertura por turno / km barridos al día."
+          },
+          {
+            "problem": "Limitada infraestructura de educación ambiental y producción de viveros en la zona centro del distrito.",
+            "objective": "Tercer ECOPARQUE en la zona centro, con vivero municipal, talleres ambientales y zona de educación ecológica.",
+            "goal": "1 ecoparque",
+            "indicator": "N° de visitantes y estudiantes atendidos al año."
+          },
+          {
+            "problem": "El distrito cuenta con 21 zonas de parqueo y 1,617 cajones autorizados, pero requiere consolidar la operación del cobro, mejorar la rotación vehicular, facilitar el pago y optimizar la información sobre disponibilidad de espacios.",
+            "objective": "Modernizar y ampliar la gestión del estacionamiento temporal mediante herramientas digitales, control operativo y mejora del servicio en zonas autorizadas.",
+            "goal": "Al primer año: operación progresiva en zonas autorizadas y diseño del aplicativo. Al segundo año: aplicativo municipal implementado. Al cuarto año: sistema digital de estacionamiento temporal consolidado, con pago digital e información de cajones disponibles en tiempo real.",
+            "indicator": "Número de zonas de parqueo implementadas operativamente. Número de usuarios del aplicativo."
+          },
+          {
+            "problem": "El crecimiento urbano ha incrementado la generación de residuos voluminosos, desmontes menores, muebles en desuso, maleza y residuos especiales que son abandonados en espacios públicos, afectando el ornato urbano.",
+            "objective": "Brindar una respuesta rápida, eficiente y permanente para la atención de incidencias ambientales urbanas en todo el distrito.",
+            "goal": "Al primer año: Implementación de la central digital y diseño de aplicativo móvil. Al segundo año: Integración con plataformas municipales y seguimiento digital de solicitudes. Al tercer año: Expansión del servicio a modalidad extendida por sectores. Al cuarto año: Operación permanente con indicadores de satisfacción vecinal. Meta: Reducir a 12 horas promedio el tiempo de atención de incidencias al 2030.",
+            "indicator": "Tiempo promedio de atención de incidencias."
+          },
+          {
+            "problem": "Sectores del distrito presentan dificultades de acceso a equipamientos y servicios municipales, afectando principalmente a adultos mayores, personas con discapacidad, escolares y vecinos con movilidad reducida.",
+            "objective": "Implementar un servicio municipal de transporte vecinal sostenible, accesible y ordenado que facilite el traslado hacia equipamientos, espacios públicos y servicios municipales.",
+            "goal": "Al cuarto año: implementar el programa Surcanito con 2 rutas y 4 unidades de transporte, facilitando el traslado de vecinos hacia servicios y equipamientos municipales.",
+            "indicator": "Número de rutas habilitadas. Número de unidades implementadas."
+          },
+          {
+            "problem": "Red semafórica distrital con 104 intersecciones, de las cuales 30 están centralizadas y 74 no centralizadas; parte de la infraestructura presenta antigüedad mayor a 15 años y requiere mantenimiento, renovación tecnológica y centralización progresiva.",
+            "objective": "Modernizar progresivamente la red semafórica mediante mantenimiento, renovación de equipos, centralización, semáforos inteligentes y un Centro de Control de Tránsito Distrital articulado con la MML.",
+            "goal": "Al primer año: sinceramiento técnico actualizado y ampliación del mantenimiento semafórico. Al segundo año: pilotos de centralización y semaforización inteligente. Al cuarto año: Centro de Control de Tránsito Distrital operativo y red priorizada modernizada y articulada con la MML.",
+            "indicator": "Número de intersecciones semaforizadas intervenidas. Número de intersecciones con mantenimiento preventivo y correctivo ejecutado."
+          },
+          {
+            "problem": "El monitoreo y control operativo de las 440 toneladas diarias de residuos sólidos se realiza mediante procesos parcialmente manuales, con limitada integración en tiempo real, escasa capacidad predictiva y reducida trazabilidad de incidencias en los 9 sectores operativos.",
+            "objective": "Implementar una plataforma inteligente de gestión ambiental que permita monitorear, controlar y optimizar en tiempo real los servicios de limpieza pública, fortaleciendo la eficiencia operativa, la transparencia y la atención al vecino.",
+            "goal": "Al primer año: Plataforma, integración de GPS en flota operativa y capacitación técnica. Al segundo año: Integración de reportes ciudadanos, automatización de alertas operativas y desarrollo de indicadores de desempeño. Al tercer año: Implementación de inteligencia artificial predictiva e integración con el Centro de Inteligencia Ambiental. Al cuarto año: Consolidación de la gestión predictiva e integración total de servicios ambientales. Meta: Lograr el 100% de la flota monitoreada digitalmente al 2030.",
+            "indicator": "Porcentaje de flota monitoreada digitalmente."
+          },
+          {
+            "problem": "Sectores comerciales y residenciales presentan velocidades inadecuadas, tránsito de paso, conflictos entre vehículos, peatones y ciclistas, y fricción con el entorno barrial; Surco cuenta como antecedente con la Supermanzana Surco Pueblo",
+            "objective": "Implementar Zonas de Tránsito Calmo comerciales y residenciales para reducir velocidades, desincentivar el tránsito de paso y compatibilizar movilidad, actividad económica y convivencia barrial.",
+            "goal": "Al primer año: paquete de ZTC comerciales y residenciales delimitado y priorizado. Al segundo año: pilotos de bajo costo implementados. Al cuarto año: primer paquete priorizado de ZTC consolidado física y operativamente.",
+            "indicator": "Número de ZTC comerciales implementadas. Número de ZTC residenciales implementadas."
+          },
+          {
+            "problem": "Red ciclística distrital con avances en corredores como Av. Primavera, Las Nazarenas y Velasco Astete, pero aún fragmentada y con necesidad de actualización, ampliación e integración con sectores del distrito, transporte público masivo y vías metropolitanas.",
+            "objective": "Actualizar, ampliar e integrar la red ciclística distrital, fortaleciendo la conectividad entre sectores, vías metropolitanas y estaciones de transporte público masivo.",
+            "goal": "Al cuarto año: ampliar la red ciclística de 4.8 km a 10 km e implementar 3 estaciones para bicicletas próximas a estaciones de la Línea 1 del Metro de Lima.",
+            "indicator": "Kilómetros de ciclovías implementadas. Número de estaciones de estacionamiento para bicicletas instaladas. Número de campañas de movilidad sostenible ejecutadas."
+          },
+          {
+            "problem": "Corredores e intersecciones críticas con congestión, cuellos de botella, conflictos de giro, deficiencias geométricas y pérdida de capacidad operativa, que afectan la conectividad distrital y metropolitana.",
+            "objective": "Optimizar la conectividad y capacidad vial del distrito mediante intervenciones en puntos críticos, mejora de intersecciones y ordenamiento de la circulación.",
+            "goal": "Al primer año: cartera de puntos críticos priorizada con aforos, estudios de circulación y propuestas preliminares. Al segundo año: ejecución de intervenciones en intersecciones y corredores priorizados. Al cuarto año: principales puntos críticos intervenidos y articulados con gestión semafórica y coordinación metropolitana.",
+            "indicator": "Número de intersecciones optimizadas."
+          },
+          {
+            "problem": "Estacionamiento indebido, transporte informal, circulación irregular de carga y conductas de riesgo afectan la seguridad vial, la fluidez vehicular y el ordenamiento del espacio público.",
+            "objective": "Fortalecer la fiscalización del tránsito, transporte público y transporte de carga mediante convenios vigentes, personal capacitado y medios tecnológicos de control.",
+            "goal": "Desde el primer año: fortalecer la fiscalización presencial mediante convenios vigentes. Al segundo y tercer año: implementar fiscalización electrónica. Al cuarto año: sistema de fiscalización presencial y tecnológica consolidado, con continuidad mediante renovación o ampliación de convenios.",
+            "indicator": "Número de operativos de fiscalización ejecutados."
+          },
+          {
+            "problem": "Entornos escolares con riesgos en horarios de ingreso y salida por concentración vehicular, estacionamiento indebido, ascenso y descenso desordenado, transporte informal, velocidades inadecuadas y limitada cultura vial.",
+            "objective": "Fortalecer la seguridad vial en entornos escolares mediante mantenimiento, dispositivos de control, señalización, medidas de calmado, apoyo operativo y educación vial.",
+            "goal": "Al primer año: mantenimiento de 9 entornos escolares priorizados y diseño de nuevas zonas escolares. Al segundo año: implementación progresiva de nuevas zonas seguras. Al cuarto año: red distrital de entornos escolares seguros consolidada, con mantenimiento, apoyo operativo y campañas permanentes.",
+            "indicator": "Número de entornos escolares con mantenimiento ejecutado. Número de nuevas zonas escolares seguras implementadas. Número de campañas de educación vial realizadas."
+          },
+          {
+            "problem": "Brecha en el acceso a áreas verdes y parques vecinales por habitante en zonas vulnerables del distrito.",
+            "objective": "Construcción de 30 nuevos parques vecinales en zonas con déficit de área verde por habitante.",
+            "goal": "30 parques",
+            "indicator": "Incremento del ratio m² de área verde/habitante."
+          },
+          {
+            "problem": "Brecha en la gestión sostenible del recurso hídrico utilizado para el riego de áreas verdes.",
+            "objective": "Sistema de Riego Sostenible: ampliación con aguas residuales tratadas y sensores de humedad para alamedas, plazas y parques.",
+            "goal": "70 % de áreas verdes con riego tecnificado",
+            "indicator": "% de ahorro de agua potable destinada al riego."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de dinamizar y modernizar los canales de articulación con los vecinos. Los mecanismos tradicionales requieren una evolución digital y estructural para ampliar la representación territorial de los surcanos.",
+            "objective": "Fortalecer la participación activa de los vecinos en la toma de decisiones municipales.",
+            "goal": "Participación de al menos 20,000 vecinos por año en procesos consultivos. Incrementar la representación territorial en espacios de decisión municipal.",
+            "indicator": "Número de vecinos participantes por año en procesos consultivos. Nivel de representación territorial en los espacios municipales."
+          },
+          {
+            "problem": "Brechas de capacitación o falta de incentivos en el personal municipal.",
+            "objective": "Profesionalizar la gestión pública municipal y fortalecer la meritocracia.",
+            "goal": "100% del personal capacitado anualmente. Incrementar de forma sostenida los indicadores de satisfacción ciudadana.",
+            "indicator": "Porcentaje de personal capacitado anualmente. Nivel de satisfacción ciudadana con la atención del personal municipal."
+          },
+          {
+            "problem": "Persisten oportunidades de mejora en la eficiencia del gasto y la evaluación permanente del desempeño municipal. La ciudadanía demanda una gestión orientada a resultados que optimice la recaudación sin incrementar la carga tributaria.",
+            "objective": "Optimizar el uso de los recursos municipales mediante una gestión basada en indicadores de desempeño.",
+            "goal": "Reducir en 15% los costos administrativos no esenciales. Incrementar en 25% la productividad operativa municipal. Alcanzar una ejecución presupuestal superior al 95%.",
+            "indicator": "Reducción de costos administrativos no esenciales (%). Incremente en la productividad operativa municipal (%). Porcentaje de ejecución presupuestal anual (%)."
+          },
+          {
+            "problem": "Limitada eficiencia en los tiempos de atención de trámites municipales y brecha en la descentralización del servicio.",
+            "objective": "Optimización de los CENTROS DE ATENCIÓN AL VECINO en la sede central y 2 agencias descentralizadas, con atención presencial en máximo 15 minutos para 12 procedimientos clave.",
+            "goal": "= 15 min de atención",
+            "indicator": "Tiempo promedio por trámite / encuesta de satisfacción = 80 %"
+          },
+          {
+            "problem": "Brecha tecnológica en la interoperabilidad de los sistemas municipales con las plataformas del Estado",
+            "objective": "GOBIERNO ELECTRÓNICO (e-GOV) con migración a la nube, interoperabilidad con RENIEC, SUNARP, SUNAT y PIDE, e implementación de identidad digital municipal.",
+            "goal": "Interoperabilidad activa con 5 entidades",
+            "indicator": "N° de servicios interoperables / disponibilidad del sistema (uptime = 99,5 %)."
+          },
+          {
+            "problem": "Limitado acceso de los vecinos a servicios municipales descentralizados en sus propios sectores.",
+            "objective": "Campaña dominical PUENTE PIEDRA VIVE: ferias municipales itinerantes con todos los servicios descentralizados.",
+            "goal": "1 feria/semana en zona rotativa",
+            "indicator": "N° de trámites resueltos in situ / N° de vecinos atendidos."
+          },
+          {
+            "problem": "Limitados mecanismos institucionales para detectar, denunciar y sancionar actos de corrupción en la gestión municipal.",
+            "objective": "UNIDAD ANTICORRUPCIÓN autónoma, con canal de denuncias seguro (web, app y telefónico), protección al denunciante y reporte público trimestral.",
+            "goal": "1 unidad operativa",
+            "indicator": "N° de denuncias recibidas / % derivadas a Contraloría o Fiscalía."
+          },
+          {
+            "problem": "Retos vinculados a la simplificación administrativa y la transformación digital integral. Se requieren trámites ágiles que eviten traslados innecesarios, reduzcan los tiempos de espera y disminuyan el uso burocrático del papel.",
+            "objective": "Digitalizar integralmente los servicios municipales para reducir tiempos y costos.",
+            "goal": "90% de los trámites realizados virtualmente. Reducción del 50% en tiempos de atención. Disminución significativa del uso de papel en la administración municipal.",
+            "indicator": "Porcentaje de trámites realizados de forma virtual. Tiempo promedio de atención al vecino. Volumen de reducción de papel en la administración."
+          },
+          {
+            "problem": "Limitada digitalización del acervo documentario municipal y brecha en el acceso público a la información.",
+            "objective": "ARCHIVO DIGITAL MUNICIPAL: digitalización del 100 % del acervo documentario activo con firma digital y publicación en portal de transparencia.",
+            "goal": "100 % del archivo activo digitalizado",
+            "indicator": "N° de documentos indexados / tiempo de búsqueda promedio."
+          },
+          {
+            "problem": "Limitada participación digital de los ciudadanos en los procesos de presupuesto participativo del distrito.",
+            "objective": "Presupuesto Participativo Digital",
+            "goal": "Implementar una plataforma digital de participación ciudadana y lograr que al menos el 60% de los proyectos participativos sean registrados virtualmente.",
+            "indicator": "Número de ciudadanos registrados y porcentaje de participación digital en el Presupuesto Participativo.Número de ciudadanos registrados y porcentaje de participación digital en el Presupuesto Participativo."
+          },
+          {
+            "problem": "Brecha en la digitalización de los servicios municipales que restringe el acceso remoto a los trámites.",
+            "objective": "PLATAFORMA MUNICIPAL VIRTUAL: licencia de funcionamiento, certificados, estados de cuenta, fraccionamientos y pago de tributos 100 % en línea.",
+            "goal": "= 80 % de trámites en línea",
+            "indicator": "% de trámites resueltos sin presencia física / N° de usuarios activos"
+          },
+          {
+            "problem": "Demanda ciudadana por una municipalidad más íntegra y fiscalizable. Falta de sistemas interactivos en tiempo real y canales con trazabilidad segura que eliminen brechas de información y fortalezcan la confianza vecinal.",
+            "objective": "Garantizar una gestión íntegra, abierta y fiscalizable por los ciudadanos.",
+            "goal": "100% de las obras con seguimiento público digital. Publicación mensual de indicadores de gestión. Incrementar los niveles de confianza vecinal en la gestión.",
+            "indicator": "Porcentaje de obras públicas con seguimiento digital activo. Frecuencia de publicación de indicadores de gestión. Nivel de percepción de confianza vecinal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-55_Y11z_e1b04jcEUCknAzoZZa-Uzrkg",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/55_Y11z_e1b04jcEUCknAzoZZa-Uzrkg",
+      "sha256": "35f7e74baee8db57aa3fd2f204e15b84a6a84c828a08975e5cbccd31049e80d7",
+      "accessedAt": "2026-10-02T23:01:15.431Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015170",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015170",
+      "sha256": "3a45350ae8409281d86e87dc8af17d7e9516d39745d9aecd3c4c7309e663234d",
+      "accessedAt": "2026-10-02T23:01:16.054Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "d2c4NJfI5xvmZh3NNMZ0cwB00ruKOCtx",
+  "slug": "jhon-cautivo-hancco-chumpitaz",
+  "electionId": "erm-2026",
+  "name": "Jhon Cautivo Hancco Chumpitaz",
+  "givenNames": "Jhon Cautivo",
+  "surnames": "Hancco Chumpitaz",
+  "age": 38,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:01.280Z",
+      "sourceId": "jne-hv-d2c4NJfI5xvmZh3NNMZ0cwB00ruKOCtx"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA SAN JUAN BAUTISTA",
+        "program": "ESTUDIANTE",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "CONDUCTOR",
+      "from": "2015",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DE ORGANIZACIONES SOCIALES",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "position": "SECRETARIO DE JUVENTUDES",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2022",
+      "to": "2023"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 0,
+        "private": 36000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11539,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7f6b1e1f-9363-4d9a-b662-90a86d056f01.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/996ef6e7-f5d1-4b2b-8aee-8432c6fae85e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1. Persistencia de riesgos para la seguridad ciudadana y necesidad de fortalecer la prevención, vigilancia y capacidad de respuesta ante incidencias que afectan la tranquilidad de los vecinos. 2. Necesidad de ampliar el acceso de los vecinos a servicios de salud preventiva, atención comunitaria y programas de bienestar. 3. Necesidad de fortalecer oportunidades de desarrollo para jóvenes, emprendedores, adultos mayores y poblaciones vulnerables.",
+            "objective": "1. Fortalecer la seguridad ciudadana mediante patrullaje inteligente, modernización del Serenazgo, incorporación de tecnología, coordinación con la Policía Nacional y participación vecinal. 2. Implementar Surco Salud 2.0 para fortalecer la atención preventiva, descentralizada y accesible para todos los vecinos. 3. Promover programas de capacitación, emprendimiento, inclusión social, liderazgo ciudadano y desarrollo comunitario.",
+            "goal": "1. Reducir en 20% el tiempo promedio de respuesta ante emergencias y ampliar en 30% la cobertura tecnológica para vigilancia y prevención. 2. Incrementar en 30% las atenciones preventivas y realizar al menos 100 campañas de salud durante el período de gestión. 3. Beneficiar a más de 10,000 vecinos mediante programas de capacitación, emprendimiento e inclusión social.",
+            "indicator": "1. Tiempo promedio de respuesta ante emergencias; número de cámaras operativas; cobertura de patrullaje preventivo. 2. Número de campañas de salud realizadas; número de atenciones preventivas; cobertura de programas de salud comunitaria. 3. Número de beneficiarios de programas de capacitación y emprendimiento; número de actividades comunitarias realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1. Necesidad de fortalecer el desarrollo de emprendimientos locales y mejorar las oportunidades económicas para los vecinos del distrito. 2. Necesidad de fortalecer las competencias laborales y la empleabilidad de jóvenes y vecinos que buscan mejores oportunidades de desarrollo. 3. Necesidad de impulsar la innovación y el aprovechamiento de herramientas tecnológicas para generar nuevas oportunidades de desarrollo económico local.",
+            "objective": "1. Impulsar el programa Surco Emprende para fortalecer capacidades empresariales, promover la formalización y generar mayores oportunidades de crecimiento para emprendedores y pequeños negocios. 2. Promover programas de capacitación, formación digital, empleabilidad y desarrollo de habilidades para facilitar el acceso a oportunidades laborales. 3. Promover espacios de innovación, capacitación tecnológica y transformación digital orientados al desarrollo económico y social de los vecinos.",
+            "goal": "1. Beneficiar a más de 5,000 emprendedores y realizar al menos 100 actividades de capacitación y promoción empresarial durante el período de gestión. 2. Capacitar a más de 8,000 vecinos en habilidades laborales, digitales y de emprendimiento durante el período de gestión. 3. Implementar programas permanentes de innovación y formación tecnológica que beneficien a más de 3,000 vecinos durante la gestión.",
+            "indicator": "1. Número de emprendedores beneficiados; número de capacitaciones realizadas; número de ferias y espacios de promoción económica implementados. 2. Número de beneficiarios de programas de capacitación; número de talleres realizados; número de alianzas institucionales para capacitación y empleo. 3. Número de programas de innovación implementados; número de participantes en actividades de formación tecnológica; número de iniciativas apoyadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1. Persistencia de problemas de congestión vehicular y necesidad de mejorar la movilidad urbana y la conectividad en distintos sectores del distrito. 2. Necesidad de fortalecer la protección ambiental, incrementar las áreas verdes y promover una cultura de sostenibilidad en el distrito. 3. Necesidad de mejorar continuamente la limpieza pública, la gestión de residuos y el cuidado del espacio público.",
+            "objective": "1. Implementar la estrategia Surco Conecta para optimizar la movilidad urbana mediante gestión inteligente del tránsito, modernización semafórica, mejora de la conectividad y promoción de proyectos de infraestructura vial. 2. Fortalecer la sostenibilidad ambiental mediante programas de arborización, recuperación de espacios verdes, educación ambiental y promoción de buenas prácticas ambientales. 3. Modernizar los servicios de limpieza pública, fortalecer los programas de reciclaje y promover la corresponsabilidad ciudadana en el cuidado del distrito.",
+            "goal": "1. Implementar mejoras de gestión del tránsito en los principales corredores viales del distrito e impulsar al menos 5 proyectos de mejora de la movilidad urbana durante la gestión. 2. Incrementar la cobertura arbórea del distrito mediante la plantación y reposición de más de 5,000 árboles y el fortalecimiento permanente de las áreas verdes. 3. Implementar mejoras de gestión del tránsito en los principales corredores viales del distrito y gestionar intervenciones de infraestructura y conectividad que contribuyan a una movilidad urbana más eficiente y segura. Incrementar en 30% la participación vecinal en programas de reciclaje y fortalecer la cobertura de limpieza pública en todo el distrito.",
+            "indicator": "1. Intersecciones intervenidas; sistemas de monitoreo implementados; proyectos de mejora de la movilidad gestionados o ejecutados. 2. Número de árboles plantados; áreas verdes recuperadas o mejoradas; actividades de educación ambiental realizadas. 3. Cobertura de limpieza pública; cantidad de residuos reciclados; número de campañas de sensibilización realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1. Necesidad de fortalecer la transparencia, el acceso a la información pública y los mecanismos de rendición de cuentas para fortalecer la confianza de los vecinos en la gestión municipal. 2. Necesidad de modernizar la atención municipal, simplificar trámites y mejorar la interacción entre la municipalidad y los vecinos. 3. Necesidad de fortalecer la eficiencia institucional y acercar los servicios municipales a todos los sectores del distrito.",
+            "objective": "1. Consolidar una gestión transparente y abierta mediante la publicación permanente de información, indicadores de gestión, seguimiento de compromisos y mecanismos de fiscalización ciudadana. 2. Implementar y consolidar SURCO 360 como ecosistema digital integrado para trámites, servicios municipales, participación ciudadana, seguimiento de solicitudes y acceso a información pública. 3.Implementar una gestión descentralizada, basada en resultados, con evaluación permanente de servicios, profesionalización del personal y atención más cercana al vecino.",
+            "goal": "1. Publicar periódicamente indicadores de gestión y garantizar el acceso ciudadano a la información municipal mediante herramientas digitales de transparencia. 2. Digitalizar al menos el 80% de los principales trámites y servicios municipales e integrar progresivamente las áreas municipales a SURCO 360. 3. Incrementar progresivamente la cobertura de atención descentralizada y establecer mecanismos permanentes de evaluación ciudadana de los servicios municipales.",
+            "indicator": "1. Número de informes de gestión publicados; indicadores de gestión disponibles al público; mecanismos de participación implementados. 2. Número de servicios incorporados a SURCO 360; porcentaje de trámites digitalizados; número de usuarios registrados. 3. Número de puntos de atención descentralizada; nivel de satisfacción ciudadana; evaluaciones de desempeño y calidad de servicio."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-d2c4NJfI5xvmZh3NNMZ0cwB00ruKOCtx",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/d2c4NJfI5xvmZh3NNMZ0cwB00ruKOCtx",
+      "sha256": "2f3fbe39d6c951394b6b5ede75391c01f3f502dd3432bdb309d2f6e37bcc4608",
+      "accessedAt": "2026-10-02T23:06:01.280Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018684",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018684",
+      "sha256": "316e22b3a7851d46ead9fc2052c759feda59a9c186a707518a9fc89220b16e34",
+      "accessedAt": "2026-10-02T23:06:01.748Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

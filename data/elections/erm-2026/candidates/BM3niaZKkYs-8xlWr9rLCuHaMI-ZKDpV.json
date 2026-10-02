@@ -1,0 +1,358 @@
+{
+  "id": "BM3niaZKkYs-8xlWr9rLCuHaMI-ZKDpV",
+  "slug": "javier-eduardo-paino-scarpati",
+  "electionId": "erm-2026",
+  "name": "Javier Eduardo Paino Scarpati",
+  "givenNames": "Javier Eduardo",
+  "surnames": "Paino Scarpati",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140124",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:10.956Z",
+      "sourceId": "jne-hv-BM3niaZKkYs-8xlWr9rLCuHaMI-ZKDpV"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "MEDICO ESPECIALISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD FEDERAL DE PARANÁ",
+        "program": "TÍTULO DE MÉDICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1988"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD GEORGE WASHINTON",
+        "program": "DOCTORADO BIOQUIMICA",
+        "completed": true,
+        "degree": "Doctor",
+        "year": "2003"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD MONTE SINAI",
+        "program": "NEUROCIRUJANO",
+        "completed": true,
+        "degree": "DOCTOR",
+        "year": "2001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "MEDICO",
+      "from": "2006",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "FUERZA POPULAR",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 398927,
+        "public": 0,
+        "private": 398927
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 137909.34,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 657075.73,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 37279.83,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 69081.69,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 17959.89,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19132.77,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 55061.87,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 148500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c147b580-9cca-4eb4-8756-9b408756179f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a3b79269-96b1-4cac-bcc8-787e55ecd812.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer las condiciones que favorezcan la autonomía, salud y calidad de vida de la población adulto mayor.",
+            "objective": "Promover estilos de vida saludables e inclusivos para mejorar la calidad de vida de las personas adultas mayores, brindando mayor cobertura y facilidades para acceder a las diversas especialidades del Centro Médico.",
+            "goal": "Aumentar el número de atenciones médicas en un 40% aproximadamente, además de incrementar las especialidades médicas.",
+            "indicator": "Porcentaje de personas adultas mayores que acceden a los servicios de salud que brinda el Centro Médico."
+          },
+          {
+            "problem": "Limitada integración de la población con discapacidad en la vida social, comunitaria y en el acceso a los servicios del distrito.",
+            "objective": "Fortalecer la inclusión y la participación plena de las personas con discapacidad mediante servicios, espacios y programas accesibles.",
+            "goal": "Al 2030, se espera duplicar el número de personas con discapacidad debidamente empadronadas que se integren y participen de los programas y servicios que brinda la Municipalidad de San Isidro.",
+            "indicator": "Porcentaje de personas con discapacidad que participan en programas, actividades y servicios municipales inclusivos."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana en el distrito.",
+            "objective": "Mejorar la capacidad operativa del servicio de seguridad ciudadana.",
+            "goal": "Al 2030, San Isidro contará con un mínimo de 1,500 cámaras de videovigilancia, de las cuales 500 estarán implementadas con Inteligencia Artificial (IA).",
+            "indicator": "Número de cámaras con sistema de identificación de rostros y placas vehiculares implementadas."
+          },
+          {
+            "problem": "Limitada capacidad de respuesta del servicio de serenazgo ante hechos violentos por el uso indiscriminado de armas de fuego.",
+            "objective": "Ampliar el servicio de patrullaje integrado del serenazgo con la Policía Nacional del Perú.",
+            "goal": "Al 2030, San Isidro contará con un mínimo de 200 efectivos policiales para el patrullaje integrado.",
+            "indicator": "Número de efectivos policiales incorporados para el patrullaje integrado."
+          },
+          {
+            "problem": "Poca actividad física en la población del distrito.",
+            "objective": "Fomentar la actividad deportiva con programas de participación masiva vecinal, ampliando la oferta deportiva para promover un estilo de vida saludable.",
+            "goal": "Al 2030, se alcanzará un incremento del 75% de la población que participa en diversas actividades deportivas impulsadas por la municipalidad.",
+            "indicator": "Porcentaje de participación del vecino en programas deportivos."
+          },
+          {
+            "problem": "Falta de espacios suficientes para la integración vecinal, el deporte y la educación comunitaria.",
+            "objective": "Fortalecer la red deportiva, educativa y cultural del distrito.",
+            "goal": "Implementar progresivamente el Polideportivo Linceño; repotenciar la biblioteca infantil; promover la escuela musical, la Casa del Artista y actividades barriales.",
+            "indicator": "Número de escuelas deportivas; talleres culturales; convenios educativos; espacios recuperados."
+          },
+          {
+            "problem": "Insuficiente acceso a programas municipales de salud preventiva, salud mental, deporte y cultura.",
+            "objective": "Implementar Lince Humano mediante programas de salud, deporte, cultura, juventud, mujer, adulto mayor, infancia y personas con discapacidad.",
+            "goal": "Realizar campañas periódicas de salud preventiva y mental; implementar PoliLince Salud; fortalecer programas para adulto mayor, mujer y juventud; recuperar y activar espacios deportivos y culturales.",
+            "indicator": "Campañas realizadas; beneficiarios atendidos; talleres ejecutados; espacios deportivos/culturales recuperados."
+          },
+          {
+            "problem": "Percepción de inseguridad ciudadana y limitada capacidad de respuesta preventiva.",
+            "objective": "Implementar Lince Seguro 360, integrando serenazgo, PNP, cámaras, CECOM, drones, iluminación y participación vecinal.",
+            "goal": "Mapear el 100% de zonas críticas el primer año; repotenciación progresiva del CECOM; implementación gradual de cámaras y patrullaje integrado; reducción progresiva del tiempo de respuesta municipal.",
+            "indicator": "Zonas críticas mapeadas; cámaras operativas; patrullajes integrados; tiempo de respuesta; intervenciones preventivas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Persistencia de actividades económicas informales en espacios públicos, generando ocupación indebida de vías, competencia desleal y afectación al orden urbano.",
+            "objective": "Promover el desarrollo económico local mediante la formalización de actividades económicas, el fortalecimiento empresarial y el ordenamiento del uso económico de los espacios públicos, fortaleciendo la fiscalización y control.",
+            "goal": "Reducir en un porcentaje determinado, entre 30% y 50% según diagnóstico, las actividades económicas informales en espacios públicos al final del periodo de gestión.",
+            "indicator": "Número de operativos de fiscalización ejecutados frente al comercio ambulatorio en la vía pública sin autorización municipal."
+          },
+          {
+            "problem": "Necesidad de impulsar la innovación, el emprendimiento y la economía digital para fortalecer las capacidades de los emprendedores en un entorno digitalizado.",
+            "objective": "Fomentar la innovación y emprendimientos mediante herramientas digitales para consolidar el posicionamiento del distrito como moderno y competitivo.",
+            "goal": "Atender a 200 emprendedores mediante servicios de capacitación y asistencia técnica en innovación, emprendimiento y economía digital.",
+            "indicator": "Número de talleres de habilidades digitales (IA) y número de emprendedores capacitados en innovación y transformación digital."
+          },
+          {
+            "problem": "Limitado fortalecimiento de las micro y pequeñas empresas locales, con reducidas oportunidades de promoción y comercialización.",
+            "objective": "Fomentar el desarrollo económico de las micro y pequeñas empresas locales mediante la implementación de ferias itinerantes que faciliten el acceso a mercados y fortalezcan el emprendimiento local.",
+            "goal": "Realizar 12 ferias itinerantes al año, con la participación de 40 a 60 emprendedores por feria, incrementando la participación de 240 a 360 emprendedores al 2030.",
+            "indicator": "Número de emprendedores sanisidrinos empadronados."
+          },
+          {
+            "problem": "Limitado marco presupuestal para inversiones de gran impacto que mejoren la infraestructura urbana, los espacios públicos, la movilidad y la seguridad ciudadana.",
+            "objective": "Impulsar la ejecución de inversiones mediante mecanismos en los cuales intervenga el sector privado para complementar los recursos públicos y acelerar la ejecución de proyectos.",
+            "goal": "Ejecutar al menos 4 inversiones mediante mecanismos de participación del sector privado durante el periodo de la gestión.",
+            "indicator": "Número de inversiones ejecutadas mediante mecanismos de participación del sector privado (Obras por Impuestos, APP u otros) orientadas al cierre de brechas de infraestructura y servicios públicos."
+          },
+          {
+            "problem": "Conflictos entre las actividades económicas, los vecinos y el uso urbano del distrito.",
+            "objective": "Actualizar criterios de compatibilidad de uso y promover un comercio ordenado con convivencia vecinal.",
+            "goal": "Revisar la compatibilidad de usos; fortalecer la fiscalización preventiva; promover el orden comercial sin maltrato al emprendedor.",
+            "indicator": "Instrumentos revisados; zonas evaluadas; acciones de fiscalización preventiva; conflictos atendidos."
+          },
+          {
+            "problem": "Bajo aprovechamiento del potencial gastronómico, turístico y cultural del distrito.",
+            "objective": "Desarrollar Lince Distrito Gastronómico y reactivar el Festival del Sabor Linceño.",
+            "goal": "Implementar la ruta gastronómica; realizar anualmente el Festival del Sabor Linceño; articular huariques, mercados, restaurantes y emprendimientos.",
+            "indicator": "Negocios incorporados; actividades de promoción; ferias y festivales; participación comercial."
+          },
+          {
+            "problem": "Comercio local con informalidad, baja capacitación y percepción de una fiscalización principalmente sancionadora.",
+            "objective": "Implementar Lince Emprende con formalización, acompañamiento y fiscalización preventiva.",
+            "goal": "Implementar un programa permanente de capacitación y acompañamiento; fortalecer las notificaciones educativas; simplificar trámites para emprendedores.",
+            "indicator": "Comerciantes capacitados; orientaciones preventivas; procedimientos simplificados; campañas de formalización."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Puntos críticos con baja iluminación, deterioro urbano y limitada accesibilidad.",
+            "objective": "Recuperar espacios públicos mediante iluminación, limpieza, accesibilidad y mantenimiento urbano.",
+            "goal": "Elaborar un mapa de puntos críticos; ejecutar un plan de iluminación peatonal; implementar rampas y limpieza de veredas, postes y mobiliario urbano.",
+            "indicator": "Puntos críticos identificados; luminarias gestionadas; rampas implementadas; campañas de limpieza."
+          },
+          {
+            "problem": "Débil cultura de reciclaje y manejo inadecuado de los residuos sólidos.",
+            "objective": "Implementar Lince Recicla y fortalecer la educación ambiental.",
+            "goal": "Implementar puntos de reciclaje; desarrollar campañas en colegios, mercados y juntas vecinales; promover la segregación en la fuente.",
+            "indicator": "Puntos de reciclaje; campañas ambientales; colegios y comercios participantes; residuos segregados."
+          },
+          {
+            "problem": "Deterioro de parques, jardines, áreas verdes y mobiliario urbano.",
+            "objective": "Implementar Lince Verde con mantenimiento integral y recuperación de espacios públicos.",
+            "goal": "Contar con un plan anual de mantenimiento; intervenir progresivamente en parques y espacios priorizados; repotenciar el vivero municipal.",
+            "indicator": "Parques con cronograma; intervenciones ejecutadas; reportes atendidos; áreas recuperadas."
+          },
+          {
+            "problem": "Contaminación sonora generada por unidades móviles que afectan la salud y el bienestar de la población, reduciendo la calidad de vida.",
+            "objective": "Reducir los puntos críticos de contaminación sonora a través de acciones estratégicas a nivel local, utilizando inteligencia artificial para un control y monitoreo digitalizado.",
+            "goal": "Reducir la cantidad a 31 puntos críticos en el mapa de ruido del distrito para el año 2030.",
+            "indicator": "Número de puntos críticos identificados en el mapa del ruido del distrito."
+          },
+          {
+            "problem": "Débil cultura de segregación de residuos sólidos en el distrito.",
+            "objective": "Fortalecer la gestión sostenible de residuos sólidos incrementando la participación vecinal en las actividades de adecuada segregación a través de programas de educación, cultura y ciudadanía ambiental y de reciclaje.",
+            "goal": "Conseguir la intervención efectiva vecinal en las actividades de adecuada segregación de 9,400 personas para el año 2030.",
+            "indicator": "Número de participantes en las actividades de segregación adecuada de residuos sólidos."
+          },
+          {
+            "problem": "Estrés hídrico que pone en riesgo la disponibilidad de abastecimiento de agua para las áreas verdes del distrito.",
+            "objective": "Reducir la vulnerabilidad del distrito frente al estrés hídrico, optimizando el uso del agua a través de la ampliación e implementación de sistemas de riego tecnificado en áreas verdes.",
+            "goal": "Para el 2030, contar con el 50% del total de áreas verdes fortalecidas con el riego a través de sistemas tecnificados.",
+            "indicator": "Porcentaje de áreas verdes regadas con sistema de riego tecnificado."
+          },
+          {
+            "problem": "Necesidad de fortalecer la calidad ambiental frente a los efectos de la contaminación y el cambio climático, considerando la menor disponibilidad de acceso a áreas verdes en algunas zonas.",
+            "objective": "Incrementar el arbolado urbano para mejorar la calidad ambiental y el bienestar de la población.",
+            "goal": "Incrementar el arbolado distrital hasta 36,461 árboles en el distrito para el año 2030.",
+            "indicator": "Número de árboles de especies nativas en el distrito plantados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Déficit de comunicación institucional, transparencia y rendición de cuentas.",
+            "objective": "Fortalecer los canales de comunicación, la transparencia activa y la rendición de cuentas periódica.",
+            "goal": "Publicar avances semestrales; realizar la rendición de cuentas; implementar el tablero ciudadano de metas.",
+            "indicator": "Reportes publicados; audiencias realizadas; solicitudes atendidas; actualizaciones del portal."
+          },
+          {
+            "problem": "Atención municipal lenta, dispersa y con limitada digitalización.",
+            "objective": "Implementar un Municipio Digital, Transparente y Eficiente.",
+            "goal": "Digitalizar progresivamente los servicios principales; habilitar el seguimiento virtual; reducir los plazos de atención; mejorar el portal institucional.",
+            "indicator": "Trámites digitalizados; tiempo de atención; usuarios atendidos digitalmente; expedientes con seguimiento."
+          },
+          {
+            "problem": "Organización municipal poco flexible frente a las nuevas demandas urbanas y tecnológicas.",
+            "objective": "Optimizar la gestión municipal mediante procesos, indicadores y mejora continua.",
+            "goal": "Realizar un diagnóstico organizacional; actualizar los instrumentos de gestión; implementar una gestión por resultados y evaluación anual.",
+            "indicator": "Procesos revisados; instrumentos actualizados; metas monitoreadas; reportes de seguimiento."
+          },
+          {
+            "problem": "Ausencia de una plataforma integral de inteligencia municipal que integre la información de las diferentes áreas.",
+            "objective": "Fortalecer la capacidad institucional mediante la implementación de una plataforma integral de inteligencia de datos para una gestión basada en evidencia, optimizando la planificación, el monitoreo y la toma de decisiones.",
+            "goal": "Integrar el 100% de los sistemas estratégicos municipales en una plataforma centralizada de inteligencia de datos y lograr que el 90% de las decisiones se sustenten en información generada por dicha plataforma para el 2030.",
+            "indicator": "Porcentaje de sistemas estratégicos municipales integrados en la Plataforma Integral de Inteligencia Municipal."
+          },
+          {
+            "problem": "Limitada accesibilidad de servicios municipales y del Texto Único de Procedimientos Administrativos (TUPA).",
+            "objective": "Modernizar la gestión municipal mediante la transformación digital de los servicios y procedimientos administrativos, facilitando el acceso ciudadano y mejorando la calidad de la atención al vecino.",
+            "goal": "Digitalizar el 100% de los procedimientos TUPA viables tecnológicamente y aumentar en un 50% las atenciones realizadas por canales digitales para el 2030.",
+            "indicator": "Porcentaje de procedimientos TUPA digitalizados."
+          },
+          {
+            "problem": "Ausencia de una gestión integral de rutas de recolección de residuos sólidos.",
+            "objective": "Incrementar la eficiencia operativa del servicio de limpieza pública mediante el uso de herramientas de inteligencia de datos, georreferenciación y monitoreo en tiempo real para optimizar las rutas de recolección.",
+            "goal": "Reducir en un 30% el consumo de combustible de los vehículos recolectores mediante la optimización de rutas y operaciones para el 2030.",
+            "indicator": "Consumo total de combustible de la flota de vehículos recolectores."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-BM3niaZKkYs-8xlWr9rLCuHaMI-ZKDpV",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/BM3niaZKkYs-8xlWr9rLCuHaMI-ZKDpV",
+      "sha256": "4fadf675ad9a283565b9633fddd34a21d4fd885fcafd2d32012437c2f7633ebb",
+      "accessedAt": "2026-10-02T23:03:10.956Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016743",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016743",
+      "sha256": "f0836144640397a8b55c3a633b5d30ae8ae1bf4101b3f88cc3d60d427081f793",
+      "accessedAt": "2026-10-02T23:03:11.473Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

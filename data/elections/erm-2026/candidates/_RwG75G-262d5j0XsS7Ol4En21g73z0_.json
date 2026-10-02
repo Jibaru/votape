@@ -1,0 +1,262 @@
+{
+  "id": "_RwG75G-262d5j0XsS7Ol4En21g73z0_",
+  "slug": "olis-yaranga-jacinto",
+  "electionId": "erm-2026",
+  "name": "Olis Yaranga Jacinto",
+  "givenNames": "Olis",
+  "surnames": "Yaranga Jacinto",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:48.718Z",
+      "sourceId": "jne-hv-_RwG75G-262d5j0XsS7Ol4En21g73z0_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Unversidad Continental",
+        "program": "Especialización enGestión Pública",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "EUCIM",
+        "program": "Maesría en Gestión Pública",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Instituto Nacional de Salud",
+      "role": "Coordinador Administrativo",
+      "from": "2003",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "Secretario Distrital de SJM",
+      "party": "PARTIDO POLÍTICO PERU POSIBLE",
+      "from": "2008",
+      "to": "2010"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 58000,
+        "public": 38000,
+        "private": 20000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 22525.2,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/97d68b6e-9d64-4063-b5b5-d35b9e821ffb.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/88222764-04f4-407d-8606-9ad1ef594480.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Decremento en la calidad de vida a causa de la inseguridad ciudadana y un deficiente servicio de seguridad que sitúa al distrito como el más inseguro del Cono Sur de Lima.",
+            "objective": "Hacer uso de nuevas tecnologías como la Inteligencia Artificial para interconectar las diferentes cámaras de videovigilancia y tener cuadrantes de acción monitoreados las 24 horas.",
+            "goal": "Cero atentados en 2030.",
+            "indicator": "Cantidad de robos y atentados frustrados."
+          },
+          {
+            "problem": "Ausencia de participación ciudadana en la seguridad del distrito y existencia de entornos crónicos donde se genera la delincuencia por ausencia de oportunidades.",
+            "objective": "Promover la elección de dirigentes vecinales y comités de seguridad ciudadana.",
+            "goal": "100% de comités.",
+            "indicator": "Cantidad de comités dirigenciales reconocidos."
+          },
+          {
+            "problem": "Deficiencias en el equipamiento y la logística de las instituciones encargadas de hacer cumplir la ley en el distrito.",
+            "objective": "Dotación de indumentaria, vehículos y armas no letales al cuerpo de serenazgo, y adquisición de equipo de escucha e instalación de cámaras de videovigilancia con reconocimiento facial.",
+            "goal": "Disminución de denuncias por robos y asaltos.",
+            "indicator": "Cantidad de sectores seguros."
+          },
+          {
+            "problem": "Servicios deficientes de salud en el distrito.",
+            "objective": "Construcción de un policlínico materno infantil y un policlínico pediátrico.",
+            "goal": "Mayor cobertura de salud.",
+            "indicator": "Porcentaje de ciudadanos atendidos."
+          },
+          {
+            "problem": "Existencia de paraderos informales, tránsito de vehículos pesados en avenidas de dos carriles y pistas en mal estado.",
+            "objective": "Ordenamiento de paraderos señalizados y programa de concientización para el transportista y el comercio ambulatorio.",
+            "goal": "Disminuir la informalidad del transporte vehicular y comercio ambulatorio.",
+            "indicator": "Número de paraderos señalizados con respeto al peatón y el libre tránsito."
+          },
+          {
+            "problem": "Carencia de estadios, pistas atléticas, polideportivos, piscinas y salones para disciplinas deportivas olímpicas y de alta competencia.",
+            "objective": "Recuperación de canchas deportivas y dotación de condiciones para la práctica deportiva de alta competencia.",
+            "goal": "Todas las zonas deben tener una infraestructura deportiva.",
+            "indicator": "Número de canchas deportivas recuperadas."
+          },
+          {
+            "problem": "Inexistencia de infraestructura adecuada para la promoción de la cultura, como teatros, auditorios, anfiteatros y otros espacios para las expresiones del arte.",
+            "objective": "Promover actividades culturales, pasacalles con elencos folclóricos y concursos de poesía escolar, entre otros.",
+            "goal": "Programa deportivo sostenible.",
+            "indicator": "Cantidad de actividades artísticas."
+          },
+          {
+            "problem": "Existencia de predios informales y carentes de saneamiento físico legal, impidiendo la solicitud de servicios básicos.",
+            "objective": "Promover el saneamiento físico legal de los pueblos de la nueva rinconada.",
+            "goal": "Disminuir los asentamientos sin título de propiedad.",
+            "indicator": "Número de pueblos que lograron el saneamiento físico legal."
+          },
+          {
+            "problem": "Inexistencia de programas de incentivos que alienten el desarrollo del estudiante.",
+            "objective": "Creación de fondos de estímulo para los mejores alumnos de las instituciones educativas públicas.",
+            "goal": "Programa de estímulo estudiantil sostenible.",
+            "indicator": "Número de becas otorgadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Brecha de empleo formal y falta de oportunidades laborales para madres de comedores populares.",
+            "objective": "Coordinar con los diferentes gremios empresariales y promover ferias laborales.",
+            "goal": "Disminuir la tasa de desempleo formal en el distrito.",
+            "indicator": "Cantidad de ferias laborales realizadas."
+          },
+          {
+            "problem": "Deficiente atención a las empresas, lo que causa demoras, burocracia, multas y fomenta el comercio informal.",
+            "objective": "Reducir los procedimientos para licencias de funcionamiento, crear ruedas de negocios, premiar la actividad empresarial y crear el Centro de Capacitación al Empresario de San Juan de Miraflores.",
+            "goal": "Tener un grupo empresarial sólido y posicionar a San Juan de Miraflores como un distrito moderno y punto de desarrollo de Lima Sur.",
+            "indicator": "Número de empresas fortalecidas con la participación municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de renovar la infraestructura de la ciudad, como pistas y veredas.",
+            "objective": "Construir pistas de concreto armado.",
+            "goal": "Ser un distrito con una conectividad adecuada.",
+            "indicator": "Cantidad de kilómetros cuadrados de pistas y veredas."
+          },
+          {
+            "problem": "Deficiente mantenimiento de parques y jardines.",
+            "objective": "Construir espacios de esparcimiento seguros, realizar una arborización integral en las zonas de Pamplona y Pampas de San Juan, e incrementar el personal de mantenimiento.",
+            "goal": "Ser un distrito ecológico y amigable en el Cono Sur.",
+            "indicator": "Número de espacios de esparcimiento."
+          },
+          {
+            "problem": "Servicios públicos deficientes en el recojo de residuos sólidos, barrido de calles, y mantenimiento de parques y jardines.",
+            "objective": "Fortalecer el sistema de gestión de residuos sólidos y promover el reciclaje con incentivos para los vecinos.",
+            "goal": "Eliminación de espacios públicos llenos de residuos sólidos que signifiquen una amenaza para la salud pública.",
+            "indicator": "Eliminación de residuos sólidos en las principales vías, programación adecuada del recojo y establecimiento de multas por incumplimiento."
+          },
+          {
+            "problem": "Alta contaminación del medio ambiente por el transporte en las principales vías troncales y alta contaminación sonora.",
+            "objective": "Mejorar la transitabilidad vehicular, instalar semáforos inteligentes y ordenar los paraderos principales.",
+            "goal": "Disminuir la contaminación vehicular.",
+            "indicator": "Nivel de contaminación vehicular."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta morosidad en el pago de arbitrios y tributos.",
+            "objective": "Descentralizar el pago de impuestos, establecer convenios con entidades financieras para la recaudación e incentivar al buen pagador con la creación de un seguro hospitalario.",
+            "goal": "Distrito con mayor presupuesto para la generación de obras.",
+            "indicator": "Aumento de la recaudación en el distrito."
+          },
+          {
+            "problem": "Existencia de un elevado número de comercios informales.",
+            "objective": "Fomentar la formalización con la promoción de la municipalidad.",
+            "goal": "Disminuir la informalidad en el distrito.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Los trámites administrativos tardan demasiado tiempo debido a la burocracia en los procesos actuales.",
+            "objective": "Establecer plazos de atención al ciudadano y acreditar algunos procesos de gestión del municipio.",
+            "goal": "Ser un distrito cuya gestión sea menos burocrática.",
+            "indicator": "Disminución de procesos de gestión."
+          },
+          {
+            "problem": "Necesidad de mejorar la eficiencia, la capacidad y la calidad del gasto en la inversión pública municipal.",
+            "objective": "Garantizar una gestión transparente, eficaz y eficiente, con un control adecuado del gasto y rendición de cuentas periódica con participación ciudadana.",
+            "goal": "Ser un distrito eficaz y eficiente en su calidad de gasto.",
+            "indicator": "Procesos de contratación transparente con la participación de la ciudadanía."
+          },
+          {
+            "problem": "La actual estructura del municipio está diseñada para centralizar trámites.",
+            "objective": "Crear módulos de atención en diversas zonas del distrito y construir una sede municipal en la zona de Margen Derecha.",
+            "goal": "Tener una gestión descentralizada.",
+            "indicator": "Cantidad de módulos instalados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-_RwG75G-262d5j0XsS7Ol4En21g73z0_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/_RwG75G-262d5j0XsS7Ol4En21g73z0_",
+      "sha256": "a95a1c62e09ed63c36bd294adc2e04d3598a3be6b56ba0cd897e200a5072906b",
+      "accessedAt": "2026-10-02T23:03:48.718Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017866",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017866",
+      "sha256": "51b469534f9e9013cdf6f0ac20829a4215049951734b469c9982af796db2e76b",
+      "accessedAt": "2026-10-02T23:03:49.257Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

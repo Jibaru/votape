@@ -1,0 +1,239 @@
+{
+  "id": "LFV7k9Bz060Um_eQHmxqg9wbsQUBHA_t",
+  "slug": "tony-elbert-rojas-espinoza",
+  "electionId": "erm-2026",
+  "name": "Tony Elbert Rojas Espinoza",
+  "givenNames": "Tony Elbert",
+  "surnames": "Rojas Espinoza",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 3046,
+    "name": "COOPERACION, VERDAD Y HONRADEZ"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:29.776Z",
+      "sourceId": "jne-hv-LFV7k9Bz060Um_eQHmxqg9wbsQUBHA_t"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "Bachiller en Derecho y Ciencias Políticas con mención en Derecho Empresarial",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "MAESTRO EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2017"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "GESTION DE INVERSION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIVERSIDAD TECNOLOGICA DEL PERU",
+      "role": "Docente",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIVERSIDAD PRIVADA DEL NORTE",
+      "role": "DOCENTE",
+      "from": "2014",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU POSIBLE",
+      "year": "2016"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 55267,
+        "public": 0,
+        "private": 55267
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GEREM SAC",
+        "type": "ACCIONES",
+        "quantity": 2150,
+        "value": 21.5
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1eb3acf8-7018-479d-b960-f2e86e95c375.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4f375e50-69df-48fc-a757-9fe6d048923b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia común y una creciente percepción de inseguridad que afecta la tranquilidad de las familias del distrito.",
+            "objective": "Reducir significativamente los índices de delincuencia y fortalecer la tranquilidad de las familias olivenses.",
+            "goal": "Reducir en un 30% los delitos contra el patrimonio durante la gestión y recuperar 50 espacios públicos inseguros para convertirlos en zonas seguras para la comunidad.",
+            "indicator": "Porcentaje de reducción de delitos contra el patrimonio. Número de espacios públicos recuperados."
+          },
+          {
+            "problem": "Insuficientes servicios de salud municipal que no responden a la demanda de la población, generando largos tiempos de espera.",
+            "objective": "Garantizar servicios de salud de calidad para todos los vecinos a través del Hospital Municipal.",
+            "goal": "Brindar más de 100,000 atenciones médicas oportunas, reduciendo tiempos de espera y garantizando el acceso a medicamentos a precios sociales.",
+            "indicator": "Número de atenciones médicas oportunas. Reducción de los tiempos de espera."
+          },
+          {
+            "problem": "Falta de oportunidades de capacitación y laborales para los jóvenes, lo que genera frustración e informalidad.",
+            "objective": "Impulsar el desarrollo integral de niños, jóvenes y familias a través de la educación, cultura y tecnología.",
+            "goal": "Capacitar a más de 20,000 jóvenes y facilitar oportunidades laborales para al menos 5,000 de ellos.",
+            "indicator": "Número de jóvenes capacitados. Número de jóvenes con oportunidades laborales facilitadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasas oportunidades económicas y un débil ecosistema emprendedor que limita la generación de empleo y el desarrollo local.",
+            "objective": "Generar oportunidades económicas y fortalecer el ecosistema emprendedor local.",
+            "goal": "Generar más de 10,000 oportunidades de empleo y capacitación.",
+            "indicator": "Número de oportunidades de empleo generadas. Número de oportunidades de capacitación creadas."
+          },
+          {
+            "problem": "Alta informalidad económica y crecimiento descontrolado del comercio ambulatorio, generando competencia desleal y desorden urbano.",
+            "objective": "Promover la formalización progresiva de las micro y pequeñas empresas (MYPES) y ordenar el comercio en el distrito.",
+            "goal": "Implementar la formalización progresiva de MYPES y establecer mesas de diálogo permanentes con comerciantes formales e informales.",
+            "indicator": "Número de MYPES que inician su proceso de formalización. Número de ferias para emprendedores implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de la infraestructura urbana, con déficit en el mantenimiento de pistas, veredas, parques y una inadecuada gestión de los residuos sólidos.",
+            "objective": "Construir un distrito limpio, saludable y ambientalmente responsable, recuperando el orden urbano y mejorando la movilidad.",
+            "goal": "Recuperar 100 parques, mejorar 50 kilómetros de veredas y ejecutar obras de mantenimiento vial en sectores priorizados.",
+            "indicator": "Número de parques recuperados. Kilómetros de veredas mejoradas. Obras de mantenimiento vial ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza ciudadana hacia las autoridades y la gestión pública, debido a la percepción de falta de transparencia y corrupción.",
+            "objective": "Garantizar una gestión honesta, transparente y fiscalizada por los vecinos.",
+            "goal": "Convertir a Los Olivos en un referente nacional de transparencia municipal.",
+            "indicator": "Implementación del portal de transparencia total. Creación del Observatorio Ciudadano Anticorrupción y Fiscalización."
+          },
+          {
+            "problem": "Existencia de procesos administrativos municipales percibidos como lentos, burocráticos y alejados de las necesidades de los ciudadanos.",
+            "objective": "Modernizar la gestión municipal a través de la digitalización y simplificación administrativa para brindar servicios más eficientes.",
+            "goal": "Lograr la digitalización del 100% de los trámites prioritarios.",
+            "indicator": "Porcentaje de trámites prioritarios digitalizados. Reducción del tiempo promedio en la atención de trámites."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-142018",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2DO GUZGADO DE PAZ LETRADO",
+        "expediente": "00104-2004-0-0903-JP-FC-02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-LFV7k9Bz060Um_eQHmxqg9wbsQUBHA_t"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-LFV7k9Bz060Um_eQHmxqg9wbsQUBHA_t",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/LFV7k9Bz060Um_eQHmxqg9wbsQUBHA_t",
+      "sha256": "d3769914792ceaf23f44a37fe12d43b48eef92c72055bd10a2e3a20b2611ee56",
+      "accessedAt": "2026-10-02T22:58:29.776Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021559",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021559",
+      "sha256": "d6fc663cb46b700ccfef5540d67e9e5b326039301245bb8cab76cf845fc1c51b",
+      "accessedAt": "2026-10-02T22:58:30.256Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

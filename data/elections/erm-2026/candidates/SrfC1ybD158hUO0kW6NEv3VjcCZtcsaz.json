@@ -1,0 +1,204 @@
+{
+  "id": "SrfC1ybD158hUO0kW6NEv3VjcCZtcsaz",
+  "slug": "robert-joel-ludena-guerra",
+  "electionId": "erm-2026",
+  "name": "Robert Joel Ludeña Guerra",
+  "givenNames": "Robert Joel",
+  "surnames": "Ludeña Guerra",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:32.553Z",
+      "sourceId": "jne-hv-SrfC1ybD158hUO0kW6NEv3VjcCZtcsaz"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "SENATI",
+        "program": "MECANICO DE CONSTRUCCIONES METALICAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD AUTONOMA DEL PERU",
+        "program": "estudiante",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "IEP HOWARD GARDEN SCHOOL",
+      "role": "GERENTE",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA MOLINA",
+      "role": "COORDINADOR DEL PARQUE ECOLOGICO PARA LA SUBGERENCIA DE ECOLOGIA Y ORNAGO",
+      "from": "2024",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETE BLANCA",
+        "value": 65249.6
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "J LUDEÑA S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 8000,
+        "value": 8000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5cc8ec48-31a5-4f06-bd43-819dbc03df9b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f36ab599-d3cb-4b31-b097-a091ad85cd54.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a educación de calidad, formación técnica y oportunidades de desarrollo cultural y deportivo.",
+            "objective": "Fomentar la educación, la cultura y el deporte para promover el desarrollo integral de niños, jóvenes y adultos del distrito.",
+            "goal": "Implementar la academia preuniversitaria municipal, convenios para becas universitarias, escuelas deportivas gratuitas y talleres artísticos permanentes.",
+            "indicator": "Número de programas educativos, culturales y deportivos implementados; cantidad de beneficiarios de becas y talleres."
+          },
+          {
+            "problem": "Déficit de infraestructura urbana, social y recreativa que afecta la calidad de vida de los vecinos.",
+            "objective": "Mejorar las condiciones de vida de la población mediante la construcción y mejoramiento de infraestructura básica, espacios deportivos y áreas de esparcimiento.",
+            "goal": "Construir pistas y veredas de concreto armado en las siete zonas del distrito, crear el Estadio Municipal de VMT y nuevos parques familiares recreativos.",
+            "indicator": "Número de obras de infraestructura ejecutadas, como pistas, veredas, losas deportivas y parques."
+          },
+          {
+            "problem": "Falta de espacios y programas de apoyo específicos para poblaciones vulnerables como jóvenes, mujeres y personas con autismo.",
+            "objective": "Brindar soporte y crear oportunidades para el desarrollo personal, profesional y la inclusión de jóvenes, mujeres y personas con habilidades diferentes.",
+            "goal": "Construir y poner en funcionamiento la Casa de la Juventud y la Casa de la Mujer Villamariana, e implementar el programa \"TEA Abraza\" para el apoyo integral a familias dentro del espectro autista.",
+            "indicator": "Número de centros de apoyo especializados implementados; cantidad de beneficiarios de programas de inclusión y desarrollo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desorden e informalidad del comercio ambulatorio que afecta el ornato y la transitabilidad.",
+            "objective": "Ordenar y formalizar el comercio ambulatorio para integrarlo a la economía local y mejorar el espacio público.",
+            "goal": "Implementar un programa de apoyo y formalización para el comercio ambulatorio del distrito.",
+            "indicator": "Número de comerciantes ambulantes formalizados; implementación de un plan de ordenamiento comercial."
+          },
+          {
+            "problem": "Escasas oportunidades de empleo formal y emprendimiento, afectando principalmente a jóvenes y mujeres.",
+            "objective": "Impulsar la economía local mediante la generación de oportunidades laborales y el fomento del emprendimiento.",
+            "goal": "Realizar periódicamente ferias laborales para conectar el talento local con empresas, implementar el programa \"Joven Chamba\" y otorgar becas para mujeres emprendedoras.",
+            "indicator": "Número de ferias laborales realizadas; cantidad de becas para mujeres emprendedoras otorgadas; número de jóvenes beneficiados con programas de inserción laboral."
+          },
+          {
+            "problem": "Falta de promoción y espacios para el desarrollo de la gastronomía local como motor de la economía familiar.",
+            "objective": "Promover la gastronomía del distrito para impulsar el talento culinario y fortalecer la economía familiar.",
+            "goal": "Institucionalizar la realización de ferias gastronómicas para visibilizar y fomentar la economía familiar basada en la gastronomía.",
+            "indicator": "Número de ferias gastronómicas organizadas anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos y un deficiente servicio de limpieza pública en el distrito.",
+            "objective": "Lograr un distrito limpio y ordenado a través de un servicio de recolección de residuos eficiente y la implementación de infraestructura para el reciclaje.",
+            "goal": "Implementar una planta de reciclaje, renovar la flota de compactadoras, adquirir una barredora industrial e instalar contenedores estacionarios y subterráneos.",
+            "indicator": "Porcentaje de renovación de la flota de compactadoras; toneladas de material reciclado; número de contenedores instalados."
+          },
+          {
+            "problem": "Deterioro y abandono de áreas verdes y espacios públicos, afectando la calidad ambiental y el ornato.",
+            "objective": "Recuperar, mantener y crear áreas verdes y espacios públicos para mejorar la calidad de vida de los vecinos.",
+            "goal": "Implementar los programas \"Un Árbol, Una Vida\" y \"Adopta un Parque\" para la recuperación y arborización de espacios públicos en todo el distrito.",
+            "indicator": "Hectáreas de áreas verdes recuperadas; número de parques intervenidos; cantidad de árboles plantados."
+          },
+          {
+            "problem": "Baja conciencia ambiental en la comunidad sobre el manejo de residuos y el cuidado de los espacios públicos.",
+            "objective": "Fomentar una cultura de cuidado ambiental y responsabilidad en la gestión de residuos entre los vecinos y la comunidad educativa.",
+            "goal": "Implementar programas de educación ambiental en colegios y desarrollar campañas de concientización como \"Tu Reciclaje son Impuestos\" y el \"Premio a las calles más limpias\".",
+            "indicator": "Número de campañas de sensibilización realizadas; cantidad de colegios con programas de educación ambiental implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia común y percepción de inseguridad ciudadana en la población.",
+            "objective": "Reducir la criminalidad y mejorar la seguridad ciudadana a través del fortalecimiento del serenazgo y la coordinación con la Policía Nacional del Perú.",
+            "goal": "Fortalecer el cuerpo de serenazgo con mayor personal y equipamiento, e implementar el patrullaje integrado con la Policía Nacional en todo el distrito.",
+            "indicator": "Número de serenos contratados y capacitados; tiempo de respuesta ante emergencias; reducción de la tasa de delitos reportados."
+          },
+          {
+            "problem": "Insuficiente infraestructura y tecnología para la vigilancia y prevención efectiva del delito en el distrito.",
+            "objective": "Modernizar el sistema de vigilancia distrital mediante el uso de tecnología para la prevención y el monitoreo del delito.",
+            "goal": "Instalar una central de monitoreo inteligente con cámaras con inteligencia artificial y adquirir drones para la vigilancia aérea en zonas críticas.",
+            "indicator": "Número de cámaras de videovigilancia con inteligencia artificial instaladas; número de drones de vigilancia operativos."
+          },
+          {
+            "problem": "Débil articulación entre la municipalidad, la policía y la comunidad organizada para enfrentar la inseguridad.",
+            "objective": "Fortalecer la cooperación interinstitucional y la participación ciudadana en la seguridad del distrito.",
+            "goal": "Asumir el liderazgo activo del CODISEC, implementar el programa \"VMT Mi Barrio Seguro\" y equipar a las juntas vecinales con radios, chalecos y alarmas.",
+            "indicator": "Nivel de operatividad del Comité Distrital de Seguridad Ciudadana (CODISEC); número de juntas vecinales equipadas y activas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-SrfC1ybD158hUO0kW6NEv3VjcCZtcsaz",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/SrfC1ybD158hUO0kW6NEv3VjcCZtcsaz",
+      "sha256": "1853aaa67f3b0610b0e0c755f9ec96892612a4c177e262dcddb3a6212a105711",
+      "accessedAt": "2026-10-02T23:07:32.553Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017593",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017593",
+      "sha256": "4c86c83a51e4fe74914b684baf4bbc20752319a4a7152c86eb5137f2ab307467",
+      "accessedAt": "2026-10-02T23:07:33.047Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

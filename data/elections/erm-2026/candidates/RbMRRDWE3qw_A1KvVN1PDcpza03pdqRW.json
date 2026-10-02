@@ -1,0 +1,665 @@
+{
+  "id": "RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW",
+  "slug": "felipe-arakaki-shapiama",
+  "electionId": "erm-2026",
+  "name": "Felipe Arakaki Shapiama",
+  "givenNames": "Felipe",
+  "surnames": "Arakaki Shapiama",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140102",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:15.316Z",
+      "sourceId": "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "CORPORACIÓN ARAKAKI Y PERUVIAN FOODS S.A.C.",
+      "role": "GERENTE",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "CORPORACION LATINOAMERICANA ECOINDUSTRIAL S.A.C.",
+      "role": "GERENTE",
+      "from": "2022",
+      "to": "2025"
+    },
+    {
+      "employer": "CORPORACIONES FAZYNE SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "VENTA DE COMIDA",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ANCON",
+      "role": "ALCALDE DISTRITAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "SIEMPRE UNIDOS",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "RENACIMIENTO UNIDO NACIONAL",
+      "year": "2020"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 190425.43,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 384658.2,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "COMBI HYUNDAI, COLOR BLANCO",
+        "value": 13177.5
+      },
+      {
+        "type": "AUTO MAZDA, COLOR NEGRO",
+        "value": 32002.5
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "DEBO DECLARAR QUE TUVE UN PROCESO JUDICIAL QUE RECAE EN EL EXPEDIENTE 01591-2019-0-1817-JR-CO-05 DEL 5TO JUZGADO CIVIL COMERCIAL - (EJECUCION DE GARANTIAS)",
+    "DEBO DECLARAR QUE TUVE UN PROCESO JUDICIAL QUE RECAE EN EL EXPEDIENTE 07072-2020-0-1817-JR-CO-07 DEL 7MO JUZGADO COMERCIAL DE LIMA - (EJECUCION DE GARANTIAS)"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5bef0cd5-149e-49af-b8c9-3f466d6e7650.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c4f3c8a5-b1b6-4842-8aca-b9e5c22cd90c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inadecuada transitabilidad y accesibilidad peatonal: Falta de pistas, veredas y sistemas de drenaje técnico en las zonas periurbanas.",
+            "objective": "Programa Integral de Pavimentación Urbana: Ejecutar el \\'Plan Distrital de Pavimentación 100%\\' para pistas y veredas mediante convenios de financiamiento con el MVCS.",
+            "goal": "Intervenir y pavimentar el 85% de las vías identificadas con déficit de infraestructura.",
+            "indicator": "Porcentaje de kilómetros de pistas/veredas intervenidas."
+          },
+          {
+            "problem": "Asistencialismo que no promueve la autonomía económica: Programas sociales que mantienen dependencia alimentaria sin inclusión productiva.",
+            "objective": "Desarrollo Social e Inclusión Productiva: Reingeniería de Comedores, Ollas Comunes y PVL bajo un Modelo de Incubación de Emprendimientos Sociales para generar autonomía económica.",
+            "goal": "Insertar productivamente a 500 beneficiarios de programas sociales en emprendimientos autónomos.",
+            "indicator": "Número de beneficiarios con emprendimientos activos."
+          },
+          {
+            "problem": "Falta de articulación operativa multisectorial: Esfuerzos aislados entre Serenazgo, Policía Nacional y comités vecinales de vigilancia.",
+            "objective": "Fortalecimiento del CODISEC y Patrullaje Integrado: Potenciar el comité distrital articulando estratégicamente las acciones del cuerpo de Serenazgo con la PNP y las juntas vecinales.",
+            "goal": "Incrementar a un mínimo de 40 operativos conjuntos mensuales en todo el distrito.",
+            "indicator": "Número de operativos conjuntos mensuales."
+          },
+          {
+            "problem": "Bajo rendimiento escolar y exclusión digital: Déficit en el acceso a herramientas tecnológicas de aprendizaje y nivelación académica.",
+            "objective": "Fortalecimiento Educativo y Centros de Innovación Escolar: Implementar Centros de Innovación Escolar (CIEAP) para refuerzo escolar, alfabetización digital y la Academia Municipal PreUniversitaria.",
+            "goal": "Beneficiar a 3,000 estudiantes anuales en los CIEAP y academia municipal.",
+            "indicator": "Número de estudiantes beneficiados con refuerzo escolar."
+          },
+          {
+            "problem": "Elevada tasa de anemia y desnutrición infantil: Prevalencia del 14.5% de desnutrición crónica en sectores vulnerables de menores de 5 años.",
+            "objective": "Estrategia Articulada Contra la Desnutrición Infantil: Activar la Instancia de Articulación Local (IAL) para monitoreo nominal, suplementación oportuna y educación nutricional.",
+            "goal": "Reducir la prevalencia de la anemia infantil en un 40% en las zonas vulnerables del distrito.",
+            "indicator": "Porcentaje de reducción de anemia infantil."
+          },
+          {
+            "problem": "Brecha crítica de servicios básicos de saneamiento: Hasta un 30% de la población periurbana carece de redes de agua y desagüe.",
+            "objective": "Cierre de Brechas de Agua Potable y Alcantarillado: Gestionar y coejecutar con SEDAPAL y el MVCS la ampliación de redes matrices para los sectores desabastecidos.",
+            "goal": "Incrementar la cobertura de agua y alcantarillado formal al 90% del distrito.",
+            "indicator": "Porcentaje de cobertura de servicios básicos."
+          },
+          {
+            "problem": "Vulnerabilidad en las vías de ingreso y salida: Escaso control perimetral que facilita la huida de vehículos sospechosos.",
+            "objective": "Puntos de Control Inteligentes en Accesos: Instalar perímetros de control automatizado con cámaras LPR integradas a bases de datos policiales en los ingresos clave de los tres sectores.",
+            "goal": "Monitorear e inspeccionar digitalmente el 100% de flujos vehiculares en accesos estratégicos.",
+            "indicator": "Número de vehículos verificados por día."
+          },
+          {
+            "problem": "Déficit de vigilancia visual en tiempo real: Puntos ciegos en zonas vulnerables y falta de detección automatizada de conductas sospechosas.",
+            "objective": "Cámaras con Analítica de Video: Instalar cámaras interconectadas por fibra óptica capaces de detectar patrones de conducta sospechosa y alertas tempranas de incidentes.",
+            "goal": "Lograr el 100% de cámaras del distrito operando con analítica automatizada de IA.",
+            "indicator": "Porcentaje de cámaras operativas con analítica inteligente."
+          },
+          {
+            "problem": "Inseguridad ciudadana por falta de sistemas predictivos: Vulnerabilidad en puntos críticos del distrito y respuesta tardía ante delitos.",
+            "objective": "Central de Monitoreo Inteligente: Implementar una Central con Inteligencia Artificial para el reconocimiento óptico de caracteres (LPR) de placas, reconocimiento facial predictivo y mapas del delito en tiempo real (Clustering).",
+            "goal": "Reducir en un 25% la tasa de incidencia delictiva general en el distrito.",
+            "indicator": "Tasa de reducción de incidencia delictiva."
+          },
+          {
+            "problem": "Informalidad de la propiedad en la periferia: Familias en asentamientos humanos consolidados que carecen de seguridad jurídica sobre sus viviendas.",
+            "objective": "Saneamiento Físico-Legal de Asentamientos Humanos: Suscribir convenios con COFOPRI y la MML para acelerar la visación de planos, formalización y entrega de títulos de propiedad.",
+            "goal": "Lograr la inscripción y entrega de 5,000 títulos de propiedad en sectores periféricos.",
+            "indicator": "Número de títulos de propiedad inscritos."
+          },
+          {
+            "problem": "Falta de espacios culturales productivos para jóvenes: Ocio forzado y limitado acceso a industrias creativas que alejen a la juventud de riesgos sociales.",
+            "objective": "Programa Distrital de Industrias Creativas y Arte Urbano (CREA-ANCÓN): Crear centros artísticos multidisciplinarios y una plataforma digital cultural en espacios recuperados.",
+            "goal": "Convocar e integrar a 2,500 jóvenes en los talleres formativos y productivos de CREA-ANCÓN.",
+            "indicator": "Número de jóvenes participantes en programas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Riesgo de contaminación industrial y desempleo: Peligro de impacto ecológico negativo en la instalación de fábricas en el Parque Industrial de Ancón (PIA).",
+            "objective": "Promoción Industrial Responsable: Fiscalización técnica y ambiental rigurosa en el PIA, exigiendo el uso de energías limpias y priorizando la contratación de mano de obra local calificada.",
+            "goal": "Garantizar el 100% de fiscalización en el PIA y una cuota del 40% de empleo para vecinos de Ancón.",
+            "indicator": "Porcentaje de cumplimiento de estándares ambientales."
+          },
+          {
+            "problem": "Mercados de abastos insalubres e inseguros: Infraestructura comercial de alimentos obsoleta, desordenada y con baja salubridad.",
+            "objective": "Programa de Modernización de Mercados Municipales: Ejecutar un plan integral de renovación estructural, salubridad, ordenamiento físico y seguridad alimentaria en los centros de abasto.",
+            "goal": "Remodelar y modernizar el 100% de los mercados municipales del distrito (mínimo 3 grandes complejos).",
+            "indicator": "Número de mercados modernizados."
+          },
+          {
+            "problem": "Trámites burocráticos lentos para la inversión privada: Pérdida de atractivo territorial frente al eje logístico del norte por demoras en licencias.",
+            "objective": "Promoción de Inversiones y Facilitación Empresarial: Crear la Oficina Municipal de Atención al Inversionista (OAMI) como ventanilla única ágil para simplificar procesos corporativos.",
+            "goal": "Atraer 50 nuevas empresas logísticas y reducir trámites corporativos a un máximo de 48 horas.",
+            "indicator": "Número de nuevas empresas instaladas / tiempo de atención."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y sin alta complejidad: Carencia de zonas financieras, de salud especializada o campus universitarios en el distrito.",
+            "objective": "Creación de Smart City Ancón: Diseñar el Plan Maestro de Desarrollo Urbano Integrado que reserve y habilite zonas para ciudad hospitalaria, distrito financiero, campus universitario y áreas de alta densidad.",
+            "goal": "Aprobar el Plan Maestro y dar inicio a la habilitación del 100% de las zonas de equipamiento especial de la Smart City.",
+            "indicator": "Número de hectáreas habilitadas bajo estándares Smart City."
+          },
+          {
+            "problem": "Subexplotación de recursos marinos y pesca artesanal: Bajos ingresos de los pescadores artesanales y procesos informales de desembarque.",
+            "objective": "Fomento de la Economía Azul y Pesca Artesanal: Modernizar los procesos de desembarque, dar capacitación en manipulación sanitaria, certificación de calidad y crear rutas gastronómicas marinas.",
+            "goal": "Elevar en un 30% los ingresos promedio de la comunidad pesquera artesanal del distrito.",
+            "indicator": "Incremento en los ingresos promedio de los pescadores."
+          },
+          {
+            "problem": "Baja competitividad en emprendimientos de vanguardia: Jóvenes sin capital semilla ni asesoría para startups tecnológicas o economías circulares.",
+            "objective": "Impulso al Emprendimiento Tecnológico y Green Startups: Implementar un Hub de Innovación Municipal que brinde asesoría legal, financiera y conectividad avanzada para incubar negocios.",
+            "goal": "Lograr la incubación y puesta en marcha de 30 startups tecnológicas y ecológicas locales.",
+            "indicator": "Número de startups incubadas."
+          },
+          {
+            "problem": "Baja competitividad y alta informalidad comercial: Microempresas locales sin acceso a marketing digital ni articulación con mercados mayores.",
+            "objective": "Desarrollo y Fortalecimiento de la MYPE Local: Capacitación y formalización en alianza con PRODUCE para vincular a las MYPE con las cadenas de valor del PIA y el Puerto de Chancay.",
+            "goal": "Formalizar y fortalecer competitivament e a 1,200 MYPE locales durante la gestión.",
+            "indicator": "Número de MYPE formalizadas y capacitadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta contaminación por transporte motorizado tradicional: Incremento de gases contaminantes en el casco urbano por falta de alternativas de transporte limpio.",
+            "objective": "Promoción de Movilidad Sostenible: Implementar el Plan de Movilidad Urbana Sostenible construyendo ciclovías segregadas y estaciones de micromovilidad para conectar zonas residenciales.",
+            "goal": "Construir e interconectar 12 kilómetros de ciclovías seguras y señalizadas en el distrito.",
+            "indicator": "Kilómetros de ciclovías implementadas."
+          },
+          {
+            "problem": "Acumulación de residuos y baja tasa de reciclaje: Inexistencia de un sistema distrital masivo de segregación de basura en domicilios y comercios.",
+            "objective": "Gestión Integral de Residuos Sólidos y Ecosistemas: Desplegar el programa \"Ancón Recicla\" con segregación en la fuente, repotenciación de la planta de valorización y multas drásticas a infractores.",
+            "goal": "Lograr la recolección y reciclaje efectivo de 1,500 toneladas anuales de residuos aprovechables.",
+            "indicator": "Toneladas de residuos reciclados."
+          },
+          {
+            "problem": "Parques urbanos secos, abandonados y sin mantenimiento: Pérdida de infraestructura recreativa y uso ineficiente de agua potable para regar áreas verdes.",
+            "objective": "Recuperación de Parques y Jardines: Rehabilitación integral de parques públicos usando sistemas de riego tecnificado con aguas residuales tratadas y diseño paisajístico sostenible.",
+            "goal": "Recuperar, modernizar e instalar riego tecnificado en 25 parques del distrito.",
+            "indicator": "Número de parques rehabilitados integralmente"
+          },
+          {
+            "problem": "Falta de áreas verdes e intensas islas de calor: Extensas zonas eriazas desprovistas de árboles nativos y arborización en la periferia del distrito",
+            "objective": "Programa Distrital de Reforestación Urbana \\'Ancón Verde Vital\\': Recuperar espacios públicos críticos plantando especies xerófitas y nativas adaptadas al clima local desértico.",
+            "goal": "Plantar y asegurar la supervivencia de 20,000 árboles nativos en bermas y parques.",
+            "indicator": "Número de árboles nativos plantados."
+          },
+          {
+            "problem": "Turismo estacional que depreda el ecosistema costero: Falta de ordenamiento en playas, lomas e islas que causa acumulación de residuos en verano.",
+            "objective": "Programa de Desarrollo Turístico Sostenible \\'Ancón Destino Vivo\\': Crear un corredor turístico integrado para el casco antiguo, lomas y playas, con señalética inteligente y fiscalización rigurosa.",
+            "goal": "Incrementar el turismo sostenible un 35% en temporada baja y mantener playas limpias todo el año.",
+            "indicator": "Aumento de afluencia turística sostenible en temporada baja."
+          },
+          {
+            "problem": "Desperdicio de residuos orgánicos y aceites contaminantes: Vertido informal de aceites de cocina y desaprovechamiento de basura orgánica de los mercados.",
+            "objective": "Gestión Circular de Residuos y Vivero Municipal: Valorizar aceites usados para biocombustibles, implementar una planta de compostaje municipal y construir el vivero forestal del distrito.",
+            "goal": "Tratar el 50% de residuos orgánicos de mercados y recuperar el 30% del aceite usado comercial.",
+            "indicator": "Litros de aceite y residuos orgánicos valorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja gobernanza y participación vecinal consultiva: Distanciamiento de las organizaciones sociales en las decisiones de priorización del gasto de la comuna.",
+            "objective": "Programa de Gobernanza y Participación Vecinal: Crear el Consejo Municipal de Participación Ciudadana como órgano consultivo e implementar mecanismos digitales de consulta para juntas vecinales.",
+            "goal": "Ejecutar 4 sesiones ordinarias anuales del Consejo y viabilizar los proyectospriorizados por la comunidad.",
+            "indicator": "Número de sesiones del Consejo / % proyectos priorizados."
+          },
+          {
+            "problem": "Desconexión entre el ciudadano y la respuesta de seguridad: Falta de un canal inmediato y georreferenciado para reportar emergencias vecinales.",
+            "objective": "Plataforma Tecnológica Ciudadana y Seguridad Inteligente: Lanzar un aplicativo móvil vecinal que centralice trámites, integre botón de pánico en tiempo real y denuncias con evidencia multimedia.",
+            "goal": "Desplegar el aplicativo en el 90% del distrito y responder incidencias en menos de 24 horas.",
+            "indicator": "Tiempo promedio de respuesta a denuncias por aplicativo."
+          },
+          {
+            "problem": "Burocracia física lenta y expedientes en papel: Excesivo tiempo de espera para el ciudadano en trámites del TUPA y falta de canales virtuales.",
+            "objective": "Transformación Digital y Cero Papel: Digitalizar el 100% de los procedimientos administrativos del TUPA mediante una única ventanilla virtual con firma digital e interoperabilidad PCM.",
+            "goal": "Lograr que el 100% de los trámites del TUPA se puedan realizar íntegramente de manera digital.",
+            "indicator": "Porcentaje de trámites del TUPA digitalizados."
+          },
+          {
+            "problem": "Pérdida de financiamiento externo para grandes obras: Falta de capacidades técnicas para captar recursos de ministerios o de la cooperación internacional.",
+            "objective": "Gestión Intergubernamental y Articulación Territorial: Crear la Oficina de Articulación Intergubernamental para viabilizar transferencias presupuestales y delegación de facultades.",
+            "goal": "Suscribir y ejecutar exitosamente 15 convenios estratégicos de cofinanciamiento con el gobierno central y la MML.",
+            "indicator": "Número de convenios interinstitucionales gestionados."
+          },
+          {
+            "problem": "Vulnerabilidad ante la opacidad y riesgos de corrupción: Necesidad de blindar los procesos de contratación pública e institucionalizar la ética funcionaria.",
+            "objective": "Sistema de Integridad y Control Interno: Implementar el Modelo de Integridad Municipal de la PCM, automatizar la gestión de riesgos internos y aprobar el Código de Ética de la Función Pública.",
+            "goal": "Alcanzar el 100% de cumplimiento del índice de capacidad de integridad auditado por la PCM.",
+            "indicator": "Porcentaje de avance del Modelo de Integridad de la PCM."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-139858",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "3ER JUZGADO CIVIL COMERCIAL",
+        "expediente": "17742-2023-0-1817-JR-CO-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139862",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "10 JUZGADO CIVIL COMERCIAL",
+        "expediente": "08815-2019-0-1817-JR-CO-10",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139316",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "DECIMO JUZGADO CIVIL COMERCIAL",
+        "expediente": "17966-2019-0-1817-JR-CO-15",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139319",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "DÉCIMO TERCER JUZGADO CIVIL Y COMERCIAL",
+        "expediente": "1592-2019-0-1817-JR-CO-13",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139857",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "11VO JUZGADO COMERCIAL DE LIMA",
+        "expediente": "15010-2019-0-1817-JR-CO-11",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139317",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "TERCER JUZGADO CIVIL Y COMERCIAL",
+        "expediente": "00177-2020-0-1817-JR-CO-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139855",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "17 JUZGADO CIVIL COMERCIAL",
+        "expediente": "06466-2021-0-1817-JR-CO-17",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139315",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "SEXTO JUZGADO CIVIL COMERCIAL",
+        "expediente": "10638-2019-0-1817-JR-CO-06",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139860",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "6TO JUZGADO CIVIL COMERCIAL",
+        "expediente": "19722-2018-0-1817-JR-CO-06",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139852",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "JUZGADO 7",
+        "expediente": "00421-2019-0-1801-JP-CI-07",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139861",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "11VO JUZGADO CIVIL COMERCIAL",
+        "expediente": "18273-2018-0-1817-JR-CO-11",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139856",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "15 JUZGADO CIVIL COMERCIAL",
+        "expediente": "11903-2019-0-1817-JR-CO-15",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139314",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "OCTAVO JUZGADO CIVIL Y COMERCIAL",
+        "expediente": "07469-2018-0-1817-JR-CO-08",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139313",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "TERCER JUZGADO CIVIL COMERCIAL",
+        "expediente": "00177-2020-0-1817-JR-CO-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139320",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "CUARTO JUZGADO DE PAZ LETRADO DE COMAS",
+        "expediente": "06241-2021-0-0908-JP-FC-04",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139854",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "3ER JUZGADO CIVIL COMERCIAL",
+        "expediente": "03156-2019-0-18017-JR-CO-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139318",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "SÉPTIMO JUZGADO CIVIL Y COMERCIAL",
+        "expediente": "17822-2019-0-1817-JR-CO-07",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/RbMRRDWE3qw_A1KvVN1PDcpza03pdqRW",
+      "sha256": "93e4215512abf3986ab6b24e24ab9bc3eb4b4f1eee9dd05346063b89b8ee3877",
+      "accessedAt": "2026-10-02T22:50:15.316Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020410",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020410",
+      "sha256": "27d59ea1708e8a2133370c86f6dc6393b5221c9cf07c18fe2a49f3797b158bbf",
+      "accessedAt": "2026-10-02T22:50:15.897Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

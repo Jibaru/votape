@@ -1,0 +1,268 @@
+{
+  "id": "bLQlOhF3ozxEEBc85tEqqxbRkZPPtXBK",
+  "slug": "rosa-elva-torrejon-aragon",
+  "electionId": "erm-2026",
+  "name": "Rosa Elva Torrejon Aragon",
+  "givenNames": "Rosa Elva",
+  "surnames": "Torrejon Aragon",
+  "age": 54,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:34.212Z",
+      "sourceId": "jne-hv-bLQlOhF3ozxEEBc85tEqqxbRkZPPtXBK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Femenina del Sagrado Corazón",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD DEL PACIFICO ESCUELA DE GESTION",
+        "program": "PROGRAMA EJECUTIVO DE POLITICAS PUBLICAS PARA LA PRIMERA INFANCIA",
+        "completed": true,
+        "degree": "FORMATIVO",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD ESAN",
+        "program": "DIPLOMADO EN GERENCIA DE ADMINISTRACION PUBLICA",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "CENTRO DE ALTOS ESTUDIOS NACIONALES",
+        "program": "DIPLIMADO EN ESPECIALIZACION DE GOBIERNO REGIONALES Y LOCALES",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2008"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+      "role": "SUBGERENTE DE BIENESTAR Y PROMOCION SOCIAL E INCLUSION",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "GOBIERNO REGIONAL DE LIMA - UNIDAD EJECUTORA",
+      "role": "GERENTE SUBREGIONAL DE LIMA",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "GOBIERNO REGIONAL DE LIMA",
+      "role": "GERENTE REGIONAL DE DESARROLLO SOCIAL",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "GOBIERNO REGIONAL DE LIMA",
+      "role": "ASISTENTE ADMINISTRATIVO",
+      "from": "2019",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2021"
+    },
+    {
+      "party": "VICTORIA NACIONAL",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 160154.46,
+        "public": 160154.46,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5136a89b-25b8-4944-8e07-15b4326815ee.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/abc4e327-0223-478d-9eb0-1dee0b1d625e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Reducida capacidad de provisión de servicios de salud en el distrito.",
+            "objective": "Mejorar el acceso a los servicios de salud.",
+            "goal": "Aumentar el porcentaje de personas con acceso a los servicios de salud.",
+            "indicator": "Porcentaje de personas con acceso a los servicios de salud."
+          },
+          {
+            "problem": "Bajo logro de aprendizaje en comprensión lectora y matemática en estudiantes de primaria y secundaria.",
+            "objective": "Contribuir al acceso de los servicios de educación en el Distrito.",
+            "goal": "Incrementar los logros de aprendizaje en comprensión lectora y uso de números en estudiantes de segundo grado de EBR a un 40% y 51% respectivamente.",
+            "indicator": "Porcentaje de logros de aprendizaje en educación básica regular."
+          },
+          {
+            "problem": "Inseguridad ciudadana y delitos en el distrito.",
+            "objective": "Disminuir los índices de inseguridad en el distrito y especializar a los efectivos de serenazgo.",
+            "goal": "Disminuir la tasa de inseguridad ciudadana.",
+            "indicator": "Tasa de denuncias en comisión de delitos por cada mil habitantes."
+          },
+          {
+            "problem": "Inadecuado acceso de la población a servicios de agua potable de calidad, alcantarillado y desagüe.",
+            "objective": "Lograr el acceso universal al agua potable, saneamiento e higiene básica para los hogares, escuelas y centros de salud.",
+            "goal": "Alcanzar el 85% de cobertura del sistema de agua potable y desagüe en el distrito.",
+            "indicator": "Porcentaje de población sin acceso a los servicios básicos."
+          },
+          {
+            "problem": "Limitado acceso de las familias a servicios funerarios dignos y accesibles.",
+            "objective": "Brindar un espacio adecuado y accesible para las familias del distrito en situaciones de duelo.",
+            "goal": "Implementar y poner en funcionamiento el Velatorio Municipal de Lurín.",
+            "indicator": "Número de familias beneficiadas por el Velatorio Municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado acceso al financiamiento para las MYPES en el distrito.",
+            "objective": "Promover el acceso a financiamiento a las Micro, pequeñas y medianas empresas (MYPE) y sectores con alto potencial productivo.",
+            "goal": "Otorgamiento de competitividad productiva a las MYPE.",
+            "indicator": "Porcentaje de micro y pequeñas empresas que acceden a PROCOMPITE."
+          },
+          {
+            "problem": "Menor nivel de ingresos en comparación con otras zonas de Lima Metropolitana.",
+            "objective": "Fomentar el empleo en el distrito de Lurín.",
+            "goal": "Disminución de la PEA de Lurín en situación de desempleo.",
+            "indicator": "Tasa de población económicamente activa de Lurín en situación de desempleo."
+          },
+          {
+            "problem": "Inadecuada promoción del turismo en el distrito.",
+            "objective": "Promover la oferta turística con enfoque cultural en el distrito de Lurín.",
+            "goal": "Aumento de visitas guiadas a los lugares turísticos del distrito de Lurín.",
+            "indicator": "Número de visitas guiadas direccionadas a la oferta turística en el distrito de Lurín."
+          },
+          {
+            "problem": "Ausencia de una planificación integral del desarrollo económico y limitado aprovechamiento de las potencialidades productivas del distrito.",
+            "objective": "Promover el desarrollo económico sostenible y competitivo de Lurín mediante la planificación estratégica y el fortalecimiento de sus actividades productivas.",
+            "goal": "Un Plan de Desarrollo Económico Local aprobado durante la gestión.",
+            "indicator": "Plan de Desarrollo Económico Local aprobado e implementado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental generada por las actividades industriales y el crecimiento urbano.",
+            "objective": "Fortalecer la gestión ambiental y reducir la contaminación en el distrito.",
+            "goal": "Mejorar la calidad ambiental del distrito de Lurín.",
+            "indicator": "Número de acciones de monitoreo y fiscalización ambiental realizadas."
+          },
+          {
+            "problem": "Vulnerabilidad de la población y sus medios de vida ante el riesgo de desastres en el distrito de Lurín.",
+            "objective": "Reducir la vulnerabilidad de la población y sus medios de vida ante el riesgo de desastres en el distrito de Lurín.",
+            "goal": "Lograr un distrito seguro y preparado ante desastres naturales.",
+            "indicator": "Porcentaje de población sensibilizada en gestión de riesgo de desastre."
+          },
+          {
+            "problem": "Población poco integrada a una cultura ambiental colectiva en Lurín.",
+            "objective": "Promover la gestión ambiental en el distrito.",
+            "goal": "Implementar acciones para promover una cultura ambiental y mejorar la calidad ambiental del distrito.",
+            "indicator": "Número de acciones ambientales implementadas."
+          },
+          {
+            "problem": "Proliferación de animales en estado de abandono en espacios públicos y privados.",
+            "objective": "Rescatar a los animales en estado de abandono en espacios públicos y privados.",
+            "goal": "Brindar atención integral en alimentación, salud y recreación al 100% de los animales rescatados que ingresen al albergue.",
+            "indicator": "Número de animales que acceden al Albergue Municipal y reciben atención integral."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada participación de los jóvenes en los espacios de decisión pública en el distrito de Lurín.",
+            "objective": "Aumentar la participación de los jóvenes en los espacios de decisión pública en el distrito de Lurín.",
+            "goal": "Otorgamiento de beneficios educativos a todos los participantes del programa de voluntariado municipal.",
+            "indicator": "Número de jóvenes participantes en espacios públicos, asociaciones y actividades de proyección social."
+          },
+          {
+            "problem": "Deficiente Sistema de Control Interno en la lucha contra la corrupción.",
+            "objective": "Fortalecimiento de capacidades técnicas de control Interno en la Municipalidad Distrital de Lurín.",
+            "goal": "Implementación Institucional de un adecuado Sistema de Control Interno preventivo, simultáneo y posterior.",
+            "indicator": "Número de procedimientos de control interno implementados."
+          },
+          {
+            "problem": "Ineficiencia en la oportuna ejecución de procedimientos administrativos digitalizados por la Municipalidad.",
+            "objective": "Promover el gobierno digital como soporte de los procesos de planificación y gestión pública del distrito.",
+            "goal": "Ejecución de procedimientos administrativos digitales.",
+            "indicator": "Porcentaje de procedimientos administrativos digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-bLQlOhF3ozxEEBc85tEqqxbRkZPPtXBK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bLQlOhF3ozxEEBc85tEqqxbRkZPPtXBK",
+      "sha256": "b736698bd80012ce118b9f3178ba7c7edee2773150882158e5f912a208f02762",
+      "accessedAt": "2026-10-02T22:59:34.212Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016515",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016515",
+      "sha256": "87decfe5552335818e1ec49d5ccceb71e10ca044d293fdd5a5290443df9ef17d",
+      "accessedAt": "2026-10-02T22:59:34.755Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

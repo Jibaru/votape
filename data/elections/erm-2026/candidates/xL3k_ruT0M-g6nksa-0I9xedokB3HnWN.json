@@ -1,0 +1,217 @@
+{
+  "id": "xL3k_ruT0M-g6nksa-0I9xedokB3HnWN",
+  "slug": "carlos-alberto-ysla-duran",
+  "electionId": "erm-2026",
+  "name": "Carlos Alberto Ysla Duran",
+  "givenNames": "Carlos Alberto",
+  "surnames": "Ysla Duran",
+  "age": 34,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:43.144Z",
+      "sourceId": "jne-hv-xL3k_ruT0M-g6nksa-0I9xedokB3HnWN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Juan Bautista S.A.C.",
+        "program": "LICENCIADO EN TURISMO, HOTELERÍA Y GASTRONOMÍA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Juan Bautista S.A.C.",
+        "program": "BACHILLER EN TURISMO, HOTELERÍA Y GASTRONOMÍA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CHACLACAYO",
+      "role": "SUBGERENTE",
+      "from": "1999",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 77000,
+        "public": 77000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4c16262c-e864-43ee-99a8-ff2ca5a3fbda.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3528605a-8d8f-4731-89d3-25b37c0ed4db.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Necesidad de ampliación en la cobertura de serenazgo y patrullaje, así como el incremento del sistema de videovigilancia a nivel distrital para la prevención de incidencias delictivas.",
+            "objective": "Optimizar el presupuesto institucional para expandir el patrullaje preventivo integrado, modernizar el monitoreo digital interconectado y capacitar de forma descentralizada a las juntas vecinales organizadas.",
+            "goal": "Rediseñar la estrategia de patrullaje integrado, instalar nuevos puntos de videovigilancia con tecnología de reconocimiento en los accesos y límites distritales, y dotar de equipamiento y capacitación a las Juntas Vecinales.",
+            "indicator": "Grado de cobertura del patrullaje integrado urbano y nivel de expansión y equipamiento en el sistema de videovigilancia municipal."
+          },
+          {
+            "problem": "Largo tiempo de espera de los vecinos vulnerables para acceder a programas del Gobierno Central como Pensión 65, Contigo y Beca 18, debido al limitado presupuesto de vacantes asignado al distrito.",
+            "objective": "Gestionar proactivamente ante los ministerios del Estado un aumento de presupuesto y cobertura para reducir los tiempos de espera, y reforzar las actividades del CIAM y la OMAPED con recursos municipales.",
+            "goal": "Formular y presentar instrumentos de acreditación para sustentar la ampliación de vacantes en programas sociales y planificar el uso eficiente de recursos municipales para asegurar el sostenimiento y ampliación de los talleres del CIAM y la OMAPED.",
+            "indicator": "Instrumentos de acreditación formal presentados ante los ministerios sectoriales para la ampliación de vacantes, y nivel de continuidad operativa de los talleres municipales del CIAM y la OMAPED."
+          },
+          {
+            "problem": "Existencia de asentamientos humanos en zonas altas y periféricas que carecen de acceso formal a redes de servicios básicos como luz, agua y desagüe, afectando sus condiciones de habitabilidad.",
+            "objective": "Desplegar un programa de asistencia técnica y asesoría jurídica municipal gratuita para acelerar el saneamiento físico-legal y la formalización predial de las zonas vulnerables.",
+            "goal": "Conformar un equipo técnico multidisciplinario itinerante, brindar asesoría legal a comités vecinales para la obtención de constancias de posesión y coordinar con las entidades prestadoras de servicios para viabilizar proyectos de inversión.",
+            "indicator": "Grado de implementación de la asistencia técnico-legal municipal para la orientación y formalización de los asentamientos humanos."
+          },
+          {
+            "problem": "Necesidad de fortalecer la masificación del deporte y la actividad física para promover la salud y proteger a los jóvenes, optimizando el estado de las losas y complejos deportivos.",
+            "objective": "Implementar un modelo de deporte preventivo, integral y comunitario, diversificando las disciplinas recreativas y optimizando el uso de la infraestructura deportiva existente en el distrito.",
+            "goal": "Diversificar la oferta de las Escuelas Deportivas Municipales, organizar torneos interbarrios periódicos y ejecutar un plan de mantenimiento rutinario, pintura y equipamiento de las losas y complejos deportivos municipales.",
+            "indicator": "Grado de participación vecinal en las actividades recreativas, nivel de variedad en las disciplinas ofrecidas y estado de conservación de los complejos municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de evaluar y optimizar el esquema tarifario del servicio de agua de administración municipal para equilibrar la proporcionalidad entre el consumo residencial y comercial con criterios de equidad social.",
+            "objective": "Desarrollar un estudio técnico de reingeniería de costos y rediseño del esquema tarifario municipal, bajo la supervisión de las normas del organismo regulador.",
+            "goal": "Realizar un diagnóstico técnico de las conexiones de agua, elaborar un estudio técnico-financiero para un nuevo esquema tarifario diferenciado y someter la propuesta a validación legal para asegurar una facturación justa.",
+            "indicator": "Grado de avance en el estudio técnico tarifario formulado bajo los lineamientos del organismo regulador."
+          },
+          {
+            "problem": "Presencia de barreras burocráticas y tiempos prolongados en la formalización de licencias de funcionamiento para las MYPES, lo que limita la generación de empleo formal en el distrito.",
+            "objective": "Automatizar y simplificar los procesos administrativos municipales mediante la creación de una plataforma digital centralizada que incentive el emprendimiento.",
+            "goal": "Implementar la plataforma digital 'Emprende Chaclacayo' para trámites automatizados, establecer un canal de asesoramiento en línea y unificar los requisitos administrativos para eliminar duplicidades.",
+            "indicator": "Grado de operatividad de las plataformas digitales de atención y nivel de simplificación de trámites con convenios vecinales municipales."
+          },
+          {
+            "problem": "Limitado aprovechamiento del potencial gastronómico y turístico como motor económico local, requiriendo intervención en zonas aledañas al río Rímac y la Carretera Central.",
+            "objective": "Lanzar el programa integral 'Descubre Chaclacayo: Sabor, arte y tradición' para posicionar la marca del distrito como un destino turístico y gastronómico sostenible en la región.",
+            "goal": "Organizar ferias gastronómicas y artesanales periódicas, diseñar circuitos turísticos seguros y desarrollar campañas publicitarias digitales para promocionar los servicios turísticos locales.",
+            "indicator": "Cronograma de ferias, festivales y campañas de promoción económica y turística organizadas de manera mensual por la comuna."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Riesgo constante para las familias por la caída de huaycos en las quebradas y el peligro de desborde del río Rímac, generando preocupación por la falta de diques, mallas protectoras y limpieza de cauces.",
+            "objective": "Realizar una gestión proactiva de inversiones y cofinanciamiento ante el Gobierno Central y Regional para ejecutar infraestructura de protección física de alta ingeniería y prevención de emergencias.",
+            "goal": "Elaborar y sustentar perfiles técnicos para la construcción de diques de contención y mallas dinámicas, suscribir convenios interinstitucionales para el uso de maquinaria y ejecutar campañas de descolmatación del río Rímac.",
+            "indicator": "Avance en la gestión para la instalación de la infraestructura de protección y nivel de continuidad de los trabajos de descolmatación en el distrito."
+          },
+          {
+            "problem": "Desgaste de la capa asfáltica en pistas, deterioro de veredas que limita la movilidad peatonal y falta de paraderos modernos, afectando el ornato del distrito.",
+            "objective": "Ejecutar un plan integral de embellecimiento urbano enfocado en la reparación de veredas, bacheo de pistas y la introducción de infraestructura de transporte sostenible.",
+            "goal": "Desarrollar un programa municipal de reasfaltado y bacheo, gestionar convenios con la Municipalidad de Lima para la intervención de avenidas troncales e implementar una red de 'Ecoparaderos' urbanos.",
+            "indicator": "Estado de renovación de las vías viales y peatonales locales, y nivel de implementación de infraestructura y paraderos urbanos sostenibles."
+          },
+          {
+            "problem": "Necesidad de mejorar la frecuencia del barrido y optimizar las rutas de recojo de basura, así como erradicar la acumulación informal de trastes y material en desuso.",
+            "objective": "Modernizar y reorganizar el servicio de limpieza pública y recojo de basura, mediante el rediseño de rutas y el despliegue periódico del programa 'Techo Limpio'.",
+            "goal": "Ejecutar el rediseño y ampliación de las rutas de recolección de basura, realizar jornadas de desinfección periódicas y desplegar el programa 'Techo Limpio' para la recolección de enseres en desuso.",
+            "indicator": "Grado de optimización de las rutas de recojo y barrido y campañas de recolección de trastes, muebles y material en desuso."
+          },
+          {
+            "problem": "Dificultad para asegurar el riego constante de parques y zonas naturales, riesgo por falta de mantenimiento de árboles y limitado personal operativo para la atención de áreas verdes.",
+            "objective": "Optimizar la conservación de áreas verdes asegurando el servicio de riego, adquiriendo herramientas para poda segura y reforzando las cuadrillas de personal de campo.",
+            "goal": "Coordinar con la junta de regantes para asegurar la limpieza del sistema de riego, adquirir herramientas especializadas para podas seguras e incrementar el número de operarios para ampliar la capacidad de atención.",
+            "indicator": "Estado de conservación de la infraestructura de riego, nivel de equipamiento técnico para la poda de altura y nivel de suficiencia del personal operativo para cubrir las necesidades de mantenimiento."
+          },
+          {
+            "problem": "Necesidad de implementar un sistema de reciclaje municipal que promueva la segregación en la fuente, reduzca los gastos por desecho de residuos y fomente el trabajo formal de los recicladores.",
+            "objective": "Crear e implementar el programa de segregación municipal 'Chacla Recicla', articulando incentivos ciudadanos con la formalización laboral de los recicladores locales.",
+            "goal": "Instalar estaciones de reciclaje en puntos críticos, ejecutar jornadas de sensibilización puerta a puerta y organizar eventos de incentivo como 'Eco-trueques' para promover la formalización de los recicladores.",
+            "indicator": "Grado de implementación del nuevo sistema de reciclaje municipal y nivel de avance en la organización y formalización de la red de recicladores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Centralización de la atención, burocracia presencial y falta de canales modernos y digitalizados para la realización de trámites y el reporte de incidencias en servicios públicos.",
+            "objective": "Impulsar la transformación digital del gobierno local mediante el desarrollo e integración de soluciones tecnológicas accesibles que agilicen la interacción del vecino con la municipalidad.",
+            "goal": "Implementar la plataforma 'Ventanilla Única Virtual' para trámites remotos, lanzar una aplicación móvil para el reporte de incidencias y capacitar al personal para optimizar los flujos administrativos internos.",
+            "indicator": "Estado de implementación de los sistemas de atención y ventanillas virtuales para el uso de la ciudadanía."
+          },
+          {
+            "problem": "Necesidad de consolidar mecanismos preventivos y de control interno para mitigar riesgos de irregularidades en procesos de licitación pública, adquisiciones y ejecución de obras.",
+            "objective": "Fortalecer el Sistema de Control Interno (SCI) a través de acompañamiento técnico constante y acciones de control concurrente articuladas con la OCI y la Contraloría.",
+            "goal": "Implementar revisiones preventivas en licitaciones, capacitar al personal en normativa anticorrupción y facilitar la información técnica requerida por el Órgano de Control Institucional para sus evaluaciones.",
+            "indicator": "Nivel de implementación del acompañamiento de control concurrente que la normativa legal exige."
+          },
+          {
+            "problem": "Desactualización técnica de la base catastral distrital que genera asimetrías en la distribución tributaria, requiriendo una modernización para garantizar la equidad en el cobro de impuestos.",
+            "objective": "Ejecutar un programa de actualización técnica y cartografía digital del catastro municipal para optimizar la equidad en las tasas locales, activando el programa de incentivos 'Mi Barrio Paga, Mi Barrio Gana'.",
+            "goal": "Implementar el levantamiento de información y digitalización cartográfica, establecer mecanismos de actualización predial con criterios de equidad y desplegar un programa de estímulo tributario participativo.",
+            "indicator": "Porcentaje de avance en la modernización y actualización del catastro técnico municipal orientado a la equidad tributaria sectorial."
+          },
+          {
+            "problem": "Necesidad de estrechar el vínculo directo entre el vecino y la autoridad municipal, facilitando espacios presenciales para la escucha y solución de problemas comunitarios.",
+            "objective": "Institucionalizar mecanismos presenciales de diálogo directo y resolutivo donde el alcalde y sus gerentes atiendan las problemáticas específicas de los vecinos.",
+            "goal": "Establecer jornadas periódicas del programa 'Tu Alcalde Escucha', desplegar el programa de forma itinerante en los diferentes sectores y diseñar un flujo administrativo de respuesta obligatoria a las solicitudes vecinales.",
+            "indicator": "Grado de implementación de los canales de atención directa y nivel de resolución interna de los casos vecinales presentados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-xL3k_ruT0M-g6nksa-0I9xedokB3HnWN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/xL3k_ruT0M-g6nksa-0I9xedokB3HnWN",
+      "sha256": "821c45a1ce3b15ce1a575d28e480ece31ad6049daf846360ee400b477ac9fee8",
+      "accessedAt": "2026-10-02T22:53:43.144Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016411",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016411",
+      "sha256": "0d42aab82fe5fbacf617ce8da0cbfce4b01bb8678c7e6580f542e1d91c419d87",
+      "accessedAt": "2026-10-02T22:53:43.670Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

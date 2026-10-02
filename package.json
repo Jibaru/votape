@@ -1,0 +1,51 @@
+{
+  "name": "votape",
+  "version": "0.1.0",
+  "description": "CLI agent-first para consultar candidatos a elecciones peruanas, con todas sus fuentes.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "votape": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "data/elections",
+    "data/sources/catalog.json",
+    "skills",
+    "CORRECTIONS.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "bun run src/cli.ts",
+    "build": "bun run scripts/build.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test",
+    "prepublishOnly": "bun run build && bun test",
+    "ingest": "bun run scripts/ingest/jne-fetch.ts && bun run scripts/ingest/jne-normalize.ts"
+  },
+  "registries": {
+    "@cligentic": "https://cligentic.railly.dev/r/{name}.json"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jibaru/votape.git"
+  },
+  "keywords": [
+    "peru",
+    "elecciones",
+    "candidatos",
+    "jne",
+    "cli",
+    "erm-2026"
+  ]
+}

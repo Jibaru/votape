@@ -1,0 +1,69 @@
+{
+  "id": "140123",
+  "name": "San Bartolo",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "qT9KS6UQi8f7LZgD89xTwhBr56plxEfH",
+      "name": "Yliana Elisa Castro Gregorio",
+      "party": {
+        "id": 1257,
+        "name": "ALIANZA PARA EL PROGRESO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44233,
+      "expediente": "ERM.2026020590"
+    },
+    {
+      "candidateId": "xArTSORxRTMgeCC0aEKyPtP3U4oPCei1",
+      "name": "Rufino Enciso Rios",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42929,
+      "expediente": "ERM.2026015090"
+    },
+    {
+      "candidateId": "uyvBzyoeAKJABuvu3FDYf60AsAJYV8Ke",
+      "name": "Fernando Juan Amador Loayza Garate",
+      "party": {
+        "id": 2943,
+        "name": "PARTIDO POPULAR CRISTIANO - PPC"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49324,
+      "expediente": "ERM.2026022066"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "IMPROCEDENTE",
+      "listId": 46322,
+      "expediente": "ERM.2026021769"
+    },
+    {
+      "candidateId": "j0tLNvIgor9RAzXFhIvipn27g0tYmk-Q",
+      "name": "Yolanda Chavez Rubio",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52526,
+      "expediente": "ERM.2026016122"
+    }
+  ]
+}

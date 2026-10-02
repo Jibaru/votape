@@ -1,0 +1,143 @@
+{
+  "id": "XlNN4PCG69TQdNY7ZkK9_E06641vTxAo",
+  "slug": "netzer-alemao-chavez-flores",
+  "electionId": "erm-2026",
+  "name": "Netzer Alemao Chavez Flores",
+  "givenNames": "Netzer Alemao",
+  "surnames": "Chavez Flores",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2988,
+    "name": "VISION PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:07.587Z",
+      "sourceId": "jne-hv-XlNN4PCG69TQdNY7ZkK9_E06641vTxAo"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Estudio Jurídico Santa María s/ Asociados",
+      "role": "Asistente legal",
+      "from": "2022",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "Auto",
+        "value": 15000
+      },
+      {
+        "type": "Moto",
+        "value": 8000
+      },
+      {
+        "type": "Moto",
+        "value": 8000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1a72f222-1410-4157-bc49-b6f2f79e7454.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5d955655-51e6-4942-8a9e-67b9078f90a7.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Causas estructurales de la inseguridad como la pobreza, desigualdad, falta de oportunidades y exclusión social.",
+            "objective": "Implementar programas de prevención del delito en colegios, fortalecer la participación vecinal en juntas de seguridad y crear centros distritales de reinserción social para jóvenes en riesgo.",
+            "goal": "Implementar programas de prevención y reinserción juvenil, logrando la reducción de la tasa de delitos juveniles en el distrito.",
+            "indicator": "Número de colegios con programas de prevención del delito implementados, porcentaje de jóvenes en riesgo que participan en talleres de reinserción y reducción de la tasa de delitos juveniles en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de empleo digno y formalización laboral que aumenta la vulnerabilidad de jóvenes y familias.",
+            "objective": "Promover ferias de empleo y capacitación técnica para jóvenes, incentivar la formalización de microempresas locales y crear polos de desarrollo económico distrital.",
+            "goal": "Incrementar el número de jóvenes con empleo, aumentar el porcentaje de microempresas formalizadas y mejorar la recaudación tributaria local.",
+            "indicator": "Número de jóvenes insertados en programas de empleo distrital, porcentaje de microempresas formalizadas en el distrito e incremento en la recaudación tributaria local vinculada a negocios formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación, manejo inadecuado de residuos y falta de espacios verdes seguros en el distrito.",
+            "objective": "Establecer brigadas ambientales, implementar programas de reciclaje y economía circular, y crear espacios verdes seguros para fortalecer la convivencia ciudadana.",
+            "goal": "Activar brigadas ambientales y aumentar el porcentaje de residuos sólidos reciclados en mercados y barrios del distrito.",
+            "indicator": "Número de brigadas ambientales activas en el distrito y porcentaje de residuos sólidos reciclados en mercados y barrios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Instituciones de seguridad y justicia con deficiencias en independencia, transparencia y eficacia en su labor.",
+            "objective": "Crear comités distritales de seguridad ciudadana, implementar observatorios de justicia y transparencia, y fortalecer la capacitación de serenazgo y policías locales.",
+            "goal": "Conformar comités de seguridad, capacitar al personal de serenazgo y reducir el tiempo de respuesta a incidentes para mejorar la seguridad ciudadana.",
+            "indicator": "Número de comités de seguridad conformados y activos, porcentaje de personal de serenazgo capacitado en gestión comunitaria y reducción del tiempo promedio de respuesta a incidentes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-XlNN4PCG69TQdNY7ZkK9_E06641vTxAo",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/XlNN4PCG69TQdNY7ZkK9_E06641vTxAo",
+      "sha256": "c56a20701a1fc5d51c9e86b3e3a5d66be3c9eea9ddb16506b0da20a9b3c99c18",
+      "accessedAt": "2026-10-02T22:51:07.587Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022992",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022992",
+      "sha256": "91607ca54081e5dff7e8237da8f2f50d611a2551ac53bf6598f745649400ad64",
+      "accessedAt": "2026-10-02T22:51:08.117Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

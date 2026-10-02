@@ -1,0 +1,213 @@
+{
+  "id": "pOCsAGSCai0iYPY92pkC4rKlhtlJ8K7m",
+  "slug": "luciano-tunoque-mori",
+  "electionId": "erm-2026",
+  "name": "Luciano Tuñoque Mori",
+  "givenNames": "Luciano",
+  "surnames": "Tuñoque Mori",
+  "age": 79,
+  "gender": "Masculino",
+  "party": {
+    "id": 2867,
+    "name": "PARTIDO DEMOCRATA UNIDO PERU"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:12.065Z",
+      "sourceId": "jne-hv-pOCsAGSCai0iYPY92pkC4rKlhtlJ8K7m"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Martín de Porres",
+        "program": "Contador Público",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1983"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Alas Peruanas",
+        "program": "Contabilidad",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CENARES - Ministerio de Salud",
+      "role": "Procesos Contables Financieros",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2015"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 18000,
+        "public": 18000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "-",
+        "value": 41000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c75c4ce8-7018-4b61-8076-0b99d3e08b19.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7f4010b7-5f58-4385-811a-20eb11ca7146.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia y escasez de agua potable y saneamiento en las zonas marginales, sin servicio de tuberías ni alcantarillado.",
+            "objective": "Coordinar directamente con las empresas prestadoras de servicios, como SEDAPAL, para facilitar la autorización y ejecución de proyectos de agua y saneamiento, y apoyar a los pobladores en el saneamiento físico legal de sus terrenos.",
+            "goal": "Lograr la cobertura total de los servicios de agua potable y alcantarillado en las zonas marginales del distrito, garantizando el saneamiento básico para todos los pobladores.",
+            "indicator": "Porcentaje de viviendas en zonas marginales con acceso a agua potable y alcantarillado, número de títulos de propiedad regularizados."
+          },
+          {
+            "problem": "Deficiencia educativa y falta de oportunidades laborales en la población vulnerable del distrito.",
+            "objective": "Crear cunas municipales para los hijos de madres trabajadoras, establecer un convenio con el Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI) para la formación técnica de los jóvenes y construir un velatorio municipal para residentes de escasos recursos.",
+            "goal": "Implementar cunas municipales para niños de uno a cuatro años, una sucursal de SENATI en el distrito y un velatorio municipal para la comunidad de bajos recursos, mejorando las condiciones de vida de la población vulnerable.",
+            "indicator": "Número de cunas municipales implementadas, número de jóvenes beneficiados con carreras técnicas, construcción y operatividad del velatorio municipal."
+          },
+          {
+            "problem": "Falta de apoyo al deporte en todo el distrito de Chorrillos.",
+            "objective": "Fomentar el deporte en todas sus disciplinas para niños, jóvenes y adultos, y conformar una selección de jóvenes para participar en las ligas deportivas de las federaciones correspondientes.",
+            "goal": "Constituir una selección de jóvenes que compita exitosamente en las ligas deportivas de federaciones como fútbol, vóley, atletismo, natación y boxeo, promoviendo un estilo de vida saludable.",
+            "indicator": "Número de selecciones deportivas formadas, número de participaciones en ligas federadas, incremento de la participación ciudadana en actividades deportivas."
+          },
+          {
+            "problem": "Inadecuada atención de salud y falta de servicios de emergencia para la comunidad.",
+            "objective": "Recuperar la Clínica CHORRISALUD para ofrecer atención médica con tarifas sociales y adquirir una ambulancia que esté a disposición de toda la comunidad chorrillana.",
+            "goal": "Poner en pleno funcionamiento la Clínica CHORRISALUD con tarifas accesibles y asegurar la disponibilidad de una ambulancia para atender las emergencias de salud de la comunidad.",
+            "indicator": "Número de atenciones realizadas en la clínica recuperada, tiempo promedio de respuesta de la ambulancia ante emergencias."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Situación precaria de los pescadores de la Caleta de Pescadores.",
+            "objective": "Promover gestiones sostenibles con la dirigencia de los pescadores, implementando tecnologías para que desarrollen sus actividades de manera eficiente y articulando con los ministerios correspondientes para obtener apoyo.",
+            "goal": "Mejorar la eficiencia y sostenibilidad de las actividades pesqueras en la Caleta de Pescadores a través de la modernización tecnológica y el apoyo interinstitucional.",
+            "indicator": "Número de proyectos tecnológicos implementados para la pesca artesanal, acuerdos de cooperación establecidos con entidades ministeriales."
+          },
+          {
+            "problem": "Congestión vehicular y desorden en el comercio ambulatorio.",
+            "objective": "Formalizar y organizar los servicios de transportes menores, ordenar el transporte público para mejorar las condiciones del servicio al pasajero y planificar los recursos públicos en beneficio de la comunidad.",
+            "goal": "Alcanzar un sistema de transporte ordenado, seguro y rápido, junto con la formalización del comercio, para mejorar la fluidez y la actividad económica en el distrito.",
+            "indicator": "Reducción del índice de congestión vehicular, número de transportistas menores formalizados, disminución del comercio ambulatorio informal."
+          },
+          {
+            "problem": "Insuficiente desarrollo económico y desaprovechamiento del potencial turístico y comercial del distrito.",
+            "objective": "Impulsar a Chorrillos como un centro comercial exportador de su riqueza marina y gastronómica, y posicionarlo como uno de los principales destinos turísticos de Lima, promoviendo la Semana Chorrillana.",
+            "goal": "Posicionar al distrito de Chorrillos como un referente turístico y comercial en Lima Metropolitana, dinamizando la economía local y generando nuevas fuentes de trabajo.",
+            "indicator": "Incremento del número de turistas anuales, crecimiento del volumen de exportaciones de productos locales, aumento de la inversión industrial y comercial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente servicio de recojo de residuos sólidos y limpieza pública en el distrito.",
+            "objective": "Mejorar cualitativamente los servicios municipales de limpieza, recojo de residuos sólidos, y mantenimiento de parques y jardines, mediante la adquisición de diez compactadoras y un camión madrina.",
+            "goal": "Optimizar el servicio de recojo de residuos sólidos y su traslado a rellenos sanitarios, garantizando un distrito limpio y saludable, y eliminando la dependencia de terceros para la limpieza pública.",
+            "indicator": "Frecuencia y cobertura del servicio de recojo de residuos, número de nuevas unidades de limpieza operativas, hectáreas de áreas verdes con mantenimiento permanente."
+          },
+          {
+            "problem": "Deficiente prestación de servicios a los ciudadanos que residen en los cerros y laderas del distrito.",
+            "objective": "Habilitar y rehabilitar áreas verdes, ampliar la cobertura de limpieza pública y construir escaleras como medio de conexión y acceso en las laderas y cerros del distrito.",
+            "goal": "Mejorar significativamente las condiciones de habitabilidad y acceso en las zonas altas del distrito, integrándolas al desarrollo urbano y mejorando la calidad de vida de sus residentes.",
+            "indicator": "Superficie de nuevas áreas verdes habilitadas, porcentaje de ampliación de la cobertura de limpieza, metros lineales de escaleras construidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta incidencia delictiva y deficiente servicio de seguridad ciudadana.",
+            "objective": "Fortalecer la seguridad interna mediante la implementación de un Sistema Integrado de Seguridad Ciudadana con participación activa de la población, módulos descentralizados, cámaras de vigilancia y la contratación de efectivos policiales.",
+            "goal": "Crear un Sistema Integrado de Seguridad Ciudadana que articule al municipio, la policía y la comunidad para reducir drásticamente los índices delictivos y convertir a Chorrillos en un distrito seguro.",
+            "indicator": "Reducción de la tasa de criminalidad, número de módulos de seguridad implementados, incremento del personal de serenazgo y policial dedicado a la seguridad del distrito."
+          },
+          {
+            "problem": "Incremento del pandillaje en las zonas marginales del distrito.",
+            "objective": "Crear un Centro de Estudio Técnico Superior para el desarrollo de nuevas oportunidades laborales y la realización de talleres técnicos recreativos dirigidos a los jóvenes.",
+            "goal": "Reducir la incidencia del pandillaje en las zonas marginales, ofreciendo a los jóvenes alternativas de formación técnica y desarrollo personal que les permitan acceder a oportunidades laborales.",
+            "indicator": "Número de centros de estudio técnico creados, cantidad de jóvenes inscritos y egresados de los talleres."
+          },
+          {
+            "problem": "Gestión municipal percibida como poco transparente y desvinculada de la comunidad.",
+            "objective": "Fomentar una gestión transparente y participativa a través de la coordinación con las Juntas Vecinales, la democratización del Presupuesto Participativo, la realización de Cabildos Abiertos y Sesiones de Concejo Descentralizadas.",
+            "goal": "Establecer una gestión municipal transparente, honesta y participativa, que rinda cuentas a la ciudadanía y trabaje en constante coordinación con las organizaciones vecinales para mejorar la calidad de vida.",
+            "indicator": "Número de cabildos abiertos y sesiones descentralizadas realizadas, nivel de ejecución del presupuesto participativo, publicación de la memoria anual de gestión."
+          },
+          {
+            "problem": "Gestión administrativa municipal ineficiente y carente de modernización.",
+            "objective": "Sistematizar la gestión administrativa municipal mediante la informatización de sus procesos para brindar a la comunidad un servicio de calidad, oportuno y veraz sobre sus obligaciones y derechos.",
+            "goal": "Modernizar integralmente la administración municipal a través de la tecnología, para lograr una institución eficiente, competitiva y que brinde servicios de alta calidad a la comunidad chorrillana.",
+            "indicator": "Porcentaje de procesos y trámites municipales digitalizados, reducción en los tiempos de atención al ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-pOCsAGSCai0iYPY92pkC4rKlhtlJ8K7m",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/pOCsAGSCai0iYPY92pkC4rKlhtlJ8K7m",
+      "sha256": "215a7bdb417d21c1c256db507fd93f77b8b626b28c3e2938c2fb1be41fde459f",
+      "accessedAt": "2026-10-02T22:54:12.065Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021252",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021252",
+      "sha256": "e53a0d17046d92d64632cefc3d9371cf2b62e4aad90a03e6ad55f098b5047879",
+      "accessedAt": "2026-10-02T22:54:12.603Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

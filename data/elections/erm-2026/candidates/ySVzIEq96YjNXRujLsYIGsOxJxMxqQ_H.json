@@ -1,0 +1,369 @@
+{
+  "id": "ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H",
+  "slug": "luis-paul-cardenas-sanchez",
+  "electionId": "erm-2026",
+  "name": "Luis Paul Cardenas Sanchez",
+  "givenNames": "Luis Paul",
+  "surnames": "Cardenas Sanchez",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:48.057Z",
+      "sourceId": "jne-hv-ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "MAESTRIA EN GESTIÓN PUBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ABOGADO",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL DE SAN MARTIN DE PORRES",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2016"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 220825.69,
+        "public": 220825.69,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 40000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 79000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "SUZUKI GRAND VITARA",
+        "value": 85000
+      },
+      {
+        "type": "TOYOTA RAV4",
+        "value": 30500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PARTIDA 96415 ES UNA SRL SUKARI BAJA. PARTIDA 13372318 ASOCIACIÓN - ESTOY COMO DIRECTIVO. EXP. 27372001 JUZGADO CIVIL DE LIMA - SESIÓN DE ACCIONES Y DERECHOS."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/05057621-d23b-40d5-8cf4-242efb965912.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/45bbd86c-04ec-4eba-a2b3-963a3f5bcf7b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Los adultos mayores carecen de espacios donde puedan desarrollar sus habilidades",
+            "objective": "Ampliar y mejorar la atención a los adultos mayores",
+            "goal": "Crear e implementar la segunda Casa Distrital del Adulto Mayor al 100%",
+            "indicator": "Ejecución del servicio en los programas de la Casa del Adulto Mayor a todos los adultos mayores del distrito"
+          },
+          {
+            "problem": "Existe población infantil con anemia que no recibe atención",
+            "objective": "Disminuir la anemia infantil",
+            "goal": "Implementación del Programa Luchito para atender a la población infantil con anemia al 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Los vecinos carecen de lugares donde se atiendan a sus mascotas",
+            "objective": "Atender a las mascotas de los vecinos",
+            "goal": "Implementar 01 clínica veterinaria municipal itinerante al 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Los jóvenes y adolescentes del distrito carecen de espacios adecuados para fortalecer su desarrollo",
+            "objective": "Implementar programas para el desarrollo, formación y atención a los jóvenes y adolescentes del distrito",
+            "goal": "Crear e implementar la Casa de la juventud y el Programa de la Academia Municipal Pre Universitaria al 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Los adultos mayores carecen de espacios donde puedan desarrollar sus habilidades",
+            "objective": "Ampliar y mejorar la atención a los adultos mayores",
+            "goal": "Crear e implementar la segunda Casa Distrital del Adulto Mayor al 100%",
+            "indicator": "Ejecución del servicio en los programas de la Casa del Adulto Mayor a todos los adultos mayores del distrito"
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana",
+            "objective": "Disminuir la comisión de delitos en el distrito",
+            "goal": "Implementar 100 cámaras de video vigilancia y 100 alarmas comunitarias al 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Déficit de capacidad de atención en salud por parte de las entidades competentes",
+            "objective": "Complementar el servicio de salud y bienestar para los vecinos del distrito",
+            "goal": "Implementar 02 policlínicos (itinerante y permanente) al 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Las personas con discapacidad carecen de orientación sobre sus derechos",
+            "objective": "Impulsar y/o promover la atención y asesoramiento a las personas con discapacidad",
+            "goal": "Implementar y/o fortalecer la atención a las personas con discapacidad en la OMAPED al 100%",
+            "indicator": "Porcentaje de las personas con discapacidad atendidas"
+          },
+          {
+            "problem": "Se ha incrementado el nivel de violencia contra la población vulnerable",
+            "objective": "Disminuir la violencia contra la población vulnerable (mujeres, niños, niñas y adolescentes)",
+            "goal": "Atender al 100% en la DEMUNA todos los casos de abusos contra la mujer, niños, niñas y adolescentes que se presenten",
+            "indicator": "Porcentaje de atención a la población vulnerable"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existen vecinos que no tienen o no consiguen oportunidades laborales",
+            "objective": "Promover ferias laborales",
+            "goal": "Realización de 05 ferias laborales al año e implementar la bolsa de trabajo– 100%",
+            "indicator": "Índice de ejecución"
+          },
+          {
+            "problem": "Los emprendedores gastronómicos carecen de asistencia para desarrollar e impulsar su actividad",
+            "objective": "Impulsar el desarrollo gastronómico del distrito",
+            "goal": "Capacitación a los emprendedores culinarios dos veces al año y ferias gastronómicas – 100%",
+            "indicator": "Índice de ejecución"
+          },
+          {
+            "problem": "Crecimiento indiscriminado del transporte menor",
+            "objective": "Ordenar y formalizar a los transportistas menores",
+            "goal": "Fiscalización y formalización del transporte menor que no tienen autorización al 100%",
+            "indicator": "Tasa de cobertura de fiscalización"
+          },
+          {
+            "problem": "Los vecinos no conocen los trámites que necesitan para obtener las autorizaciones necesarias desarrollar sus actividades comerciales",
+            "objective": "Orientación a los vecinos sobre los procedimientos para el otorgamiento de autorizaciones para el desarrollo de actividades comerciales",
+            "goal": "Creación del Programa “La Ruta Emprendedora” – 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Carencia de oportunidades para iniciar un emprendimiento",
+            "objective": "Crear la Escuela de Emprendimiento",
+            "goal": "Implementación de 01 Escuela de Emprendimiento al 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Crecimiento del comercio informal sin control",
+            "objective": "Formalizar a los comerciantes informales en espacios temporales y regulados",
+            "goal": "Actualización la Ordenanza Municipal que regula el comercio ambulatorio y el Plan Regulador correspondiente – 100%.",
+            "indicator": "Índice de cumplimiento"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La existencia de residuos sólidos después del recojo por parte de los camiones recolectores",
+            "objective": "Mejorar el servicio de recolección, transporte y disposición final de residuos sólidos",
+            "goal": "Implementación al 100% de un sistema de repaso para evitar la acumulación de residuos sólidos en las vías públicas",
+            "indicator": "Porcentaje de ejecución del servicio"
+          },
+          {
+            "problem": "Los vehículos compactadores de la Municipalidad ya han sobrepasado su vida útil",
+            "objective": "Reemplazar la flota de vehículos compactadoras",
+            "goal": "Adquisición de 08 Vehículos compactadores a 100%",
+            "indicator": "Índice de cumplimiento"
+          },
+          {
+            "problem": "La existencia de infraestructura vial y de transporte que no se han ejecutado, y otras que por el paso de los años se han deteriorado",
+            "objective": "Construir y/o reconstruir la infraestructura vial y de transporte",
+            "goal": "Construcción y/o reconstrucción del 50% de las vías deterioradas y 50% de las vías nuevas",
+            "indicator": "Porcentaje de ejecución"
+          },
+          {
+            "problem": "La falta de personal para el riego de los parques hace que los mismos no cuenten con el debido mantenimiento",
+            "objective": "Incrementar el riego tecnificado a los parques del distrito",
+            "goal": "Conseguir que el 50% de los parques del distrito cuenten con riego tecnificado ampliando la cobertura del sistema de riego distrital",
+            "indicator": "Porcentaje de ejecución"
+          },
+          {
+            "problem": "La existencia de espacios públicos no implementados y parques existentes totalmente descuidados",
+            "objective": "Crear y/o implementar y equipar las áreas para espacios públicos y parques",
+            "goal": "El 100% de las áreas de espacios públicos y parques estarán creados y/o implementados y equipados",
+            "indicator": "Porcentaje de áreas de espacios públicos y parques creados y/o implementados y equipados"
+          },
+          {
+            "problem": "El cauce del río Chillón se ve obstaculizado por diversos factores, generando un peligro en la temporada de subida",
+            "objective": "Limpiar de manera oportuna el cauce del Río Chillón",
+            "goal": "Limpieza anual de descolmatación del cauce – 100%",
+            "indicator": "Índice de ejecución"
+          },
+          {
+            "problem": "Carencia de vías adecuadas para el tránsito de los ciclistas",
+            "objective": "Construcción de ciclovías",
+            "goal": "Implementar 03 ciclovías en las principales vías del distrito al 100%",
+            "indicator": "Porcentaje de ejecución"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El sistema tradicional de la tramitación documentaria es deficiente",
+            "objective": "Implementar un Sistema Gestión Documental",
+            "goal": "Desarrollo o Adquisición, mediante contrato o convenio, del Sistema de Gestión Documental al 100%",
+            "indicator": "Índice de ejecución"
+          },
+          {
+            "problem": "Las constantes quejas y denuncias en el déficit de atención y situaciones de alta probabilidad de ocurrencia de hechos de corrupción",
+            "objective": "Implementar sistemas de gestión antisoborno y lucha contra la corrupción.",
+            "goal": "Implementación del ISO 9001como Sistema de Gestión de Calidad y el ISO 3700 como Sistema de Gestión Antisoborno",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Los trámites administrativos son engorrosos y burocráticos",
+            "objective": "Atender eficientemente los trámites administrativos de los vecinos",
+            "goal": "Implementación de políticas de simplificación administrativa – 100%",
+            "indicator": "Índice de implementación"
+          },
+          {
+            "problem": "Falta de conciencia",
+            "objective": "Establecer una reforma tributaria",
+            "goal": "Reducir la morosidad tributaria al 50%",
+            "indicator": "Indicador de desempeño"
+          },
+          {
+            "problem": "Falta de interés de la población para participar en la gestión municipal",
+            "objective": "Participación de los vecinos para una gestión municipal participativa",
+            "goal": "Ejecución del 100% de los proyectos priorizados en el presupuesto participativo",
+            "indicator": "Índice de ejecución"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-140651",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2° JUZGADO CIVIL - SEDE MBJ CONDEVILLA",
+        "expediente": "164-2003-0-0904-JM-FC-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-140647",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2° JUZGADO DE PAZ LETRADO CONDEVILLA",
+        "expediente": "867-2002-0-0904-JP-FC-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H",
+      "sha256": "cb3314b2567c19af57ac8c4f83c884305396bcf7463b66e052e4cb4d4b295a00",
+      "accessedAt": "2026-10-02T23:04:48.057Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015976",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015976",
+      "sha256": "2018a041aeb5ad0ff7ef4c5fc1041a7786aa7a381c190e6e4f234a138174e22a",
+      "accessedAt": "2026-10-02T23:04:48.602Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

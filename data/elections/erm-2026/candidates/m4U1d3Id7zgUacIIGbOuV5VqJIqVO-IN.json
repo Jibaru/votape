@@ -1,0 +1,295 @@
+{
+  "id": "m4U1d3Id7zgUacIIGbOuV5VqJIqVO-IN",
+  "slug": "luis-alberto-huette-tolentino",
+  "electionId": "erm-2026",
+  "name": "Luis Alberto Huette Tolentino",
+  "givenNames": "Luis Alberto",
+  "surnames": "Huette Tolentino",
+  "age": 65,
+  "gender": "Masculino",
+  "party": {
+    "id": 3001,
+    "name": "PARTIDO POLITICO PUEBLO CONSCIENTE"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:40.581Z",
+      "sourceId": "jne-hv-m4U1d3Id7zgUacIIGbOuV5VqJIqVO-IN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana Los Andes",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "LICENCIADO EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLEREAL",
+        "program": "DOCTOR EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Doctor",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PAZOS&GAMARRA AOSCIADOS SCRL",
+      "role": "CONTADOR-ABOGADO",
+      "from": "2012",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PERU POSIBLE",
+      "year": "2010"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 67300,
+        "public": 0,
+        "private": 67300
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 104914,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 80000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 103000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 152666,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "DESARROLLO ESTRATEGICO SAC",
+        "type": "ACCIONES",
+        "quantity": 99,
+        "value": 49.5
+      },
+      {
+        "company": "GERENCIA JURIDICA SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 5000
+      },
+      {
+        "company": "CONVENIO GERENCIAL SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 5000
+      },
+      {
+        "company": "MPEX OBREAS Y PROYECTOS SAC",
+        "type": "ACCIONES",
+        "quantity": 34,
+        "value": 34000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2e51f590-d5f5-4328-90a8-c17b29668b2e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/65c868c4-872f-43b0-a209-bfcdc2388691.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Sistema de salud municipal con un enfoque predominantemente recuperativo y con acceso limitado para la población en condición de pobreza, especialmente en salud mental.",
+            "objective": "Repotenciar el Sistema de Hospitales de la Solidaridad (SISOL) hacia un enfoque preventivo, creando centros de salud mental, desplegando clínicas móviles y realizando campañas de salud bucal.",
+            "goal": "Lograr que el 40% de las atenciones anuales se enfoquen en medicina preventiva y salud mental.",
+            "indicator": "Porcentaje de atenciones con enfoque recuperativo en SISOL."
+          },
+          {
+            "problem": "Ineficaz enfoque reactivo de la seguridad ciudadana y falta de articulación institucional para combatir la delincuencia metropolitana.",
+            "objective": "Implementar una transición de la seguridad reactiva a una seguridad preventiva integrada, mediante la unificación táctica del serenazgo, el fortalecimiento de redes vecinales y la recuperación de espacios públicos.",
+            "goal": "Reducción del tiempo de respuesta a emergencias a menos de 7 minutos en todo el territorio de Lima.",
+            "indicator": "Tiempo de respuesta ante emergencias."
+          },
+          {
+            "problem": "Prevalencia de la desnutrición crónica y la anemia, junto a la falta de formalización y fortalecimiento técnico de las organizaciones sociales de base que luchan contra el hambre.",
+            "objective": "Institucionalizar un padrón único de Ollas Comunes y Vasos de Leche, asegurar la entrega transparente de insumos, capacitar en gestión y nutrición, y promover su conversión a unidades de emprendimiento socioproductivo.",
+            "goal": "Reducción del 50% de la anemia infantil en las zonas de intervención con Ollas Comunes.",
+            "indicator": "Tasas de desnutrición crónica y anemia estancadas."
+          },
+          {
+            "problem": "Carencia de servicios básicos como agua potable y saneamiento, y falta de seguridad jurídica en la tenencia de predios en los sectores no formalizados de la periferia.",
+            "objective": "Implementar un programa de infraestructura social de emergencia para la instalación de pilones de agua y sistemas de alcantarillado, y acelerar la titulación de predios y habilitaciones urbanas.",
+            "goal": "Instalación de 500 pilones públicos de agua y muros de contención validados.",
+            "indicator": "Número de familias sin acceso a servicios básicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Excesiva burocracia y trabas administrativas para la formalización de las micro y pequeñas empresas (MYPE), junto al desorden y la informalidad del comercio ambulatorio.",
+            "objective": "Ordenar e incluir al comercio ambulatorio mediante empadronamiento y reubicación, e impulsar a las PYMES facilitando licencias de funcionamiento a través de una plataforma digital.",
+            "goal": "Digitalización al 100% de las licencias metropolitanas para su obtención en un solo día.",
+            "indicator": "Alta burocracia y trabas para la obtención de licencias provinciales."
+          },
+          {
+            "problem": "Caos en el transporte público que genera una pérdida significativa de tiempo para los ciudadanos, afectando negativamente su calidad de vida.",
+            "objective": "Priorizar el transporte masivo de calidad, acelerar la integración tarifaria y operativa del sistema, modernizar la semaforización con inteligencia artificial y ampliar la infraestructura vial en la periferia.",
+            "goal": "Reducción del tiempo de viaje a menos de 50 minutos en las rutas integradas prioritarias.",
+            "indicator": "Tiempo promedio diario perdido en el tráfico."
+          },
+          {
+            "problem": "Concentración de la oferta y el gasto turístico en distritos centrales, desaprovechando el patrimonio monumental, arqueológico e histórico de las zonas periféricas de Lima.",
+            "objective": "Descentralizar la oferta turística mediante la creación de rutas seguras y promocionadas hacia el patrimonio cultural de Lima Norte, Sur y Este, ligándolo a la reactivación de negocios locales.",
+            "goal": "Generación de cuatro nuevos corredores turísticos consolidados en las periferias de la ciudad.",
+            "indicator": "Porcentaje del gasto turístico concentrado en los distritos de Miraflores y Barranco."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, con un bajo porcentaje de reciclaje y la saturación de rellenos sanitarios por la proliferación de botaderos informales.",
+            "objective": "Implementar un sistema metropolitano que industrialice los residuos, estableciendo la segregación obligatoria en fuente, construyendo plantas de valorización y fiscalizando el arrojo de desmonte.",
+            "goal": "Alcanzar el reciclaje formal del 35% del total de residuos sólidos generados en la provincia.",
+            "indicator": "Porcentaje de la basura de Lima que es reciclada."
+          },
+          {
+            "problem": "Crítica escasez de áreas verdes por habitante y alta contaminación de los ríos, lo que deteriora la calidad del aire y degrada los ecosistemas naturales de la provincia.",
+            "objective": "Recuperar las cuencas de los ríos Rímac, Chillón y Lurín, implementar un cinturón verde metropolitano mediante forestación masiva y proteger legalmente los ecosistemas de lomas.",
+            "goal": "Incrementar a un mínimo de 6 metros cuadrados de área verde por habitante, priorizando las zonas de Lima Este y Norte.",
+            "indicator": "Metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población asentada en zonas críticas ante el elevado riesgo sísmico y los efectos recurrentes del cambio climático, como los huaicos.",
+            "objective": "Implementar un enfoque preventivo mediante la inversión en infraestructura de resiliencia, como muros de contención y mallas dinámicas, y establecer un sistema de alerta temprana comunitaria.",
+            "goal": "Proteger el 100% de las quebradas críticas habitadas con mallas dinámicas o defensas técnicas.",
+            "indicator": "Población expuesta en zonas de alta vulnerabilidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de procesos de licitación opacos y cuestionados que propician la corrupción y desvían recursos públicos en detrimento de la infraestructura y los servicios.",
+            "objective": "Garantizar la transparencia radical mediante la transmisión en vivo de las licitaciones, la implementación del control concurrente obligatorio y la creación de un canal de denuncias anónimas.",
+            "goal": "Transmitir en tiempo real el 100% de las licitaciones públicas y asegurar que sean auditadas por la Contraloría.",
+            "indicator": "Procesos de licitación opacos y cuestionados."
+          },
+          {
+            "problem": "Predominio de la designación de personal de confianza no idóneo en cargos directivos, lo que genera ineficiencia, duplicidad de funciones y una gestión municipal no meritocrática.",
+            "objective": "Implementar de manera progresiva el régimen del Servicio Civil para el acceso a cargos directivos y gerenciales, y reestructurar las empresas municipales bajo un modelo de gestión por resultados.",
+            "goal": "Cubrir el 75% de las jefaturas y gerencias mediante concurso público bajo la Ley SERVIR.",
+            "indicator": "Alta presencia de personal de confianza no idóneo."
+          },
+          {
+            "problem": "Falta de articulación entre la Municipalidad Metropolitana y los gobiernos distritales, lo que resulta en planes de desarrollo desarticulados y normativas heterogéneas.",
+            "objective": "Institucionalizar un Consejo de Gobernantes Distritales para unificar planes de seguridad y catastros, y crear una Plataforma Única de Tramitación Provincial para homologar requisitos.",
+            "goal": "Lograr la unificación del 100% de los catastros y planes de seguridad bajo el Consejo de Gobernantes.",
+            "indicator": "Planes de desarrollo distritales desarticulados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-m4U1d3Id7zgUacIIGbOuV5VqJIqVO-IN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/m4U1d3Id7zgUacIIGbOuV5VqJIqVO-IN",
+      "sha256": "73987351ad23d6ff1338773b3d0c9fcc1e999bddec229145cdb60176fd8e36c9",
+      "accessedAt": "2026-10-02T22:49:40.581Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022031",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022031",
+      "sha256": "5ade7261da5a6d1526512e4e95d18049afbe6c2d433905b985a6ab5011727f8c",
+      "accessedAt": "2026-10-02T22:49:41.078Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "A05e0094Rh7aEaIHys7bYm9s3KsU8E-h",
+  "slug": "ricardo-rodrigo-salvatierra-paucar",
+  "electionId": "erm-2026",
+  "name": "Ricardo Rodrigo Salvatierra Paucar",
+  "givenNames": "Ricardo Rodrigo",
+  "surnames": "Salvatierra Paucar",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:58.988Z",
+      "sourceId": "jne-hv-A05e0094Rh7aEaIHys7bYm9s3KsU8E-h"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "universidad Nacional Federico Villareal",
+        "program": "Licenciado en Ciencias Politicas",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Mayor de San Marcos",
+        "program": "Cirujano Dentista",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "Magister en Gestion y Politicas Publicas",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Nuestra Señora de Guadalupe EIRL",
+      "role": "DOCENTE",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "Ministerio de Salud",
+      "role": "ODONTOLOGO",
+      "from": "2022",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e474ccc9-9491-498c-be0b-397b8ee6897c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0d847bd0-9f23-4594-bfc3-bd84b59021c0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Bajo nivel de acceso y permanencia en el sistema educativo, reflejado en una reducida incorporación a la educación superior, elevada deserción escolar, persistencia del analfabetismo y altos niveles de desnutrición crónica infantil que afectan el desarrollo integral de la población.",
+            "objective": "Mejorar las oportunidades educativas y las condiciones de desarrollo humano de la población, promoviendo la permanencia escolar, el acceso a la educación superior y la reducción de factores que limitan el aprendizaje.",
+            "goal": "Incrementar las oportunidades educativas y laborales para los jóvenes y fortalecer las condiciones para un desarrollo humano sostenible e inclusivo en todo el distrito.",
+            "indicator": "Porcentaje de jóvenes que acceden a educación universitaria, Porcentaje de jóvenes que acceden a educación técnica superior, Tasa de deserción escolar, Tasa de analfabetismo, Prevalencia de desnutrición crónica infantil."
+          },
+          {
+            "problem": "Limitada capacidad de respuesta frente a la inseguridad ciudadana debido a la insuficiencia de efectivos policiales, el incremento de hechos delictivos y la alta concentración poblacional del distrito.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la articulación entre la municipalidad, la Policía Nacional del Perú y la comunidad organizada, reduciendo los índices de criminalidad y mejorando la percepción de seguridad de la población.",
+            "goal": "Mejorar la seguridad ciudadana mediante una gestión articulada y preventiva.",
+            "indicator": "Número de denuncias por hechos delictivos, Relación policía/habitantes, Porcentaje de vecinos que se sienten seguros en su sector, Cobertura de videovigilancia en zonas críticas, Número de juntas vecinales activas."
+          },
+          {
+            "problem": "Persistencia de brechas en el acceso a servicios básicos de agua potable, alcantarillado y energía eléctrica, principalmente en sectores vulnerables del distrito, afectando la calidad de vida y el bienestar de la población.",
+            "objective": "Garantizar el acceso universal y sostenible a los servicios básicos de agua potable, saneamiento y energía eléctrica, priorizando las zonas con mayores niveles de vulnerabilidad.",
+            "goal": "Reducir significativamente las brechas sociales y de acceso a servicios básicos, alcanzando una cobertura superior al 98% en servicios básicos de agua, saneamiento y energía eléctrica.",
+            "indicator": "Población sin acceso a agua potable por red pública, Población abastecida mediante pilones públicos, Viviendas sin conexión a red de alcantarillado, Población sin acceso a energía eléctrica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada competitividad de las micro y pequeñas empresas debido al escaso acceso a capacitación, asistencia técnica, innovación y oportunidades de crecimiento empresarial.",
+            "objective": "Fortalecer la competitividad y sostenibilidad de las micro y pequeñas empresas, promoviendo su desarrollo productivo y comercial.",
+            "goal": "Fortalecer la sostenibilidad y competitividad de las MYPE como principal motor económico del distrito.",
+            "indicator": "MYPES beneficiadas con programas de fortalecimiento empresarial, Ferias empresariales y comerciales organizadas por año, Empresas que implementan mejoras de productividad."
+          },
+          {
+            "problem": "Elevada informalidad empresarial y laboral, agravada por procedimientos administrativos complejos y limitados incentivos para la formalización de actividades económicas.",
+            "objective": "Promover la formalización empresarial mediante la simplificación administrativa, la digitalización de trámites y el acompañamiento técnico a emprendedores y comerciantes.",
+            "goal": "Reducir la informalidad laboral del 84% al 60%, incrementar en 50% el número de negocios formalizados y lograr la digitalización del 100% de los trámites vinculados a licencias y autorizaciones económicas.",
+            "indicator": "Tasa de informalidad laboral, Negocios formalizados con apoyo municipal, Tiempo promedio para obtención de licencia de funcionamiento, Trámites empresariales digitalizados, Licencias de funcionamiento emitidas anualmente."
+          },
+          {
+            "problem": "Escasez de oportunidades de empleo formal y limitada articulación entre la oferta laboral, la capacitación y las necesidades del mercado local.",
+            "objective": "Promover la generación de empleo digno y mejorar la empleabilidad de la población mediante programas de capacitación, intermediación laboral y fortalecimiento de capacidades productivas.",
+            "goal": "Capacitar a los vecinos en empleabilidad, emprendimiento y gestión empresarial, facilitando la inserción laboral de los ciudadanos.",
+            "indicator": "Vecinos insertados en empleos formales mediante programas municipales, Ferias laborales organizadas por año, Jóvenes beneficiados con programas de emprendimiento y empleo."
+          },
+          {
+            "problem": "Insuficiente promoción de inversiones públicas y privadas que permitan dinamizar la economía local, mejorar la infraestructura económica y generar nuevas oportunidades de empleo.",
+            "objective": "Impulsar la inversión pública y privada mediante mecanismos de promoción, asistencia técnica y articulación institucional para el desarrollo económico sostenible del distrito.",
+            "goal": "Incrementar la inversión pública y privada destinada al desarrollo económico local y consolidar corredores comerciales competitivos en las principales avenidas del distrito.",
+            "indicator": "Proyectos de inversión promovidos o gestionados, Monto de inversión pública y privada gestionada, Convenios suscritos con entidades públicas y privadas, Inversionistas atendidos y asesorados anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión ambiental y limitada cobertura de los servicios de limpieza pública, lo que genera acumulación de residuos sólidos, focos infecciosos y riesgos para la salud de la población.",
+            "objective": "Fortalecer la gestión ambiental del distrito mediante la mejora de los servicios de limpieza pública, la gestión integral de residuos sólidos y la promoción de entornos saludables.",
+            "goal": "Alcanzar una cobertura del 100% del servicio de limpieza pública, reducir en 80% los puntos críticos de acumulación de residuos sólidos y reciclar al menos el 50% de los residuos aprovechables generados en el distrito.",
+            "indicator": "Cobertura del servicio de limpieza pública, Frecuencia de recolección de residuos sólidos, Porcentaje de residuos sólidos aprovechados mediante reciclaje, Número de puntos críticos de acumulación de residuos, Incidencia de enfermedades asociadas a factores ambientales."
+          },
+          {
+            "problem": "Insuficiente mantenimiento y recuperación de parques y áreas verdes, lo que limita la recreación, la integración social y la mejora de las condiciones ambientales del distrito.",
+            "objective": "Incrementar y mejorar las áreas verdes y espacios públicos para promover la sostenibilidad ambiental, la recreación y la mejora de la calidad de vida de la población.",
+            "goal": "Recuperar y mantener el 100% de los parques públicos e incrementar las áreas verdes por habitante.",
+            "indicator": "Área verde por habitante, Porcentaje de parques con mantenimiento permanente, Número de árboles plantados y conservados, Superficie recuperada de áreas verdes, Nivel de satisfacción ciudadana con parques y áreas verdes."
+          },
+          {
+            "problem": "Insuficiente infraestructura deportiva y recreativa para atender la demanda de la población y promover estilos de vida saludables.",
+            "objective": "Ampliar y mejorar la infraestructura deportiva y recreativa para fomentar la práctica del deporte, la recreación y la integración comunitaria.",
+            "goal": "Incrementar significativamente la infraestructura deportiva y recreativa para toda la población.",
+            "indicator": "Complejos deportivos construidos o rehabilitados, Espacios recreativos recuperados, Participación ciudadana en actividades deportivas municipales."
+          },
+          {
+            "problem": "Limitaciones en la infraestructura urbana y el transporte público, así como problemas de contaminación ambiental que afectan la movilidad, seguridad y calidad de vida de los ciudadanos.",
+            "objective": "Promover una movilidad urbana sostenible y mejorar la calidad ambiental mediante el fortalecimiento de la infraestructura pública y el control de las fuentes de contaminación.",
+            "goal": "Reducir en 50% los niveles de contaminación sonora en zonas residenciales.",
+            "indicator": "Programas de educación ambiental implementados, Paraderos acondicionados y formalizados, Vías urbanas intervenidas para mejorar la movilidad, Nivel de contaminación sonora en zonas residenciales, Percepción ciudadana sobre calidad ambiental."
+          },
+          {
+            "problem": "Deficiencias en la recolección, segregación y disposición final de residuos sólidos, generando contaminación.",
+            "objective": "Implementar un sistema eficiente de gestión integral de residuos sólidos con participación ciudadana y enfoque de economía circular.",
+            "goal": "Mejorar la calidad ambiental y las condiciones de salud pública del distrito.",
+            "indicator": "Centros de acopio implementados, Porcentaje de hogares que segregan residuos en la fuente, Toneladas de residuos reciclados anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada capacidad de gestión institucional debido a procesos administrativos poco eficientes, débil aplicación de instrumentos de gestión y baja orientación a resultados y servicio al ciudadano.",
+            "objective": "Fortalecer la capacidad institucional de la municipalidad mediante la modernización de la gestión pública, la mejora de los procesos administrativos y la implementación de una gestión orientada al ciudadano.",
+            "goal": "Alcanzar una satisfacción ciudadana superior al 85% respecto a los servicios municipales, digitalizar al menos el 80% de los trámites y servicios, y lograr la actualización e implementación del 100% de los instrumentos de gestión institucional.",
+            "indicator": "Trámites municipales digitalizados, Nivel de satisfacción de los ciudadanos con los servicios municipales, Instrumentos de gestión actualizados e implementados, Tiempo promedio de atención de trámites municipales."
+          },
+          {
+            "problem": "Insuficiente infraestructura y limitada oferta de programas culturales que restringen el acceso de la población a actividades artísticas, recreativas y de fortalecimiento de la identidad local.",
+            "objective": "Promover el desarrollo cultural del distrito mediante la implementación de infraestructura, programas y actividades que fortalezcan la identidad cultural y la participación ciudadana.",
+            "goal": "Implementar y consolidar infraestructura cultural que beneficie a toda la población del distrito.",
+            "indicator": "Centros culturales implementados o mejorados, Actividades culturales realizadas anualmente, Participantes en programas culturales municipales, Instituciones educativas incorporadas a programas culturales."
+          },
+          {
+            "problem": "Insuficientes programas de inclusión y promoción social para personas con discapacidad, adultos mayores, jóvenes, mujeres y población vulnerable, limitando su acceso a oportunidades de desarrollo.",
+            "objective": "Promover la inclusión social y la igualdad de oportunidades mediante programas integrales de atención, capacitación y desarrollo de capacidades para grupos vulnerables.",
+            "goal": "Fortalecer los programas de inclusión para personas con discapacidad, jóvenes, mujeres y adultos mayores.",
+            "indicator": "Personas con discapacidad beneficiadas por programas municipales, Adultos mayores atendidos en programas sociales, Jóvenes beneficiados con programas de formación y liderazgo, Mujeres participantes en programas de desarrollo económico y social."
+          },
+          {
+            "problem": "Débil articulación entre la municipalidad y los actores sociales, económicos y políticos, lo que limita la participación ciudadana y la construcción de soluciones concertadas para el desarrollo distrital.",
+            "objective": "Fortalecer la gobernanza local mediante mecanismos permanentes de participación ciudadana, concertación y transparencia en la gestión pública.",
+            "goal": "Incrementar en 70% la participación de organizaciones sociales en los procesos de concertación y toma de decisiones, y consolidar una gestión municipal transparente, eficiente y orientada al servicio del vecino.",
+            "indicator": "Cabildos abiertos realizados por año, Organizaciones sociales activamente articuladas a la gestión municipal, Porcentaje de ciudadanos que participan en espacios de concertación, Procesos de rendición de cuentas realizados anualmente, Nivel de confianza ciudadana en la gestión municipal."
+          },
+          {
+            "problem": "Creciente congestión vehicular y desorden en el transporte urbano debido al incremento del parque automotor y a la insuficiente planificación de la movilidad y seguridad vial.",
+            "objective": "Mejorar la movilidad urbana y la seguridad vial mediante el ordenamiento del tránsito, la modernización de la infraestructura vial y la promoción de una cultura de transporte seguro.",
+            "goal": "Reducir en 40% los accidentes de tránsito y mejorar la fluidez vehicular en las principales vías.",
+            "indicator": "Intersecciones críticas intervenidas para mejorar el tránsito, Accidentes de tránsito registrados en el distrito, Señalización vial implementada en vías principales, Campañas de educación vial realizadas por año, Tiempo promedio de desplazamiento en corredores principales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-A05e0094Rh7aEaIHys7bYm9s3KsU8E-h",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/A05e0094Rh7aEaIHys7bYm9s3KsU8E-h",
+      "sha256": "49122fedbcb64cd57eb34f20c99926ea206a2b735ee2d5d4d133faa2d9ebf6a8",
+      "accessedAt": "2026-10-02T23:03:58.988Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019676",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019676",
+      "sha256": "4fb45ed0737a8858d0e122fbfd575091098a091d408209acbfe8ac9d1b352b56",
+      "accessedAt": "2026-10-02T23:03:59.487Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

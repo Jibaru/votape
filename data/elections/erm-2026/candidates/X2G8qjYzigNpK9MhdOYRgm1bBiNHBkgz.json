@@ -1,0 +1,233 @@
+{
+  "id": "X2G8qjYzigNpK9MhdOYRgm1bBiNHBkgz",
+  "slug": "hector-javier-quispe-salvador",
+  "electionId": "erm-2026",
+  "name": "Hector Javier Quispe Salvador",
+  "givenNames": "Hector Javier",
+  "surnames": "Quispe Salvador",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140116",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:26.103Z",
+      "sourceId": "jne-hv-X2G8qjYzigNpK9MhdOYRgm1bBiNHBkgz"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Juan Bautista S.A.C.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Juan Bautista S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "MAESTRÍA EN GESTIÓN PÚBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CENTRO DE CONCILIACIÓN EXTRAJUDICIAL MANCHAY PAZ",
+      "role": "CONCILIADOR",
+      "from": "2014",
+      "to": "2026"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2019",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 41953,
+        "public": 0,
+        "private": 41953
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "LOCAL/TALLER",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "CASA",
+        "value": 12934,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTOMOVIL",
+        "value": 1200
+      },
+      {
+        "type": "AUTOMOVIL",
+        "value": 10000
+      },
+      {
+        "type": "AUTOMOVIL",
+        "value": 1500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "CONTABA CON UNA EMPRESA INDIVIDUAL \"GRASS SINTETICO & DEPORTES GUSTAVITO E.I.R.L. \", EL CUAL SE ENCUENTRA DE BAJA DE OFICIO DESDE 31/01/2025."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c0e76e84-89ae-4e40-b915-1ef349fa332f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/34e7c30c-0fdb-4cf1-9af5-db7a23a6f8aa.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente atención a poblaciones vulnerables y escasas oportunidades de desarrollo para niños, adolescentes, jóvenes, mujeres, adultos mayores y personas con discapacidad.",
+            "objective": "Fortalecer los servicios municipales de protección social como la DEMUNA, CIAM, OMAPED y los programas dirigidos a la mujer, niñez, adolescencia y familia, mejorando la atención al usuario y la coordinación con entidades públicas.",
+            "goal": "Atender a la población vulnerable a través de servicios sociales municipales, fortalecer dichos servicios, actualizar los padrones y fortalecer a las organizaciones sociales de base.",
+            "indicator": "Población vulnerable atendida por servicios sociales municipales, servicios sociales fortalecidos, padrones actualizados y organizaciones sociales de base fortalecidas."
+          },
+          {
+            "problem": "Inseguridad ciudadana, violencia familiar, pobreza alimentaria y limitada prevención en salud.",
+            "objective": "Fortalecer la seguridad ciudadana, la prevención social, la atención a la población vulnerable, los programas sociales, la salud preventiva, el deporte, la cultura y la educación complementaria.",
+            "goal": "Ejecutar patrullajes preventivos e integrados, implementar la Central de Operaciones Municipales y desarrollar programas de prevención social para mejorar la percepción de seguridad.",
+            "indicator": "Percepción de seguridad ciudadana, número de patrullajes preventivos y patrullajes integrados ejecutados, implementación de la Central de Operaciones Municipales y programas de prevención social desarrollados."
+          },
+          {
+            "problem": "Pobreza alimentaria y deficiente gestión de programas sociales como Vaso de Leche, comedores populares y ollas comunes.",
+            "objective": "Fortalecer la gestión de los padrones del Programa del Vaso de Leche y otros programas sociales, con la finalidad de mejorar la información, ordenar la atención y garantizar que el apoyo social llegue de manera oportuna.",
+            "goal": "Actualizar los padrones de los programas sociales, fortalecer las organizaciones de base y realizar gestiones interinstitucionales para mejorar el apoyo alimentario y social.",
+            "indicator": "Padrones de programas sociales actualizados, organizaciones sociales de base fortalecidas, gestiones interinstitucionales efectuadas para el apoyo alimentario y social."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil promoción del turismo y falta de articulación de los recursos turísticos, agrícolas, gastronómicos, culturales y ecológicos del distrito.",
+            "objective": "Posicionar a Pachacámac como destino turístico, agrícola, gastronómico, cultural y ecológico, promoviendo circuitos turísticos, ferias productivas y campañas de identidad distrital.",
+            "goal": "Obtener el reconocimiento de la Marca Pachacámac, promover circuitos turísticos, implementar un calendario turístico y desarrollar campañas de promoción del distrito.",
+            "indicator": "Reconocimiento de la Marca Pachacámac, circuitos turísticos promovidos, calendario turístico implementado y campañas de promoción desarrolladas."
+          },
+          {
+            "problem": "Limitado desarrollo productivo y económico, evidenciado en la falta de empleo local, la informalidad comercial y la escasa capacitación técnica.",
+            "objective": "Fortalecer la economía vecinal, promover el empleo local, apoyar a los emprendedores, formalizar progresivamente las actividades comerciales y simplificar trámites municipales.",
+            "goal": "Capacitar a vecinos, ejecutar talleres, implementar la Oficina Municipal de Empleo y Trabajo, suscribir convenios y formalizar negocios para fortalecer la economía local.",
+            "indicator": "Número de vecinos capacitados o beneficiados, talleres ejecutados, implementación de la Oficina Municipal de Empleo y Trabajo, convenios suscritos y negocios formalizados."
+          },
+          {
+            "problem": "Limitada articulación entre agricultores, comerciantes, emprendedores y pequeños empresarios, afectando la generación de ingresos familiares.",
+            "objective": "Promover la agricultura local mediante acciones de articulación con productores, agricultores y asociaciones agrarias, fortaleciendo la comercialización de productos agrícolas del valle y promoviendo productos orgánicos.",
+            "goal": "Promover espacios de comercialización, articular a los productores agrícolas y gestionar alianzas estratégicas para mejorar la economía del sector.",
+            "indicator": "Espacios de comercialización ordenada promovidos, agricultores articulados y alianzas estratégicas gestionadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de residuos sólidos, existencia de puntos críticos de basura y desmonte, y un déficit de áreas verdes.",
+            "objective": "Mejorar progresivamente el servicio de limpieza pública y recolección de residuos sólidos, identificar e intervenir puntos críticos de basura y recuperar zonas contaminadas y espacios degradados.",
+            "goal": "Intervenir los puntos críticos de residuos, mejorar la cobertura del servicio de limpieza y recuperar las zonas críticas para mejorar la calidad ambiental del distrito.",
+            "indicator": "Puntos críticos de residuos sólidos intervenidos, cobertura del servicio de limpieza pública y zonas críticas recuperadas."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y afectación de lomas, quebradas, zonas agrícolas y espacios ecológicos.",
+            "objective": "Proteger el valle agrícola, las lomas, quebradas y espacios naturales del distrito frente al crecimiento urbano desordenado, la ocupación informal y la contaminación.",
+            "goal": "Realizar intervenciones para la defensa del valle agrícola, ejecutar acciones de protección ambiental y gestionar instrumentos de planificación para ordenar el territorio.",
+            "indicator": "Intervenciones de defensa del valle agrícola, acciones de protección ambiental ejecutadas e instrumentos de planificación territorial gestionados."
+          },
+          {
+            "problem": "Insuficiente arborización en el entorno urbano y rural del distrito.",
+            "objective": "Promover la arborización urbana y rural mediante la plantación y mantenimiento de árboles en avenidas, parques, bermas, instituciones educativas, zonas vulnerables y espacios comunales.",
+            "goal": "Incrementar el número de árboles plantados y mantenidos en las zonas prioritarias del distrito para mejorar la calidad del aire y embellecer el entorno.",
+            "indicator": "Número de árboles plantados y mantenidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia administrativa, demora en los trámites y falta de modernización tecnológica en la gestión municipal.",
+            "objective": "Modernizar la municipalidad, mejorar la atención al vecino, simplificar procedimientos, digitalizar servicios y reducir tiempos de respuesta.",
+            "goal": "Implementar una plataforma digital, modernizar oficinas, integrar el sistema de información y reducir el tiempo de atención de trámites para mejorar la eficiencia municipal.",
+            "indicator": "Implementación de la plataforma digital, oficinas y agencias municipales modernizadas, sistema municipal integrado implementado y reducción del tiempo promedio de atención de trámites."
+          },
+          {
+            "problem": "Baja confianza ciudadana, débil transparencia y limitada rendición de cuentas por parte de la municipalidad.",
+            "objective": "Fortalecer la transparencia municipal mediante la actualización permanente del portal institucional, la publicación de información sobre presupuesto, obras y programas sociales, y la realización de informes semestrales.",
+            "goal": "Mantener actualizada la información de transparencia, publicar informes semestrales de avance del plan de gobierno e implementar mecanismos de lucha contra la corrupción.",
+            "indicator": "Información de transparencia actualizada en el portal institucional, informes semestrales publicados y mecanismos de transparencia implementados."
+          },
+          {
+            "problem": "Insuficiente presencia municipal descentralizada en las cinco zonas territoriales del distrito de Pachacámac.",
+            "objective": "Fortalecer la descentralización municipal mediante equipos técnicos itinerantes, jornadas municipales por zonas y mesas de trabajo con dirigentes para acercar los servicios a los vecinos.",
+            "goal": "Realizar jornadas municipales itinerantes en las cinco zonas del distrito y establecer espacios de participación y rendición de cuentas para fortalecer la gestión descentralizada.",
+            "indicator": "Jornadas municipales itinerantes realizadas, espacios de participación y rendición de cuentas por zonas implementados, y organizaciones vecinales participantes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-X2G8qjYzigNpK9MhdOYRgm1bBiNHBkgz",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/X2G8qjYzigNpK9MhdOYRgm1bBiNHBkgz",
+      "sha256": "10108b51ff1b2a622ade3ad8038e80c72ef41a3b1d8368b6219ae1c1a9b9a768",
+      "accessedAt": "2026-10-02T23:00:26.103Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016723",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016723",
+      "sha256": "91078e77794f90df8d78d91c504a9143abe309b8271737bf040e92bb3ea74636",
+      "accessedAt": "2026-10-02T23:00:26.654Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

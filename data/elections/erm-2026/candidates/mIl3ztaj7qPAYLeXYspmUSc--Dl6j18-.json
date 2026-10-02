@@ -1,0 +1,372 @@
+{
+  "id": "mIl3ztaj7qPAYLeXYspmUSc--Dl6j18-",
+  "slug": "juan-jose-castillo-angeles",
+  "electionId": "erm-2026",
+  "name": "Juan Jose Castillo Angeles",
+  "givenNames": "Juan Jose",
+  "surnames": "Castillo Angeles",
+  "age": 64,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:16.552Z",
+      "sourceId": "jne-hv-mIl3ztaj7qPAYLeXYspmUSc--Dl6j18-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "JAIME BAUZATE MEZA",
+        "program": "PERIODISMO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2003"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "PERIODISTA",
+      "from": "1985",
+      "to": "2006"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "CAMBIO 90 - NUEVA MAYORIA",
+      "from": "1996",
+      "to": "1998"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO UNIDAD Y PAZ",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 0,
+        "private": 36000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 50000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 90000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MARCA TOYOTA -YARIZ - COLOR GRIS OSCURO METAICO - AÑO 2025",
+        "value": 50000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "SE TRANSFERIO ACCIONES A TERCEROS, EMPRESAS INACTIVAS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8d83f8fc-1f03-4fa5-97a9-be71c354df3d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ca431acb-723f-4089-9aaa-b15639dfe09f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Salud Mental Comunitaria.",
+            "objective": "Expansión de Centros de Salud Mental Comunitario en las 7 zonas de VMT.",
+            "goal": "Garantizar la atención gratuita en los CSMC para cada zona de VMT.",
+            "indicator": "N° de atenciones en Centros de Salud Mental Comunitaria."
+          },
+          {
+            "problem": "Espacios Públicos y Recreación.",
+            "objective": "Recuperación de parques y áreas deportivas.",
+            "goal": "Acceso al deporte y la recreación.",
+            "indicator": "m² de áreas verdes y espacios deportivos públicas por habitante."
+          },
+          {
+            "problem": "Seguridad Alimentaria Comunitaria.",
+            "objective": "Consolidación de Ollas Comunes y Comedores.",
+            "goal": "Garantizar la alimentación con los estándares nutricionales en las zonas de más vulnerables.",
+            "indicator": "N° de raciones diarias servidas con estándares nutricionales."
+          },
+          {
+            "problem": "Calidad de la Educación Pública.",
+            "objective": "Mejora de infraestructura.",
+            "goal": "Articulación para la mejora de la infraestructura educativa.",
+            "indicator": "Puntaje en la evaluación censal de estudiantes."
+          },
+          {
+            "problem": "Formalización de la Propiedad Informal.",
+            "objective": "Titulación y saneamiento físico-legal.",
+            "goal": "Ordenamiento territorial de la vivienda.",
+            "indicator": "% de predios con título de propiedad inscrito."
+          },
+          {
+            "problem": "Acceso a Servicios de Salud de Primer Nivel.",
+            "objective": "Fortalecimiento de la salud territorial y comunitaria para la prevención.",
+            "goal": "Salud basada en individuo, comunidad y territorio y VMT como modelo de distrito saludable.",
+            "indicator": "N° de atenciones en establecimientos de salud locales."
+          },
+          {
+            "problem": "Empoderamiento de la Mujer en VMT.",
+            "objective": "Liderazgo en gestión local.",
+            "goal": "Activa participación de la mujer en las organizaciones sociales.",
+            "indicator": "% de mujeres liderando organizaciones sociales de base."
+          },
+          {
+            "problem": "Inclusión de Personas con Discapacidad.",
+            "objective": "Accesibilidad universal en infraestructura.",
+            "goal": "Crecimiento en el acceso a la infraestructura adecuada para las personas con discapacidad.",
+            "indicator": "% de infraestructura pública con accesibilidad adecuada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Conectividad Vial para el Comercio.",
+            "objective": "Mejora de accesos a zonas altas.",
+            "goal": "Fortalecimiento de las rutas que conectan VMT con el comercio.",
+            "indicator": "Tiempo de transporte de mercancías hacia los ejes principales."
+          },
+          {
+            "problem": "Turismo de Lomas y Patrimonio.",
+            "objective": "Puesta en valor de Lomas de Paraíso.",
+            "goal": "Consolidar a Lomas de VMT como un atractivo turístico.",
+            "indicator": "N° de visitantes anuales a las Lomas de VMT."
+          },
+          {
+            "problem": "Gestión de Ingresos Municipales.",
+            "objective": "Incremento de la recaudación tributaria.",
+            "goal": "Crecimiento de la recaudación tributaria.",
+            "indicator": "Indice de recaudación tributaria municipal."
+          },
+          {
+            "problem": "Empleo Joven y Capacitación Técnica.",
+            "objective": "Alianzas con centros de formación.",
+            "goal": "Crecimiento del Empleo Joven.",
+            "indicator": "Tasa de desempleo juvenil distrital."
+          },
+          {
+            "problem": "Desarrollo de Polos Industriales Locales.",
+            "objective": "Atracción de pequeñas industrias (PYMES).",
+            "goal": "Promoción de las PYMES en VMT.",
+            "indicator": "N° de nuevas empresas constituidas en el distrito."
+          },
+          {
+            "problem": "Formalización del Comercio Minorista.",
+            "objective": "Traslado a mercados modernos.",
+            "goal": "Formalizar y modernizar el comercio.",
+            "indicator": "% de comerciantes con licencia de funcionamiento."
+          },
+          {
+            "problem": "Economía Circular y Reciclaje.",
+            "objective": "Formalización de recicladores y venta de insumos.",
+            "goal": "Modelo de distrito ECOSOSTENIBLE y amigable.",
+            "indicator": "Toneladas de residuos aprovechables comercializados."
+          },
+          {
+            "problem": "Inversión en Infraestructura de Riego para Lomas.",
+            "objective": "Sistemas de atrapanieblas y riego tecnificado.",
+            "goal": "Turismo sostenible en Lomas.",
+            "indicator": "Litros de agua recuperada para riego anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión integral de residuos sólidos.",
+            "objective": "Planta de tratamiento distrital.",
+            "goal": "Inauguración de la primera planta de tratamiento de residuos sólidos.",
+            "indicator": "% de residuos sólidos recolectados y tratados."
+          },
+          {
+            "problem": "Preservación del ecosistema de Lomas.",
+            "objective": "Protección legal y física contra invasores.",
+            "goal": "Implementación de monitoreo de control ambiental en Lomas.",
+            "indicator": "Concentración de PM 2.5 en puntos críticos del distrito."
+          },
+          {
+            "problem": "Resiliencia ante desastres naturales.",
+            "objective": "Muros de contención y andenería.",
+            "goal": "Construcción de muros de contención y andenes.",
+            "indicator": "N° de familias viviendo en zonas de riesgo mitigado."
+          },
+          {
+            "problem": "Arborización y cinturones verdes.",
+            "objective": "Creación de bosques urbanos.",
+            "goal": "Implementación de bosques.",
+            "indicator": "N° de árboles plantados y mantenidos al año."
+          },
+          {
+            "problem": "Tratamiento de aguas residuales.",
+            "objective": "Reúso de aguas para riego de parques.",
+            "goal": "Implementación de aguas tratadas para riego.",
+            "indicator": "Volumen de agua residual tratada para riego local."
+          },
+          {
+            "problem": "Gestión de pasivos ambientales (cementerio).",
+            "objective": "Modernización ecológica del cementerio Nueva Esperanza.",
+            "goal": "Certificar el cementerio de Nueva Esperanza como área ecológica.",
+            "indicator": "N° de áreas del cementerio con gestión ambiental certificada."
+          },
+          {
+            "problem": "Educación ambiental ciudadana.",
+            "objective": "Cultura de segregación en la fuente.",
+            "goal": "Implementación progresiva de la cultura ambiental.",
+            "indicator": "% de hogares que segregan residuos en origen."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gobernanza territorial y participativa.",
+            "objective": "Fortalecimiento de juntas vecinales.",
+            "goal": "Consolidar medidas tangibles al 2030 con participación ciudadana.",
+            "indicator": "% de presupuesto ejecutado vía presupuesto participativo."
+          },
+          {
+            "problem": "Debilidad en las Alianzas Público-Privadas Locales.",
+            "objective": "Promover y generar las APP locales.",
+            "goal": "Atraer inversión privada para servicios al 2030.",
+            "indicator": "Monto de inversión privada gestionada por el municipio."
+          },
+          {
+            "problem": "Falta de transparencia y Rendición de Cuentas.",
+            "objective": "Control de la burocracia en el acceso a la información.",
+            "goal": "Digitalización total de la gestión vs. opacidad y burocracia en el acceso a la información.",
+            "indicator": "Puntaje en el índice de transparencia municipal."
+          },
+          {
+            "problem": "Conflictos Sociales y Territoriales.",
+            "objective": "Creación de la Unidad de Diálogo ante protestas ciudadanas.",
+            "goal": "Eficiente gestión de conflictos.",
+            "indicator": "N° de conflictos resueltos mediante mesas de diálogo."
+          },
+          {
+            "problem": "Seguridad Ciudadana Integrada.",
+            "objective": "Articulación efectiva Serenazgo-PNP.",
+            "goal": "Reducir la tasa de victimización al 2030.",
+            "indicator": "Tasa de victimización en el distrito."
+          },
+          {
+            "problem": "Fortalecimiento de la Mancomunidad Lima Sur.",
+            "objective": "Integración estratégica con distritos vecinos.",
+            "goal": "Ejecución de proyectos interdistritales al 2030.",
+            "indicator": "N° de proyectos interdistritales ejecutados (vías, residuos)."
+          },
+          {
+            "problem": "Ética y probidad en la función pública.",
+            "objective": "Rechazo a la corrupción.",
+            "goal": "Gobierno trasparente.",
+            "indicator": "N° de denuncias por corrupción en la gestión municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-138339",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: NEGOCIACION INCOMPATIBLE",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2013-03-03",
+      "details": {
+        "materia": "NEGOCIACION INCOMPATIBLE",
+        "fallo": "PENA SUSPENDIDA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "2DO JUZGADO INE PREPARATORIA SEDE VILLA MARIA DEL TRIUNFO",
+        "expediente": "03003-2013-2-3001",
+        "comentario": "RESOLUCION NRO 20-30 DECLARACION DE REABILITACION."
+      },
+      "quote": "NEGOCIACION INCOMPATIBLE · PENA SUSPENDIDA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-mIl3ztaj7qPAYLeXYspmUSc--Dl6j18-"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-mIl3ztaj7qPAYLeXYspmUSc--Dl6j18-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/mIl3ztaj7qPAYLeXYspmUSc--Dl6j18-",
+      "sha256": "eedf126b07f42c1c48df2200e7f0d7ec0a4504929019e275333beb204f3d6910",
+      "accessedAt": "2026-10-02T23:07:16.552Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019617",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019617",
+      "sha256": "232996f35eab42a9aec55986bd181d054375952c162e2e335e16d4b8fa427c30",
+      "accessedAt": "2026-10-02T23:07:17.097Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "IKrx32W0W5_cB9RCpi2ivdWNyfljRVDv",
+  "slug": "ana-yuriko-nino-de-guzman-tengan",
+  "electionId": "erm-2026",
+  "name": "Ana Yuriko Niño De Guzman Tengan",
+  "givenNames": "Ana Yuriko",
+  "surnames": "Niño De Guzman Tengan",
+  "age": 34,
+  "gender": "Femenino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:14.977Z",
+      "sourceId": "jne-hv-IKrx32W0W5_cB9RCpi2ivdWNyfljRVDv"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONCEJO DISTRITAL DE COMAS",
+      "role": "APOYO ADMINISTRATIVO EN GERENCIA MUNICIPAL Y COORDINADORA DE PARTICIPACION VECINAL",
+      "from": "2023",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DISTRITAL",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 20600,
+        "public": 20600,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e76b7b4e-94d3-414e-8330-f7811aa61762.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7420521d-11d3-470f-a410-b17cdb2da424.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado enfoque en la prevención de la salud y carencia de infraestructura hospitalaria municipal para una población de más de 600 mil habitantes.",
+            "objective": "Gestionar la construcción de un Hospital Municipal y la implementación de un Plan Integral de Actividad Física y Deportiva dirigido a toda la población, incluyendo niños, jóvenes y adultos mayores.",
+            "goal": "Construir un Hospital Municipal que ofrezca un servicio integral de salud con tarifas accesibles y de calidad. Implementar un plan de actividades físicas y deportivas para promover la salud y el bienestar en la comunidad.",
+            "indicator": "Servicios de salud implementados y beneficiarios atendidos."
+          },
+          {
+            "problem": "Altos niveles de inseguridad ciudadana en Comas, que afectan de manera especial a mujeres y niños, incluyendo violencia de género, delincuencia común, sicariato, extorsión y consumo de drogas.",
+            "objective": "Intensificar los planes de seguridad existentes, coadyuvar a una mayor integración de la Mancomunidad de Lima Norte, fortalecer el Programa Vecindario Seguro, potenciar la Central de Monitoreo, instalar cámaras inteligentes y crear una aplicación de alerta ciudadana.",
+            "goal": "Reducir significativamente los índices de criminalidad mediante una estrategia integral de prevención, inteligencia y patrullaje articulado, para que los vecinos puedan transitar con total seguridad por las calles y avenidas del distrito.",
+            "indicator": "Número de cámaras operativas, patrullajes realizados y alertas atendidas."
+          },
+          {
+            "problem": "Poca atención a las necesidades de la población más vulnerable del distrito, como niños, adolescentes, mujeres en situación de violencia, adultos mayores y personas con discapacidad.",
+            "objective": "Implementar la Casa Refugio para víctimas de violencia, adecuar la Casa del Adulto Mayor, crear un registro municipal de personas con discapacidad, un Centro de Inclusión Social y un fondo de becas para estudiantes destacados.",
+            "goal": "Garantizar espacios seguros y de acogida para las víctimas de violencia, brindar atención prioritaria a los adultos mayores y promover la inclusión social y educativa de las personas con discapacidad y jóvenes talentosos.",
+            "indicator": "Beneficiarios atendidos en programas sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Trámites burocráticos que obstaculizan la formalización de negocios, lo que fomenta la informalidad y la corrupción.",
+            "objective": "Crear la Ventanilla Única de Atención para la formalización empresarial (VUE-COMAS) para simplificar los trámites y procesos.",
+            "goal": "Implementar la VUE-COMAS con atención presencial, virtual e híbrida para acompañar al empresario en su proceso de formalización, promoviendo así el desarrollo empresarial formal y sostenido en el distrito.",
+            "indicator": "Implementar la VUE-COMAS"
+          },
+          {
+            "problem": "Escasas oportunidades laborales para la población de bajos recursos, lo que genera desempleo y afecta el sostenimiento familiar, especialmente en mujeres y jóvenes.",
+            "objective": "Implementar programas de capacitación y financiamiento como \"Manos Emprendedoras Comeñas\" y el \"Club del Emprendedor\", promover una bolsa de trabajo y ejecutar el programa \"Mi Primera Chamba\" para la inserción laboral juvenil.",
+            "goal": "Dotar de herramientas de desarrollo personal y capacitación técnica a los vecinos para fomentar el emprendimiento y mejorar la empleabilidad, consolidando una unificación laboral en el distrito.",
+            "indicator": "Personas capacitadas y beneficiadas."
+          },
+          {
+            "problem": "Caos en el tránsito, transporte vehicular y transporte menor, lo que conlleva al desorden, incremento de inseguridad, paraderos informales y denuncias.",
+            "objective": "Recuperar y consolidar el principio de autoridad para el ordenamiento del transporte, gestionar convenios para la fiscalización, optimizar el trabajo conjunto con la Policía Nacional y ordenar el servicio de mototaxi.",
+            "goal": "Solucionar la problemática del tránsito y transporte menor a través del ordenamiento, la fiscalización, el establecimiento de paraderos formales y la mejora en la calidad del servicio para la seguridad de los usuarios.",
+            "indicator": "Operadores formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insostenibilidad del servicio de limpieza pública y ornato, con una recolección de más de 500 toneladas diarias de basura y altos costos por tercerización.",
+            "objective": "Fortalecer la capacidad operativa municipal mediante la adquisición de 10 compactadoras, impulsar el proyecto de una planta de tratamiento de residuos sólidos y adquirir volquetes y cargadores frontales para el recojo de desmonte.",
+            "goal": "Adquirir 10 compactadoras para reducir el costo del servicio de recojo, implementar una planta de tratamiento para incentivar el reciclaje y adquirir maquinaria para mantener las calles y avenidas limpias de desmonte.",
+            "indicator": "Número de compactadoras, volquetes y cargadores frontales adquiridos."
+          },
+          {
+            "problem": "Existencia de parques en malas condiciones que no permiten su uso adecuado por parte de los vecinos para el sano esparcimiento y la integración familiar.",
+            "objective": "Ejecutar la mejora de los parques, realizar el sembrado y resembrado de áreas verdes, implementar el programa \"Comas Te Quiero Verde\" y desarrollar un sistema de riego tecnificado con pozos tubulares y reservorios.",
+            "goal": "Realizar el mantenimiento e implementación de los más de 330 parques del distrito, dotándolos de áreas verdes, juegos recreativos, gimnasios, losas deportivas, iluminación y seguridad.",
+            "indicator": "Pozos y sistemas de riego implementados."
+          },
+          {
+            "problem": "Falta de servicios tecnológicos en los parques, lo que limita el acceso a la comunicación y la información, especialmente para la población vulnerable.",
+            "objective": "Implementar Wi-Fi gratuito en los parques de Comas, fomentar la instalación de espacios para el entretenimiento de mascotas y desarrollar campañas educativas sobre el cuidado de los espacios públicos.",
+            "goal": "Garantizar la instalación de Wi-Fi gratuito en los parques, especialmente en aquellos donde se encuentra la población más vulnerable, y promover la tenencia responsable de mascotas y el cuidado de los parques.",
+            "indicator": "Servicio a Wifi"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de propiedades municipales no saneadas, lo cual genera un riesgo de pérdida de titularidad e impide la inversión pública y privada.",
+            "objective": "Culminar el saneamiento físico legal de las propiedades de la corporación municipal para su puesta en valor en beneficio de la comunidad.",
+            "goal": "Realizar el saneamiento físico legal de las propiedades municipales en cooperación con la Superintendencia de Bienes Nacionales y la SUNARP, permitiendo así la inversión para la construcción y modernización de infraestructuras.",
+            "indicator": "Predios saneados."
+          },
+          {
+            "problem": "Percepción negativa del ciudadano hacia sus autoridades locales, derivada de la mala orientación, trato discriminatorio y desconfianza.",
+            "objective": "Implementar programas de capacitación constantes para el servidor municipal y mejorar las condiciones de los ambientes municipales para los trabajadores y los vecinos que visitan las instalaciones.",
+            "goal": "Capacitar profesionalmente a los servidores públicos a través de convenios con instituciones educativas y mejorar las condiciones de trabajo y salubridad en las instalaciones municipales para brindar un mejor servicio al ciudadano.",
+            "indicator": "Solicitudes atendidas y mecanismos de transparencia implementados."
+          },
+          {
+            "problem": "Escasa capacidad de respuesta ante desastres naturales y cambios climáticos drásticos, considerando que más del 50% de la población vive en zonas de alta vulnerabilidad.",
+            "objective": "Implementar un programa masivo de formación de brigadistas comunitarios, elaborar un plan de contingencia, difundir el mapa de riesgos y construir un Centro de Operaciones de Emergencia Distrital.",
+            "goal": "Disminuir la vulnerabilidad y aumentar la resiliencia de la comunidad frente a desastres, a través de la formación de brigadas, la planificación preventiva y la implementación de un centro de monitoreo de emergencias.",
+            "indicator": "Sistemas implementados y usuarios atendidos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-IKrx32W0W5_cB9RCpi2ivdWNyfljRVDv",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/IKrx32W0W5_cB9RCpi2ivdWNyfljRVDv",
+      "sha256": "e4b8d042e297763e178392009cac395f458e29a054fc1f030a70291920f2ede6",
+      "accessedAt": "2026-10-02T22:55:14.977Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020158",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020158",
+      "sha256": "7486771b21128aea5318a4bf019e4aee9a4e35fd882ad8b28efcb4a021374423",
+      "accessedAt": "2026-10-02T22:55:15.455Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "140129",
+  "name": "Santa Rosa",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre",
+      "name": "Tanus Barraza Calvo",
+      "party": {
+        "id": 4,
+        "name": "ACCION POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42070,
+      "expediente": "ERM.2026012529"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "IMPROCEDENTE",
+      "listId": 45291,
+      "expediente": "ERM.2026021669"
+    },
+    {
+      "candidateId": "hGk0pP9YBx2_SZjA2HFL-LyUe5l7ugW-",
+      "name": "Ever Felix Rojas Caja",
+      "party": {
+        "id": 2895,
+        "name": "PARTIDO DEMOCRATA VERDE"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47155,
+      "expediente": "ERM.2026018088"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "IMPROCEDENTE",
+      "listId": 42934,
+      "expediente": "ERM.2026017589"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "RENUNCIA",
+      "listId": 46325,
+      "expediente": "ERM.2026020585"
+    },
+    {
+      "candidateId": "t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5",
+      "name": "Oscar Alex Dolorier Mori",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52531,
+      "expediente": "ERM.2026016585"
+    }
+  ]
+}

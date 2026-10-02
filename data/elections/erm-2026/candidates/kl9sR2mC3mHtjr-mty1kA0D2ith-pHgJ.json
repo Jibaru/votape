@@ -1,0 +1,196 @@
+{
+  "id": "kl9sR2mC3mHtjr-mty1kA0D2ith-pHgJ",
+  "slug": "victor-tito-sotomayor-bernaola",
+  "electionId": "erm-2026",
+  "name": "Victor Tito Sotomayor Bernaola",
+  "givenNames": "Victor Tito",
+  "surnames": "Sotomayor Bernaola",
+  "age": 68,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:30.896Z",
+      "sourceId": "jne-hv-kl9sR2mC3mHtjr-mty1kA0D2ith-pHgJ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "INCA GARCILASO DE LA VEGA",
+        "program": "BACHILLER DE DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1990"
+      },
+      {
+        "level": "posgrado",
+        "institution": "INCA GARCILASO DE LA VEGA",
+        "program": "MAESTRÍA EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO Y CATEDRATICO",
+      "from": "2020",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2020"
+    },
+    {
+      "party": "FUERZA DEMOCRATICA",
+      "year": "2007"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 27000,
+        "private": 15000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c4278915-e309-4887-9d3f-5574866f1c2f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/44047ebf-4a28-4095-9406-54256549969b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevada inseguridad ciudadana que afecta la libertad individual y la inversión económica, con un alto registro de denuncias por delitos contra el patrimonio, seguridad pública y otros en el distrito.",
+            "objective": "Disminuir la sensación de inseguridad en el distrito, fortaleciendo el sistema de seguridad ciudadana, incrementando el patrullaje motorizado descentralizado e incentivando la participación ciudadana en la lucha contra la delincuencia.",
+            "goal": "Implementar el programa “VILLA MARIA SEGURA” con enfoque integral, potenciar el equipo de Serenazgo, reflotar el parque automotor de seguridad en un 30% y proteger al 22% de los emprendedores afectados por la extorsión.",
+            "indicator": "Implementación de asignación presupuestal para seguridad, porcentaje de disminución de la percepción de inseguridad, implementación de una aplicación comunitaria, número de juntas vecinales equipadas, implementación de un modelo de intervención territorial y recuperación de espacios públicos."
+          },
+          {
+            "problem": "Alta tasa de deserción escolar que compromete el futuro de niños y adolescentes, junto con la falta de espacios adecuados para el deporte, los cuales se encuentran abandonados y convertidos en focos de inseguridad.",
+            "objective": "Contribuir a la disminución de la deserción escolar, promover la cultura, el arte y el deporte, potenciar el aprendizaje de oficios como alternativa económica e impulsar la continuidad de estudios superiores para reducir la delincuencia juvenil.",
+            "goal": "Implementar la Biblioteca Villamariana 24/7, talleres municipales de oficios técnicos, una academia preuniversitaria municipal gratuita, iluminar y optimizar el 60% de los espacios deportivos y lograr la participación de 2000 jóvenes en programas de alto rendimiento.",
+            "indicator": "Provisión de espacios de aprendizaje 24/7, acceso a tecnología y herramientas digitales, talleres gratuitos de artes, enseñanza de oficios técnicos, recuperación de espacios deportivos e impulso de semilleros y torneos interbarrios."
+          },
+          {
+            "problem": "Deficiente atención en salud, caracterizada por una brecha significativa en el acceso a servicios médicos, saturación de centros, largas esperas para citas y una cobertura insuficiente en salud mental, afectando a toda la población.",
+            "objective": "Gestionar la creación de centros de salud municipales, modernizar los existentes, implementar estrategias interinstitucionales para la salud mental, realizar un seguimiento a casos de TBC y anemia, y gestionar campañas de salud oncológica.",
+            "goal": "Creación de un policlínico municipal, incrementar en un 10% anual las atenciones en centros de salud, mejorar la atención primaria, reforzar canastas nutricionales y programas sociales para reducir la anemia en un 10% anual, y realizar campañas de prevención de cáncer.",
+            "indicator": "Distribución de presupuesto para la modernización de centros de salud, impulso a programas y campañas de salud, seguimiento real de casos de TBC y anemia, y gestión de campañas preventivas de salud oncológica para mujeres."
+          },
+          {
+            "problem": "Atención deficiente a problemas de alta vulnerabilidad, como la falta de transitabilidad y acceso seguro en diversas zonas, la ausencia de muros de contención en zonas altas y el abandono del cementerio municipal.",
+            "objective": "Generar acceso seguro a las diversas zonas del distrito, promover la gestión del riesgo de desastres y la seguridad estructural de las viviendas, y reestructurar el cementerio municipal para añadirle valor agregado.",
+            "goal": "Creación de los programas “LA ESCALERA NO ESPERA” y “MURO SEGURO”, modernización del Cementerio Municipal por etapas, implementación del Velatorio Municipal y creación de pistas y veredas de alta calidad.",
+            "indicator": "Reducción de la incidencia de accidentes en zonas críticas, construcción de infraestructura vial y peatonal digna, y mejora en la satisfacción del servicio del cementerio municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades para emprendedores, evidenciada por una alta informalidad empresarial, desconexión de las MYPES de las cadenas de valor, bajo acceso a financiamiento y una participación mínima en las compras públicas.",
+            "objective": "Impulsar el voluntariado profesional para fortalecer a los emprendedores, gestionar capacitación técnica gratuita en todas las zonas del distrito y promover la participación activa de las MYPES locales en los procesos de contratación distrital.",
+            "goal": "Crear el programa de voluntariado “PROGRESEMOS JUNTOS”, implementar una plataforma comercial para reducir la brecha digital del 33% al 50% e impulsar la participación de MYPES en procesos de adquisición del Estado.",
+            "indicator": "Promoción de capacitaciones con especialistas para consolidar proyectos económicos y gestión de una plataforma logística y comercial para que los emprendedores ofrezcan sus productos a nivel nacional."
+          },
+          {
+            "problem": "Deficiencia en la formalidad del comercio distrital, reflejada en la baja competitividad, alta evasión tributaria y una brecha digital que obstaculiza el cumplimiento voluntario, requiriendo una intervención local para simplificar procesos.",
+            "objective": "Impulsar la reducción de la pobreza mediante programas de capacitación técnica y productividad, disminuir el desempleo juvenil, simplificar administrativamente la formalización del comercio y generar oportunidades para el ordenamiento municipal.",
+            "goal": "Crear el programa “Villa María PRODUCE” para capacitar al 20% de la población sin oficio, el programa “Chamba Joven VMT” para prácticas laborales, el programa “FORMALIZATE Villa María” para simplificar requisitos y el ordenamiento del comercio informal.",
+            "indicator": "Medición del porcentaje de población participante en programas de capacitación, medición del porcentaje de jóvenes insertados en el mercado laboral y medición comparativa del número de personas que se formalizan."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente sistema de recojo de residuos sólidos, con un servicio desarticulado que ha generado más de 100 puntos críticos de acumulación de basura, creando focos de infección y afectando la salud pública.",
+            "objective": "Implementar un sistema de recolección inteligente con rutas sectorizadas y monitoreo GPS, distribuir e implementar contenedores de residuos sólidos en puntos estratégicos y reducir los puntos críticos de acopio de basura.",
+            "goal": "Elevar la satisfacción poblacional con el servicio de recolección, implementar el programa “Vecinos promotores ambientales”, lograr la meta de “Cero puntos críticos de basura” con una reducción anual del 25% y duplicar el número de contenedores.",
+            "indicator": "Medición comparativa del número de rutas de recolección, buscando un aumento del 25% anual, y medición de la reducción de puntos críticos de residuos sólidos en un 25% anual."
+          },
+          {
+            "problem": "Inexistente capacitación en reciclaje, lo que resulta en una tasa de reciclaje de solo el 1.8% a pesar del potencial, debido a una escasa cultura de segregación, infraestructura deficiente e informalidad de los recicladores.",
+            "objective": "Fomentar la cultura del reciclaje, proveer infraestructura adecuada para optimizar la recolección, integrar a los recicladores informales al sistema formal e implementar una normativa efectiva para la gestión de residuos.",
+            "goal": "Lograr un “Distrito Limpio” con logística moderna, crear la Escuela Municipal de Ciudadanía Ambiental, implementar un sistema de eco-bonos y reciclaje, e incrementar en un 25% el número de recicladores formalizados.",
+            "indicator": "Fomento de un programa permanente de educación ambiental en colegios, mercados y barrios, promoción de instalaciones modernas de reciclaje y medición del porcentaje de reciclaje en el distrito."
+          },
+          {
+            "problem": "Inexistente protección de ecosistemas y seres vivos, con afectación del frágil ecosistema de las Lomas de Lima por invasiones y mala disposición de residuos, y un alto índice de animales domésticos en estado de abandono.",
+            "objective": "Impulsar la protección de la zona de lomas como un espacio turístico ordenado, fomentar su ruta turística como un conector con la naturaleza e impulsar programas de tenencia responsable de animales domésticos.",
+            "goal": "Fortalecer las Lomas de VMT como un ecosistema turístico de Lima Metropolitana, crear la subgerencia de Turismo y establecer el Hospital Veterinario Municipal.",
+            "indicator": "Medición porcentual de visitantes a Las Lomas, incremento en la capacitación de voluntarios protectores e incremento en las campañas de vacunación, esterilización y tenencia responsable de mascotas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incumplimiento de proyectos de presupuesto participativo, lo que ha generado una profunda desconfianza en la población y ha desincentivado su participación en la priorización de proyectos para el desarrollo del distrito.",
+            "objective": "Lograr que el presupuesto participativo se distribuya proporcionalmente en las siete zonas, propiciar la participación de instituciones educativas, garantizar la ejecución de presupuestos pendientes y destinar el 25% del presupuesto a seguridad ciudadana.",
+            "goal": "Distribuir el presupuesto participativo proporcionalmente, asegurar la participación activa de instituciones educativas, destinar el 20% del presupuesto participativo a seguridad, ejecutar el 100% de los proyectos pendientes y crear Escuelas para dirigentes vecinales.",
+            "indicator": "Medición del porcentaje de participación de organizaciones y de instituciones educativas, ejecución al 100% de los proyectos priorizados y capacitación a dirigentes sobre los procesos de participación."
+          },
+          {
+            "problem": "Incipiente política de integridad institucional, con una calificación baja en el Índice de Capacidad Preventiva y el incumplimiento en la implementación de componentes clave como el canal de denuncias, supervisión y capacitación a funcionarios.",
+            "objective": "Garantizar la capacitación continua del personal municipal, asegurar la publicación actualizada de los procesos de adquisición, atender el 100% de los pedidos de acceso a la información y difundir las políticas de integridad pública.",
+            "goal": "Superar al 100% el nivel de logro en el Índice de Capacidad Preventiva, garantizar la transparencia en los procesos de adquisición, establecer una política de cero tolerancia a la corrupción, realizar sesiones de concejo descentralizadas y rendir cuentas de forma trimestral.",
+            "indicator": "Capacitación de al menos el 70% del personal tres veces al año, publicación del 100% de las adquisiciones, atención del 100% de los pedidos de información, medición mensual de la difusión de políticas de integridad e implementación de gestión de riesgos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-kl9sR2mC3mHtjr-mty1kA0D2ith-pHgJ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/kl9sR2mC3mHtjr-mty1kA0D2ith-pHgJ",
+      "sha256": "7376657019f340faa2b7d38986f5120b0503998603732cf3d36fc89c0753535e",
+      "accessedAt": "2026-10-02T23:07:30.896Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032589",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032589",
+      "sha256": "1a8555b56044e5a6e489e30fa1f926845cc18ec11a2966d8eeb08ef1a641936a",
+      "accessedAt": "2026-10-02T23:07:31.371Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

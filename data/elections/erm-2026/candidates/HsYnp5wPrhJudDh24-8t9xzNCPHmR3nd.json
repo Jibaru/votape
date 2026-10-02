@@ -1,0 +1,332 @@
+{
+  "id": "HsYnp5wPrhJudDh24-8t9xzNCPHmR3nd",
+  "slug": "hector-manuel-cochon-barrientos",
+  "electionId": "erm-2026",
+  "name": "Hector Manuel Cochon Barrientos",
+  "givenNames": "Hector Manuel",
+  "surnames": "Cochon Barrientos",
+  "age": 48,
+  "gender": "Masculino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:40.127Z",
+      "sourceId": "jne-hv-HsYnp5wPrhJudDh24-8t9xzNCPHmR3nd"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "CENTRO DE FORMACION TECNICA MINERA",
+        "program": "CENTRO DE FORMACION TECNICA MINERA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "Ingeniero Civil",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "BACHILLER EN INGENIERÍA CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD SAN IGNACIO DE LOYOLA",
+        "program": "GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSORCIO LAS LOMAS",
+      "role": "INGENIERO DE SUELOS",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "CORPORACION GONZAMAC S.A.C.",
+      "role": "INGENIERO SUPERVISOR DE SSOMA",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "employer": "BRA LOES CONSTRUCTORA Y CONSULTORIA E.I.R.L.",
+      "role": "INGENIERO DE CAMPO",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "MCB TECHNOLOGY & CONSTRUCCION E.I.R.L.",
+      "role": "SUPERVISOR DE MANTENIMIENTO",
+      "from": "2019",
+      "to": "2019"
+    },
+    {
+      "employer": "EMPRESA SUMINISTRADORA DEL NORTE DE PRODUCTOS INDUSTRIALES S.A.",
+      "role": "CAPATAZ DE OBRA",
+      "from": "2017",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 68654,
+        "public": 0,
+        "private": 68654
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 17238.48,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CALLE 1 MZ F LOT 19 P.V. DE LAS MERCEDES",
+        "value": 6347.64,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "COLOR TURQUESA",
+        "value": 15000
+      },
+      {
+        "type": "COLOR ROJO",
+        "value": 5000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MCB TECHNOLOGY & CONSTRUCTION",
+        "type": "ACCIONES",
+        "quantity": 10000,
+        "value": 10000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6b393c67-6661-4b97-a7d8-9bf692238e44.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/62837dd0-07c2-48b4-91be-512bf6c7d7a1.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia de anemia infantil en menores de 3 años, especialmente en zonas rurales, periféricas y laderas altas.",
+            "objective": "Reducir la anemia infantil mediante vigilancia comunitaria, controles preventivos y fortalecimiento nutricional.",
+            "goal": "Reducir la anemia infantil de alrededor del 40% a 10% al 2030 y lograr cobertura anual de controles de hemoglobina en menores de 3 años.",
+            "indicator": "Porcentaje de niños tamizados; agentes comunitarios capacitados; campañas itinerantes realizadas; ollas comunes con menús ricos en hierro."
+          },
+          {
+            "problem": "Saturación del primer nivel de atención, largas colas, escasez de citas y desabastecimiento de medicamentos en establecimientos de salud.",
+            "objective": "Fortalecer la capacidad resolutiva del primer nivel de salud y mejorar la oportunidad de atención.",
+            "goal": "Eliminar colas de madrugada en establecimientos intervenidos y garantizar soporte logístico municipal para campañas preventivas en la periferia.",
+            "indicator": "Tiempo promedio de espera; porcentaje de abastecimiento de medicamentos; pacientes atendidos por clínicas móviles."
+          },
+          {
+            "problem": "Carabayllo carece de un hospital de mediana o alta complejidad plenamente operativo para atender a su población.",
+            "objective": "Gestionar el destrabe, saneamiento y puesta en marcha de infraestructura hospitalaria para el distrito.",
+            "goal": "Lograr el 100% del saneamiento legal del terreno, asegurar viabilidad técnica e iniciar obras de infraestructura hospitalaria antes del tercer año de gestión.",
+            "indicator": "Avance del saneamiento físico-legal; convenios suscritos; perfil técnico aprobado; avance de obras de acceso."
+          },
+          {
+            "problem": "Brecha de infraestructura educativa, aulas saturadas y colegios públicos que requieren mantenimiento correctivo o refuerzo estructural.",
+            "objective": "Modernizar y ampliar la infraestructura escolar pública, priorizando zonas de expansión.",
+            "goal": "Reducir de 45% a 15% los colegios con mantenimiento urgente y gestionar dos nuevas instituciones educativas en Lomas de Carabayllo y San Benito.",
+            "indicator": "Porcentaje de instituciones intervenidas; número de aulas o pabellones gestionados; terrenos saneados para equipamiento educativo."
+          },
+          {
+            "problem": "Brechas de agua, saneamiento, electrificación y viviendas precarias en laderas y asentamientos humanos.",
+            "objective": "Cerrar brechas de servicios básicos y reducir la vulnerabilidad estructural de viviendas.",
+            "goal": "Elevar agua por red a 75%, alcantarillado a 70%, reducir electrificación pendiente a menos de 3%, asistir a 10,000 familias y construir 50 muros de contención.",
+            "indicator": "Hogares con agua por red; viviendas con alcantarillado; asentamientos electrificados; viviendas asistidas; muros construidos."
+          },
+          {
+            "problem": "Inseguridad alimentaria crónica y alta pobreza monetaria en laderas altas, con dependencia de ollas comunes, comedores y Vaso de Leche.",
+            "objective": "Garantizar seguridad alimentaria nutricional en zonas de pobreza extrema.",
+            "goal": "Abastecer al 100% de las 130 ollas comunes y comedores con insumos proteicos mensuales y mejorar la atención de 8,000 usuarios y 26,606 beneficiarios del Vaso de Leche.",
+            "indicator": "Comedores y ollas abastecidos; usuarios atendidos con raciones mejoradas; biohuertos implementados."
+          },
+          {
+            "problem": "Baja cobertura de protección social para adultos mayores, personas con discapacidad y hogares vulnerables.",
+            "objective": "Ampliar la cobertura de programas sociales mediante focalización y empadronamiento descentralizado.",
+            "goal": "Incrementar en 50% la cobertura de Pensión 65 y lograr que el 100% de hogares en pobreza extrema de laderas cuente con clasificación socioeconómica actualizada.",
+            "indicator": "Nuevos usuarios incorporados a Pensión 65, Juntos y Contigo; hogares con clasificación socioeconómica actualizada."
+          },
+          {
+            "problem": "Abandono del patrimonio histórico, baja oferta cultural y poca participación en actividades culturales.",
+            "objective": "Recuperar el patrimonio y descentralizar la oferta cultural comunitaria.",
+            "goal": "Proteger el 100% de monumentos críticos, iniciar la restauración de Punchauca y El Fortín, y duplicar los Puntos de Cultura de 4 a 10.",
+            "indicator": "Monumentos protegidos; proyectos de puesta en valor; puntos de cultura formalizados; participación ciudadana en actividades culturales."
+          },
+          {
+            "problem": "Alta incidencia de delitos contra el patrimonio, violencia familiar e inaccesibilidad policial en laderas altas.",
+            "objective": "Fortalecer seguridad ciudadana, prevención social y protección frente a violencia familiar.",
+            "goal": "Reducir en 35% robos y hurtos, ampliar de 72 a 300 cámaras, reducir respuesta a menos de 7 minutos y equipar al 100% de juntas vecinales.",
+            "indicator": "Tasa de delitos patrimoniales; tiempo de respuesta; cámaras operativas; denuncias atendidas; juntas vecinales equipadas."
+          },
+          {
+            "problem": "Deserción escolar, baja transición a educación superior y rendimiento escolar insuficiente en zonas periféricas.",
+            "objective": "Reducir la deserción y ampliar oportunidades de educación superior y capacitación juvenil.",
+            "goal": "Elevar de 25% a 45% el tránsito inmediato a educación superior y beneficiar a más de 2,000 jóvenes por año con preparación gratuita.",
+            "indicator": "Porcentaje de egresados que acceden a educación superior; vacantes de academia municipal; jóvenes beneficiarios de orientación vocacional."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad laboral, con predominio de trabajadores sin derechos laborales ni seguridad social.",
+            "objective": "Promover empleo formal, capacitación técnica y articulación laboral para jóvenes y adultos.",
+            "goal": "Reducir progresivamente la informalidad laboral y vincular a miles de vecinos con capacitación y bolsas de empleo al 2030.",
+            "indicator": "Trabajadores capacitados; empleos gestionados; MYPE formalizadas; convenios empresariales."
+          },
+          {
+            "problem": "Economía local concentrada en comercio, servicios, construcción informal y microemprendimientos con baja productividad.",
+            "objective": "Fortalecer MYPE, comercio local y emprendimientos productivos.",
+            "goal": "Incrementar la formalización comercial y fortalecer la productividad de MYPE y emprendimientos barriales al 2030.",
+            "indicator": "MYPE formalizadas; licencias emitidas; ferias realizadas; emprendedores capacitados."
+          },
+          {
+            "problem": "Brecha financiera y digital en laderas altas, que obliga a la población a trasladarse para transacciones básicas.",
+            "objective": "Ampliar inclusión financiera y digital en zonas periféricas.",
+            "goal": "Reducir la exclusión financiera en laderas y acercar servicios bancarios, digitales y municipales a zonas periféricas al 2030.",
+            "indicator": "Agentes financieros instalados; vecinos capacitados; operaciones digitales realizadas; zonas con conectividad fortalecida."
+          },
+          {
+            "problem": "Mercados zonales con informalidad logística, congestión, ausencia de bahías de carga y limitada modernización comercial.",
+            "objective": "Ordenar y modernizar mercados, centros de abasto y nodos logísticos distritales.",
+            "goal": "Modernizar progresivamente los principales mercados zonales y reducir la congestión logística en zonas comerciales críticas.",
+            "indicator": "Mercados intervenidos; bahías de carga habilitadas; comerciantes formalizados; reducción de congestión."
+          },
+          {
+            "problem": "Potencial turístico, gastronómico y patrimonial desaprovechado por deterioro de monumentos, falta de rutas y débil promoción.",
+            "objective": "Desarrollar turismo cultural, ecológico y gastronómico como motor económico local.",
+            "goal": "Implementar rutas turísticas integradas y activar circuitos de patrimonio, lomas y gastronomía durante el periodo 2027-2030.",
+            "indicator": "Rutas turísticas implementadas; visitantes atendidos; emprendimientos gastronómicos incorporados; patrimonio puesto en valor."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Emergencia sanitaria por acumulación de residuos sólidos, generación diaria de 320 a 350 toneladas y presencia de puntos críticos en avenidas principales.",
+            "objective": "Modernizar y asumir el control directo, eficiente y sostenible del servicio de limpieza pública.",
+            "goal": "Lograr el 100% de gestión directa municipal del recojo de basura y eliminar los basurales históricos al 2030.",
+            "indicator": "Porcentaje de residuos recolectados por flota municipal; reducción de puntos críticos; costo operativo por tonelada; reportes vecinales por retrasos."
+          },
+          {
+            "problem": "Las compactadoras tradicionales no ingresan a laderas altas y calles estrechas de Lomas de Carabayllo, San Benito y El Progreso.",
+            "objective": "Implementar un sistema alternativo de recolección para zonas periurbanas y de difícil acceso.",
+            "goal": "Garantizar el 100% de cobertura del servicio de residuos sólidos en zonas periurbanas y laderas altas al 2030.",
+            "indicator": "Cobertura de recolección en laderas; número de motofurgones; frecuencia semanal de recolección."
+          },
+          {
+            "problem": "Baja cultura de reciclaje y limitado aprovechamiento de residuos orgánicos e inorgánicos.",
+            "objective": "Impulsar la segregación, reciclaje y valorización de residuos.",
+            "goal": "Reducir en 35% el volumen de residuos enviados a disposición final al 2030.",
+            "indicator": "Toneladas valorizadas; hogares incorporados; porcentaje de residuos segregados."
+          },
+          {
+            "problem": "Déficit severo de áreas verdes, uso ineficiente de agua para riego e invasión de áreas reservadas.",
+            "objective": "Incrementar áreas verdes, optimizar riego y proteger espacios reservados.",
+            "goal": "Alcanzar 5.5 m² de área verde por habitante y lograr 100% de riego con agua no potable al 2030.",
+            "indicator": "m² de áreas verdes; índice verde por habitante; parques con agua no potable; hectáreas protegidas."
+          },
+          {
+            "problem": "Alta vulnerabilidad sísmica, pircas inestables, riesgo de inundación y contaminación del río Chillón.",
+            "objective": "Reducir riesgos de desastres y recuperar ambientalmente la cuenca del río Chillón.",
+            "goal": "Estabilizar el 100% de puntos críticos, proteger zonas ribereñas vulnerables y erradicar botaderos informales al 2030.",
+            "indicator": "Muros de contención; rutas de evacuación; kilómetros de ribera protegidos; toneladas retiradas; reducción de vertimientos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desfase catastral, crecimiento urbano informal y baja capacidad de fiscalización territorial.",
+            "objective": "Modernizar la gestión territorial y fortalecer el control urbano.",
+            "goal": "Contar con catastro moderno y georreferenciado para la planificación y fiscalización del distrito al 2030.",
+            "indicator": "Catastro actualizado; fiscalizaciones realizadas; áreas protegidas; expedientes urbanos saneados."
+          },
+          {
+            "problem": "Alta morosidad predial y de arbitrios, informalidad de la propiedad y limitada sostenibilidad financiera municipal.",
+            "objective": "Mejorar la recaudación, actualizar padrones y fortalecer la sostenibilidad financiera local.",
+            "goal": "Reducir progresivamente la morosidad y ampliar la base tributaria sin afectar a hogares vulnerables.",
+            "indicator": "Morosidad reducida; predios incorporados al padrón; campañas tributarias realizadas; ingresos propios incrementados."
+          },
+          {
+            "problem": "Burocracia, centralización de servicios municipales y baja presencia institucional en laderas y zonas periféricas.",
+            "objective": "Descentralizar la gestión municipal y acercar servicios administrativos y sociales a la ciudadanía.",
+            "goal": "Implementar agencias municipales descentralizadas plenamente operativas en las principales zonas periféricas al 2030.",
+            "indicator": "Agencias municipales operativas; trámites atendidos; tiempo promedio de atención."
+          },
+          {
+            "problem": "Participación ciudadana fragmentada y limitada incidencia de organizaciones vecinales y juveniles en decisiones públicas.",
+            "objective": "Fortalecer la gobernanza territorial, participación ciudadana y rendición de cuentas.",
+            "goal": "Consolidar mecanismos participativos descentralizados en todos los sectores del distrito al 2030.",
+            "indicator": "Agentes participantes acreditados; proyectos priorizados; audiencias de rendición; juntas vecinales activas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-HsYnp5wPrhJudDh24-8t9xzNCPHmR3nd",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/HsYnp5wPrhJudDh24-8t9xzNCPHmR3nd",
+      "sha256": "e278ece0852a9d5db58b7b69bb1c689b3671afd280fb8ef8371644d33df35dde",
+      "accessedAt": "2026-10-02T22:52:40.127Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015171",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015171",
+      "sha256": "bb8b4c7b199107011057c2684d21be2528b5876bde740d4d1a1d867c5b956c10",
+      "accessedAt": "2026-10-02T22:52:40.675Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

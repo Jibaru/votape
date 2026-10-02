@@ -1,0 +1,197 @@
+{
+  "id": "DNhw2lnNr5lqUxzNLdNcob9S1_64H7I1",
+  "slug": "carlos-alcides-zuniga-arce",
+  "electionId": "erm-2026",
+  "name": "Carlos Alcides Zuñiga Arce",
+  "givenNames": "Carlos Alcides",
+  "surnames": "Zuñiga Arce",
+  "age": 73,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:54.209Z",
+      "sourceId": "jne-hv-DNhw2lnNr5lqUxzNLdNcob9S1_64H7I1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Garcilaso de la vega",
+        "program": "administracion",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1980"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Ministerio de la produccion",
+      "role": "Directivo",
+      "from": "1984",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 78000,
+        "public": 78000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 600000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/aeda689a-3b83-44e2-bf0d-cc5ec5a82a4d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/78760410-3c80-4628-a8d8-028223d0d27f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana y victimización, debido a la falta de interoperabilidad tecnológica entre el serenazgo y la policía, y la presión de la informalidad en nudos viales críticos.",
+            "objective": "Reducir la incidencia delictiva y la percepción de inseguridad mediante la interoperabilidad tecnológica total entre el Serenazgo y la PNP, potenciar el patrullaje integrado, modernizar la logística y capacitar al capital humano.",
+            "goal": "Consolidar las reuniones semanales del CODISEC Miraflores lideradas por el Alcalde. Modernización integral y fortalecimiento continuo de los recursos logísticos y tecnológicos de seguridad ciudadana, garantizando la total operatividad del sistema de videovigilancia.",
+            "indicator": "52 reuniones anuales del CODISEC Miraflores convocadas y ejecutadas. Reemplazo e inversión en el 100% de la flota vehicular de seguridad. Incremento neto del 20% en el número de serenos del distrito."
+          },
+          {
+            "problem": "Brechas en el acceso a medicamentos a costo social y una insuficiente oferta de servicios de salud mental con enfoque comunitario, agudizadas por los efectos post-pandemia.",
+            "objective": "Promover el acceso universal a medicamentos a costo social mediante una farmacia municipal y fortalecer la atención en salud mental a través de un centro comunitario y plataformas de telemedicina.",
+            "goal": "Consolidar la Farmacia Municipal y el Centro de Salud Mental Comunitario como pilares de soporte asistencial a costo social. Reducir el tiempo de espera y las barreras económicas para el acceso a terapias psicológicas y psiquiátricas.",
+            "indicator": "Una farmacia municipal autorizada por DIGEMID y operando continuamente. Un Centro de Salud Mental Comunitario instalado con personal del MINSA. Una plataforma de telemedicina en funcionamiento."
+          },
+          {
+            "problem": "Sobrecarga vehicular que genera severa congestión, contaminación sonora y ambiental, debido a deficiencias en el transporte público y un incremento en el uso de autos particulares.",
+            "objective": "Optimizar la movilidad urbana y la transitabilidad peatonal a través de la reingeniería de nudos viales críticos, la fiscalización electrónica del tránsito y la creación de un anillo peatonal inclusivo y seguro.",
+            "goal": "Culminar y empalmar 30 km totales de infraestructura ciclista. Consolidar el sistema masivo ecológico de transporte distrital. Reducir sustancialmente los tiempos de viaje en las principales avenidas mediante la eliminación de giros y la sincronización semafórica.",
+            "indicator": "9 kilómetros de nuevas ciclovías construidas. Dos rutas del sistema de transporte vecinal ecológico implementadas. 100% de la red semafórica distrital centralizada e interconectada con el Centro de Control de Tránsito de la MML."
+          },
+          {
+            "problem": "Alta vulnerabilidad del territorio ante desastres de origen natural, como sismos y tsunamis, y peligros antrópicos derivados del desarrollo económico, como incendios o fallas estructurales.",
+            "objective": "Fortalecer el conocimiento del riesgo, la capacidad operativa para la atención de emergencias y la capacidad de respuesta de la población organizada y de la Compañía de Bomberos distrital.",
+            "goal": "Obtener un diagnóstico científico definitivo de los niveles de riesgo para las 14 zonas del distrito. Consolidar la operación del Centro de Operaciones de Emergencia Local (COEL) y la Sala de Crisis con interconexión total. Garantizar el funcionamiento de 14 nuevos almacenes soterrados.",
+            "indicator": "14 Informes de Evaluación de Riesgo de Desastres desarrollados. 100% de los Instrumentos de Gestión de Riesgos actualizados. 14 nuevos Almacenes Soterrados de Ayuda Humanitaria implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desactualización del catastro, vulneración de la residencialidad por presión comercial y conflictividad inmobiliaria que genera daños a propiedades colindantes y desamparo en los vecinos.",
+            "objective": "Ejecutar un plan maestro de actualización de la base catastral, proteger la zonificación residencial del comercio de alto impacto y establecer una oficina de protección al vecino colindante de obras.",
+            "goal": "Lograr la correlación exacta entre la realidad física del territorio y las partidas registrales. Mantener el carácter residencial de los barrios interiores, reduciendo a cero la aprobación de licencias comerciales de alto impacto. Reducir al mínimo los incidentes por fraudes inmobiliarios.",
+            "indicator": "Una base catastral multipropósito actualizada, automatizada y georreferenciada al 100%. Cinco aplicaciones web operativas para la gestión de licencias y control urbano. Un registro de terrenos en desuso reactivados temporalmente."
+          },
+          {
+            "problem": "Saturación y externalidades negativas generadas por la vida nocturna, junto con una excesiva concentración de flujos turísticos en ejes tradicionales y una percepción de inseguridad en otros hitos urbanos.",
+            "objective": "Consolidar a Miraflores como un Destino Turístico Inteligente y Seguro, mediante la modernización tecnológica, el resguardo de corredores históricos y la revalorización de la memoria cívica en el espacio público.",
+            "goal": "Lograr la reducción del 90% de las quejas por ruidos molestos de establecimientos nocturnos. Redirigir el 35% del flujo de turistas hacia nuevos polos urbanos. Lograr que el 100% de las playas, la Bajada Balta y el Parque Reducto cuenten con iluminación inteligente.",
+            "indicator": "Certificación de Miraflores como el Primer Destino Turístico Inteligente (DTI) oficial del Perú. Cuatro zonas temáticas y de experiencias operando bajo una marca de destino diferenciada. Una plataforma de Serenazgo Turístico Bilingüe operativa."
+          },
+          {
+            "problem": "Alta tasa de mortalidad de emprendimientos y percepción de excesiva burocracia municipal, lo que desincentiva la formalización y la inversión privada en el distrito.",
+            "objective": "Reactivar y formalizar el comercio local transformando al distrito en un centro de industrias creativas y culturales, reduciendo las barreras burocráticas para las MYPEs y simplificando la administración.",
+            "goal": "Lograr que al menos el 75% de las MYPE incubadas superen los 3 años de vida. Consolidar al distrito en el primer puesto del ranking de simplificación administrativa de Lima. Lograr la inserción formal de un mínimo de 3,000 vecinos en puestos de trabajo calificados.",
+            "indicator": "Una incubadora de negocios municipal creada y en operación. 100% de las licencias de funcionamiento, construcción e ITSE digitalizadas. Reducción de los tiempos de respuesta administrativa en un 50%."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad sanitaria por riego convencional, alta carga presupuestal por uso de flora estacional exótica y ausencia de un inventario georreferenciado del patrimonio natural del distrito.",
+            "objective": "Implementar un programa de conversión a riego tecnificado, transformar el diseño paisajístico hacia especies sostenibles y desarrollar el primer inventario forestal urbano digital y georreferenciado.",
+            "goal": "Alcanzar la siembra y mantenimiento de 10,000 nuevos árboles en el tejido urbano. Consolidar el corredor ecológico del acantilado con la plantación de 1,000 nuevos árboles. Lograr que más del 50% de los parques operen con riego tecnificado inteligente.",
+            "indicator": "Trece parques adicionales con sistema de riego tecnificado automatizado. Un inventario forestal y de áreas verdes digitalizado y de libre acceso. Cantidad de árboles plantados y registrados en el sistema de monitoreo forestal."
+          },
+          {
+            "problem": "Articulación institucional dispersa en materia ambiental, desconexión de la variable climática en la planificación y falta de un canal de información transparente sobre indicadores ambientales para la ciudadanía.",
+            "objective": "Reestructurar la Comisión Ambiental Municipal (CAM), transversalizar la variable climática en los planes estratégicos (PDLC, PEI) y desarrollar un Sistema de Información Ambiental Local (SIAL) de datos abiertos.",
+            "goal": "Posicionar a Miraflores como el distrito modelo en participación ciudadana ambiental. Lograr que el 100% de los residentes tengan acceso a las métricas del SIAL. Garantizar que el presupuesto municipal se ejecute con un enfoque estricto de sostenibilidad.",
+            "indicator": "Una Comisión Ambiental Municipal reestructurada sesionando mensualmente. Un Sistema de Información Ambiental Local desarrollado y operando al 100%. 100% de los Instrumentos de Gestión Ambiental Local actualizados y validados."
+          },
+          {
+            "problem": "Estancamiento en la tasa de valorización de residuos, baja cobertura en la gestión de residuos orgánicos y barreras logísticas para el reciclaje en la vivienda vertical.",
+            "objective": "Implementar un programa de valorización orgánica, realizar una reingeniería del programa de recojo selectivo para alcanzar el 100% de cobertura y promulgar una ordenanza de segregación obligatoria en propiedad horizontal.",
+            "goal": "Superar la meta del 7% de residuos valorizados a nivel municipal. Garantizar que el 100% de comercios y el 90% de juntas de propietarios ejecuten la segregación en la fuente. Consolidar un modelo inclusivo que dignifique el trabajo de los recicladores formalizados.",
+            "indicator": "Porcentaje de residuos sólidos municipales valorizados. 100% del territorio distrital cubierto por las rutas del programa \"Basura que no es Basura\". Toneladas métricas anuales de RAEE y galones de AVU recolectados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Afectación de la credibilidad institucional por riesgos de corrupción, brecha en la implementación de un modelo de integridad y deficiencias en el monitoreo de las recomendaciones de los órganos de control.",
+            "objective": "Institucionalizar la Oficina de Integridad Municipal, crear una Unidad de Cumplimiento (Delivery Unit) y facilitar la apertura al control gubernamental simultáneo y posterior.",
+            "goal": "Instalar e implementar la Oficina de Integridad Municipal, evaluando y certificando al 100% de los colaboradores. Poner en funcionamiento Salas Exclusivas de Transparencia para la revisión del 100% de grandes proyectos de inversión. Establecer canales que garanticen el 100% de facilidades a las comisiones de auditoría del SNC.",
+            "indicator": "Una Oficina de Integridad debidamente creada e incorporada en el ROF. Una Unidad de Cumplimiento operativa con tableros de control públicos. Una herramienta digital de gestión para el seguimiento de informes de auditoría."
+          },
+          {
+            "problem": "Falta de actualización y opacidad en las plataformas web institucionales, inoperatividad de instancias de articulación social y canales de atención vecinal desconectados de los sistemas de planificación.",
+            "objective": "Fortalecer a las 14 Juntas Vecinales como ejes de cogestión, establecer un programa de audiencias públicas semanales y realizar una reingeniería del Portal de Transparencia Estándar.",
+            "goal": "Consolidar a la municipalidad en el primer lugar del ranking de Transparencia Activa. Lograr que las instancias de articulación social operen al 100% de su capacidad. Consolidar canales virtuales que resuelvan el 90% de los pedidos vecinales en los plazos establecidos.",
+            "indicator": "Cincuenta audiencias vecinales ejecutadas y transmitidas anualmente. Cuatro audiencias públicas de rendición de cuentas realizadas al cierre de cada año fiscal. Un enlace web de monitoreo dinámico del plan de gobierno implementado."
+          },
+          {
+            "problem": "Brecha de inclusión y accesibilidad en los servicios tributarios para personas con discapacidad, riesgo de evasión por desactualización de la base catastral y un techo logístico en la cobranza y notificación física.",
+            "objective": "Garantizar la accesibilidad total en la administración tributaria, realizar una reingeniería de los beneficios del vecino puntual e implementar una estrategia de transición hacia la notificación electrónica.",
+            "goal": "Cumplir con el 100% de las metas de recaudación del MEF. Estabilizar la tasa de morosidad del Impuesto Predial en un 3.5% máximo. Lograr que el 100% de la información y formatos tributarios cuenten con adaptaciones de accesibilidad.",
+            "indicator": "Porcentaje de trámites y servicios tributarios virtualizados y accesibles. Porcentaje de reducción de la morosidad del Impuesto Predial y Arbitrios. Tasa de crecimiento anual del padrón de contribuyentes puntuales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-DNhw2lnNr5lqUxzNLdNcob9S1_64H7I1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DNhw2lnNr5lqUxzNLdNcob9S1_64H7I1",
+      "sha256": "7c3c526b9691830bfc2ce5321e4fedc57986bb5809d84c01b77e77380572703c",
+      "accessedAt": "2026-10-02T22:59:54.209Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019052",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019052",
+      "sha256": "655d3398c72587952d0b9805e5d9f1bd1d389d5c808e0c48bfc9f5901ee64497",
+      "accessedAt": "2026-10-02T22:59:54.690Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

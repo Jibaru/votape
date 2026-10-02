@@ -1,0 +1,250 @@
+{
+  "id": "khzHW_56a-xN7QcxmsrVpGcAoAXLtrMB",
+  "slug": "carla-meyling-peralta-hu",
+  "electionId": "erm-2026",
+  "name": "Carla Meyling Peralta Hu",
+  "givenNames": "Carla Meyling",
+  "surnames": "Peralta Hu",
+  "age": 45,
+  "gender": "Femenino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140124",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:09.325Z",
+      "sourceId": "jne-hv-khzHW_56a-xN7QcxmsrVpGcAoAXLtrMB"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSITAT INTERNACIONAL VALENCIANA",
+        "program": "TÍTULO OFICIAL DE MÁSTER UNIVERSITARIO EN ECONOMÍA CIRCULAR Y DESARROLLO SOSTENIBLE (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2024"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "DOCTORADO EN DERECHO Y CIENCIA POLITICA",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ABOGADA INDEPENDIENTE",
+      "role": "ABOGADA",
+      "from": "2001",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 374558.11,
+        "public": 0,
+        "private": 374558.11
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1096760.29,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1479000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Audi color Azul",
+        "value": 17000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ALDEA URBANA EIRL",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 6500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d44749a8-2033-4ee9-80b5-05632103eff7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/bd03bd3c-760b-4aba-8914-267965b52357.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Baja participación juvenil en espacios de decisión vecinal; solo alrededor del 16% de la población corresponde a jóvenes entre 15 y 29 años.",
+            "objective": "Promover la participación activa y sostenida de las y los jóvenes en la gestión municipal, incorporándolos en consejos, presupuestos participativos y programas comunitarios.",
+            "goal": "Incrementar en 30% la participación juvenil distrital en espacios formales de decisión y consulta vecinal",
+            "indicator": "Número de jóvenes participantes en mecanismos de participación ciudadana reconocidos por la municipalidad."
+          },
+          {
+            "problem": "Oferta limitada de programas y actividades para el fomento deportivo y la promoción de la convivencia vecinal.",
+            "objective": "Incrementar la actividad física y la convivencia vecinal en la comunidad.",
+            "goal": "Realizar 50 torneos durante el período de gobierno, a razón de 10 por año.",
+            "indicator": "Número de torneos organizados."
+          },
+          {
+            "problem": "Cobertura aún mejorable de campañas preventivas de salud y de bienestar animal en el distrito",
+            "objective": "Fortalecer la salud preventiva y la tenencia responsable de mascotas mediante campañas periódicas y servicios accesibles.",
+            "goal": "Alcanzar una cobertura mínima del 95% anual de vacunación antirrábica y mantener campañas periódicas de salud preventiva en todos los sectores del distrito.",
+            "indicator": "Cobertura anual de vacunación antirrábica y de campañas de salud preventiva, según rango de edad."
+          },
+          {
+            "problem": "Infraestructura deportiva con alcance limitado. El gimnasio municipal registró aproximadamente 393 usuarios mensuales y 38 eventos deportivos en 2022.",
+            "objective": "Ampliar y diversificar la oferta deportiva y recreativa para todas las edades, con énfasis en jóvenes, mujeres y adultos mayores.",
+            "goal": "Incrementar en 40% la participación deportiva vecinal.",
+            "indicator": "Número de usuarios de programas deportivos municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Presencia recurrente de comercio ambulatorio no autorizado en determinadas avenidas, zonas comerciales y espacios públicos, que genera ocupación indebida de la vía pública, afecta la circulación peatonal y vehicular y evidencia la falta de un registro actualizado y de alternativas de ordenamiento.",
+            "objective": "Ordenar progresivamente el comercio ambulatorio mediante el empadronamiento de los comerciantes, la identificación de zonas críticas, la reubicación voluntaria y viable, la orientación para la formalización y la recuperación del espacio público.",
+            "goal": "No se especifica.1. Elaborar durante 2027 el padrón municipal de comerciantes ambulantes y el mapa de zonas críticas.2. Empadronar, al 2028, por lo menos al 90 % de los comerciantes ambulantes identificados en las zonas priorizadas.3. Reubicar o incorporar en espacios autorizados, al 2030, al menos al 60 % de los comerciantes empadronados que cumplan las condiciones establecidas.4. Recuperar y ordenar como mínimo el 80 % de las zonas críticas priorizadas al 2030.5. Orientar al 100 % de los comerciantes empadronados sobre formalización, alternativas de reubicación y cumplimiento de las disposiciones municipales.6. Mantener libres de nueva ocupación no autorizada al menos el 80 % de los espacios públicos recuperados.",
+            "indicator": "1. Porcentaje de comerciantes ambulantes identificados y empadronados.2. Número y porcentaje de comerciantes reubicados o incorporados en espacios autorizados.3. Porcentaje de zonas críticas recuperadas y ordenadas.4. Número de comerciantes que reciben orientación para la formalización.5. Porcentaje de zonas recuperadas que se mantienen libres de ocupación no autorizada."
+          },
+          {
+            "problem": "Congestión vehicular y demoras recurrentes en determinados corredores e intersecciones del distrito durante las horas de mayor demanda, sin información integrada y actualizada que permita identificar oportunamente sus causas y adoptar intervenciones focalizadas.",
+            "objective": "Mejorar la gestión de la movilidad urbana mediante el monitoreo del tránsito en tiempo real, la identificación de las causas de congestión y la implementación de intervenciones focalizadas de semaforización inteligente, señalización, rediseño vial, fiscalización y coordinación con las entidades competentes.",
+            "goal": "1. Actualizar durante 2027 el mapa distrital de puntos críticos de tránsito e identificar las causas de congestión en cada uno de ellos.2. Implementar progresivamente el monitoreo en tiempo real en al menos ocho puntos críticos durante el periodo 2027–2030.3. Implementar o mejorar la semaforización inteligente en las intersecciones técnicamente viables, previa evaluación y coordinación con las entidades competentes.4. Intervenir como mínimo ocho puntos críticos, aplicando soluciones diferenciadas según el problema identificado.5. Reducir en al menos 10 % el tiempo promedio de desplazamiento en los puntos intervenidos respecto de la línea de base de 2027.6. Evaluar semestralmente los resultados y publicar los tiempos de desplazamiento registrados antes y después de cada intervención.",
+            "indicator": "1. Número de puntos críticos monitoreados y diagnosticados.2. Número de puntos que cuentan con monitoreo de tránsito en tiempo real.3. Número de intersecciones con semaforización inteligente implementada o mejorada.4. Número de puntos intervenidos según la causa identificada.5. Variación del tiempo promedio de desplazamiento en los puntos intervenidos.6. Número de acciones coordinadas con las entidades competentes."
+          },
+          {
+            "problem": "Oferta insuficiente de comercio de proximidad y limitado acceso a productos locales, saludables y sostenibles en determinadas zonas residenciales de los cuatro sectores de San Isidro, lo que genera desplazamientos y limita las oportunidades de comercialización de los emprendimientos locales.",
+            "objective": "Promover ferias ecológicas itinerantes en los cuatro sectores de San Isidro para acercar productos locales, saludables y sostenibles a los vecinos, fortalecer los emprendimientos responsables y fomentar hábitos de consumo sostenible y economía circular.",
+            "goal": "1. Realizar como mínimo 12 ferias ecológicas itinerantes por año.2. Desarrollar al menos tres ferias anuales en cada uno de los cuatro sectores de San Isidro.3. Lograr la participación de al menos 40 emprendimientos diferentes por año, priorizando los negocios locales y sostenibles.4. Garantizar que el 100 % de las ferias aplique medidas de reducción de plásticos de un solo uso, segregación de residuos y promoción del consumo responsable.5. Incorporar en cada feria al menos una actividad de economía circular o educación ambiental.6. Alcanzar una satisfacción mínima del 80 % entre los vecinos y emprendedores participantes.",
+            "indicator": "1. Número de ferias ecológicas itinerantes realizadas por año.2. Número de ferias realizadas en cada sector.3. Número de emprendimientos locales y sostenibles participantes.4. Número de vecinos asistentes.5. Porcentaje de ferias que aplican criterios ambientales.6. Nivel de satisfacción de vecinos y emprendedores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Distribución desigual de las áreas verdes y mantenimiento insuficiente del arbolado urbano. El distrito cuenta con aproximadamente 143 hectáreas de áreas verdes públicas y 19,5 m² por habitante; sin embargo, existen árboles deteriorados, enfermos o inadecuados para el espacio urbano que pueden generar riesgos de caída. Asimismo, la limitada disponibilidad de suelo hace necesario impulsar nuevas soluciones de infraestructura verde, como techos verdes y jardines verticales.",
+            "objective": "Mejorar y ampliar progresivamente la infraestructura verde distrital mediante el mantenimiento preventivo del arbolado, la gestión de árboles en riesgo, la plantación de especies adecuadas para el entorno urbano y la promoción de techos verdes, priorizando los sectores con menor disponibilidad de áreas verdes.",
+            "goal": "1. Actualizar durante 2027 el inventario georreferenciado del arbolado urbano, incorporando información sobre especie, edad aproximada, estado fitosanitario y nivel de riesgo.2. Evaluar y atender prioritariamente al 100 % de los árboles identificados con riesgo alto de caída, aplicando criterios técnicos y procurando su conservación cuando sea posible.3. Implementar un programa anual de mantenimiento preventivo del arbolado en los cuatro sectores del distrito.4. Reemplazar progresivamente los árboles muertos, irrecuperables o técnicamente inadecuados con especies compatibles con el suelo, el clima, las veredas y la infraestructura urbana.5. Lograr una supervivencia mínima del 85 % de los árboles plantados, medida después de 12 meses.6. Recuperar, mejorar o incorporar como mínimo siete hectáreas de infraestructura verde pública durante el periodo 2027–2030.7. Implementar techos verdes piloto en al menos cuatro edificaciones municipales, una por cada sector, y aprobar incentivos para su incorporación voluntaria en edificaciones privadas.8. Incrementar progresivamente de 19,5 a 20,5 m² de área verde pública",
+            "indicator": "1. Porcentaje del arbolado urbano inventariado y evaluado.2. Número de árboles que reciben mantenimiento preventivo.3. Número de árboles en riesgo intervenidos, tratados o reemplazados.4. Porcentaje de supervivencia de los nuevos árboles después de 12 meses.5. Metros cuadrados de áreas verdes públicas recuperadas o incorporadas.6. Metros cuadrados de techos verdes implementados en edificaciones públicas y privadas.7. Número de sectores intervenidos."
+          },
+          {
+            "problem": "Limitada segregación y valorización de los residuos sólidos generados en el distrito, especialmente de los residuos orgánicos, lo que incrementa la cantidad de desechos enviados a disposición final y desaprovecha materiales que podrían reincorporarse a nuevos ciclos productivos. Asimismo, existe un aprovechamiento insuficiente de aguas tratadas y de fuentes alternativas de agua para el riego de áreas verdes y otros usos no potables en las instalaciones municipales.",
+            "objective": "Implementar un modelo distrital de economía circular que fortalezca la segregación en la fuente, la recolección selectiva, el reciclaje y el compostaje domiciliario y municipal, e incorpore progresivamente el tratamiento y reúso seguro de agua en locales municipales y áreas verdes públicas.",
+            "goal": "1. Elaborar durante 2027 una línea de base distrital sobre generación, segregación, recolección y valorización de residuos sólidos, diferenciada por los cuatro sectores.2. Incrementar en 30 % la participación de viviendas, edificios y establecimientos en el programa de segregación en la fuente respecto de la línea de base de 2027.3. Incrementar en 25 % la cantidad anual de residuos reciclables valorizados al 2030.4. Implementar un programa de compostaje domiciliario y comunitario que alcance, como mínimo, a 1 000 hogares y 40 edificios o establecimientos durante el periodo 2027–2030.5. Implementar por lo menos cuatro puntos o centros descentralizados de compostaje, uno en cada sector, previa evaluación de su viabilidad sanitaria y operativa.6. Utilizar el compost producido en el mantenimiento de parques, jardines y demás áreas verdes municipales.7. Reducir en al menos 15 % la cantidad de residuos municipales enviados a disposición final respecto de la línea de base de 2027.8. Implementar sistemas piloto de tratamiento o reúso de agua en al menos cuatro instalaciones municipales, una por cada sector.9. Incrementar progresivamente el uso de agua tratada o recuperada para el riego de áreas verdes municipales, estableciendo la meta definitiva a partir del balance hídrico de 2027.",
+            "indicator": "1. Porcentaje de viviendas, edificios y establecimientos que participan en programas de segregación en la fuente.2. Toneladas de residuos reciclables recolectadas y valorizadas por año.3. Toneladas de residuos orgánicos transformadas en compost.4. Número de hogares, edificios y establecimientos que realizan compostaje.5. Porcentaje de residuos municipales desviados de la disposición final.6. Número de instalaciones municipales con sistemas de tratamiento o reúso de agua.7. Metros cúbicos de agua tratada o recuperada utilizados para fines no potables.8. Número de áreas verdes regadas con agua tratada o reutilizada."
+          },
+          {
+            "problem": "Insuficiente medición y gestión de las emisiones de gases de efecto invernadero y del consumo energético en las sedes, instalaciones, servicios y flota vehicular municipal, lo que limita la adopción de medidas efectivas de eficiencia energética y mitigación del cambio climático.",
+            "objective": "Reducir progresivamente la huella de carbono de la gestión municipal mediante la medición de emisiones, la eficiencia energética, la incorporación de energías renovables en las sedes municipales y la renovación progresiva de la flota vehicular.",
+            "goal": "1. Realizar durante 2027 un diagnóstico energético y un inventario de emisiones en el 100 % de las sedes municipales.2. Implementar progresivamente medidas de eficiencia energética en el 100 % de las sedes municipales, como iluminación LED, sensores de movimiento, equipos eficientes y sistemas de monitoreo del consumo.3. Reducir en al menos 15 % el consumo de energía eléctrica de las sedes municipales al 2030 respecto de la línea de base de 2027.4. Implementar sistemas de energía renovable, principalmente paneles solares, en al menos cuatro sedes o instalaciones municipales, priorizando una intervención por cada sector del distrito.5. Publicar anualmente la huella de carbono generada por las sedes, servicios y flota municipal.6. Reducir en al menos 10 % la huella de carbono de la gestión municipal al 2030.7. Lograr que al menos el 20 % de los vehículos adquiridos o renovados durante el periodo sea eléctrico, híbrido o de bajas emisiones.",
+            "indicator": "1. Porcentaje de sedes municipales evaluadas energéticamente.2. Consumo anual de energía eléctrica en las sedes municipales.3. Número de sedes municipales con medidas de eficiencia energética.4. Número de sedes municipales con sistemas de energía renovable.5. Toneladas de CO2 equivalente generadas por la gestión municipal.6. Porcentaje de reducción de la huella de carbono municipal.7. Porcentaje de vehículos municipales de bajas o cero emisiones."
+          },
+          {
+            "problem": "Existencia de islas de calor urbano y una calidad del aire moderadamente contaminada, con niveles de PM2.5 que superan los estándares de la OMS.",
+            "objective": "Reducir el efecto de isla de calor y mejorar la calidad del aire en el distrito.",
+            "goal": "Reducir la temperatura en 1°C respecto a los niveles de 2023 y disminuir la concentración de PM2.5 a un máximo de 10 µg/m³ para el año 2030.",
+            "indicator": "Temperatura promedio estival y nivel de concentración anual de partículas PM2.5."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja participación digital en los mecanismos municipales. Menos del 1% de vecinos utiliza plataformas digitales de participación.",
+            "objective": "Modernizar y ampliar los canales digitales de atención, participación y control ciudadano.",
+            "goal": "Triplicar la participación digital vecinal en plataformas municipales.",
+            "indicator": "Número de usuarios registrados y activos en las plataformas digitales municipales de atención y participación ciudadana."
+          },
+          {
+            "problem": "Insuficiente vigilancia tecnológica y alumbrado público deficiente en zonas críticas, lo que genera puntos oscuros y facilita la actividad delictiva.",
+            "objective": "Ampliar el monitoreo urbano con tecnología CCTV y mejorar la iluminación en todo el distrito.",
+            "goal": "Instalar 100 cámaras y lograr que el 100% de las calles principales estén bien iluminadas para el año 2026.",
+            "indicator": "Número de cámaras CCTV operativas y porcentaje de calles y parques con iluminación adecuada."
+          },
+          {
+            "problem": "Persistencia de delitos contra la propiedad y percepción de inseguridad ciudadana",
+            "objective": "Fortalecer la seguridad ciudadana mediante patrullaje integrado PNPSerenazgo, tecnología y presencia preventiva en puntos críticos.",
+            "goal": "1. Actualizar anualmente el mapa distrital del delito.2. Reducir en 15 % la tasa de delitos denunciados contra el patrimonio respecto de la línea de base de 2027.3. Intervenir el 100 % de los puntos críticos priorizados.4. Incrementar en 10 puntos porcentuales la percepción de seguridad al 2030.",
+            "indicator": "1. Tasa de delitos denunciados contra el patrimonio.2. Número de puntos críticos intervenidos.3. Porcentaje de patrullajes integrados ejecutados.4. Porcentaje de vecinos que manifiesta sentirse seguro."
+          },
+          {
+            "problem": "Tiempo de respuesta mejorable ante emergencias vecinales por parte del Serenazgo.",
+            "objective": "Modernizar el sistema de atención, despacho y vigilancia municipal para garantizar respuestas rápidas y eficaces.",
+            "goal": "Reducir el tiempo promedio de respuesta a menos de 8 minutos en todo el territorio distrital.",
+            "indicator": "Tiempo promedio de respuesta del Serenazgo ante llamadas de emergencia registradas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-khzHW_56a-xN7QcxmsrVpGcAoAXLtrMB",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/khzHW_56a-xN7QcxmsrVpGcAoAXLtrMB",
+      "sha256": "8d05b0dfb072797940b005d6afd169e4c899ac75d707c9c09a33d8552a52408a",
+      "accessedAt": "2026-10-02T23:03:09.325Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026033066",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026033066",
+      "sha256": "c7edb22307a02687a03fa52d68e2e8701a8b052cb63d3365cc9a4d81b86f35ce",
+      "accessedAt": "2026-10-02T23:03:09.809Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

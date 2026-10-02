@@ -1,0 +1,207 @@
+{
+  "id": "vDi7tDGRwgkIvag8SvAQCj6zKafvsGJV",
+  "slug": "jaime-javier-frias-reymundo",
+  "electionId": "erm-2026",
+  "name": "Jaime Javier Frias Reymundo",
+  "givenNames": "Jaime Javier",
+  "surnames": "Frias Reymundo",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:57.419Z",
+      "sourceId": "jne-hv-vDi7tDGRwgkIvag8SvAQCj6zKafvsGJV"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "Ingeniero Industrial",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "Bachiller en Ingeniería Industrial",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "MAESTRO EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSULTOR INDEPENDIENTE",
+      "role": "CONSULTORÍA EN PROCESOS",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 62000,
+        "public": 0,
+        "private": 62000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 85000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a5a5a4de-d736-473d-840f-9af2f1597256.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/90b98579-aea4-4ee3-8d2d-e12b63b13951.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Ausencia de una política integral de bienestar animal, lo que genera problemas de salud pública, sobrepoblación de animales abandonados y casos de maltrato.",
+            "objective": "Promover el bienestar animal y la tenencia responsable de mascotas mediante programas preventivos de salud veterinaria, control poblacional y educación ciudadana.",
+            "goal": "Reducir el abandono animal y el riesgo sanitario a través de la creación del Centro Municipal Veterinario y la ejecución de campañas masivas de esterilización y vacunación.",
+            "indicator": "Número de animales abandonados. Tasa de esterilizaciones y desparasitaciones realizadas. Número de campañas de tenencia responsable."
+          },
+          {
+            "problem": "Fuerte crisis social reflejada en la falta de espacios deportivos y culturales, incremento del pandillaje, débil atención a personas con discapacidad y adultos mayores en abandono.",
+            "objective": "Promover el desarrollo integral de la población mediante infraestructura social moderna, inclusión de personas con discapacidad, fortalecimiento del adulto mayor, recuperación cultural e impulso deportivo.",
+            "goal": "Construir el primer Centro Integral de Autismo y Discapacidad, la Casa del Adulto Mayor y polideportivos modernos para mejorar la calidad de vida y la inclusión social de la población.",
+            "indicator": "Tasa de reducción de violencia y pandillaje. Porcentaje de recuperación de espacios públicos. Nivel de inclusión social."
+          },
+          {
+            "problem": "Problemáticas sociales como la violencia familiar, el consumo de drogas, los problemas de salud mental y la desintegración familiar que afectan el tejido social.",
+            "objective": "Fortalecer a las familias y reducir problemáticas sociales mediante prevención, atención psicológica y desarrollo comunitario.",
+            "goal": "Fortalecer el tejido social y reducir la violencia familiar mediante la implementación de centros de atención psicológica comunitaria, programas preventivos familiares y atención a víctimas de violencia.",
+            "indicator": "Tasa de reducción de violencia familiar. Número de personas atendidas en programas de salud mental. Número de familias participando en programas preventivos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades para emprendedores y jóvenes, lo que limita el desarrollo empresarial local y la generación de empleo formal en el distrito.",
+            "objective": "Fortalecer la economía local y generar oportunidades para emprendedores y jóvenes a través de capacitación y programas de impulso empresarial.",
+            "goal": "Generar empleo mediante la creación del Centro Municipal de Servicios Empresariales, una bolsa laboral distrital y la ejecución de programas de capacitación y formalización empresarial.",
+            "indicator": "Número de nuevos empleos formales generados. Cantidad de MYPES y emprendedores formalizados. Número de participantes en programas de capacitación."
+          },
+          {
+            "problem": "Grave crisis de desorden urbano y congestión que limita el crecimiento económico, manifestada en comercio informal descontrolado, congestión vehicular y saturación de ejes comerciales.",
+            "objective": "Impulsar un modelo de desarrollo económico moderno, ordenado y sostenible mediante la recuperación del orden urbano, la modernización de la infraestructura vial y el fortalecimiento empresarial.",
+            "goal": "Incrementar el comercio formal y reactivar la economía a través del reordenamiento progresivo del comercio ambulatorio y la modernización del eje comercial Av. San Juan y Av. Los Héroes.",
+            "indicator": "Tasa de formalización comercial. Tiempos de traslado vehicular. Índice de competitividad económica local."
+          },
+          {
+            "problem": "Infraestructura pública deteriorada, con deficiente señalización vial, falta de estacionamientos y débil planificación territorial, afectando la movilidad y la productividad.",
+            "objective": "Modernizar la infraestructura pública bajo criterios de sostenibilidad, accesibilidad y eficiencia para mejorar la conectividad y la calidad de vida.",
+            "goal": "Mejorar la productividad urbana y la seguridad vial mediante la rehabilitación integral de avenidas, la modernización de paraderos y la construcción de estacionamientos estratégicos.",
+            "indicator": "Porcentaje de vías rehabilitadas. Número de estacionamientos estratégicos construidos. Nivel de accesibilidad universal en la infraestructura."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes, parques deteriorados, acumulación de basura y contaminación ambiental, lo que afecta la calidad de vida de los residentes.",
+            "objective": "Recuperar y ampliar las áreas verdes del distrito, promoviendo la sostenibilidad ambiental y la calidad de vida de la población.",
+            "goal": "Lograr un distrito más limpio y sostenible mediante la recuperación integral de parques, la reforestación urbana y la implementación de una planta de valorización de residuos sólidos.",
+            "indicator": "Porcentaje de incremento de áreas verdes por habitante. Tasa de recolección y valorización de residuos sólidos. Nivel de percepción de limpieza pública."
+          },
+          {
+            "problem": "Vulnerabilidad del distrito frente a desastres naturales y emergencias urbanas, con viviendas en zonas de riesgo, escaleras inseguras y riesgo de deslizamientos en laderas.",
+            "objective": "Fortalecer la capacidad preventiva y de respuesta frente a desastres naturales y emergencias urbanas mediante planificación territorial e infraestructura segura.",
+            "goal": "Reducir los riesgos de desastres a través de un plan distrital de prevención, la construcción de muros de contención y la implementación de un sistema de alertas tempranas.",
+            "indicator": "Número de viviendas reubicadas de zonas de alto riesgo. Kilómetros de muros de contención construidos o reforzados. Tiempo de respuesta ante emergencias."
+          },
+          {
+            "problem": "Altos niveles de contaminación sonora, visual y de emisión de gases contaminantes, además de la quema informal de residuos, que deterioran la salud pública.",
+            "objective": "Reducir los niveles de contaminación ambiental, sonora y visual en el distrito para mejorar la salud pública y la calidad de vida.",
+            "goal": "Mejorar la salud pública y el orden ambiental mediante la fiscalización ambiental digital, el control de ruidos molestos y la modernización del recojo de residuos.",
+            "indicator": "Niveles de decibelios en zonas críticas. Cantidad de puntos críticos de basura erradicados. Índice de calidad del aire."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Graves problemas estructurales en la gestión municipal, como burocracia excesiva, lentitud en trámites, corrupción, desconfianza vecinal y escasa transparencia en el uso de recursos.",
+            "objective": "Modernizar la municipalidad mediante tecnología, transparencia, control eficiente y fiscalización digital para fortalecer la confianza vecinal y mejorar la calidad de los servicios públicos.",
+            "goal": "Reducir la burocracia y la corrupción implementando una plataforma virtual de trámites, un portal web de obras públicas en tiempo real y la digitalización total del archivo municipal.",
+            "indicator": "Tiempo promedio de atención de trámites. Índice de percepción de la corrupción. Nivel de satisfacción ciudadana con los servicios municipales."
+          },
+          {
+            "problem": "Falta de planificación y control territorial, lo que ha generado un grave nivel de desorden urbano, crecimiento informal y debilitamiento del principio de autoridad.",
+            "objective": "Recuperar el orden urbano y territorial mediante una gestión basada en planificación preventiva, control eficiente del espacio público y modernización urbana.",
+            "goal": "Recuperar el principio de autoridad y reducir el caos urbano a través de un plan integral de recuperación del espacio público, fiscalización digital inteligente y un catastro urbano georreferenciado.",
+            "indicator": "Porcentaje de reducción del comercio informal en vías públicas. Número de espacios públicos recuperados y mejorados. Cantidad de licencias de construcción regularizadas."
+          },
+          {
+            "problem": "Débil relación entre la municipalidad y los vecinos, con una baja participación ciudadana en la toma de decisiones y en la supervisión de la gestión.",
+            "objective": "Fortalecer la relación entre la municipalidad y el vecino, promoviendo una participación ciudadana moderna, activa y transparente.",
+            "goal": "Incrementar la participación ciudadana y la cercanía con el municipio mediante la implementación del presupuesto participativo digital, encuestas vecinales en línea y el fortalecimiento de las juntas vecinales.",
+            "indicator": "Número de participantes en plataformas digitales de participación. Nivel de ejecución del presupuesto participativo digital. Número de juntas vecinales activas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vDi7tDGRwgkIvag8SvAQCj6zKafvsGJV",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vDi7tDGRwgkIvag8SvAQCj6zKafvsGJV",
+      "sha256": "cbcc8c1eeb89390084da9f07a019f013cc7a1b237d80ab2cfef9c63a6d0bc43a",
+      "accessedAt": "2026-10-02T23:03:57.419Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022101",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022101",
+      "sha256": "da6ada7d857976d428282c5d6fa427251c7d4e98aa4731ddff12172cd4e9ddb9",
+      "accessedAt": "2026-10-02T23:03:57.963Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "99DabqiAtb6qUvB1o4id11GlcYy5icDK",
+  "slug": "diego-alejandro-hernandez-huambachano",
+  "electionId": "erm-2026",
+  "name": "Diego Alejandro Hernandez Huambachano",
+  "givenNames": "Diego Alejandro",
+  "surnames": "Hernandez Huambachano",
+  "age": 39,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:17.506Z",
+      "sourceId": "jne-hv-99DabqiAtb6qUvB1o4id11GlcYy5icDK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GRUPO EMPRESARIAL HERNANDEZ ASOCIADOS SAC",
+        "type": "ACCIONES",
+        "quantity": 4200,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/47ae205d-3548-4e41-a33a-514acd62a0e3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/438183eb-741e-4e66-9158-fe83e6a58f08.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana en zonas residenciales, comerciales e industriales.",
+            "objective": "Fortalecer la seguridad ciudadana mediante patrullaje integrado, videovigilancia y prevención comunitaria.",
+            "goal": "Reducir en 30% la percepción de inseguridad ciudadana.",
+            "indicator": "Porcentaje de reducción de la percepción de inseguridad ciudadana."
+          },
+          {
+            "problem": "Débil participación e identidad vecinal.",
+            "objective": "Fortalecer la cooperación popular y la organización comunitaria.",
+            "goal": "Implementar 25 redes vecinales activas.",
+            "indicator": "Número de redes vecinales activas implementadas."
+          },
+          {
+            "problem": "Limitada atención a poblaciones vulnerables y escasa oferta recreativa.",
+            "objective": "Fortalecer los programas de inclusión social, deporte y cultura.",
+            "goal": "Beneficiar al menos a 10 000 vecinos.",
+            "indicator": "Número de vecinos beneficiados por programas sociales, deportivos y culturales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad comercial en corredores económicos del distrito.",
+            "objective": "Facilitar la formalización y simplificar los trámites municipales.",
+            "goal": "Formalizar al menos a 1 500 negocios.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Escasas oportunidades de empleo y capacitación.",
+            "objective": "Fortalecer la empleabilidad y la capacitación técnica.",
+            "goal": "Capacitar al menos a 6 000 vecinos.",
+            "indicator": "Número de vecinos capacitados."
+          },
+          {
+            "problem": "Limitada articulación entre empresas, emprendedores y comunidad.",
+            "objective": "Impulsar alianzas estratégicas para el desarrollo económico local.",
+            "goal": "Suscribir al menos 50 convenios de cooperación interinstitucional.",
+            "indicator": "Número de convenios de cooperación suscritos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de pistas y veredas por el tránsito pesado.",
+            "objective": "Mejorar la infraestructura vial prioritaria.",
+            "goal": "Rehabilitar el 80% de las vías críticas del distrito.",
+            "indicator": "Porcentaje de vías críticas rehabilitadas."
+          },
+          {
+            "problem": "Congestión vehicular en vías principales.",
+            "objective": "Mejorar la movilidad urbana y la gestión del tránsito.",
+            "goal": "Reducir en 15% los tiempos de desplazamiento.",
+            "indicator": "Porcentaje de reducción del tiempo promedio de desplazamiento."
+          },
+          {
+            "problem": "Manejo inadecuado de residuos sólidos.",
+            "objective": "Fortalecer la segregación y el reciclaje.",
+            "goal": "Alcanzar un 40% de segregación en la fuente.",
+            "indicator": "Porcentaje de hogares que segregan residuos en la fuente."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios públicos de calidad.",
+            "objective": "Incrementar y conservar las áreas verdes.",
+            "goal": "Aumentar en 20% la cobertura de áreas verdes.",
+            "indicator": "Porcentaje de incremento de la cobertura de áreas verdes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja confianza ciudadana en la gestión municipal.",
+            "objective": "Fortalecer la transparencia y la rendición de cuentas.",
+            "goal": "Realizar 2 audiencias públicas por año.",
+            "indicator": "Número de audiencias públicas realizadas por año."
+          },
+          {
+            "problem": "Trámites burocráticos y lentos.",
+            "objective": "Modernizar y digitalizar la gestión municipal.",
+            "goal": "Digitalizar el 90% de los trámites municipales.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Escasa participación ciudadana en la gestión local.",
+            "objective": "Consolidar mecanismos permanentes de cooperación popular.",
+            "goal": "Implementar 20 consejos vecinales activos.",
+            "indicator": "Número de consejos vecinales activos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-99DabqiAtb6qUvB1o4id11GlcYy5icDK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/99DabqiAtb6qUvB1o4id11GlcYy5icDK",
+      "sha256": "f804f278ff13256aee9a5f439250342ec95bcd55d59ffcda05dd4e347cb5f017",
+      "accessedAt": "2026-10-02T23:04:17.506Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017823",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017823",
+      "sha256": "eae34f6bfa4560023670e01351e35826038698ec5dbbbd80af2a138a2879406f",
+      "accessedAt": "2026-10-02T23:04:17.997Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

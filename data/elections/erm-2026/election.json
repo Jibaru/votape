@@ -1,0 +1,75 @@
+{
+  "id": "erm-2026",
+  "name": "Elecciones Regionales y Municipales 2026",
+  "date": "2026-10-04",
+  "rounds": "Vuelta única para alcaldes",
+  "scope": "Lima Metropolitana y sus 43 distritos (alcaldes)",
+  "offices": [
+    "ALCALDE PROVINCIAL",
+    "ALCALDE DISTRITAL"
+  ],
+  "jurisdictionIds": [
+    "140100",
+    "140101",
+    "140102",
+    "140103",
+    "140104",
+    "140105",
+    "140106",
+    "140107",
+    "140108",
+    "140109",
+    "140110",
+    "140111",
+    "140112",
+    "140113",
+    "140114",
+    "140115",
+    "140116",
+    "140117",
+    "140118",
+    "140119",
+    "140120",
+    "140121",
+    "140122",
+    "140123",
+    "140124",
+    "140125",
+    "140126",
+    "140127",
+    "140128",
+    "140129",
+    "140130",
+    "140131",
+    "140132",
+    "140133",
+    "140134",
+    "140135",
+    "140136",
+    "140137",
+    "140138",
+    "140139",
+    "140140",
+    "140141",
+    "140142",
+    "140143"
+  ],
+  "snapshotAt": "2026-10-02T23:07:34.726Z",
+  "coverage": [
+    {
+      "providerId": "jne-voto-informado",
+      "status": "complete",
+      "note": "Hojas de vida, sentencias declaradas, anotaciones marginales y resumen del plan de gobierno."
+    },
+    {
+      "providerId": "rtc",
+      "status": "pending",
+      "note": "Pendiente de permiso del Consorcio RTC."
+    },
+    {
+      "providerId": "prensa",
+      "status": "pending",
+      "note": "Investigación de prensa pendiente (v0.2)."
+    }
+  ]
+}

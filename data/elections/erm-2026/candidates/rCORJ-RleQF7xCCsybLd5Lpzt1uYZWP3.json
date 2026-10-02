@@ -1,0 +1,233 @@
+{
+  "id": "rCORJ-RleQF7xCCsybLd5Lpzt1uYZWP3",
+  "slug": "juan-fernando-pilco-castaneda",
+  "electionId": "erm-2026",
+  "name": "Juan Fernando Pilco Castañeda",
+  "givenNames": "Juan Fernando",
+  "surnames": "Pilco Castañeda",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:36.155Z",
+      "sourceId": "jne-hv-rCORJ-RleQF7xCCsybLd5Lpzt1uYZWP3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ESEP Militar Ramon Castilla",
+        "program": "Bachiller profesional en topografia y construccion civil",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ncional Federico Villareal",
+        "program": "Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1999"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacinoal Federico Villareal",
+        "program": "Maeestría en derecho civil y comercial",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "GESTION ESTRATEGICA Y CONSULTORIA S.R.L.",
+      "role": "Abogado",
+      "from": "2019",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2010"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 40000,
+        "public": 0,
+        "private": 40000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 150000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 500000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Hyundai i10 - 2013",
+        "value": 15000
+      },
+      {
+        "type": "Moto - Honda 300",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Constructora Pilco",
+        "type": "PARTICIPACIONES",
+        "quantity": 10,
+        "value": 10
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a8dec2d5-15b9-40b3-8fb6-db013627947e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c9fd5c47-c2e6-403d-978d-60e2bc5ea78f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer los programas preventivos de salud para la comunidad.",
+            "objective": "Mejorar el bienestar de la población a través de campañas de prevención, programas de salud mental, atención al adulto mayor y promoción de estilos de vida saludables.",
+            "goal": "Incrementar la cobertura de programas preventivos. Reducir factores de riesgo asociados a enfermedades crónicas.",
+            "indicator": "Cobertura de programas preventivos. Tasa de factores de riesgo asociados a enfermedades crónicas."
+          },
+          {
+            "problem": "Persistencia de delitos contra el patrimonio, incremento de la percepción de inseguridad y necesidad de fortalecer la capacidad de respuesta ante emergencias.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la ampliación de la red de videovigilancia, la integración tecnológica con la Policía Nacional, el patrullaje integrado y la participación vecinal.",
+            "goal": "Reducir la percepción de inseguridad en un 30%. Incrementar la capacidad de respuesta ante emergencias. Ampliar la cobertura de videovigilancia en todo el distrito.",
+            "indicator": "Porcentaje de percepción de inseguridad. Capacidad de respuesta ante emergencias. Cobertura de videovigilancia."
+          },
+          {
+            "problem": "Demanda creciente por espacios culturales, deportivos y recreativos en el distrito.",
+            "objective": "Ampliar y diversificar la oferta de actividades culturales, deportivas y recreativas para todos los grupos etarios, modernizando la infraestructura existente.",
+            "goal": "Incrementar la participación ciudadana en actividades culturales y deportivas. Ampliar la oferta de servicios recreativos municipales.",
+            "indicator": "Nivel de participación ciudadana en actividades culturales y deportivas. Cantidad de servicios recreativos municipales ofertados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Incremento de las actividades económicas informales y comercio ambulatorio desordenado.",
+            "objective": "Promover la formalización comercial mediante la simplificación de procedimientos, la implementación de incentivos y el ordenamiento del comercio en la vía pública.",
+            "goal": "Reducir significativamente la informalidad comercial.",
+            "indicator": "Tasa de informalidad comercial."
+          },
+          {
+            "problem": "Baja competitividad y formalización de las micro y pequeñas empresas (MYPES) del distrito.",
+            "objective": "Impulsar el desarrollo empresarial local a través de la creación de un centro especializado, asistencia técnica, capacitación en gestión y programas de innovación.",
+            "goal": "Incrementar el número de negocios formalizados. Mejorar la competitividad empresarial local.",
+            "indicator": "Número de negocios formalizados. Índice de competitividad empresarial local."
+          },
+          {
+            "problem": "Insuficientes mecanismos para la atracción y gestión de nuevas inversiones en el distrito.",
+            "objective": "Fomentar la inversión privada responsable a través de una ventanilla única para inversionistas, la identificación de oportunidades y la promoción de alianzas público-privadas.",
+            "goal": "Incrementar la inversión privada responsable en el distrito.",
+            "indicator": "Monto de inversión privada en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Congestión vehicular en avenidas principales y dificultades de desplazamiento.",
+            "objective": "Mejorar la movilidad urbana mediante la gestión inteligente del tránsito, la coordinación metropolitana, la promoción del transporte sostenible y la expansión de ciclovías.",
+            "goal": "Reducir tiempos promedio de desplazamiento. Mejorar la fluidez vehicular.",
+            "indicator": "Tiempo promedio de desplazamiento. Nivel de fluidez vehicular."
+          },
+          {
+            "problem": "Retos ambientales vinculados a la gestión de residuos sólidos y la sostenibilidad urbana.",
+            "objective": "Fortalecer la gestión ambiental a través de programas de reciclaje, segregación de residuos en origen, educación ambiental e incentivos para prácticas sostenibles.",
+            "goal": "Incrementar significativamente el reciclaje domiciliario. Reducir residuos enviados a rellenos sanitarios.",
+            "indicator": "Porcentaje de reciclaje domiciliario. Volumen de residuos enviados a rellenos sanitarios."
+          },
+          {
+            "problem": "Necesidad de mantenimiento y mejora de las áreas verdes para la calidad de vida de los habitantes.",
+            "objective": "Preservar y proteger los espacios públicos y áreas verdes mediante la modernización de sistemas de riego, mantenimiento de parques y programas de arborización.",
+            "goal": "Mantener y ampliar las áreas verdes por habitante. Mejorar la calidad paisajística del distrito.",
+            "indicator": "Índice de áreas verdes por habitante. Calidad paisajística del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de modernizar los servicios municipales para una atención más eficiente.",
+            "objective": "Implementar un gobierno digital mediante una plataforma única de trámites, el expediente digital, atención virtual y una aplicación móvil municipal.",
+            "goal": "Digitalizar la mayoría de trámites municipales. Reducir significativamente los tiempos de atención.",
+            "indicator": "Porcentaje de trámites municipales digitalizados. Tiempos de atención al ciudadano."
+          },
+          {
+            "problem": "Baja confianza ciudadana en la gestión municipal y necesidad de fortalecer la transparencia.",
+            "objective": "Fomentar la transparencia y la lucha contra la corrupción a través de la publicación de información, un observatorio ciudadano, un portal de datos abiertos y audiencias públicas.",
+            "goal": "Incrementar la confianza ciudadana en la gestión municipal.",
+            "indicator": "Índice de confianza ciudadana en la gestión municipal."
+          },
+          {
+            "problem": "Limitada participación efectiva de los vecinos en la toma de decisiones municipales.",
+            "objective": "Fortalecer la participación ciudadana mediante un presupuesto participativo robusto, cabildos vecinales descentralizados y plataformas digitales de consulta.",
+            "goal": "Incrementar la participación efectiva de los vecinos en la toma de decisiones.",
+            "indicator": "Tasa de participación efectiva de los vecinos en la toma de decisiones."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-rCORJ-RleQF7xCCsybLd5Lpzt1uYZWP3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rCORJ-RleQF7xCCsybLd5Lpzt1uYZWP3",
+      "sha256": "140f6f58b2d6110f12a5bef00f5cafbe1b35ebcb3b368d5b11b754f1f2afa174",
+      "accessedAt": "2026-10-02T23:02:36.155Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021520",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021520",
+      "sha256": "0a71574929126814d5c6fd1ed82ced4fb39ddd120efab11bef484928b6e98451",
+      "accessedAt": "2026-10-02T23:02:36.656Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

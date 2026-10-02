@@ -1,0 +1,203 @@
+{
+  "id": "QYOBE-gJ4R6Xrp0t7L7KjC-S6hHsqg3E",
+  "slug": "phil-dempster-barriga-vasquez",
+  "electionId": "erm-2026",
+  "name": "Phil Dempster Barriga Vasquez",
+  "givenNames": "Phil Dempster",
+  "surnames": "Barriga Vasquez",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140131",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:19.834Z",
+      "sourceId": "jne-hv-QYOBE-gJ4R6Xrp0t7L7KjC-S6hHsqg3E"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ETS PNP",
+        "program": "TECNICO POLICIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "ALAS PERUANAS",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE LIMA",
+        "program": "MBA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SECURITY PROTEX SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "VICESECRETARIO GENERAL DISTRITAL DE ORGANIZACION DE SURQUILLO",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 72000,
+        "public": 0,
+        "private": 72000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMION DODGE DURANGO",
+        "value": 25000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SECURITY PROTEX SAC",
+        "type": "ACCIONES",
+        "quantity": 100000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1e1b2a97-fbfa-4a47-bf49-6c2abed2538b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5f9df742-9a53-42da-b9d7-9d19468e6828.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Preocupación vecinal por arrebatos, robos por moto, asaltos al paso, delitos de oportunidad y zonas críticas con necesidad de mayor presencia preventiva, respuesta oportuna y mejor uso de tecnología para la seguridad ciudadana.",
+            "objective": "Fortalecer la seguridad ciudadana mediante serenazgo preventivo focalizado, identificación de puntos críticos, coordinación con la Policía Nacional del Perú en el marco del CODISEC y uso progresivo de herramientas tecnológicas compatibles con la normativa vigente.",
+            "goal": "Establecer la línea base de puntos críticos y respuesta de serenazgo durante el primer año, actualizar anualmente el plan de acción del CODISEC, tener un canal de reporte vecinal operativo desde 2027, realizar el diagnóstico del sistema de videovigilancia durante el primer año, fortalecer progresivamente el sistema de monitoreo y respuesta, y reducir progresivamente los puntos críticos priorizados.",
+            "indicator": "Número de patrullajes focalizados por zona priorizada, número de puntos críticos identificados e intervenidos, número de sesiones del CODISEC realizadas, número de acuerdos del CODISEC implementados, línea base de tiempo de respuesta de serenazgo establecida, número de cámaras o puntos de videovigilancia operativos y número de reportes o alertas registradas mediante canales vecinales."
+          },
+          {
+            "problem": "Adultos mayores y vecinos vulnerables requieren fortalecer la prevención, el acompañamiento, la orientación, la integración social y la articulación de la atención municipal existente, especialmente frente a casos de abandono, soledad o vulnerabilidad.",
+            "objective": "Fortalecer la atención al adulto mayor mediante el CIAM, el Club del Adulto Mayor, actividades de envejecimiento activo, acompañamiento comunitario y coordinación con MINSA, EsSalud, programas sociales y entidades competentes.",
+            "goal": "CIAM fortalecido desde el primer año, padrón municipal de adultos mayores actualizado durante el primer año, Club del Adulto Mayor fortalecido progresivamente, mínimo 4 campañas preventivas por año, actividades periódicas de envejecimiento activo y sistema básico de identificación y derivación de casos vulnerables operativo durante el primer año.",
+            "indicator": "Número de adultos mayores empadronados, número de atenciones y actividades realizadas mediante el CIAM, número de campañas preventivas realizadas por año, número de coordinaciones o convenios interinstitucionales activos, número de actividades de envejecimiento activo ejecutadas y número de casos vulnerables identificados y derivados a entidades competentes."
+          },
+          {
+            "problem": "Niños, adolescentes, jóvenes y vecinos requieren mayores oportunidades de formación deportiva, uso adecuado de espacios públicos, escuelas formativas, promoción de talentos locales y actividades que fortalezcan la convivencia, disciplina, salud y desarrollo personal.",
+            "objective": "Promover la formación deportiva, recreativa y comunitaria mediante escuelas formativas, recuperación del uso vecinal de espacios deportivos, apoyo a talentos locales y articulación con clubes, ligas, instituciones educativas y organizaciones del distrito.",
+            "goal": "Realizar un diagnóstico de necesidades deportivas y espacios disponibles durante el primer año, implementar progresivamente un programa de escuelas formativas deportivas desde 2027, realizar actividades deportivas comunitarias periódicas, fortalecer alianzas con clubes, ligas e instituciones educativas y lograr la recuperación y uso ordenado de espacios deportivos priorizados al 2030.",
+            "indicator": "Número de escuelas o talleres deportivos implementados o fortalecidos, número de beneficiarios participantes en actividades deportivas, número de disciplinas deportivas promovidas, número de alianzas con clubes, ligas o instituciones educativas, número de espacios deportivos recuperados, mantenidos u ordenados y número de actividades deportivas comunitarias realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El comercio local, los mercados, emprendedores y jóvenes del distrito enfrentan trámites complejos, necesidad de orientación, baja articulación con oportunidades laborales, informalidad municipal, uso desordenado del espacio público y limitadas herramientas de capacitación y emprendimiento.",
+            "objective": "Promover el desarrollo económico local y social mediante orientación al comerciante, simplificación de licencias, regularización municipal progresiva, capacitación, fortalecimiento de mercados, apoyo al emprendimiento y articulación de oportunidades laborales para jóvenes y vecinos.",
+            "goal": "Programa de orientación al comerciante operativo desde 2027, línea base de tiempos de atención de licencias establecida durante el primer año, reducción progresiva de tiempos de atención, mínimo 4 jornadas de orientación comercial por año, bolsa laboral distrital en implementación durante el primer año y programa de capacitación para jóvenes y emprendedores implementado progresivamente.",
+            "indicator": "Número de comerciantes y emprendedores orientados, número de jornadas de orientación realizadas, tiempo promedio de atención de licencias, número de ferias o espacios comerciales ordenados, número de capacitaciones realizadas, número de jóvenes capacitados en empleabilidad o emprendimiento, número de empresas o aliados vinculados a la bolsa laboral distrital y número de iniciativas de emprendimiento acompañadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito presenta zonas con problemas de limpieza pública, acumulación de residuos, mantenimiento insuficiente de parques y áreas verdes, veredas y pistas locales deterioradas, obstáculos en la vía pública y afectación a la transitabilidad peatonal y vehicular.",
+            "objective": "Mejorar el orden urbano, la limpieza pública, la gestión de residuos, el mantenimiento de parques y la transitabilidad en vías locales de competencia distrital, mediante intervenciones progresivas, programación verificable y fiscalización dialogada.",
+            "goal": "Establecer una línea base de puntos críticos de residuos, limpieza y transitabilidad durante el primer año, publicar la programación de limpieza desde 2027, aprobar un plan de mantenimiento de parques en 2027, ejecutar la primera fase de recuperación de parques al 2028, realizar mantenimiento periódico y ampliación progresiva durante 2029–2030 y lograr la recuperación verificable de puntos priorizados del distrito al 2030.",
+            "indicator": "Número de puntos críticos de residuos identificados, número de puntos críticos intervenidos o eliminados, frecuencia de limpieza por zona, número de parques y áreas verdes diagnosticadas, número de parques priorizados intervenidos, metros cuadrados de áreas verdes o espacios públicos intervenidos, metros lineales de vereda o pista local intervenidos y número de acciones de ordenamiento de vía pública realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Los vecinos perciben baja trazabilidad sobre pedidos, reclamos, avances, compromisos municipales y cumplimiento del plan de gobierno.",
+            "objective": "Implementar una gestión municipal que responda, mida y rinda cuentas, con seguimiento de compromisos, reportes periódicos, atención vecinal ordenada y uso de información para mejorar la toma de decisiones.",
+            "goal": "Publicar un tablero de seguimiento durante 2027, implementar un sistema básico de seguimiento vecinal operativo durante el primer año, realizar un mínimo de 2 rendiciones de cuentas por año, emitir reportes periódicos de avance por dimensión y ejecutar la capacitación progresiva de equipos municipales en seguimiento, innovación y uso de información.",
+            "indicator": "Número de reportes de avance publicados, porcentaje de compromisos con responsable y plazo, número de solicitudes vecinales registradas y atendidas, número de espacios de rendición de cuentas realizados, tablero de seguimiento implementado y número de áreas o equipos municipales capacitados en seguimiento de gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-17793",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Datos Personales",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-07-24",
+      "details": {
+        "rubro": "DATOS PERSONALES",
+        "resolucion": "RESOLUCION N° 01252-2026-JEE-LIO2/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCION N° 01252-2026-JEE-LIO2/JNE",
+      "sourceIds": [
+        "jne-hv-QYOBE-gJ4R6Xrp0t7L7KjC-S6hHsqg3E"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-QYOBE-gJ4R6Xrp0t7L7KjC-S6hHsqg3E",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/QYOBE-gJ4R6Xrp0t7L7KjC-S6hHsqg3E",
+      "sha256": "780edcde87ebc1a93275fc6c08351bd698fc4a16b26ad9dff32f87266c2f2999",
+      "accessedAt": "2026-10-02T23:06:19.834Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016435",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016435",
+      "sha256": "35b217bc2631f6b6a18577cfd8a5ba4f6c92a7518b18c92a2a677a8ca7743aa9",
+      "accessedAt": "2026-10-02T23:06:20.564Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

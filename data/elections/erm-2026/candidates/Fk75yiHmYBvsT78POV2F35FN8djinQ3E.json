@@ -1,0 +1,232 @@
+{
+  "id": "Fk75yiHmYBvsT78POV2F35FN8djinQ3E",
+  "slug": "juan-carlos-huayanay-mormontoy",
+  "electionId": "erm-2026",
+  "name": "Juan Carlos Huayanay Mormontoy",
+  "givenNames": "Juan Carlos",
+  "surnames": "Huayanay Mormontoy",
+  "age": 39,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:43.505Z",
+      "sourceId": "jne-hv-Fk75yiHmYBvsT78POV2F35FN8djinQ3E"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CAPECO",
+        "program": "Técnico y Construcción Civil",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "Ingeniería Civil",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "China Civil Engineering Construction Corporation Sucursal del Peru",
+      "role": "Empleado",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "Eb Consorcio Gestor",
+      "role": "Empleado",
+      "from": "2022",
+      "to": "2025"
+    },
+    {
+      "employer": "Consorcio S&P",
+      "role": "Empleado",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "De Vicente Constructora SAC",
+      "role": "Empleado",
+      "from": "2021",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 100000,
+        "public": 0,
+        "private": 100000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 163000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Vehículo Color Gris Grafico Marca KIA",
+        "value": 37000
+      },
+      {
+        "type": "Vehículo Color Blanco Marca NISSAN",
+        "value": 13000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7b92b57c-12de-4ab2-97bc-d14242a2f38b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e6564ba6-7bcf-4a9c-abe2-0232415abd8c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de agua y desagüe en zonas altas y de riesgo.",
+            "objective": "Incrementar la conectividad de agua y desagüe.",
+            "goal": "Que la población más desfavorecida tenga servicios de agua y desagüe.",
+            "indicator": "Porcentaje de la población con acceso a servicios de agua potable y saneamiento."
+          },
+          {
+            "problem": "Servicios Públicos ineficientes.",
+            "objective": "Reorientar las políticas de prestación de servicios públicos eficientes con personal altamente calificado.",
+            "goal": "Los servicios públicos que presta la municipalidad tienen que ser eficientes, de calidad y gratuitos.",
+            "indicator": "Índice de satisfacción ciudadana respecto a los servicios públicos municipales."
+          },
+          {
+            "problem": "Incremento de la anemia en la población infantil.",
+            "objective": "Realizar convenios, campañas e intervención directa para prevenir y combatir la anemia infantil.",
+            "goal": "La niñez estará protegida y amparada con intervención oportuna de la municipalidad.",
+            "indicator": "Tasa de prevalencia de anemia en niños menores de 36 meses."
+          },
+          {
+            "problem": "Incremento de la delincuencia y el pandillaje.",
+            "objective": "Implementación con unidades, cámaras de video y personal altamente preparado para hacer frente a la delincuencia y el pandillaje.",
+            "goal": "Asegurar que Carabayllo sea un lugar seguro, iluminado y bien protegido.",
+            "indicator": "Tasa de denuncias por delitos y actos de pandillaje."
+          },
+          {
+            "problem": "Incremento de la pobreza en sectores marginales.",
+            "objective": "Incentivar el empleo y las empresas autogestionarias con capacitación en convenio con las instituciones.",
+            "goal": "Las personas desempleadas tengan una alternativa para poder regenerar recursos y autosostenerse.",
+            "indicator": "Porcentaje de población en situación de pobreza y pobreza extrema."
+          },
+          {
+            "problem": "Problemas sociales que comprometen a niños(as) y adolescentes.",
+            "objective": "Implementar políticas de prevención de problemas de alcoholismo, drogadicción, delincuencia juvenil, prostitución, abandono, etc.",
+            "goal": "Disminución en un 60% de los problemas sociales que comprometen a niños(as) y adolescentes.",
+            "indicator": "Tasa de incidencia de problemas sociales en la población de niños y adolescentes."
+          },
+          {
+            "problem": "Construcción de viviendas precarias y vulnerables.",
+            "objective": "Apoyar en la formalización de terrenos no formales.",
+            "goal": "Formalizar la propiedad de los terrenos para mejorar la calidad de vida y reducir la vulnerabilidad de la población.",
+            "indicator": "Porcentaje de viviendas en zonas de riesgo con títulos de propiedad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de trabajo y oportunidades de desarrollo.",
+            "objective": "Capacitación en carreras de mayor demanda laboral en convenio con institutos técnicos y apoyo en la formación de empresas autogestionarias y comunales.",
+            "goal": "Crear un marco jurídico, social y económico que permita el desarrollo de la creatividad, el talento y las capacidades para el desarrollo personal y social.",
+            "indicator": "Tasa de empleo adecuado en el distrito."
+          },
+          {
+            "problem": "Proliferación de ambulantes.",
+            "objective": "Coordinar y apoyar en la formalización de ambulantes con espacios ordenados, saludables y seguros.",
+            "goal": "Formalizar y reubicar el comercio ambulatorio en espacios adecuados que garanticen el orden y la salubridad.",
+            "indicator": "Número de comerciantes ambulantes formalizados y reubicados."
+          },
+          {
+            "problem": "Falta de compromiso de la inversión privada en el desarrollo económico local.",
+            "objective": "Incentivo y compromiso mediante un acuerdo de cooperación interinstitucional.",
+            "goal": "Incrementar la participación del sector privado en proyectos de desarrollo económico local mediante alianzas estratégicas.",
+            "indicator": "Monto de inversión privada ejecutada en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental y sonora.",
+            "objective": "Incremento de unidades para el recojo de basura y prevención mediante campañas.",
+            "goal": "Mejorar la gestión de residuos sólidos y reducir los niveles de contaminación sonora para garantizar un ambiente saludable.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos sólidos y niveles de presión sonora en zonas críticas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión municipal obsoleta y rutinaria que generan bajos índices de productividad y eficiencia.",
+            "objective": "Modernización de la gestión municipal integrándola al gobierno electrónico, la gestión por resultados y el mejoramiento continuo de la organización.",
+            "goal": "Lograr una gestión municipal moderna, eficiente y transparente a través de la implementación del gobierno electrónico y la gestión por resultados.",
+            "indicator": "Porcentaje de implementación del gobierno electrónico y gestión por resultados."
+          },
+          {
+            "problem": "Trámites burocráticos y duplicidad de funciones que causan perjuicio social y económico.",
+            "objective": "Selección y capacitación del personal idóneo y competitivo para ejercer cargos de toma de decisiones, y modificación del Reglamento de Organización y Funciones (ROF) y Manual de Organización y Funciones (MOF).",
+            "goal": "Optimizar la estructura organizacional y los procedimientos administrativos para eliminar la burocracia y la duplicidad de funciones.",
+            "indicator": "Porcentaje de simplificación del Texto Único de Procedimientos Administrativos (TUPA) y optimización del Reglamento de Organización y Funciones (ROF)."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Fk75yiHmYBvsT78POV2F35FN8djinQ3E",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Fk75yiHmYBvsT78POV2F35FN8djinQ3E",
+      "sha256": "008f589994bddba1b55793d827f630a7816f2971b4a2f8640e5d476266f36b0a",
+      "accessedAt": "2026-10-02T22:52:43.505Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020178",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020178",
+      "sha256": "f07881f7a402e611f668e0118daeabc5e0e9ea928f9620667aa2ac44a6b0b5c6",
+      "accessedAt": "2026-10-02T22:52:43.994Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

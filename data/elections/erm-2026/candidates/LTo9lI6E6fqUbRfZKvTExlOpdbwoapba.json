@@ -1,0 +1,300 @@
+{
+  "id": "LTo9lI6E6fqUbRfZKvTExlOpdbwoapba",
+  "slug": "americo-zegarra-acuna",
+  "electionId": "erm-2026",
+  "name": "Americo Zegarra Acuña",
+  "givenNames": "Americo",
+  "surnames": "Zegarra Acuña",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:45.108Z",
+      "sourceId": "jne-hv-LTo9lI6E6fqUbRfZKvTExlOpdbwoapba"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "ESTUDIANTE",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "GRUPO BACON SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2013",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "FE EN EL PERU",
+      "from": "2021",
+      "to": "2024"
+    },
+    {
+      "position": "SECRETARIA NACIONAL DE COORDINACIÓN INTERINSTITUCIONAL",
+      "party": "FE EN EL PERU",
+      "from": "2021",
+      "to": "2024"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 95820,
+        "public": 0,
+        "private": 95820
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTOMOVIL",
+        "value": 15000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 45000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GRUPO BACON SAC",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "TITULAR GERENTE REPRESENTACIONES AMERICO ZEGARRA EIRL"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f6edd697-b375-484d-b0dd-7adf971de6f2.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/34354b1e-2dc2-421c-a4e6-a406ebc00158.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a espacios para la práctica del deporte, la recreación y la cultura, debido al deterioro de la infraestructura existente.",
+            "objective": "Promover y masificar la práctica del deporte, la recreación saludable y la cultura como herramientas de cohesión social, desarrollo de capacidades y prevención de la violencia.",
+            "goal": "Ejecutar proyectos de infraestructura emblemática, además de recuperar y mantener espacios deportivos, recreativos y culturales que se encuentren en estado de deterioro para hacerlos accesibles a toda la población.",
+            "indicator": "Número de lozas y campos deportivos recuperados al año; Número de vecinos inscritos en las Escuelas Deportivas Municipales Gratuitas; Porcentaje de infraestructura deportiva adecuada con rampas y accesos inclusivos."
+          },
+          {
+            "problem": "Insuficiente capacidad operativa y alcance del soporte alimentario para cubrir las necesidades de las familias vulnerables del distrito.",
+            "objective": "Fortalecer el soporte alimentario y el bienestar social del distrito como pilar fundamental de la seguridad humana y comunitaria.",
+            "goal": "Ampliar el alcance y la capacidad operativa de los comedores populares y ollas comunes del distrito, garantizando que el apoyo alimentario llegue a más familias mediante talleres de capacitación y asistencia técnica.",
+            "indicator": "Número total de nuevas raciones diarias distribuidas; Porcentaje de comedores populares y ollas comunes reequipados; Número de nuevas familias vulnerables incorporadas al padrón de beneficiarios."
+          },
+          {
+            "problem": "Desactualización del empadronamiento distrital que dificulta la correcta identificación y atención de las personas en situación de vulnerabilidad.",
+            "objective": "Actualizar el empadronamiento distrital para sincerar la información social y optimizar la atención de las personas en situación de vulnerabilidad.",
+            "goal": "Realizar jornadas territoriales de empadronamiento y actualización de datos georreferenciales para identificar la demanda real de servicios sociales, iniciando en las comunas con mayor índice de vulnerabilidad.",
+            "indicator": "Porcentaje de cobertura del empadronamiento distrital; Cantidad de Oficinas de Atención Municipal Descentralizadas operativas; Porcentaje de solicitudes de apoyo social atendidas mediante datos sincerados."
+          },
+          {
+            "problem": "Existencia de brechas en la igualdad de oportunidades, accesibilidad universal y protección integral para las poblaciones vulnerables.",
+            "objective": "Garantizar la igualdad de oportunidades, la accesibilidad universal y la protección integral de las poblaciones vulnerables.",
+            "goal": "Fortalecer los espacios públicos en favor de la niñez, juventud, adulto mayor y personas con discapacidad, mediante la construcción de la casa de la mujer, casa del adulto mayor y una escuela para niños con habilidades diferentes.",
+            "indicator": "Número de vecinas atendidas con asesoría legal y psicológica; Cantidad de adultos mayores que participan mensualmente en los talleres municipales; Número de menores con necesidades especiales atendidos de forma continua."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud humana y sanidad animal asequibles, generando brechas de atención en la población.",
+            "objective": "Reducir las brechas de acceso a la salud y sanidad animal mediante servicios a tarifas sociales.",
+            "goal": "Abastecer y gestionar boticas municipales para expender fármacos a costo social y ejecutar campañas masivas de esterilización, vacunación y desparasitación mediante la construcción de la veterinaria municipal.",
+            "indicator": "Cantidad de atenciones farmacológicas brindadas al mes; Número de cirugías de esterilización trimestrales ejecutadas; Cantidad de animales domésticos vacunados y desparasitados en campañas masivas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Capacidades productivas limitadas en emprendedores y jóvenes debido a la falta de acceso a innovación, comercio digital y financiamiento.",
+            "objective": "Potenciar las capacidades productivas de los emprendedores y jóvenes a través de la innovación, el comercio digital y el acceso al financiamiento.",
+            "goal": "Crear el programa “Incubación de Emprendimientos y Desarrollo Empresarial” para impartir talleres gratuitos y desarrollar ferias comerciales descentralizadas y ruedas de negocios para conectar a productores locales con compradores mayoristas.",
+            "indicator": "Número de emprendedores y jóvenes capacitados en el programa de Incubación; Cantidad de productores locales participantes en las ferias de negocios municipales; Número de contratos o acuerdos comerciales firmados."
+          },
+          {
+            "problem": "Existencia de barreras burocráticas que dificultan y ralentizan el proceso de formalización comercial para los micro y pequeños empresarios.",
+            "objective": "Agilizar la formalización comercial mediante la simplificación administrativa radical y la erradicación de barreras burocráticas.",
+            "goal": "Implementar la plataforma virtual \"Licencia Digital en 24 Horas\" para giros de bajo riesgo y desplegar brigadas itinerantes de formalización para brindar asesoría técnica in situ y empadronar a los comerciantes.",
+            "indicator": "Porcentaje de licencias de funcionamiento tramitadas de manera 100% virtual; Número de nuevos micro y pequeños empresarios formalizados trimestralmente; Porcentaje de comerciantes asesorados que logran completar su formalización."
+          },
+          {
+            "problem": "Baja accesibilidad en las zonas industriales que desincentiva la inversión privada y limita la priorización del empleo para los residentes locales.",
+            "objective": "Impulsar la accesibilidad y la atracción de inversiones privadas en las principales zonas industriales, potenciando y priorizando el empleo de los vecinos de San Juan de Lurigancho.",
+            "goal": "Desarrollar un plan de ordenamiento vial, señalización y renovación de pavimentos en la Zona Industrial y los ejes comerciales, articulando la Bolsa de Trabajo Municipal para incentivar la contratación de mano de obra local.",
+            "indicator": "Número de vecinos colocados en un empleo formal a través de la Bolsa de Trabajo Municipal; Cantidad de jóvenes y técnicos de SJL insertados laboralmente; Cantidad de ferias laborales descentralizadas realizadas al año."
+          },
+          {
+            "problem": "Falta de modernización y competitividad en los mercados de abastos, que no se presentan como centros comerciales salubres y seguros.",
+            "objective": "Brindar asistencia técnica integral a las juntas de propietarios de los mercados de abastos para transformarlos en centros comerciales salubres, seguros y competitivos.",
+            "goal": "Ejecutar el programa \"Mercado Modelo y Seguro\" con asesoría gratuita, ordenar el comercio en los entornos de los mercados y recuperar la transitabilidad de las vías públicas.",
+            "indicator": "Número de mercados de abastos incorporados al programa \"Mercado Modelo y Seguro\"; Cantidad de comerciantes ambulatorios reubicados de forma concertada; Número de Ferias de Fines de Semana organizadas por la municipalidad."
+          },
+          {
+            "problem": "Insuficiente diversificación productiva y desaprovechamiento del patrimonio histórico-cultural-gastronómico como fuente generadora de empleo e ingresos.",
+            "objective": "Impulsar la diversificación productiva, el turismo local y la puesta en valor del patrimonio histórico-cultural-gastronómico como fuentes generadoras de empleo e ingresos.",
+            "goal": "Implementar el programa de competitividad \"SJL Produce y Sabor\" mediante la creación de una marca territorial municipal y la habilitación de Bulevares Gastronómicos y Culturales Itinerantes en espacios públicos recuperados.",
+            "indicator": "Número de microempresas locales que obtienen la marca territorial \"SJL Produce y Sabor\"; Cantidad de Bulevares Gastronómicos y Culturales Itinerantes habilitados en el espacio público."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de desechos en la vía pública debido a malas prácticas de disposición por parte de vecinos y comercios, y a una fiscalización insuficiente.",
+            "objective": "Reducir la acumulación de desechos en la vía pública mediante programas masivos de educación ambiental, un riguroso sistema de monitoreo y sanción a los infractores.",
+            "goal": "Implementar el programa integral \"SJL Limpio y Responsable\", ejecutando campañas masivas de concientización y aplicando un sistema de monitoreo táctico y sanciones estrictas a quienes incumplan los horarios de recojo.",
+            "indicator": "Número de vecinos y comercios sancionados por malas prácticas de disposición; Toneladas de residuos sólidos recolectadas y dispuestas correctamente al mes; Cantidad de denuncias vecinales por acumulación de basura atendidas en menos de 24 horas."
+          },
+          {
+            "problem": "Deterioro del entorno urbano y paisajístico del distrito, con necesidad de modernización de parques, alamedas y producción de especies vegetales.",
+            "objective": "Recuperar el entorno urbano y paisajístico del distrito mediante la modernización de parques, alamedas y la producción autosostenible de especies vegetales para la reforestación.",
+            "goal": "Implementar el plan de Renovación Paisajística de Parques y Alamedas, abastecido por la Red de Viveros y Huertos Municipales, los cuales se repotenciarán para producir masivamente árboles nativos y plantas ornamentales.",
+            "indicator": "Número de parques, alamedas y plazas remodelados integralmente semestralmente; Cantidad de plantones forestales nativos producidos en la Red de Viveros Municipales; Metros cuadrados de alamedas y paseos peatonales arborizados."
+          },
+          {
+            "problem": "Inseguridad comunitaria caracterizada por tiempos de respuesta lentos y cobertura de patrullaje insuficiente en los puntos críticos del distrito.",
+            "objective": "Fortalecer la seguridad comunitaria mediante la descentralización táctica de los recursos de vigilancia municipal, optimizando los tiempos de respuesta y la cobertura del patrullaje preventivo.",
+            "goal": "Impulsar la creación de Subcentrales de Vigilancia y Monitoreo Interconectadas, promover el uso de cámaras con Inteligencia Artificial y gestionar la incorporación de nuevas comisarías ante el Ministerio del Interior.",
+            "indicator": "Número de Subcentrales de Vigilancia y Monitoreo construidas e interconectadas; Cantidad de cámaras de videovigilancia con Inteligencia Artificial integradas a la red municipal; Número de patrullajes integrados ejecutados al mes."
+          },
+          {
+            "problem": "Alta vulnerabilidad física de la población ante peligros naturales o antrópicos, debido a una falta de planificación preventiva del territorio.",
+            "objective": "Reducir la vulnerabilidad física de la población ante peligros naturales o antrópicos mediante la planificación preventiva del territorio y la viabilización técnica de proyectos de inversión.",
+            "goal": "Ejecutar el plan municipal de Evaluación de Riesgo y Viabilidad Territorial (EVAR) georreferenciadas en zonas críticas, como sustento para formular proyectos de inversión pública y delimitar áreas de peligro no mitigable.",
+            "indicator": "Porcentaje del territorio de laderas y asentamientos vulnerables cartografiado digitalmente; Cantidad de proyectos de inversión pública (PIP) viabilizados técnicamente gracias al sustento de las EVAR; Número de mapas temáticos de peligros publicados."
+          },
+          {
+            "problem": "Baja capacidad de preparación comunitaria y canales de información ineficientes para los sistemas de alerta y respuesta ante desastres.",
+            "objective": "Fortalecer la capacidad de preparación comunitaria y optimizar los canales de información técnica hacia los sistemas de alerta y respuesta distrital.",
+            "goal": "Implementar el programa de Cultura de Prevención y Resiliencia Comunal, enfocado en la capacitación integral y el empoderamiento de la población organizada para la gestión comunitaria del riesgo.",
+            "indicator": "Cantidad de Brigadas Comunitarias de Defensa Civil formalizadas y equipadas al año; Número de jornadas y talleres de capacitación en resiliencia dictados; Porcentaje de organizaciones sociales que cuentan con un Plan Comunitario de Emergencia vigente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Lentitud y complejidad en los trámites municipales que generan largos tiempos de espera y dificultan el acceso a los servicios para el ciudadano.",
+            "objective": "Optimizar la atención al ciudadano reduciendo tiempos de espera y simplificando trámites mediante la implementación de plataformas digitales accesibles y seguras.",
+            "goal": "Desarrollar el ecosistema digital \"Municipio Digital\", con aplicativos móviles y portales web amigables, e implementar el plan de Agencias Municipales Periféricas para la atención y pago en puntos estratégicos.",
+            "indicator": "Porcentaje de trámites municipales administrativos disponibles para realizarse completamente en línea; Cantidad de usuarios activos registrados en el nuevo aplicativo móvil municipal; Porcentaje de trámites de la sede central transferidos a las agencias zonales."
+          },
+          {
+            "problem": "Insuficientes competencias profesionales y vocación de servicio en los trabajadores municipales, lo que afecta la agilidad, transparencia y calidad de la gestión pública.",
+            "objective": "Fortalecer las competencias profesionales y la vocación de servicio de los trabajadores de la comuna para garantizar una gestión pública ágil, transparente y de calidad.",
+            "goal": "Desarrollar el Programa Continuo de Especialización y Excelencia en el Servicio Municipal para capacitar periódicamente a funcionarios y técnicos en simplificación administrativa, gestión de proyectos, ética pública y herramientas tecnológicas.",
+            "indicator": "Número de talleres formativos en ética pública y lucha contra la corrupción ejecutados; Porcentaje de trabajadores que migran al uso eficiente de software institucional; Cantidad de manuales de procedimientos actualizados y distribuidos."
+          },
+          {
+            "problem": "Débil articulación y cooperación con los sectores público, privado, académico y social, lo que limita el impacto y alcance de las políticas locales.",
+            "objective": "Maximizar el impacto de las políticas locales mediante la articulación y firma de convenios de cooperación con el sector público, privado, académico y social.",
+            "goal": "Impulsar la red de \"Alianzas por el Distrito\" para suscribir acuerdos estratégicos con ministerios, universidades, ONG, gremios comerciales y empresas privadas, orientados a coejecutar programas y proyectos de desarrollo social.",
+            "indicator": "Número de convenios de cooperación interinstitucional firmados y ejecutados semestralmente; Cantidad de ferias de emprendimiento organizadas con el Ministerio de la Producción; Número de mesas de trabajo interdistritales constituidas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-139353",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "3ER JUZGADO DE PAZ SJL",
+        "expediente": "00473-2010-0-3207",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-LTo9lI6E6fqUbRfZKvTExlOpdbwoapba"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-139354",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2 JUZGADO DE PAZ SJL",
+        "expediente": "00682-0-3207 JP FC 02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-LTo9lI6E6fqUbRfZKvTExlOpdbwoapba"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-LTo9lI6E6fqUbRfZKvTExlOpdbwoapba",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/LTo9lI6E6fqUbRfZKvTExlOpdbwoapba",
+      "sha256": "9fc0ed66274815d9a25ed1bcc60d977952cc4036919545c17f2ebbff99c3acb5",
+      "accessedAt": "2026-10-02T23:03:45.108Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017949",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017949",
+      "sha256": "05be887bdcfca421daf873bd8139a69ad1265fdb7eecc5e8f56694df4f8c40a5",
+      "accessedAt": "2026-10-02T23:03:45.661Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "6hEI6H4Up0xReSfpIwTT9qyEvbBQo1Il",
+  "slug": "eduardo-urbina-santillana",
+  "electionId": "erm-2026",
+  "name": "Eduardo Urbina Santillana",
+  "givenNames": "Eduardo",
+  "surnames": "Urbina Santillana",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 2944,
+    "name": "PARTIDO UNIDAD Y PAZ"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:02.161Z",
+      "sourceId": "jne-hv-6hEI6H4Up0xReSfpIwTT9qyEvbBQo1Il"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "BETA COMPUTER",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "municipalidad de carabayllo",
+      "role": "coordinador itse",
+      "from": "2020",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "APODERADO",
+      "party": "SOMOS ACCION VECINAL 2006",
+      "from": "2005",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO CENTRO UNIDOS - UNIDAD NACIONAL INDEPENDIENTE DIGNIDAD ORDEN Y SOLIDARIDAD",
+      "year": "2025"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 2750,
+        "public": 0,
+        "private": 2750
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "eusan sac",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7282729f-9c57-4059-bc89-87c03e8e9e8e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b7b283ac-5136-4f27-8d44-3b8b031b88d3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado de la población a servicios de salud oportunos y de calidad.",
+            "objective": "Mejorar el acceso de la población a servicios de salud oportunos y de calidad.",
+            "goal": "Construcción del Hospital Municipal de Carabayllo, gestión para la construcción de un Hospital Nivel II, implementación de ambulancias municipales y creación de la Botica Municipal.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Insuficientes oportunidades educativas, tecnológicas y laborales para la población del distrito.",
+            "objective": "Promover oportunidades educativas, tecnológicas y laborales para la población.",
+            "goal": "Construcción del Palacio de la Juventud, gestión para la instalación de una universidad y un instituto tecnológico, e implementación de una bolsa de trabajo municipal.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Falta de espacios y programas para el desarrollo cultural, recreativo y deportivo de los habitantes.",
+            "objective": "Promover el desarrollo cultural, artístico y deportivo de la población.",
+            "goal": "Construcción del Palacio del Artista y de nuevos polideportivos, así como la implementación de escuelas municipales de deporte y talleres culturales.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Atención deficiente a las necesidades de los sectores más vulnerables del distrito.",
+            "objective": "Fortalecer la atención de los sectores más vulnerables del distrito.",
+            "goal": "Construcción de la Casa del Adulto Mayor y la Casa de las Personas con Discapacidad, fortalecimiento de las ollas comunes y programas de apoyo social.",
+            "indicator": "No se especifica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado crecimiento económico local y escasa generación de empleo para los habitantes.",
+            "objective": "Impulsar el crecimiento económico local y la generación de empleo.",
+            "goal": "Construcción de la Caja Municipal de Carabayllo, promoción de inversiones públicas y privadas, y fortalecimiento de las micro y pequeñas empresas.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Infraestructura urbana inadecuada y conectividad vial deficiente en el distrito.",
+            "objective": "Mejorar la infraestructura urbana y la conectividad vial del distrito.",
+            "goal": "Construcción de un puente sobre el río Chillón, ejecución de un bypass en la avenida Túpac Amaru, y construcción y mejoramiento de pistas y veredas.",
+            "indicator": "No se especifica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión inadecuada de la limpieza pública, residuos sólidos y áreas verdes.",
+            "objective": "Promover un distrito limpio, saludable y ambientalmente sostenible.",
+            "goal": "Implementación de sistemas de riego tecnificado, fortalecimiento del servicio de limpieza pública, mejora en la recolección de residuos sólidos y ejecución de programas de reciclaje.",
+            "indicator": "No se especifica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de inseguridad ciudadana que afectan la tranquilidad de los vecinos.",
+            "objective": "Fortalecer la seguridad ciudadana mediante el uso de tecnología, equipamiento moderno y trabajo articulado con la Policía Nacional y las organizaciones vecinales.",
+            "goal": "Construcción de la Central de Videovigilancia Mixta, incremento de cámaras de videovigilancia, adquisición de equipamiento para serenazgo y fortalecimiento de las juntas vecinales.",
+            "indicator": "No se especifica."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-6hEI6H4Up0xReSfpIwTT9qyEvbBQo1Il",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/6hEI6H4Up0xReSfpIwTT9qyEvbBQo1Il",
+      "sha256": "395f42ccbb5ffea037dfffd14d211c426e34c6294531884da2e2316dfb115974",
+      "accessedAt": "2026-10-02T22:53:02.161Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020714",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020714",
+      "sha256": "372e5e30a177a11e5f0da5dbaf4107aa4a343aa309fc7eb95e30bf0d4b530a13",
+      "accessedAt": "2026-10-02T22:53:02.636Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

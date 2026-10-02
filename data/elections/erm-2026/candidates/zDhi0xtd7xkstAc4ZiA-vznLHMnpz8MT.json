@@ -1,0 +1,165 @@
+{
+  "id": "zDhi0xtd7xkstAc4ZiA-vznLHMnpz8MT",
+  "slug": "jorge-luis-salinas-paredes",
+  "electionId": "erm-2026",
+  "name": "Jorge Luis Salinas Paredes",
+  "givenNames": "Jorge Luis",
+  "surnames": "Salinas Paredes",
+  "age": 66,
+  "gender": "Masculino",
+  "party": {
+    "id": 2982,
+    "name": "COALICION TRANSFORMADORA TIERRA VERDE"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:27.882Z",
+      "sourceId": "jne-hv-zDhi0xtd7xkstAc4ZiA-vznLHMnpz8MT"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "MARIA LOSARIO",
+        "program": "ADMINISTRADOR DE NEGOCIOS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/066eabeb-3739-4563-9e51-3a26fcbd473a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/83a23b88-2a16-42cc-97fc-7cffb98c2878.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de focos de pobreza urbana y vulnerabilidad alimentaria, con deficiencias en la infraestructura y gestión de los programas de apoyo social.",
+            "objective": "Fortalecer los programas sociales a través de la creación de Centros Municipales de Salud Mental Familiar y Preventiva, el reforzamiento de comedores populares y comités de Vaso de Leche con equipamiento y un sistema logístico digital, y la creación del programa de capacitación \"Emprende Los Olivos\".",
+            "goal": "Reducir la tasa de anemia infantil del 38.5% al 12% para el año 2030. Incrementar el número de beneficiarios de programas de capacitación de 450 a 3,500 anuales para el 2030.",
+            "indicator": "Reducción de la tasa de anemia infantil en los sectores vulnerables focalizados integrados a los programas alimentarios municipales. Número anual de jóvenes y madres de familia certificados en capacidades productivo-digitales."
+          },
+          {
+            "problem": "Limitado acceso a oportunidades de desarrollo de capacidades y cultura ocupacional para jóvenes y madres de familia.",
+            "objective": "Crear el programa \"Emprende Los Olivos\" para brindar talleres certificados de habilidades tecnológicas, marketing digital, contabilidad básica y oficios técnicos productivos en convenio con institutos y universidades locales.",
+            "goal": "Incrementar el número de beneficiarios certificados de 450 en 2026 a 3,500 anuales en 2030.",
+            "indicator": "Número anual de jóvenes y madres de familia certificados en capacidades productivo-digitales insertados al mercado laboral local o formalizados como MIPYMES."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Funcionamiento inadecuado de mercados de abastos con deficiencias en ordenamiento, modernización y condiciones sanitarias.",
+            "objective": "Implementar un plan integral de formalización, ordenamiento interno y modernización de los mercados de abastos, junto con la creación del \"Sello Sanitario Distrital\" para garantizar la inocuidad alimentaria.",
+            "goal": "Alcanzar el 100% de mercados con certificado ITSE y condiciones sanitarias óptimas para 2030 (línea de base: 35%). Lograr que el 92% de establecimientos cumplan con los estándares microbiológicos para 2030 (línea de base: 48%).",
+            "indicator": "Porcentaje de mercados de abastos tradicionales que cuentan con certificado ITSE y condiciones sanitarias óptimas. Porcentaje de establecimientos comerciales alimentarios que aprueban los estándares microbiológicos de inocuidad."
+          },
+          {
+            "problem": "Congestión vehicular severa y desorden en el transporte público, que afectan la movilidad y seguridad en el distrito.",
+            "objective": "Coordinar el reordenamiento de paraderos, aplicar fiscalización electrónica, reestructurar el empadronamiento de vehículos menores, mejorar la infraestructura vial y peatonal, y modernizar la red semafórica.",
+            "goal": "Reducir el nivel de servicio de F a C/D para 2030, con una disminución del 25% en tiempos de demora. Alcanzar el 100% de vehículos menores formalizados para 2030 (línea de base: 38%).",
+            "indicator": "Reducción del índice de congestión y minutos de viaje perdidos en hora punta. Porcentaje de vehículos menores (mototaxis) regulados formalizados que operan bajo fiscalización municipal."
+          },
+          {
+            "problem": "Desaprovechamiento del patrimonio arquitectónico y potencial turístico del distrito, con sitios arqueológicos en abandono.",
+            "objective": "Proteger y poner en valor el patrimonio arquitectónico y monumental, y lanzar el corredor \"Gastronomía e Identidad de Lima Norte\" para articular la oferta de restaurantes y centros comerciales con circuitos culturales peatonales.",
+            "goal": "Incrementar de 1 sitio arqueológico protegido en 2026 a 5 sitios para el año 2030.",
+            "indicator": "Número de sitios arqueológicos prehispánicos del distrito recuperados, cercados y puestos en valor bajo un esquema turístico-cultural municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de residuos sólidos, con una tasa marginal de segregación en la fuente y reciclaje formalizado.",
+            "objective": "Implementar un Plan de Manejo Integral de Residuos Sólidos (PIGARS) con recolección nocturna automatizada, masificación de contenedores diferenciados y expansión del programa de segregación en la fuente.",
+            "goal": "Aumentar el porcentaje de residuos reciclados y valorizados del 11.2% en 2026 al 45% en 2030.",
+            "indicator": "Porcentaje de toneladas métricas de residuos sólidos residenciales y comerciales inorgánicos efectivamente reciclados y valorizados en plantas autorizadas."
+          },
+          {
+            "problem": "Alta vulnerabilidad estructural por sismo debido a la presencia de viviendas autoconstruidas y desafíos de evacuación en zonas comerciales.",
+            "objective": "Elaborar un mapa catastral de riesgo sísmico, ejecutar inspecciones técnicas rigurosas en establecimientos comerciales y crear un Centro de Alerta Temprana Distrital con sirenas electrónicas comunitarias.",
+            "goal": "Lograr que el 98% de los establecimientos comerciales cuenten con certificación ITSE vigente para 2030 (línea de base: 45%). Reducir el tiempo de respuesta del COED de 14 minutos a 5 minutos para 2030.",
+            "indicator": "Porcentaje de galerías, mercados y establecimientos comerciales con certificación ITSE vigente auditada. Tiempo promedio de movilización del Centro de Operaciones de Emergencia Distrital (COED)."
+          },
+          {
+            "problem": "Déficit histórico en la dotación de áreas verdes por habitante y uso de sistemas de riego ineficientes.",
+            "objective": "Ejecutar un plan de choque para revertir el déficit de espacios verdes mediante la arborización masiva de avenidas e implementar un sistema de riego ecoeficiente nocturno con agua residual tratada.",
+            "goal": "Aumentar la dotación de áreas verdes por habitante de 2.8 m2/hab en 2026 a 7.5 m2/hab en 2030.",
+            "indicator": "Incremento de la dotación de áreas verdes urbanas efectivas mantenidas y arboladas por habitante (m2/hab)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Corrupción institucional, demoras en la ejecución presupuestal y discrecionalidad en la fiscalización administrativa.",
+            "objective": "Fortalecer la institucionalidad mediante la creación de un Observatorio de Vigilancia Ciudadana, el despliegue de una plataforma de gobierno digital para trámites y la institucionalización de la rendición de cuentas permanente.",
+            "goal": "Mejorar la calificación de integridad del 68% en 2026 al 96% en 2030. Alcanzar el 100% de trámites resueltos digitalmente para 2030 (línea de base: 42%).",
+            "indicator": "Calificación del distrito en el Índice de Capacidad de Integridad Pública de la PCM. Porcentaje de solicitudes de licencias y trámites resueltos digitalmente."
+          },
+          {
+            "problem": "Alta incidencia de delitos patrimoniales violentos y desarticulación operativa entre el serenazgo y la Policía Nacional del Perú.",
+            "objective": "Reforzar la seguridad ciudadana mediante la reestructuración del CODISEC, la integración tecnológica de videovigilancia, la consolidación del programa \"Serenazgo Sin Fronteras\" y la mitigación de actividades económicas ilegales.",
+            "goal": "Reducir la tasa de victimización del 32.4% en 2026 al 11.2% en 2030. Disminuir el tiempo de respuesta del serenazgo de 11 minutos a 4 minutos para el 2030.",
+            "indicator": "Tasa de victimización por delitos de robo y hurto agravado en la jurisdicción. Tiempo de respuesta promedio de las unidades del Serenazgo integrado."
+          },
+          {
+            "problem": "Insuficiente transparencia y falta de mecanismos efectivos para la rendición de cuentas y el control ciudadano.",
+            "objective": "Garantizar la rendición de cuentas permanente mediante la reestructuración del presupuesto participativo, el lanzamiento de plataformas digitales de control y la implementación de un tablero de control de desempeño municipal de acceso público.",
+            "goal": "Alcanzar el 100% de cumplimiento en los estándares de Transparencia Activa para 2030 (línea de base: 74%). Lograr el 100% de respuestas satisfactorias a solicitudes de información para 2030 (línea de base: 72%).",
+            "indicator": "Cumplimiento de los estándares de Transparencia Activa en el portal institucional. Porcentaje de solicitudes de acceso a la información pública respondidas satisfactoriamente en canales digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zDhi0xtd7xkstAc4ZiA-vznLHMnpz8MT",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zDhi0xtd7xkstAc4ZiA-vznLHMnpz8MT",
+      "sha256": "d34c0d476f3a205518eee7304acddd2f9e9a4aa7824991f99f99ba53061a6a0f",
+      "accessedAt": "2026-10-02T22:58:27.882Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023255",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023255",
+      "sha256": "652245f1c8504a4551734549d5a6ce1860c2a9c9037e1d31abe7eaf0f98fab83",
+      "accessedAt": "2026-10-02T22:58:28.371Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

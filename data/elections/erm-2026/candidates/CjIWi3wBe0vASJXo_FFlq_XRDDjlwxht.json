@@ -1,0 +1,228 @@
+{
+  "id": "CjIWi3wBe0vASJXo_FFlq_XRDDjlwxht",
+  "slug": "enrique-julio-manco-suni",
+  "electionId": "erm-2026",
+  "name": "Enrique Julio Manco Suni",
+  "givenNames": "Enrique Julio",
+  "surnames": "Manco Suni",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:34.481Z",
+      "sourceId": "jne-hv-CjIWi3wBe0vASJXo_FFlq_XRDDjlwxht"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DEL CALLAO",
+        "program": "INGENIERO DE SISTEMAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "OEFA",
+      "role": "JEFE DE LA OFICINA DE TECNOLOGIA DE LA INFORMACION",
+      "from": "2024",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 54000,
+        "public": 54000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "sin especificar",
+        "value": 25000
+      },
+      {
+        "type": "Sin especificar",
+        "value": 70000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CLUB SPORT ATLETICO PUCUSANA",
+        "type": "PARTICIPACIONES",
+        "quantity": 0,
+        "value": 0
+      },
+      {
+        "company": "MERPEMS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 1000
+      },
+      {
+        "company": "EMSYSTEM MED E.I.R.L.",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 1000
+      },
+      {
+        "company": "INFORMATECH GROUP S.A.C",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/da66fd43-ae7b-46f5-9204-20e118f81c7a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b0c7bfbc-9a14-4486-95fd-14fc5df024bd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente desarrollo humano integral y sostenible de la población, con limitado acceso a programas sociales, deporte, salud y educación.",
+            "objective": "Gestionar presupuesto para programas sociales, fomentar disciplinas deportivas, mejorar el acceso a servicios de salud de calidad, combatir la anemia y optimizar la infraestructura y calidad educativa.",
+            "goal": "Construir un polideportivo municipal, implementar un programa de médicos a domicilio, gestionar la adquisición de ambulancias, crear una farmacia municipal con medicamentos genéricos y mejorar la infraestructura de las instituciones educativas públicas.",
+            "indicator": "Plan Estratégico Local de Gestión Deportiva elaborado. Plan Estratégico Local de Salud elaborado. Tasa de anemia en niños, adolescentes y gestantes. Número de instituciones educativas con infraestructura mejorada."
+          },
+          {
+            "problem": "Altos índices de inseguridad ciudadana en el distrito.",
+            "objective": "Actualizar el Plan de Seguridad Ciudadana y el Mapa del Delito, articular el trabajo con la Policía Nacional y comités vecinales, mejorar la videovigilancia, adquirir vehículos para patrullaje, crear grupos de élite en serenazgo y recuperar espacios públicos.",
+            "goal": "Implementar una central de monitoreo con presencia policial, adquirir patrulleros y motos lineales equipados con GPS, crear comandos especializados de intervención rápida y recuperar espacios públicos críticos mediante iluminación, orden y limpieza.",
+            "indicator": "Mapa del Delito actualizado. Número de cámaras de videovigilancia de última generación operativas. Número de vehículos de patrullaje adquiridos. Número de espacios públicos recuperados."
+          },
+          {
+            "problem": "Condiciones urbanas deficientes, caracterizadas por la falta de planificación, saneamiento físico-legal, acceso a servicios básicos e infraestructura vial inadecuada.",
+            "objective": "Formular un Plan de Desarrollo Urbano concertado, gestionar el saneamiento físico-legal de los asentamientos humanos, asegurar la provisión de agua y desagüe, y mejorar la infraestructura de accesos peatonales y vehiculares.",
+            "goal": "Elaborar el Plan de Desarrollo Urbano y el Catastro distrital, brindar asesoría municipal para el saneamiento de los AAHH, gestionar la provisión de redes de agua y desagüe en convenio con SEDAPAL y construir accesos peatonales, ciclovías y pistas.",
+            "indicator": "Plan de Desarrollo Urbano Municipal elaborado. Proyecto de Elaboración del Catastro implementado. Porcentaje de avance en la gestión del Proyecto Esquema Pucusana. Kilómetros de accesos peatonales y pistas mejoradas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades de empleabilidad y desarrollo de emprendimientos en la población local.",
+            "objective": "Promover la capacitación para el emprendimiento, fomentar ferias locales y laborales, y brindar asesoría para la formalización de negocios.",
+            "goal": "Establecer convenios con universidades e instituciones para desarrollar capacitación y talleres, promover ferias locales de emprendimiento de manera descentralizada y fomentar ferias laborales para vincular la oferta y demanda de empleo.",
+            "indicator": "Número de convenios con instituciones para capacitación. Número de ferias de emprendimiento y laborales realizadas. Número de emprendimientos formalizados con apoyo municipal."
+          },
+          {
+            "problem": "Bajo desarrollo del sector turístico en el distrito.",
+            "objective": "Implementar el Plan Turístico, mejorar la infraestructura turística, ordenar el comercio ambulatorio, desarrollar herramientas digitales para la promoción turística y capacitar a guías locales.",
+            "goal": "Desarrollar e implementar el Plan Turístico, gestionar la construcción del mirador, mejorar las zonas turísticas, elaborar un aplicativo móvil denominado “Pucusana Destino Turístico” y promover actividades culturales y deportivas durante todo el año.",
+            "indicator": "Plan Turístico implementado. Número de ferias comerciales ordenadas. Aplicativo móvil turístico desarrollado. Número de guías turísticos formados."
+          },
+          {
+            "problem": "Carencia de una planificación económica integral y de oportunidades para sectores productivos clave como la pesca.",
+            "objective": "Elaborar e implementar un plan de desarrollo económico con participación de instituciones públicas y privadas para promover la micro y pequeña empresa, y generar oportunidades económicas para los pescadores.",
+            "goal": "Formular un plan de desarrollo económico distrital que promueva la micro y pequeña empresa, y generar oportunidades económicas y de crédito para los pescadores agremiados y no agremiados.",
+            "indicator": "Plan de desarrollo económico elaborado e implementado. Número de programas de crédito para pescadores gestionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos y contaminación del entorno, incluyendo el borde costero.",
+            "objective": "Implementar la Política Local Ambiental, crear un Comité Ambiental Municipal, modernizar el sistema de recolección de residuos y articular acciones para la limpieza del mar y la correcta disposición de residuos peligrosos.",
+            "goal": "Aprobar e implementar la Política y el Plan Local de Gestión Ambiental, crear el Comité Ambiental Municipal, instalar una red de contenedores de basura subterráneos y ejecutar un programa de “Mar limpio” en articulación con el Ministerio de la Producción.",
+            "indicator": "Política Local Ambiental aprobada. Red de contenedores de basura subterráneos implementada. Cantidad de residuos hidrobiológicos y peligrosos dispuestos adecuadamente."
+          },
+          {
+            "problem": "Déficit y mantenimiento inadecuado de áreas verdes, parques y jardines en el distrito.",
+            "objective": "Mejorar y mantener los parques y jardines existentes, implementar nuevas áreas verdes en zonas previstas y gestionar inversiones para la reforestación de puntos estratégicos.",
+            "goal": "Ejecutar el mejoramiento y mantenimiento de los diferentes parques del distrito, implementar nuevos parques y jardines, y gestionar inversiones para reforestación en coordinación con el Servicio de Parques de Lima (SERPAR).",
+            "indicator": "Metros cuadrados de áreas verdes con mantenimiento adecuado. Número de nuevos parques y jardines implementados. Proyectos de reforestación gestionados."
+          },
+          {
+            "problem": "Baja cultura y educación ambiental en la ciudadanía.",
+            "objective": "Fomentar el respeto al medio ambiente a través de campañas educativas, programas de incentivos por buenas prácticas ciudadanas y la promoción de la reducción, reciclaje y reutilización de residuos.",
+            "goal": "Difundir campañas de respeto al medio ambiente en los colegios, desarrollar un programa de premios e incentivos y ejecutar programas como “Pucusana Verde” y “Reduce, recicla y Reutiliza”.",
+            "indicator": "Número de campañas de sensibilización ambiental en colegios. Programa de premios e incentivos por buenas prácticas implementado. Número de programas de reciclaje ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión administrativa municipal burocrática y poco eficiente.",
+            "objective": "Modernizar la gestión municipal implementando instrumentos de gestión participativos, simplificando procedimientos administrativos y automatizando procesos para mejorar la eficiencia.",
+            "goal": "Implementar planes estratégicos descentralizados conforme a la Ley de Modernización del Estado, modernizar los procesos y procedimientos administrativos de la municipalidad y aplicar procesos de reingeniería para la mejora continua.",
+            "indicator": "Planes estratégicos participativos por sector elaborados. Porcentaje de reducción de trámites, pasos y requisitos en los procedimientos. Número de procesos municipales automatizados."
+          },
+          {
+            "problem": "Bajo aprovechamiento de la tecnología para la modernización de la gestión y la prestación de servicios a la ciudadanía.",
+            "objective": "Impulsar la transformación digital del municipio para convertirlo en un referente de Gobernanza Digital, mediante el desarrollo de aplicaciones móviles, la reducción del uso de papel y la interoperabilidad con otras entidades estatales.",
+            "goal": "Convertir a Pucusana en pionera de Lima Sur en Gobernanza Digital, implementar aplicaciones móviles para consulta de trámites y orientación al vecino, y establecer la conexión e intercambio de información en tiempo real con entidades como RENIEC, SUNAT y SUNARP.",
+            "indicator": "Nivel de implementación de la Ley de Gobierno Digital. Aplicaciones móviles para la ciudadanía desarrolladas y operativas. Porcentaje de reducción del uso de papel a través de la gestión documental con certificados digitales."
+          },
+          {
+            "problem": "Insuficientes capacidades y especialización del recurso humano de la municipalidad.",
+            "objective": "Fortalecer las competencias del personal municipal a través de capacitación constante, la contratación de servidores calificados y con experiencia, y el fomento de un liderazgo horizontal y trabajo en equipo.",
+            "goal": "Capacitar de manera constante al servidor público en coordinación con el gobierno central, asegurar que el personal en áreas estratégicas sea calificado y con experiencia, y fortalecer el trabajo conjunto entre autoridades, empresa privada y sociedad civil.",
+            "indicator": "Programas de capacitación para el servidor público implementados. Porcentaje de servidores públicos con perfiles idóneos para sus cargos. Número de alianzas estratégicas con la empresa privada y sociedad civil."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-CjIWi3wBe0vASJXo_FFlq_XRDDjlwxht",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/CjIWi3wBe0vASJXo_FFlq_XRDDjlwxht",
+      "sha256": "8d80c09dec165587b2cc1c60a5f155c02cb2cd4d5052dbd93a5c184b93ffbc1f",
+      "accessedAt": "2026-10-02T23:00:34.481Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012100",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012100",
+      "sha256": "8943290b4ad8d712193085dff9f2494c19971ba81db6cbb8514d1fc3249f0135",
+      "accessedAt": "2026-10-02T23:00:34.994Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

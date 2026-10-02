@@ -1,0 +1,243 @@
+{
+  "id": "6S3VU0nvpruFJR-R0jit5C2ajg3R8LpO",
+  "slug": "juan-carlos-condori-chavez",
+  "electionId": "erm-2026",
+  "name": "Juan Carlos Condori Chavez",
+  "givenNames": "Juan Carlos",
+  "surnames": "Condori Chavez",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:21.576Z",
+      "sourceId": "jne-hv-6S3VU0nvpruFJR-R0jit5C2ajg3R8LpO"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PERHUMANO S.A.C.",
+      "role": "ABOGADO",
+      "from": "2017",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    },
+    {
+      "party": "ALIANZA NACIONAL DE TRABAJADORES AGRICULTORES UNIVERSITARIOS RESERVISTAS Y OBREROS",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "JC&B CONSULTING S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 500
+      },
+      {
+        "company": "PERHUMANO S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 2000,
+        "value": 2000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "CONSTRUCTORA ARIRA S.A.C. - APODERADO"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fe8cbdef-f974-433f-b516-d9dfb1078533.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/28049984-8496-4f59-aff2-7ca52071d622.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altas tasas de violencia familiar, escasa articulación de servicio de prevención y brechas de inequidad/discriminación social.",
+            "objective": "Promover la inclusión social y erradicar la violencia intrafamiliar con un enfoque de derechos y accesibilidad universal.",
+            "goal": "Cero tolerancias a la discriminación y reducción de denuncias por violencia familiar mediante la intervención preventiva municipal.",
+            "indicator": "Número de denuncias por violencia familiar."
+          },
+          {
+            "problem": "Incremento de la sensación de inseguridad ciudadana producto de la expansión del crimen organizado, la extorsión, el sicariato, comercialización de drogas, prostitución y la fragilidad institucional.",
+            "objective": "Reducir los índices de victimización por delitos comunes, la violencia y fortalecer la prevención y el control territorial en el distrito.",
+            "goal": "Disminución progresiva de la sensación de inseguridad ciudadana y reducción del índice de victimización delictiva en Comas hacia el término del mandato.",
+            "indicator": "Índice de victimización delictiva."
+          },
+          {
+            "problem": "Infraestructura de salud optimizable, fragmentación institucional y necesidad de soporte en la atención primaria.",
+            "objective": "Mejorar las condiciones de vida, el entorno y el bienestar sanitario de la población, reduciendo los riesgos ambientales y garantizando el acceso equitativo a programas de prevención.",
+            "goal": "Cobertura óptima de los programas de prevención y salud comunitaria en el 100% de los sectores del distrito.",
+            "indicator": "Porcentaje de cobertura de los programas de prevención y salud comunitaria."
+          },
+          {
+            "problem": "Limitadas plataformas de nivelación escolar, desconexión entre las políticas centralizadas y la realidad territorial y riesgo de pérdida de identidad cultural local.",
+            "objective": "Elevar la calidad educativa técnico-productiva promoviendo un desarrollo territorial equitativo que revalore la diversidad, fortalezca el sentido de pertenencia local y mejore la calidad de vida del ciudadano.",
+            "goal": "Plan Concertado de Educación y Cultura financiado y ejecutado en beneficio de los estudiantes de Comas.",
+            "indicator": "Ejecución del Plan Concertado de Educación y Cultura."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Crecimiento del comercio informal ambulatorio (uso de espacio público), ineficacia de los programas de formalización generando desorden urbano y desatención de estándares de calidad en vías de alto tránsito.",
+            "objective": "Reordenar y recuperar los espacios públicos mediante incentivos de asociatividad y formalización comercial.",
+            "goal": "Reordenamiento integral del comercio local, convirtiendo progresivamente a los comerciantes informales en micro y pequeños empresarios debidamente formalizados.",
+            "indicator": "Número de comerciantes informales formalizados."
+          },
+          {
+            "problem": "MYPES desarticuladas, falta de asistencia técnica y desactivación del Consejo de Desarrollo Económico de Comas (CODEC), asimismo alta informalidad y la falta de articulación productiva.",
+            "objective": "Reactivar la economía local impulsando la competitividad, formalización corporativa y productividad en los negocios locales.",
+            "goal": "Consolidar un Plan de Desarrollo Económico de Comas proyectado a largo plazo que atraiga inversión privada generadora de empleo.",
+            "indicator": "Plan de Desarrollo Económico de Comas consolidado."
+          },
+          {
+            "problem": "Desempleo juvenil por brechas de perfil técnico, carencia de una zona industrial integrada en Lima Norte y desconexión entre la oferta educativa y la demanda empresarial.",
+            "objective": "Fomentar el empleo digno y posicionar a Comas como el eje productivo del cono norte.",
+            "goal": "Convertir al distrito de Comas en el bastión industrial de Lima Norte, incrementando la oferta de empleo local.",
+            "indicator": "Oferta de empleo local."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Sectores vulnerables y asentamientos en laderas carecen de conexiones domiciliarias de agua potable y desagüe, asimismo deficiencia en gestión de proyectos y crecimiento urbano desordenado.",
+            "objective": "Cerrar la brecha de servicios básicos e infraestructura de protección en zonas de riesgo, garantizando el acceso universal, sostenible y de calidad a los servicios de agua potable y disposición de excretas.",
+            "goal": "Hacia el 2030, lograr la cobertura masiva de redes de agua y el tratamiento técnico de aguas servidas para la sostenibilidad ambiental del distrito.",
+            "indicator": "Porcentaje de cobertura de redes de agua y tratamiento de aguas servidas."
+          },
+          {
+            "problem": "Deficiencia crónica en el servicio de limpieza pública, acumulación de desechos y falta de plantas de tratamiento e insuficientes espacios de áreas verdes.",
+            "objective": "Transicionar hacia un modelo eco-amigable de recolección y valorización de residuos bajo administración directa, garantizando un entorno urbano sostenible, saludable y resiliente.",
+            "goal": "Autonomía y optimización del sistema municipal de limpieza pública implementado al 100% al año 2028.",
+            "indicator": "Porcentaje de implementación del sistema municipal de limpieza pública."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado, invasiones en zonas de alto riesgo, informalidad en el transporte menor (mototaxis) y un 70% de predios sin formalización físico-legal.",
+            "objective": "Diseñar el crecimiento urbano seguro y formalizar la propiedad predial y el transporte local.",
+            "goal": "Formalizar y reducir al 70% los terrenos informales en el distrito; delimitación estricta de zonas intangibles en las partes altas en coordinación con la MML y el MVCS.",
+            "indicator": "Porcentaje de terrenos informales formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Percepción de una administración municipal burocrática, foco de actos de corrupción, procesos opacos e ineficiencia operativa, asimismo deficiencia en la provisión de servicios.",
+            "objective": "Implementar un gobierno electrónico, meritocrático y con cero tolerancias a la corrupción, que garantice la mejora de la eficiencia, la transparencia y la integridad en el uso de los recursos públicos.",
+            "goal": "Lograr el 100% de eficiencia en la ejecución de proyectos de inversión pública y la instalación de Comités de Vigilancia y Fiscalización Local basados en la Ley de Transparencia.",
+            "indicator": "Porcentaje de eficiencia en la ejecución de proyectos de inversión pública."
+          },
+          {
+            "problem": "Necesidad de incrementar la recaudación predial y de arbitrios sin recurrir a esquemas coercitivos dañinos para el vecino.",
+            "objective": "Optimizar los ingresos municipales mediante incentivos de valor agregado y la ampliación de la base de contribuyentes.",
+            "goal": "Incremento sostenido de la recaudación tributaria con redistribución equitativa y directa de los recursos hacia las 14 zonales del distrito.",
+            "indicator": "Nivel de recaudación tributaria."
+          },
+          {
+            "problem": "Ausencia de la autoridad municipal en los sectores geográficamente más alejados del distrito.",
+            "objective": "Acercar los servicios de la corporación municipal al ciudadano mediante un modelo de descentralización efectiva.",
+            "goal": "Red de Agencias Municipales operativas en el distrito al servicio descentralizado del vecino de Comas.",
+            "indicator": "Número de Agencias Municipales operativas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-141828",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "-",
+        "expediente": "00390-2025-0-0905-JP-FC-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-6S3VU0nvpruFJR-R0jit5C2ajg3R8LpO"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-6S3VU0nvpruFJR-R0jit5C2ajg3R8LpO",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/6S3VU0nvpruFJR-R0jit5C2ajg3R8LpO",
+      "sha256": "7a3ccc149aedb20ab3200fd5b080d0a6abdd27aae2a752cf22843ef60ace02e1",
+      "accessedAt": "2026-10-02T22:55:21.576Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020855",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020855",
+      "sha256": "383b6566a7f9725e7f31cbe1f7a98f5a69df935c9fc762da3fa53409db42ce41",
+      "accessedAt": "2026-10-02T22:55:22.058Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

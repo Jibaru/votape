@@ -1,0 +1,218 @@
+{
+  "id": "f_HjwCVH1rdstCfK7zQNsKXuZONOlDhC",
+  "slug": "jose-eleuterio-horna-saavedra",
+  "electionId": "erm-2026",
+  "name": "Jose Eleuterio Horna Saavedra",
+  "givenNames": "Jose Eleuterio",
+  "surnames": "Horna Saavedra",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:30.008Z",
+      "sourceId": "jne-hv-f_HjwCVH1rdstCfK7zQNsKXuZONOlDhC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega",
+        "program": "Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1998"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional Federico Villareal",
+        "program": "Administracion de la Educacion",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Abogado Independiente",
+      "role": "Abogado",
+      "from": "2020",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2010"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2015"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 139125,
+        "public": 0,
+        "private": 139125
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 450,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 150,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 150,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/24eac77d-3f1d-48ff-8451-d5d1aa6d2fa7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b6437d88-e3d8-4287-be27-c1a9f95fe50c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de espacios públicos, recreativos, deportivos y culturales frente a la alta densidad poblacional del distrito.",
+            "objective": "Programa \"Santa Anita Recrea\" de recuperación y creación de espacios públicos multifuncionales.",
+            "goal": "30 parques y losas deportivas recuperadas; 15,000 beneficiarios anuales de programas deportivos y culturales.",
+            "indicator": "Número de parques y losas deportivas recuperadas o habilitadas; número de beneficiarios de programas deportivos y culturales."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana y delincuencia (robos, microcomercialización de drogas, pandillaje) que afecta la calidad de vida de los vecinos.",
+            "objective": "Implementar un Sistema Integral de Seguridad Ciudadana que comprende videovigilancia inteligente, serenazgo y prevención social.",
+            "goal": "200 cámaras adicionales instaladas y operativas; reducción de 20% en la tasa de denuncias.",
+            "indicator": "Número de cámaras de videovigilancia operativas; tasa de denuncias por cada 10,000 habitantes."
+          },
+          {
+            "problem": "Brechas en la atención a grupos vulnerables: niñez y adolescencia, adultos mayores, personas con discapacidad y mujeres víctimas de violencia.",
+            "objective": "Fortalecimiento de los programas sociales municipales (CIAM, OMAPED, DEMUNA, CEM) y programas alimentarios.",
+            "goal": "Incremento de 40% en la cobertura de personas atendidas respecto a la línea base 2026.",
+            "indicator": "Número de personas atendidas por los programas sociales municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja competitividad de las micro y pequeñas empresas (MYPES) locales y limitada articulación con las oportunidades que genera el Mercado Mayorista y la nueva conectividad del Metro de Lima.",
+            "objective": "Programa \"Santa Anita Emprende\" de fortalecimiento empresarial y empleabilidad.",
+            "goal": "1,500 MYPES capacitadas; 1,000 puestos de trabajo facilitados.",
+            "indicator": "Número de MYPES capacitadas; número de personas insertadas laboralmente mediante la bolsa de trabajo municipal."
+          },
+          {
+            "problem": "Comercio informal y ambulatorio desordenado en las inmediaciones del Gran Mercado Mayorista de Lima y en los principales ejes comerciales del distrito, lo que genera congestión, inseguridad y deterioro del espacio público.",
+            "objective": "Programa \"Santa Anita Formal\" de ordenamiento, fiscalización y formalización del comercio.",
+            "goal": "2,000 comerciantes formalizados; 100% de operativos de fiscalización programados ejecutados.",
+            "indicator": "Número de comerciantes formalizados; número de operativos de fiscalización ejecutados."
+          },
+          {
+            "problem": "Congestión vehicular y deficiente movilidad urbana, agravada por el tránsito de carga pesada hacia el Mercado Mayorista y la limitada articulación con las estaciones de la Línea 2 del Metro de Lima.",
+            "objective": "Plan de Movilidad Urbana Sostenible articulado con las estaciones de la Línea 2 del Metro de Lima ubicadas en el distrito.",
+            "goal": "10 km de ciclovías nuevas; mejora de accesos en las 5 estaciones de la Línea 2 presentes en Santa Anita.",
+            "indicator": "Kilómetros de ciclovías implementadas; número de accesos peatonales e intersecciones mejoradas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de residuos sólidos, con persistencia de puntos críticos de acumulación de basura en la vía pública.",
+            "objective": "Actualización e implementación del Plan de Manejo de Residuos Sólidos del distrito, con enfoque de economía circular.",
+            "goal": "100% de puntos críticos identificados erradicados; 50% de viviendas incorporadas a la segregación en la fuente.",
+            "indicator": "Número de puntos críticos erradicados y mantenidos limpios; porcentaje de viviendas con segregación en la fuente."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante frente a los estándares recomendados, debido a la alta densidad poblacional y la reducida extensión territorial del distrito.",
+            "objective": "Programa \"Santa Anita Más Verde\" de recuperación, ampliación y mantenimiento de áreas verdes.",
+            "goal": "Incremento de 25% en metros cuadrados de área verde por habitante; 5,000 árboles plantados y en mantenimiento.",
+            "indicator": "Metros cuadrados de área verde por habitante; número de árboles plantados y en mantenimiento."
+          },
+          {
+            "problem": "Contaminación atmosférica por material particulado y ruido, asociada al tránsito vehicular y la actividad comercial e industrial.",
+            "objective": "Programa de Monitoreo y Mitigación Ambiental \"Aire Limpio Santa Anita\".",
+            "goal": "5 estaciones de monitoreo instaladas y operativas; 40% de la flota municipal con tecnología limpia (GNV/eléctrica).",
+            "indicator": "Número de estaciones de monitoreo de aire y ruido operativas; porcentaje de la flota municipal con tecnología limpia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja confianza ciudadana en la gestión municipal y percepción de falta de transparencia.",
+            "objective": "Programa de Gobierno Abierto \"Santa Anita Transparente\".",
+            "goal": "4 audiencias públicas anuales (1 por trimestre); 100% de información presupuestal publicada trimestralmente.",
+            "indicator": "Número de audiencias públicas de rendición de cuentas realizadas al año; número de reportes de transparencia publicados."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la planificación, vigilancia y priorización de la inversión pública local.",
+            "objective": "Fortalecimiento del Presupuesto Participativo y de los mecanismos de participación vecinal.",
+            "goal": "Incremento de 50% en participantes respecto a la línea base 2026; 80% de proyectos priorizados ejecutados.",
+            "indicator": "Número de participantes en el proceso de presupuesto participativo; número de proyectos priorizados ejecutados."
+          },
+          {
+            "problem": "Baja recaudación tributaria y limitada capacidad de ejecución del gasto público de inversión.",
+            "objective": "Programa \"Santa Anita Eficiente\" de modernización de la gestión tributaria, administrativa y financiera.",
+            "goal": "Recaudación tributaria = 90% de lo programado; ejecución del PIM = 85% anual.",
+            "indicator": "Porcentaje de recaudación tributaria respecto a lo programado; porcentaje de ejecución del Presupuesto de Inversión Municipal (PIM)."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-f_HjwCVH1rdstCfK7zQNsKXuZONOlDhC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/f_HjwCVH1rdstCfK7zQNsKXuZONOlDhC",
+      "sha256": "bcfa7c21e184484becae1dcb714025094271be95d3cb10af2b224da39779ab5f",
+      "accessedAt": "2026-10-02T23:05:30.008Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021157",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021157",
+      "sha256": "5f0258168f8010e65039bf898cc2f9c14e8439136e78a236922f6bbaff0d3b42",
+      "accessedAt": "2026-10-02T23:05:30.490Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "emWZPLo1pKJa0xbYO3ytTb4I1ShccwuW",
+  "slug": "luis-alberto-flores-roldan",
+  "electionId": "erm-2026",
+  "name": "Luis Alberto Flores Roldan",
+  "givenNames": "Luis Alberto",
+  "surnames": "Flores Roldan",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:49.651Z",
+      "sourceId": "jne-hv-emWZPLo1pKJa0xbYO3ytTb4I1ShccwuW"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CESCA",
+        "program": "PROFESIONAL TÉCNICO EN COMPUTACIÓN E INFORMÁTICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "Ingeniero de Sistemas Computacionales",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "Bachiller en Ingeniería de Sistemas Computacionales",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "DIAGNÓSTICO UAL",
+      "role": "ESPECIALISTA TI",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "INTEGRATION & QUALITY PROJECT MANAGEMENT S.A.C. IQ PROJECT S.A.C.",
+      "role": "ADMINISTRADOR DE SEGURIDAD INFORMÁTICA",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "BIODIZ S.A.C.",
+      "role": "ESPECIALISTA TI",
+      "from": "2017",
+      "to": "2018"
+    },
+    {
+      "employer": "USALAB S.A.C.",
+      "role": "ESPECIALISTA TI",
+      "from": "2016",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO NACIONALISTA PERUANO",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 0,
+        "private": 42000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3e20078c-dbb7-446c-b5f7-6df96bb97e4e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/152ef8a2-ccd2-4e9b-ba61-86877be24828.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta proporción de jóvenes que no estudian ni trabajan (NINI) en el distrito.",
+            "objective": "Incrementar las oportunidades de inserción educativa y laboral para la juventud.",
+            "goal": "Reducir la tasa NINI del 18.5% al 12%.",
+            "indicator": "Tasa de jóvenes que no estudian ni trabajan (NINI)."
+          },
+          {
+            "problem": "Insuficiente cobertura de atención primaria, saturación de centros y demora en la asignación de citas.",
+            "objective": "Fortalecer el acceso oportuno y descentralizado a la atención primaria, priorizando las zonas vulnerables.",
+            "goal": "Incrementar la cobertura preventiva municipal en los sectores priorizados.",
+            "indicator": "Porcentaje de incremento de la cobertura preventiva municipal."
+          },
+          {
+            "problem": "Alta incidencia de anemia infantil y deficiente seguimiento nutricional en la población.",
+            "objective": "Reducir la anemia y fortalecer la vigilancia nutricional comunitaria con un enfoque preventivo y familiar.",
+            "goal": "Implementar un sistema comunitario de seguimiento nutricional activo, con una reducción gradual de la anemia en los niños priorizados.",
+            "indicator": "Estado del sistema comunitario de seguimiento nutricional y nivel de anemia en niños priorizados."
+          },
+          {
+            "problem": "Alta incidencia delictiva y débil prevención en zonas críticas del distrito.",
+            "objective": "Fortalecer la primera línea de prevención mediante un serenazgo profesional, con identidad institucional y estándares de intervención preventiva, articulado con la Policía Nacional del Perú.",
+            "goal": "Reducir los delitos en un 25%, lograr el 100% de cobertura en zonas críticas y un tiempo de respuesta menor a 10 minutos.",
+            "indicator": "Porcentaje de reducción de delitos, porcentaje de cobertura en zonas críticas y tiempo de respuesta."
+          },
+          {
+            "problem": "Adultos mayores en situación de abandono, dependencia y aislamiento.",
+            "objective": "Fortalecer la protección integral de los adultos mayores.",
+            "goal": "Lograr una cobertura de 600 adultos mayores entre albergue, atención diurna y servicios comunitarios.",
+            "indicator": "Número de adultos mayores atendidos en albergue, atención diurna y servicios comunitarios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Veredas invadidas y deterioradas que obligan al peatón a transitar por la pista.",
+            "objective": "Recuperar la vereda como un espacio seguro y exclusivo para el peatón.",
+            "goal": "Recuperar 3 kilómetros lineales de veredas.",
+            "indicator": "Kilómetros lineales de veredas recuperadas."
+          },
+          {
+            "problem": "Ausencia de una oferta estructurada de vinculación laboral formal.",
+            "objective": "Articular a la población económicamente activa con oportunidades de empleo formal.",
+            "goal": "Vincular a 500 personas a un empleo formal en el primer año.",
+            "indicator": "Número de personas vinculadas a un empleo formal."
+          },
+          {
+            "problem": "Alto costo y burocracia en el proceso de formalización para negocios de subsistencia.",
+            "objective": "Reducir el costo real de la formalización para los negocios de subsistencia.",
+            "goal": "Aprobar la ordenanza y poner en operación el canal de formalización en el primer año.",
+            "indicator": "Aprobación de ordenanza y operatividad del canal de formalización."
+          },
+          {
+            "problem": "Inexistencia de un padrón actualizado de comerciantes informales.",
+            "objective": "Planificar la transición a la formalidad de los comerciantes con información real, sin amenaza de desalojo.",
+            "goal": "Registrar 1,000 comerciantes durante el primer año de gestión.",
+            "indicator": "Número de comerciantes registrados en el padrón distrital."
+          },
+          {
+            "problem": "Deterioro de la infraestructura vial que incrementa los costos y tiempos de reparación.",
+            "objective": "Mantener las vías en buena operación y evitar grandes inversiones tardías a través del mantenimiento preventivo.",
+            "goal": "Realizar 200 intervenciones de mantenimiento preventivo en el primer año.",
+            "indicator": "Número de intervenciones de mantenimiento preventivo realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Altos niveles de ruido sin un control técnico efectivo que afecta la calidad de vida.",
+            "objective": "Reducir la contaminación sonora mediante la medición objetiva en decibeles.",
+            "goal": "Equipar al 100% del equipo de fiscalización, realizar operativos semanales y reducir las quejas vecinales en un 30%.",
+            "indicator": "Porcentaje de equipamiento del equipo de fiscalización y porcentaje de reducción de quejas vecinales."
+          },
+          {
+            "problem": "Práctica recurrente de quema de basura en espacios públicos.",
+            "objective": "Eliminar la quema de basura mediante control, sanción y una mejora en la gestión de residuos.",
+            "goal": "Reducir la quema en un 80% a través de fiscalización permanente y campañas trimestrales.",
+            "indicator": "Porcentaje de reducción de la quema de residuos."
+          },
+          {
+            "problem": "Débil cultura ambiental entre los ciudadanos del distrito.",
+            "objective": "Fortalecer la gestión ambiental con una educación ciudadana sostenida.",
+            "goal": "Realizar dos campañas masivas por año, capacitar al 30% de las juntas vecinales e incrementar el cumplimiento normativo en un 40%.",
+            "indicator": "Número de campañas masivas, porcentaje de juntas vecinales capacitadas y nivel de cumplimiento normativo."
+          },
+          {
+            "problem": "Alta presencia de animales en situación de abandono, lo que genera zoonosis y reproducción no controlada.",
+            "objective": "Mejorar el bienestar animal y reducir los riesgos sanitarios, aprovechando la clínica veterinaria municipal existente.",
+            "goal": "Garantizar la atención de emergencias 24 horas de forma operativa y realizar campañas gratuitas durante todo el año.",
+            "indicator": "Operatividad de la atención de emergencias y realización de campañas gratuitas."
+          },
+          {
+            "problem": "Ausencia de infraestructura municipal para el refugio temporal y control poblacional de animales.",
+            "objective": "Implementar una política distrital de protección y adopción responsable de animales.",
+            "goal": "Iniciar la construcción de la primera etapa del albergue y centro de adopción al 2030.",
+            "indicator": "Estado de la construcción del albergue y centro municipal de adopción animal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil capacidad de gestión pública en la municipalidad.",
+            "objective": "Fortalecer la capacidad técnica y administrativa de la municipalidad.",
+            "goal": "Elevar el cumplimiento institucional del 60% al 90%.",
+            "indicator": "Porcentaje de cumplimiento institucional."
+          },
+          {
+            "problem": "Padrón desactualizado de beneficiarios de los programas sociales.",
+            "objective": "Modernizar y validar el padrón único de beneficiarios.",
+            "goal": "Alcanzar el 100% de beneficiarios registrados y validados para el año 2030.",
+            "indicator": "Porcentaje de beneficiarios registrados y validados."
+          },
+          {
+            "problem": "Corrupción percibida en los trámites y servicios municipales.",
+            "objective": "Reducir la discrecionalidad y los pagos indebidos en los servicios municipales.",
+            "goal": "Reducir las denuncias por coimas e incrementar los trámites digitales.",
+            "indicator": "Número de denuncias por coimas y cantidad de trámites digitales."
+          },
+          {
+            "problem": "Existencia de obras paralizadas, sobrecostos y baja calidad técnica en las inversiones municipales.",
+            "objective": "Mejorar el control de las obras municipales.",
+            "goal": "Reducir las obras paralizadas y elevar las obras culminadas al 80%.",
+            "indicator": "Porcentaje de reducción de obras paralizadas y porcentaje de obras culminadas."
+          },
+          {
+            "problem": "Bajo cumplimiento de las metas del Plan Operativo Institucional (POI) y débil control de resultados.",
+            "objective": "Monitorear permanentemente la gestión municipal.",
+            "goal": "Pasar del 60% al 100% de metas monitoreadas.",
+            "indicator": "Porcentaje de metas del POI monitoreadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-emWZPLo1pKJa0xbYO3ytTb4I1ShccwuW",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/emWZPLo1pKJa0xbYO3ytTb4I1ShccwuW",
+      "sha256": "f7f0b58151d62bbb0e0baf15a1970d76e3fa4e6c394994e2bff7481a82f69ec0",
+      "accessedAt": "2026-10-02T23:04:49.651Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021974",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021974",
+      "sha256": "80d8c44bdb7249dc1d6042f5e355ae760fe985de4c070628356cb0748670a799",
+      "accessedAt": "2026-10-02T23:04:50.145Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

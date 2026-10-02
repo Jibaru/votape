@@ -1,0 +1,192 @@
+{
+  "id": "_N1YTWahn__A5t-Lz11UusYf041SoIvt",
+  "slug": "luz-elena-flores-ledesma",
+  "electionId": "erm-2026",
+  "name": "Luz Elena Flores Ledesma",
+  "givenNames": "Luz Elena",
+  "surnames": "Flores Ledesma",
+  "age": 34,
+  "gender": "Femenino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:03.978Z",
+      "sourceId": "jne-hv-_N1YTWahn__A5t-Lz11UusYf041SoIvt"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e56f1759-613e-407b-8d7d-863d4e353f82.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d1f56ddf-2f42-4176-a130-c204aa7a5f79.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit en la calidad educativa y deserción escolar, agravado por la falta de infraestructura tecnológica y espacios de lectura adecuados en los sectores de mayor vulnerabilidad socioeconómica.",
+            "objective": "Elevar la calidad del servicio educativo público y reducir la deserción escolar mediante entornos digitales e incentivos comunales.",
+            "goal": "Reducir la deserción escolar a menos del 1% y asegurar entornos de estudio digital en los sectores vulnerables.",
+            "indicator": "Tasa de deserción escolar anual en educación básica regular y número de bibliotecas o ludotecas comunales operativas."
+          },
+          {
+            "problem": "Alta prevalencia de anemia y desnutrición crónica infantil en las zonas altas y periféricas del distrito, debido a la inseguridad alimentaria y el bajo acceso a dietas balanceadas.",
+            "objective": "Reducir la anemia y la desnutrición crónica infantil, fortaleciendo la red de seguridad alimentaria y la vigilancia nutricional en la primera infancia.",
+            "goal": "Reducir la anemia infantil a menos del 15% y la desnutrición crónica a menos del 5% en el ámbito distrital.",
+            "indicator": "Porcentaje de niños y niñas menores de 5 años con diagnóstico de desnutrición crónica y anemia."
+          },
+          {
+            "problem": "Críticos índices de inseguridad ciudadana, con alta incidencia de hurtos, robos al paso y microcomercialización de drogas en puntos críticos y zonas monumentales, lo que ahuyenta la inversión y el turismo.",
+            "objective": "Fortalecer el sistema de seguridad ciudadana mediante la modernización tecnológica, el patrullaje preventivo y la recuperación del espacio público.",
+            "goal": "Reducir la victimización delictiva al 18% e interconectar el 100% de los cuadrantes del distrito a una central de monitoreo moderna.",
+            "indicator": "Porcentaje de victimización delictiva del distrito y número de cámaras de videovigilancia con reconocimiento facial operativas."
+          },
+          {
+            "problem": "Hacinamiento y alto riesgo de habitabilidad en quintas, solares y casonas del Centro Histórico, las cuales carecen de conexiones formales y seguras de agua, desagüe y electricidad.",
+            "objective": "Promover la seguridad habitacional, el saneamiento físico-legal y el acceso formal a servicios básicos esenciales, respetando el entorno patrimonial.",
+            "goal": "Lograr el 95% de conexiones formales y seguras de servicios básicos en los sectores consolidados y casonas habitadas.",
+            "indicator": "Porcentaje de viviendas en quintas y solares con acceso formal, seguro y simultáneo a agua, saneamiento y energía eléctrica."
+          },
+          {
+            "problem": "Alta vulnerabilidad social y desprotección de poblaciones vulnerables, como adultos mayores en abandono y personas con discapacidad, concentrada en los sectores antiguos y zonas altas del distrito.",
+            "objective": "Fortalecer los mecanismos institucionales de asistencia, protección e inclusión socioeconómica de las poblaciones vulnerables del distrito.",
+            "goal": "Cobertura del 100% de la población vulnerable identificada mediante programas de asistencia integral y reactivación social.",
+            "indicator": "Porcentaje de adultos mayores y personas con discapacidad en situación de pobreza atendidos por la red de soporte local."
+          },
+          {
+            "problem": "Persistencia del trabajo infantil ambulante y mendicidad en los principales ejes viales, puentes de conexión con el Cercado de Lima y zonas comerciales del distrito.",
+            "objective": "Erradicar el trabajo infantil promoviendo la protección integral de los menores y garantizando su inserción en los espacios educativos y recreativos.",
+            "goal": "Reducir a menos del 0.5% la incidencia de trabajo infantil callejero en el territorio distrital.",
+            "indicator": "Tasa de niños, niñas y adolescentes detectados en situación de trabajo infantil en los principales ejes del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desaprovechamiento del potencial turístico y cultural del patrimonio histórico del distrito, limitando la generación de ingresos locales y empleo directo.",
+            "objective": "Impulsar la economía local a través del turismo receptivo sostenible, las industrias creativas, la gastronomía y la puesta en valor del patrimonio.",
+            "goal": "Duplicar el flujo turístico en el distrito y formalizar 200 nuevos emprendimientos de servicios gastronómicos, artesanales y de guiado.",
+            "indicator": "Número de visitantes anuales a los circuitos turísticos del Rímac y cantidad de empleo formal generado en el sector turismo."
+          },
+          {
+            "problem": "Elevados niveles de informalidad laboral y comercio ambulatorio desordenado en los alrededores de los mercados tradicionales y los accesos al distrito.",
+            "objective": "Promover la formalización comercial, la reconversión laboral y el ordenamiento del comercio en la vía pública hacia espacios competitivos.",
+            "goal": "Formalizar y reordenar al 60% del comercio ambulatorio registrado en el distrito, integrándolos a circuitos comerciales estables.",
+            "indicator": "Porcentaje de comerciantes informales reconvertidos o formalizados dentro de la economía local."
+          },
+          {
+            "problem": "Bajo nivel de ingresos de la fuerza laboral joven y falta de articulación con las demandas del mercado laboral técnico y digital contemporáneo.",
+            "objective": "Elevar la empleabilidad de los jóvenes del distrito mediante la capacitación técnica, habilidades tecnológicas y la inserción laboral formal.",
+            "goal": "Insertar al menos al 45% de los jóvenes desempleados o subempleados en puestos de trabajo técnicos y formales.",
+            "indicator": "Tasa de empleo formal en la población joven de 18 a 29 años del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente pavimentación e infraestructura vial rústica en los asentamientos de las laderas de los cerros, lo que genera alta suspensión de polvo atmosférico y problemas respiratorios crónicos.",
+            "objective": "Mejorar la transitabilidad urbana mediante el asfaltado, construcción de muros de contención y veredas, mitigando el material particulado.",
+            "goal": "Reducir al 35% el déficit de pavimentación y accesos peatonales en las zonas de laderas del distrito.",
+            "indicator": "Porcentaje de vías locales y pasajes de laderas pendientes de pavimentación y estabilización de taludes."
+          },
+          {
+            "problem": "Crítica acumulación de residuos sólidos y proliferación de puntos críticos de basura en las avenidas periféricas, riberas del río y zonas limítrofes por desborde de la capacidad operativa de recojo.",
+            "objective": "Optimizar el sistema integral de gestión de residuos sólidos urbanos mediante la mejora del servicio de recolección y la educación ambiental.",
+            "goal": "Lograr el 100% de recolección eficiente de residuos domiciliarios y comerciales, erradicando los botaderos informales.",
+            "indicator": "Toneladas de residuos sólidos recolectados eficientemente al día y número de puntos críticos erradicados."
+          },
+          {
+            "problem": "Grave degradación ambiental, acumulación de desmonte y contaminación química en el cauce del río Rímac a su paso por el distrito, afectando el ecosistema urbano.",
+            "objective": "Recuperar ambiental y paisajísticamente la ribera del río Rímac, reduciendo las descargas contaminantes y los botaderos de desmonte.",
+            "goal": "Recuperar el 100% del tramo ribereño correspondiente al distrito, transformándolo en un espacio seguro y sostenible.",
+            "indicator": "Porcentaje de la ribera del río Rímac recuperada y libre de residuos sólidos urbanos e industriales."
+          },
+          {
+            "problem": "Escasez de áreas verdes urbanas y pérdida de la biodiversidad estacional en ecosistemas frágiles como las Lomas de Amancaes, amenazadas por invasiones y tráfico de tierras.",
+            "objective": "Incrementar los metros cuadrados de áreas verdes por habitante y proteger los ecosistemas de lomas del distrito frente al crecimiento urbano desordenado.",
+            "goal": "Incrementar el índice a 5.5 m² de área verde por habitante y asegurar la protección estricta del ecosistema de las Lomas de Amancaes.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante y hectáreas de lomas protegidas con delimitación física y vigilancia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Crónica baja capacidad de recaudación fiscal y alto índice de morosidad en el pago de arbitrios e impuesto predial, lo que limita la inversión pública autónoma y genera alta dependencia de transferencias estatales.",
+            "objective": "Fortalecer la salud financiera del municipio optimizando la recaudación fiscal mediante incentivos, modernización y ampliación de la base tributaria.",
+            "goal": "Elevar la recaudación efectiva al 75% del presupuesto anual proyectado, reduciendo la morosidad histórica en un 40%.",
+            "indicator": "Porcentaje de eficiencia en la recaudación del impuesto predial y arbitrios frente al potencial estimado del padrón."
+          },
+          {
+            "problem": "Falta de actualización de los planes de desarrollo urbano, zonificación patrimonial y vulnerabilidad estructural del tejido arquitectónico antiguo ante eventos sísmicos.",
+            "objective": "Planificar el crecimiento urbano sostenible del distrito, compatibilizando la modernización con las normas de conservación del patrimonio histórico.",
+            "goal": "Contar con el 100% de los instrumentos de gestión urbana actualizados y visados en articulación con el Ministerio de Cultura y la Municipalidad Metropolitana de Lima.",
+            "indicator": "Porcentaje del territorio distrital regulado bajo un Plan de Desarrollo Urbano Sostenible y Plan de Gestión de Riesgo ante Desastres actualizado."
+          },
+          {
+            "problem": "Débiles espacios de participación ciudadana y desconfianza de la población en los mecanismos de concertación y rendición de cuentas municipales.",
+            "objective": "Fortalecer la gobernanza participativa, la transparencia institucional y los canales de cocreación entre los vecinos y el gobierno local.",
+            "goal": "Lograr que el 100% de los comités vecinales y juntas sectoriales participen activamente y con rendición de cuentas digital transparente.",
+            "indicator": "Nivel de ejecución de proyectos acordados en el Presupuesto Participativo y porcentaje de solicitudes de transparencia atendidas a tiempo."
+          },
+          {
+            "problem": "Caos vehicular, informalidad en el transporte de mototaxis y saturación de los ejes de interconexión vial con el resto de Lima.",
+            "objective": "Ordenar el sistema de transporte local y el tránsito vehicular mediante la fiscalización articulada y la promoción de la movilidad sostenible.",
+            "goal": "Formalizar y ordenar al 100% de las asociaciones de transporte menor (mototaxis) e implementar paraderos formales en vías principales.",
+            "indicator": "Número de paraderos autorizados respetados y porcentaje de mototaxis formales empadronados que cumplen con la normativa de seguridad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-_N1YTWahn__A5t-Lz11UusYf041SoIvt",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/_N1YTWahn__A5t-Lz11UusYf041SoIvt",
+      "sha256": "f76899489ecf894f4d791d1b8720c7328bb5d636f9faf2302d1ce560bd5d52a7",
+      "accessedAt": "2026-10-02T23:02:03.978Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022519",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022519",
+      "sha256": "50620dba664e8ffd52dc21f03252aa81d8d35aaf0ad0e5e5d1ecea39eb74e0a6",
+      "accessedAt": "2026-10-02T23:02:04.582Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

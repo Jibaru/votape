@@ -1,0 +1,248 @@
+{
+  "id": "NyJzD8IXSxC546e5tuRNCp-D_9pSHgGy",
+  "slug": "ronald-eulogio-fuertes-vega",
+  "electionId": "erm-2026",
+  "name": "Ronald Eulogio Fuertes Vega",
+  "givenNames": "Ronald Eulogio",
+  "surnames": "Fuertes Vega",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:30.931Z",
+      "sourceId": "jne-hv-NyJzD8IXSxC546e5tuRNCp-D_9pSHgGy"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN MEDICINA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2003"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "MEDICO CIRUJANO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2003"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "MEDICO CIRUJANO",
+      "from": "2020",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE ATE",
+      "role": "MEDICO CIRUJANO",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN LUIS",
+      "role": "ALCALDE",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "1993",
+      "to": "1995"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "FUERTES EN SAN LUIS",
+      "from": "2010",
+      "to": "2011"
+    },
+    {
+      "position": "SECRETARIO NACIONAL DE DESCENTRALIZACIÓN, GOBIERNOS REGIONALES Y LOCALES",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2015",
+      "to": "2017"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2023"
+    },
+    {
+      "party": "TODOS POR EL PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 46260,
+        "public": 41000,
+        "private": 5260
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 11500,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "ACTUALMENTE VENGO PRESTANDO SERVICIO BAJO CONTRATO DE LOCACIÓN DE SERVICIO, ADJUNTO DOCUMENTO DE DECLINACIÓN DE RENOVACIÓN EN EL MES DE SETIEMBRE AL MES DE OCTUBRE."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/56c0157d-c47b-41e2-9074-b781cbd31ce1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7b3afa9c-2111-4241-be1f-48e42007ea6e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Baja oferta de educación técnica y limitada inserción laboral juvenil.",
+            "objective": "Mejorar el acceso a la educación técnica y promover la empleabilidad juvenil.",
+            "goal": "Incrementar en 40% la inserción laboral juvenil.",
+            "indicator": "Porcentaje de jóvenes insertados laboralmente mediante programas municipales."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud básica",
+            "objective": "Mejorar el acceso y la cobertura de los servicios de salud con enfoque preventivo",
+            "goal": "Alcanzar una cobertura del 90% de la población",
+            "indicator": "Porcentaje de población atendida en servicios de salud básica"
+          },
+          {
+            "problem": "Alto índice de delincuencia e inseguridad ciudadana.",
+            "objective": "Reducir los índices de delincuencia y fortalecer el sistema integral de seguridad ciudadana.",
+            "goal": "Reducir en 30% los casos de pandillaje y microcomercialización de drogas.",
+            "indicator": "Porcentaje de reducción de delitos reportados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasa promoción turística del distrito.",
+            "objective": "Fomentar el turismo interno mediante circuitos gastronómicos y culturales.",
+            "goal": "Alcanzar 90% de implementación.",
+            "indicator": "Porcentaje de implementación del eje gastronómico distrital."
+          },
+          {
+            "problem": "Débil fortalecimiento empresarial y generación de empleo.",
+            "objective": "Fortalecer capacidades empresariales y promover el empleo local.",
+            "goal": "Incrementar en 20% el empleo local.",
+            "indicator": "Incremento del empleo local"
+          },
+          {
+            "problem": "Baja inversión privada y limitado desarrollo económico local.",
+            "objective": "Promover el desarrollo económico local y la inversión privada.",
+            "goal": "Incrementar en 25% las licencias de funcionamiento.",
+            "indicator": "Incremento de licencias de funcionamiento otorgadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Bajo porcentaje de áreas verdes en el distrito",
+            "objective": "Incrementar y conservar áreas verdes públicas",
+            "goal": "Incrementar en 30% la arborización.",
+            "indicator": "Porcentaje de arborización de parques y calles."
+          },
+          {
+            "problem": "Deterioro de calles, veredas y espacios públicos.",
+            "objective": "Mejorar la infraestructura urbana y los espacios públicos.",
+            "goal": "Rehabilitar el 90% de las vías priorizadas.",
+            "indicator": "Porcentaje de calles rehabilitadas y pavimentadas."
+          },
+          {
+            "problem": "Baja conciencia ambiental y manejo inadecuado de residuos sólidos.",
+            "objective": "Mejorar la habitabilidad y la gestión de residuos sólidos.",
+            "goal": "Reducir en 15% la disposición inadecuada de residuos.",
+            "indicator": "Reducción de basura fuera del horario de recojo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja calidad en la atención al contribuyente y trámites municipales",
+            "objective": "Mejorar la eficiencia y calidad de los servicios municipales",
+            "goal": "Incrementar la satisfacción en 35%.",
+            "indicator": "Porcentaje de satisfacción del contribuyente."
+          },
+          {
+            "problem": "Baja participación ciudadana en la gestión municipal",
+            "objective": "Fomentar la participación activa de los vecinos en la toma de decisiones",
+            "goal": "Alcanzar la participación del 50% de vecinos convocados.",
+            "indicator": "Porcentaje de vecinos que participan en consultas públicas."
+          },
+          {
+            "problem": "Falta de digitalización de los procesos municipales",
+            "objective": "Cerrar la brecha digital del municipio",
+            "goal": "Alcanzar el 90% de trámites digitalizados",
+            "indicator": "Porcentaje de digitalización de trámites municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-NyJzD8IXSxC546e5tuRNCp-D_9pSHgGy",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/NyJzD8IXSxC546e5tuRNCp-D_9pSHgGy",
+      "sha256": "4bd15568d148a32226071c97bdec632a7e528c3e938f8aa101359f66b4e8a441",
+      "accessedAt": "2026-10-02T23:04:30.931Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017054",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017054",
+      "sha256": "0135ce9634db4734a798f28905894d96cafbf5e093670f7f639a95c659ee749a",
+      "accessedAt": "2026-10-02T23:04:31.478Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

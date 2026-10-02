@@ -1,0 +1,220 @@
+{
+  "id": "iaAPoF8tvn0gE1pahm5TEIsn13u3i5SS",
+  "slug": "enrique-bruno-palma-salinas",
+  "electionId": "erm-2026",
+  "name": "Enrique Bruno Palma Salinas",
+  "givenNames": "Enrique Bruno",
+  "surnames": "Palma Salinas",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:47.615Z",
+      "sourceId": "jne-hv-iaAPoF8tvn0gE1pahm5TEIsn13u3i5SS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Federico Villareal",
+        "program": "Odontología",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Centro Dental Privado",
+      "role": "Odontología General",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "Secretario de Organización Distrital",
+      "party": "PARTIDO POLÍTICO PARTIDO DEL BUEN GOBIERNO",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO PRIN",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 0,
+        "private": 36000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "0",
+        "value": 0
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bcae5582-4f21-4106-9e57-8a83c06ae4ce.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ccb35473-0ea5-4196-b74b-dd852c07f0bc.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios de salud de manera oportuna, especialmente en zonas de mayor dificultad de acceso como Huaycán y Santa Clara.",
+            "objective": "Ampliar el acceso a servicios de salud de manera oportuna para la población, con énfasis en la atención preventiva y domiciliaria.",
+            "goal": "Incrementar en un 20% el acceso oportuno a servicios de salud para el año 2030.",
+            "indicator": "Porcentaje de vecinos que acceden oportunamente a servicios de salud."
+          },
+          {
+            "problem": "Serenazgo desorganizado, sin formación técnica, centralizado y con videovigilancia ineficaz, lo que contribuye a la alta percepción de inseguridad ciudadana.",
+            "objective": "Profesionalizar y descentralizar el Serenazgo, implementar cámaras inteligentes, drones y ciberseguridad para fortalecer la seguridad en el distrito.",
+            "goal": "Al 2028, el 100% de los serenos estarán certificados. Se establecerán 4 bases zonales, se instalarán 500 cámaras y 10 drones, y se protegerá el 100% de los sistemas.",
+            "indicator": "Porcentaje de serenos certificados; número de bases zonales; número de cámaras y drones; porcentaje de sistemas protegidos."
+          },
+          {
+            "problem": "La gestión edil no atiende la problemática de la deserción escolar y el limitado acceso de los jóvenes a servicios educativos técnicos o superiores.",
+            "objective": "Reducir la tasa de deserción escolar y el número de jóvenes que no acceden a formación técnica o superior mediante programas coordinados.",
+            "goal": "Para el año 2030, se reducirá a la mitad el porcentaje de niños que abandonan la educación escolar y de jóvenes que no estudian.",
+            "indicator": "Porcentaje de niños que abandonan sus estudios escolares y de jóvenes que no estudian."
+          },
+          {
+            "problem": "Precaria infraestructura urbana inclusiva y servicios insuficientes para adultos mayores, afectando su transitabilidad y bienestar.",
+            "objective": "Mejorar la infraestructura urbana inclusiva y fortalecer el bienestar de los adultos mayores a través de servicios especializados.",
+            "goal": "Al 2030, se aumentará en un 25% el número de adultos mayores que acceden a infraestructura urbana inclusiva y/o servicios municipales.",
+            "indicator": "Porcentaje de adultos mayores que acceden a infraestructura urbana inclusiva y/o servicios municipales."
+          },
+          {
+            "problem": "Débil gestión del riesgo de desastres en el distrito, con alta vulnerabilidad a huaicos e inundaciones en zonas como el Cerro El Pino y las riberas del río Rímac.",
+            "objective": "Fortalecer las acciones de prevención y las capacidades de respuesta ante posibles desastres naturales.",
+            "goal": "Al 2030, se habrán cumplido al 100% las actividades del plan de gestión de riesgos.",
+            "indicator": "Porcentaje de cumplimiento del Plan de Prevención y Reducción de Riesgo de Desastres."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Los trabajadores ambulantes desarrollan sus labores en la informalidad y en condiciones precarias, especialmente en Santa Clara y zonas aledañas al Centro Logístico.",
+            "objective": "Controlar y ordenar el comercio ambulatorio, promoviendo su gradual reducción y formalización a través de un programa piloto con enfoque inclusivo.",
+            "goal": "Al 2030, no menos del 50% de los trabajadores ambulantes participarán y se beneficiarán de los servicios del programa piloto.",
+            "indicator": "Número de trabajadores ambulantes registrados que se benefician del programa piloto de formalización."
+          },
+          {
+            "problem": "Limitadas oportunidades para los emprendedores de expandir sus negocios e incrementar sus ingresos debido a un apoyo municipal insuficiente.",
+            "objective": "Promover el fortalecimiento de los negocios de los emprendedores y el incremento de sus ingresos a través de asistencia técnica, capital semilla y acceso a mercados.",
+            "goal": "Al 2030, se incrementará en un 100% el número de emprendedores beneficiados en comparación con el período de gobierno anterior.",
+            "indicator": "Número de emprendedores beneficiados por los programas municipales."
+          },
+          {
+            "problem": "Débil gestión municipal en materia de promoción del turismo, lo que reduce las posibilidades de desarrollo económico basadas en el potencial del distrito.",
+            "objective": "Fortalecer la gestión y promoción del turismo interno mediante el desarrollo de circuitos turísticos, culturales y gastronómicos.",
+            "goal": "Para el año 2030, Ate habrá fortalecido el 100% de sus circuitos turísticos.",
+            "indicator": "Número de actividades que fortalecen el turismo en el distrito."
+          },
+          {
+            "problem": "El Centro Logístico de Ate, si bien genera empleo, también ocasiona congestión vehicular, contaminación ambiental e inseguridad en la zona.",
+            "objective": "Implementar un modelo de centro logístico sostenible y seguro mediante una ventanilla única, corredores exclusivos y monitoreo de calidad del aire.",
+            "goal": "Lograr la formalización del 70% de operadores, reducir en 40% la congestión, disminuir en 20% las emisiones de PM2.5 e implementar el 80% de los acuerdos de la mesa de diálogo.",
+            "indicator": "Porcentaje de operadores formalizados; porcentaje de reducción de congestión; porcentaje de reducción de emisiones de PM2.5; porcentaje de implementación de acuerdos vecinales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La gestión de residuos sólidos se encuentra concentrada en la recolección y no está suficientemente orientada a la valorización y la economía circular.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos municipales con un enfoque de economía circular, escalando la recolección selectiva y la valorización.",
+            "goal": "Para 2030: 35% de viviendas priorizadas en segregación; 25% de incremento en toneladas valorizadas; y 100% de recicladores formalizados.",
+            "indicator": "Porcentaje de viviendas que segregan; toneladas de residuos valorizadas; número de recicladores formalizados."
+          },
+          {
+            "problem": "Necesidad de consolidar una infraestructura verde resiliente y de mejor calidad ecológica debido al déficit de áreas verdes y arbolado urbano.",
+            "objective": "Consolidar una red distrital de infraestructura verde y arbolado urbano resiliente, incrementando la cobertura vegetal y la sombra en el distrito.",
+            "goal": "Para 2030: plantar 50,000 árboles nuevos; crear o rehabilitar 20,000 m² de áreas verdes; y que el 90% de las nuevas intervenciones usen especies de bajo consumo de agua.",
+            "indicator": "Número de árboles plantados; metros cuadrados de nuevas áreas verdes; porcentaje de riego tecnificado."
+          },
+          {
+            "problem": "Amenaza de destrucción del Bosque Urbano Separadora Industrial por el proyecto del Anillo Vial Periférico, cuyo expediente técnico está desactualizado.",
+            "objective": "Declarar el bosque como área intangible y exigir la revisión del expediente técnico del Anillo Vial Periférico al Ministerio de Transportes y Comunicaciones (MTC).",
+            "goal": "Lograr la protección del 100% del bosque, con cero árboles talados.",
+            "indicator": "Porcentaje del bosque protegido versus el área afectada por proyectos viales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El municipio opera con una débil planificación interna, instrumentos de gestión desactualizados y una transparencia limitada.",
+            "objective": "Modernizar y transparentar la gestión municipal en beneficio de los vecinos, actualizando los instrumentos de gestión y alineándolos con las políticas nacionales.",
+            "goal": "Al 2030, se cumplirá al 100% con las acciones de modernización planificadas.",
+            "indicator": "Porcentaje de avance de las acciones estratégicas para la modernización de la gestión."
+          },
+          {
+            "problem": "Fragmentación de los sistemas digitales municipales, que operan de manera aislada, limitando la eficiencia, la transparencia y la participación ciudadana.",
+            "objective": "Modernizar la gestión municipal mediante la implementación de un ecosistema digital integrado que garantice eficiencia administrativa, transparencia y participación ciudadana.",
+            "goal": "Lograr una mayor confianza ciudadana en la gestión, reducir tiempos y costos en trámites, y asegurar un control social más efectivo.",
+            "indicator": "Creación de un sistema único integrado; publicación en tiempo real del presupuesto y ejecución de obras; implementación de consultas vecinales en línea."
+          },
+          {
+            "problem": "Ausencia de una Oficina General de Integridad Institucional, a pesar de ser un mandato normativo, debido a la desactualización de los instrumentos de gestión.",
+            "objective": "Actualizar los instrumentos de gestión (ROF, MCC, CAP, MOF) para crear e institucionalizar la Oficina General de Integridad Institucional.",
+            "goal": "En el primer año de gestión, se actualizarán los instrumentos de gestión y se creará la Oficina General de Integridad Institucional, con un gerente designado por concurso público.",
+            "indicator": "Creación e institucionalización de la Oficina General de Integridad Institucional."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-iaAPoF8tvn0gE1pahm5TEIsn13u3i5SS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/iaAPoF8tvn0gE1pahm5TEIsn13u3i5SS",
+      "sha256": "4097ca3535568572e8f7e2140d9da4d46700fd2da90bce4e55ff5ed07d18083a",
+      "accessedAt": "2026-10-02T22:50:47.615Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021941",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021941",
+      "sha256": "726283a0c235bbfc13c14593ec01989db7e6a523f1aced976877df304f61936a",
+      "accessedAt": "2026-10-02T22:50:48.141Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

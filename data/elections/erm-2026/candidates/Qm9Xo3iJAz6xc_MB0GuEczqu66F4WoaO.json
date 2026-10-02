@@ -1,0 +1,230 @@
+{
+  "id": "Qm9Xo3iJAz6xc_MB0GuEczqu66F4WoaO",
+  "slug": "aldo-horacio-rosales-pacheco",
+  "electionId": "erm-2026",
+  "name": "Aldo Horacio Rosales Pacheco",
+  "givenNames": "Aldo Horacio",
+  "surnames": "Rosales Pacheco",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:55.007Z",
+      "sourceId": "jne-hv-Qm9Xo3iJAz6xc_MB0GuEczqu66F4WoaO"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "COPEV - FPV",
+        "program": "ENTRENADOR DE VOLEIBOL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "FEDERACION PERUANA DE FUTBOL",
+        "program": "ARBITRO OFICIAL DE FUTBOL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "LICENCIADO EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACION",
+        "program": "MEDICION Y EVALUACION DE CALIDAD EDUCATIVA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CEP REINA DE LAS AMERICAS",
+      "role": "DOCENTE",
+      "from": "2012",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIVERSIDAD CATOLICA SEDES SAPIENTIAE",
+      "role": "DOCENTE",
+      "from": "2008",
+      "to": "2026"
+    },
+    {
+      "employer": "CEP. REINA DE LAS AMERICAS SEC. UGEL 03 CERCADO",
+      "role": "DOCENTE",
+      "from": "2015",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 99062.86,
+        "public": 50896.49,
+        "private": 48166.37
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "COLOR AZUL",
+        "value": 86000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "DEMANDA POR FILIACION EXP. 00743-2025-0-18-19-JP-FC-07",
+    "MIS INGRESOS EN EL SECTOR PUBLICO SON DEBIDO A MI LABOR COMO DOCENTE",
+    "MIS INGRESOS EN EL SECTOR PRIVADO SON DEBIDO A MI LABOR COMO DOCENTE"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a6addf69-5594-478b-b5a0-98c14f3dc20e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4ef21634-1057-4e1b-933c-8e0a8e4a5927.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de la anemia infantil y casos de tuberculosis que afectan la salud de la población del distrito.",
+            "objective": "Implementar programas de salud como \"Victoria Sin Anemia\", \"Victoria Sin Desnutrición\" y \"Victoria Libre de Tuberculosis\", y establecer Clínicas Municipales con servicios de medicina general, pediatría, psicología, nutrición y odontología.",
+            "goal": "Beneficiar a la población con programas de salud preventivos y de atención primaria para mejorar su calidad de vida.",
+            "indicator": "Tasa de prevalencia de anemia infantil y tuberculosis. Número de atenciones realizadas en las clínicas municipales."
+          },
+          {
+            "problem": "Deterioro y ocupación indebida de parques y espacios públicos, limitando las áreas de recreación y esparcimiento para los vecinos.",
+            "objective": "Ejecutar el programa \"La Victoria Recupera sus Espacios\" para renovar parques y losas deportivas, e instalar iluminación LED, gimnasios al aire libre, juegos infantiles y cámaras de seguridad.",
+            "goal": "Recuperar 50 espacios públicos durante la gestión.",
+            "indicator": "Número de parques y espacios públicos recuperados."
+          },
+          {
+            "problem": "Limitadas oportunidades de desarrollo y empleabilidad para jóvenes y mujeres en situación de vulnerabilidad.",
+            "objective": "Desarrollar los programas \"Victoria Joven Trabaja\" y \"Mujer Emprende y Progresa\" para ofrecer capacitación técnica y en oficios, y articular una bolsa de trabajo municipal con empresas privadas.",
+            "goal": "Capacitar a 10,000 jóvenes para el empleo y a 8,000 madres solteras y mujeres vulnerables.",
+            "indicator": "Número de jóvenes y mujeres capacitados. Número de beneficiarios insertados en el mercado laboral."
+          },
+          {
+            "problem": "Deficiencias en la atención y protección de la población de adultos mayores del distrito.",
+            "objective": "Fortalecer el Centro Integral de Atención al Adulto Mayor (CIAM), implementar servicios de atención domiciliaria y organizar actividades recreativas a través del programa \"Victoria Te Cuida\".",
+            "goal": "Beneficiar a 10,000 adultos mayores.",
+            "indicator": "Número de adultos mayores atendidos a través de los programas municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad comercial y existencia de trámites burocráticos que obstaculizan el desarrollo de los emprendedores.",
+            "objective": "Implementar el programa \"Emprende Victoria\" con un Centro Municipal de Desarrollo Empresarial para brindar asesoría gratuita y una Ventanilla Única para simplificar los trámites de formalización.",
+            "goal": "Formalizar 10,000 negocios.",
+            "indicator": "Número de negocios formalizados. Reducción del tiempo promedio para la constitución de empresas."
+          },
+          {
+            "problem": "Falta de asistencia técnica y capacitación para los emprendedores del distrito, lo que limita su competitividad y crecimiento.",
+            "objective": "Crear la \"Escuela Municipal del Emprendedor\" para impartir capacitación en gestión empresarial, marketing digital, comercio electrónico e inteligencia artificial aplicada a negocios.",
+            "goal": "Capacitar a 20,000 emprendedores.",
+            "indicator": "Número de emprendedores capacitados a través de los programas municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Proliferación de microbasurales y contaminación generalizada debido a una inadecuada gestión de residuos sólidos y falta de cultura ambiental.",
+            "objective": "Ejecutar el \"Programa La Victoria Limpia\" para la eliminación de microbasurales, el establecimiento de nuevas rutas de recolección y el fomento del reciclaje en el distrito.",
+            "goal": "Implementar un plan de choque de limpieza y fumigación en los primeros 100 días de gestión.",
+            "indicator": "Número de microbasurales eliminados. Toneladas de residuos sólidos reciclados."
+          },
+          {
+            "problem": "Carencia de servicios de salud y protección para los animales domésticos y en situación de abandono en el distrito.",
+            "objective": "Desarrollar el programa \"La Victoria Amiga de las Mascotas\", que incluye la creación de una Clínica Veterinaria Municipal, un Refugio Municipal y la ejecución de campañas de adopción y esterilización.",
+            "goal": "Crear la Clínica Veterinaria Municipal, el Refugio Municipal de Mascotas y realizar 15,000 esterilizaciones.",
+            "indicator": "Número de esterilizaciones realizadas. Establecimiento y operatividad de la clínica y el refugio municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, manifestada en robos, hurtos, extorsiones y microcomercialización de drogas.",
+            "objective": "Implementar el programa \"Victoria Segura 24/7\" mediante el incremento del serenazgo, patrullaje integrado con la Policía Nacional, instalación de cámaras inteligentes y la creación de una red de seguridad vecinal.",
+            "goal": "Reducir la delincuencia en un 30% e instalar 200 cámaras inteligentes.",
+            "indicator": "Porcentaje de reducción de la tasa de delincuencia. Índice de percepción de inseguridad."
+          },
+          {
+            "problem": "Desconfianza ciudadana hacia la gestión municipal, percepción de corrupción y lentitud en los trámites administrativos.",
+            "objective": "Establecer una \"Política de Tolerancia Cero\" contra la corrupción, implementando un portal de transparencia total, auditorías permanentes y un canal de denuncias, además de modernizar la gestión con un \"Gobierno Digital\".",
+            "goal": "Digitalizar el 80% de los trámites municipales.",
+            "indicator": "Porcentaje de trámites administrativos digitalizados. Índice de Percepción de la Corrupción."
+          },
+          {
+            "problem": "Débil participación ciudadana en los asuntos públicos y falta de articulación entre los vecinos y la municipalidad.",
+            "objective": "Ejecutar el programa \"43 Zonas, 43 Soluciones\" para la conformación de comités vecinales y crear la \"Escuela de Liderazgo Vecinal\" para la formación ciudadana permanente.",
+            "goal": "Implementar 43 comités vecinales.",
+            "indicator": "Número de comités vecinales conformados y activos en el distrito."
+          },
+          {
+            "problem": "Riesgo de ejecución de obras públicas de baja calidad o que queden inconclusas, afectando la infraestructura y el presupuesto del distrito.",
+            "objective": "Implementar el \"Programa Infraestructura Segura y Durable\", asegurando la contratación de empresas con experiencia acreditada, certificaciones internacionales, supervisión técnica independiente y garantías obligatorias.",
+            "goal": "Alcanzar cero obras inconclusas.",
+            "indicator": "Número de obras inconclusas al final del período de gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Qm9Xo3iJAz6xc_MB0GuEczqu66F4WoaO",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Qm9Xo3iJAz6xc_MB0GuEczqu66F4WoaO",
+      "sha256": "4b6fd059f52871ca50041725828803446bdc9d327fa59d17d0d835d1ca753c18",
+      "accessedAt": "2026-10-02T22:57:55.007Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022214",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022214",
+      "sha256": "6c9b72947305dbeab91f8fe7b3040393952771aef7dca2417ad0eac40afde522",
+      "accessedAt": "2026-10-02T22:57:55.483Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

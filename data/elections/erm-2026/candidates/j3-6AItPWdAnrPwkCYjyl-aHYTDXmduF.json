@@ -1,0 +1,253 @@
+{
+  "id": "j3-6AItPWdAnrPwkCYjyl-aHYTDXmduF",
+  "slug": "amilcar-alessio-cantella-vega",
+  "electionId": "erm-2026",
+  "name": "Amilcar Alessio Cantella Vega",
+  "givenNames": "Amilcar Alessio",
+  "surnames": "Cantella Vega",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:08.546Z",
+      "sourceId": "jne-hv-j3-6AItPWdAnrPwkCYjyl-aHYTDXmduF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN IGNACIO DE LOYOLA",
+        "program": "ESTUDIANTE",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "SPORTS MANAGEMENT SCHOOL",
+        "program": "GESTION Y ADMINISTRACION DEPORTIVA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado",
+        "institution": "INSTITUTO PERUANO DEL DEPORTE",
+        "program": "EXCELENCIA EN LA GESTIÓN DEPORTIVA MUNICIPAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CATÓLICA DEL PERÚ",
+        "program": "ESPECIALIZACIÓN EN MARKETING Y PATROCINIO DEPORTIVO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "COMITE OLIMPICO PERUANO",
+        "program": "DIPLOMADO EN GESTIÓN DEPORTIVA AVANZADA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD INTERNACIONAL DE VALENCIA",
+        "program": "DIPLOMA DE EXTENSIÓN UNIVERSITARIA EN GESTIÓN Y ADMINISTRACIÓN DEPORTIVA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ONE COMUNICACION PUBLICITARIA S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2016",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE MIRAFLORES",
+      "role": "ESPECIALISTA EN DEPORTE",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 182400,
+        "public": 144000,
+        "private": 38400
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 27385.85,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 344669,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ONE COMUNICACION PUBLICITARIA",
+        "type": "ACCIONES",
+        "quantity": 90,
+        "value": 900
+      }
+    ]
+  },
+  "additionalInfo": [
+    "SOY COORDINADOR DEL CLUB REGATAS LIMA DEL DEPORTE SQUASH.",
+    "TESORERO DE LA ASOCIACIÓN PERUANA DE MARKETING DEPORTIVO APEMD.",
+    "SOY VICEPRESIDENTE DE LA CONFEDERACIÓN SUDAMERICA DE SQUASH."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8b1e8adf-a44a-401c-aa02-fd43a0b0a6f3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3d914007-0e26-447c-9136-cc464bc6b7ab.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de la violencia familiar y de género que afecta el bienestar de niños, niñas, adolescentes y mujeres en el distrito.",
+            "objective": "Fortalecer los mecanismos de prevención, promover relaciones saludables, garantizar atención oportuna y reducir progresivamente la incidencia de casos de violencia en el distrito.",
+            "goal": "Implementar un programa integral para prevenir, detectar y atender situaciones de violencia, y crear un Observatorio contra la Violencia de la Mujer para fortalecer la toma de decisiones basada en evidencia.",
+            "indicator": "Incorporar profesionales especializados en atención y prevención, conformar redes comunitarias de protección e incrementar las denuncias oportunas y la atención integral a víctimas."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud integrales y oportunos para los vecinos, especialmente para poblaciones vulnerables como adultos mayores y personas con discapacidad.",
+            "objective": "Acercar servicios médicos de calidad a los vecinos para reducir tiempos de espera, facilitar el diagnóstico temprano y complementar la oferta de salud existente en el distrito.",
+            "goal": "Crear un Policlínico Municipal que ofrezca servicios preventivos y complementarios, e implementar un servicio de telemedicina para adultos mayores y personas con movilidad reducida.",
+            "indicator": "Incrementar el acceso a servicios de salud, mejorar el diagnóstico temprano de enfermedades y reducir la prevalencia de enfermedades crónicas no controladas."
+          },
+          {
+            "problem": "Insuficiente infraestructura y oferta de programas para el desarrollo deportivo y la promoción de la actividad física en la comunidad.",
+            "objective": "Convertir a Miraflores en la capital deportiva del Perú, promoviendo el deporte como herramienta de salud, integración social y desarrollo humano.",
+            "goal": "Crear el Centro Promotor de la Raqueta, modernizar el Complejo Deportivo Bonilla e implementar programas como la Vía Exclusiva Runner y Parques Activos para democratizar el acceso al deporte.",
+            "indicator": "Construir nuevas instalaciones y equipamiento especializado, programar actividades regulares en todos los parques e incrementar la participación vecinal en actividades deportivas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Mecanismos insuficientes y poco efectivos para conectar la oferta y demanda de empleo, dificultando la inserción laboral y el desarrollo de competencias de los trabajadores locales.",
+            "objective": "Facilitar la inserción laboral, reducir tiempos de búsqueda de empleo, fortalecer la competitividad de los trabajadores locales y contribuir al desarrollo económico del distrito.",
+            "goal": "Transformar la Bolsa de Trabajo Municipal en una Plataforma Integral de Empleabilidad, incorporando herramientas digitales y programas específicos para diversos grupos poblacionales.",
+            "indicator": "Implementar una plataforma digital de intermediación laboral, organizar ferias de empleo periódicas e incrementar las colocaciones laborales efectivas."
+          },
+          {
+            "problem": "Inexistencia de un ecosistema de innovación consolidado que brinde apoyo integral a emprendedores y startups para potenciar su crecimiento y competitividad.",
+            "objective": "Consolidar un ecosistema de innovación que genere empleo, inversión y desarrollo económico sostenible, y posicionar a Miraflores como uno de los principales ecosistemas de innovación urbana del país.",
+            "goal": "Crear un Centro de Formación y Emprendimiento Municipal y un programa de incentivos para startups, ofreciendo asesoría, capacitación, incubación y acceso a redes de inversión.",
+            "indicator": "Implementar programas de capacitación y mentoría para emprendedores, incrementar el número de emprendimientos formalizados y lanzar convocatorias y concursos de innovación."
+          },
+          {
+            "problem": "Subutilización del frente costero como motor de desarrollo económico y turístico, debido a la corta permanencia de visitantes y la falta de experiencias integradas.",
+            "objective": "Incrementar el tiempo promedio de permanencia de visitantes, convirtiendo la Costa Verde en un verdadero motor de desarrollo económico, turístico, deportivo y cultural para Miraflores.",
+            "goal": "Impulsar el proyecto Costa Verde 2030 para transformar el frente costero en un ecosistema urbano activo, conectado y multifuncional que incentive la permanencia y el consumo local.",
+            "indicator": "Incrementar la permanencia promedio de visitantes de menos de una hora a más de cuatro horas, duplicar el flujo turístico anual hacia la Costa Verde e incrementar el gasto turístico local asociado al borde costero."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Uso ineficiente del agua potable para el riego de áreas verdes, lo que genera presión sobre las fuentes hídricas y afecta la sostenibilidad ambiental del distrito.",
+            "objective": "Reducir el consumo de agua potable, preservar los espacios verdes, mejorar la eficiencia operativa municipal y fortalecer la resiliencia ambiental del distrito frente a escenarios de escasez hídrica.",
+            "goal": "Implementar un programa integral de modernización de los sistemas de riego, incorporando tecnologías inteligentes y promoviendo el uso progresivo de aguas tratadas.",
+            "indicator": "Modernizar sistemas de riego en parques y áreas verdes, implementar sensores y monitoreo hídrico, e incrementar el uso de aguas tratadas en riego."
+          },
+          {
+            "problem": "Ausencia de una estrategia integral para medir, reducir y compensar las emisiones de gases de efecto invernadero, limitando el liderazgo del distrito en la acción climática.",
+            "objective": "Posicionar a Miraflores como líder nacional en sostenibilidad urbana y acción climática, contribuyendo a la mejora de la calidad ambiental y la competitividad del distrito.",
+            "goal": "Impulsar una estrategia integral para medir, reducir y compensar las emisiones de gases de efecto invernadero, logrando la certificación de Huella de Carbono Neutral para la municipalidad.",
+            "indicator": "Realizar inventarios de emisiones periódicos, implementar programas de reducción de emisiones y obtener la certificación de Huella de Carbono Neutral."
+          },
+          {
+            "problem": "Gestión inadecuada de residuos sólidos, con un alto volumen enviado a disposición final y una baja cultura de segregación y reciclaje en la comunidad.",
+            "objective": "Reducir la cantidad de residuos enviados a disposición final, promover hábitos de consumo responsable y consolidar a Miraflores como referente nacional en economía circular y gestión ambiental urbana.",
+            "goal": "Fortalecer el programa distrital de economía circular mediante la ampliación de la segregación en la fuente, recolección diferenciada y valorización de residuos, promoviendo una cultura ambiental responsable.",
+            "indicator": "Incrementar la cobertura de segregación domiciliaria, aumentar el volumen de residuos valorizados y fortalecer la red de recicladores formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de una gestión municipal burocrática, con procesos presenciales y poco eficientes que generan desplazamientos innecesarios y largos tiempos de atención para los vecinos.",
+            "objective": "Reducir tiempos de atención, mejorar la calidad de los servicios y optimizar el uso de recursos públicos a través de la digitalización, fortaleciendo la transparencia institucional.",
+            "goal": "Implementar un proceso integral de transformación digital que modernice la gestión pública, optimice los procesos internos y facilite la relación con los vecinos mediante la digitalización progresiva de procedimientos y servicios.",
+            "indicator": "Eliminar progresivamente expedientes físicos, digitalizar procesos prioritarios de atención y autorización, e implementar sistemas de interoperabilidad entre áreas municipales."
+          },
+          {
+            "problem": "Inseguridad ciudadana y falta de una respuesta rápida y eficaz, con una gestión de seguridad centralizada y sin el uso de tecnologías avanzadas.",
+            "objective": "Fortalecer el servicio del serenazgo en las catorce zonas del distrito para dar una respuesta inmediata e implementar un modelo de seguridad inteligente que permita prevenir, detectar y atender eventos que afecten la seguridad.",
+            "goal": "Descentralizar la seguridad ciudadana y crear un Centro Inteligente de Seguridad Distrital (CISD) para centralizar la operación, monitoreo y análisis de los sistemas tecnológicos de seguridad.",
+            "indicator": "Implementar módulos de seguridad ciudadana adicionales, reducir los tiempos de respuesta ante una incidencia delictiva e incrementar la capacidad de prevención del delito mediante monitoreo inteligente."
+          },
+          {
+            "problem": "Bajos niveles de participación ciudadana en la formulación, seguimiento y evaluación de las políticas públicas, lo que debilita la confianza en las instituciones.",
+            "objective": "Construir una cultura de corresponsabilidad ciudadana, donde los vecinos sean protagonistas del desarrollo distrital y contribuyan activamente a la construcción de soluciones para los principales desafíos de Miraflores.",
+            "goal": "Impulsar mecanismos permanentes de participación ciudadana mediante plataformas digitales, consultas vecinales y presupuestos participativos fortalecidos para promover una gestión abierta y colaborativa.",
+            "indicator": "Implementar plataformas digitales de participación, realizar consultas y procesos participativos periódicos, e incrementar la participación ciudadana en la toma de decisiones."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-j3-6AItPWdAnrPwkCYjyl-aHYTDXmduF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/j3-6AItPWdAnrPwkCYjyl-aHYTDXmduF",
+      "sha256": "f3c8e7db70537486eacd9167bebe6c0e33b6188c00f4628607d9799da2302b09",
+      "accessedAt": "2026-10-02T23:00:08.546Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020859",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020859",
+      "sha256": "257774427869bc142a2b68d07e9c3fc9f7d5b5763ec620fd9cbf03e8587d0ce3",
+      "accessedAt": "2026-10-02T23:00:09.169Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

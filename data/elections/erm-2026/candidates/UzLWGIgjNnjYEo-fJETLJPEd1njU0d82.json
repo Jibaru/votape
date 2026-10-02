@@ -1,0 +1,494 @@
+{
+  "id": "UzLWGIgjNnjYEo-fJETLJPEd1njU0d82",
+  "slug": "daniel-belizario-urresti-elera",
+  "electionId": "erm-2026",
+  "name": "Daniel Belizario Urresti Elera",
+  "givenNames": "Daniel Belizario",
+  "surnames": "Urresti Elera",
+  "age": 70,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:43.631Z",
+      "sourceId": "jne-hv-UzLWGIgjNnjYEo-fJETLJPEd1njU0d82"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "ESCUELA MILITAR DE CHORRILLOS",
+        "program": "BACHILLER",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD FEDERICO VILLAREAL",
+        "program": "INGENIERIA ELECTRÓNICA CON MENCIÓN EN TELEMÁTICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "CONGRESISTA",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE LOS OLIVOS",
+      "role": "GERENTE DE SEGURIDAD CIUDADANA",
+      "from": "2019",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "CONGRESISTA DE LA REPÚBLICA",
+      "party": "PODEMOS PERU",
+      "from": "2020",
+      "to": "2021"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA NACIONAL DE POLÍTICA E IDEOLOGÍA",
+      "party": "PODEMOS PERU",
+      "from": "2020",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 144000,
+        "public": 144000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 281717.32,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MERCEDES BENZ 2020 COLOR AZUL",
+        "value": 170000
+      },
+      {
+        "type": "VOLVO AÑO 2021 COLOR GRIS NEGRO",
+        "value": 101100
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "De lo declarado en el punto 2: Más de un mes después, aún no ha cumplido con devolver el expediente al juzgado de origen y le permita resolver el pedido formulado de anular o cancelar todos los antecedentes policiales, penales y judiciales.",
+    "Tengo que declarar que, mediante Sentencia del Tribunal Constitucional N° 44/2026 (Expediente N° 02939-2025-PHC/TC), dictada el 6 de febrero de 2026, el Pleno del Tribunal Constitucional declaró nula la sentencia condenatoria y el recurso de nulidad que confirmó la condena de doce años de pena privativa de libertad en mi contra por homicidio calificado dictados en el Expediente 00016-2014-0-5001-SP-PE-01.",
+    "De lo anteriormente declarado, con fecha 10/06/2026 se solicitó la eliminacion de antecedentes penales, judiciales y policiales por la nulidad absoluta de la condena dictada en mi contra. No obstante, pese a haber requerido al Juzgado Penal Supraprovincial Liquidador Transitorio el cumplimiento de plazos, mediante escrito de fecha 18/06/2026, este, con resolucion S/N de fecha 18/06/2026 de reservó la resolución del pedido debido a que la instancia superior."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/08bd9c95-efa5-4ce8-a6a3-905cad8b9f9b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/37aa9306-6d13-4ef7-9fbf-218da8316de2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Uno de cada cuatro adultos mayores en Lima vive solo (INEI, 2025). El 46.2% de los hogares limeños tiene al menos un adulto mayor. La oferta pública de servicios especializados de cuidado, rehabilitación y acompañamiento es insuficiente y fragmentada.",
+            "objective": "Construir un Sistema Metropolitano de Cuidados para adultos mayores que articule servicios de atención domiciliaria, centros de día, voluntariado vecinal y monitoreo de situación de riesgo en los 42 distritos.",
+            "goal": "Sistema Metropolitano de Cuidados operativo en los 42 distritos al 2029. Atención a 50,000 adultos mayores en situación de vulnerabilidad al 2030.",
+            "indicator": "Número de adultos mayores incorporados al Sistema Metropolitano de Cuidados. Número de distritos con programa de acompañamiento activo."
+          },
+          {
+            "problem": "El 81% de los peruanos reconoce que existe discriminación, pero considera que nadie hace nada al respecto (MINJUS, 2013). El 53% considera que los peruanos son racistas. Los principales espacios de discriminación reportados son hospitales públicos (22%), comisarías (19%) y municipalidades (14%) (Mincul, 2017).",
+            "objective": "Crear la primera Defensoría Metropolitana contra la Discriminación en Lima, con capacidad de recibir denuncias, mediar conflictos y promover políticas de inclusión en todos los servicios municipales.",
+            "goal": "Defensoría Metropolitana contra la Discriminación operativa al 2027. 100% de los servicios municipales con protocolo de atención inclusiva al 2030.",
+            "indicator": "Número de denuncias de discriminación recibidas y resueltas por la Defensoría Metropolitana. Porcentaje de servicios municipales con protocolo de atención inclusiva implementado."
+          },
+          {
+            "problem": "Solo el 36.6% de estudiantes de segundo de primaria y el 18.4% de segundo de secundaria alcanzan nivel satisfactorio en comprensión lectora en Lima (ENLA 2023, Minedu 2024). El 47.3% de la población peruana no leyó ningún libro en el último año (Mincul & INEI, 2023).",
+            "objective": "Ampliar el acceso al libro y promover hábitos de lectura en Lima Metropolitana mediante una red de puntos culturales en parques, transporte público y espacios municipales, y el fortalecimiento de las bibliotecas barriales.",
+            "goal": "Implementar Bibliometro Lima con puntos en al menos 12 estaciones del Metro y el Metropolitano al 2028. Incrementar en 15 puntos porcentuales el número de personas que leen al menos un libro al año en Lima, al 2030.",
+            "indicator": "Número de préstamos y usuarios de la Red de Bibliotecas de Tránsito y puntos de lectura metropolitanos. Porcentaje de ciudadanos que declaran haber leído al menos un libro en el último año (encuesta anual)."
+          },
+          {
+            "problem": "Insuficiente articulación de la riqueza cultural y barreras de acceso a la participación en actividades culturales.",
+            "objective": "Fortalecer la identidad cultural, la memoria histórica y el sentido de pertenencia de los ciudadanos hacia Lima mediante la promoción de espacios masivos de participación cultural.",
+            "goal": "Crear el Gran Carnaval Limeño como un pasacalle cultural metropolitano anual y establecer el Carné Cultural Lima Joven para permitir el acceso gratuito o preferencial a museos, teatros y otros espacios culturales.",
+            "indicator": "Creación de eventos culturales masivos. Implementación de programas de acceso a la cultura."
+          },
+          {
+            "problem": "Exclusión y barreras de acceso a servicios especializados de rehabilitación para personas con discapacidad.",
+            "objective": "Fortalecer el acceso de las personas con discapacidad a servicios especializados de rehabilitación, terapias integrales y atención multidisciplinaria.",
+            "goal": "Implementar el primer Centro Terapéutico Municipal Integral de Lima Metropolitana, con atención gratuita, especializada y de calidad para las familias que más lo necesitan.",
+            "indicator": "Implementación de centros terapéuticos. Número de personas con discapacidad atendidas."
+          },
+          {
+            "problem": "El 73.9% de los limeños cuenta con algún seguro de salud, pero uno de cada cinco usuarios del SIS o EsSalud termina yendo a una farmacia porque no encuentra atención o medicamentos (IPE, 2019). La anemia afecta al 29.6% de niños de 6 a 59 meses en Lima (INEI-ENDES, 2024).",
+            "objective": "Acercar servicios de salud preventiva a los vecinos más vulnerables de Lima, con especial foco en la primera infancia, la anemia y la salud materna, mediante campañas descentralizadas y fortalecimiento de la red SISOL.",
+            "goal": "Incrementar en 30% la cobertura de atención preventiva para personas en situación de vulnerabilidad al 2030. Reducir la prevalencia de anemia infantil en Lima de 29.6% a 20% al 2030.",
+            "indicator": "Número de atenciones preventivas en campañas descentralizadas. Prevalencia de anemia en niños de 6 a 59 meses en Lima Metropolitana (ENDES, anual)."
+          },
+          {
+            "problem": "Acceso limitado a una oferta pública y gratuita de deporte para más de dos millones de niños y jóvenes.",
+            "objective": "Promover el incremento del número de personas que practican y realizan actividad física o algún deporte a nivel de Lima Metropolitana.",
+            "goal": "Crear Escuelas Municipales de Formación Deportiva en la infraestructura de los complejos deportivos de la MML, ofreciendo formación gratuita en múltiples disciplinas, y 3 Centros de Alto Rendimiento Deportivo.",
+            "indicator": "Número de Escuelas Municipales de Formación Deportiva (EMFD) y Centros de Alto Rendimiento Deportivo (CARD) creados. Número de beneficiarios."
+          },
+          {
+            "problem": "Bajos resultados de aprendizaje y competencias lectoras en los estudiantes de Lima Metropolitana.",
+            "objective": "Incrementar el acceso a materiales de lectura y servicios bibliotecarios de calidad para fortalecer las competencias lectoras y los logros de aprendizaje de los estudiantes.",
+            "goal": "Implementar el programa “Un Millón de Libros para Lima” para la distribución gratuita a estudiantes de colegios públicos y crear una red de 100 bibliotecas abiertas y módulos de lectura en espacios públicos.",
+            "indicator": "Número de libros distribuidos a estudiantes. Número de bibliotecas y módulos de lectura implementados."
+          },
+          {
+            "problem": "En 2024, Lima concentró 42 de los 162 feminicidios registrados en el país, la cifra más alta de cualquier región (MIMP, 2024). El 47.6% de las víctimas no contaba con medidas de protección antes del crimen (Defensoría del Pueblo, 2024). Más de 36,000 casos de violencia fueron atendidos en los CEM de Lima.",
+            "objective": "Fortalecer la red de protección y atención a mujeres víctimas de violencia en Lima Metropolitana, con casas de refugio, orientación legal y atención psicológica accesibles en los cuatro conos de la ciudad.",
+            "goal": "03 nuevas Casas de Refugio Metropolitanas operativas al 2028 (Lima Norte, Lima Sur y Lima Este). Reducción del 20% en reincidencia de agresores con medidas de protección activas al 2030.",
+            "indicator": "Número de casos atendidos en Casas de Refugio Metropolitanas y cobertura distrital de servicios de atención a víctimas."
+          },
+          {
+            "problem": "Lima tiene apenas 1 m² de área verde por habitante, frente al mínimo de 9 m² recomendado por la OMS (BID, 2022). El 46.8% de los limeños está insatisfecho con los parques y áreas verdes (Lima Cómo Vamos, 2025). El déficit acumulado supera los 56 millones de m².",
+            "objective": "Recuperar, ampliar y mejorar los espacios públicos y áreas verdes de Lima Metropolitana, priorizando los distritos con mayor déficit, mediante la recuperación del eje del río Rímac y programas de intervención barrial.",
+            "goal": "Incrementar el área verde por habitante de 1 m² a 2.5 m² al 2030. Recuperar 500 parques y espacios públicos en todo Lima durante el período de gestión.",
+            "indicator": "M² de área verde por habitante en Lima Metropolitana. Número de parques y espacios públicos recuperados e intervenidos."
+          },
+          {
+            "problem": "El 65.2% de los jóvenes limeños trabaja en condición de informalidad (SENAJU, 2021). Solo el 37.5% accede a educación universitaria y el 22.1% a educación técnica. La falta de oportunidades laborales formales es el principal problema declarado por los jóvenes de Lima.",
+            "objective": "Ampliar las oportunidades de formación técnica, empleo formal y emprendimiento para los jóvenes de Lima, articulando a los municipios distritales, el sector privado y la oferta de formación profesional disponible en la ciudad.",
+            "goal": "30,000 jóvenes capacitados en programas de formación técnica y emprendimiento al 2030. Reducción de 5 puntos porcentuales en la tasa de informalidad juvenil al 2030.",
+            "indicator": "Número de jóvenes capacitados y certificados en programas de formación técnica y emprendimiento municipal. Tasa de informalidad juvenil en Lima Metropolitana (INEI, anual)."
+          },
+          {
+            "problem": "El 75.2% de los limeños siente inseguridad cuando sale a la calle (Lima Cómo Vamos, 2026). Más del 27.8% fue víctima de algún delito en los últimos 12 meses (INEI, 2023). La extorsión, el robo en la vía pública y el sicariato se han extendido a mercados, colegios y zonas residenciales.",
+            "objective": "Reducir la percepción de inseguridad y los delitos contra la persona mediante un sistema metropolitano integrado que articule tecnología, serenazgo, PNP y participación vecinal",
+            "goal": "Reducir la percepción de inseguridad de 75.2% a 36% al 2030",
+            "indicator": "% de ciudadanos que se siente inseguro en su barrio (encuesta Lima Cómo Vamos, anual)"
+          },
+          {
+            "problem": "El 10.4% de la población de Lima Metropolitana presenta algún tipo de discapacidad (INEI, 2017). La mayoría enfrenta barreras de acceso a rehabilitación física, terapia ocupacional y terapia de lenguaje, especialmente en hogares de bajos ingresos. Lima no cuenta con un centro terapéutico municipal integral.",
+            "objective": "Garantizar el acceso a servicios de rehabilitación y terapia para personas con discapacidad en Lima, con énfasis en familias de escasos recursos, mediante la creación del primer Centro Terapéutico Municipal Integral.",
+            "goal": "Centro Terapéutico Municipal Integral operativo al 2027. Atención a 10,000 personas con discapacidad al año al 2030.",
+            "indicator": "Número de personas con discapacidad atendidas en el Centro Terapéutico Municipal y en programas descentralizados distritales."
+          },
+          {
+            "problem": "Deficiente cobertura de servicios de salud preventiva y altos niveles de anemia infantil.",
+            "objective": "Fortalecer el acceso a servicios de salud preventiva, nutrición y bienestar comunitario mediante una red metropolitana descentralizada de atención y promoción de la salud.",
+            "goal": "Incrementar hasta en un 30% la cobertura de salud para atención preventiva a personas en situación de vulnerabilidad y reducir la anemia infantil a través del programa “Cuidemos el Futuro”.",
+            "indicator": "Porcentaje de cobertura de salud para atención preventiva. Tasa de anemia infantil."
+          },
+          {
+            "problem": "Lima concentró 6,925 denuncias de violencia escolar en 2024, la cifra más alta del país (Minedu, 2025). El 76% de colegios supervisados por la Contraloría presentaba deficiencias de seguridad e infraestructura en 2026. Más de 500 colegios privados fueron extorsionados solo en el primer trimestre de 2025 (ANACP, 2025).",
+            "objective": "Implementar el programa Escuelas Seguras 360° para proteger a estudiantes, docentes y personal de los colegios mediante videovigilancia, corredores seguros y coordinación efectiva entre municipalidad, PNP y comunidad educativa.",
+            "goal": "1,000 cámaras de vigilancia instaladas en entornos escolares al 2028. 200 corredores escolares seguros en los distritos con mayor incidencia al 2030.",
+            "indicator": "Número de instituciones educativas incorporadas al sistema de videovigilancia metropolitana. Número de corredores escolares seguros implementados."
+          },
+          {
+            "problem": "El 75.2% de los limeños siente inseguridad cuando sale a la calle (Lima Cómo Vamos, 2026). Más del 27.8% fue víctima de algún delito en los últimos 12 meses (INEI, 2023). La extorsión, el robo en la vía pública y el sicariato se han extendido a mercados, colegios y zonas residenciales.",
+            "objective": "Reducir la percepción de inseguridad y los delitos contra la persona mediante un sistema metropolitano integrado que articule tecnología, serenazgo, PNP y participación vecinal.",
+            "goal": "Reducir la percepción de inseguridad de 75.2% a 36% al 2030.",
+            "indicator": "% de ciudadanos que se siente inseguro en su barrio (encuesta Lima Cómo Vamos, anual)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "San Juan de Lurigancho concentra 450,500 trabajadores informales, la cifra más alta de cualquier distrito de Lima (MTPE, 2025). Se estima que más de 300,000 personas trabajan como comerciantes en la vía pública en Lima. El 68.7% de los trabajadores limeños opera sin contrato formal (INEI, 2025).",
+            "objective": "Reducir la informalidad laboral y comercial en Lima mediante una política de formalización progresiva que combine simplificación de trámites, acompañamiento técnico, acceso a mercados y ordenamiento del espacio público.",
+            "goal": "Reducción de 5 puntos porcentuales en la tasa de informalidad laboral al 2030. 5,000 comerciantes ambulantes formalizados o reubicados en el Cercado de Lima al 2030.",
+            "indicator": "Tasa de informalidad laboral en Lima Metropolitana (INEI, anual). Número de comerciantes ambulantes formalizados o reubicados con acceso a local."
+          },
+          {
+            "problem": "Lima no tiene una plataforma digital integrada que permita a los ciudadanos hacer sus trámites sin ir a la municipalidad. Los procesos son lentos, documentados en papel y propensos a la corrupción. El Perú ocupa el puesto 127 de 180 en el Índice de Percepción de la Corrupción 2024 (Transparencia Internacional, 2025).",
+            "objective": "Digitalizar el 100% de los trámites TUPA de la MML y construir una plataforma de gobierno abierto que permita a los ciudadanos hacer seguimiento de sus trámites, conocer los resultados de gestión y reportar irregularidades.",
+            "goal": "100% de los trámites TUPA digitalizados al 2030. Reducción del tiempo promedio de resolución de trámites de 15 a 5 días hábiles al 2029.",
+            "indicator": "Porcentaje de trámites TUPA disponibles en formato digital sin necesidad de presencia física. Índice de satisfacción ciudadana con los servicios municipales (encuesta anual)."
+          },
+          {
+            "problem": "El SAT de Lima recaudó S/ 283 millones entre enero y mayo de 2024, con un crecimiento del 17%, pero persiste una brecha significativa con el potencial tributario real. La morosidad, el catastro desactualizado y la baja cultura tributaria reducen los recursos disponibles para inversión en servicios. La ejecución presupuestal es inferior al promedio de municipalidades comparables.",
+            "objective": "Incrementar la recaudación tributaria de Lima mediante la modernización del SAT, la actualización catastral, la reducción de la morosidad y la digitalización de los servicios tributarios, para financiar la inversión en infraestructura y servicios.",
+            "goal": "Incrementar la recaudación del SAT en 40% respecto al 2024, al cierre del período 2030. Reducir la morosidad predial de 35% a 20% al 2030. Alcanzar el 85% de ejecución presupuestal anual durante toda la gestión.",
+            "indicator": "Recaudación total del SAT Lima (millones de soles, anual). Tasa de morosidad en el pago del impuesto predial y arbitrios. Porcentaje de ejecución presupuestal de la MML."
+          },
+          {
+            "problem": "Lima concentra más de 1 millón de MYPEs, el 43.3% del total nacional (PRODUCE, 2025). Sin embargo, solo el 6.1% de las microempresas accede al sistema financiero formal. El 88.6% de los trabajadores en empresas de 1 a 10 personas está en situación de informalidad (INEI, 2025).",
+            "objective": "Fortalecer a las micro y pequeñas empresas de Lima con acceso a financiamiento, asesoría técnica, digitalización y mercados, reduciendo las barreras burocráticas que hoy frena su crecimiento y formalización.",
+            "goal": "50,000 MYPEs atendidas con servicios de desarrollo empresarial al 2030. Incremento del 10% en el número de MYPEs con acceso a crédito formal al 2030.",
+            "indicator": "Número de MYPEs atendidas con servicios de asesoría, capacitación o financiamiento a través de la plataforma municipal. Porcentaje de MYPEs formalizadas sobre el total de empresas registradas en Lima."
+          },
+          {
+            "problem": "El 30.5% de la población peruana enfrenta inseguridad alimentaria moderada o severa (INEI, 2025). Lima tiene más de 4,000 ollas comunes que son la principal fuente de alimentación diaria para miles de familias. El Valle del Chillón produce el 70% de las hortalizas que consume Lima y está en riesgo de desaparecer por la expansión urbana informal.",
+            "objective": "Fortalecer la seguridad alimentaria de Lima Metropolitana protegiendo la producción agrícola local, mejorando las condiciones de los mercados de abastos y apoyando a las ollas comunes como espacios de nutrición y comunidad.",
+            "goal": "50 mercados de abastos mejorados al 2030. 100% del Valle del Chillón bajo protección municipal efectiva al 2028. 500 ollas comunes acompañadas con capacitación en nutrición al 2029.",
+            "indicator": "Número de mercados de abastos intervenidos con mejoras de infraestructura y gestión. Hectáreas agrícolas protegidas en el Valle del Chillón. Número de ollas comunes con apoyo municipal activo."
+          },
+          {
+            "problem": "Lima recibe al 66.2% de los turistas internacionales del Perú, pero la experiencia turística está fragmentada, el Centro Histórico deteriorado y la oferta digital desactualizada. El turismo aporta el 2.9% del PBI nacional (MINCETUR, 2025), pero Lima capta menos inversión turística que otras capitales de la región.",
+            "objective": "Posicionar a Lima como el principal destino cultural y gastronómico de América del Sur, mejorando la infraestructura turística, la señalización, la promoción digital y la articulación con los emprendedores del sector.",
+            "goal": "Incrementar en 20% la estadía promedio del turista internacional en Lima al 2030. Duplicar la oferta de circuitos culturales y gastronómicos descentralizados fuera del Centro Histórico al 2029.",
+            "indicator": "Número de turistas internacionales que pernoctan en Lima Metropolitana (MINCETUR, anual). Ingresos por turismo en Lima (millones de dólares, anual)."
+          },
+          {
+            "problem": "Lima tiene conglomerados de gran potencial (Gamarra, Jockey Plaza, Yerbateros, Mesa Redonda) que operan sin articulación ni planificación metropolitana. La falta de infraestructura, conectividad y servicios complementarios limita su competitividad y atrae la informalidad.",
+            "objective": "Identificar, planificar y fortalecer las principales centralidades económicas de Lima mediante instrumentos de gestión urbana, inversión en conectividad y desarrollo de servicios que potencien su capacidad de generar empleo y valor.",
+            "goal": "4 planes de centralidades económicas aprobados al 2028 (GamarraYerbateros, Nor-Este, Lima Este, Lima Sur). 30% de incremento en la formalización de negocios en las zonas intervenidas al 2030.",
+            "indicator": "Número de centralidades económicas con plan de tratamiento especial aprobado e implementado. Inversión privada captada en centralidades económicas (millones de soles, anual)."
+          },
+          {
+            "problem": "Potencial turístico de Lima subaprovechado, a pesar de concentrar al 66% de los turistas internacionales y poseer un vasto patrimonio histórico.",
+            "objective": "Potenciar la vocación turística de la ciudad, haciendo de ella un destino turístico competitivo.",
+            "goal": "Promover globalmente el Patrimonio Histórico Cultural de Lima a través de una plataforma turística multi-idioma y crear la Gran Feria Internacional “Fuxión Gastronómica del Perú” para convertir el Centro Histórico en un circuito gastronómico.",
+            "indicator": "Implementación de plataforma turística digital. Creación de circuitos turísticos temáticos."
+          },
+          {
+            "problem": "Elevada inseguridad alimentaria que afecta a una parte significativa de la población, evidenciada por la existencia de más de 4,000 ollas comunes.",
+            "objective": "Promover la mejora de la cadena alimentaria de Lima Metropolitana.",
+            "goal": "Implementar un programa de emprendimientos agroalimentarios con las ollas comunes para que se conviertan en emprendimientos sociales viables, y promover la agricultura urbana para mejorar la calidad nutricional.",
+            "indicator": "Número de ollas comunes convertidas en emprendimientos. Hectáreas de agricultura urbana promovidas."
+          },
+          {
+            "problem": "Baja competitividad y productividad de las micro y pequeñas empresas (MYPEs) debido a limitadas capacidades y escaso acceso a financiamiento.",
+            "objective": "Promover el desarrollo y la competitividad de las MYPE, así como de nuevos emprendimientos de impacto en la generación de autoempleo.",
+            "goal": "Crear el Concurso de Planes de Negocios “Innova y genera valor”, promoviendo una red de inversionistas ángeles y gestionando fondos de capital semilla para financiar emprendimientos de alto impacto.",
+            "indicator": "Creación de una red de inversionistas ángeles. Fondos de capital semilla gestionados."
+          },
+          {
+            "problem": "Crecimiento desordenado del comercio ambulatorio, con ausencia de una política clara para su formalización y ordenamiento.",
+            "objective": "Ordenar integralmente las actividades económicas y modernizar las edificaciones de los conglomerados comerciales del Centro Histórico de Lima.",
+            "goal": "Implementar un programa de reordenamiento del comercio ambulatorio que incluya la reubicación en edificaciones comerciales subutilizadas o espacios temporales, trabajando en conjunto con los ambulantes y empresarios.",
+            "indicator": "Número de comerciantes ambulantes reubicados. Creación de normativa especial con incentivos tributarios y administrativos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, con una tasa de valorización inferior al 3% de las más de 10,000 toneladas generadas diariamente.",
+            "objective": "Mejorar la gestión integral de residuos sólidos bajo un enfoque de economía circular, trazabilidad, formalización de recicladores y valorización de residuos orgánicos.",
+            "goal": "Aprovechar progresivamente al menos el 12% de los residuos sólidos municipales generados en Lima Metropolitana, cuadruplicando la tasa actual de valorización, con reporte público trimestral.",
+            "indicator": "Toneladas de residuos valorizadas. Número de recicladores formalizados. Porcentaje de residuos aprovechados."
+          },
+          {
+            "problem": "Gestión insuficiente de residuos sólidos, baja valorización de residuos aprovechables y limitada aplicación de principios de economía circular.",
+            "objective": "Mejorar la gestión integral de residuos sólidos bajo un enfoque de economía circular.",
+            "goal": "Alcanzar progresivamente el aprovechamiento de al menos el 12% de los residuos sólidos municipales generados en Lima Metropolitana.",
+            "indicator": "Porcentaje de residuos valorizados; toneladas de residuos aprovechados; recicladores formalizados; mercados con segregación de orgánicos; puntos limpios operativos."
+          },
+          {
+            "problem": "Grave déficit de áreas verdes y de sombra urbana, con apenas 1 m² de área verde por habitante, muy por debajo de lo recomendado por la OMS.",
+            "objective": "Incrementar la cobertura arbórea, la conectividad ecológica y la habilitación de áreas con potencial ambiental para generar mayores servicios ecosistémicos.",
+            "goal": "Incrementar en un 10% la cantidad de metros cuadrados de área verde funcional en la ciudad, priorizando distritos con mayor déficit y zonas expuestas al calor urbano.",
+            "indicator": "Metros cuadrados de área verde funcional implementados. Número de árboles sobrevivientes y cobertura de sombra."
+          },
+          {
+            "problem": "Alta exposición de la población a riesgos de desastres y limitada cultura de prevención, preparación y respuesta frente a emergencias.",
+            "objective": "Fortalecer la gestión del riesgo de desastres mediante acciones de prevención, preparación, respuesta y rehabilitación.",
+            "goal": "Lograr que al menos el 30% de la población ubicada en zonas de riesgo alto y muy alto implemente medidas de mitigación, preparación y respuesta comunitaria.",
+            "indicator": "Población capacitada; brigadas comunitarias implementadas; sistemas de alerta temprana operativos; puntos críticos intervenidos."
+          },
+          {
+            "problem": "Alta vulnerabilidad frente al cambio climático, contaminación del aire y ruido, uso ineficiente del agua y limitada implementación de medidas de adaptación urbana.",
+            "objective": "Ejecutar y monitorear medidas de adaptación y mitigación climática, priorizando calidad del aire, reducción del ruido, movilidad sostenible, reúso de agua y eficiencia hídrica.",
+            "goal": "Implementar un Plan de Acción Climática en los 42 distritos de Lima Metropolitana.",
+            "indicator": "Número de distritos que implementan acciones climáticas; estaciones de monitoreo operativas; kilómetros de ciclovías y corredores verdes; PTAR operativas para reúso."
+          },
+          {
+            "problem": "Contaminación del aire que supera los estándares de calidad ambiental, representando una emergencia de salud pública en distritos como Santa Anita.",
+            "objective": "Ejecutar y monitorear medidas de adaptación y mitigación climática, priorizando la calidad del aire, reducción del ruido y movilidad sostenible.",
+            "goal": "Implementar y publicar un programa metropolitano de monitoreo de calidad del aire, ruido y puntos críticos de contaminación, con información en formato abierto y claro para la ciudadanía.",
+            "indicator": "Número de estaciones de monitoreo de calidad del aire. Implementación de zonas de bajas emisiones."
+          },
+          {
+            "problem": "Déficit de áreas verdes, cobertura arbórea insuficiente, pérdida de biodiversidad urbana y limitada infraestructura ecológica en Lima Metropolitana.",
+            "objective": "Incrementar la cobertura arbórea, la conectividad ecológica y la habilitación de áreas con potencial ambiental para generar mayores servicios ecosistémicos.",
+            "goal": "Incrementar en 10% la cantidad de m² de área verde funcional en Lima Metropolitana.",
+            "indicator": "m² de área verde funcional; cobertura arbórea; corredores verdes implementados; porcentaje de supervivencia de árboles plantados."
+          },
+          {
+            "problem": "Alta exposición de la población a peligros naturales y desastres, y una baja preparación comunitaria frente a fenómenos como El Niño.",
+            "objective": "Desarrollar acciones para proteger a la población mediante la prevención, preparación, respuesta y rehabilitación frente a desastres, articulando a los diferentes niveles de gobierno y la sociedad civil.",
+            "goal": "Lograr que al menos el 30% de la población ubicada en zonas de riesgo alto y muy alto implemente medidas de mitigación, preparación y respuesta comunitaria.",
+            "indicator": "Población capacitada en gestión de riesgos. Número de brigadas comunitarias activas. Puntos críticos intervenidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Corrupción generalizada y alta percepción de mal gobierno, lo que debilita la confianza ciudadana y la legitimidad del Estado.",
+            "objective": "Fortalecer la integridad institucional y la lucha anticorrupción en la gestión municipal.",
+            "goal": "Ejecutar el 100% de las acciones del Plan Anticorrupción Institucional, con metas verificables y reporte público trimestral a la ciudadanía.",
+            "indicator": "Porcentaje de cumplimiento de las acciones del Plan Anticorrupción. Frecuencia de reportes públicos a la ciudadanía."
+          },
+          {
+            "problem": "Excesiva burocracia, lentitud e ineficiencia en los trámites y servicios municipales, generando costos y desconfianza en los ciudadanos.",
+            "objective": "Modernizar la estructura institucional, simplificando y digitalizando procesos, y consolidando la transparencia y el gobierno abierto.",
+            "goal": "Alcanzar el 100% de trámites TUPA disponibles en formato digital al 2030, eliminando la necesidad de presencia física para gestiones administrativas.",
+            "indicator": "Porcentaje de trámites del TUPA y TUSNE disponibles en formato digital. Tiempo promedio de atención de trámites."
+          },
+          {
+            "problem": "Fragmentación de la gobernanza metropolitana, con 43 municipalidades que actúan de forma desarticulada, impidiendo soluciones integrales a los problemas de la ciudad.",
+            "objective": "Fortalecer la gobernanza metropolitana mediante descentralización jerárquica, desconcentración administrativa y recuperación de funciones sectoriales.",
+            "goal": "Crear el Sistema Desconcentrado de Planificación de Lima Metropolitana, integrando y articulando la Asamblea Metropolitana, los Consejos de Coordinación Local y otros órganos territoriales de coordinación.",
+            "indicator": "Creación y operatividad de órganos territoriales de coordinación. Transferencia de competencias sectoriales a la Municipalidad Metropolitana."
+          },
+          {
+            "problem": "Falta de control, fiscalización y supervisión de los contratos derivados de los procesos de selección.",
+            "objective": "Garantizar que cada sol contratado con proveedores se ejecute según lo acordado, con supervisión activa desde el inicio hasta el cierre del contrato, para evitar sobreprecios, incumplimientos y actos de corrupción.",
+            "goal": "Implementar al 2030 de un sistema integral de control, fiscalización y supervisión de los contratos derivados de los procesos de selección.",
+            "indicator": "Sistema integral de control, fiscalización y supervisión de los contratos derivados de los procesos de selección."
+          },
+          {
+            "problem": "Cualquier trámite municipal obliga al vecino a hacer varias colas: una para ingresar el expediente, otra para pagar y otra para recogerlo. A eso se suma que le piden el DNI en cada ventanilla, aunque ya lo presentó antes. Ese tiempo perdido sale del bolsillo y la vida de los vecinos.",
+            "objective": "Que el vecino pueda resolver cualquier trámite municipal desde su celular, sin colas, sin papeles repetidos y sin necesidad de ir a la municipalidad.",
+            "goal": "100% de los trámites TUPA digitalizados al 2030. Tiempo de respuesta promedio reducido de 15 a 5 días hábiles al 2029. Satisfacción ciudadana con servicios municipales mayor al 70% al 2030.",
+            "indicator": "Porcentaje de trámites TUPA disponibles en plataforma digital sin presencia física. Índice de satisfacción ciudadana con los servicios municipales (encuesta anual)."
+          },
+          {
+            "problem": "Los vecinos pierden horas, y a veces días, haciendo colas para resolver trámites municipales sencillos. Cada proceso requiere visitas físicas, documentos repetidos y pagos en ventanillas distintas. No existe un canal digital integrado que permita gestionar los servicios desde casa.",
+            "objective": "Simplificar y digitalizar el 100% de los trámites municipales para que los vecinos puedan resolver sus gestiones desde el celular o la computadora, sin colas y sin documentos innecesarios.",
+            "goal": "100% del TUPA y TUSNE simplificados y disponibles en plataforma digital al 2030. Tiempo promedio de resolución de trámites reducido de 15 a 5 días hábiles al 2029. Simplificación y digitalización de los procedimientos que forman parte de los Sistemas Administrativos (Política y Plan de Modernización de la gestión del Estado – Pilar 3)",
+            "indicator": "Procedimientos y servicios del TUPA y TUSNE simplificados, estandarizados y digitalizados. Procedimientos de los Sistemas Administrativos simplificados, estandarizados y digitalizados."
+          },
+          {
+            "problem": "Bajo nivel de control en todos los procesos, actividades, recursos, operaciones y actos institucionales, que podrían generar posibles actos de corrupción en la MML.",
+            "objective": "Implementar y fortalecer el Sistema de Control Interno Institucional, orientada a la prevención de riesgos y posibles actos de corrupción en la entidad. Implementar y consolidar una política de Cero Corrupción en la MML, fortaleciendo los mecanismos de prevención, detección y respuesta frente a posibles actos de corrupción, promoviendo una cultura de integridad y transparencia institucional. Gestionar la implementación y consolidación de la Oficina de Integridad Institucional como órgano formal dentro de la estructura organizacional de la MML, fortaleciendo la prevención y reducción de riesgos de corrupción en la entidad. Implementar y fortalecer mecanismos seguros, accesibles y confidenciales para la recepción y atención de denuncias vinculadas a presuntos actos de corrupción en la MML. Identificación de riesgos que afectan la integridad pública en todos los procesos",
+            "goal": "Sistema de Control Interno implementado al 100% de las unidades orgánicas al 2030. Implementar el 100 % de las acciones programadas en el Plan Anticorrupción Institucional al año 2030. Formalización e implementación operativa de la Oficina de Integridad Institucional como órgano integrante de la estructura orgánica de la MML, incorporándola en los instrumentos de gestión institucional al año 2030. Garantizar la atención y seguimiento oportuno del 100 % de las denuncias recibidas a través del canal institucional, asegurando la confidencialidad, trazabilidad y cumplimiento de los procedimientos establecidos al año 2030. Identificar y evaluar riesgos que afectan la integridad pública en el 100 % de los procesos misionales y de soporte de la entidad, implementando medidas de prevención, mitigación y seguimiento al año 2030.",
+            "indicator": "Nivel de implementación de los componentes y medidas del Sistema de Control Interno en la entidad. Nivel de implementación y cumplimiento del Plan Anticorrupción Institucional. Incorporación de la Oficina de Integridad Institucional en la estructura orgánica y en los instrumentos de gestión de la MML. Porcentaje de denuncias recibidas a través del canal institucional que cuentan con atención, seguimiento y respuesta conforme a los plazos y procedimientos establecidos. Porcentaje de procesos misionales y de soporte en los que se han identificado y evaluado riesgos que afectan la integridad pública."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana y fragmentación de las estrategias de seguridad entre los 43 distritos.",
+            "objective": "Convertir a Lima en la ciudad más segura del Perú mediante la implementación de un sistema metropolitano que combine tecnología, inteligencia, prevención y participación ciudadana.",
+            "goal": "Reducir la percepción de inseguridad ciudadana de 75.2% a 36% al 2030, mediante un sistema de seguridad metropolitana integrado.",
+            "indicator": "Tasa de percepción de inseguridad. Tasa de victimización."
+          },
+          {
+            "problem": "La Municipalidad Metropolitana de Lima opera desde el centro sin presencia real en los distritos. Los vecinos de Lima Norte, Lima Sur y Lima Este sienten que la municipalidad está lejos y que sus problemas no llegan. Falta un sistema real de desconcentración que acerque las decisiones al territorio.",
+            "objective": "Crear un sistema desconcentrado de planificación y gestión que acerque la Municipalidad Metropolitana a los vecinos de los 42 distritos mediante órganos territoriales con capacidad real de decisión.",
+            "goal": "Creación de un sistema descentralizado de planificación de Lima Metropolitana. 05 Comités de Desarrollo LocalCODEL con amplia participación interinstitucional 01 Comité Metropolitano de organización social.",
+            "indicator": "Sistema de Descentralización de planificación Comité de Desarrollo LocalCODEL Comité Metropolitano como organización social autónoma y voluntaria que represente a la ciudadanía de los 42 distritos ante la MML."
+          },
+          {
+            "problem": "Bajo nivel de ejecución presupuestal y financiera en actividades y proyectos.",
+            "objective": "Mejorar la ejecución del presupuesto municipal para que el dinero de los limeños llegue efectivamente a obras, servicios y proyectos, con control en tiempo real y rendición de cuentas.",
+            "goal": "Implementar al 2030 el presupuesto por resultados (Política y Plan de Modernización de la gestión del Estado – Pilar 2).",
+            "indicator": "Presupuesto por resultados implementado al 100%."
+          },
+          {
+            "problem": "Lima tiene cámaras, semáforos, postes y sistemas de emergencia que no se comunican entre sí. Cada área municipal trabaja con su propia información sin cruzarla con las demás. Eso genera respuestas lentas ante emergencias, decisiones sin datos y recursos mal asignados.",
+            "objective": "Integrar toda la infraestructura urbana de Lima en una sola plataforma de datos en tiempo real que permita tomar mejores decisiones, responder más rápido a emergencias y acercar los servicios municipales a los vecinos sin que tengan que desplazarse. Aumentar el número de atenciones al ciudadano a través del acercamiento de los servicios en sus diversas especialidades.",
+            "goal": "100% de la infraestructura urbana estratégica integrada en la central de monitoreo al 2030. Servicios municipales disponibles online 24/7 sin necesidad de presencia física al 2029. Optimizar los recursos humanos del sector salud y maximizar el número de atenciones al ciudadano en sus diversas especialidades.",
+            "indicator": "Porcentaje de infraestructura urbana integrada a la central de monitoreo. Número de servicios municipales disponibles en plataforma digital 24/7. Ampliar la cobertura de atenciones para la protección en salud en la población y reducir los tiempos y costos de traslado."
+          },
+          {
+            "problem": "La Municipalidad Metropolitana trabaja en compartimentos estancos: cada área hace su propio trabajo sin coordinarse con las demás. Eso genera duplicación de esfuerzos, lentitud en la atención y pérdida de recursos públicos que los vecinos necesitan.",
+            "objective": "Reorganizar la Municipalidad Metropolitana por procesos orientados al ciudadano, eliminando la burocracia interna y profesionalizando la carrera pública municipal mediante la implementación de la Ley Servir.",
+            "goal": "ROF por procesos aprobado e implementado al 2028. Ley Servir implementada en el 100% de las unidades orgánicas al 2030. Reducción del 30% en el tiempo de atención de trámites internos al 2029. Implementación de la Ley Servir Fase 1 (Política y Plan de Modernización de la gestión del Estado – Pilar 4)",
+            "indicator": "Reglamento de Organización y Funciones por procesos. Propuesta de reorganización respecto a la estructura de los recursos humanos"
+          },
+          {
+            "problem": "Los vecinos no saben qué hace la Municipalidad con su dinero ni cómo va la ejecución de las obras que se les prometieron. La rendición de cuentas actual es formal y burocrática, no llega al vecino de a pie y no genera confianza.",
+            "objective": "Implementar nuevos canales de rendición de cuentas articulados e integrados a los existentes.",
+            "goal": "Implementación del sistema integral de rendición de cuentas al 2030.",
+            "indicator": "Sistema Integral de Rendición de Cuentas."
+          },
+          {
+            "problem": "La Caja Metropolitana – CMCPL tiene un potencial financiero importante (ROE del 27.3% y utilidad neta de S/ 23.75 millones al 2025), pero ese potencial no se está aprovechando para beneficio de los ciudadanos. Persisten riesgos operativos, normativas desactualizadas y un sistema de información (SICMET) con dificultades de integración que limitan su capacidad de apoyar la inversión pública metropolitana.",
+            "objective": "Modernizar la gestión de la Caja Metropolitana para que sus utilidades financien infraestructura y servicios para los limeños, con equipo directivo de alto nivel, normativa actualizada y sistemas de información modernos. Actualización de normativas.",
+            "goal": "Directorio y equipo gerencial de alto nivel electos al 2027. Sistema SICMET modernizado al 2028. 100% de normativas institucionales actualizadas al 2029. Al menos S/ 50 millones de utilidades orientadas a inversión metropolitana al 2030. Normas actualizadas y contar con procesos automatizados.",
+            "indicator": "Nivel de rentabilidad sostenida (ROE) de la CMCPL. Porcentaje de procesos automatizados e integrados al sistema SICMET. Normativa actualizada y vigente. Mesa de trabajo para actualizar normativas"
+          },
+          {
+            "problem": "Lima tiene más de 1,700 intersecciones semaforizadas que no se comunican entre sí. Cada semáforo funciona de forma independiente, sin responder al flujo real del tránsito. El resultado es un caos vial que le roba horas de vida a millones de limeños todos los días.",
+            "objective": "Integrar la infraestructura vial de Lima en una central de monitoreo inteligente que coordine semáforos, cámaras, señalización y postes para reducir la congestión, mejorar la seguridad vial y devolverle tiempo a las familias limeñas.",
+            "goal": "100% de la infraestructura vial estratégica integrada a la central de monitoreo al 2030. Reducción del 20% en el tiempo promedio de viaje en los principales corredores al 2030. Reducción del 15% en el consumo de combustibles por congestión al 2030. Reducción de la contaminación y consumo de combustibles.",
+            "indicator": "Porcentaje de intersecciones semaforizadas integradas a la central de monitoreo. Reducción del tiempo promedio de viaje en los principales corredores viales."
+          },
+          {
+            "problem": "La mayoría de limeños nunca ha tenido contacto directo con su alcalde metropolitano. Las decisiones se toman en el centro sin escuchar a los vecinos de los barrios. No hay canales reales de participación donde la gente pueda proponer, reclamar y ser escuchada.",
+            "objective": "Implementar una política de puertas abiertas a través de programas de participación ciudadana Alcalde - Vecino",
+            "goal": "Implementar mecanismos directos de participación ciudadana al 2030 (Alcalde – Vecino) Implementar el Programa “Tu alcalde en tu distrito”, orientado a la rendición de cuentas, que permite a los vecinos presentar sus propuestas y conocer las obras que ejecuta la MML en su zona. Escuelas de Participación Ciudadana orientadas al desarrollo de capacidades en gestión del desarrollo local y al fortalecimiento de nuevos liderazgos en Lima. Creación del Sistema Metropolitano de Participación Ciudadana como un sistema funcional en el ámbito de la Municipalidad Metropolitana de Lima (MML).",
+            "indicator": "Programa de participación ciudadana"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-137355",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: DIFAMACIÓN AGRAVADA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2017-08-15",
+      "details": {
+        "materia": "DIFAMACIÓN AGRAVADA",
+        "fallo": "1 AÑO DE PENA SUSPENDIDA DE LIBERTAD Y EL PAGO DE UNA REPARACIÓN CIVIL",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "17º JUZGADO PENAL",
+        "expediente": "1261-2015-D-1801-JR-PE-29",
+        "comentario": "REHABILITADO"
+      },
+      "quote": "DIFAMACIÓN AGRAVADA · 1 AÑO DE PENA SUSPENDIDA DE LIBERTAD Y EL PAGO DE UNA REPARACIÓN CIVIL · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-UzLWGIgjNnjYEo-fJETLJPEd1njU0d82"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-UzLWGIgjNnjYEo-fJETLJPEd1njU0d82",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/UzLWGIgjNnjYEo-fJETLJPEd1njU0d82",
+      "sha256": "af127c3c459a4a47369e57b57ab980f16613dd8c7209030dcd2fe0ab8dde9468",
+      "accessedAt": "2026-10-02T22:49:43.631Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020712",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020712",
+      "sha256": "4cbe1e92aa218fa33a23f42270e8beca207d548e9fff588538afacb8f1c7d6cd",
+      "accessedAt": "2026-10-02T22:49:44.128Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

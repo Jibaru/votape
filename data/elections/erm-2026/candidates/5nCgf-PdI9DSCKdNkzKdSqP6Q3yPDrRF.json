@@ -1,0 +1,225 @@
+{
+  "id": "5nCgf-PdI9DSCKdNkzKdSqP6Q3yPDrRF",
+  "slug": "ramon-andres-cordova-arge",
+  "electionId": "erm-2026",
+  "name": "Ramon Andres Cordova Arge",
+  "givenNames": "Ramon Andres",
+  "surnames": "Cordova Arge",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:32.721Z",
+      "sourceId": "jne-hv-5nCgf-PdI9DSCKdNkzKdSqP6Q3yPDrRF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ASESOR INMOBILIARIO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO MORADO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 57126,
+        "public": 0,
+        "private": 57126
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "VIVIENDA",
+        "value": 51.33,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "KIA SPORTAGE COLOR NEGRO",
+        "value": 112000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b67e669d-0023-4eab-ab0e-65313efb37e7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8d69d50b-e6dd-4732-828b-f3bd11920e2b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente infraestructura, equipamiento, personal y acceso efectivo a servicios de salud pública, con establecimientos de primer nivel en estado de abandono.",
+            "objective": "Gestionar la construcción y equipamiento de un hospital moderno y equipado, con el fin de recuperar la confianza ciudadana y garantizar atención oportuna.",
+            "goal": "Asegurar que el 100% de la población de Lurín reciba atención médica, que los establecimientos cuenten con equipo básico y remodelar los establecimientos de salud existentes para mejorar la calidad del servicio.",
+            "indicator": "Establecimientos CLAS con atención 24/7, ambulancias, unidad móvil, equipamiento y gestión para Hospital II-1."
+          },
+          {
+            "problem": "Creciente inseguridad ciudadana y criminalidad, reflejada en un alto índice de extorsiones, robos y delincuencia social.",
+            "objective": "Disminuir los índices de inseguridad y su percepción, fortaleciendo políticas de seguridad mediante operaciones integradas con la PNP y el entrenamiento permanente del personal de serenazgo.",
+            "goal": "Implementar el programa \"Patrullaje Comunitario\", adquirir nuevas tecnologías como cámaras de identificación facial y vehículos, e integrar el serenazgo con municipios vecinos.",
+            "indicator": "Tiempo de respuesta, número de patrullajes, cámaras operativas y juntas vecinales activas."
+          },
+          {
+            "problem": "El sistema educativo no garantiza trayectorias continuas ni aprendizajes profundos y significativos desde la primera infancia hasta la educación superior.",
+            "objective": "Asegurar el acceso a una formación superior de calidad y pertinente, promoviendo la permanencia estudiantil y la inserción laboral, y reforzando el acompañamiento pedagógico en aula.",
+            "goal": "Crear centros de formación dual en alianza con empresas, gremios y gobiernos, y ampliar las becas y apoyos económicos para jóvenes en situación de pobreza.",
+            "indicator": "Gestión de Instituto Superior Tecnológico, implementación de CETPRO, desarrollo de educación dual, firma de convenios y número de jóvenes capacitados."
+          },
+          {
+            "problem": "Un gran porcentaje de la población carece de títulos de propiedad debido a la falta de saneamiento físico legal y a la entrampada de trámites en diversas entidades.",
+            "objective": "Coordinar y gestionar con las entidades competentes la pronta solución de la titulación de predios y actualizar el catastro urbano del distrito.",
+            "goal": "Brindar capacitación y asesoramiento legal a los vecinos en temas de defensa civil, cambio de zonificación, salud y medio ambiente, y formalizar las asociaciones y colectivos del distrito.",
+            "indicator": "Número de expedientes asistidos y predios regularizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ocupación desordenada de espacios públicos por la informalidad y el comercio ambulatorio, constituyendo un problema económico y social latente.",
+            "objective": "Reordenar el comercio ambulatorio, promoviendo el emprendimiento, la creación de oportunidades empresariales y la competitividad en el desarrollo económico local.",
+            "goal": "Incentivar la formalización empresarial, facilitar el ordenamiento del comercio ambulatorio, implementar talleres para emprendedores y crear programas para microempresarios.",
+            "indicator": "Número de empresas adheridas a programas de incentivo y empleos generados."
+          },
+          {
+            "problem": "Infraestructura turística insuficiente en Áreas Naturales Protegidas y falta de potenciación del circuito turístico, así como de formalización y capacitación de los agentes del sector.",
+            "objective": "Reactivar y fortalecer el turismo como una actividad clave para el desarrollo local, impulsando estrategias de promoción, inversión en infraestructura y articulación con comunidades locales bajo una visión sostenible.",
+            "goal": "Consolidar el turismo sostenible y los bionegocios como motores de desarrollo, defender el valle verde de Lima Sur y consolidar los proyectos turísticos del malecón del río Lurín y las playas locales.",
+            "indicator": "Implementación de la ruta turística oficial, registro de artesanos y gastrónomos, y proyectos de desarrollo en Buenavista y San Pedro."
+          },
+          {
+            "problem": "Brecha profunda entre las capacidades de la población y las exigencias del empleo moderno, especialmente en el sector industrial.",
+            "objective": "Gestionar la creación de una sede del SENATI y un Instituto Superior Tecnológico en Lurín, con carreras técnicas y CETPROS orientados a la demanda local.",
+            "goal": "Firmar convenios y alianzas con empresas del Parque Industrial de Lurín para prácticas profesionales y empleabilidad, y lograr la inserción laboral de los egresados de la formación dual.",
+            "indicator": "Jóvenes certificados en formación técnica y número de colocaciones laborales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de estrategias y acciones de control medioambiental, mala utilización de la energía y contaminación industrial y vehicular por uso de combustibles fósiles.",
+            "objective": "Implementar la fiscalización ambiental de las industrias, ejecutar un plan de mejora continua en la eficiencia energética y reducir el congestionamiento vehicular.",
+            "goal": "Diseñar y ejecutar un Plan Anual de control ambiental y de eficiencia energética, adquirir equipamiento de control y ordenar el tráfico vehicular distrital.",
+            "indicator": "Cantidad de residuos valorizados, eliminación de puntos críticos, mantenimiento de árboles y fiscalizaciones realizadas."
+          },
+          {
+            "problem": "Existencia de una alta población de animales abandonados en las calles y reportes de maltrato y crueldad animal.",
+            "objective": "Establecer un convenio con el colegio de veterinarios y otras organizaciones para implementar medidas de adopción responsable, y realizar campañas de vacunación, esterilización y control de natalidad.",
+            "goal": "Crear dos albergues y refugios para animales abandonados y perdidos, donde se les brinde atención temporal hasta encontrar un dueño o adoptante.",
+            "indicator": "Número de campañas de esterilización y vacunación realizadas."
+          },
+          {
+            "problem": "Alto déficit de áreas verdes por habitante y ausencia de mantenimiento adecuado de parques, jardines y áreas verdes existentes.",
+            "objective": "Incrementar las áreas verdes y fomentar la arborización sostenible, convirtiendo bermas centrales en espacios ecológicos y transformando parques en zonas de ocio y recreación.",
+            "goal": "Lograr un 10% de crecimiento de áreas verdes, arborizar nuevos espacios con 10,000 especies xerófilas y recuperar y mejorar 10 parques distritales al año.",
+            "indicator": "Número de árboles mantenidos y metros cuadrados de áreas verdes recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Mala gestión administrativa municipal, caracterizada por la ausencia de políticas de participación ciudadana y la falta de acceso a la información pública.",
+            "objective": "Desarrollar mecanismos que promuevan la transparencia en la gestión municipal, fomentando políticas de participación ciudadana y mejorando el acceso a la información.",
+            "goal": "Lograr la modernización de la municipalidad a través de una gestión digital y transparente, y brindar la información ágil que el ciudadano requiera.",
+            "indicator": "Mesas de concertación instaladas, actas de acuerdo, rendiciones de cuentas y tablero público de seguimiento."
+          },
+          {
+            "problem": "Falta de institucionalización del trabajo cultural en el distrito y de una alianza estratégica para implementar una política cultural formal.",
+            "objective": "Promulgar ordenanzas para la formalización de colectivos y asociaciones culturales, y elaborar un plan de gestión cultural que involucre a todas las entidades comprometidas.",
+            "goal": "Formalizar todas las asociaciones y colectivos culturales, institucionalizar y difundir una agenda cultural periódica, y mejorar el servicio de la biblioteca municipal.",
+            "indicator": "Espacios culturales habilitados, registro de agrupaciones culturales, y realización de festivales y talleres."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139599",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: SECUESTRO",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "1999-12-23",
+      "details": {
+        "materia": "SECUESTRO",
+        "fallo": "EFECTIVA - PENA CUMPLIDA",
+        "modalidad": "EFECTIVA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "2DO SALA PENAL JUNIN",
+        "expediente": "98-254",
+        "comentario": null
+      },
+      "quote": "SECUESTRO · EFECTIVA - PENA CUMPLIDA · EFECTIVA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-5nCgf-PdI9DSCKdNkzKdSqP6Q3yPDrRF"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-5nCgf-PdI9DSCKdNkzKdSqP6Q3yPDrRF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/5nCgf-PdI9DSCKdNkzKdSqP6Q3yPDrRF",
+      "sha256": "92f0c23167d02cc2fff42730b3a012367de93b8f0989b00d0e39e39609148360",
+      "accessedAt": "2026-10-02T22:59:32.721Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032252",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032252",
+      "sha256": "e4bf2945ee405f2d617d0166a517d82852b8edff7d5195b240e0d4941ba5b73d",
+      "accessedAt": "2026-10-02T22:59:33.233Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

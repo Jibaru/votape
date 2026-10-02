@@ -1,0 +1,210 @@
+{
+  "id": "ZFNDyo822xjknzFJLjDfzNn9Wuhl0zLS",
+  "slug": "antonio-ricardo-diaz-zamalloa",
+  "electionId": "erm-2026",
+  "name": "Antonio Ricardo Diaz Zamalloa",
+  "givenNames": "Antonio Ricardo",
+  "surnames": "Diaz Zamalloa",
+  "age": 65,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:23.118Z",
+      "sourceId": "jne-hv-ZFNDyo822xjknzFJLjDfzNn9Wuhl0zLS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "I.S.P. CARLOS MEDRANO VASQUEZ",
+        "program": "PROFESOR DE EDUCACIÓN PRIMARIA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD MARCELINO CHAMPAGNAT",
+        "program": "COMPUTACIÓN E INFORMÁTICA EDUCATIVA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "I.E. VICTOR ANDRÉS BELAUNDE DIEZ CANSECO",
+      "role": "DOCENTE",
+      "from": "2000",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 42000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 434.14,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3e58f9fc-caef-45c0-b953-b54049ced3fa.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4af84872-3d59-4ac1-9b4e-371d6f0f9ca6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Existencia de una brecha social manifestada en la falta de acceso a la zona alta del distrito, carencia de servicios básicos y problemas en la regularización de la propiedad.",
+            "objective": "Solicitar la habilitación de una vía de acceso a la zona alta de Punta Hermosa, gestionar la instalación de servicios básicos en las zonas que carecen de ellos y regularizar los predios.",
+            "goal": "Habilitar una vía de acceso a la zona alta del distrito y gestionar la instalación de servicios básicos para las zonas que no cuentan con ellos.",
+            "indicator": "Porcentaje de avance en la gestión de la vía de acceso. Número de viviendas con acceso a servicios básicos. Porcentaje de predios regularizados."
+          },
+          {
+            "problem": "Servicios de salud escasos e inadecuada atención ante emergencias y enfermedades comunes en el distrito.",
+            "objective": "Gestionar la construcción de un Hospital tipo 2, implementar equipos y mobiliario adecuados, y contar con personal altamente capacitado para responder a emergencias las 24 horas.",
+            "goal": "Construir un Hospital tipo 2 y dotar a las ambulancias con equipos de resucitación cardiopulmonar (RCP) para una adecuada atención.",
+            "indicator": "Número de establecimientos de salud construidos y equipados. Porcentaje de personal de salud capacitado en atención de emergencias."
+          },
+          {
+            "problem": "Infraestructura educativa deficiente y falta de un entrenamiento adecuado en los cursos de educación física acorde a la realidad del distrito.",
+            "objective": "Gestionar la construcción de una infraestructura educativa moderna y equipada, facilitar el transporte a los estudiantes e implementar talleres municipales para el desarrollo de capacidades.",
+            "goal": "Gestionar la construcción de una infraestructura moderna para la I.E. N° 6030 y brindar sustento alimenticio a los niños del distrito.",
+            "indicator": "Número de infraestructuras educativas construidas o mejoradas. Número de estudiantes beneficiados con apoyo de transporte y talleres."
+          },
+          {
+            "problem": "Déficit en infraestructura urbana, incluyendo la falta de pistas, veredas y rampas para personas con discapacidad en diversas zonas del distrito.",
+            "objective": "Construir pistas y veredas en las zonas que aún no cuentan con ellas, realizar la señalización de las calles y acondicionar y remodelar los parques y jardines.",
+            "goal": "Construir pistas y veredas en las zonas que lo requieran y acondicionar la totalidad de los parques y jardines del distrito.",
+            "indicator": "Kilómetros de pistas y veredas construidas. Número de parques y jardines remodelados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta dependencia económica de la actividad turística estacional, concentrada principalmente en la temporada de verano.",
+            "objective": "Convertir a Punta Hermosa en un destino turístico durante todo el año, promoviendo diversas modalidades como el turismo de surf, bienestar, gastronómico, tecnológico y cultural.",
+            "goal": "Establecer el turismo durante los 365 días del año, posicionando a Punta Hermosa como un referente nacional en diversas áreas turísticas.",
+            "indicator": "Tasa de ocupación hotelera fuera de la temporada de verano. Número de eventos y congresos realizados anualmente."
+          },
+          {
+            "problem": "Los ciudadanos del distrito necesitan desplazarse grandes distancias para acceder a oportunidades laborales, lo que implica pérdida de tiempo y riesgos.",
+            "objective": "Promover la creación de empresas familiares, incentivar la inversión privada en el distrito y capacitar a las amas de casa para que puedan generar ingresos extras.",
+            "goal": "Fomentar la creación de empresas locales y capacitar a la población para generar alternativas de ingresos dentro del distrito.",
+            "indicator": "Tasa de desempleo del distrito. Número de nuevas empresas creadas. Monto de inversión privada captada."
+          },
+          {
+            "problem": "Carencia de un ecosistema de desarrollo tecnológico y una economía digital que genere empleos de calidad para los jóvenes del distrito.",
+            "objective": "Convertir a Punta Hermosa en el principal centro digital del sur de Lima mediante la creación de un corredor tecnológico a través de una Asociación Público-Privada.",
+            "goal": "Generar empleos tecnológicos para los jóvenes del distrito a través de la implementación del Corredor Tecnológico Punta Hermosa Este.",
+            "indicator": "Número de empresas de base tecnológica instaladas en el distrito. Número de empleos tecnológicos generados para jóvenes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La laguna de oxidación se encuentra al límite de su capacidad, existen escasas áreas verdes, nula forestación y un inadecuado manejo de los desechos sólidos.",
+            "objective": "Construir una planta de tratamiento de aguas servidas, plantar árboles captadores de CO2, implementar un servicio integral de recojo de desechos en todo el distrito y aumentar las áreas verdes.",
+            "goal": "Construir una planta de tratamiento de aguas servidas y aumentar las áreas verdes en un 100% en todo el distrito.",
+            "indicator": "Porcentaje de aguas residuales tratadas. Cobertura del servicio de recojo de residuos. Hectáreas de nuevas áreas verdes."
+          },
+          {
+            "problem": "Ausencia de una estrategia integral de sostenibilidad y resiliencia frente al cambio climático a largo plazo.",
+            "objective": "Implementar un plan de sostenibilidad que incluya el uso de energía solar municipal, la promoción de techos solares, la creación de un parque ecológico costero y un sistema inteligente de gestión de residuos.",
+            "goal": "Convertir a Punta Hermosa en un distrito Carbono Neutral para el año 2040.",
+            "indicator": "Porcentaje de reducción de la huella de carbono del distrito. Megavatios de energía solar instalada. Porcentaje de residuos sólidos gestionados de manera inteligente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana caracterizada por tiempos de respuesta lentos, reincidencia delictiva y presencia de actividades ilícitas como el tráfico de drogas y de tierras.",
+            "objective": "Articular y liderar el sistema de seguridad ciudadana, adquiriendo vehículos motorizados para una respuesta rápida y equipando adecuadamente las unidades de serenazgo.",
+            "goal": "Adquirir vehículos motorizados y equipar las camionetas de seguridad ciudadana para mejorar la capacidad de respuesta ante la delincuencia.",
+            "indicator": "Tiempo promedio de respuesta a llamadas de emergencia. Índice de victimización del distrito."
+          },
+          {
+            "problem": "Falta de transparencia en la gestión municipal, especialmente en el manejo de la información y la adjudicación de obras públicas.",
+            "objective": "Implementar la norma ISO anticorrupción, publicar en la página web institucional los detalles de todas las obras y realizar sesiones de consejo abiertas a la prensa y a los vecinos.",
+            "goal": "Implementar el estándar ISO anticorrupción en el municipio y garantizar la total transparencia de las sesiones del consejo.",
+            "indicator": "Obtención de la certificación ISO anticorrupción. Porcentaje de obras públicas con información detallada y accesible en línea."
+          },
+          {
+            "problem": "Desorden en el uso del espacio público debido a una fiscalización deficiente de locales comerciales, transporte público y vehículos particulares.",
+            "objective": "Fortalecer la fiscalización para asegurar el cumplimiento de las normas municipales, capacitar al cuerpo de fiscalizadores e implementar un sistema de multas electrónicas.",
+            "goal": "Implementar un sistema de multas electrónicas y adquirir equipos y cámaras para el control de velocidad en las avenidas principales.",
+            "indicator": "Número de operativos de fiscalización realizados. Reducción de infracciones de tránsito y comerciales."
+          },
+          {
+            "problem": "Baja cultura cívica en un sector de la ciudadanía, reflejada en la evasión de impuestos y la falta de corresponsabilidad en la limpieza de los espacios públicos.",
+            "objective": "Promover una cultura del buen vecino mediante la creación de programas de beneficios para contribuyentes puntuales y fomentar activamente la cultura de la limpieza en el distrito.",
+            "goal": "Crear programas de beneficios para los vecinos que cumplan con sus obligaciones tributarias y promover una cultura de limpieza entre vecinos y visitantes.",
+            "indicator": "Tasa de recaudación de impuestos municipales. Índice de limpieza de calles y playas medido por encuestas de percepción ciudadana."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ZFNDyo822xjknzFJLjDfzNn9Wuhl0zLS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZFNDyo822xjknzFJLjDfzNn9Wuhl0zLS",
+      "sha256": "387a28a5fab4eb82f1cd10c2e9c59739ccee3b874ef47578637803c6b4586eef",
+      "accessedAt": "2026-10-02T23:01:23.118Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017833",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017833",
+      "sha256": "d1d8d28b856c6a336588d1e12f0a3215443865f07ebc7bf65cf5937d25a67fba",
+      "accessedAt": "2026-10-02T23:01:23.599Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

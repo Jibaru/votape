@@ -1,0 +1,233 @@
+{
+  "id": "13AVS4BlqpzVbwHMbp787qo88qcUfEtB",
+  "slug": "carlos-daniel-cuya-ponce",
+  "electionId": "erm-2026",
+  "name": "Carlos Daniel Cuya Ponce",
+  "givenNames": "Carlos Daniel",
+  "surnames": "Cuya Ponce",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:54.546Z",
+      "sourceId": "jne-hv-13AVS4BlqpzVbwHMbp787qo88qcUfEtB"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "VENTA DE COMIDA",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    },
+    {
+      "party": "AHORA NACION - AN",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "STATION WAGON AÑO 2005 COLOR BLANCO CINCO ASIENTOS",
+        "value": 12000
+      },
+      {
+        "type": "CAMION PLATAFORMA COLOR CELESTE AÑO 1954",
+        "value": 7000
+      },
+      {
+        "type": "CAMION PLATAFORMA COLOR ROJO",
+        "value": 8000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/afa5ae72-b76a-472d-a81a-327a76ccf522.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/550e38d9-6137-430d-81f6-698f1a3c2e62.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevados índices de inseguridad ciudadana que afectan a la población del distrito.",
+            "objective": "Implementar módulos preventivos contra la inseguridad en el distrito.",
+            "goal": "Alcanzar una cobertura de beneficiarios del 50% para el año 2027, 70% para 2028, 85% para 2029 y 100% para 2030.",
+            "indicator": "Disminuir el índice de delincuencia mediante la ejecución del programa de seguridad ciudadana “ATE SE RESPETA”, el cual se desarrollará de manera integrada con la Policía Nacional, fortaleciendo las juntas vecinales y el sistema de videovigilancia distrital."
+          },
+          {
+            "problem": "Condiciones inadecuadas en la prestación de servicios de salud en el distrito.",
+            "objective": "Contribuir con servicios de salud de calidad y gestionar proyectos de infraestructura sanitaria como hospitales, postas médicas y centros materno-infantiles.",
+            "goal": "Lograr una cobertura de beneficiarios del 50% en 2027, 70% en 2028, 85% en 2029 y 100% en 2030.",
+            "indicator": "Mejorar el servicio del Policlínico Municipal para atención 24 horas, e implementar programas de salud para menores con desnutrición crónica y anemia, así como programas de reforzamiento educativo y apoyo psicológico para niños y adolescentes."
+          },
+          {
+            "problem": "Deficiencias en la calidad de los servicios educativos en el distrito.",
+            "objective": "Contribuir a la mejora de la calidad de los servicios de educación en el distrito.",
+            "goal": "Alcanzar una cobertura de beneficiarios del 50% en 2027, 70% en 2028, 85% en 2029 y 100% en 2030.",
+            "indicator": "Fomentar el arte y la cultura a través del programa “TODAS LAS SANGRES” y la creación del proyecto “PRIMER ORQUESTA SINFÓNICA DE ATE”. Además, gestionar la creación de la primera Institución Educativa Municipal Distrital de Ate Vitarte."
+          },
+          {
+            "problem": "Condiciones deficientes de habitabilidad y acceso a servicios básicos en el distrito.",
+            "objective": "Mejorar las condiciones de habitabilidad en el distrito.",
+            "goal": "Incrementar el porcentaje de beneficiarios al 50% en 2027, 70% en 2028, 85% en 2029, culminando con el 100% en 2030.",
+            "indicator": "Gestionar el acceso a servicios básicos de calidad, como agua y saneamiento, eliminando barreras burocráticas. Se facilitará la obtención de planos de catastro a costo cero para personas de bajos recursos y se promoverán programas de concientización en seguridad ante sismos."
+          },
+          {
+            "problem": "Dificultades en el sistema de transporte público del distrito.",
+            "objective": "Gestionar mejoras ante la Municipalidad Metropolitana de Lima, el Ministerio de Transportes y Comunicaciones y la futura Autoridad de Transporte Urbano.",
+            "goal": "Lograr una cobertura de beneficiarios del 50% en 2027, 70% en 2028, 85% en 2029 y 100% en 2030.",
+            "indicator": "Mejorar la infraestructura vial y la señalización, establecer paraderos en la carretera central, controlar la velocidad permitida y ejecutar obras programadas, además de generar educación vial en la población."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad laboral y baja competitividad en el distrito de Ate Vitarte.",
+            "objective": "Promover la competitividad económica en el distrito.",
+            "goal": "Alcanzar progresivamente una cobertura de beneficiarios del 50% en 2027, 70% en 2028, 85% en 2029 y 100% para el año 2030.",
+            "indicator": "Implementar programas de formalización y capacitación para comerciantes informales y transportistas. Fomentar actividades de asistencia técnica y acompañamiento para madres solteras. Promover zonas culturales, turísticas y gastronómicas en puntos estratégicos del distrito."
+          },
+          {
+            "problem": "Infraestructura insuficiente para el desarrollo de actividades productivas y comerciales.",
+            "objective": "Mejorar el servicio de transporte y tránsito para facilitar la actividad económica.",
+            "goal": "Lograr una cobertura de beneficiarios del 50% en 2027, 70% en 2028, 85% en 2029 y 100% para 2030.",
+            "indicator": "Fomentar programas para el desarrollo de ferias agropecuarias, gestionar la creación del primer terminal pesquero del distrito y construir infraestructura vial urbana en buen estado para mejorar la conectividad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Degradación de espacios públicos y falta de áreas verdes en el distrito.",
+            "objective": "Mejorar la calidad ambiental del distrito.",
+            "goal": "Aumentar la cobertura de beneficiarios al 50% en 2027, 70% en 2028, 85% en 2029 y 100% en 2030.",
+            "indicator": "Implementar la recuperación de parques y jardines, la arborización del distrito, la construcción de nuevos parques y la supervisión y recuperación de los jardineles de las calles."
+          },
+          {
+            "problem": "Contaminación generada por residuos sólidos y emisiones industriales.",
+            "objective": "Mejorar la calidad ambiental en el distrito.",
+            "goal": "Alcanzar una cobertura de beneficiarios del 50% en 2027, 70% en 2028, 85% en 2029 y 10% en 2030.",
+            "indicator": "Controlar y fomentar actividades sobre agentes contaminantes, recojo y reciclaje. Supervisar a las empresas industriales para mitigar la contaminación ambiental que afecta a la población, en especial a los niños."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiente gestión institucional en la municipalidad distrital.",
+            "objective": "Fortalecer la gestión institucional.",
+            "goal": "Alcanzar el 100% de cumplimiento en los indicadores de gestión institucional desde el año 2027 hasta el 2030.",
+            "indicator": "Asegurar la ejecución presupuestal al 100%, fomentar la participación ciudadana en el presupuesto participativo y procesos de concertación, supervisar la prestación de servicios públicos, designar funcionarios capacitados y actualizar los instrumentos de gestión."
+          },
+          {
+            "problem": "Respuesta institucional deficiente ante los altos índices de inseguridad ciudadana.",
+            "objective": "Reducir los índices de inseguridad ciudadana en el distrito.",
+            "goal": "Lograr una cobertura del 100% de beneficiarios en las actividades de seguridad desde el año 2027 hasta el 2030.",
+            "indicator": "Garantizar un presupuesto debidamente distribuido para programas y actividades en beneficio de la población ante hechos delictivos, así como realizar el control y seguimiento de las actividades del Plan de Seguridad Ciudadana."
+          },
+          {
+            "problem": "Débil participación vecinal en las labores de seguridad ciudadana.",
+            "objective": "Fortalecer los espacios de participación vecinal de manera focalizada en el distrito.",
+            "goal": "Alcanzar una participación del 100% de los sectores involucrados desde el año 2027 hasta el 2030.",
+            "indicator": "Asegurar la constitución y fortalecimiento de las juntas vecinales y la participación de los sectores involucrados en la labor de seguridad ciudadana."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-137545",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: APROPIACION ILICITA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2015-03-12",
+      "details": {
+        "materia": "APROPIACION ILICITA",
+        "fallo": "TRES AÑOS DE PENA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "JUZGADO PENAL LIQUIDADOR SEDE CARAPONGO",
+        "expediente": "00385-2012",
+        "comentario": null
+      },
+      "quote": "APROPIACION ILICITA · TRES AÑOS DE PENA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-13AVS4BlqpzVbwHMbp787qo88qcUfEtB"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-140817",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: VIOLENCIA FAMILIAR",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "VIOLENCIA FAMILIAR",
+        "juzgado": "1 JUZGADO DE FAMILIA DE ATE",
+        "expediente": "3585-2018-FT",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "VIOLENCIA FAMILIAR",
+      "sourceIds": [
+        "jne-hv-13AVS4BlqpzVbwHMbp787qo88qcUfEtB"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-13AVS4BlqpzVbwHMbp787qo88qcUfEtB",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/13AVS4BlqpzVbwHMbp787qo88qcUfEtB",
+      "sha256": "c5c46195ba3ec89df005f35b28c030d27cd8f1bf0049e12e8cce07f0589b33d4",
+      "accessedAt": "2026-10-02T22:50:54.546Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017033",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017033",
+      "sha256": "e69f986c6720d19f6b1fa86ce8f14a9cddb782f616f54b9cf579cd539dea9717",
+      "accessedAt": "2026-10-02T22:50:55.084Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

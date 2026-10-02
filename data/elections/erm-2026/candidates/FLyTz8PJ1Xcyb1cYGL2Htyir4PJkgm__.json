@@ -1,0 +1,207 @@
+{
+  "id": "FLyTz8PJ1Xcyb1cYGL2Htyir4PJkgm__",
+  "slug": "rene-alfredo-yucra-verastegui",
+  "electionId": "erm-2026",
+  "name": "Rene Alfredo Yucra Verastegui",
+  "givenNames": "Rene Alfredo",
+  "surnames": "Yucra Verastegui",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:14.774Z",
+      "sourceId": "jne-hv-FLyTz8PJ1Xcyb1cYGL2Htyir4PJkgm__"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PARTICULAR SAN MARTIN DE PORRES",
+        "program": "LICENCIADO EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "EMPRESA - SERVICIO DE MOTOTAXI \"18 DE ABRIL\" S.A.C.",
+      "role": "TRANSPORTE",
+      "from": "2003",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 26152,
+        "public": 26152,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 41689,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 2691,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 41689,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SERVICIOS DE MOTOTAXI \"18 DE ABRIL\" S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 54,
+        "value": 2700
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/27e2bf3a-e17a-4979-8310-f5cc35bb206f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a32e9d4e-7940-40c3-9124-389caac6c29b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de inseguridad ciudadana, manifestados en robos, hurtos, delitos contra el patrimonio y microcomercialización de drogas, que afectan la tranquilidad de la población.",
+            "objective": "Brindar y garantizar la seguridad pública y la certeza jurídica a los ciudadanos del distrito a través de la aplicación del marco jurídico, la prevención y la participación activa de la sociedad y las juntas vecinales.",
+            "goal": "Implementar un centro de monitoreo con cámaras de videovigilancia en las siete zonas del distrito y construir una Central Distrital de Serenazgo debidamente equipada para coordinar con la policía nacional y las juntas vecinales.",
+            "indicator": "Número de cámaras de videovigilancia instaladas y operativas. Creación de una central de serenazgo. Número de patrullajes integrados realizados."
+          },
+          {
+            "problem": "Acceso limitado a una educación de calidad, deserción escolar y falta de oportunidades de formación técnica y superior para los jóvenes.",
+            "objective": "Fortalecer la educación en todos sus niveles, promoviendo la igualdad de oportunidades, el desarrollo integral de los estudiantes y su acceso a la educación superior.",
+            "goal": "Construir la Academia Preuniversitaria Municipal, celebrar convenios con institutos y universidades para programas de capacitación, y crear escuelas y bibliotecas municipales virtuales.",
+            "indicator": "Número de academias preuniversitarias municipales construidas. Cantidad de convenios suscritos con instituciones de educación superior. Número de bibliotecas virtuales creadas."
+          },
+          {
+            "problem": "Insuficiente cobertura y calidad en los servicios de salud, así como una carencia de programas de prevención de enfermedades en la comunidad.",
+            "objective": "Alcanzar mejores niveles de bienestar social y calidad de vida para los habitantes mediante la mejora de los servicios de salud y el fomento de una cultura de prevención.",
+            "goal": "Gestionar la mejora de los servicios médicos en postas y centros de salud, ampliando sus instalaciones y renovando sus equipos, además de realizar jornadas médico-asistenciales periódicas en el distrito.",
+            "indicator": "Porcentaje de mejora en la infraestructura y equipamiento de los centros de salud. Número de campañas de salud gratuitas realizadas anualmente."
+          },
+          {
+            "problem": "Carencia de espacios adecuados para el deporte y la recreación, lo que contribuye a la exposición de los jóvenes a la violencia y el pandillaje.",
+            "objective": "Impulsar masivamente las actividades deportivas para todas las edades como una forma de recreación sana y un factor protector contra la violencia juvenil.",
+            "goal": "Apoyar la remodelación y construcción del estadio “Héctor Chumpitaz” y proponer la construcción de una unidad deportiva multidisciplinaria para el municipio.",
+            "indicator": "Número de infraestructuras deportivas construidas o remodeladas. Cantidad de torneos y eventos deportivos organizados para niños y jóvenes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Insuficiente y desarticulada estructura productiva, comercial y de servicios, lo que genera una limitada actividad económica, especialmente en los sectores técnico, industrial y artesanal.",
+            "objective": "Fomentar el desarrollo empresarial y comercial en el distrito, brindando apoyo integral a los emprendedores para fortalecer la economía local.",
+            "goal": "Establecer un programa para emprendedores que brinde servicios de promoción empresarial, incluyendo información, asesoría, soporte técnico y crediticio, a través de un Centro de Apoyo Empresarial.",
+            "indicator": "Número de emprendedores que reciben asesoría y soporte técnico. Creación y funcionamiento de un Centro de Apoyo Empresarial."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo formal y adecuado, con una alta incidencia de desempleo y subempleo, afectando principalmente a la población juvenil.",
+            "objective": "Mejorar las oportunidades de empleo para los habitantes del distrito, con especial énfasis en los grupos más vulnerables, a través de mecanismos institucionales de inserción laboral.",
+            "goal": "Crear una Bolsa de Trabajo que permita la colocación laboral de los profesionales y técnicos del distrito, así como una bolsa de trabajo juvenil permanente con talleres de capacitación.",
+            "indicator": "Tasa de operatividad de la bolsa de trabajo municipal. Número de jóvenes colocados a través de la bolsa de trabajo juvenil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de los residuos sólidos y existencia de focos de contaminación ambiental que deterioran el entorno y la calidad de vida de los habitantes.",
+            "objective": "Implementar un sistema de gestión integral de residuos sólidos y desarrollar acciones para la reducción de la contaminación, promoviendo un ambiente sano y ecológicamente sostenible.",
+            "goal": "Analizar la viabilidad para la instalación de una planta de reciclado de residuos sólidos y para la constitución de una empresa paramunicipal de recolección y disposición final de la basura.",
+            "indicator": "Porcentaje de avance en los estudios de viabilidad para la planta de reciclaje. Elaboración y aprobación del Programa Ambiental Municipal."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y un sistema de transporte ineficiente que carecen de un enfoque ecológico, generando un impacto negativo en el medio ambiente.",
+            "objective": "Fortalecer y modernizar el proceso de ordenamiento territorial y desarrollo urbano bajo un concepto de viabilidad ecológica, a través de una adecuada reglamentación y planeación.",
+            "goal": "Instrumentar un plan integral de transporte y vialidad, modernizar el transporte urbano colectivo y motorizado, y ejecutar diversos programas de arborización y embellecimiento en el distrito.",
+            "indicator": "Elaboración e implementación de un plan integral de transporte y vialidad. Número de hectáreas arborizadas como parte de los programas de embellecimiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia en la gestión municipal, con presuntos indicios de corrupción en licitaciones y ejecución de obras públicas sobrevaloradas y de mala calidad.",
+            "objective": "Garantizar una gestión municipal transparente, eficiente y con una estricta rendición de cuentas sobre el uso de los recursos públicos, combatiendo frontalmente la corrupción.",
+            "goal": "Realizar una rendición de cuentas semestral, veraz y sincera sobre el gasto municipal, y garantizar que la planificación y ejecución de obras se realicen dentro de los cánones legales.",
+            "indicator": "Frecuencia de publicación de las rendiciones de cuentas semestrales. Porcentaje de obras ejecutadas bajo una planificación urbanística y con licitaciones acordes a ley."
+          },
+          {
+            "problem": "Débil participación ciudadana en los asuntos públicos y ausencia de mecanismos efectivos para el control social sobre la gestión municipal.",
+            "objective": "Promover e institucionalizar la participación ciudadana en la toma de decisiones y en la fiscalización de la gestión, fortaleciendo la democracia participativa a nivel local.",
+            "goal": "Diseñar mecanismos de información y transparencia, publicando la rendición de cuentas periódica en la página web de la municipalidad y complementándola con cabildos abiertos anuales.",
+            "indicator": "Número de mecanismos de información y transparencia implementados en la web municipal. Frecuencia de realización de cabildos abiertos anuales."
+          },
+          {
+            "problem": "Deficiente cobro de arbitrios y servicios municipales, lo que afecta la capacidad financiera de la municipalidad para brindar servicios de calidad a los vecinos.",
+            "objective": "Elevar los niveles de calidad y rendimiento en las áreas y unidades orgánicas de la municipalidad, optimizando la recaudación para mejorar la atención y los servicios públicos.",
+            "goal": "Resolver el deficiente cobro de arbitrios y servicios municipales para fortalecer las finanzas locales, lo que permitirá brindar una mejor atención y servicios de calidad a la comunidad.",
+            "indicator": "Tasa de recaudación de arbitrios y servicios municipales. Índice de satisfacción de los vecinos con los servicios municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-FLyTz8PJ1Xcyb1cYGL2Htyir4PJkgm__",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/FLyTz8PJ1Xcyb1cYGL2Htyir4PJkgm__",
+      "sha256": "3ce10ee0f1388712211df4b3f5b0e4d53d31b35ed861be9c5778fed368cdfa24",
+      "accessedAt": "2026-10-02T23:07:14.774Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018890",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018890",
+      "sha256": "85d93420df9b01d8077f3dd4bc87ce8127b5694d17d486632a8cb0ebda43cfc1",
+      "accessedAt": "2026-10-02T23:07:15.427Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

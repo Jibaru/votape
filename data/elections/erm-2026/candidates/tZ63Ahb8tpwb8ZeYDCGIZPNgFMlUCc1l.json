@@ -1,0 +1,269 @@
+{
+  "id": "tZ63Ahb8tpwb8ZeYDCGIZPNgFMlUCc1l",
+  "slug": "edwin-subileti-areche",
+  "electionId": "erm-2026",
+  "name": "Edwin Subileti Areche",
+  "givenNames": "Edwin",
+  "surnames": "Subileti Areche",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140139",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:42.373Z",
+      "sourceId": "jne-hv-tZ63Ahb8tpwb8ZeYDCGIZPNgFMlUCc1l"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Católica Los Ángeles de Chimbote",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Católica Los Ángeles de Chimbote",
+        "program": "BACHILLER EN DERECHO Y CIENCIA POLITICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLAREAL",
+        "program": "MAESTRIA EN DERECHO PENAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE COMAS",
+      "role": "SUB GERENTE",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2012",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CIENEGUILLA",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "DEMOCRACIA DIRECTA",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+      "year": "2022"
+    },
+    {
+      "party": "VICTORIA NACIONAL",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 108000,
+        "private": 12000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO",
+        "value": 6000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 40000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "RESPECTO AL VEHICULO DE PLACA SQL 250 SE DEJA CONSTANCIA QUE FUE OBJETO DE ROBO EN EL AÑO 2013 EXISTIENDO DENUNCIA POLICIAL PRESENTADA ANTE LA COMISARIA DE HUERTOS MANCHAY - PACHACAMAC, SIN EMBARGO EL VEHICULO FIGURA REGISTRALMENTE A MI NOMBRE."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c8f94f55-e35f-464c-9ea9-472d5bca5655.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/17d9a0cd-bd05-48b9-bac0-23979a6f351e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiente infraestructura educativa",
+            "objective": "Mejorar y modernizar la infraestructura educativa del distrito",
+            "goal": "70% de instituciones educativas contarán con infraestructura adecuada y segura",
+            "indicator": "Porcentaje de instituciones educativas mejoradas"
+          },
+          {
+            "problem": "Sectores sociales vulnerables con limitado acceso a programas de protección social",
+            "objective": "Fortalecer la protección integral de la población vulnerable mediante programas de asistencia y orientación social",
+            "goal": "80% de hogares vulnerables accederán a programas de orientación y protección de derechos",
+            "indicator": "Porcentaje de población vulnerable atendida por programas sociales municipales"
+          },
+          {
+            "problem": "Infraestructura deficiente en establecimientos de salud",
+            "objective": "Fortalecer los servicios de salud mediante infraestructura y equipamiento adecuado",
+            "goal": "70% de establecimientos de salud serán implementados y mejorados progresivamente",
+            "indicator": "Número de establecimientos de salud mejorados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades laborales",
+            "objective": "Impulsar la inversión y generación de empleo sostenible",
+            "goal": "Implementar programas de capacitación y promoción de PYMES beneficiando al 70% de emprendedores",
+            "indicator": "Tasa de empleabilidad local"
+          },
+          {
+            "problem": "Escaso desarrollo económico local",
+            "objective": "Promover el crecimiento económico local mediante capacitación y fortalecimiento productivo",
+            "goal": "Incrementar en 70% las actividades económicas locales",
+            "indicator": "Índice de crecimiento económico distrital"
+          },
+          {
+            "problem": "Limitado apoyo a emprendedores",
+            "objective": "Fortalecer el emprendimiento y la competitividad empresarial",
+            "goal": "60% de emprendimientos locales accederán a programas de fortalecimiento y asistencia técnica",
+            "indicator": "Númerode emprendimientos fortalecidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuado manejo de residuos sólidos",
+            "objective": "Implementar un sistema eficiente de gestión integral de residuos sólidos",
+            "goal": "Capacitar al 100% de la población sobre manejo de residuos sólidos y cuidado ambiental",
+            "indicator": "Cobertura de programas de manejo de residuos sólidos"
+          },
+          {
+            "problem": "Deficiente reforestación y deterioro ecológico",
+            "objective": "Ejecutar programas permanentes de reforestación y recuperación ambiental",
+            "goal": "Reforestar el 70% de zonas críticas identificadas",
+            "indicator": "Áreas reforestadas del distrito"
+          },
+          {
+            "problem": "Escasa conciencia ambiental en la población",
+            "objective": "Promover una cultura ambiental responsable y participativa",
+            "goal": "90% de la población participará en campañas y programas de educación ambienta",
+            "indicator": "Porcentaje de población capacitada en educación ambiental"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Administración pública ineficiente y poco transparente",
+            "objective": "Fortalecer la transparencia y participación ciudadana en la gestión municipal",
+            "goal": "Implementar mecanismos de transparencia y rendición de cuentas al 100%",
+            "indicator": "Nivel de satisfacción ciudadana respecto a la gestión municipal"
+          },
+          {
+            "problem": "Uso ineficiente de recursos públicos",
+            "objective": "Garantizar una gestión eficiente y responsable de los recursos municipales",
+            "goal": "Implementar políticas de control y eficiencia en el uso de recursos municipales",
+            "indicator": "Porcentaje de optimización del gasto público"
+          },
+          {
+            "problem": "Excesiva burocracia administrativa",
+            "objective": "Modernizar la administración pública mediante herramientas tecnológicas y simplificación administrativa",
+            "goal": "Reducir en 90% los tiempos de atención mediante digitalización y modernización administrativa",
+            "indicator": "Tiempo promedio de atención administrativa"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-136409",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: CONTRA LA FE PUBLICA TENTATIVA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "1993-10-27",
+      "details": {
+        "materia": "CONTRA LA FE PUBLICA TENTATIVA",
+        "fallo": "1 AÑO",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "NOVENO JUZGADO PENAL DE LIMA",
+        "expediente": "680-1993",
+        "comentario": null
+      },
+      "quote": "CONTRA LA FE PUBLICA TENTATIVA · 1 AÑO · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-tZ63Ahb8tpwb8ZeYDCGIZPNgFMlUCc1l"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-tZ63Ahb8tpwb8ZeYDCGIZPNgFMlUCc1l",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/tZ63Ahb8tpwb8ZeYDCGIZPNgFMlUCc1l",
+      "sha256": "782ad6b1d6a6abb06c61555683190bbb5162f9ae1556cd7f6d3fcc9884722d99",
+      "accessedAt": "2026-10-02T22:54:42.373Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014990",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014990",
+      "sha256": "47b4e6cb9cd05749a557e130affe23985df7bf53189c3103e22410a0c75b40af",
+      "accessedAt": "2026-10-02T22:54:43.108Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

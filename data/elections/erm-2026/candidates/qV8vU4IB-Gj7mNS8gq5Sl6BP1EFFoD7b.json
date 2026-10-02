@@ -1,0 +1,283 @@
+{
+  "id": "qV8vU4IB-Gj7mNS8gq5Sl6BP1EFFoD7b",
+  "slug": "lucio-hernan-cabello-morales",
+  "electionId": "erm-2026",
+  "name": "Lucio Hernan Cabello Morales",
+  "givenNames": "Lucio Hernan",
+  "surnames": "Cabello Morales",
+  "age": 70,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:22.064Z",
+      "sourceId": "jne-hv-qV8vU4IB-Gj7mNS8gq5Sl6BP1EFFoD7b"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "TÍTULO PROFESIONAL DE INGENIERO MECÁNICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "BACHILLER EN CIENCIAS CON MENCIÓN EN INGENIERÍA MECÁNICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ASOCIACION EDUCATIVA ANTUNZ DE MAYOLO",
+      "role": "PROMOTOR/DIRECTOR/I.E.P CAYETANIO HEREDIA",
+      "from": "1996",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2007"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 40000,
+        "public": 0,
+        "private": 40000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "LOCAL/VIVIENDA",
+        "value": 905348,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 50000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA/ROJA",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PROMOVI EL MOVIMIENTO POLITICO \"MODE\"(2001 - 2003) EN LOS OLIVOS",
+    "TENIENTE GOBERNADOR DE LOS OLIVOS (1998 - 1999); RESOLUCION N°393-98-302-PL/SP-LIMA"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1212521e-c5f8-46b8-bb23-470930d59a5f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/38a23273-890f-4cbf-89fb-f68f1485044b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente cobertura del servicio de serenazgo en los sectores más alejados del distrito, lo que incrementa los índices delictivos.",
+            "objective": "Descentralizar el servicio de Serenazgo para garantizar patrullaje permanente en los 17 sectores, equipar al personal con armas no letales autorizadas e implementar una central de videovigilancia con tecnología de reconocimiento facial.",
+            "goal": "Lograr el patrullaje motorizado permanente en los 17 sectores del distrito, con presencia efectiva durante el día y la noche.",
+            "indicator": "Porcentaje de sectores del distrito con cobertura de patrullaje permanente. Número de cámaras de videovigilancia instaladas y operativas."
+          },
+          {
+            "problem": "Persistente violencia contra la mujer y falta de atención integral a las víctimas en el distrito.",
+            "objective": "Crear la Casa de la Mujer de Puente Piedra para brindar defensa legal gratuita, acompañamiento psicológico, terapia grupal y talleres psicoeducativos de prevención.",
+            "goal": "Habilitar espacios dentro del Palacio de la Cultura para el funcionamiento de la Casa de la Mujer, brindando atención integral a las víctimas de violencia.",
+            "indicator": "Número de víctimas de violencia atendidas con defensa legal y acompañamiento psicológico. Cantidad de talleres de prevención realizados en escuelas."
+          },
+          {
+            "problem": "Carencia de pavimentación, veredas, escaleras y muros de contención en gran parte de los 17 sectores del distrito, lo que dificulta el acceso a servicios y eleva el riesgo ante desastres.",
+            "objective": "Ejecutar una pavimentación masiva en los 17 sectores, construir escaleras, muros de contención y veredas en zonas de ladera, y revisar expedientes técnicos paralizados para su ejecución.",
+            "goal": "Priorizar la pavimentación en zonas sin atención histórica y construir la infraestructura necesaria en zonas de ladera y cerros.",
+            "indicator": "Kilómetros de vías pavimentadas. Número de escaleras y muros de contención construidos."
+          },
+          {
+            "problem": "Falta de equipamiento y formalización de las organizaciones sociales de base dedicadas a la alimentación, lo que limita su capacidad de atención y acceso a subsidios.",
+            "objective": "Optimizar los recursos alimentarios comunitarios a través de los comedores y comités de vaso de leche, modernizando y equipando las ollas comunes y comedores populares.",
+            "goal": "Alcanzar el 100% de ollas comunes y comedores equipados y formalizados para el año 2031.",
+            "indicator": "Ollas comunes y comedores equipados y formalizados con subsidio."
+          },
+          {
+            "problem": "Vulnerabilidad alimentaria y de salud pública, evidenciada en ollas comunes y comedores populares que operan con presupuestos deficitarios e infraestructura precaria.",
+            "objective": "Garantizar la protección social, erradicar la desnutrición crónica y reducir a la mitad los niveles de anemia infantil en el distrito al 2031.",
+            "goal": "Reducir la tasa de anemia infantil al 15.0% para el año 2031.",
+            "indicator": "Tasa de anemia infantil en niños de 6 a 36 meses en sectores vulnerables."
+          },
+          {
+            "problem": "Brechas críticas de infraestructura básica y saneamiento, con un déficit del 25% en pavimentación vial e infraestructura peatonal moderna en diversos sectores del distrito.",
+            "objective": "Reducir en un 80% el déficit de infraestructura vial, peatonal y de servicios básicos en los asentamientos humanos y zonas urbanas, promoviendo una movilidad urbana fluida y accesible.",
+            "goal": "Asfaltar 30 kilómetros de vías para el año 2031.",
+            "indicator": "Kilómetros de vías internas y colectoras pavimentadas o asfaltadas."
+          },
+          {
+            "problem": "Riesgo para la seguridad y accesibilidad de los residentes en las zonas altas del distrito debido a la falta de infraestructura peatonal adecuada en laderas de alto riesgo geotécnico.",
+            "objective": "Reducir el déficit de infraestructura peatonal en los asentamientos humanos, garantizando la accesibilidad universal para niños y adultos mayores en las zonas altas del distrito.",
+            "goal": "Construir 35 unidades de escaleras con iluminación solar y muros de contención en laderas para el año 2031.",
+            "indicator": "Escaleras con iluminación solar y muros construidos en laderas."
+          },
+          {
+            "problem": "Limitado número de establecimientos de salud, los cuales operan con infraestructura deteriorada y equipamiento desactualizado.",
+            "objective": "Mejorar integralmente las postas médicas existentes, construir un Mega Centro de Salud Municipal, habilitar Boticas Municipales y continuar la construcción del Hospital Municipal.",
+            "goal": "Construir un Mega Centro de Salud Municipal y mejorar integralmente las postas médicas existentes en el distrito.",
+            "indicator": "Número de postas médicas con infraestructura y equipamiento renovado. Número de nuevos establecimientos de salud construidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Predominio de la informalidad en el tejido económico local, con pequeños emprendedores operando sin licencias, sin acceso a crédito formal y sin capacitación.",
+            "objective": "Formalizar a los comerciantes ambulantes mediante cronogramas de regularización, implementar un programa de crédito municipal para pequeños emprendedores y asesorar a jóvenes para la formación de MYPES.",
+            "goal": "Implementar cronogramas de regularización y asignar espacios ordenados de venta para los comerciantes ambulantes, junto con capacitación en educación tributaria.",
+            "indicator": "Porcentaje de comerciantes ambulantes formalizados. Número de créditos otorgados a pequeños emprendedores a través del programa municipal."
+          },
+          {
+            "problem": "Alta informalidad económica y subempleo, con más del 65% de las unidades comerciales y de servicios operando en la informalidad, y una burocracia que fomenta dichas prácticas.",
+            "objective": "Incrementar en un 60% la formalización empresarial de las micro y pequeñas empresas (MYPE) y potenciar la generación de empleo joven digno a nivel distrital.",
+            "goal": "Lograr que el 100% de los trámites de licencias comerciales se emitan vía web para el año 2031.",
+            "indicator": "Porcentaje de trámites de licencias comerciales emitidos vía web (24h)."
+          },
+          {
+            "problem": "Caos vehicular e informalidad del transporte menor, con mototaxistas operando sin SOAT, placa o licencia, generando congestión y riesgo.",
+            "objective": "Formalizar y empadronar obligatoriamente a los mototaxistas, desarrollar una aplicación móvil para el servicio, crear paraderos oficiales y renovar la señalización vial.",
+            "goal": "Lograr que ninguna unidad de mototaxi opere al margen de la ley, exigiendo SOAT, placa y número de identificación visible.",
+            "indicator": "Porcentaje de mototaxistas empadronados y con documentación en regla. Número de paraderos oficiales construidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Uso no controlado y sin fiscalización de agroquímicos en zonas agrícolas periféricas, representando un riesgo directo para la salud de la población.",
+            "objective": "Establecer un convenio con SENASA, MINAM y DIGESA para el control y fiscalización del uso de agroquímicos, realizar campañas de concientización y promover técnicas de cultivo sin agroquímicos.",
+            "goal": "Emitir una ordenanza municipal que regule y fiscalice el uso de agroquímicos en las áreas de cultivo del distrito, con sanciones claras ante el incumplimiento.",
+            "indicator": "Número de fiscalizaciones realizadas. Número de campañas de concientización sobre los riesgos del consumo de alimentos con agroquímicos."
+          },
+          {
+            "problem": "Pasivos ambientales y riesgo de desastres, incluyendo la contaminación de la cuenca del río Chillón por arrojo de desmonte y basura, y un déficit de áreas verdes.",
+            "objective": "Asegurar la protección de los ecosistemas del distrito, recuperar y brindar mantenimiento de la cuenca del río Chillón, e incrementar los metros cuadrados de áreas verdes por habitante.",
+            "goal": "Sembrar 10,000 árboles para el año 2031.",
+            "indicator": "Árboles sembrados en la zona urbana y ribera del Chillón."
+          },
+          {
+            "problem": "Contaminación ambiental por acumulación de residuos sólidos, escasez de áreas verdes, contaminación sonora y del Río Chillón, agravada por la falta de educación ambiental.",
+            "objective": "Implementar el programa \"Puente Piedra Verde\" para la siembra masiva de árboles, establecer un vivero municipal para producción de plantas y ampliar la flota de recojo de residuos sólidos.",
+            "goal": "Garantizar la cobertura del recojo de residuos con horarios fijos por sector en los 17 sectores del distrito.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo de residuos en el distrito. Número de árboles y plantas sembrados en vías, parques y laderas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Opacidad e ineficiencia institucional, con una percepción del 85% de la ciudadanía sobre corrupción en trámites municipales y portales de transparencia con datos desactualizados.",
+            "objective": "Lograr el 100% de cumplimiento en los estándares de transparencia gubernamental y digitalizar los trámites municipales para desterrar los focos de corrupción.",
+            "goal": "Alcanzar el 100% de cumplimiento permanente del Portal de Transparencia Estándar para el año 2031.",
+            "indicator": "Cumplimiento del Portal de Transparencia Estándar (Ley N° 27806)."
+          },
+          {
+            "problem": "Inseguridad ciudadana desbordada, con un incremento del 45% en denuncias por extorsión y robos, y más de la mitad de las cámaras de videovigilancia inoperativas o desactualizadas.",
+            "objective": "Reducir en un 50% la victimización delictiva y la percepción de inseguridad mediante la modernización del sistema de cámaras inteligentes y la capacitación del serenazgo.",
+            "goal": "Alcanzar 600 cámaras de videovigilancia operativas para el año 2031.",
+            "indicator": "Cámaras de videovigilancia interconectadas e inteligentes operando."
+          },
+          {
+            "problem": "Déficit crítico de personal de seguridad ciudadana, con una proporción de un efectivo de serenazgo por cada 2,500 habitantes, limitando la capacidad de respuesta.",
+            "objective": "Reducir la percepción de inseguridad trabajando de manera articulada y en tiempo real con la Policía Nacional del Perú (PNP) y las Juntas Vecinales de seguridad ciudadana.",
+            "goal": "Incrementar a 300 el número de efectivos de serenazgo en servicio activo para el año 2031.",
+            "indicator": "Número de efectivos de serenazgo vecinal en servicio activo."
+          },
+          {
+            "problem": "Desconfianza ciudadana hacia la municipalidad como resultado de gestiones opacas, contratos irregulares y recursos mal utilizados que han erosionado la credibilidad institucional.",
+            "objective": "Contratar personal municipal por mérito, implementar un portal de transparencia en tiempo real, realizar rendiciones de cuentas públicas semestrales y crear la Contraloría Ciudadana de Puente Piedra.",
+            "goal": "Implementar un portal de transparencia municipal con información accesible sobre presupuesto, contratos y obras en curso, y crear una línea de denuncia ciudadana anónima contra la corrupción.",
+            "indicator": "Porcentaje de personal contratado mediante procesos de selección transparentes. Frecuencia de las rendiciones de cuentas públicas."
+          },
+          {
+            "problem": "Falta de transformación digital en la gestión municipal, lo que dificulta la atención al vecino y la transparencia.",
+            "objective": "Desarrollar la App Municipal \"Puente Piedra Conectado\" para trámites en línea, implementar un portal web de transparencia y digitalizar los trámites municipales como licencias, pagos y certificados.",
+            "goal": "Digitalizar los principales trámites municipales para que sean accesibles desde cualquier dispositivo y ofrecer WiFi gratuito en espacios públicos clave.",
+            "indicator": "Número de trámites municipales disponibles para realizar en línea. Nivel de uso de la aplicación móvil por parte de los ciudadanos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-142717",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "MBJ CARAZ",
+        "expediente": "2002-066-02602JP_FA_01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-qV8vU4IB-Gj7mNS8gq5Sl6BP1EFFoD7b"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-qV8vU4IB-Gj7mNS8gq5Sl6BP1EFFoD7b",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/qV8vU4IB-Gj7mNS8gq5Sl6BP1EFFoD7b",
+      "sha256": "85664223abffa805f607e4d9a2ea8dd9baabb80b66334fbeaac7ac0ba68ca33e",
+      "accessedAt": "2026-10-02T22:58:22.064Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017976",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017976",
+      "sha256": "45713be86a2e64d99088cf9d9cd97338b7a896d05b8d93240cefd5890d7acf58",
+      "accessedAt": "2026-10-02T22:58:22.611Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

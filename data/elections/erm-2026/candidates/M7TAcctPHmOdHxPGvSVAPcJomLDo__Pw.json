@@ -1,0 +1,209 @@
+{
+  "id": "M7TAcctPHmOdHxPGvSVAPcJomLDo__Pw",
+  "slug": "walter-alfonso-cavero-villanes",
+  "electionId": "erm-2026",
+  "name": "Walter Alfonso Cavero Villanes",
+  "givenNames": "Walter Alfonso",
+  "surnames": "Cavero Villanes",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 2988,
+    "name": "VISION PERU"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:00.099Z",
+      "sourceId": "jne-hv-M7TAcctPHmOdHxPGvSVAPcJomLDo__Pw"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "OFICINA NACIONAL DE PROCESOS ELECTORALES",
+      "role": "ABOGADO",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ORGANIZACIÓN POLÍTICA LOCAL PROVINCIAL ORGANIZACION POLITICA LOCAL PROVINCIAL DIALOGO VECINAL",
+      "year": "2010"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 54000,
+        "public": 54000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTO",
+        "value": 5000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4b6c3cbe-2a60-47ce-91ea-b7544970b644.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c98f54b0-17e1-4330-b4d5-2ed96af080a5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil atención a poblaciones vulnerables, como adultos mayores, niños, adolescentes en riesgo social y personas con discapacidad, que demandan mayores programas de integración y salud preventiva.",
+            "objective": "Promover el bienestar integral mediante programas sociales inclusivos, salud preventiva, cultura y deporte.",
+            "goal": "Incrementar en un 30% la cobertura de programas municipales y sociales, y aumentar anualmente la inserción de adultos mayores en programas de empleo y emprendimiento.",
+            "indicator": "Número de beneficiarios atendidos en los programas sociales, número de campañas de salud ejecutadas y número de adultos mayores incorporados al mercado laboral."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad y temor ciudadano, relacionada con la incidencia de robos al paso, hurtos de autopartes y deficiencias en la cobertura de vigilancia.",
+            "objective": "Fortalecer la seguridad ciudadana mediante un modelo preventivo, tecnológico y participativo.",
+            "goal": "Reducir la tasa de delitos en el distrito, reducir en un 35% la percepción de inseguridad y disminuir el tiempo de respuesta del serenazgo a menos de 7 minutos.",
+            "indicator": "Tasa de delitos en el distrito, percepción de inseguridad de la población, tiempo de respuesta de serenazgo y número de juntas vecinales activas."
+          },
+          {
+            "problem": "Deterioro de diversos espacios públicos como veredas, parques y áreas comunes, los cuales requieren una recuperación integral y un mantenimiento permanente.",
+            "objective": "Consolidar un desarrollo urbano ordenado, accesible y sostenible, recuperando parques y espacios recreativos.",
+            "goal": "Recuperar y mantener el 100% de parques y espacios públicos priorizados, y modernizar parques, áreas verdes y espacios públicos estratégicos.",
+            "indicator": "Parques recuperados y nivel de satisfacción vecinal respecto al orden urbano."
+          },
+          {
+            "problem": "Congestión vehicular notable y un déficit de estacionamientos permitidos, agravado por deficiencias estructurales en la señalización vial y la ausencia de un sistema de semaforización inteligente.",
+            "objective": "Consolidar un desarrollo urbano ordenado, accesible y sostenible, reordenando las rutas de transporte para reducir la congestión.",
+            "goal": "Reducir significativamente la congestión vehicular en vías críticas y modernizar los corredores viales estratégicos.",
+            "indicator": "Reducción de congestión vehicular en vías críticas e intersecciones modernizadas con semáforos inteligentes instalados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil promoción turística que no articula adecuadamente el potencial cultural e histórico del distrito con el desarrollo económico local.",
+            "objective": "Impulsar la reactivación económica, el emprendimiento y el turismo cultural, fortaleciendo los circuitos turísticos y culturales.",
+            "goal": "Incrementar en un 30% el flujo turístico distrital.",
+            "indicator": "Incremento de visitantes turísticos y participación en ferias y eventos."
+          },
+          {
+            "problem": "Estancamiento del comercio local, donde las MYPES y negocios de barrio, que constituyen el sustento de muchas familias, enfrentan dificultades para su modernización y competitividad.",
+            "objective": "Impulsar la reactivación económica, el emprendimiento y el turismo cultural.",
+            "goal": "Incrementar en un 30% la formalización comercial y aumentar en un 30% los negocios digitalizados.",
+            "indicator": "Número de negocios formalizados y número de negocios digitalizados."
+          },
+          {
+            "problem": "Limitada digitalización de los emprendimientos, ya que muchos negocios carecen de herramientas digitales y capacidades tecnológicas para mejorar su productividad.",
+            "objective": "Impulsar la reactivación económica, el emprendimiento y el turismo cultural, promoviendo la formalización y digitalización de negocios.",
+            "goal": "Incrementar en un 30% los negocios digitalizados en el distrito.",
+            "indicator": "Negocios digitalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión insuficiente de residuos sólidos, con persistentes deficiencias en la segregación, el reciclaje y el cumplimiento de los horarios de recolección.",
+            "objective": "Promover una gestión ambiental moderna, resiliente y participativa, fortaleciendo los programas de reciclaje y segregación.",
+            "goal": "Incrementar en un 50% la segregación de residuos.",
+            "indicator": "Hogares que participan en reciclaje y reducción de puntos críticos de residuos."
+          },
+          {
+            "problem": "Déficit de áreas verdes, con limitaciones en el mantenimiento, riego y recuperación de parques y jardines, sumado a la necesidad de una arborización urgente en diversos sectores.",
+            "objective": "Promover una gestión ambiental moderna, resiliente y participativa, incrementando las áreas verdes y la arborización.",
+            "goal": "Incrementar en un 20% las áreas verdes distritales.",
+            "indicator": "Incremento de áreas verdes y campañas ambientales ejecutadas."
+          },
+          {
+            "problem": "Contaminación por heces de perro en parques, lo cual constituye un grave problema de salud pública y ambiental por la transmisión de parásitos y bacterias.",
+            "objective": "Promover una gestión ambiental moderna, resiliente y participativa, mediante la implementación de programas de tenencia responsable de mascotas.",
+            "goal": "Implementar el Programa de Tenencia Responsable de Mascotas mediante campañas de sensibilización y empadronamiento voluntario.",
+            "indicator": "Campañas ambientales ejecutadas y operativos de fiscalización realizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de procesos administrativos complejos, burocracia, lentitud administrativa y una limitada digitalización de los servicios municipales.",
+            "objective": "Modernizar la administración municipal mediante innovación, digitalización y gobierno abierto.",
+            "goal": "Digitalizar el 80% de los trámites municipales y consolidar un sistema permanente de gobierno abierto.",
+            "indicator": "Trámites digitalizados, sistemas implementados y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Baja confianza ciudadana, que demanda mayores garantías de integridad, transparencia, rendición de cuentas y prevención de actos de corrupción.",
+            "objective": "Fortalecer la transparencia, la integridad institucional y el control ciudadano mediante mecanismos de vigilancia, rendición de cuentas y prevención de actos de corrupción en la gestión municipal.",
+            "goal": "Garantizar que el 100% de las obras municipales cuenten con mecanismos de seguimiento ciudadano y transparencia pública, y realizar cuatro audiencias públicas anuales de rendición de cuentas.",
+            "indicator": "Número de audiencias públicas realizadas, número de reportes de rendición de cuentas emitidos y nivel de participación vecinal en mecanismos de vigilancia."
+          },
+          {
+            "problem": "Débil articulación municipal con las juntas vecinales y organizaciones sociales, lo cual dificulta una gestión participativa y coordinada.",
+            "objective": "Promover una gestión transparente y participativa, fortaleciendo la relación entre la municipalidad, juntas vecinales y organizaciones sociales.",
+            "goal": "Implementar un sistema digital de transparencia y vigilancia ciudadana en toda la gestión municipal.",
+            "indicator": "Participación vecinal en mecanismos de control y en programas municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-M7TAcctPHmOdHxPGvSVAPcJomLDo__Pw",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/M7TAcctPHmOdHxPGvSVAPcJomLDo__Pw",
+      "sha256": "83d0d1a1d0eeb46cd8daef0a6b924f5f2c6cf2936aa87be865fa5c29348052e8",
+      "accessedAt": "2026-10-02T23:01:00.099Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017900",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017900",
+      "sha256": "aa914cec32beb52e894ab48b9c8e4682fd007203bf4b4c72c09d99d5859a4ff9",
+      "accessedAt": "2026-10-02T23:01:00.595Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

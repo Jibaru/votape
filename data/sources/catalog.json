@@ -1,0 +1,35 @@
+[
+  {
+    "id": "jne-voto-informado",
+    "name": "Voto Informado (JNE)",
+    "publisher": "Jurado Nacional de Elecciones",
+    "kind": "oficial",
+    "access": "api",
+    "url": "https://votoinformado.jne.gob.pe",
+    "license": "Datos públicos del JNE (hojas de vida difundidas por mandato de la Ley 28094). No se encontró una licencia formal.",
+    "permission": "n/a",
+    "notes": "Hojas de vida (declaraciones juradas de los candidatos), anotaciones marginales y resumen del plan de gobierno. Lo 'declarado' es lo que consignó el candidato."
+  },
+  {
+    "id": "rtc",
+    "name": "Revisa Tu Candidato",
+    "publisher": "Consorcio RTC",
+    "kind": "agregador",
+    "access": "html",
+    "url": "https://revisatucandidato.pe",
+    "license": "Sin licencia abierta publicada; términos en un documento de Google Drive enlazado desde el sitio.",
+    "permission": "pending",
+    "notes": "Cruza candidatos con registros oficiales (sentencias, REINFO, MTC, OECE, SERVIR, REDJUM, RNAS). No se usa hasta recibir permiso."
+  },
+  {
+    "id": "prensa",
+    "name": "Investigación de prensa (lista blanca)",
+    "publisher": "Varios medios",
+    "kind": "prensa",
+    "access": "manual",
+    "url": "https://github.com/Jibaru/votape/blob/main/PLAN.md",
+    "license": "Se citan fragmentos breves con enlace al artículo original.",
+    "permission": "n/a",
+    "notes": "Ojo Público, Convoca, IDL-Reporteros, Salud con Lupa, Epicentro, El Comercio, La República, RPP, Infobae Perú, Transparencia y el fact-checking del JNE. Cada hallazgo pasa por revisión humana. Pendiente para la v0.2."
+  }
+]

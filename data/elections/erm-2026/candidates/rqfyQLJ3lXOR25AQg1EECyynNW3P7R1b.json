@@ -1,0 +1,227 @@
+{
+  "id": "rqfyQLJ3lXOR25AQg1EECyynNW3P7R1b",
+  "slug": "sandra-paola-canchanya-espinoza",
+  "electionId": "erm-2026",
+  "name": "Sandra Paola Canchanya Espinoza",
+  "givenNames": "Sandra Paola",
+  "surnames": "Canchanya Espinoza",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:36.129Z",
+      "sourceId": "jne-hv-rqfyQLJ3lXOR25AQg1EECyynNW3P7R1b"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CESCA",
+        "program": "Secretariado ejecutivo",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE PUCUSANA",
+      "role": "REGIDORA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Municipalidad Distrital de Lurín",
+      "role": "Apoyo administrativo",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE PUCUSANA",
+      "role": "ASISTENTE",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE LA VICTORIA",
+      "role": "TECNICO 1",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "ASOCIACION GREMIO DE PESCADORES DE PUCUSANA",
+      "role": "SECRETARIA",
+      "from": "2016",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FORJANDO PUCUSANA",
+      "year": "2011"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 12168,
+        "public": 12168,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "INGRESOS POR DIETA DE REGIDORES EN LA MUNICIPALIDAD DISTRITAL DE PUCUSANA. LOS QUE ADJUNTE EN BIENES."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/99f14828-ab42-4840-9fd9-3cd107304fb6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/da5e3aa9-738a-4bdc-8da8-c90737b34b28.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Educación básica de calidad e infraestructura resiliente.",
+            "objective": "Garantizar servicios básicos y conectividad funcional en todos los colegios priorizados",
+            "goal": "Se proyecta un avance del 80%",
+            "indicator": "Se estima un 40% del apoyo educativo"
+          },
+          {
+            "problem": ". Recojo de residuos solidos",
+            "objective": "Residuos sólidos destinados al reciclaje",
+            "goal": "Se proyecta un avance del recojo de residuos sólidos 70%",
+            "indicator": "se estima que se recoge solo el 40% de los residuos solidos"
+          },
+          {
+            "problem": "3. Seguridad ciudadana",
+            "objective": "3. sistema de video vigilancia y personal capacitado",
+            "goal": "3. Se proyecta un 70% de inversión en seguridad ciudadana",
+            "indicator": "3. se estima un 30%de inversión en seguridad ciudadana"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1 Turismo sostenible y descentralizado",
+            "objective": "1 Modernidad y exposiciones de productores y artesanos",
+            "goal": "1 Se proyecta un 80% en inversión",
+            "indicator": "1 Se estima un 50% de exposición del turismo"
+          },
+          {
+            "problem": "3 El uso sostenible y responsable del Puerto pesquero",
+            "objective": "3 Impulsar plantas de procesamiento y valor agregado (conservas, productos congelados y artesanales).",
+            "goal": "3 Se proyecta un 80% de impulsar el puerto pesquero",
+            "indicator": "3 se estima un 50% del uso adecuado y conserva"
+          },
+          {
+            "problem": "2 Promoción del empleo",
+            "objective": "2 Crear programas municipales de incubación de negocios",
+            "goal": "2 se proyecta un 80% al acceso al empleo",
+            "indicator": "2 se estima un 50% de la implementación de programas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "3 cultura ecológica",
+            "objective": "3 iniciativas de educación ecológica en escuelas y programas",
+            "goal": "3 se proyecta un 80% de programas educativos",
+            "indicator": "3 se estima un 50% de fomentar el cuidado del medio ambiente"
+          },
+          {
+            "problem": "1. Contaminación del mar y malecón",
+            "objective": "1 campañas de limpieza en playas, caletas y zonas públicas",
+            "goal": "1 se proyecta un avance del 80%",
+            "indicator": "1 se estima un 50% en limpieza publica"
+          },
+          {
+            "problem": "2 Contaminación del mar por la pesca",
+            "objective": "2 Supervisar y regular la contaminación que se vierte al océano",
+            "goal": "2 se proyecta un avance del 80%",
+            "indicator": "2 se estima un 50% de supervisión sobre la contaminación"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "2 Paginas y programas institucionales de apoyo",
+            "objective": "2 Asegurar que la comunidad tenga acceso a datos públicos",
+            "goal": "2 se proyecta un avance del 80%",
+            "indicator": "2 se estima un 50% de la participación del ciudadano"
+          },
+          {
+            "problem": "3 Modernizar el área de Tecnología",
+            "objective": "3 •Empleo de tecnologías informáticas para optimizar la atención a la ciudadanía.",
+            "goal": "3 se proyecta un avance del 80% en modernización",
+            "indicator": "3 se estima un 50% de actualización de la información"
+          },
+          {
+            "problem": "1 Audiencias Publicas",
+            "objective": "1 Fortalecer los espacios de diálogo entre la sociedad civil y las autoridades.",
+            "goal": "1 se proyecta un avance del 80%",
+            "indicator": "1 se estima un 50% de participación del ciudadano"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-rqfyQLJ3lXOR25AQg1EECyynNW3P7R1b",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rqfyQLJ3lXOR25AQg1EECyynNW3P7R1b",
+      "sha256": "b1901e53da9158cfb777edfeb61d5dbddcea9daa9f74f77103ceadfc547a594c",
+      "accessedAt": "2026-10-02T23:00:36.129Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021249",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021249",
+      "sha256": "abc1f7caee79601e112da28146cf8eea6bb72ff86966845af807e3be9c03fbba",
+      "accessedAt": "2026-10-02T23:00:36.662Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

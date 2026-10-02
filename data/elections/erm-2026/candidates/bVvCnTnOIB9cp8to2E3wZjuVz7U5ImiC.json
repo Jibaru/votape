@@ -1,0 +1,206 @@
+{
+  "id": "bVvCnTnOIB9cp8to2E3wZjuVz7U5ImiC",
+  "slug": "victor-hernan-medina-zuniga",
+  "electionId": "erm-2026",
+  "name": "Victor Hernan Medina Zuñiga",
+  "givenNames": "Victor Hernan",
+  "surnames": "Medina Zuñiga",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140102",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:16.937Z",
+      "sourceId": "jne-hv-bVvCnTnOIB9cp8to2E3wZjuVz7U5ImiC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "COLOR ROJO",
+        "value": 3500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5a1969ae-7976-4940-a43d-d61d65aab091.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8c764d99-f7c5-4eb5-bd57-fffeeb847242.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de delitos contra el patrimonio, limitada cobertura de vigilancia y una alta percepción de inseguridad en los espacios públicos del distrito.",
+            "objective": "Fortalecer la prevención y el control del delito a nivel local, mediante acciones coordinadas con la Policía Nacional y la participación comunitaria.",
+            "goal": "Incrementar el personal de serenazgo y las unidades de patrullaje, ampliar el sistema de videovigilancia con un centro de monitoreo moderno y fortalecer las juntas vecinales para una prevención efectiva del delito.",
+            "indicator": "Número de serenos y unidades de patrullaje integradas; Porcentaje de cobertura del sistema de videovigilancia; Número de juntas vecinales de seguridad ciudadana activas y capacitadas."
+          },
+          {
+            "problem": "Limitaciones en la infraestructura, equipamiento y capacidad operativa de los establecimientos de salud, así como barreras de acceso para adultos mayores y personas con discapacidad.",
+            "objective": "Contribuir a la mejora del acceso y las condiciones de salud de la población, a través de acciones preventivas y de apoyo a los servicios de salud existentes.",
+            "goal": "Implementar servicios de salud móviles para zonas alejadas, realizar campañas de salud integrales de manera periódica y facilitar el traslado de poblaciones vulnerables a los centros de salud.",
+            "indicator": "Número de campañas de salud preventivas realizadas (descarte de anemia, diabetes, hipertensión); Número de personas de zonas alejadas atendidas por servicios de salud móviles; Número de talleres de alimentación saludable implementados."
+          },
+          {
+            "problem": "Insuficiente infraestructura para actividades culturales y deportivas, junto a una oferta limitada de iniciativas artísticas y recreativas que promuevan la integración social.",
+            "objective": "Ampliar y fortalecer el acceso a actividades culturales, recreativas y deportivas para fomentar la integración social, la identidad local y la calidad de vida de la población.",
+            "goal": "Recuperar y equipar los espacios públicos para el desarrollo de actividades culturales y deportivas, crear escuelas municipales y talleres descentralizados, y promover un calendario anual de eventos.",
+            "indicator": "Número de espacios culturales y deportivos recuperados y mejorados; Número de talleres culturales y escuelas deportivas municipales en funcionamiento; Número de eventos culturales y deportivos organizados anualmente."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado, informalidad en la tenencia de predios y acceso limitado a servicios básicos como agua y saneamiento.",
+            "objective": "Promover un desarrollo territorial ordenado y sostenible, facilitando el acceso de la población a la formalización de la propiedad y a servicios básicos de calidad.",
+            "goal": "Impulsar la formalización de la propiedad mediante orientación técnica, gestionar la ampliación de redes de servicios básicos y desarrollar programas de asistencia para el mejoramiento de viviendas.",
+            "indicator": "Número de predios con orientación técnica y legal para su regularización; Porcentaje de ampliación de la cobertura de agua y alcantarillado gestionada; Número de programas de asistencia técnica para vivienda segura."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada oferta de empleo formal, dificultades de inserción laboral para los jóvenes y una brecha existente entre la formación académica y las demandas del mercado laboral.",
+            "objective": "Impulsar el desarrollo económico y las oportunidades laborales en el distrito, con especial énfasis en el emprendimiento y la empleabilidad juvenil.",
+            "goal": "Implementar el programa “EMPRENDE ANCÓN” para fortalecer el emprendimiento local, crear una bolsa de trabajo municipal y promover alianzas con el sector privado para generar oportunidades de empleo.",
+            "indicator": "Número de nuevos emprendimientos formalizados; Número de personas capacitadas en gestión empresarial y habilidades técnicas; Tasa de inserción laboral de los participantes de la bolsa de trabajo municipal."
+          },
+          {
+            "problem": "Congestión vehicular, infraestructura vial deficiente y carencias en la señalización y seguridad vial, lo que dificulta la movilidad de la población.",
+            "objective": "Mejorar la movilidad urbana y la seguridad vial del distrito a través de la optimización de la infraestructura y la gestión del tránsito.",
+            "goal": "Ejecutar programas de mantenimiento y rehabilitación de la infraestructura vial, fortalecer la seguridad con señalización adecuada y ordenar el tránsito mediante una mejor gestión de paraderos y estacionamientos.",
+            "indicator": "Kilómetros de pistas y vías locales rehabilitadas; Número de puntos críticos con señalización horizontal y vertical renovada; Número de programas de mantenimiento vial ejecutados."
+          },
+          {
+            "problem": "Deficiencias en la infraestructura pesquera, limitaciones para la comercialización de productos y fragilidad económica de los pescadores artesanales.",
+            "objective": "Promover y fortalecer la pesca artesanal local como un pilar económico y cultural del distrito, mejorando las condiciones de trabajo y la competitividad del sector.",
+            "goal": "Gestionar apoyo técnico y financiero para los pescadores artesanales, promover el turismo vinculado a la pesca para agregar valor a los productos y apoyar la mejora de la infraestructura de desembarque y comercialización.",
+            "indicator": "Número de gestiones de apoyo interinstitucional para el sector pesquero; Número de actividades de turismo gastronómico vinculadas a la pesca implementadas; Proyectos de mejora de infraestructura pesquera gestionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasa presencia de áreas verdes, mantenimiento insuficiente de parques y jardines, y una distribución inequitativa de estos espacios en el distrito.",
+            "objective": "Mejorar la calidad ambiental del distrito mediante la recuperación, creación y mantenimiento de áreas verdes y espacios recreativos.",
+            "goal": "Implementar el “PLAN ANCÓN VERDE” para recuperar y mantener los parques existentes, crear nuevos espacios verdes en zonas deficitarias e integrar el componente ambiental en la planificación urbana.",
+            "indicator": "Hectáreas de nuevas áreas verdes creadas; Número de parques existentes con programas de mantenimiento permanente; Número de campañas de arborización y sensibilización realizadas."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos en zonas críticas, frecuencia insuficiente del servicio de recolección y una débil cultura de manejo de residuos en la ciudadanía.",
+            "objective": "Mejorar la calidad del servicio de limpieza pública a través de una gestión eficiente e integral de los residuos sólidos.",
+            "goal": "Incrementar la cobertura y frecuencia del servicio de recolección, erradicar los puntos de arrojo informal de basura y fomentar una cultura de reciclaje con la participación de la comunidad.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos; Número de botaderos informales erradicados; Toneladas de residuos sólidos segregados y reciclados."
+          },
+          {
+            "problem": "Existencia de animales abandonados, una limitada cultura de tenencia responsable y un incremento de animales en situación de calle, generando riesgos para la salud pública.",
+            "objective": "Promover el bienestar animal y la convivencia responsable en el distrito, previniendo el maltrato y controlando la población de animales en situación de calle.",
+            "goal": "Realizar campañas periódicas de esterilización y vacunación, implementar acciones de rescate y promoción de la adopción, y fiscalizar el cumplimiento de las ordenanzas de protección animal.",
+            "indicator": "Número de campañas de esterilización y vacunación gratuitas o de bajo costo realizadas; Número de animales rescatados y entregados en adopción responsable; Número de denuncias por maltrato animal atendidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de agilizar los procedimientos administrativos, mejorar la eficiencia de la gestión pública y asegurar el acceso oportuno de la ciudadanía a la información municipal.",
+            "objective": "Consolidar una municipalidad moderna, eficiente y transparente, orientada a brindar servicios de calidad y a garantizar el acceso a la información pública.",
+            "goal": "Reducir los tiempos de respuesta en trámites, implementar plataformas virtuales para consultas y pagos, y mantener actualizados los portales de transparencia con información sobre la gestión municipal.",
+            "indicator": "Tiempo promedio de respuesta en trámites municipales; Número de servicios y pagos disponibles en plataformas virtuales; Nivel de cumplimiento de la publicación en el portal de transparencia."
+          },
+          {
+            "problem": "Necesidad de fortalecer la fiscalización del cumplimiento normativo, mejorar el ordenamiento del espacio público y promover una cultura de legalidad en la comunidad.",
+            "objective": "Garantizar una gestión municipal eficiente y transparente, estrictamente alineada al marco legal vigente, que promueva el orden y la convivencia ciudadana.",
+            "goal": "Implementar un plan de ordenamiento de los espacios públicos, capacitar permanentemente al personal municipal en materia legal y normativa, y promover una cultura de legalidad y respeto a las normas en la ciudadanía.",
+            "indicator": "Número de operativos de fiscalización para el ordenamiento del comercio ambulatorio; Número de capacitaciones al personal municipal en derecho administrativo y ética pública; Número de campañas de sensibilización sobre normas municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139360",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: VIOLENCIA CONTRA AUTORIDAD O FUNCIONARIO PÚBLICO",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2005-07-08",
+      "details": {
+        "materia": "VIOLENCIA CONTRA AUTORIDAD O FUNCIONARIO PÚBLICO",
+        "fallo": "PRIVACIÓN DE LIBERTAD",
+        "modalidad": "EFECTIVA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "35 JUZGADO PENAL DE LIMA",
+        "expediente": "4751-03",
+        "comentario": null
+      },
+      "quote": "VIOLENCIA CONTRA AUTORIDAD O FUNCIONARIO PÚBLICO · PRIVACIÓN DE LIBERTAD · EFECTIVA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-bVvCnTnOIB9cp8to2E3wZjuVz7U5ImiC"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-bVvCnTnOIB9cp8to2E3wZjuVz7U5ImiC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bVvCnTnOIB9cp8to2E3wZjuVz7U5ImiC",
+      "sha256": "dec1c1af649cfdccf3b230b67dfe3525071a7bb0ad6055958ced2ba27fce2bfc",
+      "accessedAt": "2026-10-02T22:50:16.937Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032255",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032255",
+      "sha256": "f7bd84a4cf9b6660bf3a7d86061539bf4258d64b42b7050196b279f28ec6a979",
+      "accessedAt": "2026-10-02T22:50:17.438Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

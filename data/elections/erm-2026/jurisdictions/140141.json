@@ -1,0 +1,237 @@
+{
+  "id": "140141",
+  "name": "Villa El Salvador",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "vehQS2F-z69VaELX7_dVCoEjWIYuXGeX",
+      "name": "Jose Luis Flores Llauca",
+      "party": {
+        "id": 4,
+        "name": "ACCION POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42081,
+      "expediente": "ERM.2026019389"
+    },
+    {
+      "candidateId": "R1IIpINbmpqBCWrUY0JZ4wAwqUrNcOUU",
+      "name": "Genaro Soto Mendoza",
+      "party": {
+        "id": 2980,
+        "name": "AHORA NACION - AN"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50932,
+      "expediente": "ERM.2026018451"
+    },
+    {
+      "candidateId": "RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1",
+      "name": "Marcelino Huaman Cano",
+      "party": {
+        "id": 1257,
+        "name": "ALIANZA PARA EL PROGRESO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44251,
+      "expediente": "ERM.2026018552"
+    },
+    {
+      "candidateId": "hd-HdUZxkloX4efjGvuqmHXmBI5TuBv7",
+      "name": "Homero Raul Diaz Delgado",
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "TACHADO",
+      "listId": 45303,
+      "expediente": "ERM.2026013006"
+    },
+    {
+      "candidateId": "BZot4DnUBxzcXsoLq0ztpLkvcNOkdx4q",
+      "name": "Juan Jose Diaz Ayquipa",
+      "party": {
+        "id": 2901,
+        "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47321,
+      "expediente": "ERM.2026022273"
+    },
+    {
+      "candidateId": "TzKORaNKr7M9sl11VsUkRXizzn5dXDYn",
+      "name": "Ricardo Gil Espadin",
+      "party": {
+        "id": 1366,
+        "name": "FUERZA POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44856,
+      "expediente": "ERM.2026033218"
+    },
+    {
+      "candidateId": "-wITn9zdlc3v-Gm8teKVgPvbzIFKVeKe",
+      "name": "William Dwight Vargas Matos",
+      "party": {
+        "id": 1264,
+        "name": "JUNTOS POR EL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44705,
+      "expediente": "ERM.2026018986"
+    },
+    {
+      "candidateId": "E24VmKF1Nlsr-wU30rrbg-Qlk7R_aHuP",
+      "name": "Edgard Asunción Cordero Marichini",
+      "party": {
+        "id": 2930,
+        "name": "PARTIDO APRISTA PERUANO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48795,
+      "expediente": "ERM.2026018668"
+    },
+    {
+      "candidateId": "ouChcbziaL3TeohZCKCyFtyYYsV4_-lo",
+      "name": "Nils Rene Antonio Siccos",
+      "party": {
+        "id": 2941,
+        "name": "PARTIDO CIVICO OBRAS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49208,
+      "expediente": "ERM.2026022102"
+    },
+    {
+      "candidateId": "6YyK0_g_cRe_m_tlvYExR6F5oh-AvuZ1",
+      "name": "Yolanda Ines Peña Valdivia",
+      "party": {
+        "id": 2961,
+        "name": "PARTIDO DEL BUEN GOBIERNO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49907,
+      "expediente": "ERM.2026031380"
+    },
+    {
+      "candidateId": "EQN61PJ42_GIzVu9JzHQXn0pIfYTwcn1",
+      "name": "Clodoaldo Kevin Yñigo Peralta",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42946,
+      "expediente": "ERM.2026014099"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2857,
+        "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "EXCLUSION",
+      "listId": 46745,
+      "expediente": "ERM.2026021330"
+    },
+    {
+      "candidateId": "RzXqUKTE5uy9gvgmwBKV45hS0PIuUCBq",
+      "name": "Migman Pinchi Caro",
+      "party": {
+        "id": 2840,
+        "name": "PARTIDO MORADO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46615,
+      "expediente": "ERM.2026021976"
+    },
+    {
+      "candidateId": "GqoETsHsMMu08mdj3teShlTYBkxZm2vi",
+      "name": "Lucero Echevarria Quispe",
+      "party": {
+        "id": 2869,
+        "name": "PARTIDO PATRIOTICO DEL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46884,
+      "expediente": "ERM.2026011787"
+    },
+    {
+      "candidateId": "TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd",
+      "name": "Milton Tomas Lluque Sosa",
+      "party": {
+        "id": 2925,
+        "name": "PARTIDO POLITICO PERU PRIMERO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48309,
+      "expediente": "ERM.2026020792"
+    },
+    {
+      "candidateId": "ALaMza88rCZT97ZZYLbLRP3S6tslsfvd",
+      "name": "Sugey Tatiana Bernuy Cueva",
+      "party": {
+        "id": 2921,
+        "name": "PARTIDO POLITICO PRIN"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47511,
+      "expediente": "ERM.2026028838"
+    },
+    {
+      "candidateId": "RH0YnnHSBqlCJ8iA2QhFhLjDWuy3FAl8",
+      "name": "Paul Dino Carrasco Salazar",
+      "party": {
+        "id": 2943,
+        "name": "PARTIDO POPULAR CRISTIANO - PPC"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49338,
+      "expediente": "ERM.2026021204"
+    },
+    {
+      "candidateId": "PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50",
+      "name": "Walter Quispe Vilcas",
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46336,
+      "expediente": "ERM.2026019682"
+    },
+    {
+      "candidateId": "AeZohJSw-IHhTbH7kJJ_dYy70h9ur2Mk",
+      "name": "Alberto Luis Peralta Huatuco",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52543,
+      "expediente": "ERM.2026017555"
+    }
+  ]
+}

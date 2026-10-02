@@ -1,0 +1,200 @@
+{
+  "id": "Lm1s2gaZY3DwyKtyn0LJjzf_DmYSBZsJ",
+  "slug": "georgina-flores-remigio",
+  "electionId": "erm-2026",
+  "name": "Georgina Flores Remigio",
+  "givenNames": "Georgina",
+  "surnames": "Flores Remigio",
+  "age": 48,
+  "gender": "Femenino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:31.655Z",
+      "sourceId": "jne-hv-Lm1s2gaZY3DwyKtyn0LJjzf_DmYSBZsJ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "CORPORATIVO GHEMINISS EIRL",
+      "role": "GERENTE",
+      "from": "2017",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PODEMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 61756.8,
+        "public": 37756.8,
+        "private": 24000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "DEPARTAMENTO",
+        "value": 399096,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1283.35,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e1b266e0-ca39-4df0-afba-d28a3abb106b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/bb6304ec-5f92-4a6d-83dc-a4282d1195dd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Bajos niveles de rendimiento y participación cultural y deportiva.",
+            "objective": "Mejorar servicios educativos, culturales y deportivos.",
+            "goal": "Incrementar en un 80% el acceso de niños, jóvenes y vecinos a programas educativos, culturales y deportivos.",
+            "indicator": "Porcentaje de vecinos que acceden a actividades promovidas."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud y protección.",
+            "objective": "Optimizar servicios de salud y protección social.",
+            "goal": "Lograr el 75% de atención de la población con acceso a un buen servicio de salud del vecino.",
+            "indicator": "Tasa de cobertura de asistencia social y salud."
+          },
+          {
+            "problem": "Alta incidencia delictiva en el distrito.",
+            "objective": "Reducir la Inseguridad Ciudadana.",
+            "goal": "Reducción de incidencia delictiva al 60%.",
+            "indicator": "Tasa de incidencia delictiva."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil promoción de inversiones privadas y comercio local.",
+            "objective": "Promover inversiones responsables y dinamizar la economía distrital.",
+            "goal": "Incrementar en un 50% la inversión privada y actividad comercial formal.",
+            "indicator": "Incremento del número de nuevas inversiones privadas formales en el distrito."
+          },
+          {
+            "problem": "Bajo desarrollo de las micro y pequeñas empresas.",
+            "objective": "Fortalecer la competitividad y sostenibilidad de las MYPES del distrito.",
+            "goal": "Incrementar en un 70% el desarrollo y formalización de las MYPES al 2030.",
+            "indicator": "Incremento en el porcentaje de MYPES formalizadas, competitivas y sostenibles."
+          },
+          {
+            "problem": "Elevada tasa de informalidad en los negocios locales.",
+            "objective": "Promover la formalización y fortalecimiento de los negocios y emprendimientos locales.",
+            "goal": "Reducir en un 50% la tasa de informalidad de los negocios locales.",
+            "indicator": "Tasa de formalización de negocios locales."
+          },
+          {
+            "problem": "Comercio ambulatorio desordenado en espacios públicos.",
+            "objective": "Ordenar y regular el comercio ambulatorio preservando el espacio.",
+            "goal": "Reducir en un 60% el comercio ambulatorio informal en zonas críticas.",
+            "indicator": "Reducción del porcentaje de comercio ambulatorio informal en zonas críticas del distrito."
+          },
+          {
+            "problem": "Baja recaudación tributaria municipal.",
+            "objective": "Mejorar la cultura tributaria y optimizar la gestión de recaudación.",
+            "goal": "Incrementar en un 65% la recaudación tributaria municipal.",
+            "indicator": "Eficiencia de cobranza, Reducción de la morosidad tributaria (deuda pendiente)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación de espacios públicos y acumulación de basura.",
+            "objective": "Mantener espacios públicos limpios y libres de residuos sólidos, promover la educación ambiental y la participación ciudadana.",
+            "goal": "Reducir en un 70% la acumulación de residuos en espacios públicos.",
+            "indicator": "Reducción del porcentaje de puntos críticos de acumulación de residuos sólidos y población que participa en programas de educación ambiental."
+          },
+          {
+            "problem": "Escasa segregación de residuos sólidos.",
+            "objective": "Implementar programas de segregación en hogares, mercados e instituciones educativas.",
+            "goal": "Alcanzar la segregación en el 100% de los sectores del distrito.",
+            "indicator": "No especificado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta población vulnerable ante desastres naturales.",
+            "objective": "Reducir la Vulnerabilidad de Riesgo y Desastres.",
+            "goal": "Reducir en un 60% la población vulnerable ante fenómenos naturales.",
+            "indicator": "Porcentaje de población vulnerable ante desastres."
+          },
+          {
+            "problem": "Burocracia excesiva en trámites municipales.",
+            "objective": "Simplificar y digitalizar los servicios Municipales y el acceso a la información pública.",
+            "goal": "Reducir en un 70% el tiempo de atención de trámites.",
+            "indicator": "Reducción del tiempo promedio de atención de trámites municipales (presupuesto, adquisiciones, obras, otros)."
+          },
+          {
+            "problem": "Deficiente señalización y movilidad vial.",
+            "objective": "Mejorar la Transitabilidad y Movilidad, Promover el Desarrollo Urbano ordenado y sostenible.",
+            "goal": "Reducir en un 70% las deficiencias en señalización y movilidad vial, así como reducir el crecimiento urbano desordenado y sin planificación.",
+            "indicator": "Porcentaje de vías señalizadas correctamente."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Lm1s2gaZY3DwyKtyn0LJjzf_DmYSBZsJ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Lm1s2gaZY3DwyKtyn0LJjzf_DmYSBZsJ",
+      "sha256": "2c406f31d3f1a572a17e55e82e4f73318d3820a8078d2d4236fb07cefceadc28",
+      "accessedAt": "2026-10-02T22:56:31.655Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019626",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019626",
+      "sha256": "87241a526fe8c00d4692b8a8113c4c12e01a29ef6d08c805b4fff2403945e74c",
+      "accessedAt": "2026-10-02T22:56:32.169Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "aPhA41Z5wDicAxb2DpUJqzRvdex_xy3C",
+  "slug": "dennis-alvarado-carrasco",
+  "electionId": "erm-2026",
+  "name": "Dennis Alvarado Carrasco",
+  "givenNames": "Dennis",
+  "surnames": "Alvarado Carrasco",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140131",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:21.690Z",
+      "sourceId": "jne-hv-aPhA41Z5wDicAxb2DpUJqzRvdex_xy3C"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "JARD PRODUCCIONES",
+      "role": "PRODUCTOR GENERAL",
+      "from": "2014",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FE EN EL PERU",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45600,
+        "public": 0,
+        "private": 45600
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 4057.47,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 3815.19,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "GREAT WALL (GWM) MODELO HAVAL H3 COLOR NEGRO",
+        "value": 28000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d7ad9f64-63fd-4d86-b44f-8eba7acdb597.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3dc73a08-bca1-4b20-8a10-6fb7fae62153.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de oportunidades para niños y jóvenes con talento deportivo, artístico o académico que no siempre tienen acceso a programas de formación, becas o materiales.",
+            "objective": "Crear un programa municipal de becas, estímulos y acompañamiento para niños y jóvenes con habilidades en deporte, arte y rendimiento académico, priorizando a quienes se encuentren en situación de vulnerabilidad económica.",
+            "goal": "Otorgar progresivamente becas anuales en deporte, arte y rendimiento académico, con seguimiento semestral y publicación de resultados.",
+            "indicator": "Número de becas otorgadas; número de beneficiarios que culminan el programa; número de convenios firmados; número de actividades deportivas, artísticas y académicas realizadas."
+          },
+          {
+            "problem": "Inseguridad ciudadana y respuesta municipal insuficiente, con necesidad de fortalecer la prevención del delito y la respuesta rápida del serenazgo.",
+            "objective": "Implementar un sistema municipal de prevención, monitoreo y respuesta frente a situaciones de inseguridad, mediante el uso de inteligencia artificial, información territorial, patrullaje preventivo y coordinación con la Policía Nacional del Perú.",
+            "goal": "Cubrir el 100% de zonas críticas identificadas con patrullaje preventivo y monitoreo municipal; reducir progresivamente el tiempo promedio de atención de alertas vecinales; e implementar un sistema único de registro de incidencias municipales.",
+            "indicator": "Número de zonas priorizadas con monitoreo inteligente; tiempo promedio de respuesta del serenazgo; número de patrullajes integrados; número de reportes atendidos mediante canales digitales."
+          },
+          {
+            "problem": "Tenencia irresponsable de mascotas y presencia de excretas en pistas, veredas y parques, afectando la limpieza, la salud pública y la convivencia vecinal.",
+            "objective": "Implementar un programa integral de educación, fiscalización, registro de mascotas, campañas veterinarias y bienestar animal para promover la tenencia responsable y mantener limpias las calles del distrito.",
+            "goal": "Reducir puntos críticos por excretas en parques y veredas; implementar campañas periódicas de tenencia responsable; y contar con un sistema municipal de registro y seguimiento.",
+            "indicator": "Número de campañas realizadas; número de mascotas registradas; número de esterilizaciones o atenciones gestionadas; número de puntos críticos reducidos; número de adopciones promovidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de apoyo a emprendedores y pequeños negocios que necesitan orientación para formalizarse, acceder a herramientas digitales y cumplir reglas municipales.",
+            "objective": "Promover la formalización, capacitación y crecimiento de los emprendedores locales mediante orientación municipal, ferias, alianzas y herramientas digitales.",
+            "goal": "Capacitar anualmente a emprendedores y reducir tiempos de orientación y tramitación municipal.",
+            "indicator": "Número de emprendedores capacitados; número de negocios orientados; número de ferias realizadas; número de trámites simplificados."
+          },
+          {
+            "problem": "Trámites municipales lentos que afectan a vecinos, comercios y emprendedores, generando costos de tiempo y dificultando la formalización.",
+            "objective": "Modernizar la atención municipal mediante la digitalización progresiva de procedimientos, seguimiento de expedientes y atención multicanal, sin excluir a adultos mayores ni a personas con brecha digital.",
+            "goal": "Digitalizar progresivamente los principales trámites municipales y reducir tiempos de atención en procedimientos priorizados.",
+            "indicator": "Porcentaje de trámites disponibles en línea; tiempo promedio de atención; número de expedientes digitales; satisfacción del usuario."
+          },
+          {
+            "problem": "Comercio ambulatorio y uso desordenado del espacio público que afecta la transitabilidad, seguridad, limpieza y convivencia vecinal.",
+            "objective": "Ordenar el espacio público mediante fiscalización inteligente, formalización gradual y recuperación de zonas críticas, garantizando proporcionalidad y respeto a los derechos de las personas.",
+            "goal": "Recuperar progresivamente zonas críticas y mantener fiscalización permanente.",
+            "indicator": "Número de zonas críticas intervenidas; número de comerciantes orientados; número de operativos realizados; metros de espacio público recuperado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Calles sucias, residuos y excretas en espacios públicos, lo cual requiere no solo recojo, sino también educación, fiscalización y participación vecinal.",
+            "objective": "Ejecutar un programa integral de limpieza pública, control de puntos críticos, educación ciudadana y respuesta rápida a reportes vecinales.",
+            "goal": "Reducir progresivamente puntos críticos de residuos y mejorar la frecuencia de atención en zonas priorizadas.",
+            "indicator": "Número de puntos críticos recuperados; frecuencia de limpieza; número de reportes atendidos; nivel de satisfacción vecinal."
+          },
+          {
+            "problem": "Necesidad de mejorar áreas verdes y espacios públicos, los cuales requieren mantenimiento, iluminación, seguridad y recuperación para uso familiar.",
+            "objective": "Recuperar y mantener parques, bermas y espacios públicos, promoviendo seguridad, iluminación, arborización y uso comunitario.",
+            "goal": "Intervenir progresivamente parques y espacios públicos priorizados, con mantenimiento medible y participación vecinal.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas; número de árboles plantados y mantenidos; número de parques intervenidos; número de actividades comunitarias realizadas."
+          },
+          {
+            "problem": "Baja cultura ambiental y poca segregación de residuos, requiriendo la participación activa de vecinos, comercios, colegios y mercados.",
+            "objective": "Fortalecer el reciclaje municipal mediante rutas de valorización, participación vecinal, alianzas con recicladores autorizados y campañas de educación ambiental.",
+            "goal": "Ampliar progresivamente la cobertura del reciclaje municipal y publicar resultados periódicos.",
+            "indicator": "Número de hogares y comercios inscritos; toneladas de residuos valorizados; número de campañas ambientales; número de instituciones participantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Colas, atención presencial excesiva y procesos municipales poco ágiles, necesitando una transición a un modelo de atención simple, digital y accesible.",
+            "objective": "Implementar una municipalidad moderna, con expedientes digitales, atención por identidad digital, validación biométrica, módulos rápidos y atención inclusiva.",
+            "goal": "Contar con un sistema municipal de expedientes digitales y atención multicanal.",
+            "indicator": "Porcentaje de expedientes digitales; número de trámites con seguimiento en línea; tiempo promedio de atención; número de vecinos atendidos por módulos rápidos."
+          },
+          {
+            "problem": "Poca información pública sobre avances, gasto y cumplimiento de promesas, impidiendo que la ciudadanía verifique el cumplimiento de los compromisos municipales.",
+            "objective": "Crear un sistema de transparencia activa que publique periódicamente el avance del plan, la ejecución presupuestal, contrataciones, obras, servicios e indicadores de cumplimiento.",
+            "goal": "Publicar informes trimestrales y realizar rendición pública anual.",
+            "indicator": "Número de reportes publicados; porcentaje de metas con avance actualizado; número de audiencias realizadas; número de consultas vecinales atendidas."
+          },
+          {
+            "problem": "Débil coordinación entre la municipalidad, postas, comisarías y centros de atención, lo que impide resolver los problemas del distrito de manera integral.",
+            "objective": "Implementar una red de coordinación distrital entre municipalidad, comisarías, postas, instituciones educativas, organizaciones vecinales y centros de atención necesarios para el distrito.",
+            "goal": "Contar con una red distrital activa de coordinación institucional y seguimiento de casos.",
+            "indicator": "Número de entidades articuladas; número de reuniones técnicas; número de casos derivados y atendidos; tiempo promedio de derivación."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-aPhA41Z5wDicAxb2DpUJqzRvdex_xy3C",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/aPhA41Z5wDicAxb2DpUJqzRvdex_xy3C",
+      "sha256": "f51f25e60e0180c99c9d3e92ae664d89bc0019fbc685cf8d3de2b160cc64af17",
+      "accessedAt": "2026-10-02T23:06:21.690Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015746",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015746",
+      "sha256": "bdbf53797b33c0d880850656576675bd9b95491860a8fb98b9788bd5f51f9092",
+      "accessedAt": "2026-10-02T23:06:22.191Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

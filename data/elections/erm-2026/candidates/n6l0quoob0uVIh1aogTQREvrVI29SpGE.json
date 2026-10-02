@@ -1,0 +1,218 @@
+{
+  "id": "n6l0quoob0uVIh1aogTQREvrVI29SpGE",
+  "slug": "zusan-lizzet-sanchez-ponce",
+  "electionId": "erm-2026",
+  "name": "Zusan Lizzet Sanchez Ponce",
+  "givenNames": "Zusan Lizzet",
+  "surnames": "Sanchez Ponce",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:08.873Z",
+      "sourceId": "jne-hv-n6l0quoob0uVIh1aogTQREvrVI29SpGE"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "PANEL INMOBILIARIO SAC",
+      "role": "EMPLEADO",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 4947.64,
+        "public": 0,
+        "private": 4947.64
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e6c4ac05-566b-4ebb-bda4-7a48c16b0921.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a99f0b6a-033b-4ab5-a5cf-34b7e65d9731.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta prevalencia de desnutrición crónica infantil que afecta al 27.6% de los niños que cursan el primer grado debido a dietas familiares deficitarias.",
+            "objective": "Reducir la desnutrición crónica infantil y fortalecer la seguridad alimentaria en la niñez del distrito.",
+            "goal": "Reducir la desnutrición crónica infantil a menos del 10% en el ámbito escolar distrital.",
+            "indicator": "Porcentaje de niños y niñas en edad escolar con desnutrición crónica."
+          },
+          {
+            "problem": "Brecha estructural de analfabetismo, donde el 17% de la población distrital no sabe leer ni escribir.",
+            "objective": "Erradicar el analfabetismo y promover el acceso a la educación básica alternativa para la población adulta.",
+            "goal": "Reducir el índice de analfabetismo al 5% o menos en la población adulta del distrito.",
+            "indicator": "Porcentaje de la población distrital con condición de analfabetismo."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana, con un 41.0% de la población mayor de 15 años víctima de delitos y una percepción de inseguridad del 89.2%.",
+            "objective": "Fortalecer la seguridad ciudadana y reducir la incidencia delictiva mediante tecnología y patrullaje articulado.",
+            "goal": "Reducir la victimización al 20% e implementar un sistema integrado de videovigilancia interconectado en los 18 sectores.",
+            "indicator": "Porcentaje de victimización delictiva y número de cámaras operativas en los sectores."
+          },
+          {
+            "problem": "Alta vulnerabilidad socioeconómica y desprotección social reflejada en un 35.60% de pobreza general en los sectores periféricos.",
+            "objective": "Fortalecer la red de soporte social municipal para las familias en situación de vulnerabilidad extrema.",
+            "goal": "Reducir la tasa de pobreza distrital al 15% mediante intervenciones sociales focalizadas.",
+            "indicator": "Porcentaje de población vulnerable atendida por programas de asistencia social local."
+          },
+          {
+            "problem": "Crítico déficit en el acceso a servicios básicos, con un 53.4% de cobertura general de agua y un 9% de la población que carece de agua, desagüe y luz.",
+            "objective": "Ampliar la cobertura y el acceso a los servicios esenciales de saneamiento y energía en el territorio.",
+            "goal": "Lograr el 90% de cobertura de agua potable y saneamiento en las viviendas del distrito.",
+            "indicator": "Porcentaje de viviendas particulares con acceso simultáneo a agua, alcantarillado y electricidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Creciente fenómeno de trabajo infantil que afecta a menores de entre 6 a 14 años, habiéndose incrementado del 1.7% al 2.5%.",
+            "objective": "Erradicar el trabajo infantil y promover la reinserción y permanencia escolar de los menores del distrito.",
+            "goal": "Reducir a menos del 0.5% la incidencia de trabajo infantil en menores de 14 años.",
+            "indicator": "Tasa de niños, niñas y adolescentes en situación de trabajo infantil en el distrito."
+          },
+          {
+            "problem": "Alta concentración empresarial de microescala informal, con presencia de más de 1,690 pequeños establecimientos de baja rentabilidad.",
+            "objective": "Incrementar la rentabilidad y capacidad de gestión comercial de las micro y pequeñas empresas del distrito.",
+            "goal": "Lograr que el 60% de los pequeños comercios del directorio transiten hacia modelos de negocio formales y competitivos.",
+            "indicator": "Densidad de microempresas formales capacitadas y articuladas al mercado local."
+          },
+          {
+            "problem": "Altos niveles de informalidad laboral, desempleo y subempleo, que afectan al 75% de la Población Económicamente Activa (PEA) ocupada.",
+            "objective": "Promover la formalización empresarial, mejorar la empleabilidad local y dinamizar los ingresos económicos de la fuerza laboral.",
+            "goal": "Reducir el subempleo y desempleo informal al 40%, promoviendo la inserción en el mercado formal.",
+            "indicator": "Porcentaje de la PEA en condición de desempleo o subempleo informal."
+          },
+          {
+            "problem": "Bajos niveles de ingresos económicos en la fuerza laboral, donde la mayoría de la PEA ocupada percibe sueldos promedio de apenas 500 soles mensuales.",
+            "objective": "Impulsar la competitividad económica distrital y la capacitación técnica para elevar los ingresos familiares.",
+            "goal": "Elevar el ingreso promedio de la PEA ocupada para alinearlo progresivamente con el costo de la canasta familiar básica.",
+            "indicator": "Ingreso mensual promedio de la Población Económicamente Activa (PEA) ocupada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Severa deficiencia en la pavimentación vial, con un 95% de los asentamientos humanos que carecen de calles asfaltadas, provocando afecciones respiratorias por polvo ambiental.",
+            "objective": "Mejorar la infraestructura vial urbana y reducir la contaminación por material particulado en las zonas residenciales.",
+            "goal": "Reducir al 40% el déficit de pavimentación en los asentamientos humanos del distrito.",
+            "indicator": "Porcentaje de vías locales y calles vecinales sin pavimentar o asfaltar."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos, reflejada en la acumulación informal de 38.00 toneladas diarias y proliferación de focos infecciosos clandestinos.",
+            "objective": "Optimizar el sistema de recolección, transporte y disposición final de los residuos sólidos urbanos.",
+            "goal": "Alcanzar el 100% de recolección eficiente de las toneladas de residuos diarios y erradicar los botaderos clandestinos.",
+            "indicator": "Eficiencia en la recolección diaria de toneladas de residuos y erradicación de botaderos informales."
+          },
+          {
+            "problem": "Alta vulnerabilidad del acuífero y recursos hídricos locales por evacuación de residuos en los canales de regadío y en el cauce del río Chillón.",
+            "objective": "Garantizar la protección de los recursos hídricos y reducir la contaminación por filtración en el subsuelo del distrito.",
+            "goal": "Eliminar al 100% las descargas clandestinas de residuos industriales y domésticos en los canales hídricos del distrito.",
+            "indicator": "Nivel de contaminación detectado en el cauce del río Chillón y canales de regadío locales."
+          },
+          {
+            "problem": "Débil fiscalización de la contaminación del aire, donde solo del 10% al 20% de las empresas que emiten gases contaminantes están bajo control.",
+            "objective": "Fortalecer la fiscalización y monitoreo de la calidad del aire de las industrias operantes en el territorio.",
+            "goal": "Lograr el 100% de supervisión y control efectivo de las industrias locales con potencial de emisión contaminante.",
+            "indicator": "Porcentaje de industrias y fábricas con monitoreo e inspección ambiental vigente."
+          },
+          {
+            "problem": "Elevada exposición de la salud pública debido al polvo suspendido de las calles rústicas, causante de recurrentes males bronquiales y amigdalitis.",
+            "objective": "Mitigar el material particulado ambiental y expandir la infraestructura verde urbana como barrera protectora.",
+            "goal": "Incrementar a 6 m² de áreas verdes por habitante mediante la creación de pulmones urbanos perimetrales.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante y reducción de incidencias médicas respiratorias."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desarticulación operativa e institucional para el control del transporte público vial debido a limitaciones normativas.",
+            "objective": "Articular esfuerzos multisectoriales con las autoridades competentes para ordenar el caótico ordenamiento vial local.",
+            "goal": "Implementar un Plan de Reordenamiento Vial Concertado en los principales ejes y avenidas de interconexión distrital.",
+            "indicator": "Número de convenios operativos y planes viales concertados con la ATU, MTC y la Policía Nacional."
+          },
+          {
+            "problem": "Debilidad en la articulación entre organizaciones de la sociedad civil y el gobierno municipal para la concertación del desarrollo local.",
+            "objective": "Fortalecer la gobernanza participativa y los mecanismos institucionales de concertación ciudadana.",
+            "goal": "Lograr una participación del 100% de las dirigencias sectoriales reconocidas en el Presupuesto Participativo.",
+            "indicator": "Número de mesas de trabajo y proyectos co-ejecutados mediante procesos participativos por año."
+          },
+          {
+            "problem": "Falta de actualización de los instrumentos de gestión urbana y ausencia de una delimitación territorial y zonificación moderna y definida.",
+            "objective": "Promover el ordenamiento territorial óptimo y la planificación urbana sostenible del distrito.",
+            "goal": "Implementar el Plan de Zonificación y Delimitación Territorial en el 100% de los 18 sectores del distrito.",
+            "indicator": "Número de sectores regulados bajo un plan moderno de zonificación y delimitación."
+          },
+          {
+            "problem": "Baja capacidad de recaudación fiscal de la municipalidad, que capta únicamente un tercio de lo presupuestado, generando alta dependencia del FONCOMUN.",
+            "objective": "Fortalecer la gestión financiera y la sostenibilidad fiscal del gobierno local mediante la optimización de los ingresos propios.",
+            "goal": "Incrementar la recaudación real al 80% de lo previsto en el presupuesto municipal programado.",
+            "indicator": "Porcentaje de recaudación real frente al presupuesto municipal previsto."
+          },
+          {
+            "problem": "Insuficiente capacidad operativa del personal municipal para administrar de forma descentralizada el territorio.",
+            "objective": "Optimizar la capacidad institucional y descentralizar la atención de servicios municipales para un mejor control del territorio.",
+            "goal": "Implementar 4 Agencias Municipales Desconcentradas estratégicamente distribuidas para cobertura de los 18 sectores.",
+            "indicator": "Número de agencias municipales desconcentradas y operativas en los sectores clave."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-n6l0quoob0uVIh1aogTQREvrVI29SpGE",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/n6l0quoob0uVIh1aogTQREvrVI29SpGE",
+      "sha256": "ff5c4b51d25a4f875142d779eebf9f1cba3c2d2d627fa6616e2249570311b09c",
+      "accessedAt": "2026-10-02T23:01:08.873Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022368",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022368",
+      "sha256": "29ce7e5c73c7ccbd40b042ca9e2dace2c114da8de201b548b8cd6eee74d717bd",
+      "accessedAt": "2026-10-02T23:01:09.345Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

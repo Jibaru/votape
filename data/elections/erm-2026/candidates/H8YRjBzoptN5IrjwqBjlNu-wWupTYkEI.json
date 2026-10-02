@@ -1,0 +1,268 @@
+{
+  "id": "H8YRjBzoptN5IrjwqBjlNu-wWupTYkEI",
+  "slug": "mabel-karina-leandro-melgarejo",
+  "electionId": "erm-2026",
+  "name": "Mabel Karina Leandro Melgarejo",
+  "givenNames": "Mabel Karina",
+  "surnames": "Leandro Melgarejo",
+  "age": 45,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:13.743Z",
+      "sourceId": "jne-hv-H8YRjBzoptN5IrjwqBjlNu-wWupTYkEI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "INSTITUTO EUROAMERICANO",
+        "program": "PROFESORA DE EDUCACION INICIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Escuela de Educación Superior Pedagógica pública “Monterrico”",
+        "program": "BACHILLER EN EDUCACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+      "role": "SUBGERENTA EDUCACION DEPORTE JUVENTUD Y RECREACION",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+      "role": "JEFA DEL DEPARTAMENTO DE ACAMI",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU POSIBLE",
+      "year": "2010"
+    },
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 144000,
+        "public": 144000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 117531.88,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 182609.59,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 179808.7,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "ROJO CRISTAL MAZDA",
+        "value": 112700
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACION EDUCATIVA MI NUEVO MUNDO SCHOOL EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 17.17,
+        "value": 17170
+      }
+    ]
+  },
+  "additionalInfo": [
+    "TENGO UN CONTRATO PREPARATORIO DE COMPRA Y VENTA A PLAZO DE BIEN FUTURO DE UN BIEN INMUEBLE UBICADO EN AREQUIPA A NOMBRE DE LA CORPORACION EDUCATIVA MI NUEVO MUNDO SCHOOL. ADQUISICION DE LICENCIA EDUCATIVA PRIMARIA Y SECUNDARIA. TRANSFERENCIA DE COMPRA Y VENTA DE DERECHO Y RESPONSABILIDADES KARDEX 9921"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fab8148a-a4b2-4f03-9162-6f2e96c4dea8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/81501a98-fdcd-480c-95b8-172c700bb1fc.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Los jóvenes del distrito enfrentan desafíos vinculados al empleo, la capacitación y el acceso a oportunidades de desarrollo, limitando su potencial como actores clave del progreso local.",
+            "objective": "Impulsar la formación de capacidades, promover el empleo juvenil, fortalecer el liderazgo y brindar educación técnica de calidad vinculada al mercado laboral.",
+            "goal": "Al 2030, capacitar a 15,000 jóvenes y gestionar 5,000 oportunidades laborales.",
+            "indicator": "Número de jóvenes capacitados y oportunidades laborales gestionadas."
+          },
+          {
+            "problem": "Las mujeres del distrito enfrentan situaciones de violencia, dependencia económica y limitadas oportunidades de desarrollo, lo que requiere políticas públicas orientadas a su fortalecimiento y protección integral.",
+            "objective": "Fortalecer la protección integral de la mujer, promover su autonomía económica e impulsar programas de fortalecimiento familiar.",
+            "goal": "Al 2030, beneficiar a más de 20,000 mujeres mediante programas de capacitación y establecer una sede principal de la Casa de la Mujer Sanjuanina.",
+            "indicator": "Número de mujeres beneficiadas con programas de capacitación, orientación y fortalecimiento de capacidades."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, manifestada en la presencia de delitos contra el patrimonio, robos, violencia familiar y consumo de drogas, que afectan la tranquilidad y calidad de vida de la población.",
+            "objective": "Fortalecer el sistema distrital de seguridad ciudadana mediante una estrategia integral basada en prevención, tecnología, participación ciudadana y coordinación interinstitucional.",
+            "goal": "Al 2030, instalar 500 cámaras de videovigilancia e implementar 15 bases de serenazgo para reducir progresivamente la percepción de inseguridad.",
+            "indicator": "Número de cámaras operativas y bases de seguridad implementadas."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud preventiva, especialmente en sectores vulnerables y zonas con mayores dificultades, lo que constituye una necesidad prioritaria para el bienestar comunitario.",
+            "objective": "Promover estilos de vida saludables, fortalecer la prevención de enfermedades e impulsar programas de salud mental, así como la construcción de un hospital de Nivel III.",
+            "goal": "Al 2030, alcanzar una cobertura preventiva permanente en las siete zonas del distrito y atender a más de un millón de asegurados de Lima Sur.",
+            "indicator": "Cobertura preventiva de salud en el distrito."
+          },
+          {
+            "problem": "Deterioro de pistas, veredas y espacios peatonales en diversos sectores del distrito, lo que genera dificultades para la movilidad y afecta la calidad de vida de los vecinos.",
+            "objective": "Mejorar la conectividad urbana, incrementar la seguridad vial y facilitar el desplazamiento de peatones y vehículos.",
+            "goal": "Al 2030, lograr la construcción y rehabilitación de 250,000 m² de pistas y 180,000 m² de veredas.",
+            "indicator": "Metros cuadrados de pistas y veredas ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "La informalidad económica limita el crecimiento empresarial y reduce el acceso a beneficios financieros y comerciales para los negocios del distrito.",
+            "objective": "Facilitar la formalización de los negocios, reducir las barreras burocráticas y mejorar el clima de negocios en el distrito.",
+            "goal": "Al 2030, incrementar significativamente el número de negocios formalizados en el distrito.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Las micro y pequeñas empresas (MYPES) enfrentan limitaciones relacionadas con financiamiento, capacitación y acceso a mercados, a pesar de ser uno de los principales motores económicos del distrito.",
+            "objective": "Incrementar la competitividad empresarial, fortalecer el ecosistema emprendedor e impulsar la innovación en este sector.",
+            "goal": "Al 2030, fortalecer más de 5,000 emprendimientos y unidades económicas locales.",
+            "indicator": "Número de MYPES fortalecidas."
+          },
+          {
+            "problem": "Dificultades para el acceso a empleos formales por parte de jóvenes y adultos, debido a la falta de capacitación especializada, experiencia laboral y oportunidades de inserción en el mercado.",
+            "objective": "Promover el acceso al empleo formal, fortalecer las capacidades laborales y facilitar la articulación entre empresas y trabajadores.",
+            "goal": "Al 2030, capacitar a más de 15,000 jóvenes y adultos, y gestionar 5,000 oportunidades laborales.",
+            "indicator": "Número de personas capacitadas y oportunidades laborales gestionadas."
+          },
+          {
+            "problem": "Potencial económico de los ejes comerciales del distrito no aprovechado, requiriendo intervenciones integrales para incrementar su competitividad.",
+            "objective": "Fortalecer los corredores económicos, mejorar la infraestructura comercial e incrementar la seguridad y accesibilidad en dichos ejes.",
+            "goal": "Al 2030, consolidar corredores económicos modernos y competitivos.",
+            "indicator": "Número de corredores económicos consolidados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La acumulación de residuos sólidos en determinados sectores del distrito afecta la salud pública, el ornato y la percepción de limpieza.",
+            "objective": "Mejorar la limpieza pública, fortalecer la cultura ambiental, reducir los puntos críticos de acumulación y transformar los residuos en oportunidades de reciclaje y valorización.",
+            "goal": "Al 2030, eliminar los principales puntos críticos de acumulación de residuos y reducir en un 30% su disposición final.",
+            "indicator": "Porcentaje de reducción de la disposición final de residuos."
+          },
+          {
+            "problem": "El distrito presenta un déficit de áreas verdes, lo que limita las oportunidades de recreación y afecta negativamente la calidad ambiental.",
+            "objective": "Recuperar espacios públicos, incrementar la cobertura de áreas verdes y promover entornos saludables, garantizando su mantenimiento con sistemas de riego sostenible.",
+            "goal": "Al 2030, recuperar 100 parques y plantar más de 50,000 árboles y especies ornamentales.",
+            "indicator": "Número de parques recuperados y árboles plantados."
+          },
+          {
+            "problem": "El distrito presenta condiciones de vulnerabilidad frente a sismos, incendios y movimientos de masa, lo que representa un riesgo para la población y el territorio.",
+            "objective": "Fortalecer la prevención, incrementar la capacidad de respuesta y reducir los riesgos asociados a desastres naturales o antrópicos.",
+            "goal": "Al 2030, consolidar una cultura preventiva y fortalecer la resiliencia distrital.",
+            "indicator": "Nivel de consolidación de la cultura preventiva y resiliencia distrital."
+          },
+          {
+            "problem": "Crecientes desafíos derivados de los efectos del cambio climático que requieren la adopción de un modelo de desarrollo sostenible y resiliente.",
+            "objective": "Incorporar criterios de sostenibilidad en la gestión, promover la adaptación climática y fortalecer la conciencia ambiental en la comunidad.",
+            "goal": "Al 2030, posicionar a San Juan de Miraflores como un referente de gestión ambiental en Lima Sur.",
+            "indicator": "Posicionamiento del distrito como referente en gestión ambiental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La sostenibilidad financiera municipal requiere una gestión tributaria moderna y eficiente para asegurar la provisión de servicios públicos de calidad.",
+            "objective": "Incrementar la recaudación, mejorar la cultura tributaria y fortalecer la capacidad financiera municipal.",
+            "goal": "Al 2030, incrementar progresivamente la capacidad de financiamiento de los servicios municipales.",
+            "indicator": "Capacidad de financiamiento de los servicios municipales."
+          },
+          {
+            "problem": "Las nuevas exigencias ciudadanas demandan una administración municipal más ágil, eficiente y orientada a la solución de problemas, superando los procesos burocráticos actuales.",
+            "objective": "Modernizar la administración municipal, reducir los tiempos de atención e incrementar la satisfacción ciudadana mediante la transformación digital.",
+            "goal": "Al 2030, digitalizar la totalidad de los principales procedimientos administrativos municipales.",
+            "indicator": "Porcentaje de procedimientos administrativos digitalizados."
+          },
+          {
+            "problem": "La ciudadanía exige instituciones transparentes que rindan cuentas sobre el uso de los recursos públicos, siendo la lucha contra la corrupción una condición indispensable para recuperar la confianza.",
+            "objective": "Fortalecer la transparencia institucional, promover la integridad pública y garantizar la rendición de cuentas de manera permanente.",
+            "goal": "Al 2030, consolidar una cultura institucional basada en la integridad, la transparencia y la rendición permanente de cuentas.",
+            "indicator": "Nivel de consolidación de una cultura institucional basada en la integridad y transparencia."
+          },
+          {
+            "problem": "La falta de formalización predial genera inseguridad jurídica para las familias y limita el desarrollo económico del distrito.",
+            "objective": "Facilitar la formalización predial, brindar orientación legal, impulsar el saneamiento físico legal y promover la delimitación definitiva del distrito.",
+            "goal": "Al 2030, impulsar procesos de formalización que beneficien a las familias del distrito, otorgando mayor seguridad jurídica para vecinos e inversiones.",
+            "indicator": "Procesos de formalización impulsados y nivel de seguridad jurídica."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-H8YRjBzoptN5IrjwqBjlNu-wWupTYkEI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/H8YRjBzoptN5IrjwqBjlNu-wWupTYkEI",
+      "sha256": "8ede00d2a69ef3a45a745c26740556b63297df132ef3248c5fcedcf4d4a7130b",
+      "accessedAt": "2026-10-02T23:04:13.743Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016631",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016631",
+      "sha256": "9d5d752c57214e0d37e74ee9f4db4843278e1d3a5eecf143c525b05fce0f2159",
+      "accessedAt": "2026-10-02T23:04:14.245Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

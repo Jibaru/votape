@@ -1,0 +1,209 @@
+{
+  "id": "DUH_hc6oR8TiiLDZIykOP0q_6JRRRWSn",
+  "slug": "miguel-angel-espinoza-saavedra",
+  "electionId": "erm-2026",
+  "name": "Miguel Angel Espinoza Saavedra",
+  "givenNames": "Miguel Angel",
+  "surnames": "Espinoza Saavedra",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140111",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:12.028Z",
+      "sourceId": "jne-hv-DUH_hc6oR8TiiLDZIykOP0q_6JRRRWSn"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega",
+        "program": "Ciencias Contables",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Independiente",
+      "role": "Servicios Varios",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "Inversiones Inmobiliarias Nebraska S.A.C.",
+      "role": "Empleado",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "Superintendencia De Transporte Terrestre De Personas, Carga Y Mercancías",
+      "role": "Inventariador",
+      "from": "2019",
+      "to": "2019"
+    },
+    {
+      "employer": "Dynamic Outsourcing Solutions S.A.C.",
+      "role": "Representante de ventas",
+      "from": "2018",
+      "to": "2019"
+    },
+    {
+      "employer": "Inbusiness Perú S.A.C.",
+      "role": "Representante de ventas",
+      "from": "2018",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 0,
+        "private": 36000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 66619.93,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Heap Leach Injection S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 10000,
+        "value": 10000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/99a25134-77aa-47b7-870d-864dbe69f24c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8e391159-9aeb-4163-857a-e5e93c0d485e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inadecuados mecanismos de protección frente a la violencia hacia la mujer y los integrantes del grupo familiar en el distrito.",
+            "objective": "Mejorar los mecanismos de protección para mujeres, niñas, niños, adolescentes y adultos mayores ante la violencia familiar y sexual.",
+            "goal": "Alcanzar 165 personas capacitadas y una cobertura del 3.60% de la población en programas de apoyo para el año 2030.",
+            "indicator": "Número de personas capacitadas en prevención de la violencia y porcentaje de población que accede a programas de apoyo social y alimentario."
+          },
+          {
+            "problem": "Inadecuadas condiciones para la prestación de servicios de salud en el distrito de Lince.",
+            "objective": "Garantizar una atención de salud integral, preventiva y accesible para todos los vecinos del distrito.",
+            "goal": "Lograr la atención de 20,000 personas en el programa de medicina preventiva y la realización de 20 campañas de sanidad animal para el año 2030.",
+            "indicator": "Número de personas que acceden al programa de medicina preventiva y número de campañas de sanidad animal y tenencia responsable."
+          },
+          {
+            "problem": "Inadecuados espacios educativos, culturales y de formación cívica en el distrito.",
+            "objective": "Promover la cultura, el deporte y la educación para mejorar el desarrollo físico e intelectual de la población.",
+            "goal": "Alcanzar la participación de 36,000 personas en los programas implementados para el año 2030.",
+            "indicator": "Número de personas participantes en programas educativos, recreativos y formativos."
+          },
+          {
+            "problem": "Deficiencias en la infraestructura de seguridad y en los espacios públicos del distrito.",
+            "objective": "Mejorar las condiciones de habitabilidad y seguridad urbana en el distrito.",
+            "goal": "Implementar el 95.00% de las acciones del Plan de Seguridad Ciudadana y el 30.00% de los programas deportivos y culturales para el año 2030.",
+            "indicator": "Porcentaje de implementación de acciones del Plan Distrital de Seguridad Ciudadana y porcentaje de programas deportivos, recreativos y culturales implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajos niveles de formalización y competitividad del comercio local en el distrito.",
+            "objective": "Promover el turismo, la gastronomía y la identidad cultural como motores del desarrollo económico local.",
+            "goal": "Brindar asistencia técnica a 200 emprendedores y alcanzar el 92.00% de establecimientos comerciales formalizados para el año 2030.",
+            "indicator": "Número de emprendedores que reciben asistencia técnica y porcentaje de establecimientos comerciales formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Bajos niveles de calidad ambiental y de áreas verdes en el distrito.",
+            "objective": "Mejorar la calidad ambiental en el distrito de Lince.",
+            "goal": "Lograr que el 99.00% de las áreas verdes se encuentren en estado óptimo y que el 5.00% de los residuos sólidos se destinen al reciclaje para el año 2030.",
+            "indicator": "Porcentaje de áreas verdes en estado óptimo de conservación y porcentaje de residuos sólidos destinados al reciclaje."
+          },
+          {
+            "problem": "Débil cultura de prevención y fiscalización ambiental en la comunidad.",
+            "objective": "Fortalecer las capacidades institucionales y ciudadanas en la cultura de prevención y reducción de riesgos ambientales.",
+            "goal": "Sensibilizar a 4,500 personas en materia ambiental y realizar 550 fiscalizaciones ambientales para el año 2030.",
+            "indicator": "Número de personas sensibilizadas en materia ambiental y número de fiscalizaciones ambientales realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada modernización institucional y de la gestión municipal.",
+            "objective": "Fortalecer la gestión institucional, la transparencia y la modernización municipal.",
+            "goal": "Actualizar el 85.00% de los instrumentos de gestión y optimizar el 60.00% de los procesos municipales para el año 2030.",
+            "indicator": "Porcentaje de instrumentos de gestión actualizados y porcentaje de procesos municipales optimizados."
+          },
+          {
+            "problem": "Elevados índices de delincuencia y percepción de inseguridad ciudadana.",
+            "objective": "Reducir la delincuencia y la percepción de inseguridad mediante un sistema integrado de seguridad ciudadana.",
+            "goal": "Reducir al 4.50% la tasa de victimización y alcanzar el 93.00% de atención oportuna de ocurrencias para el año 2030.",
+            "indicator": "Porcentaje de población víctima de hechos delictivos y porcentaje de ocurrencias atendidas oportunamente por el Serenazgo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-DUH_hc6oR8TiiLDZIykOP0q_6JRRRWSn",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DUH_hc6oR8TiiLDZIykOP0q_6JRRRWSn",
+      "sha256": "34f99ce6ec536a59d6d429b21ab1397c337c9761a7017ad6c9b95adf1ea6d592",
+      "accessedAt": "2026-10-02T22:58:12.028Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011449",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011449",
+      "sha256": "93e4e337ed0904bd253ff7cfe9d8f5ab9e561c3988c5b0fd48276f88d931883a",
+      "accessedAt": "2026-10-02T22:58:12.538Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

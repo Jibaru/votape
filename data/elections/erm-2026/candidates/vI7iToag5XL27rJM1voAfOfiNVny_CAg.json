@@ -1,0 +1,426 @@
+{
+  "id": "vI7iToag5XL27rJM1voAfOfiNVny_CAg",
+  "slug": "victor-arturo-castillo-sanchez",
+  "electionId": "erm-2026",
+  "name": "Victor Arturo Castillo Sanchez",
+  "givenNames": "Victor Arturo",
+  "surnames": "Castillo Sanchez",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:01.542Z",
+      "sourceId": "jne-hv-vI7iToag5XL27rJM1voAfOfiNVny_CAg"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2000"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2000"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "MAESTRIA EN DERECHO PENAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "CENTRO DE ALTOS ESTUDIOS NACIONALES (CAEN)",
+        "program": "DEFENSA Y DESARROLLO NACIONAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "MAESTRIA EN GOBERNABILIDAD",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "EMPRESA DE SERVICIOS GENERALES R.F.R. SOCIEDAD ANONIMA CERRADA",
+      "role": "ASESOR",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRIAL DE LURIGANCHO",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "GOBIERNO REGIONAL DE LIMA",
+      "role": "DIRECTOR REGIONAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "UNIDOS POR EL PUEBLO",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "UNIDOS POR EL PUEBLO",
+      "from": "2009",
+      "to": "2011"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "UNIDAD HUAROCHIRANA",
+      "from": "2013",
+      "to": "2013"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "UNIDOS POR EL PUEBLO",
+      "year": "2011"
+    },
+    {
+      "party": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 52000,
+        "public": 0,
+        "private": 52000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8fc56ea6-9c15-493b-a621-726b29a64e16.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5223e739-2bf0-4e50-b6c9-8cdee8fe8177.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "DEFICIENCIA EN LA ATENCION DE LOS SERVICIOS DE SALUD Y ALTO INDICE DE ANEMIA INFANTIL",
+            "objective": "IMPLEMENTACION DE CAMPAÑAS MASIVAS EN EL AMBITO TERRITORIAL DEL DISTRITO, ENFOCADO EN LA PRIMERA INFANCIA",
+            "goal": "REDUCIR LOS CASOS DE ANEMIA INFANTIL A MENOS DEL 10%",
+            "indicator": "ALTO INDICE DE ANEMIA INFANTIL EN NIÑOS MENORES DE 36 MESES"
+          },
+          {
+            "problem": "ALTO INDICE DE ROBOS, ASALTOS Y MICROCOMERCIALZACION DE DROGAS",
+            "objective": "REDUCIR LA INCIDENCIA DE ROBOS, ASALTOS Y MICROCOMERCIALIZACION DE DROGA MEDIANTE EL FORTALECIMIENTO DEL PATRULLAJE DISUASIVO Y RECUPERACION DE ESPACIOS PUBLICOS MEDIANTE EL USO DE LA TECNOLOGIA",
+            "goal": "REDUCIR EN UN PORCENTAJE SIGNIFICATIVO LA INSEGURIDAD CIUDADANA EN CUANTO A ASALTOS Y ROBOS",
+            "indicator": "REDUCIR LA TASA DE INSEGURIDAD CIUDADANA EN CUANTO A ROBOS, ASALTOS Y MICROCOMERCIALIZACION DE DROGA"
+          },
+          {
+            "problem": "Infraestructura y equipamiento deficientes en los servicios de salud pública del distrito.",
+            "objective": "Mejorar la infraestructura del Hospital de Chosica y su equipamiento, así como los establecimientos de salud periféricos.",
+            "goal": "Promover la construcción o mejoramiento de la infraestructura del Hospital de Chosica, posibilitando su pronto equipamiento e implementación con profesionales de primer nivel.",
+            "indicator": "Porcentaje de mejoramiento de la infraestructura y equipamiento del hospital y centros de salud."
+          },
+          {
+            "problem": "ALTO INDICE DE ROBOS, ASALTOS Y MICROCOMERCIALIZACION DE DROGA",
+            "objective": "REDUCIR LA INCIDENCIA DE ROBOS, ASALTOS Y MICROCOMERCIALIZACION DE DROGA MEDIANTE EL FORTALECIMIENTO DEL PATRULLAJE DISUASIVO Y RECUPERACION DE ESPACIOS PUBLICOS MEDIANTE EL USO DE LA TECNOLOGIA",
+            "goal": "REDUCIR EN UN PORCENTAJE SIGNIFICATIVO LA INSEGURIDAD CIUDADANA EN CUANTO A ROBOS Y ASALTOS",
+            "indicator": "REDUCIR LA TASA DE INSEGURIDAD CIUDADANA EN CUANTO A ROBO, ASALTOS Y MICROCOMERCIALIZACION DE DROGA"
+          },
+          {
+            "problem": "Congestión vehicular recurrente y un alto grado de informalidad en el transporte público.",
+            "objective": "Ordenar y formalizar el transporte público, incluyendo vehículos menores, y optimizar la infraestructura vial para mejorar la fluidez del tránsito.",
+            "goal": "Desarrollar un Plan Integral de Formalización del Transporte de Vehículos Menores, gestionar la habilitación de vías alternas y la construcción de moderna infraestructura vial con puentes y carreteras.",
+            "indicator": "Número de unidades de transporte de vehículos menores formalizadas y porcentaje de reducción del tiempo de viaje en vías principales."
+          },
+          {
+            "problem": "FALA DE SERVICIOS BASICOS",
+            "objective": "ACCESO UNIVERSAL A LOS SERVICIOS BASICOS INDISPENSABLES (AGUA, LUZ, DESAGUE, GAS)",
+            "goal": "GESTIONAR E IMPULSAR LOS PROYECTOS NECESARIOS PARA CUBRIR EL 85% DE LAS ZONAS CON FALTA DE SERVICIOS",
+            "indicator": "LOGRAR QUE EL 100% DE LAS VIVIENDAS DEL DISTRITO CUENTE CON CONEXION FORMAL A LA RED DE AGUA, DESAGUE, LUZ, GAS"
+          },
+          {
+            "problem": "DEFICIENCIA EN LA ATENCION DE LOS SERVICIOS DE SALUD Y ALTO INDICE DE ANEMIA INFANTIL",
+            "objective": "IMPLEMENTACION DE CAMPAÑAS MEDICAS EN EL AMBITO TERRITORIAL DEL DISTRITO ENFOCADO EN LA PRIMERA INFANCIA",
+            "goal": "REDUCIR LOS CASOS DE ANEMIA INFANTIL A MENOS DEL 10%",
+            "indicator": "ALTO INDICE DE ANEMIA INFANTIL EN NIÑOS MENORES DE 36 MESES"
+          },
+          {
+            "problem": "Cobertura limitada y calidad deficiente de los servicios de agua potable y alcantarillado en el distrito.",
+            "objective": "Incrementar la cobertura y mejorar la calidad de los servicios de agua y saneamiento para toda la población del distrito.",
+            "goal": "Elaborar los expedientes técnicos y buscar el financiamiento para el mejoramiento del servicio de agua y desagüe, incluyendo la construcción de plantas de tratamiento para ambos servicios.",
+            "indicator": "Porcentaje de incremento en la cobertura de agua potable y alcantarillado a nivel distrital."
+          },
+          {
+            "problem": "Infraestructura educativa inadecuada y vulnerable, junto a una carencia de espacios para la cultura, el deporte y la recreación.",
+            "objective": "Mejorar la infraestructura educativa y crear espacios adecuados para el fomento de actividades culturales, deportivas y recreativas en el distrito.",
+            "goal": "Gestionar la construcción de nueva infraestructura escolar con su respectivo equipamiento, así como la construcción de espacios multideportivos y parques temáticos para el esparcimiento familiar.",
+            "indicator": "Número de nuevas infraestructuras escolares, culturales y deportivas construidas y puestas en funcionamiento."
+          },
+          {
+            "problem": "FALTA DE SERVICIOS BASICOS",
+            "objective": "ACCESO UNIVERSAL A LOS SERVICIOS BASICOS INDISPENSABLES (AGUA, LUZ, DESAGUE Y GAS)",
+            "goal": "GESTIONAR E IMPULSAR LOS PROYECTOS NECESARIOS PARA CUBRIR AL 85% LAS ZONAS CON FALTA DE SERVICIOS",
+            "indicator": "LOGRAR QUE EL 100% DE LAS VIVIENDAS DEL DISTRITO CUENTEN CON CONEXIONES FORMALES A LA RED DE AGUA, LUZ, AGUA Y DESAGUE"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "FALTA DE OPORTUNIDADES PARA LA CREACION Y PROMOCION PARA EMPRENDEDORES",
+            "objective": "CREACION DE ESCUELA O PROGRAMA MUNICIPAL PARA LOS EMPRENDEDORES",
+            "goal": "LOGRAR REDUCIR EL ALTO INDICE DE DESEMPLEO LOCAL EN UN ALTO PORCENTAJE",
+            "indicator": "ALTO NUMERO DE DESEMPLEO"
+          },
+          {
+            "problem": "DESAPROVECHAMIENTO DEL POTENCIAL TURISTICO DEL DISTRITO",
+            "objective": "REACTIVACION Y PROMOCION DEL TURISMO DE NUESTRO DISTRITO",
+            "goal": "AUMENTAR EN 50% LA AFLUENCIA DE TURISTAS Y VISITANTES A NUESTRO DISTRITO DURANTE TODO EL AÑO",
+            "indicator": "POTENCIAR EL PORCENTAJE DE TURISTAS EN NUESTRO DISTRITO"
+          },
+          {
+            "problem": "ALTO INDICE DE COMERCIO INFORMAL",
+            "objective": "GENERACON Y PROMOCION DE LA ACTIVIDAD FORMAL EN EL DISTRITO A TRAVES DE LA SENSIBILIZACION Y CAPACITACION DE LOS OPERADORES PRODUCTIVOS",
+            "goal": "REDUCIR AL 20% EL ALTO INDICE DE COMERCO INFORMAL",
+            "indicator": "ALTA TASA DE EMPLEO INFORMAL EN EL SECTOR COMERCIAL"
+          },
+          {
+            "problem": "Baja competitividad y alto grado de informalidad entre los operadores productivos y comerciales del distrito.",
+            "objective": "Promover la actividad económica a través de la formalización, capacitación y asesoramiento de los diversos agentes económicos locales.",
+            "goal": "Generar y promover la actividad económica del distrito mediante la formalización, organización, capacitación y asesoramiento de comerciantes, transportistas, artesanos y pequeños empresarios para consolidar su propuesta comercial.",
+            "indicator": "Número de operadores productivos y comerciales formalizados y capacitados anualmente."
+          },
+          {
+            "problem": "FALTA DE OPORTUNIDADES PARA LA CREACION Y FORMACION PARA EMPRENDEDORES",
+            "objective": "CREACION DE ESCUELA O PROGRAMA MUNICIPAL PARA LOS EMPRENDEDORES",
+            "goal": "LOGRAR REDUCIR EL ALTO INDICE DE DESEMPLEO LOCAL EN UN ALTO PORCENTAJE",
+            "indicator": "ALTO NUMERO DE DESEMPLEO"
+          },
+          {
+            "problem": "DESAPROVECHAMIENTO DEL POTENCIAL TURISTICO DEL DISTRITO",
+            "objective": "REACTIVACION Y PROMOCION DEL TURISMO DE NUESTRO DISTRITO",
+            "goal": "AUMENTAR EN 50% LA AFLUENCIA DE TURISTAS Y VISITANTES A NUESTRO DISTRITO DURANTE TODO EL AÑO",
+            "indicator": "POTENCIAR EL PORCENTAJE DE TURISTAS EN NUESTRO DISTRITO"
+          },
+          {
+            "problem": "ALTO INDICE DE COMERCIO INFORMAL",
+            "objective": "GENERACION Y PROMOCION DE LA ACTIVIDAD FORMAL EN EL DISTRITO A TRAVES DE LA SENSIBILIZACION Y CAPACITACION DE LOS OPERADORES PRODUCTIVOS",
+            "goal": "REDUCIR AL 20% EL ALTO INDICE DE COMERCIO INFORMAL",
+            "indicator": "ALTA TASA DE EMPLEO INFORMAL EN EL SECTOR COMERCIAL"
+          },
+          {
+            "problem": "Crecimiento urbano desorganizado y sin planificación que dificulta el desarrollo económico y la titulación de predios.",
+            "objective": "Ordenar el crecimiento urbano y mejorar la infraestructura vial en los pueblos jóvenes y asentamientos humanos para facilitar el acceso y desarrollo.",
+            "goal": "Implementar el asfaltado, veredas y cambios de redes de las avenidas y calles de los pueblos jóvenes, en concordancia con el plan de desarrollo urbano, para generar un acceso adecuado a las viviendas.",
+            "indicator": "Kilómetros de vías asfaltadas y veredas construidas en zonas de crecimiento urbano no planificado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación del río Rímac por el arrojo de desagües y polución del aire por fuentes móviles e industriales.",
+            "objective": "Reducir la contaminación hídrica y atmosférica mediante la gestión de aguas residuales y la promoción de programas de cuidado ambiental.",
+            "goal": "Gestionar la construcción de plantas de tratamiento de aguas servidas en diferentes zonas y evitar que los ductos de aguas servidas terminen en el río Rímac.",
+            "indicator": "Número de plantas de tratamiento de aguas servidas construidas y en operación."
+          },
+          {
+            "problem": "VULNERABILIDAD FRENTE A DESASTRES NATURALES",
+            "objective": "MITIGAR Y REDUCIR LOS RIESGOS DE DESASTRES EN LAS DIFERENTES QUEBRADAS DE NUESTRA LOCALIDAD",
+            "goal": "DISMINUIR EN UN PORCENTAJE SIGNIFICATIVO LA VULNERABILIDAD ANTE DESASTRES NATURALES",
+            "indicator": "CONSTRUCCION DE MUROS DE CONTENCION, DIQUES, MALLAS GEODINAMICAS Y DESCOLMATACION DE TODAS LAS QUEBRADAS"
+          },
+          {
+            "problem": "Inadecuada gestión y tratamiento de los residuos sólidos municipales, careciendo de un plan integral y plantas de tratamiento.",
+            "objective": "Implementar un sistema integral para la gestión y tratamiento de residuos sólidos, abarcando desde la recolección hasta la disposición final y el aprovechamiento.",
+            "goal": "Gestionar la construcción de una planta de tratamiento de residuos sólidos para garantizar la disposición final adecuada de la basura y aprovechar sus beneficios.",
+            "indicator": "Construcción y puesta en operación de una planta de tratamiento de residuos sólidos."
+          },
+          {
+            "problem": "DEFICIENTE GESTION DE RESIDUOS SOLIDOS",
+            "objective": "EFICIENTE GESTION DE LOS RECOJOS DE LOS RESIDUOS SOLIDOS",
+            "goal": "OPTIMIZAR Y MEJORAR EL IMPACTO AMBIENTAL Y SANITARIO DEL DISTRITO",
+            "indicator": "OPTIMIZAR LA EFICIENCIA Y PUNTUALIDAD DEL SISTEMA DE RECOLECCION DE RESIDUOS SOLIDOS"
+          },
+          {
+            "problem": "DEFICIENTE GESTION DE RESIDUOS SOLIDOS",
+            "objective": "OPTIMIZAR LA EFICIENCIA Y PUNTUALIDAD DEL SISTEMA DE RECOLECCION DE RESIDUOS SOLIDOS",
+            "goal": "OPTIMIZAR Y MEJORAR EL IMPACTO AMBIENTAL Y SANITARIO DEL DISTRITO",
+            "indicator": "EFICIENTE GESTION DE LOS RECOJOS DE LOS RESIDUOS SOLIDOS"
+          },
+          {
+            "problem": "VULNERABILIDAD FRENTE A DESASTRES NATURALES",
+            "objective": "MITIGAR Y REDUCIRR LOS RIESGOS DE DESASTRES EN LAS DIFERENTES QUEBRADAS DE NUESTRA LOCALIDAD",
+            "goal": "DISMINUIR EN UN PORCENTAJE SIGNFICATIVO LA VULNERABILIDAD ANTE DESASTRES NATURALES",
+            "indicator": "CONSTRUCCION DE MUROS DE CONTENCION, DIQUES, MALLAS GEODINAMICAS Y DESCOLMATACION DE TODAS LAS QUEBRADAS"
+          },
+          {
+            "problem": "Escasez de áreas verdes y espacios de recreación, además de la falta de equipamiento para su creación y mantenimiento.",
+            "objective": "Incrementar y conservar las áreas verdes del distrito para mejorar la calidad de vida de los vecinos.",
+            "goal": "Mejorar, incrementar y conservar las áreas verdes del distrito, y crear parques infantiles con amplias áreas verdes, seguros, divertidos y saludables.",
+            "indicator": "Hectáreas de nuevas áreas verdes creadas y mantenidas anualmente."
+          },
+          {
+            "problem": "CONTAMINACION DEL RIO RIMAC",
+            "objective": "EVITAR EL ERTIMIENT DE LAS AGUAS RESIDUALES EN EL RIO RIMAC",
+            "goal": "REDUCCION DEL 50% DE LA CONTAMINACION DEL RIO RIMAC DENTRO DE LA JURISDICCION",
+            "indicator": "CONSTRUCCION DE PLANTAS DE TRATAMIENTO Y/O CONEXION A LA RED GENERAL DE SEDA´PAL"
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población ante desastres naturales como huaicos y deslizamientos por la ausencia de obras de prevención.",
+            "objective": "Proteger y salvaguardar a la población que reside en zonas de riesgo a través de la implementación de un plan integral de prevención, mitigación y contingencia.",
+            "goal": "Construir muros de contención, diques, arborizar y consolidar los suelos en las partes altas, así como adquirir maquinaria pesada para trabajos de prevención.",
+            "indicator": "Número de infraestructuras de prevención, como muros de contención y diques, construidas en zonas de alto riesgo."
+          },
+          {
+            "problem": "CONTAMINACION DEL RIO RIMAC",
+            "objective": "EVITAR EL VERTIMIENTO DE LAS AGUAS RESIDUALES EN EL RIO RIMAC",
+            "goal": "REDUCCION DEL 50% DE LA CONTAMINACION DEL RIO RIMAC DENTRO DE LA JURISDICCION",
+            "indicator": "CONSTRUCCION DE PLANTAS DE TRATAMIENTO Y/O CONEXION A LA RED GENERAL DE SEDAPAL"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "INEFICIENCIA DE RECAUDACION TRIBUTARIA Y BAJA FISCALIZACION TRIBUTARIA",
+            "objective": "MEJORAMIENTO DE LA RECAUDACION FISCAL A TRAVES DE INCENTIVOS MUNICIPALES Y CONSTRUCCION DE UNA SEDE MUNICIPAL EN LA PARTE BAJA DEL DISTRITO",
+            "goal": "REDUCIR LA MOROSIDAD TRIBUTARIA AL 30% Y PEMIAR A LOS BUENOS CONTRIBUYENTES",
+            "indicator": "ALTO PORCENTAJE DE MOROSIDAD TRIBUTARIA"
+          },
+          {
+            "problem": "BARRERAS BUROCRATICAS Y PROCESOS ADMINISTRATIVOS NO DIGITALIZADOS",
+            "objective": "MODERNIZACION DE LA GESTION PUBLICA",
+            "goal": "MODERNIZAR Y DIGITALIZAR EL 100% DE LOS TRAMITES ADMINISTRATIVOS",
+            "indicator": "ELIMINACION DE LAS BARRERAS BUROCRATICAS A TRAVES DE LA SIMPLIFICACION ADMINISTRATIVA"
+          },
+          {
+            "problem": "FALTA DE TRANSPARENCIA DE LA GESTION PUBLICA",
+            "objective": "IMPLEMENTAR POLITICAS RIGUROSAS DE TRANSPARENCIA Y PARTICIPACION CIUDADANA",
+            "goal": "ALCANZAR EL 100% DE TRANSPARENCIA DE LA GESTION Y EJECUTAR EL 100% DEL PRESUPUESTO PARTICIPATIVO",
+            "indicator": "CUMPLIMIENTO DE NORMAS Y DIRECTIVAS PARA EL PORTAL DE TRANSPARENCIA, ASI COMO LA CORRECTA EJECUCION DEL PRESUPUESTO PARTICIPATIVO"
+          },
+          {
+            "problem": "BARRERAS BUROCRATIVAS Y PROCESOS ADMINISTRATIVOS NO DIGITALIZADOS",
+            "objective": "MODERNIZACION DE LA GESTION PUBLICA",
+            "goal": "MODERNIZAR Y DIGITALIZAR AL 100% DE LOS TRAMITES ADMINISTRATIVOS",
+            "indicator": "ELIMINACION DE LAS BARRERAS BUROCRATICAS A TRAVEZ DE LA SIMPLIFICACION ADMINISTRATIVA"
+          },
+          {
+            "problem": "INEFICIENCIA EN LA RECAUDACION TRIBUTARIA Y BAJA FISCALIZACION TRIBUTARIA",
+            "objective": "MEJORAMIENTO DE LA RECAUDACION FISCAL A TRAVES DE INCENTIVOS MUNICIPALES Y LA CONSTRUCCION DE UNA SEDE MUNICIPAL EN LA PARTE BAJA DEL DISTRITO",
+            "goal": "REDUCIR LA MOROSIDAD TRIBUTARIA AL 30% Y PREMIAR A LOS BUENOS CONTRIBUYENTES",
+            "indicator": "ALTO PORCENTAJE DE MOROSIDAD TRIBUTARIA"
+          },
+          {
+            "problem": "Conflicto de demarcación territorial no resuelto que genera incertidumbre jurisdiccional y un catastro distrital incompleto.",
+            "objective": "Solucionar el conflicto limítrofe y desarrollar un catastro distrital integral para una planificación territorial adecuada.",
+            "goal": "Exigir a la Presidencia del Consejo de Ministros (PCM) resultados sobre la demarcación territorial y desarrollar el catastro distrital integral por etapas.",
+            "indicator": "Porcentaje de avance en la actualización del catastro distrital y estado de la gestión para la solución del conflicto de demarcación."
+          },
+          {
+            "problem": "Ineficacia del servicio de seguridad ciudadana debido a la falta de equipamiento, personal y articulación con otras instituciones.",
+            "objective": "Fortalecer la seguridad ciudadana a través del equipamiento tecnológico del serenazgo y la articulación con la Policía Nacional y las juntas vecinales.",
+            "goal": "Equipar e implementar el cuerpo de Serenazgo con herramientas de última generación, colocar más cámaras de video vigilancia y desarrollar patrullajes integrados con la Policía Nacional del Perú.",
+            "indicator": "Porcentaje de reducción del índice delictivo reportado en el distrito."
+          },
+          {
+            "problem": "Gestión municipal centralizada, con limitada transparencia y escasa participación ciudadana en la toma de decisiones.",
+            "objective": "Fortalecer la gobernabilidad democrática, promoviendo la participación ciudadana, la descentralización y la transparencia en la gestión municipal.",
+            "goal": "Empoderar a los vecinos en los Comités de Coordinación Local, brindándoles facilidades para su labor, y garantizar la participación de la población en los actos de gobierno de la gestión municipal.",
+            "indicator": "Número de sesiones de concejo descentralizadas realizadas y nivel de operatividad de los Comités de Coordinación Local."
+          },
+          {
+            "problem": "FALTA DE TRANSPARENCIA DE LA GESTION PUBLICA",
+            "objective": "IMPLEMENTAR POLITICAS RIGUROSAS DE TRANSPARENCIA Y PARTICIPACION CIUDADANA",
+            "goal": "ALCANZAR EL 100% DE TRANSPARENCIA DE LA GESTION Y EJECUTAR EL 100% DEL PRESUPUESTO PARTICIPATIVO",
+            "indicator": "CUMPLIMIENTO DE LAS NORMAS Y DIRECTIVAS PARA EL PORTAL DE TRANSPARENCIA, ASI COMO LA CORRECTA EJECUCION DEL PRESUPUESTO PARTICIPATIVO"
+          },
+          {
+            "problem": "Débil organización y falta de legitimidad en las dirigencias de los asentamientos humanos, limitando su capacidad de gestión.",
+            "objective": "Fortalecer la organización comunal y la capacidad de gestión de los dirigentes de los asentamientos humanos.",
+            "goal": "Capacitar a los dirigentes de los asentamientos humanos en temas de gestión comunal y gobernabilidad, e instruirles en la elaboración de instrumentos de gestión de asociaciones y pueblos.",
+            "indicator": "Número de dirigentes de asentamientos humanos capacitados en gestión comunal y gobernabilidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vI7iToag5XL27rJM1voAfOfiNVny_CAg",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vI7iToag5XL27rJM1voAfOfiNVny_CAg",
+      "sha256": "fa3d376aaf7c1b0b5a55882d937f4845282fc155d954c318620ebc586e1742b9",
+      "accessedAt": "2026-10-02T22:59:01.542Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017282",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017282",
+      "sha256": "f149e4b7525296e0dcacb83a0d2301f4d5e29015fbb61c5b084311ed05140146",
+      "accessedAt": "2026-10-02T22:59:02.022Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

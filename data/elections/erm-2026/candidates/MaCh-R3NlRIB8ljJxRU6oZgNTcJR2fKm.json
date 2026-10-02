@@ -1,0 +1,404 @@
+{
+  "id": "MaCh-R3NlRIB8ljJxRU6oZgNTcJR2fKm",
+  "slug": "carmen-monica-acuna-jara",
+  "electionId": "erm-2026",
+  "name": "Carmen Monica Acuña Jara",
+  "givenNames": "Carmen Monica",
+  "surnames": "Acuña Jara",
+  "age": 50,
+  "gender": "Femenino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:24.853Z",
+      "sourceId": "jne-hv-MaCh-R3NlRIB8ljJxRU6oZgNTcJR2fKm"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CEO JUAN IRIS",
+        "program": "SECRETARIADO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILAZO DE LA VEGA",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "GESTION PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU",
+        "program": "GESTION Y ALTA DIRECCION",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MyA TRAVEL EXPRESS",
+      "role": "GERENTE",
+      "from": "2013",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE COMAS",
+      "role": "ALCALDESA",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "FROST & FRUT",
+      "role": "GERENTE",
+      "from": "2017",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE INDEPENDENCIA",
+      "role": "ABOGADO",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE PUENTE PIEDRA",
+      "role": "REGIDORA",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "UNION POR EL PERU",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 168240,
+        "public": 74340,
+        "private": 93900
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 127895.17,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 105760.88,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 140788.25,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VEHICULO",
+        "value": 35000
+      },
+      {
+        "type": "VEHICULO",
+        "value": 72030
+      },
+      {
+        "type": "VEHICULO",
+        "value": 161175.7
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "M&A TRAVEL EXPRESS SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 50
+      },
+      {
+        "company": "FROSTY FRUIT S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 4000,
+        "value": 4000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/233736c5-e219-4536-83a7-89722c2374c3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/48ce1e7a-427f-49fc-8397-4ec5cd4c34f0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1. Incremento de robos al paso, extorsión a comercios locales y asaltos en paraderos críticos de las avenidas Túpac Amaru y Universitaria. (PLAN DE GO... p. 9).",
+            "objective": "Reducir la victimización delictiva e implementar el Plan \"Comas Seguro\" con una red integrada de cámaras de videovigilancia con Inteligencia Artificial y reconocimiento de rostros. (PLAN DE GO... p. 9).",
+            "goal": "Disminuir en un 40% el índice de robos al paso y extorsiones en paraderos y ejes comerciales críticos del distrito.",
+            "indicator": "Porcentaje de victimización delictiva y robos en el distrito de Comas. (PLAN DE GO... p. 9)."
+          },
+          {
+            "problem": "Gran presencia de personas con discapacidad y autismo que requieren servicios especializados.",
+            "objective": "Mejorar la inclusión social y el acceso a servicios de salud, educación y recreación para las personas con discapacidad y autismo.",
+            "goal": "Implementar centros de terapia física y psicológica, y reactivar la Oficina Municipal de Atención a las Personas con Discapacidad (OMAPED).",
+            "indicator": "Número de centros de terapia física y psicológica implementados. Número de usuarios atendidos en la OMAPED."
+          },
+          {
+            "problem": "Gran presencia de personas con discapacidad y autismo que requieren atención especializada.",
+            "objective": "Mejorar la inclusión social y el acceso a servicios de salud, educación y recreación para las personas con discapacidad y autismo, mediante centros de terapia y la reactivación de la OMAPED.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Persistencia de índices de anemia infantil y falta de espacios para el adulto mayor y la juventud.",
+            "objective": "Modernizar el sistema de salud municipal enfocado en la prevención, lanzar el programa \"Comas Sin Anemia\" y crear Centros de Atención Integral para el Adulto Mayor y Casas de la Juventud.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Viviendas vulnerables y falta de accesibilidad peatonal en los asentamientos humanos ubicados en las laderas de los cerros.",
+            "objective": "Ejecutar el programa \"Muros y Escaleras de Vida\" para la construcción masiva de muros de contención y la edificación de escaleras de concreto equipadas.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Incremento de robos al paso, extorsión a comercios locales y asaltos en paraderos críticos.",
+            "objective": "Reducir la victimización delictiva y mejorar el desarrollo humano integral de la población de Comas, implementando el Plan \"Comas Seguro\" y el Serenazgo Vecinal Descentralizado.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Persistencia de índices de anemia infantil y falta de espacios para el adulto mayor y la juventud.",
+            "objective": "Modernizar el sistema de salud municipal, lanzar programas de prevención y crear centros de atención integral para poblaciones vulnerables.",
+            "goal": "Lanzar el programa \"Comas Sin Anemia\" y crear Centros de Atención Integral para el Adulto Mayor y Casas de la Juventud descentralizadas.",
+            "indicator": "Tasa de anemia infantil. Número de Centros de Atención Integral para el Adulto Mayor (CIAM) creados. Número de Casas de la Juventud descentralizadas implementadas."
+          },
+          {
+            "problem": "Viviendas vulnerables y falta de accesibilidad peatonal en los asentamientos humanos ubicados en las laderas de los cerros.",
+            "objective": "Ejecutar proyectos de inversión pública para la construcción de infraestructura que mejore la seguridad y accesibilidad en zonas de alta pendiente.",
+            "goal": "Realizar la construcción masiva de muros de contención y la edificación de escaleras de concreto equipadas con barandas de seguridad e iluminación solar en zonas de alta pendiente.",
+            "indicator": "Metros lineales de muros de contención construidos. Número de escaleras de concreto edificadas."
+          },
+          {
+            "problem": "Incremento de robos al paso, extorsión a comercios locales y asaltos en paraderos críticos.",
+            "objective": "Reducir la victimización delictiva y mejorar el desarrollo humano integral de la población de Comas.",
+            "goal": "Implementar una red integrada de cámaras de videovigilancia, instalar tótems de emergencia y reestructurar el serenazgo con 4 Centrales de Monitoreo Zonales para patrullaje integrado en las 14 zonales.",
+            "indicator": "Número de cámaras de videovigilancia con analítica de Inteligencia Artificial (IA) instaladas. Número de centrales de monitoreo zonales creadas. Tasa de victimización delictiva."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta tasa de informalidad en el sector comercio y ocupación desordenada de la vía pública.",
+            "objective": "Incrementar la competitividad económica local y promover el empleo digno a través del fortalecimiento del comercio y las MYPES, ordenando el comercio ambulatorio en ferias itinerantes.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Complejidad y lentitud burocrática en la obtención de licencias de funcionamiento y certificados ITSE.",
+            "objective": "Simplificar los trámites administrativos para la formalización de empresas mediante una plataforma digital.",
+            "goal": "Implementar el programa \"Licencia Express - Comas Emprende\" para la emisión de licencias de funcionamiento en un plazo máximo de 24 horas para actividades de bajo y mediano riesgo.",
+            "indicator": "Tiempo promedio para la emisión de Licencias de Funcionamiento. Porcentaje de licencias emitidas digitalmente."
+          },
+          {
+            "problem": "Alta tasa de informalidad en el sector comercio y ocupación desordenada de la vía pública.",
+            "objective": "Incrementar la competitividad económica local y promover el empleo digno a través del fortalecimiento y ordenamiento del comercio.",
+            "goal": "Delimitar espacios públicos para el comercio ambulatorio mediante programas de empadronamiento y reubicación en ferias comerciales organizadas por la municipalidad.",
+            "indicator": "Número de ferias comerciales temáticas e itinerantes organizadas. Número de comerciantes ambulantes empadronados y reubicados."
+          },
+          {
+            "problem": "Falta de capacidades digitales e innovación en los mercados de abastos tradicionales.",
+            "objective": "Modernizar y mejorar la competitividad de los mercados de abastos a través de asistencia técnica, capacitación y adopción obligatoria de plataformas de pago digital.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Falta de capacidades digitales e innovación en los mercados de abastos tradicionales.",
+            "objective": "Modernizar la infraestructura y gestión de los mercados de abastos para mejorar su competitividad.",
+            "goal": "Brindar asistencia técnica y capacitación a las juntas de comerciantes para la mejora de infraestructuras y la adopción obligatoria de plataformas de pago digital y comercio electrónico.",
+            "indicator": "Número de juntas de comerciantes capacitadas. Porcentaje de mercados que adoptan plataformas de pago digital y comercio electrónico."
+          },
+          {
+            "problem": "Complejidad y lentitud burocrática en la obtención de licencias de funcionamiento y certificados ITSE.",
+            "objective": "Implementar el programa \"Licencia Express - Comas Emprende\" para la simplificación administrativa total mediante una plataforma digital.",
+            "goal": "Emisión de Licencias de Funcionamiento en un plazo máximo de 24 horas para actividades de bajo y mediano riesgo.",
+            "indicator": "No se especifica en el documento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit notable de áreas verdes por habitante y abandono de bermas centrales.",
+            "objective": "Implementar el \"Plan Verde y Riego Sostenible\" para la recuperación paisajística de las avenidas principales, utilizando sistemas de riego por goteo y aguas tratadas.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Presencia de puntos críticos de acumulación de basura y desmonte en avenidas principales y en las faldas de los cerros.",
+            "objective": "Asegurar un hábitat urbano limpio y sostenible mediante la optimización e industrialización del recojo de residuos, con reingeniería de rutas e instalación de contenedores.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Congestión vehicular severa en vías internas que incrementa la contaminación acústica y del aire.",
+            "objective": "Ejecutar el \"Plan Vial Comas Fluye\" con un programa masivo de bacheo, pavimentación y señalización, complementado con el ordenamiento del transporte menor.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Déficit notable de áreas verdes por habitante y abandono de bermas centrales.",
+            "objective": "Recuperar paisajísticamente las principales avenidas del distrito e incrementar la cobertura de áreas verdes.",
+            "goal": "Implementar el \"Plan Verde y Riego Sostenible\" en las avenidas principales, utilizando sistemas de riego por goteo con aguas tratadas y priorizando especies de bajo consumo hídrico.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas. Número de sistemas de riego por goteo implementados. Volumen de aguas tratadas utilizadas para riego."
+          },
+          {
+            "problem": "Presencia de puntos críticos de acumulación de basura y desmonte en avenidas principales y en las faldas de los cerros.",
+            "objective": "Asegurar un hábitat urbano limpio, sostenible y resiliente mediante la optimización del manejo de residuos sólidos.",
+            "goal": "Realizar la reingeniería de las rutas y frecuencias de recolección de basura, instalar contenedores en avenidas de alto flujo y aplicar sanciones drásticas por arrojo de desmonte.",
+            "indicator": "Número de puntos críticos de basura erradicados. Toneladas de residuos sólidos recolectados y procesados. Número de contenedores herméticos y soterrados instalados."
+          },
+          {
+            "problem": "Congestión vehicular severa en vías internas que incrementa la contaminación acústica y del aire.",
+            "objective": "Mejorar la transitabilidad y reducir la contaminación mediante la rehabilitación de la infraestructura vial y el ordenamiento del transporte.",
+            "goal": "Ejecutar el \"Plan Vial Comas Fluye\" con un programa masivo de bacheo, pavimentación y señalización en avenidas colectoras e internas, y ordenar el transporte menor con paraderos autorizados.",
+            "indicator": "Kilómetros de vías con bacheo y pavimentación. Número de paraderos autorizados para transporte menor. Tiempo de viaje en vías principales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja recaudación de tributos por desconfianza ciudadana y falta de incentivos.",
+            "objective": "Desarrollar una gestión municipal transparente, digitalizada y con participación vecinal efectiva para recuperar la confianza ciudadana.",
+            "goal": "Modernizar la gestión tributaria municipal mediante programas de incentivos y mecanismos alternativos de pago, como el canje de deudas por servicios comunitarios.",
+            "indicator": "Tasa de morosidad en el pago de arbitrios e impuestos prediales. Porcentaje de incremento de la recaudación tributaria."
+          },
+          {
+            "problem": "Escaso control directo de los vecinos sobre la ejecución del gasto presupuestal.",
+            "objective": "Fortalecer las asambleas descentralizadas en las 14 zonales de Comas, garantizando que el presupuesto de inversión pública sea decidido por las juntas vecinales.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Procesos de trámites municipales lentos, centralizados y presenciales que propician demoras o actos de corrupción.",
+            "objective": "Implementar la plataforma integral \"Municipio Digital\" para digitalizar los trámites y consultas vecinales, reduciendo los tiempos de atención presencial.",
+            "goal": "Digitalización del 90% de los trámites y consultas vecinales.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Baja recaudación de tributos por desconfianza ciudadana y falta de incentivos.",
+            "objective": "Desarrollar una gestión municipal transparente y con participación vecinal efectiva, modernizando la gestión tributaria con programas de incentivos y mecanismos alternativos de pago.",
+            "goal": "Aumentar la recaudación del distrito.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Alta tasa de morosidad en el pago de arbitrios e impuestos prediales que reduce los recursos municipales.",
+            "objective": "Crear una unidad especializada de control interno y auditoría ciudadana para fiscalizar el uso de los recursos y prevenir la corrupción.",
+            "goal": "Crear la Oficina Anticorrupción y Auditoría Ciudadana con canales de denuncia anónima y publicación mensual interactiva de la información financiera en el Portal de Transparencia.",
+            "indicator": "Número de denuncias por corrupción procesadas. Frecuencia de publicación del estado financiero y gastos de obras del municipio."
+          },
+          {
+            "problem": "Alta tasa de morosidad en el pago de arbitrios e impuestos prediales.",
+            "objective": "Reducir la morosidad para aumentar los recursos de la municipalidad y mejorar los servicios públicos, mediante programas de incentivos y canje de deudas por servicios comunitarios.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Procesos de trámites municipales lentos, centralizados y presenciales que propician demoras o actos de corrupción.",
+            "objective": "Digitalizar los trámites y consultas municipales para reducir los tiempos de atención y los espacios para la corrupción.",
+            "goal": "Implementar la plataforma integral \"Municipio Digital\" para la digitalización del 90% de los trámites y consultas vecinales a través de una aplicación móvil y un portal web.",
+            "indicator": "Porcentaje de trámites y consultas digitalizadas. Tiempo promedio de atención presencial y digital."
+          },
+          {
+            "problem": "Escaso control directo de los vecinos sobre la ejecución del gasto presupuestal.",
+            "objective": "Fortalecer los mecanismos de participación ciudadana en la asignación y fiscalización del presupuesto de inversión pública.",
+            "goal": "Fortalecer las asambleas descentralizadas en las 14 zonales de Comas, garantizando que el presupuesto de inversión pública sea equitativo y decidido directamente por las juntas vecinales.",
+            "indicator": "Número de asambleas de presupuesto participativo zonificado realizadas. Porcentaje del presupuesto de inversión pública decidido por las juntas vecinales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-MaCh-R3NlRIB8ljJxRU6oZgNTcJR2fKm",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/MaCh-R3NlRIB8ljJxRU6oZgNTcJR2fKm",
+      "sha256": "9b269071422e7483e514a4c1c50abff85df2dd6b944e970fda980cdad1ccf6ba",
+      "accessedAt": "2026-10-02T22:55:24.853Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019497",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019497",
+      "sha256": "1a63d8db423443220049575efdcde9bfb2d76a76c79c95640dcf19afd2914c66",
+      "accessedAt": "2026-10-02T22:55:25.351Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "hPihVg-IOD9_FIdFPUbuKNFfah8tn8EP",
+  "slug": "mercedes-victoria-morocho-arias",
+  "electionId": "erm-2026",
+  "name": "Mercedes Victoria Morocho Arias",
+  "givenNames": "Mercedes Victoria",
+  "surnames": "Morocho Arias",
+  "age": 51,
+  "gender": "Femenino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140114",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:36.286Z",
+      "sourceId": "jne-hv-hPihVg-IOD9_FIdFPUbuKNFfah8tn8EP"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "USMP",
+        "program": "ABOGADA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1998"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD FEDERICO VILLAREAL",
+        "program": "DERECHO EMPRESARIAL",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2017"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "AROMAS DEL PERU SA",
+      "role": "ASESORA LEGAL",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 68700,
+        "public": 19200,
+        "private": 49500
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "Inmueble",
+        "value": 93371.3,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 25553.14,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 39599.54,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Kia Picanto",
+        "value": 24000
+      },
+      {
+        "type": "auto",
+        "value": 0
+      },
+      {
+        "type": "Suzuki",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b148fa6b-71e6-4f9c-bfaa-1ac933eb8f50.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8b86ae72-7fbe-4ba2-be71-fe0a01b2b7a0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento del riesgo de victimización y de la percepción de inseguridad debido a la evolución de las modalidades delictivas y la necesidad de fortalecer un sistema de seguridad ciudadana.",
+            "objective": "Fortalecer la seguridad mediante serenazgo inteligente, videovigilancia, inteligencia artificial, patrullaje integrado, botones de pánico y gestión basada en datos (Smart Safety).",
+            "goal": "Cubrir el 100% del territorio distrital con videovigilancia inteligente, aumentar la vigilancia presencial con patrullaje integrado y consolidar el plan de fronteras seguras en coordinación con municipalidades limítrofes.",
+            "indicator": "Tiempos de respuesta, reducción de puntos críticos, percepción de seguridad, uso del espacio público, tasa de victimización, índice de confianza en el serenazgo y coordinación interinstitucional."
+          },
+          {
+            "problem": "Debilitamiento de la cohesión comunitaria y de las redes vecinales, lo que reduce la participación ciudadana y limita el desarrollo económico y la construcción de comunidades seguras.",
+            "objective": "Fortalecer la atención integral de las personas adultas mayores del distrito, promoviendo políticas públicas orientadas a garantizar su bienestar integral, participación activa y ejercicio pleno de sus derechos.",
+            "goal": "Consolidar el Centro Integral de Atención al Adulto Mayor (CIAM) como un espacio de encuentro, desarrollo personal y participación comunitaria, contribuyendo a mejorar la calidad de vida de los adultos mayores del distrito.",
+            "indicator": "Índice de calidad de vida del adulto mayor, nivel de satisfacción con los servicios municipales, cobertura del CIAM, índice de cohesión social del distrito y porcentaje de vecinos que realizan actividad física."
+          },
+          {
+            "problem": "Las personas con discapacidad enfrentan barreras que limitan su participación plena en la sociedad, como la falta de información actualizada, limitadas oportunidades de empleo y la insuficiente accesibilidad.",
+            "objective": "Garantizar la inclusión, autonomía, accesibilidad y participación plena de las personas con discapacidad mediante políticas públicas integrales que promuevan la igualdad de oportunidades y una ciudad sin barreras.",
+            "goal": "Fortalecer la identificación y atención de la población con discapacidad a través de un Censo Distrital, promover el empleo y emprendimiento inclusivo, y construir una ciudad accesible sin barreras.",
+            "indicator": "Índice de Inclusión de Personas con Discapacidad, personas con discapacidad que manifiestan mayor autonomía, espacios públicos plenamente accesibles e índice de satisfacción con los servicios municipales inclusivos."
+          },
+          {
+            "problem": "Los problemas de ansiedad, depresión, violencia familiar y estrés afectan cada vez más a niños, adolescentes, adultos y adultos mayores en el distrito.",
+            "objective": "Promover el bienestar emocional y facilitar el acceso a orientación psicológica y servicios especializados para la población.",
+            "goal": "Beneficiar a 10,000 vecinos mediante campañas, talleres y servicios de orientación para el año 2030.",
+            "indicator": "Número de campañas trimestrales de salud mental, número de talleres gratuitos en colegios, número de convenios con centros de salud y número de beneficiarios atendidos."
+          },
+          {
+            "problem": "Insuficiente desarrollo de la infraestructura y del ecosistema cultural, lo que limita el acceso de la población a bienes y servicios culturales y restringe el potencial turístico del distrito.",
+            "objective": "Convertir al distrito de Magdalena del Mar en el Centro Cultural del Pacífico, fortaleciendo la identidad distrital, incrementando la actividad cultural y desarrollando la economía creativa.",
+            "goal": "Promover, gestionar y ejecutar un moderno centro cultural metropolitano en la Costa Verde, implementar un museo municipal y crear un conservatorio municipal de artes.",
+            "indicator": "Índice de Identidad y Pertenencia Distrital, población que participa en actividades culturales, visitantes a los equipamientos culturales y emprendimientos culturales y creativos activos en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada competitividad del comercio local debido al desorden urbano, la congestión, las barreras para la formalización y la escasa articulación de espacios comerciales, turísticos y gastronómicos.",
+            "objective": "Impulsar un ecosistema económico competitivo, moderno e inclusivo que fortalezca el comercio local, promueva el emprendimiento y facilite la formalización de los negocios.",
+            "goal": "Implementar un proyecto piloto de macromanzana peatonal, promover un programa de terrazas gastronómicas y comercio local, y establecer una ventanilla única del emprendedor.",
+            "indicator": "Incremento del flujo peatonal, incremento de las ventas de establecimientos comerciales, reducción del tránsito vehicular, comercios formalizados y comerciantes capacitados en gestión empresarial."
+          },
+          {
+            "problem": "Falta de oportunidades laborales y de emprendimiento para personas con discapacidad, limitando su autonomía económica e inclusión social.",
+            "objective": "Fortalecer competencias laborales en pastelería, catering y manipulación de alimentos, favoreciendo el desarrollo de habilidades, la autonomía económica y la inclusión laboral de personas con discapacidad.",
+            "goal": "Crear emprendimientos sostenibles y comercializar productos con identidad propia a través de puntos de venta estratégicos, asegurando la sostenibilidad del proyecto mediante la administración de los ingresos por los propios participantes.",
+            "indicator": "Personas con discapacidad capacitadas, productos elaborados y comercializados, marca comercial implementada, ingresos generados por las ventas y personas que desarrollan un emprendimiento o acceden a un empleo."
+          },
+          {
+            "problem": "Dificultades de los adultos mayores para acceder a un empleo debido a la edad o la falta de oportunidades, afectando sus ingresos, participación social y bienestar.",
+            "objective": "Promover la inclusión laboral y el desarrollo económico de los adultos mayores mediante capacitación, intermediación laboral y apoyo al emprendimiento.",
+            "goal": "Implementar el programa 'Experiencia que Suma' para la inserción laboral y el emprendimiento de adultos mayores de 60 años, a través de talleres de capacitación, convenios con empresas y ferias mensuales.",
+            "indicator": "Número de participantes inscritos, número de personas capacitadas, número de contrataciones realizadas, número de emprendimientos creados y nivel de satisfacción de los beneficiarios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Limitada capacidad para gestionar de manera inteligente los recursos naturales, espacios públicos y servicios ambientales, restringiendo la adaptación al cambio climático y el bienestar de la población.",
+            "objective": "Consolidar un distrito ambientalmente sostenible, resiliente e inteligente mediante infraestructura verde, movilidad sostenible, economía circular y la incorporación de tecnologías inteligentes para la gestión ambiental.",
+            "goal": "Instituir un enfoque ambiental para fomentar la 'infraestructura verde inteligente', fomentar un modelo de economía circular y reducir progresivamente la huella de carbono del distrito.",
+            "indicator": "Índice de Sostenibilidad Ambiental Distrital, Índice de Madurez Smart City, Índice de Calidad Ambiental Urbana, satisfacción con los servicios digitales y ambientales, y porcentaje de residuos reciclados respecto del total generado."
+          },
+          {
+            "problem": "Insuficiente acceso de los vecinos a servicios veterinarios preventivos y de bienestar animal, lo que limita el control sanitario de los animales de compañía y aumenta los riesgos para la salud pública.",
+            "objective": "Priorizar la salud pública, el bienestar animal, el control poblacional de mascotas y el acceso a servicios veterinarios de bajo costo o gratuitos a través de una veterinaria móvil.",
+            "goal": "Atender entre 30 y 50 mascotas por día a través del modelo de veterinaria móvil, sin necesidad de que los vecinos se trasladen a la sede municipal.",
+            "indicator": "Cobertura de atención veterinaria preventiva, cobertura de vacunación antirrábica, cobertura de esterilización de perros y gatos, y número de mascotas atendidas por la veterinaria móvil."
+          },
+          {
+            "problem": "Limitado aprovechamiento de la franja costera debido a la insuficiente integración física, funcional y urbana entre la ciudad y la Costa Verde, restringiendo el acceso ciudadano y las oportunidades de desarrollo.",
+            "objective": "Democratizar el acceso al litoral impulsando la ejecución de un teleférico y un sistema de transporte interno que conecten los principales centros de actividad del distrito con la Costa Verde.",
+            "goal": "Promover la elaboración de estudios técnicos y gestiones para acelerar la ejecución de intervenciones que permitan a los vecinos recuperar el acceso directo al mar y a los espacios públicos costeros.",
+            "indicator": "Índice de Integración Ciudad–Costa Verde, población que accede a la Costa Verde en menos de 15 minutos, número anual de visitantes, y crecimiento de establecimientos vinculados al turismo y recreación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada capacidad institucional de la municipalidad para brindar servicios públicos eficientes, transparentes e innovadores, lo que afecta la calidad de la atención al ciudadano y la confianza vecinal.",
+            "objective": "Consolidar una municipalidad moderna, transparente, digital, eficiente y orientada a resultados, que coloque al vecino en el centro de la gestión pública.",
+            "goal": "Integrar tecnológicamente todas las plataformas de la municipalidad con las bases de datos de entidades públicas, implementar un modelo de gestión digital integral para automatizar procedimientos y fomentar la participación ciudadana.",
+            "indicator": "Índice de confianza en la Municipalidad, tiempo promedio de atención de trámites, porcentaje de trámites completamente digitales, tiempo promedio para obtener una licencia y número de expedientes digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-hPihVg-IOD9_FIdFPUbuKNFfah8tn8EP",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/hPihVg-IOD9_FIdFPUbuKNFfah8tn8EP",
+      "sha256": "9ebac3588af709af40c632630d07f8c8b8ca9e983d61fa81589351b6fdde49a7",
+      "accessedAt": "2026-10-02T22:59:36.286Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014715",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014715",
+      "sha256": "755c9cc3cda67c8b72d1e6893436792dca383e71cbbefb4fd21e554166dcb6e4",
+      "accessedAt": "2026-10-02T22:59:36.817Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "NhSfV-ZXAOlGW4lrjWusBfiMvSrBcoHI",
+  "slug": "carlos-francisco-hinostroza-rodriguez",
+  "electionId": "erm-2026",
+  "name": "Carlos Francisco Hinostroza Rodriguez",
+  "givenNames": "Carlos Francisco",
+  "surnames": "Hinostroza Rodriguez",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:29.416Z",
+      "sourceId": "jne-hv-NhSfV-ZXAOlGW4lrjWusBfiMvSrBcoHI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA SERGIO BERNALES SA",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD TECNOLOGICA DEL PERU",
+        "program": "MAESTRIA EN GESTION PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FE EN EL PERU",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO DEMOCRATA VERDE",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 63468.65,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 84366.28,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 23142.45,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "FORD CUSTOM BRONCO",
+        "value": 20000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a7a5180a-b1cc-43c8-8085-84939f59878c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/308c4288-e02b-4db6-814c-18946cb23814.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado apoyo a las actividades artísticas, culturales, deportivas y recreativas del distrito.",
+            "objective": "Organizar y promover las escuelas de artes y cultura para el desarrollo artístico, cultural y deportivo de jóvenes. Implementar aulas de innovación tecnológica en las instituciones educativas. Mejorar la infraestructura deportiva y fortalecer los clubes deportivos del distrito.",
+            "goal": "Ejecutar al 100% los programas culturales, recreacionales y deportivos en el distrito. Elaborar estudios de inversión para lograr el 100% de la infraestructura deportiva optimizada.",
+            "indicator": "Porcentaje de ejecución de programas culturales, recreacionales y deportivos. Nivel de optimización de la infraestructura deportiva."
+          },
+          {
+            "problem": "Insuficiente atención de los programas sociales por la municipalidad.",
+            "objective": "Fortalecer los programas como DEMUNA, OMAPED, CIAM, PVL, para garantizar una atención eficiente con una cobertura integral a la población en situación de vulnerabilidad del distrito.",
+            "goal": "Lograr el 100% de cobertura de los programas sociales.",
+            "indicator": "Porcentaje de cobertura de los programas sociales."
+          },
+          {
+            "problem": "Niños, infantes y adolescentes con deficiencias en sus capacidades cognitivas, psicosomáticas y socio-emotivas.",
+            "objective": "Crear un portal de monitoreo de asistencia social de programas sociales y de complementación alimentaria. Fomentar el desarrollo gradual de los aspectos cognitivos, volitivos, socioemocionales y psicomotrices, y capacitar a docentes para una mejor enseñanza.",
+            "goal": "Lograr el 100% de la atención de los problemas en los niños, infantes y adolescentes.",
+            "indicator": "Porcentaje de atención de los problemas en niños, infantes y adolescentes."
+          },
+          {
+            "problem": "Falta de cobertura en Salud.",
+            "objective": "Realizar campañas de salud integral en coordinación con las instituciones de salud en las siete zonas del distrito. Reducir significativamente los niveles de desnutrición en la población infantil con charlas demostrativas y descentralizadas.",
+            "goal": "Ampliar la cobertura de la atención médica al 100% de la población del distrito y lograr la atención al 100% de la desnutrición infantil en el distrito.",
+            "indicator": "Porcentaje de cobertura de la atención médica. Tasa de desnutrición infantil."
+          },
+          {
+            "problem": "Violencia familiar al interior de los núcleos familiares, maltrato a niños, adolescentes y mujeres.",
+            "objective": "Sensibilizar sobre la problemática de la violencia familiar que afecta a los niños, adolescentes, mujeres y jóvenes del distrito.",
+            "goal": "Reducir significativamente los niveles de violencia familiar en los hogares del distrito.",
+            "indicator": "Niveles de violencia familiar en los hogares del distrito."
+          },
+          {
+            "problem": "Inseguridad ciudadana en el distrito.",
+            "objective": "Mejorar la capacidad operativa del cuerpo de serenazgo. Implementar y capacitar permanentemente a las Juntas Vecinales de seguridad ciudadana. Equipar las casetas de serenazgo, nuevas unidades móviles y cámaras de videovigilancia. Implementar nuevas estrategias y tecnologías en los operativos de prevención y patrullaje integrado.",
+            "goal": "Reducir significativamente los niveles de inseguridad en el distrito.",
+            "indicator": "Niveles de inseguridad en el distrito."
+          },
+          {
+            "problem": "Falta de saneamiento físico legal de los predios.",
+            "objective": "Simplificar los procedimientos administrativos para el saneamiento físico legal y su zonificación de predios, para el logro de su desarrollo económico.",
+            "goal": "Gestionar ante COFOPRI, la Municipalidad Metropolitana de Lima y el Gobierno Regional Metropolitano de Lima el saneamiento de los predios.",
+            "indicator": "Número de gestiones realizadas ante COFOPRI, MML y GRML."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Inadecuadas políticas de promoción de la actividad económica, de los mercados y actores económicos de nuestro distrito.",
+            "objective": "Promover el desarrollo económico de los centros comerciales, mercados y bodegas del distrito, así como la simplificación administrativa.",
+            "goal": "Fortalecer al 100% la actividad económica del distrito.",
+            "indicator": "Nivel de fortalecimiento de la actividad económica."
+          },
+          {
+            "problem": "Desarrollo inadecuado del comercio en el distrito.",
+            "objective": "Promover el ordenamiento del comercio ambulatorio, desarrollar proyectos de centros comerciales para la reubicación de los comerciantes y crear el programa 'Villa con orden y seguridad'.",
+            "goal": "Lograr el ordenamiento y la formalización del comercio ambulatorio en el distrito.",
+            "indicator": "Nivel de ordenamiento y formalización del comercio ambulatorio."
+          },
+          {
+            "problem": "Falta de promoción turística local.",
+            "objective": "Fomentar las actividades turísticas y recreacionales de los atractivos del distrito, recuperar lugares públicos y zonas de interés turístico, y fomentar la afluencia de turistas con enfoque en planes de negocio.",
+            "goal": "Contribuir significativamente en la promoción turística del distrito.",
+            "indicator": "Nivel de contribución a la promoción turística del distrito."
+          },
+          {
+            "problem": "Transporte público informal y desordenado.",
+            "objective": "Promover el ordenamiento y la formalización de vehículos menores del transporte público, y establecer un régimen de gestión común con los distritos colindantes.",
+            "goal": "Lograr el 100% de la formalización y ordenamiento del transporte público de los vehículos menores.",
+            "indicator": "Porcentaje de formalización y ordenamiento del transporte público de vehículos menores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de la limpieza pública insuficiente.",
+            "objective": "Mejorar la eficiencia del sistema de gestión y manejo integral de los residuos del distrito, ejecutar el programa 'Villa Marianos Reciclando' e impulsar la industrialización de los residuos sólidos.",
+            "goal": "Garantizar el manejo eficiente de la limpieza pública en el distrito.",
+            "indicator": "Nivel de eficiencia en la gestión de la limpieza pública."
+          },
+          {
+            "problem": "Inadecuado manejo ambiental y contaminación ambiental en el distrito.",
+            "objective": "Reducir los niveles de contaminación, promover una política de gestión ambiental participativa, implementar programas de aprovechamiento de recursos renovables y un sistema de manejo sostenible de las áreas verdes.",
+            "goal": "Lograr la cobertura y manejo eficiente de los parques y alamedas del distrito, así como disminuir sustancialmente la contaminación ambiental en el distrito.",
+            "indicator": "Nivel de cobertura y manejo de parques y alamedas. Nivel de reducción de la contaminación ambiental."
+          },
+          {
+            "problem": "Parques en abandono en los sectores del distrito.",
+            "objective": "Recuperar espacios públicos del distrito, implementar programas de recuperación del mobiliario urbano e instalar mobiliario recreativo y deportivo en los diferentes parques.",
+            "goal": "Implementar parques y alamedas con mobiliario recreativo al 100% en los siete sectores del distrito.",
+            "indicator": "Porcentaje de parques y alamedas implementados con mobiliario recreativo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiente administración municipal y planificación.",
+            "objective": "Actualizar e implementar los instrumentos de gestión, modernizar la administración, e implementar y fortalecer el Concejo de Coordinación Local (CCL) para promover la rendición de cuentas y cabildos.",
+            "goal": "Tener los documentos de gestión implementados al 2030 y actualizar el Plan de Desarrollo Concertado Distrital y el Plan de Desarrollo Urbano.",
+            "indicator": "Estado de implementación de los documentos de gestión. Nivel de actualización de los planes de desarrollo."
+          },
+          {
+            "problem": "Débil participación de la sociedad civil en los asuntos públicos.",
+            "objective": "Fortalecer los procesos y espacios de participación ciudadana que permitan una gestión municipal participativa y democrática, ampliando los espacios de participación de la ciudadanía en la gestión municipal.",
+            "goal": "Lograr que las organizaciones sociales y los ciudadanos se involucren en los asuntos públicos.",
+            "indicator": "Número de organizaciones sociales y ciudadanos involucrados en asuntos públicos."
+          },
+          {
+            "problem": "Falta de recursos económicos.",
+            "objective": "Manejar eficientemente los fondos públicos, incrementar la recaudación actualizando el catastro y gestionar recursos ante el MEF y otros sectores gubernamentales.",
+            "goal": "Actualizar el catastro urbano y mejorar la recaudación municipal para optimizar los servicios públicos.",
+            "indicator": "Nivel de actualización del catastro urbano. Nivel de mejora en la recaudación municipal."
+          },
+          {
+            "problem": "Deficiente equipamiento de nuevas tecnologías de la municipalidad.",
+            "objective": "Implementar nuevos sistemas, modernizar y dar mantenimiento adecuado al equipamiento de vehículos ligeros, medianos y pesados.",
+            "goal": "Implementar el 100% de nuevas tecnologías en la gestión municipal.",
+            "indicator": "Porcentaje de implementación de nuevas tecnologías en la gestión municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-NhSfV-ZXAOlGW4lrjWusBfiMvSrBcoHI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/NhSfV-ZXAOlGW4lrjWusBfiMvSrBcoHI",
+      "sha256": "d795b1833d9d10d079cfa0503fa41b213e0c05ca9c19e01c9e85c9e2c3bf41a2",
+      "accessedAt": "2026-10-02T23:07:29.416Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023045",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023045",
+      "sha256": "49009a632116e977e038121f3150d78bdf0952adde792ca492d4bd319e4b014d",
+      "accessedAt": "2026-10-02T23:07:29.911Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

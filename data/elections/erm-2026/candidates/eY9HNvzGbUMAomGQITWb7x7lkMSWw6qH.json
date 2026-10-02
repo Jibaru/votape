@@ -1,0 +1,511 @@
+{
+  "id": "eY9HNvzGbUMAomGQITWb7x7lkMSWw6qH",
+  "slug": "maria-marisol-quinto-rojas",
+  "electionId": "erm-2026",
+  "name": "Maria Marisol Quinto Rojas",
+  "givenNames": "Maria Marisol",
+  "surnames": "Quinto Rojas",
+  "age": 57,
+  "gender": "Femenino",
+  "party": {
+    "id": 2924,
+    "name": "PERU MODERNO"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:12.799Z",
+      "sourceId": "jne-hv-eY9HNvzGbUMAomGQITWb7x7lkMSWw6qH"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana Los Andes",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "GESTION PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ABOGADA INDEPENDIENTE",
+      "role": "ASESOR INDEPENDIENTE",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "MAQUIRO E.I.R.L.",
+      "role": "GERENTE TITULAR",
+      "from": "2017",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "TRIBUNAL NACIONAL DE ÉTICA Y DISCIPLINA - MIEMBRO 2",
+      "party": "PERU MODERNO",
+      "from": "2025",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 43429,
+        "public": 0,
+        "private": 43429
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 412500,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 250000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 45598.29,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 53586.26,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 35000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "HYUNDAI HD 78 COLOR BLANCO CRIS",
+        "value": 80000
+      },
+      {
+        "type": "VEHICULO",
+        "value": 60000
+      },
+      {
+        "type": "TOYOTA LAND CRUISER PRADO TX-L 2.7 M",
+        "value": 70000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MAQUIRO E.I.R.L.",
+        "type": "PARTICIPACIONES",
+        "quantity": 100,
+        "value": 100
+      },
+      {
+        "company": "ESCUELA DEL HUAYLASH HUANCA FINANCISTA DE VIQUEZ",
+        "type": "PARTICIPACIONES",
+        "quantity": 10,
+        "value": 10
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a02f6e0e-2666-4c79-8913-b180b040b878.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/64aa7d8a-53d7-4639-a02f-c98b867f487b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado e incierto acceso a una alimentación y nutrición adecuada y sostenible de la población en estado vulnerable, configurando inseguridad alimentaria y nutricional.",
+            "objective": "Promover la articulación con entidades públicas y privadas para el acceso a una alimentación y nutrición adecuada y sostenible de la población en estado vulnerable (Comedores Populares y Ollas Comunes - Seguridad Alimentaria y Oficial).",
+            "goal": "Consolidar al 100% el programa de \"Articulación comercial entre productores agrícolas locales y ollas comunes\". Garantizar el abastecimiento continuo e irrestricto de insumos alimenticios al 100% de los comités del Programa Vaso de Leche, comedores populares y PANTBC registrados.",
+            "indicator": "Porcentaje de Centros de Atención inventariados que reciben recursos para la atención alimentaria."
+          },
+          {
+            "problem": "Dificultades en el acceso a los servicios de salud por la insuficiente capacidad resolutiva de los establecimientos, déficit de infraestructura, personal y equipamiento.",
+            "objective": "Crear, mejorar e implementar establecimientos de salud fijos e itinerantes para prestar servicios de salud de calidad a la población, con un enfoque inclusivo.",
+            "goal": "Reducir la brecha de capacidad instalada inadecuada a menos del 15% y viabilizar la culminación de obras del Hospital Central de Alta Complejidad y del Centro Geriátrico Municipal.",
+            "indicator": "Porcentaje de establecimientos de salud con capacidad instalada inadecuada."
+          },
+          {
+            "problem": "Carencia y/o déficit de espacios públicos adecuados para la recreación, el deporte, el disfrute del tiempo libre y la expresión de la diversidad cultural.",
+            "objective": "Crear, mejorar o rehabilitar espacios públicos adecuados para la recreación, el deporte, el disfrute del tiempo libre y la expresión cultural de la población.",
+            "goal": "Disminuir el déficit de espacios deportivos comunales al 20%. Concluir y entregar el Gran Parque Lineal Ecoamigable. Construcción de dos complejos polideportivos. Institucionalizar las marcas culturales y turísticas del distrito, asegurando infraestructura y seguridad para más de 15,000 visitantes anuales.",
+            "indicator": "Porcentaje de Asentamientos Humanos sin espacios Deportivos Municipales. Espacios de recreación, deportivos y culturales construidos."
+          },
+          {
+            "problem": "Dificultad de la población vulnerable para acceder a una educación de calidad, especialmente en Educación Básica Especial y Técnico-Productiva.",
+            "objective": "Promover el acceso a una educación de calidad, priorizando a la población vulnerable (Educación Básica Especial, Educación Técnico-Productiva).",
+            "goal": "Reducir la brecha de infraestructura inadecuada en locales de educación especial y técnica a menos del 10%. Construir e implementar una moderna infraestructura para la Educación Técnico-Productiva (CEPRO). Expandir el programa preventivo escolar a 100 instituciones educativas públicas.",
+            "indicator": "Porcentaje de locales educativos públicos de Educación Básica Especial y Técnico-Productiva con capacidad instalada inadecuada. Institución educativa para Educación Básica Especial construida."
+          },
+          {
+            "problem": "Limitado e incierto acceso a una alimentación y nutrición adecuada y sostenible de la población en estado vulnerable.",
+            "objective": "Promover la articulación con entidades públicas y privadas para el acceso a una alimentación y nutrición adecuada y sostenible de la población en estado vulnerable.",
+            "goal": "Consolidar al 100% el programa de \"Articulación comercial entre productores agrícolas locales y ollas comunes\". Garantizar el abastecimiento continuo e irrestricto de insumos alimenticios al 100% de los comités del Programa Vaso de Leche, comedores populares y PANTBC registrados.",
+            "indicator": "Porcentaje de Centros de Atención inventariados que reciben recursos para la atención alimentaria."
+          },
+          {
+            "problem": "Riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "objective": "Reducir el riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "goal": "Mantener la certificación nacional Placa Platinum del Sello Municipal (MIDIS). Garantizar el 100% de cobertura en visitas domiciliarias preventivas. Reducir la DCI en el distrito a menos del 10% y la AMG a menos del 6%.",
+            "indicator": "Porcentaje de DCI. Porcentaje de Anemia en Madres gestantes (AMG)."
+          },
+          {
+            "problem": "Dificultades en el acceso a los servicios de salud por falta de establecimientos con capacidad resolutiva, déficit de infraestructura, personal y equipamiento.",
+            "objective": "Crear, mejorar e implementar establecimientos de salud fijos e itinerantes para prestar servicios de salud de calidad a la población, con un enfoque inclusivo.",
+            "goal": "Viabilizar la culminación de obras y la puesta en operación del Hospital Central de Alta Complejidad y del Centro Geriátrico Municipal. Sostener la cobertura del programa de ambulancias municipales. Descentralizar la Farmacia Municipal y reducir la brecha de capacidad instalada inadecuada a menos del 15%.",
+            "indicator": "Establecimientos de Salud construidos e implementados, en relación a los estimados. Porcentaje de Establecimientos de Salud con capacidad instalada inadecuada."
+          },
+          {
+            "problem": "Dificultades en el acceso a los servicios de salud que requiere la población, por no disponer de Establecimientos de Salud con suficiente capacidad resolutiva, por déficit de infraestructura, personal, equipamiento, medicinas e insumos.",
+            "objective": "Crear, mejorar e implementar Establecimientos de Salud (fijos e itinerantes) para prestar servicios de salud de calidad a la población, con un enfoque inclusivo.",
+            "goal": "Viabilizar la culminación de obras y la puesta en operación del Hospital Central de Alta Complejidad y del Centro Geriátrico Municipal en coordinación con el MINSA y el PRONIS. Reducir la brecha de capacidad instalada inadecuada a menos del 15%.",
+            "indicator": "Establecimientos de Salud construidos e implementados, en relación a los estimados. Porcentaje de Establecimientos de Salud con capacidad instalada inadecuada."
+          },
+          {
+            "problem": "Riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "objective": "Reducir el riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "goal": "Mantener la certificación nacional Placa Platinum del Sello Municipal (MIDIS) mediante el cumplimiento al 100% del Compromiso 1. Reducir la DCI en el distrito a menos del 10% y la AMG a menos del 6%.",
+            "indicator": "Porcentaje de DCI. Porcentaje de Anemia en Madres gestantes (AMG)."
+          },
+          {
+            "problem": "Dificultad para acceder a una educación de calidad, sobre todo de la población vulnerable por su estado mental o por sus circunstancias sociales y/o económicas.",
+            "objective": "Promover el acceso a una educación de calidad, priorizando a la población vulnerable (Educación Básica Especial, Educación Técnico-Productiva).",
+            "goal": "Reducir la brecha de infraestructura inadecuada en locales de educación especial y técnica a menos del 10% mediante PIPs de optimización física. Construir e implementar una moderna infraestructura centralizada para la Educación Técnico-Productiva (CEPRO) de inserción rápida en la zona baja del distrito.",
+            "indicator": "Porcentaje de locales educativos públicos de Educación Básica Especial con capacidad instalada inadecuada. Institución educativa para Educación Básica Especial construida. Porcentaje de locales educativos de Educación Técnico-Productiva con capacidad inadecuada."
+          },
+          {
+            "problem": "Carencia y déficit de espacios públicos adecuados para la recreación, el deporte, el disfrute del tiempo libre y la expresión de la diversidad cultural.",
+            "objective": "Crear, mejorar o rehabilitar espacios públicos adecuados para la recreación, el deporte, el disfrute del tiempo libre y la expresión cultural de la población.",
+            "goal": "Disminuir el déficit de espacios deportivos comunales al 20%, concluir el Gran Parque Lineal Ecoamigable y construir dos complejos polideportivos.",
+            "indicator": "Porcentaje de asentamientos humanos sin espacios deportivos municipales."
+          },
+          {
+            "problem": "Falta de acceso a servicios de agua potable, alcantarillado y energía eléctrica en las zonas más vulnerables del distrito.",
+            "objective": "Proveer y mejorar el acceso a servicios básicos esenciales de calidad como agua potable, saneamiento y energía eléctrica para la población de las zonas vulnerables del distrito.",
+            "goal": "Reducir la población sin agua por red pública a menos del 15% y disminuir la brecha de falta de alcantarillado a menos del 18%.",
+            "indicator": "Porcentaje de la población sin abasto de agua por red pública y sin servicios higiénicos conectados a la red pública."
+          },
+          {
+            "problem": "Limitado acceso a una alimentación y nutrición adecuada y sostenible de la población en estado vulnerable, configurando una situación de inseguridad alimentaria y nutricional.",
+            "objective": "Promover la articulación con entidades públicas y privadas para el acceso a una alimentación y nutrición adecuada y sostenible de la población en estado vulnerable.",
+            "goal": "Garantizar el abastecimiento continuo e irrestricto de insumos alimenticios al 100% de los comités del Programa Vaso de Leche, comedores populares y PANTBC registrados.",
+            "indicator": "Porcentaje de centros de atención inventariados que reciben recursos para la atención alimentaria."
+          },
+          {
+            "problem": "Riesgo de desnutrición crónica infantil y anemia en madres gestantes.",
+            "objective": "Reducir el riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "goal": "Reducir la desnutrición crónica infantil en el distrito a menos del 10% y la anemia en madres gestantes a menos del 6%, manteniendo la certificación nacional Placa Platinum del Sello Municipal.",
+            "indicator": "Porcentaje de DCI y porcentaje de anemia en madres gestantes (AMG)."
+          },
+          {
+            "problem": "Incremento de los actos delincuenciales y de la violencia en el grupo familiar (Victimización delictiva), y deficiente respuesta de seguridad ciudadana.",
+            "objective": "Reducir los niveles de inseguridad ciudadana mediante enfoques preventivo y disuasivo, a favor de la población.",
+            "goal": "Reducir el índice de victimización por debajo del 15% y la percepción de inseguridad a menos del 45%. Sostener un promedio mínimo de 110,000 patrullajes municipales preventivos y elevar a más de 1,800 los patrullajes integrados con la PNP por año. Integrar el 100% de la flota vehicular al sistema de georreferenciación.",
+            "indicator": "Índice de victimización de la población urbana. Programas para prevención y erradicación de la Violencia Familiar implementados. Porcentaje de percepción de inseguridad."
+          },
+          {
+            "problem": "Riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "objective": "Reducir el riesgo de desnutrición crónica infantil (DCI) y anemia en madres gestantes.",
+            "goal": "Mantener la certificación nacional Placa Platinum del Sello Municipal (MIDIS) mediante el cumplimiento al 100% del Compromiso 1. Garantizar el 100% de cobertura en visitas domiciliarias preventivas. Reducir la DCI en el distrito a menos del 10% y la AMG a menos del 6%.",
+            "indicator": "Porcentaje de DCI. Porcentaje de Anemia en Madres gestantes (AMG)."
+          },
+          {
+            "problem": "Dificultades en el acceso a los servicios de salud que requiere la población, por no disponer de Establecimientos de Salud con suficiente capacidad resolutiva, por déficit de infraestructura, personal, equipamiento, medicinas e insumos.",
+            "objective": "Crear, mejorar e implementar Establecimientos de Salud (fijos e itinerantes) para prestar servicios de salud de calidad a la población, con un enfoque inclusivo.",
+            "goal": "Viabilizar la culminación de obras y la puesta en operación del Hospital Central de Alta Complejidad y del Centro Geriátrico Municipal. Sostener la cobertura del programa de ambulancias municipales superando las 4,200 atenciones prehospitalarias anuales. Reducir la brecha de capacidad instalada inadecuada a menos del 15%.",
+            "indicator": "Establecimientos de Salud construidos e implementados, en relación a los estimados. Porcentaje de Establecimientos de Salud con capacidad instalada inadecuada."
+          },
+          {
+            "problem": "Incremento de los actos delincuenciales y de la violencia en el grupo familiar, junto a una deficiente respuesta de seguridad ciudadana.",
+            "objective": "Reducir los niveles de inseguridad ciudadana mediante enfoques preventivos y disuasivos, a favor de la población.",
+            "goal": "Reducir el índice de victimización por debajo del 15% y la percepción de inseguridad a menos del 45%. Sostener un promedio mínimo de 110,000 patrullajes municipales y elevar a más de 1,800 los patrullajes integrados. Integrar el 100% de la flota vehicular al sistema de georreferenciación. Expandir el Centro Integrado de Emergencia y Monitoreo (CIEM) a más de 200 cámaras IA.",
+            "indicator": "Índice de victimización de la población urbana. Programas para prevención y erradicación de la Violencia Familiar implementados. Porcentaje de percepción de inseguridad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Informalidad empresarial y limitada participación de la población emprendedora en el desarrollo económico local, debido al bajo nivel de productividad y dificultad en el acceso al mercado financiero.",
+            "objective": "Fomentar y facilitar el acceso al mercado financiero para formalizar la economía informal de la población emprendedora y mejorar su nivel de productividad.",
+            "goal": "Disminuir el índice de informalidad empresarial de las MYPEs al 40%. Incrementar al 75% el acceso de las pymes locales a productos financieros formales. Implementar un programa permanente de asistencia técnica en herramientas de gestión empresarial para emprendedores.",
+            "indicator": "Porcentaje de Informalidad de las Micro y Pequeñas empresas (MYPEs). Institución financiera creada. Porcentaje de MYPEs que acceden a productos financieros formales."
+          },
+          {
+            "problem": "Alto porcentaje de mujeres cabeza de familia (SISFOH) con escasas posibilidades de empleabilidad o de iniciar emprendimientos.",
+            "objective": "Incrementar las posibilidades de empleabilidad y emprendimiento de las mujeres cabeza de familia.",
+            "goal": "Incrementar la tasa de empleo de las mujeres jefa de hogar de los quintiles más vulnerables del SISFOH al 55% y elevar al 65% el porcentaje de MYPEs locales lideradas por mujeres.",
+            "indicator": "Porcentaje de mujeres ocupadas (PEA) y porcentaje de micro y pequeñas empresas lideradas por mujeres."
+          },
+          {
+            "problem": "Informalidad empresarial y limitada participación de la población emprendedora (Micro y Pequeña Empresa) en el desarrollo económico local, por bajo nivel de productividad y dificultad en el acceso al mercado financiero.",
+            "objective": "Fomentar y facilitar el acceso al mercado financiero para formalizar la economía informal de la población emprendedora (Micro y Pequeña Empresa), y mejorar su nivel de productividad - Inclusión Financiera.",
+            "goal": "Disminuir el índice de informalidad empresarial de las MYPEs al 40%. Incrementar al 75% el acceso de las pymes locales a productos financieros formales, mediante convenios estratégicos. Implementar un programa permanente de asistencia técnica en herramientas de gestión empresarial, gestión digital y contabilidad básica.",
+            "indicator": "Porcentaje de Informalidad de las Micro y Pequeñas empresas (MYPEs). Institución financiera creada. Porcentaje de MYPEs que acceden a productos financieros formales."
+          },
+          {
+            "problem": "Alto porcentaje de mujeres cabeza de familia con escasas posibilidades de empleabilidad o de iniciar emprendimientos.",
+            "objective": "Incrementar las posibilidades de empleabilidad y emprendimiento de las mujeres cabeza de familia.",
+            "goal": "Incrementar la tasa de empleo de las mujeres jefa de hogar de los quintiles más vulnerables al 55%. Promover la inserción laboral formal a través de la plataforma digital municipal \"Mi Chamba 4.0\". Elevar al 65% el porcentaje de MYPEs locales lideradas por mujeres mediante la plataforma digital \"Emprende Chosica 4.0\".",
+            "indicator": "Porcentaje de mujeres ocupadas (PEA). Porcentaje de Micro y Pequeñas empresas lideradas por mujeres."
+          },
+          {
+            "problem": "Alto porcentaje de mujeres cabeza de familia (SISFOH), con escasas posibilidades de empleabilidad o de iniciar emprendimientos.",
+            "objective": "Incrementar las posibilidades de empleabilidad y emprendimiento de las mujeres cabeza de familia.",
+            "goal": "Incrementar la tasa de empleo de las mujeres jefa de hogar de los quintiles más vulnerables del SISFOH al 55%. Elevar al 65% el porcentaje de MYPEs locales lideradas, gestionadas o constituidas por mujeres mediante el uso de la plataforma digital asociativa \"Emprende Chosica 4.0\".",
+            "indicator": "Porcentaje de mujeres ocupadas (PEA). Porcentaje de Micro y Pequeñas empresas lideradas por mujeres."
+          },
+          {
+            "problem": "Informalidad empresarial y limitada participación de la población emprendedora (Micro y Pequeña Empresa), en el desarrollo económico local, por bajo nivel de productividad y dificultad en el acceso al mercado financiero.",
+            "objective": "Fomentar y facilitar el acceso al mercado financiero para formalizar la economía informal de la población emprendedora (Micro y Pequeña Empresa), y mejorar su nivel de productividad - Inclusión Financiera.",
+            "goal": "Disminuir el índice de informalidad empresarial de las MYPEs al 40% a través de la Ventanilla Única de Formalización y la plataforma web de licencias automatizadas. Incrementar al 75% el acceso de las pymes locales a productos financieros formales, mediante convenios estratégicos.",
+            "indicator": "Porcentaje de Informalidad de las Micro y Pequeñas empresas (MYPEs). Institución financiera creada. Porcentaje de MYPEs que acceden a productos financieros formales."
+          },
+          {
+            "problem": "Informalidad empresarial y limitada participación de la población emprendedora (micro y pequeña empresa) en el desarrollo económico local, debido al bajo nivel de productividad y la dificultad en el acceso al mercado financiero.",
+            "objective": "Fomentar y facilitar el acceso al mercado financiero para formalizar la economía informal de la población emprendedora y mejorar su nivel de productividad.",
+            "goal": "Disminuir el índice de informalidad empresarial de las MYPEs al 40% e incrementar al 75% el acceso de las pymes locales a productos financieros formales mediante convenios estratégicos.",
+            "indicator": "Porcentaje de informalidad de las micro y pequeñas empresas (MYPEs) y porcentaje de MYPEs que acceden a productos financieros formales."
+          },
+          {
+            "problem": "Alto porcentaje de mujeres cabeza de familia (SISFOH), con escasas posibilidades de empleabilidad o de iniciar emprendimientos.",
+            "objective": "Incrementar las posibilidades de empleabilidad y emprendimiento de las mujeres cabeza de familia.",
+            "goal": "Incrementar la tasa de empleo de las mujeres jefa de hogar de los quintiles más vulnerables del SISFOH al 55%. Promover la inserción laboral formal a través del potenciamiento de la plataforma digital municipal \"Mi Chamba 4.0\". Elevar al 65% el porcentaje de MYPEs locales lideradas por mujeres.",
+            "indicator": "Porcentaje de mujeres ocupadas (PEA). Porcentaje de Micro y Pequeñas empresas lideradas por mujeres."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasa disponibilidad de terrenos con fines de vivienda ha ocasionado que la población se asiente en zonas expuestas a inundaciones y flujos de detritos (fajas marginales de los ríos y quebradas).",
+            "objective": "Reducir la vulnerabilidad de la población y sus medios de vida frente a la ocurrencia de inundaciones (Ríos), deslizamientos y flujos de detritos (Quebradas).",
+            "goal": "Ejecutar al 100% los proyectos estructurales mayores de encauzamiento del Río Rímac y protección de quebradas. Realizar de forma bianual y permanente el mantenimiento preventivo, limpieza y descolmatación mecánica en las 25 quebradas críticas del distrito. Reforestar un acumulado mínimo de 75,000 metros cuadrados de laderas degradadas.",
+            "indicator": "Metros Lineales de servicios de protección construidos. Metros Lineales de mantenimiento periódico realizado. Área forestada o reforestada."
+          },
+          {
+            "problem": "Contaminación del aire por polvo atmosférico sedimentado (PAS) y humo provenientes de construcciones, quemas o actividades productivas en áreas urbanas o cercanas a ellas.",
+            "objective": "Reducir y/o eliminar los impactos negativos del polvo y humo sobre la salud y la vida de la población.",
+            "goal": "Intervenir, clausurar o formalizar de forma técnica el 100% de las ladrilleras informales, chancherías clandestinas e industrias de quema de llantas que operan de manera ilegal. Reducir los niveles de PAS en el distrito hasta alinearlos con los Estándares de Calidad Ambiental (ECA Aire) nacionales.",
+            "indicator": "Índice de la Calidad del Aire."
+          },
+          {
+            "problem": "Contaminación de calles y avenidas por déficit y baja calidad en la provisión de los servicios municipales de limpieza pública y baños de uso público.",
+            "objective": "Mejorar la calidad de prestación de los servicios municipales (limpieza pública y baños de uso público) que se ofrecen a la población.",
+            "goal": "Garantizar el 98% de cobertura en la recolección, transporte y disposición final adecuada de los residuos sólidos domiciliarios. Expandir el servicio de barrido de calles a un óptimo de 180,000 metros lineales continuos en el casco urbano y avenidas troncales.",
+            "indicator": "Porcentaje de barrido y limpieza de vías y espacios públicos. Porcentaje de recolección y transporte de residuos sólidos. Sistema de contenedores soterrados adquiridos e implementados."
+          },
+          {
+            "problem": "Ocupación espontánea, informal y desordenada del territorio alrededor de las zonas urbanas y periféricas del distrito.",
+            "objective": "Fortalecer el ordenamiento y organización del territorio para la ocupación planificada de las zonas periféricas del distrito.",
+            "goal": "Aplicar de forma estricta la Plataforma Operativa de Control Territorial digitalizada para impedir con un 0% de tolerancia nuevas invasiones o autoconstrucciones informales en zonas de riesgo no mitigable. Actualizar y mantener unificada la base de datos catastral georreferenciada.",
+            "indicator": "Número de viviendas informales de las zonas periféricas."
+          },
+          {
+            "problem": "Asentamiento de la población en zonas expuestas a inundaciones y flujos de detritos debido a la escasa disponibilidad de terrenos para vivienda.",
+            "objective": "Reducir la vulnerabilidad de la población y sus medios de vida frente a la ocurrencia de inundaciones, deslizamientos y flujos de detritos.",
+            "goal": "Ejecutar al 100% los proyectos de encauzamiento del Río Rímac y protección de quebradas. Realizar mantenimiento bianual en 25 quebradas críticas. Sostener operativas el 100% de las mallas dinámicas. Reforestar un mínimo de 75,000 metros cuadrados de laderas degradadas.",
+            "indicator": "Metros Lineales de servicios de protección construidos. Área forestada o reforestada. Número de mallas dinámicas rehabilitadas."
+          },
+          {
+            "problem": "Contaminación por déficit y baja calidad en la provisión de los servicios municipales de limpieza pública y baños de uso público.",
+            "objective": "Mejorar la calidad de prestación de los servicios municipales de limpieza y baños de uso público que se ofrecen a la población.",
+            "goal": "Garantizar el 98% de cobertura en la gestión de residuos sólidos. Expandir el servicio de barrido de calles a 180,000 metros lineales. Implementar la primera fase de la planta de reciclaje. Cumplir las metas del Compromiso 3 (MINAM). Erradicar y mantener recuperados el 100% de los puntos críticos de basura.",
+            "indicator": "Porcentaje de barrido y limpieza de vías. Porcentaje de recolección y transporte de residuos sólidos. Sistema de contenedores soterrados adquiridos e implementados. Número de Baños Públicos construidos."
+          },
+          {
+            "problem": "Contaminación del aire por polvo atmosférico sedimentado (PAS) y humo, provenientes de actividades productivas, construcciones y quemas.",
+            "objective": "Reducir y/o eliminar los impactos negativos del polvo y humo sobre la salud y la vida de la población.",
+            "goal": "Intervenir, clausurar o formalizar de forma técnica el 100% de las ladrilleras informales, chancherías clandestinas e industrias de quema de llantas ilegales. Reducir los niveles de PAS en el distrito hasta alinearlos con los Estándares de Calidad Ambiental (ECA Aire) nacionales.",
+            "indicator": "Índice de la Calidad del Aire."
+          },
+          {
+            "problem": "La escasa disponibilidad de terrenos para vivienda ha ocasionado que la población se asiente en zonas expuestas a inundaciones y flujos de detritos.",
+            "objective": "Reducir la vulnerabilidad de la población y sus medios de vida frente a la ocurrencia de inundaciones (Ríos), deslizamientos y flujos de detritos (Quebradas).",
+            "goal": "Ejecutar al 100% los proyectos estructurales mayores de encauzamiento del Río Rímac y protección de quebradas. Realizar de forma bianual y permanente el mantenimiento preventivo, limpieza y descolmatación mecánica. Sostener operativas e inspeccionadas el 100% de las mallas dinámicas. Reforestar un acumulado mínimo de 75,000 metros cuadrados de laderas degradadas.",
+            "indicator": "Metros Lineales de servicios de protección construidos. Metros Lineales de mantenimiento periódico realizado. Área forestada o reforestada. Número de mallas dinámicas rehabilitadas."
+          },
+          {
+            "problem": "Contaminación del aire por polvo atmosférico sedimentado (PAS) y humo, provenientes de construcciones, quemas o actividades productivas en áreas urbanas.",
+            "objective": "Reducir y/o eliminar los impactos negativos del polvo y humo sobre la salud y la vida de la población.",
+            "goal": "Intervenir, clausurar o formalizar de forma técnica el 100% de las ladrilleras informales, chancherías clandestinas e industrias de quema de llantas. Reducir los niveles de PAS en el distrito hasta alinearlos con los Estándares de Calidad Ambiental (ECA Aire) nacionales.",
+            "indicator": "Índice de la Calidad del Aire."
+          },
+          {
+            "problem": "Contaminación de calles y avenidas, por déficit y baja calidad en la provisión de los servicios municipales de limpieza pública y baños de uso público.",
+            "objective": "Mejorar la calidad de prestación de los servicios municipales (limpieza pública y baños de uso público) que se ofrecen a la población.",
+            "goal": "Garantizar el 98% de cobertura en la recolección, transporte y disposición final adecuada de los residuos sólidos domiciliarios. Expandir el servicio de barrido de calles a un óptimo de 180,000 metros lineales continuos. Implementar la primera fase de operación de la planta de reciclaje y valorización de residuos sólidos. Erradicar y mantener recuperados el 100% de los puntos críticos de acumulación de basura.",
+            "indicator": "Porcentaje de barrido y limpieza de vías y espacios públicos. Porcentaje de recolección y transporte de residuos sólidos. Número de Baños Públicos construidos."
+          },
+          {
+            "problem": "Asentamiento de la población en zonas expuestas a inundaciones y flujos de detritos, como fajas marginales de ríos y quebradas.",
+            "objective": "Reducir la vulnerabilidad de la población y sus medios de vida frente a la ocurrencia de inundaciones, deslizamientos y flujos de detritos.",
+            "goal": "Ejecutar al 100% los proyectos estructurales de encauzamiento del río Rímac, realizar mantenimiento preventivo en 25 quebradas críticas y sostener operativas el 100% de las mallas dinámicas instaladas.",
+            "indicator": "Metros lineales de servicios de protección construidos y número de mallas dinámicas rehabilitadas."
+          },
+          {
+            "problem": "Contaminación del aire por polvo atmosférico sedimentado y humo, provenientes de construcciones, quemas o actividades productivas en áreas urbanas.",
+            "objective": "Reducir y/o eliminar los impactos negativos del polvo y humo sobre la salud y la vida de la población.",
+            "goal": "Intervenir, clausurar o formalizar técnicamente el 100% de las ladrilleras informales y otras industrias contaminantes, y reducir los niveles de PAS hasta alinearlos con los estándares de calidad ambiental nacionales.",
+            "indicator": "Índice de la calidad del aire."
+          },
+          {
+            "problem": "Contaminación de calles y avenidas por el déficit y la baja calidad en la provisión de los servicios municipales de limpieza pública y baños de uso público.",
+            "objective": "Mejorar la calidad de prestación de los servicios municipales de limpieza pública y baños de uso público que se ofrecen a la población.",
+            "goal": "Garantizar el 98% de cobertura en la recolección, transporte y disposición final de residuos, y expandir el servicio de barrido de calles a un óptimo de 180,000 metros lineales continuos.",
+            "indicator": "Porcentaje de recolección y transporte de residuos sólidos y porcentaje de barrido y limpieza de vías y espacios públicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Persistencia del antiguo problema de imprecisión de límites territoriales con el distrito de San Antonio, provincia de Huarochirí.",
+            "objective": "Fomentar una solución consensuada, con participación ciudadana, para solucionar el conflicto de límites.",
+            "goal": "Elevar al 100% la delimitación e informe técnico definitorio de los límites fronterizos provinciales interjurisdiccionales, impulsando las mesas de concertación conjuntas.",
+            "indicator": "Porcentaje de avance en la demarcación territorial."
+          },
+          {
+            "problem": "Gestión municipal sin capacidad de respuesta adecuada para el ejercicio correcto de la función municipal y la atención a la demanda de servicios, particularmente en las áreas de gobierno digital, profesionalización y capacitación de funcionarios, y gobierno transparente.",
+            "objective": "Promover e impulsar la modernización de la gestión pública municipal en las áreas de gobierno digital, orientado a mejorar sus procesos internos, los servicios de la municipalidad, acercarlos al ciudadano, promover su participación y mejorar los niveles de transparencia.",
+            "goal": "Garantizar el 100% de capacitación integral obligatoria para la plana de funcionarios y personal administrativo en el marco del Plan de Desarrollo de las Personas (PDP - SERVIR). Elevar el Índice de Desarrollo de Gobierno Digital del municipio al 75%. Mantener un 100% de atención oportuna a las solicitudes de transparencia y acceso a la información pública.",
+            "indicator": "Porcentaje de funcionarios y empleados públicos capacitados. Índice de desarrollo de gobierno digital."
+          },
+          {
+            "problem": "Ineficiente capacidad de gestión relacionada con la ejecución presupuestal del gasto, ocasionando la reversión del dinero de su presupuesto al Tesoro Público, perjudicando a su población.",
+            "objective": "Mejorar las capacidades de gestión del Gobierno Local para la ejecución integral y eficiente de su presupuesto, en beneficio de su población.",
+            "goal": "Sostener de manera ininterrumpida una eficiencia anual en la ejecución presupuestal global entre el 99.0% y el 100.0% Real. Mantener e incrementar los niveles de recaudación de recursos propios corrientes por encima de los 58 millones de soles anuales logrados, reduciendo el ratio de morosidad general a menos del 12%.",
+            "indicator": "Porcentaje de ejecución del gasto del presupuesto asignado. Índice de morosidad del impuesto predial."
+          },
+          {
+            "problem": "Persistencia del antiguo problema de imprecisión de límites territoriales con el distrito de San Antonio, provincia de Huarochirí.",
+            "objective": "Fomentar una solución consensuada, con participación ciudadana, para solucionar el conflicto de límites.",
+            "goal": "Elevar al 100% la delimitación e informe técnico definitorio de los límites fronterizos, impulsando las mesas de concertación conjuntas entre la PCM, el IMP de la Municipalidad de Lima y los distritos colindantes.",
+            "indicator": "Porcentaje de avance en la demarcación territorial."
+          },
+          {
+            "problem": "Gestión municipal sin capacidad de respuesta adecuada para el ejercicio de la función municipal y la atención a la demanda de servicios de la población.",
+            "objective": "Promover e impulsar la modernización de la gestión pública municipal, orientado a mejorar sus procesos internos, los servicios, la participación ciudadana y la transparencia.",
+            "goal": "Garantizar el 100% de capacitación integral para funcionarios y personal. Elevar el Índice de Desarrollo de Gobierno Digital al 75%. Mantener un 100% de atención oportuna a las solicitudes de transparencia y acceso a la información pública.",
+            "indicator": "Porcentaje de funcionarios y empleados públicos capacitados. Índice de desarrollo de gobierno digital."
+          },
+          {
+            "problem": "Ineficiente capacidad de gestión relacionada con la ejecución presupuestal del gasto, ocasionando la reversión de dinero al Tesoro Público.",
+            "objective": "Mejorar las capacidades de gestión del Gobierno Local para la ejecución integral y eficiente de su presupuesto, en beneficio de su población.",
+            "goal": "Sostener una eficiencia anual en la ejecución presupuestal entre el 99.0% y el 100.0%. Mantener e incrementar los niveles de recaudación de recursos propios por encima de los 58 millones de soles anuales, reduciendo el ratio de morosidad general a menos del 12%.",
+            "indicator": "Porcentaje de ejecución del gasto del presupuesto asignado. Índice de morosidad del impuesto predial."
+          },
+          {
+            "problem": "Persistencia del antiguo problema de imprecisión de límites territoriales con el Distrito de San Antonio (Provincia de Huarochirí).",
+            "objective": "Fomentar una solución consensuada, con participación ciudadana, para solucionar el conflicto de límites.",
+            "goal": "Elevar al 100% la delimitación e informe técnico definitorio de los límites fronterizos provinciales interjurisdiccionales, impulsando las mesas de concertación conjuntas entre la PCM, el IMP de la Municipalidad de Lima y los distritos colindantes.",
+            "indicator": "Porcentaje de avance en la demarcación territorial."
+          },
+          {
+            "problem": "Ineficiente capacidad de gestión relacionada con la ejecución presupuestal del gasto, que ocasiona la reversión de dinero al Tesoro Público.",
+            "objective": "Mejorar las capacidades de gestión del Gobierno Local para la ejecución integral y eficiente de su presupuesto, en beneficio de su población.",
+            "goal": "Sostener una eficiencia anual en la ejecución presupuestal entre el 99.0% y el 100.0%, e incrementar los niveles de recaudación de recursos propios por encima de los 58 millones de soles anuales.",
+            "indicator": "Porcentaje de ejecución del gasto del presupuesto asignado y el índice de morosidad del impuesto predial."
+          },
+          {
+            "problem": "Ocupación espontánea, informal y desordenada del territorio, alrededor de las zonas urbanas y periféricas del distrito.",
+            "objective": "Fortalecer el ordenamiento y organización del territorio para la ocupación planificada de las zonas periféricas del distrito.",
+            "goal": "Aplicar de forma estricta la Plataforma Operativa de Control Territorial digitalizada para impedir con un 0% de tolerancia nuevas invasiones o autoconstrucciones informales en zonas de riesgo no mitigable.",
+            "indicator": "Número de viviendas informales de las zonas periféricas."
+          },
+          {
+            "problem": "Ineficiente capacidad de gestión relacionada con la ejecución presupuestal del gasto, ocasionando la reversión del dinero de su presupuesto al Tesoro Público.",
+            "objective": "Mejorar las capacidades de gestión del Gobierno Local para la ejecución integral y eficiente de su presupuesto, en beneficio de su población.",
+            "goal": "Sostener de manera ininterrumpida una eficiencia anual en la ejecución presupuestal entre el 99.0% y el 100.0%. Mantener e incrementar los niveles de recaudación de recursos propios corrientes por encima de los 58 millones de soles anuales, reduciendo el ratio de morosidad general a menos del 12%.",
+            "indicator": "Porcentaje de ejecución del gasto del presupuesto asignado. Índice de morosidad del impuesto predial."
+          },
+          {
+            "problem": "Gestión municipal sin capacidad de respuesta adecuada para el ejercicio correcto de la función municipal y la atención a la demanda de servicios, especialmente en gobierno digital, profesionalización y transparencia.",
+            "objective": "Promover e impulsar la modernización de la gestión pública municipal en las áreas de gobierno digital, orientado a mejorar sus procesos internos, los servicios, la participación ciudadana y los niveles de transparencia.",
+            "goal": "Garantizar el 100% de capacitación integral obligatoria para la plana de funcionarios. Elevar el Índice de Desarrollo de Gobierno Digital del municipio al 75%. Mantener un 100% de atención oportuna a las solicitudes de transparencia y acceso a la información pública.",
+            "indicator": "Porcentaje de funcionarios y empleados públicos capacitados. Índice de desarrollo de gobierno digital."
+          },
+          {
+            "problem": "Persistencia del antiguo problema de imprecisión de límites territoriales con el Distrito de San Antonio (Provincia de Huarochirí).",
+            "objective": "Fomentar una solución consensuada, con participación ciudadana, para solucionar el conflicto de límites.",
+            "goal": "Elevar al 100% la delimitación e informe técnico definitorio de los límites fronterizos provinciales interjurisdiccionales, impulsando las mesas de concertación conjuntas entre la PCM, el IMP de la Municipalidad de Lima y los distritos colindantes.",
+            "indicator": "Porcentaje de avance en la demarcación territorial."
+          },
+          {
+            "problem": "Gestión municipal sin capacidad de respuesta adecuada en gobierno digital, profesionalización de funcionarios y transparencia.",
+            "objective": "Promover e impulsar la modernización de la gestión pública municipal en las áreas de gobierno digital para mejorar sus procesos internos y los servicios al ciudadano.",
+            "goal": "Elevar el Índice de Desarrollo de Gobierno Digital del municipio al 75% y garantizar el 100% de capacitación integral obligatoria para la plana de funcionarios y personal administrativo.",
+            "indicator": "Índice de desarrollo de gobierno digital y porcentaje de funcionarios y empleados públicos capacitados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-eY9HNvzGbUMAomGQITWb7x7lkMSWw6qH",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/eY9HNvzGbUMAomGQITWb7x7lkMSWw6qH",
+      "sha256": "05257140779c7d203d7243905ac972381ec9b5d8443f3a7b1f2606b762378bdf",
+      "accessedAt": "2026-10-02T22:59:12.799Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014606",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014606",
+      "sha256": "bf8a3f04783f650fa56a38e09c2b3cfd789c026d3145ad5657eb6339ba07f119",
+      "accessedAt": "2026-10-02T22:59:13.323Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

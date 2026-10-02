@@ -1,0 +1,245 @@
+{
+  "id": "Kg4F5YLfV36NDp3rJ3JTZjutVLv9T52p",
+  "slug": "mario-daniel-cubas-romero",
+  "electionId": "erm-2026",
+  "name": "Mario Daniel Cubas Romero",
+  "givenNames": "Mario Daniel",
+  "surnames": "Cubas Romero",
+  "age": 70,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:32.745Z",
+      "sourceId": "jne-hv-Kg4F5YLfV36NDp3rJ3JTZjutVLv9T52p"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Federico Villarreal",
+        "program": "Ingeniero Civil",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Cesar Vallejo",
+        "program": "Gestiòn Pùblica",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "consorcio superior nueva rinconada",
+      "role": "Ingeniero Civil",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "Municipalidad Lurigancho Chosica",
+      "role": "Ingeniero Civil",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Universidad Peruana Union",
+      "role": "Docente",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Inversiones YayumeSAC",
+      "role": "Supervisor de Obra",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "employer": "Emape",
+      "role": "Supervisor de Obras",
+      "from": "2018",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PARTIDO JUSTICIA NACIONAL",
+      "year": "2007"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 255,
+        "public": 0,
+        "private": 255
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "Terreno",
+        "value": 2000000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "Terreno",
+        "value": 5634.03,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "casa",
+        "value": 748000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Cubas Construcciones",
+        "type": "ACCIONES",
+        "quantity": 71.71,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1cbc8465-7041-4722-a23a-50e0b64663da.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3a719e2f-a3a6-4c48-a3fd-7dc738377e1c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura deportiva y cultural deficiente, con estadios en abandono, falta de un museo y una biblioteca municipal que no ofrece un servicio óptimo.",
+            "objective": "Remodelar los estadios implementando servicios adecuados, y mejorar la infraestructura cultural del distrito para fomentar actividades sociales y recreativas.",
+            "goal": "Lograr la remodelación integral de los estadios y la adecuación de la biblioteca municipal para brindar un servicio óptimo a la ciudadanía.",
+            "indicator": "Número de infraestructuras deportivas y culturales recuperadas y puestas en funcionamiento."
+          },
+          {
+            "problem": "Porcentaje significativo de la población urbana carece de servicios de agua potable por red pública y alcantarillado, presentando un servicio inadecuado con desabastecimiento por horas.",
+            "objective": "Administrar, reglamentar y renovar los servicios de agua potable, alcantarillado y desagüe, implementando una planta de tratamiento de potabilización para garantizar el suministro.",
+            "goal": "Cerrar la brecha de infraestructura en el servicio de agua y alcantarillado para los más de 41,000 habitantes del distrito.",
+            "indicator": "Porcentaje de viviendas con acceso a servicios básicos de agua y saneamiento."
+          },
+          {
+            "problem": "Altos índices de delincuencia y una percepción de inseguridad ciudadana que han afectado el carácter turístico y apacible del distrito.",
+            "objective": "Implementar y modernizar el cuerpo de serenazgo, instalar nuevos puestos de vigilancia en zonas estratégicas y una central de videovigilancia conectada a la Policía Nacional.",
+            "goal": "Fortalecer el patrullaje integrado por sectores y mejorar la convivencia pacífica entre los habitantes del distrito.",
+            "indicator": "Número de puestos de vigilancia implementados y operatividad de la central de videovigilancia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo desarrollo de la actividad turística y económica local, desaprovechando el potencial del distrito como eje turístico en Lima Este.",
+            "objective": "Incentivar el desarrollo económico local de las PYMES y MYPES mediante la generación de nuevas actividades turísticas y deportivas, reactivando la economía para los sectores más necesitados.",
+            "goal": "Crear un eje turístico en el sector de Lima Este, apoyando a los ciudadanos emprendedores con proyectos que abran nuevos centros de producción.",
+            "indicator": "Número de proyectos de reactivación económica y turística implementados."
+          },
+          {
+            "problem": "Desorganización del comercio ambulatorio y carencia de infraestructura adecuada para el abastecimiento, como mercados, camales y un terminal pesquero.",
+            "objective": "Regular y controlar el comercio ambulatorio, y promover la construcción, equipamiento y mantenimiento de mercados de abastos, camales y un terminal pesquero.",
+            "goal": "Construir un terminal pesquero para apoyar a los productores y pequeños empresarios, y mejorar la infraestructura de los mercados de abastos.",
+            "indicator": "Número de infraestructuras comerciales construidas y equipadas (mercados, camales, terminal pesquero)."
+          },
+          {
+            "problem": "Insuficiente desarrollo de proyectos públicos que permitan el crecimiento de actividades locales y la creación de nuevas condiciones en la estructura urbana del distrito.",
+            "objective": "Revalorizar a los ciudadanos emprendedores, apoyándolos en proyectos que reactiven la economía en los sectores más necesitados y abriendo centros de producción.",
+            "goal": "Implementar proyectos públicos que permitan el crecimiento de actividades locales como las PYMES y MYPES en su entorno inmediato.",
+            "indicator": "Número de emprendedores apoyados y centros de producción abiertos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta vulnerabilidad ante desastres naturales, con 14 quebradas de sumo riesgo por huaycos y desbordes del río Rímac, sin obras estructurales de defensa ni mantenimiento.",
+            "objective": "Implementar obras estructurales de defensa en quebradas y riberas, fortalecer las campañas de concientización y contar con un Centro de Operaciones de Emergencia operativo.",
+            "goal": "Proteger las zonas vulnerables a los desbordes del río y huaycos, y establecer un área para acopiar logística y atender a los damnificados.",
+            "indicator": "Número de obras de defensa construidas y operatividad del Centro de Operaciones de Emergencia."
+          },
+          {
+            "problem": "Gestión ambiental deficiente, con falta de logística para la limpieza pública y el recojo de basura, especialmente en las zonas de expansión urbana informal en las laderas de los cerros.",
+            "objective": "Proveer un servicio eficiente de limpieza pública, establecer rellenos sanitarios y administrar el tratamiento de residuos sólidos, fiscalizando la emisión de contaminantes.",
+            "goal": "Garantizar el tratamiento adecuado de residuos sólidos y mejorar la logística de gestión ambiental en todo el distrito.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo de residuos sólidos y número de rellenos sanitarios establecidos."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios públicos recreativos, limitando la calidad ambiental y el desarrollo de actividades sociales y deportivas.",
+            "objective": "Desarrollar proyectos de creación de áreas verdes, espacios públicos y recreativos para mejorar la calidad ambiental e impulsar el crecimiento económico local.",
+            "goal": "Alcanzar el parámetro de la Organización Mundial de la Salud (OMS) de 9.5 metros cuadrados de área verde por habitante para el año 2030.",
+            "indicator": "Metros cuadrados de área verde por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de un ordenamiento territorial, con un gran porcentaje de predios urbanos sin catastro y carencia de una planificación urbana integral.",
+            "objective": "Reformular el Plan Urbano y Rural, elaborar y actualizar el Catastro Distrital, e incentivar el saneamiento físico legal de los predios.",
+            "goal": "Dar prioridad a la actualización del catastro en todo el distrito para conocer su realidad y necesidades, superando el 25% actualmente trabajado.",
+            "indicator": "Porcentaje de avance en la actualización del catastro distrital."
+          },
+          {
+            "problem": "Inexistencia de un Centro de Operaciones de Emergencia con infraestructura adecuada para la gestión de desastres naturales.",
+            "objective": "Implementar un Centro de Operaciones de Emergencia que cuente con la infraestructura y logística necesarias para atender a los damnificados.",
+            "goal": "Establecer un Centro de Operaciones de Emergencia funcional, con un área designada para el acopio de logística y atención a damnificados.",
+            "indicator": "Estado de implementación y operatividad del Centro de Operaciones de Emergencia."
+          },
+          {
+            "problem": "Limitada planificación de la gestión municipal a mediano y largo plazo, con falta de metas cuantificables y una débil cultura de participación ciudadana.",
+            "objective": "Implementar una planificación de la gestión municipal con metas cuantificables a mediano y largo plazo, y fomentar la participación activa de los vecinos en la toma de decisiones.",
+            "goal": "Forjar una cultura de participación política que contribuya a la gobernabilidad y al desarrollo de la ciudad, basándose en la planificación estratégica.",
+            "indicator": "Existencia de un plan de desarrollo concertado con metas cuantificables y número de mecanismos de participación ciudadana activos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Kg4F5YLfV36NDp3rJ3JTZjutVLv9T52p",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Kg4F5YLfV36NDp3rJ3JTZjutVLv9T52p",
+      "sha256": "2370bbc45f3df7afc63961c55d4319db3c7fd5b2dbeeabcca2da29d3501ed698",
+      "accessedAt": "2026-10-02T22:53:32.745Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020550",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020550",
+      "sha256": "3bc127156e93d7ff3173e9e7ff9a40c78b6b926c3e0d59c92ff9382900bfe4e1",
+      "accessedAt": "2026-10-02T22:53:33.478Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

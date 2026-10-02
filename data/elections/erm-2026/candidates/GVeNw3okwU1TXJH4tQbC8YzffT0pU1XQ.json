@@ -1,0 +1,259 @@
+{
+  "id": "GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ",
+  "slug": "silfredo-virgilio-gamboa-usca",
+  "electionId": "erm-2026",
+  "name": "Silfredo Virgilio Gamboa Usca",
+  "givenNames": "Silfredo Virgilio",
+  "surnames": "Gamboa Usca",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 2924,
+    "name": "PERU MODERNO"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:12.929Z",
+      "sourceId": "jne-hv-GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "TELESUP",
+        "program": "Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad César Vallejo",
+        "program": "Derecho Procesal Penal",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Policía Nacional del Perú",
+      "role": "Servicio de Rescate",
+      "from": "2010",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 42000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "0",
+        "value": 3500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "El candidato indica que cumple con informar que, a la fecha, no recuerda la totalidad de la información ni los números de expediente respectivos, y por ello cumple con informar de la situación, debido a que la abogada que llevaba sus procesos ha fallecido. Como consecuencia de ello, no he podido acceder a los números de expedientes correspondientes (exoneración de alimentos y conciliación)",
+    "El candidato no indica un valor comercial ni autoevalúo el inmueble que figura en la partida."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3797fba4-c706-4670-9d0a-3fe32d8feb9d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0fd0aab0-14a2-4641-9b8b-02eb54158183.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana y limitada capacidad de respuesta ante emergencias en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana en el distrito mediante la implementación de un sistema integrado de seguridad inteligente, un centro de monitoreo y respuesta 24/7, y la intervención en zonas críticas.",
+            "goal": "Implementar el 100% del sistema de videovigilancia inteligente, asegurar la operatividad permanente con articulación interinstitucional y recuperar el 80% de zonas de alta incidencia delictiva.",
+            "indicator": "Porcentaje de sistema operativo, tiempo de respuesta ante incidentes, porcentaje de zonas intervenidas, número de jóvenes beneficiados y número de redes vecinales activas."
+          },
+          {
+            "problem": "Limitada participación ciudadana y escasa interacción entre los vecinos y la municipalidad.",
+            "objective": "Fortalecer la participación ciudadana, la transparencia y el gobierno abierto a través de plataformas digitales, audiencias públicas descentralizadas y el fortalecimiento del presupuesto participativo.",
+            "goal": "Implementar una plataforma con al menos 10,000 usuarios registrados, realizar un mínimo de dos audiencias por año e incrementar en 60% la participación ciudadana en proyectos priorizados.",
+            "indicator": "Número de usuarios activos, número de audiencias ejecutadas, porcentaje de participación vecinal y porcentaje de obras supervisadas."
+          },
+          {
+            "problem": "Existencia de barreras de accesibilidad en la infraestructura pública que limitan la inclusión.",
+            "objective": "Fortalecer la inclusión de personas con capacidades diferentes mediante el fortalecimiento de la OMAPED, la certificación a empresas inclusivas y la adecuación de la infraestructura pública.",
+            "goal": "Registrar y acompañar al 100% de personas con discapacidad identificadas en el distrito e implementar accesibilidad universal en el 80% de los espacios públicos municipales.",
+            "indicator": "Porcentaje de población registrada y atendida, número de empresas certificadas, porcentaje de espacios adaptados y número de actividades ejecutadas."
+          },
+          {
+            "problem": "Congestión vehicular y deficiente gestión del tránsito urbano que afecta la movilidad en el distrito.",
+            "objective": "Mejorar las condiciones de hábitat urbano en el distrito a través de un estudio técnico de tránsito, eliminación de estacionamientos informales, semaforización inteligente y renovación de pistas y veredas.",
+            "goal": "Implementar el 100% de las medidas derivadas del estudio vial, erradicar el 80% de estacionamientos en bermas y veredas, e instalar sistemas inteligentes en el 60% de los cruces críticos.",
+            "indicator": "Porcentaje de medidas ejecutadas, porcentaje de reducción de informalidad, número de convenios ejecutados y porcentaje de intersecciones modernizadas."
+          },
+          {
+            "problem": "Infraestructura deportiva insuficiente o desactualizada y escasas oportunidades de deporte y recreación.",
+            "objective": "Fortalecer el deporte, la salud, la prevención y el bienestar social mediante la reactivación de la Liga Distrital de Fútbol, la modernización de la piscina municipal y la fiscalización sanitaria en restaurantes.",
+            "goal": "Organizar al menos dos campeonatos distritales por año, recuperar el 100% de los espacios deportivos priorizados y renovar el 100% de la infraestructura y equipamiento de la piscina municipal.",
+            "indicator": "Número de torneos y campos intervenidos, infraestructura operativa al 100% y porcentaje de locales inspeccionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Exceso de trámites y dificultades para la formalización empresarial en el distrito.",
+            "objective": "Promover el desarrollo económico del distrito a través de la simplificación de trámites para licencias, la fiscalización preventiva y el ordenamiento del comercio ambulatorio.",
+            "goal": "Reducir en un 50% el tiempo de obtención de licencias de funcionamiento y formalizar al menos el 60% del comercio informal.",
+            "indicator": "Tiempo promedio de trámite, porcentaje de intervenciones preventivas y porcentaje de comerciantes formalizados."
+          },
+          {
+            "problem": "Desorden del comercio ambulatorio y ocupación informal del espacio público.",
+            "objective": "Promover el desarrollo económico del distrito, ordenando el comercio ambulatorio y fomentando programas de formalización de negocios informales mediante alianzas estratégicas.",
+            "goal": "Formalizar al menos el 60% del comercio informal y al 65% de los negocios informales atendidos.",
+            "indicator": "Porcentaje de comerciantes formalizados y porcentaje de negocios formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente servicio de limpieza pública y acumulación de residuos sólidos en el distrito.",
+            "objective": "Asegurar la calidad ambiental y la calidad de vida de los vecinos mediante la reestructuración del servicio de limpieza pública, la implementación de contenedores soterrados y un programa de segregación en la fuente.",
+            "goal": "Optimizar el 100% de las rutas de limpieza, aumentar la frecuencia de recojo en zonas críticas y lograr que el 60% de los hogares, mercados y comercios segreguen sus residuos.",
+            "indicator": "Porcentaje de rutas optimizadas y frecuencia de recojo, número de estaciones instaladas y porcentaje de participación ciudadana."
+          },
+          {
+            "problem": "Riesgo estructural y condiciones inseguras en edificaciones antiguas, junto a un escaso conocimiento ciudadano sobre prevención.",
+            "objective": "Fortalecer la cultura de prevención y la gestión de riesgo de desastres a través de evaluaciones técnicas en edificaciones antiguas, jornadas informativas, simulacros y la elaboración de un mapa de riesgos actualizado.",
+            "goal": "Inspeccionar el 80% de las edificaciones vulnerables del distrito, realizar un mínimo de dos simulacros generales por año y elaborar y actualizar al 100% el mapa distrital de riesgos.",
+            "indicator": "Porcentaje de locales evaluados, número de simulacros realizados, mapa de riesgos actualizado y plan de continuidad aprobado y ejecutado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada transparencia y acceso a la información pública municipal por parte de los ciudadanos.",
+            "objective": "Reforzar la transparencia municipal mediante la actualización constante del portal institucional con información presupuestal, de obras, contrataciones y servicios.",
+            "goal": "Publicar el 100% de la información presupuestal y de obras, garantizando el acceso público y transparente a la gestión municipal.",
+            "indicator": "Portal actualizado permanentemente y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Procesos administrativos lentos y limitada modernización institucional que afectan la eficiencia.",
+            "objective": "Modernizar la gestión mediante la implementación de estándares de calidad, el reconocimiento a trabajadores, la implementación del régimen SERVIR y la política de 'Cero Papel'.",
+            "goal": "Lograr que el 70% del personal se encuentre en proceso de adecuación al régimen Servir y reducir en un 80% el uso de documentos físicos.",
+            "indicator": "Nivel de satisfacción ciudadana, número de trabajadores reconocidos, porcentaje de avance en SERVIR y porcentaje de expedientes digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-140832",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "Cusco",
+        "expediente": "0131-1992",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-140830",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "Cusco",
+        "expediente": "01434-2014",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-140831",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "Cusco",
+        "expediente": "00532-2013",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ",
+      "sha256": "09dadb59a616fe6600b65f53ba6efae23a3f4d91c18de492c93f8489d70f2ea6",
+      "accessedAt": "2026-10-02T22:52:12.929Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015508",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015508",
+      "sha256": "42faa1e4ad1b6b4c43fbed7d1d4821c84f3505b89ccf143909336d25261b89a8",
+      "accessedAt": "2026-10-02T22:52:13.490Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

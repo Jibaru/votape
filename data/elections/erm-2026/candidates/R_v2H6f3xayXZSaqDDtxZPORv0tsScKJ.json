@@ -1,0 +1,275 @@
+{
+  "id": "R_v2H6f3xayXZSaqDDtxZPORv0tsScKJ",
+  "slug": "rodolfo-roiro-padilla",
+  "electionId": "erm-2026",
+  "name": "Rodolfo Roiro Padilla",
+  "givenNames": "Rodolfo",
+  "surnames": "Roiro Padilla",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 2927,
+    "name": "SALVEMOS AL PERU"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:06.084Z",
+      "sourceId": "jne-hv-R_v2H6f3xayXZSaqDDtxZPORv0tsScKJ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IESTP. MISIONEROS MONFORTIANOS",
+        "program": "TECNICO EN COMPUTACION E INFORMATICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "COLEGIO DE PSICOLOGOS DEL PERU",
+        "program": "CONCILIADOR EXTRAJUDICIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD CATOLICA LOS ANGELES DE CHIMBOTE",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLAREAL",
+        "program": "DERECHO PENAL",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLAREAL",
+        "program": "DOCTORADO EN DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ESTUDIO JURIDICO RODOLFO ROIRO",
+      "role": "ABOGADO",
+      "from": "2010",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2022"
+    },
+    {
+      "party": "TODOS POR EL PERU",
+      "year": "2019"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 38500,
+        "public": 0,
+        "private": 38500
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 800000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO",
+        "value": 5120
+      },
+      {
+        "type": "MOTO",
+        "value": 5120
+      },
+      {
+        "type": "AUTO COLOR GRIS",
+        "value": 2730
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1c812219-cf0b-499b-ab68-c8974af9b86e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b0a27969-25f0-4ede-bdc6-6dff9de265a6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y altas tasas de anemia y desnutrición infantil en los sectores de mayor pobreza.",
+            "objective": "Fortalecer los programas de salud preventiva y bienestar comunitario a través de la implementación de la red de Policlínicos Municipales itinerantes.",
+            "goal": "Incrementar a 100,000 atenciones médicas anuales y reducir la tasa de anemia infantil en un 50% en los sectores vulnerables intervenidos.",
+            "indicator": "Número de atenciones anuales brindadas en la red de salud primaria municipal y porcentaje de reducción de anemia infantil."
+          },
+          {
+            "problem": "Déficit de equipamiento logístico, unidades motorizadas y personal de serenazgo descentralizado para la atención rápida de emergencias.",
+            "objective": "Implementar un sistema de vigilancia predictiva con analítica de Inteligencia Artificial (reconocimiento de placas y rostros) y ampliar las bases de serenazgo.",
+            "goal": "Instalar y poner en funcionamiento 500 nuevas cámaras con IA y dotar de 60 nuevas unidades móviles (camionetas y motos) al Serenazgo.",
+            "indicator": "Número de cámaras de videovigilancia de última generación operativas e interconectadas al Centro de Monitoreo Municipal."
+          },
+          {
+            "problem": "Altos índices de delincuencia común, robos, extorsión y presencia de bandas organizadas en zonas críticas del distrito.",
+            "objective": "Garantizar la seguridad ciudadana mediante el fortalecimiento del serenazgo, la implementación de tecnología de vigilancia y el trabajo coordinado con la PNP y las Juntas Vecinales.",
+            "goal": "Reducir la percepción de inseguridad ciudadana del índice actual en un 35% en los sectores de mayor incidencia delictiva.",
+            "indicator": "Porcentaje de la población del distrito que percibe su zona como insegura (según reportes INEI / encuestas locales)."
+          },
+          {
+            "problem": "Falta de infraestructura recreativa, artística y deportiva para la contención social comunitaria y el desarrollo de habilidades en jóvenes.",
+            "objective": "Promover el deporte, la recreación, la cultura y el arte mediante la creación de las \"Escuelas Municipales del Deporte y la Innovación\" y centros culturales.",
+            "goal": "Lograr la participación activa y gratuita de 20,000 niños y jóvenes al año en programas culturales, artísticos y deportivos.",
+            "indicator": "Cantidad de niños, adolescentes y jóvenes inscritos y participando activamente en los programas descentralizados de la municipalidad."
+          },
+          {
+            "problem": "Deficiencias operativas y logísticas en los programas de apoyo alimentario (Comedores Populares y comités de Vaso de Leche).",
+            "objective": "Fortalecer y equipar los comedores populares y comités de vaso de leche, asegurando transferencias eficientes, equipamiento y capacitación nutricional.",
+            "goal": "Atender, reequipar y capacitar al 100% de los Comedores Populares y comités de Vaso de Leche oficialmente registrados en el distrito.",
+            "indicator": "Porcentaje de locales de apoyo alimentario debidamente equipados, formalizados y bajo supervisión nutricional óptima."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de capacidades técnicas y herramientas digitales en los micro y pequeños emprendedores para acelerar sus negocios.",
+            "objective": "Crear el \"Programa Municipal de Emprendimiento y Desarrollo Productivo\" para brindar asistencia técnica, asesoría legal-contable e innovación.",
+            "goal": "Capacitar y brindar asistencia técnica integral a 3,000 emprendedores y MYPES locales en transformación digital y finanzas.",
+            "indicator": "Cantidad de micro, pequeñas y medianas empresas (MYPES) capacitadas y asistidas técnicamente por la corporación municipal."
+          },
+          {
+            "problem": "Alta informalidad comercial y trabas burocráticas que desalientan la inversión, la formalización y la competitividad de los negocios locales.",
+            "objective": "Simplificar los procedimientos municipales, actualizar el TUPA e implementar licencias de funcionamiento exprés a través de canales digitales.",
+            "goal": "Reducir el tiempo de emisión de licencias comerciales a un máximo de 24 horas hábiles para establecimientos de riesgo bajo y medio.",
+            "indicator": "Tiempo promedio para la obtención de licencias de funcionamiento comerciales y porcentaje de negocios formalizados."
+          },
+          {
+            "problem": "Elevados niveles de desempleo y subempleo, con mayor impacto en la población juvenil del distrito de Ate.",
+            "objective": "Promover la generación de empleo formal y sostenible a través de una Bolsa Municipal de Trabajo articulada directamente con el sector empresarial.",
+            "goal": "Lograr la inserción laboral formal de un mínimo de 5,000 vecinos del distrito por año de gestión.",
+            "indicator": "Número de vecinos desempleados insertados con éxito en puestos de trabajo formales mediante las plataformas municipales."
+          },
+          {
+            "problem": "Desorden agudo en el comercio ambulatorio urbano y carencia de espacios regulados o ferias comerciales seguras.",
+            "objective": "Regular, ordenar e integrar de manera concertada el comercio ambulatorio en ferias de emprendimiento y espacios de promoción comercial.",
+            "goal": "Lograr la formalización y reubicación regulada del 40% del comercio ambulatorio crítico detectado en el distrito.",
+            "indicator": "Número de comerciantes informales reconvertidos, ordenados o reubicados formalmente bajo lineamientos municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit severo de áreas verdes por habitante, parques descuidados y escasos espacios públicos idóneos para la integración familiar.",
+            "objective": "Incrementar, recuperar y reforestar las áreas verdes, parques y espacios públicos del distrito mediante planes de arborización urbana masiva.",
+            "goal": "Incrementar en un 30% la superficie total de áreas verdes urbanas recuperadas, utilizando aguas residuales tratadas para su riego.",
+            "indicator": "Metros cuadrados (m²) de áreas verdes públicas óptimas y consolidadas por habitante en el territorio distrital."
+          },
+          {
+            "problem": "Puntos críticos de acumulación de basura y deficiencias en las frecuencias, rutas y horarios de recolección de residuos sólidos.",
+            "objective": "Optimizar los servicios de limpieza pública y manejo de residuos mediante el rediseño de rutas apoyado en sistemas de geolocalización (GPS).",
+            "goal": "Asegurar el 100% de cobertura, erradicando los puntos críticos de basura en todas las zonas urbanas y periféricas del distrito.",
+            "indicator": "Porcentaje de cobertura y puntualidad del servicio de recolección de residuos sólidos en el ámbito residencial y comercial."
+          },
+          {
+            "problem": "Bajo nivel de cultura ecológica en la población y escasa valorización o segregación de residuos reciclables en la fuente.",
+            "objective": "Implementar programas permanentes de segregación en la fuente, reciclaje y educación ambiental para vecinos, escuelas y comercios.",
+            "goal": "Incrementar a 500 toneladas mensuales la recolección y procesamiento de material reciclable mediante el programa de segregación.",
+            "indicator": "Toneladas métricas mensuales de residuos sólidos urbanos debidamente reciclados y valorizados por la planta municipal."
+          },
+          {
+            "problem": "Caos vehicular, informalidad en el transporte de vehículos menores (mototaxis) que eleva el riesgo de accidentes y la delincuencia.",
+            "objective": "Promover la seguridad vial y el ordenamiento del transporte menor mediante su empadronamiento digital, zonificación y fiscalización.",
+            "goal": "Lograr el 100% de formalización, control biométrico y asignación de zonas autorizadas para las unidades de transporte menor registradas.",
+            "indicator": "Porcentaje de asociaciones de mototaxis formalizadas, ordenadas y bajo un estricto sistema de control biométrico y digital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Percepción de opacidad administrativa, riesgos de corrupción y demoras en los procesos de compras y licitaciones públicas.",
+            "objective": "Promover la lucha frontal contra la corrupción implementando el Modelo de Integridad Pública y control concurrente con la Contraloría.",
+            "goal": "Ejecutar control concurrente y auditoría en el 100% de las obras públicas y contrataciones mayores a las 8 UIT.",
+            "indicator": "Porcentaje de procesos de contratación, compras y licitaciones públicas auditadas y publicadas de forma abierta al ciudadano."
+          },
+          {
+            "problem": "Procesos administrativos centralizados, lentos y burocráticos que obligan al vecino a realizar trámites de forma presencial.",
+            "objective": "Modernizar la administración municipal mediante la transformación digital de trámites, simplificación administrativa y política de Cero Papel.",
+            "goal": "Digitalizar el 100% de los trámites administrativos aptos para la plataforma virtual de la municipalidad.",
+            "indicator": "Porcentaje de procedimientos y trámites contenidos en el TUPA que se encuentran completamente virtualizados y accesibles."
+          },
+          {
+            "problem": "Distanciamiento entre la sede central municipal y los sectores periféricos del distrito (Huaycán, Santa Clara, etc.), limitando la atención.",
+            "objective": "Descentralizar y desconcentrar los servicios municipales potenciando las agencias existentes con ventanillas únicas y plataformas digitales.",
+            "goal": "Repotenciar, equipar con conectividad y dotar de autonomía resolutiva a las 6 agencias municipales descentralizadas del distrito.",
+            "indicator": "Número de agencias municipales periféricas repotenciadas tecnológicamente y con plena capacidad de resolución de trámites."
+          },
+          {
+            "problem": "Insuficiente capacitación técnica y orientación hacia el ciudadano en el personal del servicio civil de la corporación local.",
+            "objective": "Fortalecer de forma continua las capacidades técnicas, profesionales, éticas y de vocación de servicio de los funcionarios y servidores.",
+            "goal": "Garantizar que el 100% del personal municipal de atención reciba y apruebe capacitaciones anuales en ética y servicio al ciudadano.",
+            "indicator": "Porcentaje de funcionarios y personal de atención al usuario acreditados y capacitados en gestión por resultados e integridad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-R_v2H6f3xayXZSaqDDtxZPORv0tsScKJ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/R_v2H6f3xayXZSaqDDtxZPORv0tsScKJ",
+      "sha256": "2537c51df5e72bf1e12a15d7b3b6e0af26676b60bbcb4e370b82e640a396c199",
+      "accessedAt": "2026-10-02T22:51:06.084Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032864",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032864",
+      "sha256": "6a9bfa70e201859e62ed3fce6ea27345f892fc2c59708128b3fd2f7cfc1c65cc",
+      "accessedAt": "2026-10-02T22:51:06.612Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

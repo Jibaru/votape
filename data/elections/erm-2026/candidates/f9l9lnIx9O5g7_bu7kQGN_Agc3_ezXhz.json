@@ -1,0 +1,257 @@
+{
+  "id": "f9l9lnIx9O5g7_bu7kQGN_Agc3_ezXhz",
+  "slug": "jorge-ignacio-guzman-nino",
+  "electionId": "erm-2026",
+  "name": "Jorge Ignacio Guzman Niño",
+  "givenNames": "Jorge Ignacio",
+  "surnames": "Guzman Niño",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:19.309Z",
+      "sourceId": "jne-hv-f9l9lnIx9O5g7_bu7kQGN_Agc3_ezXhz"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PARTICULAR DE CHICLAYO PERU",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PARTICULAR DE CHICLAYO PERU",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "posgrado",
+        "institution": "CENTRO DE ALTOS ESTUDIOS NACIONALES - CAEN",
+        "program": "MAESTRIA EN ADMINISTRACION Y GESTIÓN PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "CENTRO DE ALTOS ESTUDIOS NACIONALES - CAEN",
+        "program": "DIPLOMADO EN ADMINISTRACION DE GESTIÓN REGIONALES Y LOCALES",
+        "completed": true,
+        "degree": null,
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INSTITUTO PERUANO DEL DEPORTE - IPD",
+      "role": "COORDINADOR LEGAL DE ASESORIA",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "HOSPITAL MARIA AUXILIADORA - HMA",
+      "role": "DIRECTOR OEP",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "HOSPITAL DE LIMA ESTE - VITARTE - HLEV",
+      "role": "JEFE DE LA OFICINA DE ADMINISTRACIÓN",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "SEGURO SOCIAL DE SALUD - ESSALUD",
+      "role": "JEFE DE DIVISIÓN",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "SUPERINTENDENCIA NACIONAL DE SALUD - SUSALUD",
+      "role": "SUPERINTENDENTE ADJUNTO",
+      "from": "2024",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 268000,
+        "public": 148000,
+        "private": 120000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 157273,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "HYUNDAI COLOR AZUL",
+        "value": 52500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "VALDIVIESO GUZMAN & ROMERO ASESORES Y CONSULTORES SOCIEDAD CIVIL DE RESPONSABILIDAD LIMITADA",
+        "type": "PARTICIPACIONES",
+        "quantity": 33,
+        "value": 297
+      },
+      {
+        "company": "BUSINESS OPPORTUNITY CONSULTORA S.A.C",
+        "type": "ACCIONES",
+        "quantity": 546,
+        "value": 546
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/77e4ee33-8a20-4fc9-b350-7a2800bf7fc1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/49dd90fb-318b-4faf-9b70-16f2c68e2b72.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiente acceso formal a servicios básicos de saneamiento en familias localizadas en asentamientos periféricos.",
+            "objective": "Promover un desarrollo territorial ordenado, inclusivo y con condiciones dignas de habitabilidad.",
+            "goal": "Lograr el 75% de habilitaciones urbanas formalizadas en el territorio apto.",
+            "indicator": "Porcentaje de habilitaciones urbanas aprobadas/procesadas en zonas aptas del distrito."
+          },
+          {
+            "problem": "Elevada percepción de inseguridad urbana e incidencia delictiva común en espacios públicos del distrito.",
+            "objective": "Mejorar y optimizar de manera integral los servicios de seguridad ciudadana en beneficio del vecino.",
+            "goal": "Reducción de la incidencia delictiva a una tasa acumulada de -6.6% al 2030.",
+            "indicator": "Tasa de variación anual de la incidencia delictiva reportada en el distrito."
+          },
+          {
+            "problem": "Presencia de vulnerabilidad nutricional y riesgo de anemia en la población infantil de sectores de bajos recursos.",
+            "objective": "Contribuir a la mejora sustantiva de las condiciones de salud preventiva y nutricional comunitaria.",
+            "goal": "Sostener la ejecución de 5,800 visitas anuales de control y prevención.",
+            "indicator": "Número anual de visitas domiciliarias ejecutadas para la prevención de la anemia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas competencias comerciales, operativas y digitales en los emprendedores y comerciantes locales.",
+            "objective": "Desarrollar el capital empresarial local mediante el fortalecimiento de capacidades técnicas.",
+            "goal": "Alcanzar la cifra de 50 empresarios capacitados participando anualmente.",
+            "indicator": "Número de empresarios que participan activamente en programas de capacitación empresarial."
+          },
+          {
+            "problem": "Alta tasa de informalidad comercial y baja competitividad en las micro y pequeñas empresas del distrito.",
+            "objective": "Promover el desarrollo ordenado de las actividades económicas e impulsar la formalización productiva.",
+            "goal": "Incrementar a 16.96% la tasa de variación de agentes económicos formales.",
+            "indicator": "Tasa de variación de agentes económicos formalizados y registrados en el distrito."
+          },
+          {
+            "problem": "Bajo aprovechamiento del potencial de los activos turísticos, naturales e históricos del litoral del distrito.",
+            "objective": "Potenciar e implementar el Programa de Desarrollo Turístico y de servicios recreativos de Chorrillos.",
+            "goal": "Ejecutar 20 acciones estratégicas de desarrollo e impacto turístico.",
+            "indicator": "Número de acciones y circuitos promocionales ejecutados dentro del Programa Turístico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Presión demográfica sobre el servicio de limpieza y bajos niveles de reciclaje segregado en la fuente de origen.",
+            "objective": "Mejorar integralmente la gestión ambiental urbana y la disposición final adecuada de los residuos sólidos.",
+            "goal": "Incrementar el reciclaje inorgánico al 1.56% de la masa total distrital.",
+            "indicator": "Porcentaje de toneladas de residuos inorgánicos reciclados respecto a la carga generada."
+          },
+          {
+            "problem": "Proliferación de focos infecciosos por acumulación informal de desmontes y deficiente cobertura de barrido de calles.",
+            "objective": "Expandir la cobertura y optimizar los procesos de barrido y recolección del sistema de limpieza pública.",
+            "goal": "Ampliar la cobertura del servicio a 154,200 kilómetros lineales de calles.",
+            "indicator": "Kilómetros lineales de calles del distrito cubiertos con el servicio público de limpieza."
+          },
+          {
+            "problem": "Vulnerabilidad estructural ante sismos, tsunamis y emergencias por insuficiencia de preparación comunitaria.",
+            "objective": "Reducir la vulnerabilidad física de la población y sus medios de vida ante el riesgo de desastres.",
+            "goal": "Consolidar y mantener el 100% de la capacidad operativa básica del COEL.",
+            "indicator": "Porcentaje de la capacidad instalada básica de la entidad frente a emergencias y desastres."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos internos lentos y burocráticos que limitan la eficiencia operativa de la administración municipal.",
+            "objective": "Fortalecer la eficiencia de la gestión municipal bajo un enfoque gerencial moderno por resultados.",
+            "goal": "Lograr que el 100% de las dependencias municipales alcancen metas óptimas.",
+            "indicator": "Porcentaje de unidades de la organización con cumplimiento mayor al 80% de su POI."
+          },
+          {
+            "problem": "Evasión fiscal y debilidad en los sistemas integrados de información y catastro de predios urbanos.",
+            "objective": "Optimizar la sostenibilidad presupuestal y la recaudación municipal oportuna de impuestos y arbitrios.",
+            "goal": "Incrementar la recaudación efectiva oportuna al 71.43% de la masa emitida.",
+            "indicator": "Porcentaje de recaudación efectiva de obligaciones tributarias municipales emitidas."
+          },
+          {
+            "problem": "Insuficientes canales informáticos corporativos de gobierno digital interactivo y transparencia hacia el vecino.",
+            "objective": "Implementar un sistema integral de gobierno electrónico abierto, transparente e interoperable.",
+            "goal": "Completar la implementación del 100% de los proyectos de transformación digital.",
+            "indicator": "Porcentaje de proyectos implementados de manera integral dentro del Plan de Gobierno Digital."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-f9l9lnIx9O5g7_bu7kQGN_Agc3_ezXhz",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/f9l9lnIx9O5g7_bu7kQGN_Agc3_ezXhz",
+      "sha256": "4e202e852d28e41b657d17dfcc2dfa2f01713b89723cc7e21e866b977453db88",
+      "accessedAt": "2026-10-02T22:54:19.309Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019614",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019614",
+      "sha256": "f7a0d961e79229ea690d39358ef6f487a4202ac146e91f903a2f782c3c53c24b",
+      "accessedAt": "2026-10-02T22:54:19.788Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

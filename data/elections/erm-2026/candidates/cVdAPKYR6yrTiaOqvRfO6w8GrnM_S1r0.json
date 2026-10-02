@@ -1,0 +1,205 @@
+{
+  "id": "cVdAPKYR6yrTiaOqvRfO6w8GrnM_S1r0",
+  "slug": "timoteo-francisco-nishijima-villavicencio",
+  "electionId": "erm-2026",
+  "name": "Timoteo Francisco Nishijima Villavicencio",
+  "givenNames": "Timoteo Francisco",
+  "surnames": "Nishijima Villavicencio",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:16.375Z",
+      "sourceId": "jne-hv-cVdAPKYR6yrTiaOqvRfO6w8GrnM_S1r0"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "EN EL AÑO: 1991, HICE UN CAMBIO DE APELLIDOS: TIMOTEO FRANCISCO, EVANGELISTA RAMÍREZ (NOMBRE COMPLETO ANTERIOR), POR MANDATO JUDICIAL. ACTUALMENTE ADOPTO EL NOMBRE DE TIMOTEO FRANCISCO, NISHIJIMA VILLAVICENCIO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d7b6b8c0-3ce7-418e-a329-dbcbc24d9f4c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b685d4d2-1c40-47d3-8ca4-6b5d035ebab2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiencias en infraestructura educativa y limitada capacitación técnica.",
+            "objective": "Mejorar las condiciones educativas y promover programas de formación técnica y capacitación juvenil.",
+            "goal": "Intervención en 20 instituciones educativas, implementación de 01 CETPRO metropolitano y capacitación de 5,000 jóvenes.",
+            "indicator": "Número de instituciones educativas intervenidas, número de jóvenes capacitados y número de programas ejecutados."
+          },
+          {
+            "problem": "Inseguridad ciudadana y limitada capacidad operativa del serenazgo.",
+            "objective": "Fortalecer el sistema distrital de seguridad ciudadana mediante tecnología, patrullaje integrado y prevención comunitaria.",
+            "goal": "Implementación de 500 cámaras inteligentes, 03 CIEM distritales y un incremento del 50% en el patrullaje integrado.",
+            "indicator": "Número de cámaras implementadas, número de CIEM, porcentaje de reducción de la percepción de inseguridad y número de patrullajes integrados."
+          },
+          {
+            "problem": "Limitadas oportunidades para jóvenes y adultos mayores.",
+            "objective": "Fortalecer programas de inclusión, desarrollo juvenil y atención social descentralizada.",
+            "goal": "Beneficiar a 20,000 vecinos con programas permanentes para juventudes y adultos mayores.",
+            "indicator": "Número de beneficiarios atendidos, número de programas ejecutados y número de espacios implementados."
+          },
+          {
+            "problem": "Déficit de espacios recreativos, culturales y deportivos.",
+            "objective": "Recuperar e implementar espacios públicos y deportivos para la integración social y recreativa.",
+            "goal": "Recuperación de 100,000 m² de espacios públicos, implementación de 15 parques y alamedas, y construcción de 05 complejos deportivos.",
+            "indicator": "Metros cuadrados de espacios públicos recuperados, número de parques implementados y número de complejos deportivos construidos."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y atención prehospitalaria.",
+            "objective": "Fortalecer la atención preventiva y descentralizada en salud.",
+            "goal": "Realización de 100 campañas médicas descentralizadas y la implementación de 02 policlínicos móviles.",
+            "indicator": "Número de campañas médicas ejecutadas, número de atenciones preventivas y número de unidades médicas implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad comercial y ocupación desordenada del espacio público.",
+            "objective": "Promover la formalización y ordenamiento del comercio local.",
+            "goal": "Formalización progresiva del comercio ambulatorio e implementación de corredores comerciales ordenados.",
+            "indicator": "Número de comerciantes formalizados, número de espacios públicos recuperados y número de corredores comerciales implementados."
+          },
+          {
+            "problem": "Escasa generación de empleo y limitada competitividad juvenil.",
+            "objective": "Promover el emprendimiento, la capacitación técnica y la empleabilidad juvenil.",
+            "goal": "Capacitar a 5,000 jóvenes y emprendedores, y establecer programas permanentes de empleabilidad.",
+            "indicator": "Número de capacitaciones ejecutadas, número de emprendedores beneficiados y número de ferias laborales implementadas."
+          },
+          {
+            "problem": "Limitada infraestructura económica y comercial.",
+            "objective": "Impulsar la infraestructura económica y los espacios productivos modernos.",
+            "goal": "Modernización de mercados y espacios comerciales priorizados, y fortalecimiento de la infraestructura económica local.",
+            "indicator": "Número de proyectos implementados, número de mercados modernizados y número de beneficiarios productivos."
+          },
+          {
+            "problem": "Bajo aprovechamiento del potencial turístico y cultural de Chosica.",
+            "objective": "Fortalecer el desarrollo turístico, recreativo y cultural del distrito.",
+            "goal": "Implementación de circuitos turísticos distritales y posicionamiento de Chosica como destino turístico de Lima Este.",
+            "indicator": "Número de circuitos turísticos implementados, número de eventos turísticos realizados e incremento del flujo turístico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad frente a huaicos, inundaciones y desastres naturales.",
+            "objective": "Fortalecer la prevención y mitigación del riesgo de desastres.",
+            "goal": "Intervención en quebradas priorizadas e implementación de defensas ribereñas y obras de mitigación.",
+            "indicator": "Número de obras ejecutadas, número de quebradas intervenidas y kilómetros de defensas ribereñas implementadas."
+          },
+          {
+            "problem": "Déficit de áreas verdes y deterioro ambiental.",
+            "objective": "Recuperar espacios ecológicos y fortalecer la infraestructura verde.",
+            "goal": "Incremento de áreas verdes distritales e implementación de corredores ecológicos y arborización urbana.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas, número de árboles plantados y número de espacios ecológicos implementados."
+          },
+          {
+            "problem": "Manejo deficiente de residuos sólidos.",
+            "objective": "Mejorar el sistema de limpieza pública, reciclaje y segregación.",
+            "goal": "Fortalecimiento del servicio de limpieza pública e implementación de programas de reciclaje y segregación.",
+            "indicator": "Cobertura del servicio de limpieza, número de campañas ejecutadas y número de programas de reciclaje implementados."
+          },
+          {
+            "problem": "Contaminación y degradación ambiental de quebradas y riberas.",
+            "objective": "Recuperar y proteger áreas ambientales vulnerables.",
+            "goal": "Recuperación de riberas y quebradas contaminadas, y ejecución de proyectos de recuperación ambiental.",
+            "indicator": "Metros cuadrados de espacios recuperados, número de espacios ribereños intervenidos y número de proyectos ambientales ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Congestión vehicular y deficiente movilidad urbana.",
+            "objective": "Mejorar la conectividad y transitabilidad distrital.",
+            "goal": "Mejora de 50 km de vías urbanas, modernización de intersecciones críticas e implementación de sistemas de movilidad inteligente.",
+            "indicator": "Kilómetros de vías mejoradas, número de intersecciones modernizadas y número de corredores viales implementados."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado e informalidad constructiva.",
+            "objective": "Fortalecer la planificación urbana y el ordenamiento territorial.",
+            "goal": "Actualización de instrumentos de planificación urbana e impulso de procesos de formalización y saneamiento físico-legal.",
+            "indicator": "Número de instrumentos actualizados, número de intervenciones urbanas ejecutadas y número de procesos de saneamiento realizados."
+          },
+          {
+            "problem": "Limitada modernización tecnológica municipal.",
+            "objective": "Impulsar la digitalización y modernización de los servicios municipales.",
+            "goal": "Implementación del gobierno digital y catastro inteligente, y digitalización de los servicios municipales.",
+            "indicator": "Número de servicios digitalizados, número de plataformas implementadas y tiempo promedio de atención municipal."
+          },
+          {
+            "problem": "Débil capacidad operativa e institucional.",
+            "objective": "Fortalecer la gestión pública y la descentralización municipal.",
+            "goal": "Modernización de la gestión municipal e implementación de oficinas descentralizadas de atención.",
+            "indicator": "Número de oficinas descentralizadas implementadas, número de capacitaciones ejecutadas y nivel de satisfacción vecinal."
+          },
+          {
+            "problem": "Limitada transparencia y participación ciudadana.",
+            "objective": "Fortalecer los mecanismos de participación y control ciudadano.",
+            "goal": "Realización de 04 audiencias públicas anuales e implementación de plataformas digitales de transparencia.",
+            "indicator": "Número de audiencias públicas realizadas, número de procesos participativos ejecutados y número de plataformas ciudadanas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cVdAPKYR6yrTiaOqvRfO6w8GrnM_S1r0",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cVdAPKYR6yrTiaOqvRfO6w8GrnM_S1r0",
+      "sha256": "9a3431cb612cd336d38e3fac70a0ea8205d008febc5d7e32b5d7d897be756c40",
+      "accessedAt": "2026-10-02T22:59:16.375Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016428",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016428",
+      "sha256": "63189d32af829fe803310cfeaa20fa04f5f07667ca6c269b3a9c986d2687af6e",
+      "accessedAt": "2026-10-02T22:59:17.087Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

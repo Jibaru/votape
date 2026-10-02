@@ -1,0 +1,224 @@
+{
+  "id": "5QAnMDLpuV1zE7QIUy0yNKoLh5H5fZI0",
+  "slug": "juan-jose-guevara-bonilla",
+  "electionId": "erm-2026",
+  "name": "Juan Jose Guevara Bonilla",
+  "givenNames": "Juan Jose",
+  "surnames": "Guevara Bonilla",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:04.659Z",
+      "sourceId": "jne-hv-5QAnMDLpuV1zE7QIUy0yNKoLh5H5fZI0"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "INGENIERIA DE COMPUTACION E INFORMATICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE SAN MIGUEL",
+      "role": "ALCALDE DISTRITAL",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN MIGUEL",
+      "role": "REGIDOR DISTRITAL",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "employer": "Unidad Ejecutora Comité de Administración del Fondo Educativo del Callao - Cafed",
+      "role": "JEFE DE INFORMATICA",
+      "from": "2013",
+      "to": "2014"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "SAN MIGUEL ME GUSTA",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU PATRIA SEGURA",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 111600,
+        "public": 0,
+        "private": 111600
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 121373.65,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1350.24,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 63019.59,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 3879.24,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 60525.72,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 3948.47,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 45519.38,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTOMOVIL",
+        "value": 33000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c984aea0-3579-4e50-bf90-d0ec05479b19.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4034877e-a474-406e-b8c8-ff563ebf1f1f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana integral, manifestada en la constante amenaza de robos, asaltos y microcomercialización, situación agravada por un patrullaje deficiente.",
+            "objective": "Modernizar e incrementar la capacidad operativa del serenazgo, articulado con la \"Estrategia Vecindario Seguro - Policía Comunitaria por Sectores\", y reactivar el Grupo Sombra de inteligencia.",
+            "goal": "Reducción comprobable de la victimización y lograr la cobertura del 100% de los sectores y cuadrantes.",
+            "indicator": "Tasa de victimización vecinal y número de efectivos operativos por habitante."
+          },
+          {
+            "problem": "Caos vehicular, pistas deterioradas y congestión por eventos masivos que dañan los vehículos de los vecinos, secuestran las calles y colapsan el tránsito local.",
+            "objective": "Ejecutar un Plan Integral de Movilidad Segura, Mantenimiento Vial y Control Estricto de Aforos para recuperar pistas de alto tránsito y controlar aforos vehiculares privados.",
+            "goal": "Rehabilitación integral del 100% de las pistas principales y eliminación total del caos vial.",
+            "indicator": "Porcentaje de pistas y avenidas rehabilitadas y número de planes de desvío y mitigación aprobados."
+          },
+          {
+            "problem": "Déficit en deporte, salud y asistencia social, evidenciado en la falta de acceso a programas preventivos de salud y la privatización de espacios deportivos para poblaciones vulnerables.",
+            "objective": "Construir complejos modernos, recuperar y liberar espacios para el deporte gratuito, y reaperturar la Cuna Jardín para fortalecer los servicios sociales.",
+            "goal": "Recuperación del 100% de los espacios para el vecino y una Cuna Jardín activa al servicio.",
+            "indicator": "Número de complejos deportivos construidos y liberados, y número de servicios sociales activos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio ambulatorio desbordado, caos inmobiliario y trabas burocráticas que afectan al emprendedor formal y amenazan las zonas residenciales.",
+            "objective": "Ordenar los espacios públicos, defender la residencialidad mediante auditorías técnicas a construcciones y eliminar las trabas burocráticas para la simplificación administrativa.",
+            "goal": "Recuperación del 100% de las zonas para el tránsito peatonal y lograr cero obras ilegales.",
+            "indicator": "Porcentaje de ejes comerciales ordenados y número de obras de construcción fiscalizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación sonora, lumínica y visual, junto a un déficit de áreas verdes, debido al ruido de espectáculos, obras y la invasión de pantallas LED.",
+            "objective": "Erradicar los ruidos molestos, ordenar visualmente el entorno urbano y lograr una recuperación ecológica sostenida, retirando elementos infractores y manteniendo las áreas verdes.",
+            "goal": "Cero megaconciertos masivos, cero paneles infractores y mantenimiento continuo del 100% de las áreas verdes.",
+            "indicator": "Número de quejas vecinales atendidas por ruidos y luces, y metros cuadrados de áreas verdes con mantenimiento óptimo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia, gasto ineficiente y desinterés de las áreas de Fiscalización y Serenazgo ante las quejas vecinales, generando una desconexión entre la autoridad y el vecino.",
+            "objective": "Implementar un centro vecinal 24/7 con respuesta rápida y obligatoria, promover la digitalización total de trámites y reducir contratos a locadores.",
+            "goal": "Atención y cierre del 100% de las quejas y digitalización del 100% de los trámites disponibles en línea.",
+            "indicator": "Porcentaje de quejas vecinales atendidas y resueltas, y porcentaje de trámites municipales digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-5QAnMDLpuV1zE7QIUy0yNKoLh5H5fZI0",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/5QAnMDLpuV1zE7QIUy0yNKoLh5H5fZI0",
+      "sha256": "8cb568d76e0ab735955ec2c8385b1fc23bb0048e42fa17c19344dac715ea5674",
+      "accessedAt": "2026-10-02T23:05:04.659Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019129",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019129",
+      "sha256": "aa3880ce2a6cd6e57ce337a9308db4ad43354936f24d2cc03e632115bb861679",
+      "accessedAt": "2026-10-02T23:05:05.205Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

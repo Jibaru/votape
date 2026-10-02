@@ -1,0 +1,179 @@
+{
+  "id": "67m8JugiT4R1gNik_zctL7VnFn7OIgRQ",
+  "slug": "juan-carlos-merino-huaman",
+  "electionId": "erm-2026",
+  "name": "Juan Carlos Merino Huaman",
+  "givenNames": "Juan Carlos",
+  "surnames": "Merino Huaman",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:02.359Z",
+      "sourceId": "jne-hv-67m8JugiT4R1gNik_zctL7VnFn7OIgRQ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional del Callao",
+        "program": "Ingeniero Electricista",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2020"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional del Callao",
+        "program": "Maestria en Ingenieria Electrica con mencion en Gerencia de proyectos de ingenieria",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "Secretario Metropolitano de Gobiernos Locales y Regionales",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2021",
+      "to": "2023"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "NISSAN PRIMERA",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/995e7e6c-6a19-4937-975e-e51ad619640b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/aa4e8251-b3b6-416f-8f2e-8d17930feed5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios de salud integrales y especializados, afectando principalmente a la población vulnerable y a personas con habilidades especiales.",
+            "objective": "Incentivar la promoción del acceso a la salud pública y la cobertura general de los servicios de salud, promoviendo la atención integral y la prevención de enfermedades.",
+            "goal": "Creación de un Policlínico Municipal y la implementación de un Centro de Tratamiento para Niños con Habilidades Especiales y Discapacitados.",
+            "indicator": "Número de centros de salud creados o implementados. Porcentaje de población atendida en campañas de salud periódicas."
+          },
+          {
+            "problem": "Infraestructura educativa y deportiva deficiente, así como un limitado acceso a la educación superior para los jóvenes del distrito.",
+            "objective": "Ofrecer a niños y jóvenes las herramientas necesarias para su desarrollo, apostando por infraestructuras educativas modernas, acceso a la universidad y espacios deportivos de primer nivel.",
+            "goal": "Construir y mejorar aulas en colegios, crear un Complejo Deportivo en el Sector Lomas y gestionar la creación de una sede de una Universidad Nacional en el distrito.",
+            "indicator": "Número de aulas construidas o mejoradas en convenio con PRONIED. Número de complejos deportivos creados. Estado de la gestión para la creación de una sede universitaria."
+          },
+          {
+            "problem": "Carencia de servicios básicos de agua potable y desagüe en diversos sectores del distrito, lo que afecta la dignidad y salud de las familias.",
+            "objective": "Asegurar que los servicios básicos de agua y desagüe se conviertan en un derecho accesible para todos los sectores del distrito, mejorando las condiciones sanitarias.",
+            "goal": "Lograr la celeridad en la ejecución del Proyecto de Agua y Desagüe en sectores como Ensenada y Laderas, en coordinación con el Ministerio de Vivienda y SEDAPAL.",
+            "indicator": "Porcentaje de avance en la ejecución de proyectos de saneamiento. Número de familias beneficiadas con nuevas conexiones de agua y desagüe."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Insuficiente aprovechamiento del potencial turístico del distrito, limitando la generación de empleo y el fortalecimiento de la identidad local.",
+            "objective": "Potenciar los espacios recreativos y eventos emblemáticos que atraigan visitantes, generen empleo y fomenten el orgullo por la identidad de Puente Piedra.",
+            "goal": "Promover actividades emblemáticas como ferias gastronómicas y deportes, y crear un Skate Park y una Vía de Ciclismo para mejorar la accesibilidad del turismo.",
+            "indicator": "Número de actividades emblemáticas y ferias promovidas anualmente. Infraestructura para turismo y recreación construida (Skate Park, Vía de Ciclismo)."
+          },
+          {
+            "problem": "Falta de oportunidades reales para emprendedores y trabajadores, y una desarticulación entre la oferta laboral y la inversión privada.",
+            "objective": "Impulsar el desarrollo económico local mediante la creación de oportunidades para emprendedores, el fomento de la inversión privada y la promoción del empleo formal.",
+            "goal": "Crear Módulos de Emprendedores, promover una bolsa laboral municipal activa y fomentar las inversiones privadas en la zona industrial del distrito.",
+            "indicator": "Número de Módulos de Emprendedores creados y operativos. Número de personas insertadas en el mercado laboral a través de la bolsa municipal. Número de inversiones promovidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes y arborización en el distrito, lo que contribuye al deterioro de la calidad del aire y del entorno urbano.",
+            "objective": "Liderar una cultura de reforestación articulada con la ciudadanía para crear pulmones urbanos que garanticen un ambiente sano y fresco.",
+            "goal": "Reforestar parques y calles, arborizar zonas que carecen de áreas verdes y crear un Vivero Municipal para sostener estos esfuerzos.",
+            "indicator": "Número de parques y calles reforestadas. Número de proyectos de arborización ejecutados en coordinación con instituciones académicas."
+          },
+          {
+            "problem": "Manejo inadecuado de los residuos sólidos y una débil cultura de limpieza y responsabilidad ambiental en la comunidad.",
+            "objective": "Garantizar un manejo eficiente de los residuos y promover una cultura de limpieza compartida para un distrito sostenible.",
+            "goal": "Colocar tachos ecológicos y contenedores de basura urbanos, y lanzar programas permanentes de inducción a la población sobre prácticas de limpieza compartida.",
+            "indicator": "Número de tachos ecológicos y contenedores de basura instalados en puntos estratégicos. Frecuencia de los programas de inducción y sensibilización a la población."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de inseguridad ciudadana, delincuencia y transporte informal que generan intranquilidad en la población.",
+            "objective": "Devolver la tranquilidad a las calles mediante el uso de tecnología avanzada, una policía equipada y una gestión transparente que fomente la participación ciudadana en la seguridad.",
+            "goal": "Crear un Sistema Integral de Seguridad Ciudadana con central de monitoreo y cámaras, solicitar más efectivos policiales y crear un registro de unidades de transporte público.",
+            "indicator": "Implementación de la central de monitoreo. Número de cámaras de videovigilancia operativas. Creación del registro de unidades de transporte público."
+          },
+          {
+            "problem": "Desorden en el desarrollo urbano, informalidad en la tenencia de la propiedad y una infraestructura vial deficiente.",
+            "objective": "Transformar el distrito a través de una planificación inteligente que formalice la propiedad, mejore las vías y brinde seguridad en la infraestructura.",
+            "goal": "Realizar el Catastro Municipal en todo el distrito, gestionar la entrega de Títulos de Propiedad y lograr el mejoramiento vial de las avenidas principales.",
+            "indicator": "Porcentaje de avance en la actualización del catastro municipal. Número de títulos de propiedad gestionados y entregados. Kilómetros de vías principales mejoradas."
+          },
+          {
+            "problem": "Percepción de burocracia, corrupción y una limitada participación de la ciudadanía en las decisiones de la gestión municipal.",
+            "objective": "Fomentar una gestión transparente y eficiente que luche contra la corrupción y promueva la participación activa de los ciudadanos en el desarrollo local.",
+            "goal": "Cumplir las metas de incentivos del MEF para obtener mayores recursos, ejecutar obras por Administración Directa para minimizar costos y fortalecer los mecanismos de participación ciudadana.",
+            "indicator": "Nivel de cumplimiento de las metas de incentivos del MEF. Número de obras ejecutadas por Administración Directa. Funcionamiento y nivel de participación en el Consejo de Coordinación Local Distrital (CCLD)."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-67m8JugiT4R1gNik_zctL7VnFn7OIgRQ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/67m8JugiT4R1gNik_zctL7VnFn7OIgRQ",
+      "sha256": "c6db9704be74e6125f699699defd48d61d4c3813661875c71d2329e08fbc2561",
+      "accessedAt": "2026-10-02T23:01:02.359Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020398",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020398",
+      "sha256": "84526a3749b4d31f893057233271d34a7260354674c568d881f270badc214b10",
+      "accessedAt": "2026-10-02T23:01:02.877Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

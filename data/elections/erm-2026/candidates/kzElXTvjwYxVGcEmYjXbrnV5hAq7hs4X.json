@@ -1,0 +1,162 @@
+{
+  "id": "kzElXTvjwYxVGcEmYjXbrnV5hAq7hs4X",
+  "slug": "yuri-luis-medina-barrios",
+  "electionId": "erm-2026",
+  "name": "Yuri Luis Medina Barrios",
+  "givenNames": "Yuri Luis",
+  "surnames": "Medina Barrios",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:55.819Z",
+      "sourceId": "jne-hv-kzElXTvjwYxVGcEmYjXbrnV5hAq7hs4X"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "DISEÑO Y COMUNICACION",
+        "program": "PROFESIONAL TÉCNICO EN DISEÑO PUBLICITARIO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD CATOLICA SEDES SAPIENTAE",
+        "program": "ESTUDIANTE DE ECONOMIA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "NTT DATA PERU",
+      "role": "UI DESIGNER",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DE POLITICA",
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "position": "SECRETARIO DISTRITAL DE COMUNICACION",
+      "party": "PARTIDO POLÍTICO PARTIDO MORADO",
+      "from": "2019",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO MORADO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 200000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/76015742-0c56-4405-a841-39a26604501d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f13fea0b-fc6a-46df-bf01-719261da8f67.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Crisis de delincuencia común y criminalidad organizada que vulnera la paz de las familias, junto a una alarmante impunidad por la inadecuada gestión de evidencias delictivas.",
+            "objective": "Implementar un sistema de seguridad inteligente y articulado que transforme el enfoque de reactivo a predictivo, unificando la vigilancia municipal y privada en una red interoperable para proteger la vida de los vecinos.",
+            "goal": "Desplegar y masificar una aplicación de alerta vecinal, instalar nodos de videovigilancia con inteligencia artificial, implementar una aplicación detectora de placas para vehículos policiales y de serenazgo, y crear un protocolo de evidencia digital para asegurar la cadena de custodia.",
+            "indicator": "Reducción del tiempo de respuesta operativa del Serenazgo. Porcentaje de vehículos con requisitoria detectados e interceptados. Incremento en el porcentaje de denuncias penales sustentadas con evidencia digital que logran prisión preventiva o sentencia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta tasa de informalidad laboral, subempleo juvenil y una centralización caótica de la actividad comercial que genera colapso en el transporte y la limpieza, afectando las economías familiares por la falta de un mercado interno dinámico.",
+            "objective": "Descentralizar la economía distrital mediante la generación de espacios de comercio formalizados y modernos, impulsando en paralelo la economía del conocimiento a través del talento tecnológico local.",
+            "goal": "Promover infraestructura comercial moderna en zonas de expansión, transformar la fiscalización en un ente promotor con acompañamiento técnico, lanzar una incubadora municipal de base tecnológica y ejecutar un programa de digitalización y competitividad para las mypes.",
+            "indicator": "Número de nuevos focos de desarrollo urbano habilitados en zonas de expansión. Porcentaje de micro y pequeños empresarios integrados al programa de formalización. Número de startups de base tecnológica graduadas por la incubadora municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Creciente brecha de infraestructura urbana, caracterizada por pistas y veredas destruidas o deterioradas, y una nula o escasa infraestructura vial y de servicios públicos en áreas de expansión.",
+            "objective": "Implementar una política territorial basada en la atracción de capitales y la optimización de recursos para pavimentar y modernizar los servicios básicos en las zonas con mayor carencia de infraestructura pública.",
+            "goal": "Ejecutar proyectos de infraestructura mediante Obras por Impuestos, estructurar Asociaciones Público-Privadas para la renovación del alumbrado público a tecnología LED y desarrollar proyectos de infraestructura y saneamiento a través del mecanismo de Proyectos en Activos.",
+            "indicator": "Kilómetros lineales de pistas y veredas construidas o renovadas. Porcentaje de calles y paraderos críticos con iluminación LED conectada a la red de monitoreo. Monto financiero anual ejecutado mediante Obras por Impuestos y Proyectos en Activos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Estructura burocrática municipal sobredimensionada, lenta y analógica, que ocasiona la dilución de un alto porcentaje del presupuesto en gasto corriente, dejando márgenes ineficientes para la inversión pública.",
+            "objective": "Liderar la transformación digital total de la institución y la reestructuración del aparato orgánico, rediseñando los procesos administrativos para automatizar la burocracia y reorientar el ahorro hacia los servicios al vecino.",
+            "goal": "Modificar el Reglamento de Organización y Funciones para fusionar áreas y reducir gerencias, adecuar los instrumentos de gestión de personal para optimizar las labores operativas, automatizar la entrega de licencias de funcionamiento y crear un Gabinete de Inteligencia de Datos para transparentar el uso del presupuesto.",
+            "indicator": "Porcentaje de reducción del gasto corriente administrativo con respecto al año base. Reducción del tiempo promedio para la obtención de licencias, permisos o la resolución de solicitudes administrativas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-kzElXTvjwYxVGcEmYjXbrnV5hAq7hs4X",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/kzElXTvjwYxVGcEmYjXbrnV5hAq7hs4X",
+      "sha256": "20d3f4f1e2972be201a8bd8c41f38d49645b18bac3c8ae6fedeccea53865b7eb",
+      "accessedAt": "2026-10-02T23:04:55.819Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021584",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021584",
+      "sha256": "1c5dadef583b84dea5e095ae9d84d1a8c3c7bc2c7903153b6030f7c7e9a9ba5e",
+      "accessedAt": "2026-10-02T23:04:56.358Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

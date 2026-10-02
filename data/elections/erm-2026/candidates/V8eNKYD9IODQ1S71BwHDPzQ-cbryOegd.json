@@ -1,0 +1,263 @@
+{
+  "id": "V8eNKYD9IODQ1S71BwHDPzQ-cbryOegd",
+  "slug": "josmell-absalon-munoz-barranzuela",
+  "electionId": "erm-2026",
+  "name": "Josmell Absalon Muñoz Barranzuela",
+  "givenNames": "Josmell Absalon",
+  "surnames": "Muñoz Barranzuela",
+  "age": 32,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:49.066Z",
+      "sourceId": "jne-hv-V8eNKYD9IODQ1S71BwHDPzQ-cbryOegd"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ISIL",
+        "program": "Marketing",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "Escuela de Negocios ISIL",
+        "program": "Marketing e Innovacion",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Real Marketing",
+      "role": "Gerente General",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "Universidad Nacional de Ingenieria",
+      "role": "Responsable de Comunicaciones del Vicerrectorado Academico",
+      "from": "2022",
+      "to": "2025"
+    },
+    {
+      "employer": "Estudios Falconi y Asociados",
+      "role": "Responsable de Redes Sociales, Sistemas y Web",
+      "from": "2016",
+      "to": "2020"
+    },
+    {
+      "employer": "Congreso de la Republica del Peru",
+      "role": "Asistente de Despacho",
+      "from": "2016",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 70480,
+        "public": 0,
+        "private": 70480
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 194224.14,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 4041.83,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 71909.68,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 4041.83,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "REAL MARKETING S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 250,
+        "value": 250
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7026930f-12b0-4ef2-8613-344c251fb767.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1aca7d5e-7499-48d0-a234-e22a42fc1b9b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente promoción y acceso a la práctica deportiva para el bienestar y la salud de los vecinos del distrito.",
+            "objective": "Masificar la práctica deportiva en el distrito mediante la implementación de escuelas, torneos y actividades recreativas.",
+            "goal": "Alcanzar los 15,000 participantes en programas deportivos durante la gestión.",
+            "indicator": "Número de participantes en programas deportivos."
+          },
+          {
+            "problem": "Limitadas oportunidades para que los jóvenes desarrollen habilidades demandadas por la economía digital actual.",
+            "objective": "Desarrollar habilidades para la economía digital en la población juvenil a través de programas de capacitación especializados.",
+            "goal": "Capacitar a 5,000 jóvenes en el Centro de Innovación Juvenil.",
+            "indicator": "Número de jóvenes capacitados en habilidades digitales."
+          },
+          {
+            "problem": "Creciente demanda de servicios de salud preventiva y dificultades de acceso a consultas médicas básicas para la población.",
+            "objective": "Mejorar la calidad de vida de los vecinos mediante programas innovadores de salud preventiva, facilitando el acceso a consultas médicas básicas a través de la tecnología.",
+            "goal": "Realizar 50,000 atenciones preventivas durante el periodo de gestión.",
+            "indicator": "Número de atenciones preventivas realizadas."
+          },
+          {
+            "problem": "Falta de infraestructura y programas que garanticen la igualdad de oportunidades para personas con discapacidad y otros grupos vulnerables.",
+            "objective": "Garantizar la igualdad de oportunidades mediante la creación de infraestructura accesible y programas de inclusión laboral.",
+            "goal": "Lograr que el 100% de los locales municipales sean accesibles.",
+            "indicator": "Porcentaje de locales municipales accesibles."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Carencia de programas de formación y asistencia técnica para los emprendedores y las micro y pequeñas empresas (MYPES) del distrito.",
+            "objective": "Brindar capacitación y asistencia técnica permanente para impulsar la competitividad de los emprendedores locales.",
+            "goal": "Capacitar a 5,000 emprendedores durante la gestión municipal.",
+            "indicator": "Número de emprendedores atendidos."
+          },
+          {
+            "problem": "Limitada promoción y aprovechamiento del patrimonio histórico y cultural, resultando en un bajo flujo turístico nacional e internacional.",
+            "objective": "Incrementar significativamente el flujo turístico nacional e internacional, posicionando a Pueblo Libre como un destino turístico inteligente.",
+            "goal": "Lograr un incremento del turismo en un 50% durante el periodo de gestión.",
+            "indicator": "Porcentaje de incremento del turismo."
+          },
+          {
+            "problem": "Exceso de trámites administrativos y burocracia que dificultan el inicio y desarrollo de actividades empresariales en el distrito.",
+            "objective": "Centralizar y simplificar todos los trámites empresariales en una sola plataforma para facilitar el crecimiento de los negocios locales.",
+            "goal": "Reducir los tiempos de atención en más del 70% a través de la Ventanilla Única Empresarial.",
+            "indicator": "Porcentaje de reducción en los tiempos de atención para trámites empresariales."
+          },
+          {
+            "problem": "Falta de oportunidades laborales estructuradas para la inserción de la población joven en el mercado de trabajo.",
+            "objective": "Facilitar la inserción laboral de los jóvenes mediante convenios empresariales, bolsas de trabajo y ferias de empleo.",
+            "goal": "Beneficiar a 3,000 jóvenes con el programa Primer Empleo Joven.",
+            "indicator": "Número de jóvenes beneficiados con programas de inserción laboral."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Carencia de capacidad municipal para la producción a escala de especies vegetales necesarias para el mantenimiento y mejora de los espacios públicos.",
+            "objective": "Implementar el primer biohuerto y la primera Escuela Vivero Municipal para la producción de árboles, arbustos y especies florales.",
+            "goal": "Acondicionar un área de 500 metros cuadrados para el biohuerto municipal.",
+            "indicator": "Superficie de biohuerto implementada."
+          },
+          {
+            "problem": "Deterioro y desactualización de los parques del distrito, afectando la calidad de vida y las oportunidades de esparcimiento para los vecinos.",
+            "objective": "Modernizar la totalidad de los parques del distrito, incorporando WiFi gratuito, cámaras de vigilancia, iluminación LED y juegos modernos.",
+            "goal": "Alcanzar el 100% de parques modernizados.",
+            "indicator": "Porcentaje de parques modernizados."
+          },
+          {
+            "problem": "Bajo nivel de reciclaje domiciliario y una gestión de residuos que depende del envío a rellenos sanitarios.",
+            "objective": "Incrementar significativamente el reciclaje domiciliario y promover una cultura de reducción de residuos en la comunidad.",
+            "goal": "Convertir a Pueblo Libre en un referente nacional de sostenibilidad urbana.",
+            "indicator": "Nivel de participación en programas de reciclaje."
+          },
+          {
+            "problem": "Deterioro del arbolado en las principales avenidas debido a la contaminación vehicular y la falta de mantenimiento especializado.",
+            "objective": "Implementar corredores verdes en las avenidas Bolívar, Sucre y Vivanco mediante la recuperación y fortalecimiento del arbolado existente.",
+            "goal": "Recuperar estéticamente las principales avenidas del distrito a través de la renovación de elementos paisajísticos y el manejo del arbolado.",
+            "indicator": "Número de corredores verdes intervenidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procedimientos municipales mayoritariamente manuales, burocráticos y presenciales, que generan demoras y costos administrativos elevados.",
+            "objective": "Transformar la municipalidad en una entidad moderna y eficiente mediante la digitalización integral de los servicios y trámites municipales.",
+            "goal": "Lograr que el 90% de los trámites municipales se realicen de manera virtual para el año 2030.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, manifestada en robos al paso, hurtos de vehículos, robos de autopartes y arrebatos a peatones.",
+            "objective": "Convertir a Pueblo Libre en el distrito más seguro de Lima Metropolitana mediante una estrategia de seguridad inteligente y comunitaria.",
+            "goal": "Reducir en un 40% los delitos contra el patrimonio y en un 50% los robos en espacios públicos.",
+            "indicator": "Tasa de delitos contra el patrimonio y tasa de robos en espacios públicos."
+          },
+          {
+            "problem": "Bajos niveles de recaudación y una alta tasa de morosidad en los tributos municipales, limitando la capacidad de inversión.",
+            "objective": "Incrementar la capacidad de inversión municipal mediante la optimización de la recaudación y la reducción de la morosidad.",
+            "goal": "Incrementar entre 15% y 25% la recaudación predial y reducir la morosidad en un 40%.",
+            "indicator": "Porcentaje de incremento de la recaudación predial y porcentaje de reducción de la morosidad."
+          },
+          {
+            "problem": "Insuficiente sistema de catastro, que se encuentra desactualizado y no integrado, dificultando la planificación urbana y la fiscalización tributaria.",
+            "objective": "Modernizar completamente el sistema catastral del distrito mediante su georreferenciación, fotogrametría y actualización automatizada.",
+            "goal": "Implementar el programa Catastro Digital Inteligente para la modernización completa del sistema catastral.",
+            "indicator": "Porcentaje de actualización del catastro distrital."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-V8eNKYD9IODQ1S71BwHDPzQ-cbryOegd",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/V8eNKYD9IODQ1S71BwHDPzQ-cbryOegd",
+      "sha256": "e7bc810dbe1e3414b6160ae93bf501be888f2d349245767ecf1445d3ad199678",
+      "accessedAt": "2026-10-02T23:00:49.066Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015426",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015426",
+      "sha256": "9b278a739545c0ba42eacec22535392bc605b3b08d5a5e737ee9b26fddbd3961",
+      "accessedAt": "2026-10-02T23:00:49.538Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

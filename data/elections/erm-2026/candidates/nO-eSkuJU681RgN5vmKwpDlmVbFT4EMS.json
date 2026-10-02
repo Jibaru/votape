@@ -1,0 +1,217 @@
+{
+  "id": "nO-eSkuJU681RgN5vmKwpDlmVbFT4EMS",
+  "slug": "claudio-rodriguez-mansilla",
+  "electionId": "erm-2026",
+  "name": "Claudio Rodriguez Mansilla",
+  "givenNames": "Claudio",
+  "surnames": "Rodriguez Mansilla",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:56.895Z",
+      "sourceId": "jne-hv-nO-eSkuJU681RgN5vmKwpDlmVbFT4EMS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA LOS ANGELES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "estudio jurido claudio",
+      "role": "abogado litigante",
+      "from": "2014",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO FUERZA MODERNA",
+      "year": "2025"
+    },
+    {
+      "party": "PACTO NACIONAL",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 0,
+        "private": 60000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "terreno",
+        "value": 234,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "terreno",
+        "value": 782,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "casa",
+        "value": 56238.53,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "kia soluto 2025",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "mis ingresos registrados son con relacion a mis trabajos de asesoria juridica (independiente)"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/78de2b7d-515f-4267-b2a8-c7e41c1ef8c7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2af01af5-c788-4372-8cb2-bc5ee533f380.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de agua potable y alcantarillado en zonas urbanas y rurales.",
+            "objective": "Alcanzar una cobertura óptima de agua potable y reducir de forma drástica la falta de alcantarillado",
+            "goal": "Alcanzar una cobertura de agua potable superior al 90%. Reducir en 50% la población sin acceso a alcantarillado.",
+            "indicator": "Cobertura de agua potable en el distrito. Población sin acceso a alcantarillado reducida."
+          },
+          {
+            "problem": "Infraestructura educativa insuficiente y deteriorada.",
+            "objective": "Gestionar la construcción, mejoramiento y reducción de brechas en instituciones educativas.",
+            "goal": "Reducir en 30% la brecha de infraestructura educativa al año 2030.",
+            "indicator": "Brecha de infraestructura educativa reducida."
+          },
+          {
+            "problem": "Insuficiente infraestructura vial y peatonal.",
+            "objective": "Reducir la población sin acceso adecuado a pavimentación, mejorando la transitabilidad urbana.",
+            "goal": "Reducir en 50% la población sin acceso adecuado a pistas y veredas.",
+            "indicator": "Población sin acceso adecuado a pistas y veredas reducida."
+          },
+          {
+            "problem": "Deficiente cobertura y equipamiento de establecimientos de salud.",
+            "objective": "Gestionar la implementación y equipamiento de nuevos establecimientos de salud de primer nivel.",
+            "goal": "Reducir en 25% la brecha de equipamiento de establecimientos de salud.",
+            "indicator": "Brecha de equipamiento de establecimientos de salud reducida."
+          },
+          {
+            "problem": "Sectores sin cobertura adecuada de video vigilancia y limitado equipamiento del serenazgo.",
+            "objective": "Reducir las zonas desprotegidas e implementar sistemas integrados y tecnológicos de video vigilancia.",
+            "goal": "Reducir en 50% los sectores sin vigilancia adecuada. Implementación progresiva de 500 Cámaras de Seguridad.",
+            "indicator": "Sectores sin vigilancia adecuada reducidos. Cámaras de seguridad implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada generación de empleo formal para jóvenes y mujeres.",
+            "objective": "Promover la economía local para atraer inversión privada y generar empleo sostenible para jóvenes y adultos mayores.",
+            "goal": "Priorización de la población juvenil y vulnerable en la inserción al empleo local.",
+            "indicator": "Empleos locales generados dentro del Distrito."
+          },
+          {
+            "problem": "Alto nivel de informalidad comercial y empresarial.",
+            "objective": "Promover la formalización empresarial en el distrito mediante incentivos fiscales y reubicación ordenada.",
+            "goal": "Formalización y reubicación del comercio informal en mercados organizados y limpios.",
+            "indicator": "Campañas y políticas de formalización ejecutadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiencia de áreas verdes y espacios públicos en el Distrito.",
+            "objective": "Incrementar los espacios públicos verdes y realizar reforestación masiva en avenidas, parques y laderas.",
+            "goal": "Incrementar en 30% los espacios públicos verdes al año 2030.",
+            "indicator": "Espacios públicos verdes incrementados."
+          },
+          {
+            "problem": "Contaminación ambiental por manejo inadecuado de residuos sólidos.",
+            "objective": "Implementar un sistema integral de reciclaje, valorización de residuos y clausura de rellenos sanitarios.",
+            "goal": "Implementación de la Planta de composta y reciclaje Distrital (Planta de Valorización).",
+            "indicator": "Planta de composta/reciclaje y sistema de valorización."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil gobierno digital y limitada modernización.",
+            "objective": "Modernizar la gestión pública mediante la digitalización de procesos administrativos municipales.",
+            "goal": "Digitalizar el 100% de los principales trámites municipales.",
+            "indicator": "Trámites municipales principales digitalizados."
+          },
+          {
+            "problem": "Baja participación ciudadana en los procesos de decisión y desconfianza",
+            "objective": "Hacer de la administración municipal una gestión eficiente que faculte e impulse la participación y el control del vecino.",
+            "goal": "Institucionalizar la aplicación de indicadores de gestión integrales al alcance de la comunidad.",
+            "indicator": "Realización de cabildos abiertos y mecanismos de fiscalización."
+          },
+          {
+            "problem": "Deficiencias en conectividad digital y telecomunicaciones",
+            "objective": "Gestionar la ampliación de cobertura e implementar centros de acceso digital de carácter municipal.",
+            "goal": "Implementar al menos un Centro de Acceso Digital Municipal.",
+            "indicator": "Centros de Acceso Digital Municipal implementados"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-nO-eSkuJU681RgN5vmKwpDlmVbFT4EMS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/nO-eSkuJU681RgN5vmKwpDlmVbFT4EMS",
+      "sha256": "81b0018bb83034622a1600904832136d3994008a38d0a9db16304af3db42ede7",
+      "accessedAt": "2026-10-02T22:52:56.895Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020838",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020838",
+      "sha256": "680f344aced5cd11a353c5c40c57a50abbe2528cae226049edf684520846804c",
+      "accessedAt": "2026-10-02T22:52:57.426Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

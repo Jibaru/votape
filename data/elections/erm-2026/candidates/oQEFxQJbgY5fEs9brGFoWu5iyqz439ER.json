@@ -1,0 +1,205 @@
+{
+  "id": "oQEFxQJbgY5fEs9brGFoWu5iyqz439ER",
+  "slug": "oswaldo-martin-moreno-rivera",
+  "electionId": "erm-2026",
+  "name": "Oswaldo Martin Moreno Rivera",
+  "givenNames": "Oswaldo Martin",
+  "surnames": "Moreno Rivera",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:54.701Z",
+      "sourceId": "jne-hv-oQEFxQJbgY5fEs9brGFoWu5iyqz439ER"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INSTITUTO DE LA CALIDAD AMBIENTAL",
+        "program": "TECNICO EN SEGURIDAD, SALUD OCUPACIONAL Y MEDIO AMBIENTE",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "ADMINISTRACION",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "AG BUSINESS SOURCING E.I.R.L.",
+      "role": "RELACIONES COMUNITARIAS",
+      "from": "2025",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 2260,
+        "public": 0,
+        "private": 2260
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b3cc62fd-1fa6-49ad-ae88-2276550c3cdd.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e87f7528-aad4-45d5-a80e-9ae1f0ab94f9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de infraestructura urbana básica, evidenciado en veredas en mal estado y 26 edificaciones en riesgo muy alto según Defensa Civil.",
+            "objective": "Recuperar y mejorar la infraestructura urbana garantizando la accesibilidad universal.",
+            "goal": "Al 2030, lograr la rehabilitación del 100% de las veredas críticas, ejecutar medidas de mitigación en el 60% de las edificaciones de muy alto riesgo y alcanzar una adopción del 60% del tablero digital por parte de los residentes.",
+            "indicator": "Kilómetros de pistas y veredas rehabilitadas, número de módulos de Serenazgo y porcentaje de vecinos que usan el tablero digital de seguimiento de obras."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, con una tasa de 19.7 denuncias por cada mil habitantes, siendo una prioridad alta en todas las zonas del distrito.",
+            "objective": "Garantizar la seguridad ciudadana integral mediante prevención, tecnología y coproducción vecinal.",
+            "goal": "Reducir la tasa de delitos denunciados en un 15% en las zonas intervenidas (Z1, Z2, Z4, Z6, Z7 y Z8).",
+            "indicator": "Tasa delictiva en zonas con patrullaje predictivo, número de alertas de inteligencia artificial atendidas por mes y tiempo de respuesta del Serenazgo."
+          },
+          {
+            "problem": "Violencia contra la mujer, niñez y grupo familiar, con más de 2,440 denuncias anuales y una priorización máxima por parte del CODISEC, concentrada en las Zonas 1 y 9.",
+            "objective": "Eliminar la violencia contra la mujer, la niñez y el grupo familiar.",
+            "goal": "Implementar 4 centros de escucha en las zonas de mayor vulnerabilidad (S1, S7, S8 y S9), logrando 2,000 atenciones para el año 2027.",
+            "indicator": "Número de centros de escucha operativos, tasa de violencia familiar (denuncias por cada 1,000 habitantes) y número de casos atendidos mensualmente."
+          },
+          {
+            "problem": "Persistencia de la anemia infantil, que afecta al 16.5% de los niños de 6 a 35 meses, y de la desnutrición crónica, que alcanza al 5.8% de los menores de 5 años.",
+            "objective": "Reducir la malnutrición infantil y mejorar el acceso a salud preventiva en sectores vulnerables.",
+            "goal": "Al 2030, lograr un tiempo de primera respuesta menor a 5 minutos en el 90% de los casos de emergencia cardiovascular.",
+            "indicator": "Número de DEAs instalados, número de personal certificado en RCP-SVB y tiempo promedio de primera respuesta en emergencia cardiovascular."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado desarrollo del turismo, ya que solo el 10% de las vías principales está orientado a esta actividad y no existe una ruta turística distrital consolidada.",
+            "objective": "Desarrollar el turismo distrital y la identidad cultural como motor económico sostenible.",
+            "goal": "Consolidar a Surco Pueblo como destino turístico-cultural de Lima Sur, alcanzando 5,000 visitantes mensuales para el 2029.",
+            "indicator": "Número de festivales al año, número de visitantes a Surco Pueblo mensualmente y número de alumnos en la Escuela Municipal de Arte."
+          },
+          {
+            "problem": "Comercio informal y débil formalización, con 17,528 intervenciones del Serenazgo en 2018 y solo un 20% de los comerciantes informales recibiendo orientación.",
+            "objective": "Fomentar el emprendimiento formal, la innovación y el empleo local de calidad.",
+            "goal": "Recuperar el 50% del espacio público en las Zonas 1, 2, 3, 8 y 9.",
+            "indicator": "Número de intervenciones de fiscalización exitosas, porcentaje de recuperación y mantenimiento de espacios públicos, y número de zonas críticas liberadas de comercio informal."
+          },
+          {
+            "problem": "Limitado desarrollo de emprendimientos en las Zonas 2, 7, 8 y 9, con un Coworking Municipal que opera como espacio pasivo sin programas de capacitación.",
+            "objective": "Fomentar el emprendimiento formal, la innovación y el empleo local de calidad.",
+            "goal": "Al 2030, consolidar el Coworking como Hub de Innovación de Lima Sur, con 2,500 profesionales en su red de contactos.",
+            "indicator": "Número de usuarios certificados en capacitaciones, número de eventos de networking al año y volumen estimado de alianzas o contratos iniciados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente sistema de transporte, con 18 vías congestionadas, solo 12.65 km de ciclovías y más del 40% de paraderos informales en avenidas principales.",
+            "objective": "Desarrollar una movilidad urbana sostenible, integrada y libre de informalidad vial.",
+            "goal": "Construir 25 km de ciclovías continuas que integren los principales polos del distrito.",
+            "indicator": "Kilómetros de ciclovías construidas, porcentaje de reducción de la congestión en corredores y número de paraderos informales removidos."
+          },
+          {
+            "problem": "Alta vulnerabilidad ante desastres, con 6 zonas críticas sísmicas que exponen a 68,779 habitantes y solo un 21.78% de la población con capacidad de respuesta.",
+            "objective": "Reducir la vulnerabilidad de la población ante desastres sísmicos e incendios urbanos.",
+            "goal": "Lograr la operatividad de una red completa de 3 albergues con una capacidad total de 1,500 personas, cubriendo las zonas de mayor riesgo al 2030.",
+            "indicator": "Número de refugios operativos, capacidad total de acogida en personas y porcentaje de la población capacitada en Gestión del Riesgo de Desastres (GRD)."
+          },
+          {
+            "problem": "Insuficientes áreas verdes por habitante, con un promedio de 6.74 m²/hab, por debajo del estándar de 9 m²/hab recomendado por la OMS.",
+            "objective": "Ampliar las áreas verdes del distrito hasta alcanzar el estándar de la Organización Mundial de la Salud de 9 m²/hab.",
+            "goal": "Alcanzar un 80% de áreas verdes con riego tecnificado y una reducción del 40% del gasto en agua potable para riego.",
+            "indicator": "Metros cuadrados por habitante de áreas verdes, porcentaje de áreas verdes con riego tecnificado, número de árboles nativos plantados y porcentaje de reducción del gasto de agua potable."
+          },
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, donde solo el 2.6% de los residuos domiciliarios son reciclados, frente a una meta del 100%.",
+            "objective": "Lograr la gestión integral de residuos sólidos con segregación en fuente y valorización.",
+            "goal": "Alcanzar 10,000 vecinos con puntos activos en el sistema de incentivos verdes para el año 2030.",
+            "indicator": "Número de estaciones de reciclaje inteligente, número de vecinos con puntos activos y número de recicladores formalizados con rutas asignadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Crecimiento de obras sin licencia del 23% en 2018 al 63% en 2022, y otorgamiento de licencias de construcción que incumplen la zonificación e ignoran la identidad arquitectónica local.",
+            "objective": "Ordenar el crecimiento urbano mediante el control efectivo de licencias y zonificación.",
+            "goal": "Reducir en un 50% las nuevas obras informales respecto a la línea base de 2022 para el año 2030.",
+            "indicator": "Porcentaje de obras con licencia, tiempo de resolución de licencias comerciales y número de infracciones urbanísticas detectadas y sancionadas."
+          },
+          {
+            "problem": "Falta de tecnología y digitalización en los servicios municipales, lo que genera trámites presenciales sin plazos garantizados y fomenta la percepción de corrupción.",
+            "objective": "Modernizar y digitalizar la gestión municipal para una atención transparente y eficiente.",
+            "goal": "Alcanzar una satisfacción ciudadana con la atención municipal superior al 85% para el año 2030.",
+            "indicator": "Porcentaje de trámites disponibles en la aplicación móvil, tiempo de resolución de licencias en horas, porcentaje de obras con licencia y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Débil articulación intergubernamental, evidenciada por la ejecución de solo dos proyectos en convenio con otras entidades en 2016, sin seguimiento posterior.",
+            "objective": "Fortalecer la articulación intergubernamental para abordar problemas que exceden la competencia distrital.",
+            "goal": "Alcanzar 10 convenios institucionales vigentes para el año 2029.",
+            "indicator": "Número de convenios institucionales vigentes para la conservación de áreas verdes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-oQEFxQJbgY5fEs9brGFoWu5iyqz439ER",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/oQEFxQJbgY5fEs9brGFoWu5iyqz439ER",
+      "sha256": "10eb3b91dba95cdea1973e0f3ca2fe778e1640b3f1c3960f46b9ffb105b92219",
+      "accessedAt": "2026-10-02T23:05:54.701Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021684",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021684",
+      "sha256": "44c26c0df4984555617cdd000051f31601e932b6408f6aee8d369b5f11994248",
+      "accessedAt": "2026-10-02T23:05:55.340Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

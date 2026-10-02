@@ -1,0 +1,274 @@
+{
+  "id": "zmw04ZECQEGOlSr47sVGsT36qDw5dpUp",
+  "slug": "henry-hernan-herrera-aleman",
+  "electionId": "erm-2026",
+  "name": "Henry Hernan Herrera Aleman",
+  "givenNames": "Henry Hernan",
+  "surnames": "Herrera Aleman",
+  "age": 44,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:02.111Z",
+      "sourceId": "jne-hv-zmw04ZECQEGOlSr47sVGsT36qDw5dpUp"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "INGENIERO INDUSTRIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada del Norte S.A.C.",
+        "program": "BACHILLER EN INGENIERIA INDUSTRIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "GERENTE DE ADMINISTRACION Y FINANZAS",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "TECNICO EN FINANZAS",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "TECNICO EN FINANZAS",
+      "from": "2017",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 150000,
+        "public": 150000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 138424.99,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "KIA SONET - COLOR GRIS GRAVEDAD",
+        "value": 62000
+      },
+      {
+        "type": "MG RX5 - COLOR BLANCO",
+        "value": 66150
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/82eeaa9c-68d8-4be9-9f3a-24aadf7948cf.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d41d249e-d8ec-472a-9f00-309d19ec2819.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad Ciudadana en el distrito.",
+            "objective": "Implementar una estrategia integral para reducir la delincuencia, que incluye la creación de infraestructura de seguridad, capacitación de personal, fortalecimiento logístico, uso de tecnología como drones y plataformas inteligentes, y programas de prevención social.",
+            "goal": "Implementar un destacamento por sector, capacitar al 100% de los operadores, disminuir en 50% las incidencias delictivas, implementar 12 drones y fortalecer las juntas vecinales en un 75%.",
+            "indicator": "Número de Destacamentos, Porcentaje de Operadores capacitados, Porcentaje de disminución de incidencias delictivas, Número de Drones, Porcentaje de implementación de programas."
+          },
+          {
+            "problem": "Deficiente servicio de limpieza pública y manejo de residuos.",
+            "objective": "Mejorar la gestión de residuos sólidos a través del reordenamiento de la frecuencia de recolección, la adquisición de nuevos camiones y la promoción del reciclaje.",
+            "goal": "Optimizar el horario de recojo de residuos, adquirir 2 camiones recolectores y aumentar en 5% el porcentaje de vecinos que reciclan.",
+            "indicator": "Actividades de optimización, Número de camiones recolectores, Porcentaje de vecinos que cumplen la norma de reciclaje."
+          },
+          {
+            "problem": "Deficiente acceso a servicios básicos como agua, gas y alumbrado público.",
+            "objective": "Gestionar la construcción y mejora de la infraestructura de servicios básicos, incluyendo pozos de agua, redes de tuberías, redes de gas natural a domicilio y postes de alumbrado público.",
+            "goal": "Gestionar la construcción de 3 pozos de distribución, el cambio del 20% de tuberías, la instalación de gas natural para 1000 viviendas y la instalación de 200 nuevos postes de alumbrado.",
+            "indicator": "Número de pozos construidos, Porcentaje de tuberías cambiadas, Número de usuarios con acceso a gas natural, Número de postes de alumbrado instalados."
+          },
+          {
+            "problem": "Abandono de la cultura y del patrimonio histórico-cultural.",
+            "objective": "Revitalizar la vida cultural del distrito mediante el mejoramiento de eventos tradicionales, la construcción de espacios culturales, la recuperación del patrimonio y la creación de programas de difusión cultural.",
+            "goal": "Aumentar en 25% la participación de empresas, implementar una Plaza Cultural, recuperar en un 20% la Huaca La Lechuza y realizar actividades culturales periódicas en los parques.",
+            "indicator": "Porcentaje de empresas participantes, Número de plazas culturales, Porcentaje de recuperación del patrimonio, Frecuencia de actividades culturales."
+          },
+          {
+            "problem": "Deficiente acceso a la educación y capacitación.",
+            "objective": "Ampliar el acceso a la educación y tecnología a través de la alfabetización digital, la creación de un colegio municipal, la oferta de carreras técnicas y la colaboración con instituciones educativas superiores.",
+            "goal": "Crear 5 centros de cómputo, implementar un colegio municipal y celebrar convenios con 3 institutos técnicos y 2 universidades.",
+            "indicator": "Número de centros de cómputo, Número de colegios, Número de convenios realizados."
+          },
+          {
+            "problem": "Deficiente acceso a la salud.",
+            "objective": "Mejorar el acceso a los servicios de salud mediante la creación de farmacias municipales y centros médicos de primer nivel, así como la implementación de programas de salud preventiva.",
+            "goal": "Crear 3 farmacias municipales, 2 centros médicos de Nivel 1 y realizar 2 campañas anuales del programa \"Chorrillos te Protege\".",
+            "indicator": "Número de farmacias creadas, Número de Centros Médicos de Nivel 1, Frecuencia de acciones de salud."
+          },
+          {
+            "problem": "Violencia generalizada y violencia de género.",
+            "objective": "Promover el empoderamiento ciudadano y la inserción laboral de la mujer para combatir la violencia, a través de programas de difusión de derechos y proyectos de capacitación técnica.",
+            "goal": "Alcanzar un alto empoderamiento mediante la difusión de normatividad y aumentar en 5% la inserción laboral de la mujer mediante cursos técnicos.",
+            "indicator": "Nivel de empoderamiento, Tasa de inserción laboral."
+          },
+          {
+            "problem": "Abandono del deporte y falta de infraestructura deportiva.",
+            "objective": "Fomentar la práctica deportiva mediante la construcción de un polideportivo municipal, la creación de un centro de alto rendimiento, la implementación de ligas deportivas y la organización de olimpiadas interbarrios e interescolares.",
+            "goal": "Edificar al 100% el polideportivo, implementar al 100% las ligas deportivas y ejecutar al 100% las olimpiadas y el centro de alto rendimiento.",
+            "indicator": "Porcentaje de edificación, Porcentaje de implementación, Porcentaje de ejecución."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo nivel de desarrollo de las Mypes, Pymes y comercio informal.",
+            "objective": "Impulsar el desarrollo económico local convirtiendo a la municipalidad en un ente promotor, simplificando trámites, fomentando la formalización, ordenando el comercio y apoyando a los pequeños y medianos empresarios.",
+            "goal": "Lograr un crecimiento del 15% del empleo, incrementar en 20% el otorgamiento de licencias, disminuir en 5% el comercio informal, ordenar 10 espacios públicos y crear 3 ferias comerciales.",
+            "indicator": "Porcentaje de crecimiento del empleo, Porcentaje de licencias otorgadas, Porcentaje de informalidad, Número de espacios públicos ordenados, Número de Ferias Comerciales."
+          },
+          {
+            "problem": "Inexistencia de la actividad turística.",
+            "objective": "Promover y desarrollar el turismo en el distrito poniendo en valor los vectores turísticos de sol y playa, deportivo, ecológico, histórico, gastronómico, cultural y folklórico.",
+            "goal": "Realizar una actividad por cada vector turístico.",
+            "indicator": "Número de actividades."
+          },
+          {
+            "problem": "Déficit de infraestructura para el desarrollo.",
+            "objective": "Ejecutar la construcción de obras e infraestructura prioritaria, buscando financiamiento público-privado para su creación.",
+            "goal": "Elaborar proyectos de inversión pública para un polideportivo, ampliación de la Av. El Sol, 20 km de pistas, 30 km de veredas, entre otros, y realizar una convocatoria al sector empresarial para la ejecución de obras.",
+            "indicator": "Obra ejecutada, Convocatoria por obra."
+          },
+          {
+            "problem": "Bajos niveles de inversión en el sector comercial, hotelero, gastronómico e industrial.",
+            "objective": "Fomentar el desarrollo de los sectores productivos mediante el diseño de estrategias conjuntas con el sector privado y la creación de un Centro Empresarial Financiero.",
+            "goal": "Realizar una convocatoria por sector del empresariado para promover la inversión y crear un centro financiero empresarial.",
+            "indicator": "Convocatoria por sector, Número de centros financieros."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Pocos espacios públicos, áreas verdes y de recreación.",
+            "objective": "Crear y mejorar los parques del distrito para incrementar las áreas verdes y los espacios de esparcimiento para los vecinos.",
+            "goal": "Implementar un Parque Ecológico, crear 5 parques temáticos y un Parque Zonal en Chorrillos.",
+            "indicator": "Número de Parques Ecológicos implementados, Número de parques temáticos implementados, Cantidad de parques zonales."
+          },
+          {
+            "problem": "Falta de educación medioambiental en la población.",
+            "objective": "Fomentar la conciencia ambiental a través del desarrollo de proyectos emblemáticos como el \"Pulmón de Chorrillos\" y la implementación de un plan de concientización y preservación.",
+            "goal": "Crear un bosque en la zona de La Chira y concientizar en un 20% a los vecinos de Chorrillos.",
+            "indicator": "Número de bosques, Porcentaje de vecinos capacitados."
+          },
+          {
+            "problem": "Descuido y mal uso de áreas verdes y ornato público.",
+            "objective": "Promover la participación de empresas e instituciones privadas en el cuidado y mantenimiento de las áreas verdes y el ornato del distrito.",
+            "goal": "Lograr la adopción de una cuadra por parte de empresas e instituciones privadas para ayudar en su conservación.",
+            "indicator": "Número de cuadras adoptadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Instrumentos de Gestión desactualizados.",
+            "objective": "Modernizar la gestión municipal mediante la actualización de todos los instrumentos de gestión, la modificación de la estructura orgánica y la digitalización de documentos y procesos.",
+            "goal": "Actualizar el 100% de los instrumentos, implantar el 100% de las modificaciones normativas, adecuar el 100% de los planes de gestión y digitalizar el 80% de la documentación y procesos.",
+            "indicator": "Porcentaje de instrumentos actualizados, Porcentaje de modificaciones, Porcentaje de adecuación de planes, Porcentaje de digitalización."
+          },
+          {
+            "problem": "Ausencia de participación ciudadana en la gestión.",
+            "objective": "Fomentar la intervención de la ciudadanía en los asuntos municipales a través de la creación de un Consejo de Promoción y Participación Ciudadana.",
+            "goal": "Lograr la participación del 20% de la ciudadanía organizada.",
+            "indicator": "Porcentaje de participación."
+          },
+          {
+            "problem": "Falta de transparencia en la Gestión Municipal.",
+            "objective": "Incrementar la transparencia y combatir la corrupción fortaleciendo los esquemas de presupuesto participativo, rendición de cuentas, implementando políticas anticorrupción y actualizando el portal de transparencia.",
+            "goal": "Realizar dos rendiciones de cuentas al año, cumplir al 100% con las políticas anticorrupción, obtener la certificación ISO 37001 y actualizar al 100% el portal de transparencia.",
+            "indicator": "Número de rendiciones de cuenta, Porcentaje de cumplimiento de políticas anticorrupción, Certificación de Calidad, Porcentaje de actualización del portal."
+          },
+          {
+            "problem": "Institución municipal no acorde con los avances tecnológicos.",
+            "objective": "Modernizar tecnológicamente la municipalidad mediante la adquisición de equipos y software de última generación, y la capacitación del personal para asumir nuevos retos productivos.",
+            "goal": "Cubrir el 80% de las necesidades de equipos y licencias de software, y capacitar al 100% del personal administrativo.",
+            "indicator": "Porcentaje de equipamiento, Porcentaje de capacitación."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zmw04ZECQEGOlSr47sVGsT36qDw5dpUp",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zmw04ZECQEGOlSr47sVGsT36qDw5dpUp",
+      "sha256": "a58d2558f370c4ce284d8f24f422bf2524d5e531a74405eb539348bfec705280",
+      "accessedAt": "2026-10-02T22:54:02.111Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018907",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018907",
+      "sha256": "217c00e90a685067780ec931488850d53e16429405375286547152318887175f",
+      "accessedAt": "2026-10-02T22:54:02.620Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

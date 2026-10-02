@@ -1,0 +1,284 @@
+{
+  "id": "OLH5-AviBTROdQxqXyIj5jDZcTi9xBSj",
+  "slug": "daniel-martin-amaya-carranza",
+  "electionId": "erm-2026",
+  "name": "Daniel Martin Amaya Carranza",
+  "givenNames": "Daniel Martin",
+  "surnames": "Amaya Carranza",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:57.034Z",
+      "sourceId": "jne-hv-OLH5-AviBTROdQxqXyIj5jDZcTi9xBSj"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INSTITUTO SAN IGNACIO DE LOYOLA",
+        "program": "ADMINISTRACIÓN DE EMPRESAS",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "ESTUDIANTE DE ADMINISTRACIÓN Y RECURSOS HUMANOS",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "FUNDACIÓN CALMA",
+      "role": "PRESIDENTE",
+      "from": "2015",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PODEMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 153667.92,
+        "public": 33667.92,
+        "private": 120000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 542400,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/59734f38-6560-47ab-826e-490240ce8bd3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/224a4404-225b-489f-b208-8e6afdae55bb.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Poca educación sobre la tenencia responsable de mascotas, lo que contraviene la Ley de Protección y Bienestar Animal.",
+            "objective": "Garantizar el respeto y la protección de los animales, promoviendo una convivencia armónica y responsable. Se adecuarán espacios exclusivos en parques y se implementarán programas veterinarios para el cuidado integral de las mascotas.",
+            "goal": "Implementar un programa integral de bienestar de las mascotas durante el 2027, que asegure su cuidado integral a través de adopción responsable, atención médica básica y voluntariado.",
+            "indicator": "Número de mascotas atendidas por servicios municipales, cantidad de adopciones responsables realizadas, número de voluntarios inscritos, campañas anuales ejecutadas e implementación de espacios para uso exclusivo de mascotas."
+          },
+          {
+            "problem": "Los adultos mayores son propensos al deterioro de su salud física y mental, requiriendo espacios adecuados para una calidad de vida digna e integración social.",
+            "objective": "Aprobar programas para fomentar el crecimiento espiritual, la salud mental y el acompañamiento digno de los adultos mayores.",
+            "goal": "Implementar el Centro Municipal de Bienestar Emocional en beneficio de los vecinos durante el año 2027.",
+            "indicator": "Número de personas atendidas en salud emocional, cantidad de actividades organizadas para adultos mayores, número de congregaciones participando en la mesa interreligiosa y cantidad de beneficiarios activos en el programa espiritual y emocional."
+          },
+          {
+            "problem": "Acceso limitado a instalaciones para la práctica de deporte y recreación en el distrito, a pesar de la alta demanda de la población por realizar actividad física.",
+            "objective": "Promover el deporte como herramienta de salud e integración comunitaria, construyendo un coliseo deportivo municipal y otros espacios polideportivos. Se fomentarán actividades físicas gratuitas, programas de nutrición y becas deportivas.",
+            "goal": "Ejecutar el plan “Muévete Pueblo Libre”, previa consulta ciudadana para conocer las necesidades de la población a través de encuestas virtuales.",
+            "indicator": "Número de vecinos inscritos en programas deportivos, cantidad de actividades realizadas al mes, reducción del sedentarismo, porcentaje de avance en la construcción de infraestructuras deportivas y encuestas sobre necesidades de espacios deportivos."
+          },
+          {
+            "problem": "Infraestructura urbana deficiente y falta de recuperación de espacios públicos, evidenciado por el incumplimiento en la programación de inversiones y la necesidad de construir nuevos estacionamientos.",
+            "objective": "Establecer planes de mantenimiento y modernización de la infraestructura urbana a través de asociaciones público-privadas y obras por impuestos, incluyendo estacionamientos subterráneos, ciclovías, y mejoras en la accesibilidad para personas con discapacidad y adultos mayores.",
+            "goal": "Ejecutar al 100% el Plan “Infraestructura de primera” para el año 2030, junto con la implementación de los planes “Pueblo Libre Hueco Cero” y “Pueblo Libre Fluye”.",
+            "indicator": "Kilómetros de pistas y veredas renovadas, cantidad de estacionamientos construidos, tiempo medio de mantenimiento arbóreo, mejora del ornato en zonas descuidadas y medición de la contaminación del aire."
+          },
+          {
+            "problem": "Inseguridad ciudadana en aumento en el distrito de Pueblo Libre, con una alta percepción de inseguridad y un número considerable de denuncias por delitos contra el patrimonio, la vida y la salud.",
+            "objective": "Implementar un plan de patrullaje preventivo basado en inteligencia artificial y mapas de calor, un plan antiextorsión concertado con el sector privado y la policía, y una central tecnológica de monitoreo. Se contempla el uso de financiamiento público-privado para equipamiento, la modernización de comisarías y el entrenamiento profesional del serenazgo.",
+            "goal": "Reducir en al menos un 90% los índices de robo, hurto y extorsión durante el período 2027-2030, mediante la implementación del Plan “Pueblo Libre 360”.",
+            "indicator": "Reducción porcentual anual de delitos, tiempo de respuesta del serenazgo, porcentaje de calles con cobertura de cámaras inteligentes y número de zonas intervenidas por cuadrantes activos."
+          },
+          {
+            "problem": "Formación deficiente en valores cívicos e identidad desde la etapa escolar, lo que limita el desarrollo personal y profesional de los ciudadanos.",
+            "objective": "Fomentar los valores cívicos y la conciencia de colectividad desde el municipio, promoviendo el desarrollo espiritual, el contacto social y la cooperación. Se establecerán programas de educación sobre bienestar psicológico y emocional.",
+            "goal": "Implementar el Plan “Pueblo Libre con valores, espiritual y con bienestar emocional” en el distrito para el año 2030.",
+            "indicator": "Convenios con centros educativos, número de alumnos alcanzados por los programas, proyectos ejecutados en cooperación con universidades y fomento de valores a través de charlas y redes sociales."
+          },
+          {
+            "problem": "Infraestructura institucional y pública inadecuada para personas con discapacidad, afectando al 11.2% de la población del distrito y limitando la accesibilidad y el diseño inclusivo.",
+            "objective": "Implementar una estrategia de política pública transversal para la adecuación de la infraestructura pública, garantizando la accesibilidad para personas con discapacidad.",
+            "goal": "Ejecutar el Plan “Pueblo Libre accesible” durante el 2027, dirigido a personas con discapacidad.",
+            "indicator": "Porcentaje de infraestructura pública adecuada para personas con discapacidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ausencia de una cultura tributaria y desconfianza en el uso de los recursos, lo que podría generar morosidad entre los administrados.",
+            "objective": "Fortalecer la cultura tributaria en el distrito.",
+            "goal": "Incrementar al 95% la cultura tributaria de los administrados del distrito para el año 2028.",
+            "indicator": "Porcentaje de efectividad de la recaudación tributaria."
+          },
+          {
+            "problem": "Ausencia de un Plan de Desarrollo Económico Local que permita una planificación económica a largo plazo en el distrito.",
+            "objective": "Elaborar e implementar un Plan de Desarrollo Económico Sostenible que vincule lo público con el sector privado, planificando el crecimiento económico con la participación activa de los ciudadanos.",
+            "goal": "Ejecutar el Plan de Desarrollo Económico en un 90% al término de la gestión.",
+            "indicator": "Porcentaje de ejecución de actividades del Plan de Desarrollo Económico Sostenible."
+          },
+          {
+            "problem": "Baja calidad del gasto público debido a una gestión no orientada a resultados y con escaso enfoque en eficiencia, eficacia y economía.",
+            "objective": "Mejorar la ejecución del gasto público orientándolo al logro de resultados y atendiendo a los principios de economía, eficacia y eficiencia.",
+            "goal": "Mejorar la calidad de la ejecución del gasto para lograr una ejecución anual mayor al 95% del Presupuesto Institucional Modificado (PIM).",
+            "indicator": "Porcentaje de ejecución del Presupuesto Institucional Modificado, porcentaje de cumplimiento de las Reglas Fiscales y porcentaje de ejecución de los Programas Presupuestales."
+          },
+          {
+            "problem": "Baja inserción laboral formal de los egresados del sistema educativo debido al desajuste entre la oferta formativa y la demanda del mercado.",
+            "objective": "Implementar un programa que canalice oportunidades laborales en alianza con gremios empresariales, establecer una hoja de ruta para la eliminación de barreras burocráticas y promover la inversión, el empleo productivo y el emprendimiento.",
+            "goal": "Implementar un programa para canalizar la inversión y formación técnica para mejorar la oferta laboral durante el 2027, y ejecutar el Plan de Desarrollo Económico Local para promover el emprendimiento.",
+            "indicator": "Número de vecinos beneficiados con oferta laboral, número de capacitaciones de formación laboral, número de personas que acceden a capacitación, número de microempresarios que acceden a financiamiento y cantidad de nuevos empresarios que invierten en el distrito."
+          },
+          {
+            "problem": "Falta de recursos presupuestales para la ejecución de infraestructura necesaria para los vecinos del distrito.",
+            "objective": "Adecuar la municipalidad al Sistema Nacional de Promoción de la Inversión Privada para fomentar la inversión y acceder a financiamiento del sector privado, creando un equipo técnico especializado y promoviendo convenios con PROINVERSION y embajadas.",
+            "goal": "Ejecutar el Plan “Fomento de la Inversión privada” en el distrito.",
+            "indicator": "Porcentaje de proyectos implementados con colaboración público-privada, cantidad de inversionistas que invierten en el distrito y reducción del estrés presupuestal del municipio."
+          },
+          {
+            "problem": "Falta de una estrategia para el trabajo conjunto entre empresarios y la municipalidad que permita desarrollar proyectos mutuos en beneficio de los vecinos.",
+            "objective": "Implementar una estrategia de trabajo conjunto con empresarios, fomentando obras por impuestos, Zonas Económicas Especiales y un shock desregulatorio para mejorar la eficiencia y transparencia en los trámites.",
+            "goal": "Consolidar una estrategia con acciones específicas de apoyo empresarial para la gestión municipal e implementar un shock desregulatorio en 2027.",
+            "indicator": "Porcentaje de acciones de empresarios en apoyo a la gestión municipal y montos de inversión privada inyectados en el distrito a partir de 2027."
+          },
+          {
+            "problem": "Oferta turística desorganizada por falta de planificación y articulación con los actores sociales, culturales y empresariales del distrito.",
+            "objective": "Lograr que Pueblo Libre sea un distrito líder en turismo cultural, histórico y barrial, poniendo en valor su patrimonio e identidad local a través de la creación de un Corredor Turístico en alianza con gremios.",
+            "goal": "Implementar el Plan “Ruta Cultural-Turística de Pueblo Libre”.",
+            "indicator": "Aumento anual del flujo de turistas, número de eventos culturales organizados, número de vecinos capacitados como anfitriones turísticos y alianzas y convenios activos con instituciones."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Altos niveles de contaminación ambiental, baja capacidad de adaptación al cambio climático, gestión ambiental insuficiente y limitada conciencia ecológica, incluyendo contaminación por ruido y visual.",
+            "objective": "Consolidar un distrito ecológico, limpio y resiliente al cambio climático, eliminando el exceso de cableado aéreo y fomentando programas de educación, voluntariado e innovación ambiental.",
+            "goal": "Consolidar un sistema ambiental sostenible de gestión de áreas verdes, recuperar los espacios públicos al 2030 e implementar el Plan “Pueblo Libre verde e inteligente”.",
+            "indicator": "Percepción de la calidad ambiental en el distrito."
+          },
+          {
+            "problem": "Mínima cantidad de parques con sistema de riego tecnificado y automatizado, además de un mantenimiento inadecuado de parques y árboles.",
+            "objective": "Implementar un sistema de regadío tecnificado y automatizado para optimizar el uso del agua y reducir costos, adquiriendo una grúa municipal para el mantenimiento adecuado de los árboles.",
+            "goal": "Lograr que el 95% de los parques cuenten con un sistema de riego tecnificado.",
+            "indicator": "Porcentaje de parques con riego tecnificado."
+          },
+          {
+            "problem": "Insatisfacción del 54.6% de la población con la gestión de residuos sólidos en el distrito.",
+            "objective": "Implementar un proyecto de colaboración público-privada para un servicio moderno y eficiente de tratamiento de residuos sólidos, reduciendo el impacto de la contaminación a través del reciclaje, la reutilización y la regeneración.",
+            "goal": "Implementar el Plan “Pueblo Libre Limpio 24/7” en el distrito.",
+            "indicator": "Realización de campañas ambientales en colegios y universidades."
+          },
+          {
+            "problem": "Alta probabilidad de un sismo de gran magnitud que podría afectar la costa central, incluyendo el distrito de Pueblo Libre.",
+            "objective": "Mejorar la Gestión de Riesgo de Desastres con un enfoque territorial.",
+            "goal": "Capacitar al 95% de los líderes vecinales en gestión del riesgo de desastres y respuesta ante emergencias.",
+            "indicator": "Porcentaje de líderes vecinales capacitados en gestión del riesgo de desastres y porcentaje de líderes vecinales capacitados en respuesta ante emergencias."
+          },
+          {
+            "problem": "Falta de estrategias de incentivos para que las empresas privadas contribuyan al desarrollo ambiental a cambio de beneficios municipales o reconocimientos.",
+            "objective": "Implementar una política de incentivos para empresas que contribuyan al medio ambiente, con planes de trabajo para acceder a fondos y bonos verdes y sostenibles.",
+            "goal": "Lograr que la empresa privada trabaje conjuntamente con la municipalidad para el desarrollo ambiental del distrito.",
+            "indicator": "Cantidad de acciones de las empresas privadas en favor del medio ambiente del distrito."
+          },
+          {
+            "problem": "Poca importancia otorgada al potencial de la juventud universitaria como fuerza voluntaria para gestionar proyectos ambientales en el distrito.",
+            "objective": "Formular una política de voluntariado ambiental juvenil para estudiantes universitarios, a través del reconocimiento de prácticas preprofesionales y el fomento de la movilidad sostenible.",
+            "goal": "Potenciar el desarrollo ambiental a través de la participación de jóvenes voluntarios del distrito de Pueblo Libre.",
+            "indicator": "Cantidad de jóvenes voluntarios participando en el trabajo ambiental en el distrito."
+          },
+          {
+            "problem": "Ausencia de una política distrital para el aprovechamiento de residuos orgánicos e inorgánicos y falta de potenciación de las políticas de segregación.",
+            "objective": "Fomentar y potenciar la política de aprovechamiento de residuos orgánicos e inorgánicos mediante la inclusión de recicladores, la compra de maquinaria y el fomento de la economía circular con premios para emprendimientos sostenibles.",
+            "goal": "Aprobar el Plan de Economía Circular del distrito.",
+            "indicator": "Porcentaje de toneladas de residuos orgánicos valorizados y cantidad de recicladores en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de eficiencia, transparencia y accesibilidad en la gestión municipal, con un bajo aprovechamiento de las Tecnologías de la Información que limita la calidad de los servicios públicos.",
+            "objective": "Convertir la municipalidad en una entidad eficiente, moderna y digitalmente accesible, mediante la automatización y aceleración de procesos con el uso de Inteligencia Artificial.",
+            "goal": "Aprobar un Plan de Gobierno y Transformación Digital que incluya las propuestas del presente plan.",
+            "indicator": "Porcentaje de trámites digitales disponibles, número de vecinos usuarios de la aplicación, tiempo medio de resolución digital, número de usuarios capacitados en inclusión tecnológica y nivel de uso de la inteligencia artificial."
+          },
+          {
+            "problem": "Baja transparencia, limitada accesibilidad a la información pública y mecanismos deficientes para promover la participación ciudadana y la rendición de cuentas.",
+            "objective": "Prevenir actos de corrupción generando mecanismos de accesibilidad y transparencia de la información pública, implementando el plan “Pueblo Libre decide” y transmitiendo en vivo las reuniones de toma de decisiones.",
+            "goal": "Promover en un 90% los mecanismos propuestos de accesibilidad y transparencia para el 2030, implementando los planes “Pueblo Libre Decide” y “Pueblo Libre Transparente”.",
+            "indicator": "Reglamentos reformados, sesiones con participación ciudadana, auditorías realizadas, informes publicados por año y nivel de presencia del municipio en redes sociales."
+          },
+          {
+            "problem": "Procesos de gestión pública ineficientes, desarticulados y poco orientados a resultados, que no siguen estándares de calidad ni promueven la innovación.",
+            "objective": "Implementar procesos eficientes e innovadores en la gestión pública basados en estándares y buenas prácticas, creando un equipo técnico especializado que trascienda las gestiones políticas.",
+            "goal": "Implementar buenas prácticas en Gestión Pública a nivel nacional e internacional.",
+            "indicator": "Índice de satisfacción del vecino y número de Buenas Prácticas de Gestión Pública implementadas."
+          },
+          {
+            "problem": "Existencia de servicios públicos poco orientados a la ciudadanía, con trámites complejos, lentos y barreras burocráticas que dificultan el acceso.",
+            "objective": "Mejorar la atención a la ciudadanía simplificando procedimientos y eliminando barreras burocráticas a través de un proceso agresivo de eliminación de sobreprocesos para atraer la inversión privada.",
+            "goal": "Implementación del 100% de la Hoja de Ruta trazada para el Shock Desregulatorio del distrito.",
+            "indicator": "Índice de satisfacción del vecino y administrados, y número de procedimientos administrativos simplificados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-OLH5-AviBTROdQxqXyIj5jDZcTi9xBSj",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/OLH5-AviBTROdQxqXyIj5jDZcTi9xBSj",
+      "sha256": "3b1176848794ff28e824e36f0b6f7d1368f4aa5778c6f8b51626212c37c46b8d",
+      "accessedAt": "2026-10-02T23:00:57.034Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019643",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019643",
+      "sha256": "9713c7f8c5aed8f73dd13e1d5bd087a38766185e92e94fde7c760e92c61d7ee1",
+      "accessedAt": "2026-10-02T23:00:57.533Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

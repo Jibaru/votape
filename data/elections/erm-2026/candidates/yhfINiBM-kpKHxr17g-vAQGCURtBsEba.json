@@ -1,0 +1,264 @@
+{
+  "id": "yhfINiBM-kpKHxr17g-vAQGCURtBsEba",
+  "slug": "belica-julia-bravo-alcantara",
+  "electionId": "erm-2026",
+  "name": "Belica Julia Bravo Alcantara",
+  "givenNames": "Belica Julia",
+  "surnames": "Bravo Alcantara",
+  "age": 36,
+  "gender": "Femenino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:41.833Z",
+      "sourceId": "jne-hv-yhfINiBM-kpKHxr17g-vAQGCURtBsEba"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "TITULO DE ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "CIENCIAS PENALES",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD DEL PACIFICO",
+        "program": "GESTIÓN PÚBLICA",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESORA",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESORA",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "TECNICO",
+      "from": "2021",
+      "to": "2023"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "TÉCNICO",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "CONGRESO DE LA REPÚBLICA",
+      "role": "ASESORA",
+      "from": "2018",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 247400.78,
+        "public": 247400.78,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 50,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 589.68,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 200,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 34,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 600,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "FICKUP 4X4",
+        "value": 80385
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/26c15827-75bb-4c58-beb5-dbad6ddb7f8c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a73a4403-cb78-445c-948d-4e662fdae63d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Violencia familiar y de género.",
+            "objective": "Ampliar los servicios de atención, como el Centro de Emergencia Mujer (CEM) y casas refugio, y fomentar la prevención comunitaria.",
+            "goal": "Incrementar al 90% la atención oportuna; reducir en un 40% la reincidencia; alcanzar el 100% de sectores con programas preventivos.",
+            "indicator": "Porcentaje de casos atendidos oportunamente; tasa de reincidencia; cobertura de programas preventivos."
+          },
+          {
+            "problem": "Alta inseguridad ciudadana, manifestada en robos, drogas y violencia.",
+            "objective": "Disminuir la inseguridad, fortaleciendo el serenazgo, el Centro de Operaciones de Emergencia (COE) y la articulación con la Policía.",
+            "goal": "Reducir en un 35% la incidencia delictiva; alcanzar el 85% de cobertura de patrullaje integrado; reducir el tiempo de respuesta a menos de 10 minutos.",
+            "indicator": "Tasa de incidencia delictiva por 1,000 habitantes; porcentaje de operativos ejecutados; tiempo de respuesta del serenazgo."
+          },
+          {
+            "problem": "Déficit de agua, saneamiento y salud.",
+            "objective": "Ampliar la cobertura de servicios básicos y mejorar la infraestructura sanitaria.",
+            "goal": "Alcanzar el 92% de cobertura de agua potable y el 88% de alcantarillado; reducir en un 25% las enfermedades prevenibles.",
+            "indicator": "Porcentaje de hogares con agua potable; porcentaje de alcantarillado; cobertura de atención primaria de salud."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Congestión vehicular y transporte informal.",
+            "objective": "Implementar el ordenamiento del transporte y la mejora de la infraestructura vial.",
+            "goal": "Lograr un 70% de transporte formalizado; mejorar 60 km de vías; reducir en un 30% el tiempo de viaje.",
+            "indicator": "Porcentaje de rutas formalizadas; kilómetros de vías rehabilitadas; tiempo promedio de viaje."
+          },
+          {
+            "problem": "Urbanización desordenada sin servicios.",
+            "objective": "Fomentar la formalización de predios y la expansión de la infraestructura básica.",
+            "goal": "Alcanzar el 80% de predios formalizados y el 95% de acceso a servicios básicos.",
+            "indicator": "Porcentaje de predios formalizados; porcentaje de hogares con servicios básicos."
+          },
+          {
+            "problem": "Alta informalidad económica.",
+            "objective": "Promover la formalización empresarial y el fortalecimiento del emprendimiento.",
+            "goal": "Formalizar el 75% de los negocios; realizar 12 ferias anuales; implementar 3 mercados modelo.",
+            "indicator": "Porcentaje de unidades económicas formalizadas; número de ferias y mercados activos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasez de áreas verdes.",
+            "objective": "Recuperar los espacios públicos y promover la arborización urbana.",
+            "goal": "Incrementar a 4 metros cuadrados por habitante la cantidad de áreas verdes; rehabilitar el 90% de los parques.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante; porcentaje de parques rehabilitados."
+          },
+          {
+            "problem": "Contaminación del aire.",
+            "objective": "Controlar las fuentes contaminantes y realizar un monitoreo ambiental constante.",
+            "goal": "Reducir en un 30% los niveles de contaminación; monitorear el 100% de las fuentes.",
+            "indicator": "Número de fuentes identificadas; niveles de PM2.5/PM10."
+          },
+          {
+            "problem": "Manejo inadecuado de residuos sólidos.",
+            "objective": "Implementar un sistema integral de gestión de residuos.",
+            "goal": "Alcanzar el 60% de segregación en fuente; lograr un 50% de reciclaje; implementar 1 sistema integral operativo.",
+            "indicator": "Porcentaje de residuos segregados; porcentaje de reciclaje municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja calidad de atención al ciudadano.",
+            "objective": "Mejorar la eficiencia y la satisfacción ciudadana en los servicios municipales.",
+            "goal": "Alcanzar un 85% de satisfacción ciudadana; lograr que el 95% de los trámites se realicen dentro del plazo.",
+            "indicator": "Índice de satisfacción ciudadana; porcentaje de trámites realizados dentro del plazo establecido."
+          },
+          {
+            "problem": "Burocracia y trámites lentos.",
+            "objective": "Implementar la simplificación administrativa y la digitalización de los procesos.",
+            "goal": "Lograr la digitalización del 80% de los trámites; reducir en un 50% el tiempo de atención.",
+            "indicator": "Porcentaje de trámites digitalizados; tiempo promedio de atención."
+          },
+          {
+            "problem": "Baja participación ciudadana.",
+            "objective": "Fortalecer el presupuesto participativo y la transparencia en la gestión.",
+            "goal": "Alcanzar un 70% de participación organizada; asegurar que el 100% de la información pública esté disponible.",
+            "indicator": "Porcentaje de participación ciudadana; acceso a la información pública."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-yhfINiBM-kpKHxr17g-vAQGCURtBsEba",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yhfINiBM-kpKHxr17g-vAQGCURtBsEba",
+      "sha256": "198d7110af489996bd9129444138abb70184ddc92933a9c0109db9ac79ad8bae",
+      "accessedAt": "2026-10-02T22:52:41.833Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023217",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023217",
+      "sha256": "013400801cbd195dca47b51a7e83450a2438d6e3848cdcc9a34face81dca4b8d",
+      "accessedAt": "2026-10-02T22:52:42.322Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

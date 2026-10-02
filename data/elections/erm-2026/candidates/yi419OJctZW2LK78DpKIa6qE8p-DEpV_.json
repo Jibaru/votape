@@ -1,0 +1,271 @@
+{
+  "id": "yi419OJctZW2LK78DpKIa6qE8p-DEpV_",
+  "slug": "maria-del-rosario-neyra-onofre",
+  "electionId": "erm-2026",
+  "name": "Maria Del Rosario Neyra Onofre",
+  "givenNames": "Maria Del Rosario",
+  "surnames": "Neyra Onofre",
+  "age": 41,
+  "gender": "Femenino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:06.995Z",
+      "sourceId": "jne-hv-yi419OJctZW2LK78DpKIa6qE8p-DEpV_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE LIMA",
+        "program": "-",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "AUTO GAS S.A.C",
+      "role": "EMPLEADO",
+      "from": "2007",
+      "to": "2026"
+    },
+    {
+      "employer": "TRANSPORTE DE ENERGIA GLOBAL S.A.C",
+      "role": "ACCIONISTA",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "GRUPO NOAS S.A.C",
+      "role": "GERENTE GENERAL",
+      "from": "2016",
+      "to": "2026"
+    },
+    {
+      "employer": "AGUSTINA RN S.A.C",
+      "role": "GERENTE GENERAL",
+      "from": "2021",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 243991,
+        "public": 41974,
+        "private": 202017
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 84032.55,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 54096.75,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VOLKSWAGEN GOLF GTI 1.8T 2002",
+        "value": 40000
+      },
+      {
+        "type": "NISSAN FRONTIER /BLANCO",
+        "value": 34000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "AGUSTINA RN SAC",
+        "type": "ACCIONES",
+        "quantity": 14000,
+        "value": 14000
+      },
+      {
+        "company": "GRUPO NOAS SAC",
+        "type": "ACCIONES",
+        "quantity": 13280,
+        "value": 13280
+      },
+      {
+        "company": "TRANSPORTE DE ENERGIA GLOBAL S.A.C",
+        "type": "ACCIONES",
+        "quantity": 750,
+        "value": 750
+      }
+    ]
+  },
+  "additionalInfo": [
+    "EN TRAMITE: INVERSIONES NEGOCIOS RIMAC 2026 SAC. SOCIA 100 ACCIONES S/. 100.00 VALOR. FALTA RUC"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3a1e86ce-4080-4f49-a7c0-f15b3242e012.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/73a0c6bc-7fc3-436e-9e5a-3318d76149f3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deficiente acceso a servicios sociales (salud, educación, programas sociales).",
+            "objective": "Mejorar la cobertura y calidad de servicios sociales.",
+            "goal": "Incrementar al 85%.",
+            "indicator": "Porcentaje de población atendida por programas sociales."
+          },
+          {
+            "problem": "Alta inseguridad ciudadana.",
+            "objective": "Reducir los índices de delincuencia en el distrito.",
+            "goal": "Reducir al 30%.",
+            "indicator": "Tasa de delitos por cada 1000 habitantes."
+          },
+          {
+            "problem": "Débil participación ciudadana.",
+            "objective": "Fortalecer la participación vecinal y organización social.",
+            "goal": "Incrementar en 50%.",
+            "indicator": "Número de juntas vecinales activas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo desarrollo económico local.",
+            "objective": "Promover el emprendimiento de la inversión local.",
+            "goal": "Incrementar en 35%.",
+            "indicator": "Número de nuevos emprendimientos formales."
+          },
+          {
+            "problem": "Alto nivel de informalidad comercial.",
+            "objective": "Formalizar actividades económicas del distrito.",
+            "goal": "Incrementar en 40%.",
+            "indicator": "Porcentaje de negocios formalizados."
+          },
+          {
+            "problem": "Desempleo juvenil.",
+            "objective": "Generar oportunidades laborales para jóvenes.",
+            "goal": "Incrementar en 25%.",
+            "indicator": "Tasas de empleo juvenil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de residuos sólidos.",
+            "objective": "Mejorar el sistema de recolección y reciclaje.",
+            "goal": "Incrementar al 40%.",
+            "indicator": "Porcentaje de residuos reciclados."
+          },
+          {
+            "problem": "Contaminación ambiental (aire y suelo).",
+            "objective": "Reducir los niveles de contaminación.",
+            "goal": "Mejorar en 30%.",
+            "indicator": "Índice de calidad ambiental."
+          },
+          {
+            "problem": "Escasez de áreas verdes.",
+            "objective": "Incrementar espacios públicos y áreas verdes.",
+            "goal": "Incrementar en 20%.",
+            "indicator": "Metro cuadrado de áreas verdes por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja eficiencia en la gestión municipal.",
+            "objective": "Modernizar la gestión pública municipal.",
+            "goal": "Alcanzar el 80%.",
+            "indicator": "Porcentaje de procesos digitalizados."
+          },
+          {
+            "problem": "Percepción de corrupción.",
+            "objective": "Fortalecer la transparencia y control institucional.",
+            "goal": "Reducir en 30%.",
+            "indicator": "Índice de percepción de corrupción."
+          },
+          {
+            "problem": "Débil capacidad del personal municipal.",
+            "objective": "Mejorar las capacidades del recurso humano.",
+            "goal": "Incrementar al 90%.",
+            "indicator": "Porcentaje de servidores capacitados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-yi419OJctZW2LK78DpKIa6qE8p-DEpV_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/yi419OJctZW2LK78DpKIa6qE8p-DEpV_",
+      "sha256": "42f36f655e011408cd1f940acf7fa93c18a70311ec64c14349305a820aca349f",
+      "accessedAt": "2026-10-02T22:54:06.995Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023091",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023091",
+      "sha256": "0466b4be0df7c95b689b59c13e190a48a24006b1727d5488e1a386d592ee52ba",
+      "accessedAt": "2026-10-02T22:54:07.474Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

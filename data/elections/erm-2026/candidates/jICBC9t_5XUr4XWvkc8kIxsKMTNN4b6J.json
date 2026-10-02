@@ -1,0 +1,280 @@
+{
+  "id": "jICBC9t_5XUr4XWvkc8kIxsKMTNN4b6J",
+  "slug": "willyans-jose-soriano-cabrera",
+  "electionId": "erm-2026",
+  "name": "Willyans Jose Soriano Cabrera",
+  "givenNames": "Willyans Jose",
+  "surnames": "Soriano Cabrera",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:41.287Z",
+      "sourceId": "jne-hv-jICBC9t_5XUr4XWvkc8kIxsKMTNN4b6J"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS",
+      "role": "ABOGADO LOCADOR DE SERVICIOS",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "VASQUES SORIANO ABOGADOS CONSULTORES",
+      "role": "ABOGADO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "SUNAFIL",
+      "role": "ABOGADO LOCADOR DE SERVICIOS",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE LIMA",
+      "role": "ABOGADO ESPECIALISTA LEGAL",
+      "from": "2019",
+      "to": "2023"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN BORJA",
+      "role": "ABOGADO LOCADOR DE SERVICIOS",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "PERSONERO LEGAL TITULAR",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "position": "REPRESENTANTE LEGAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2019",
+      "to": "2021"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 97380,
+        "public": 67480,
+        "private": 29900
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 72654.31,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MERCEDES BENZ",
+        "value": 61920
+      },
+      {
+        "type": "VOLKSWAGEN",
+        "value": 34400
+      },
+      {
+        "type": "CHEVROLET",
+        "value": 51600
+      },
+      {
+        "type": "MERCEDES BENZ",
+        "value": 60200
+      },
+      {
+        "type": "BMW",
+        "value": 60200
+      },
+      {
+        "type": "PORSHE",
+        "value": 137600
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "VASQUEZ-SORIANO ABOGADOS Y CONSULTORES",
+        "type": "ACCIONES",
+        "quantity": 3500,
+        "value": 1
+      },
+      {
+        "company": "KARLOS, WILLYANS SORIANO IMPORT EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 3000,
+        "value": 3000
+      },
+      {
+        "company": "KOMPALI TAQUERIA SRL",
+        "type": "ACCIONES",
+        "quantity": 1500,
+        "value": 1
+      },
+      {
+        "company": "KATUSO WINE AND SPIRITS SAC 500 ACCIONES - BAJA DE OFICIO",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/24c591b7-0e08-4dc5-ab23-ad853aa76bf9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e368b02a-8c0c-4cdf-ac0a-5ae957d94801.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Brechas persistentes en la atención preventiva de salud, salud emocional, rehabilitación y asistencia domiciliaria para poblaciones vulnerables.",
+            "objective": "Promover el bienestar integral de la población mediante programas preventivos de salud, atención prioritaria a grupos vulnerables, promoción de estilos de vida saludables y el fortalecimiento de los servicios municipales de salud complementaria.",
+            "goal": "Incrementar en un 60% las atenciones preventivas municipales, beneficiar anualmente a más de 20,000 vecinos mediante campañas de salud, duplicar la cobertura de atención psicológica municipal e incrementar en un 50% la participación de adultos mayores en programas municipales.",
+            "indicator": "Número de atenciones preventivas, número de campañas de salud realizadas, número de adultos mayores beneficiados, número de atenciones psicológicas y número de personas con discapacidad atendidas."
+          },
+          {
+            "problem": "Necesidad de fortalecer las competencias digitales, la comprensión lectora, la educación en valores y el liderazgo juvenil para enfrentar los desafíos de la sociedad moderna.",
+            "objective": "Promover una educación integral basada en valores, innovación, cultura, liderazgo y participación ciudadana, fortaleciendo las capacidades de niños, jóvenes y familias para contribuir al desarrollo sostenible del distrito.",
+            "goal": "Capacitar a más de 10,000 estudiantes en liderazgo y ciudadanía, beneficiar anualmente a más de 15,000 vecinos mediante programas culturales e incrementar en un 50% la participación en actividades culturales.",
+            "indicator": "Número de estudiantes beneficiados, número de docentes capacitados, número de actividades culturales realizadas, número de participantes en programas educativos y número de becas otorgadas."
+          },
+          {
+            "problem": "Creciente demanda vecinal por programas deportivos especializados e infraestructura moderna, junto con el aumento del sedentarismo y problemas de salud asociados.",
+            "objective": "Promover estilos de vida saludables mediante el fortalecimiento del deporte, la recreación, la actividad física y la participación juvenil.",
+            "goal": "Incrementar en un 50% la práctica deportiva comunitaria, beneficiar a más de 20,000 vecinos por año, implementar nuevos espacios deportivos y fortalecer el deporte escolar y juvenil.",
+            "indicator": "Porcentaje de práctica deportiva comunitaria, número de vecinos beneficiados por programas deportivos y número de nuevos espacios deportivos implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Los emprendedores enfrentan dificultades relacionadas con trámites administrativos, acceso a capacitación, innovación empresarial y adaptación a las nuevas tecnologías.",
+            "objective": "Promover el desarrollo económico sostenible del distrito mediante el fortalecimiento del emprendimiento, la inversión privada responsable, la generación de empleo y la simplificación administrativa.",
+            "goal": "Reducir en un 70% los tiempos de atención para licencias, capacitar a más de 5,000 emprendedores, formalizar nuevos negocios en el distrito e incrementar la actividad económica local.",
+            "indicator": "Número de empresas formalizadas, número de emprendedores capacitados, tiempo promedio de atención, número de ferias realizadas, número de empleos promovidos e inversión privada generada."
+          },
+          {
+            "problem": "La congestión vehicular en las principales avenidas del distrito afecta la calidad de vida, incrementa la contaminación ambiental y reduce la competitividad urbana.",
+            "objective": "Promover un sistema de movilidad urbana seguro, eficiente, sostenible e integrado que facilite el desplazamiento de vecinos y visitantes.",
+            "goal": "Reducir los tiempos promedio de desplazamiento, incrementar el uso de bicicletas como medio alternativo, mejorar la seguridad vial en puntos críticos y modernizar la red de semaforización.",
+            "indicator": "Tiempo promedio de viaje, número de usuarios de bicicletas públicas, kilómetros de ciclovías implementadas y número de accidentes de tránsito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Efectos del cambio climático, densificación urbana, contaminación sonora y del aire, presión sobre recursos hídricos e incremento de residuos sólidos.",
+            "objective": "Consolidar a San Borja como el distrito líder en sostenibilidad ambiental del Perú, promoviendo una gestión eficiente de los recursos naturales y fortaleciendo la cultura ambiental de la ciudadanía.",
+            "goal": "Plantar 10,000 nuevos árboles, incrementar la superficie con riego tecnificado, incrementar en un 30% el reciclaje distrital y reducir la contaminación sonora.",
+            "indicator": "Número de árboles plantados, metros cuadrados con riego tecnificado, toneladas de residuos reciclados, número de campañas ambientales, número de mascotas registradas e índices de calidad ambiental."
+          },
+          {
+            "problem": "El incremento en la generación de residuos sólidos exige nuevas estrategias orientadas a garantizar la sostenibilidad ambiental del distrito.",
+            "objective": "Fortalecer la gestión de residuos sólidos en el distrito.",
+            "goal": "Incrementar en un 30% el reciclaje distrital.",
+            "indicator": "Toneladas de residuos reciclados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incremento de diversas modalidades delictivas como robos al paso, de vehículos, de autopartes, delitos informáticos y violencia familiar.",
+            "objective": "Fortalecer integralmente la seguridad ciudadana mediante la prevención del delito, el uso intensivo de tecnología, la modernización del serenazgo, la coordinación con la Policía Nacional y la participación organizada de los vecinos.",
+            "goal": "Reducir en un 30% los robos al paso, en un 40% el robo de vehículos, en un 35% los robos domiciliarios y en un 50% el tiempo de respuesta ante emergencias.",
+            "indicator": "Número de delitos denunciados, índice de victimización, índice de percepción de inseguridad y tiempo promedio de respuesta ante emergencias."
+          },
+          {
+            "problem": "Demanda ciudadana por servicios municipales más rápidos, eficientes y transparentes, y la necesidad de simplificar procedimientos administrativos para mejorar la experiencia del ciudadano.",
+            "objective": "Consolidar una Municipalidad Digital, eficiente, transparente e innovadora, que utilice la tecnología para mejorar la calidad de los servicios y fortalecer la relación con los vecinos.",
+            "goal": "Digitalizar el 100% de los procedimientos municipales, reducir en un 70% los tiempos de atención, incrementar la satisfacción vecinal y fortalecer el gobierno digital.",
+            "indicator": "Porcentaje de trámites digitalizados, tiempo promedio de atención, índice de satisfacción ciudadana y número de servicios automatizados."
+          },
+          {
+            "problem": "Demanda de los vecinos por una gestión municipal abierta, participativa y responsable que garantice el uso adecuado de los recursos públicos y facilite la intervención ciudadana.",
+            "objective": "Fortalecer la transparencia, la participación ciudadana y la integridad institucional, promoviendo una gestión municipal abierta, responsable y cercana al vecino.",
+            "goal": "Publicar el 100% de la información obligatoria, incrementar la participación ciudadana, realizar audiencias públicas periódicas e incrementar la confianza vecinal en la gestión.",
+            "indicator": "Número de procesos participativos realizados, nivel de transparencia institucional, número de vecinos participantes e índice de confianza ciudadana."
+          },
+          {
+            "problem": "Desafíos derivados de la densificación urbana, la creciente demanda inmobiliaria y el incremento vehicular, que amenazan la calidad residencial del distrito.",
+            "objective": "Promover un desarrollo urbano ordenado, sostenible y equilibrado, preservando la residencialidad, mejorando la infraestructura pública y fortaleciendo la calidad de vida de los vecinos.",
+            "goal": "Modernizar progresivamente la infraestructura urbana, digitalizar el catastro distrital, incrementar la accesibilidad universal y fortalecer la protección de la residencialidad.",
+            "indicator": "Kilómetros de vías rehabilitadas, metros cuadrados de veredas mejoradas, porcentaje de catastro digital actualizado e índice de satisfacción vecinal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-jICBC9t_5XUr4XWvkc8kIxsKMTNN4b6J",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/jICBC9t_5XUr4XWvkc8kIxsKMTNN4b6J",
+      "sha256": "7c5cda1ca512c50d8341d3c1bfd1b1ad29327c16b0995ccdb3e5b00600702a0b",
+      "accessedAt": "2026-10-02T23:02:41.287Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022181",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022181",
+      "sha256": "6415be60bc434be34d616a89c58fec0f3e31f2b85a261f2ae920ca4149fc62a3",
+      "accessedAt": "2026-10-02T23:02:41.766Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

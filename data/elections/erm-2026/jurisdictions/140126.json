@@ -1,0 +1,213 @@
+{
+  "id": "140126",
+  "name": "San Martín De Porres",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "ylZ4C5Y4y28u8Ve7KNqU6LT0oic5Z5Nj",
+      "name": "Julio Abraham Chavez Chiong",
+      "party": {
+        "id": 4,
+        "name": "ACCION POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42068,
+      "expediente": "ERM.2026019164"
+    },
+    {
+      "candidateId": "NmOm8NR1GfLnMZNQS-HNAd-2NjcfUNVp",
+      "name": "Aquiles Cirilo Collasos Villanueva",
+      "party": {
+        "id": 2980,
+        "name": "AHORA NACION - AN"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50922,
+      "expediente": "ERM.2026020264"
+    },
+    {
+      "candidateId": "4VF1UPFrvNmwpw28OM6EdJLWzNzmzIhL",
+      "name": "Adolfo Israel Mattos Piaggio",
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 45288,
+      "expediente": "ERM.2026020608"
+    },
+    {
+      "candidateId": "OwMpUtBuidBTCc3ABJGKyxV-BpH5eZob",
+      "name": "Cesar Efrain Sifuentes Chavez",
+      "party": {
+        "id": 3046,
+        "name": "COOPERACION, VERDAD Y HONRADEZ"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52792,
+      "expediente": "ERM.2026021771"
+    },
+    {
+      "candidateId": "6s4wwWUVbHP7cE-wr1OlatNVXSklwS8O",
+      "name": "Cesar Augusto Vargas Gutierrez",
+      "party": {
+        "id": 2898,
+        "name": "FE EN EL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47255,
+      "expediente": "ERM.2026015321"
+    },
+    {
+      "candidateId": "NhWPzeIOf88vytqRKz849dZ9xcgN4yew",
+      "name": "Luis Cesar Navarro Maldonado",
+      "party": {
+        "id": 2930,
+        "name": "PARTIDO APRISTA PERUANO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48785,
+      "expediente": "ERM.2026019883"
+    },
+    {
+      "candidateId": "vi5stqUsAEz6cKMRulT07kylg2GYHfSE",
+      "name": "Carlos Alberto Albujar Corazon",
+      "party": {
+        "id": 2895,
+        "name": "PARTIDO DEMOCRATA VERDE"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47154,
+      "expediente": "ERM.2026012407"
+    },
+    {
+      "candidateId": "ySVzIEq96YjNXRujLsYIGsOxJxMxqQ_H",
+      "name": "Luis Paul Cardenas Sanchez",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42932,
+      "expediente": "ERM.2026015976"
+    },
+    {
+      "candidateId": "emWZPLo1pKJa0xbYO3ytTb4I1ShccwuW",
+      "name": "Luis Alberto Flores Roldan",
+      "party": {
+        "id": 2840,
+        "name": "PARTIDO MORADO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46610,
+      "expediente": "ERM.2026021974"
+    },
+    {
+      "candidateId": "Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM",
+      "name": "Alan Rudy Vasquez Davila",
+      "party": {
+        "id": 2956,
+        "name": "PARTIDO PAIS PARA TODOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49701,
+      "expediente": "ERM.2026017032"
+    },
+    {
+      "candidateId": "qAD49ZfASGYIlpMJZvPqXsTGvkd7HIon",
+      "name": "Enrique Amador Escalante Carpio",
+      "party": {
+        "id": 2218,
+        "name": "PARTIDO POLITICO NACIONAL PERU LIBRE"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 45484,
+      "expediente": "ERM.2026021317"
+    },
+    {
+      "candidateId": "tvm9grnCO7YNy-U1DcQdpHTiHMCPTlD6",
+      "name": "Victor Vicente Santander Salvador",
+      "party": {
+        "id": 2925,
+        "name": "PARTIDO POLITICO PERU PRIMERO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48301,
+      "expediente": "ERM.2026020291"
+    },
+    {
+      "candidateId": "kzElXTvjwYxVGcEmYjXbrnV5hAq7hs4X",
+      "name": "Yuri Luis Medina Barrios",
+      "party": {
+        "id": 2943,
+        "name": "PARTIDO POPULAR CRISTIANO - PPC"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49327,
+      "expediente": "ERM.2026021584"
+    },
+    {
+      "candidateId": "xRNzDqcvDUdYI_YiaLHMRW5A-CyqZeS0",
+      "name": "Jiulliana Paola Herrera Moscoso",
+      "party": {
+        "id": 2935,
+        "name": "PARTIDO SICREO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49121,
+      "expediente": "ERM.2026014587"
+    },
+    {
+      "candidateId": "i4kjFb0WTKsBZDkh0k2lV6xzAUFrhBPJ",
+      "name": "Diego Armando Lopez Jara",
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46324,
+      "expediente": "ERM.2026017077"
+    },
+    {
+      "candidateId": "jsdg7jj2FFMIskwmaiparExDmQJFIHEC",
+      "name": "Anndy Miguel Duran Nuñez",
+      "party": {
+        "id": 2967,
+        "name": "PROGRESEMOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50173,
+      "expediente": "ERM.2026022785"
+    },
+    {
+      "candidateId": "M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt",
+      "name": "Peter Omar Jaime Cori",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52529,
+      "expediente": "ERM.2026020003"
+    }
+  ]
+}

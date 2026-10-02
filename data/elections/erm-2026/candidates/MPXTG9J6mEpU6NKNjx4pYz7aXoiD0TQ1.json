@@ -1,0 +1,192 @@
+{
+  "id": "MPXTG9J6mEpU6NKNjx4pYz7aXoiD0TQ1",
+  "slug": "samir-frank-quispe-caballero",
+  "electionId": "erm-2026",
+  "name": "Samir Frank Quispe Caballero",
+  "givenNames": "Samir Frank",
+  "surnames": "Quispe Caballero",
+  "age": 35,
+  "gender": "Masculino",
+  "party": {
+    "id": 2984,
+    "name": "BATALLA PERU"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:16.026Z",
+      "sourceId": "jne-hv-MPXTG9J6mEpU6NKNjx4pYz7aXoiD0TQ1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "ULADECH",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "COOPERATIVA DE SERVICIOS MULTIPLE ELECTRICA TIC LIMITADA",
+      "role": "genrente comercial",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SEC. CER LIMA",
+      "party": "PARTIDO POLÍTICO BATALLA PERU",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/75ea8319-3b0c-4cdd-bfc9-e794ff34f400.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6c196815-aff7-4bd6-9c38-88145388d9e4.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana, violencia y deterioro de la convivencia en barrios y espacios públicos.",
+            "objective": "Implementar una estrategia metropolitana de seguridad preventiva, recuperación de espacios públicos, iluminación, patrullaje integrado y prevención de violencia contra mujeres, niñas, niños y adolescentes.",
+            "goal": "2030: 100 % de distritos con cuadrantes priorizados interoperables. 500 espacios públicos recuperados y mantenidos.",
+            "indicator": "% de cuadrantes urbanos con patrullaje integrado Serenazgo-PNP y vigilancia comunitaria. N.º de espacios públicos recuperados con enfoque de seguridad y convivencia."
+          },
+          {
+            "problem": "Persistencia de brechas sociales en primera infancia, nutrición, salud preventiva y protección de población vulnerable.",
+            "objective": "Garantizar servicios municipales integrados de cuidado, alimentación, salud preventiva y protección social, priorizando niñas, niños, adolescentes, personas adultas mayores y hogares vulnerables.",
+            "goal": "2030: 80 % de población vulnerable priorizada atendida. 43 distritos articulados a redes territoriales de protección social.",
+            "indicator": "% de población vulnerable atendida mediante servicios municipales integrados de cuidado, alimentación, salud preventiva y protección social. N.º de redes territoriales de protección social activas."
+          },
+          {
+            "problem": "Acceso desigual a cultura, deporte, educación comunitaria y servicios para jóvenes.",
+            "objective": "Fortalecer oportunidades de desarrollo humano mediante centros comunitarios, bibliotecas, deporte barrial, cultura viva, orientación juvenil y prevención de riesgos sociales.",
+            "goal": "2030: 80 centros comunitarios activos. 250 000 jóvenes beneficiarios acumulados.",
+            "indicator": "N.° de centros comunitarios metropolitanos implementados o fortalecidos. % de jóvenes beneficiarios de programas de cultura, deporte, empleo y participación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Congestión, transporte poco integrado y pérdida de productividad por tiempos de desplazamiento.",
+            "objective": "Impulsar movilidad urbana sostenible mediante corredores seguros, gestión inteligente del tránsito, integración con ATU, ciclovías conectadas y priorización del transporte público.",
+            "goal": "2030: 300 km de vías priorizadas intervenidas. 250 km de ciclovías conectadas y mantenidas.",
+            "indicator": "Km de vías intervenidas con gestión inteligente, seguridad vial o prioridad al transporte público. Km de red ciclovial metropolitana conectada."
+          },
+          {
+            "problem": "Alta informalidad económica, débil productividad de MYPE, comercio ambulatorio desordenado y baja digitalización empresarial.",
+            "objective": "Promover formalización productiva progresiva, mercados ordenados, capacitación empresarial, simplificación de licencias y digitalización de servicios municipales para MYPE y emprendimientos.",
+            "goal": "2030: 120 000 MYPE/comerciantes acompañados. 80 % de trámites económicos municipales digitalizados.",
+            "indicator": "N.° de MYPE y comerciantes formalizados o acompañados. % de trámites económicos municipales digitalizados."
+          },
+          {
+            "problem": "Aprovechamiento limitado del potencial turístico, cultural, gastronómico, creativo y logístico de Lima.",
+            "objective": "Desarrollar corredores económico-culturales y turísticos seguros, con recuperación del Centro Histórico, promoción de barrios creativos, gastronomía, economía nocturna regulada y empleo local.",
+            "goal": "2030: 12 corredores implementados. 50 000 empleos/emprendimientos promovidos o fortalecidos.",
+            "indicator": "N.° de corredores económico-culturales implementados. N.° de empleos o emprendimientos promovidos en turismo, cultura y servicios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, baja valorización y presencia de puntos críticos de acumulación.",
+            "objective": "Modernizar la limpieza pública y la economía circular mediante segregación en fuente, valorización, rutas eficientes, fiscalización y plantas de tratamiento con enfoque interdistrital.",
+            "goal": "2030: 70 % de hogares con disposición adecuada. 25 % de residuos municipales valorizados.",
+            "indicator": "% de hogares urbanos que disponen adecuadamente sus residuos sólidos domésticos. % de residuos municipales valorizados."
+          },
+          {
+            "problem": "Deterioro de calidad ambiental urbana: contaminación del aire, ruido, déficit de áreas verdes y baja resiliencia climática.",
+            "objective": "Implementar Lima Verde y Saludable: arborización, parques de bolsillo, corredores verdes, control de ruido, zonas de bajas emisiones y monitoreo ambiental abierto.",
+            "goal": "2030: incremento de 20 % de áreas verdes en zonas priorizadas. 100 puntos de monitoreo ambiental publicados en tablero abierto.",
+            "indicator": "m2 de área verde pública por habitante en zonas priorizadas. N.° de estaciones o puntos de monitoreo ambiental interoperables."
+          },
+          {
+            "problem": "Alta exposición a riesgos de desastres, laderas vulnerables, quebradas activas y estrés hídrico urbano.",
+            "objective": "Reducir vulnerabilidades mediante gestión del riesgo, protección de riberas, mantenimiento de quebradas, alerta temprana, cultura preventiva y proyectos de seguridad hídrica.",
+            "goal": "2030: 100 % de zonas críticas priorizadas con planes vigentes. 80 sistemas de alerta/rutas implementadas.",
+            "indicator": "% de zonas críticas con planes de prevención y respuesta actualizados. N.º de sistemas de alerta temprana y rutas de evacuación implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Fragmentación institucional entre la Municipalidad Metropolitana, distritos, gobierno nacional y actores sociales.",
+            "objective": "Consolidar gobernanza metropolitana mediante pactos territoriales, mesas interdistritales, coordinación con sectores, presupuesto orientado a resultados y seguimiento de brechas.",
+            "goal": "2030: 10 pactos metropolitanos implementados. 100 % de proyectos estratégicos con gobernanza interinstitucional.",
+            "indicator": "N.° de acuerdos metropolitanos de gestión territorial implementados. % de proyectos estratégicos con articulación intergubernamental formalizada."
+          },
+          {
+            "problem": "Baja confianza ciudadana, percepción de corrupción y limitada transparencia en inversiones, servicios y contrataciones.",
+            "objective": "Fortalecer integridad, datos abiertos y control ciudadano mediante tablero público de obras, compras, licencias, indicadores y cumplimiento del plan de gobierno.",
+            "goal": "2030: 100 % de obras, compras y metas estratégicas publicadas. 16 reportes trimestrales y 8 audiencias metropolitanas.",
+            "indicator": "% de procesos estratégicos publicados en formato de datos abiertos. N.º de audiencias públicas y reportes de rendición de cuentas realizados."
+          },
+          {
+            "problem": "Trámites municipales lentos, baja interoperabilidad y limitada participación ciudadana digital.",
+            "objective": "Implementar un municipio digital, simple e interoperable, con ventanilla única, expediente electrónico, participación ciudadana digital y atención multicanal inclusiva.",
+            "goal": "2030: 90 % de trámites priorizados digitalizados. Reducción de 50 % del tiempo promedio de atención.",
+            "indicator": "% de trámites priorizados disponibles en línea. Tiempo promedio de atención de trámites municipales priorizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-MPXTG9J6mEpU6NKNjx4pYz7aXoiD0TQ1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/MPXTG9J6mEpU6NKNjx4pYz7aXoiD0TQ1",
+      "sha256": "9958b6b0d3ef0511f4b9a5c29657c8aa62e5875300d7fde5ebf6a52a078eb9de",
+      "accessedAt": "2026-10-02T22:49:16.026Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020992",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020992",
+      "sha256": "4a53465dd12f81319b64c5d69aee2b0069d65163f790339032d4e8494a03fe01",
+      "accessedAt": "2026-10-02T22:49:16.541Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

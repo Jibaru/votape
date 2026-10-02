@@ -1,0 +1,226 @@
+{
+  "id": "DffMyTOL3QjBRpvdYvbWKKOvA0bTIA4Z",
+  "slug": "karen-elizabeth-acevedo-salvatierra",
+  "electionId": "erm-2026",
+  "name": "Karen Elizabeth Acevedo Salvatierra",
+  "givenNames": "Karen Elizabeth",
+  "surnames": "Acevedo Salvatierra",
+  "age": 45,
+  "gender": "Femenino",
+  "party": {
+    "id": 3009,
+    "name": "FUERZA CIUDADANA"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:30.939Z",
+      "sourceId": "jne-hv-DffMyTOL3QjBRpvdYvbWKKOvA0bTIA4Z"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "LICENCIADO PROFESIONAL UNIVERSITARIO EN EDUCACIÓN ESPECIALIDAD: INGLÉS - FRANCÉS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "BACHILLER UNIVERSITARIO EN CIENCIAS DE LA EDUCACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "MAESTRO EN CIENCIAS DE LA EDUCACIÓN CON MENCIÓN EN DOCENCIA UNIVERSITARIA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNE ENRIQUE GUZMAN Y VALLE",
+      "role": "Asistente de la escuela de lengua extranjera",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "IIEE JORGE BASADRE GROHMANN",
+      "role": "DOCENTE",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "IIEE 6039 FERNANDO CARBAJAL SEGURA",
+      "role": "DOCENTE",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "CIUNE",
+      "role": "DOCENTE",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "UNIV.NAC.DE EDUC. ENRIQUE GUZMAN Y VALLE",
+      "role": "SECRETARIA EN SECRETARIA ACADEMICA",
+      "from": "2021",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "TODOS SOMOS CHACLACAYO",
+      "from": "2014",
+      "to": "2015"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 36000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "PREDIO",
+        "value": 9004.51,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/875e18bb-cfcd-4695-a71b-57f09240f57e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/dd48d217-4799-43be-8405-1de16c8154d1.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Existen brechas significativas en hábitat, salud y educación, evidenciadas por una tasa de analfabetismo del 2.0%, deserción escolar del 22.5%, anemia del 22.6% y desnutrición crónica del 11% en la población infantil.",
+            "objective": "Fortalecer la DEMUNA, modernizar la Casa de la Mujer, implementar programas para jóvenes como Global Skills y Pre Chacla, y realizar campañas de salud preventiva, control de anemia y desarrollo infantil.",
+            "goal": "Avanzar hacia mayores coberturas de agua, alcantarillado, accesibilidad y equipamiento social en sectores vulnerables, así como disminuir la anemia y fortalecer la atención preventiva articulada al territorio.",
+            "indicator": "Número de programas activos con cobertura verificable, participación de la población vulnerable en actividades y servicios, y funcionamiento continuo de la DEMUNA, Casa de la Mujer y la biblioteca."
+          },
+          {
+            "problem": "La seguridad cotidiana se encuentra debilitada por la existencia de parques, escaleras, paraderos y corredores peatonales oscuros, deteriorados o desordenados, representando un problema central para el distrito.",
+            "objective": "Implementar el plan \"Luz y Orden para la Seguridad\" en parques, escaleras y zonas comerciales, recuperar y ampliar el equipamiento de vigilancia, y mejorar las rutas peatonales, el mobiliario y la señalización.",
+            "goal": "Reducir el tiempo promedio de respuesta en seguridad ciudadana de los actuales 18-25 minutos a menos de 5 minutos en las zonas priorizadas del distrito.",
+            "indicator": "Número de nodos inseguros intervenidos, cobertura de iluminación y vigilancia en zonas priorizadas, y reducción de incidencias delictivas, junto con la mejora en la percepción de seguridad."
+          },
+          {
+            "problem": "Los vecinos enfrentan demoras, poca trazabilidad y atención desigual en trámites y servicios, ya que la existencia de una mesa de partes digital no equivale a una gestión documental integral.",
+            "objective": "Implementar una Plataforma Digital de Gestión Documental - Cero Papel con expediente electrónico, firma digital y archivo trazable, además de un sistema de reclamos georreferenciado.",
+            "goal": "Modernizar la municipalidad con digitalización, simplificación y transparencia.",
+            "indicator": "Tiempo promedio de atención de trámites priorizados, porcentaje de expedientes con trazabilidad digital completa y disminución del uso de papel en procesos priorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "La economía local se caracteriza por una alta informalidad comercial, estimada en 62%, una morosidad fiscal del 54% y un exceso de trámites que afectan negativamente al emprendimiento.",
+            "objective": "Implementar una ventanilla ágil para licencias, una escuela de habilidades comerciales y la promoción del distrito en canales digitales para facilitar la formalización y mejorar la competitividad.",
+            "goal": "Reducir la burocracia, aumentar la formalización y mejorar el clima de inversión local.",
+            "indicator": "Tiempo promedio de atención a licencias y expedientes empresariales, número de emprendedores atendidos o capacitados y cantidad de licencias o atenciones empresariales con seguimiento."
+          },
+          {
+            "problem": "La activación económica del distrito es limitada debido a la falta de conexión con programas de empleo, emprendimiento y formación, dependiendo casi exclusivamente del esfuerzo individual.",
+            "objective": "Crear la Oficina de Promoción de la Inversión y la Competitividad Local, el Banco de Proyectos de Inversión Municipal, e impulsar alianzas con entidades como PRODUCE, universidades e institutos.",
+            "goal": "Impulsar la economía local facilitando emprendimientos, formalización y desarrollo comercial.",
+            "indicator": "Número de convenios activados para la agenda económica, número de participantes en programas de capacitación y empleabilidad, y número de acciones de promoción productiva implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito presenta una alta vulnerabilidad territorial, con seis quebradas críticas y una población estimada de 14,500 habitantes expuesta a riesgos geodinámicos como flujos de lodo y desprendimientos.",
+            "objective": "Implementar una cartera anual de intervenciones en puntos críticos, construir obras de mitigación como muros y barreras, y realizar limpieza preventiva y señalización de rutas de evacuación.",
+            "goal": "Mitigar de manera significativa la exposición en puntos críticos de quebradas, rutas de evacuación y fajas marginales priorizadas.",
+            "indicator": "Número de puntos críticos con intervención física o preventiva en ejecución, porcentaje de rutas de evacuación priorizadas con señalización y mantenimiento, y reducción de la exposición al riesgo en sectores prioritarios."
+          },
+          {
+            "problem": "La gestión de la limpieza pública es deficiente, con coberturas del 80% en zonas consolidadas y 65% en zonas alejadas, gestionando más de 8,500 toneladas anuales de residuos sólidos.",
+            "objective": "Implementar un plan barrial de accesibilidad, recuperar parques y espacios públicos, y ejecutar un programa de limpieza, ornato y segregación en la fuente con mantenimiento previsible.",
+            "goal": "Mejorar la calidad del espacio público y los servicios urbanos con un enfoque barrial.",
+            "indicator": "Número de barrios o sectores con mejoras físicas en ejecución, metros o puntos de accesibilidad intervenidos, y cantidad de espacios públicos recuperados y mantenidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existe una severa brecha tecnológica y operativa en seguridad ciudadana, con menos del 40% de cámaras funcionales, un ratio de 0.6 serenos por cada 1,000 habitantes y tiempos de respuesta de hasta 25 minutos.",
+            "objective": "Implementar el ecosistema \"Chaclacayo Seguro y Conectado\" con aplicaciones vecinales, una plataforma de gestión Web-C3 y un proyecto de videovigilancia inteligente con inteligencia artificial y lectura de placas (LPR).",
+            "goal": "Reducir la inseguridad ciudadana mediante tecnología, patrullaje integrado y recuperación del espacio público.",
+            "indicator": "Reducción progresiva del tiempo promedio de respuesta, operatividad de cámaras con LPR/analítica en accesos estratégicos y número de decisiones operativas basadas en datos."
+          },
+          {
+            "problem": "La legitimidad de la seguridad ciudadana se ve mermada por la falta de control social, participación vecinal e información clara, lo que dificulta la prevención de la violencia y el riesgo social.",
+            "objective": "Realizar consultas públicas periódicas del CODISEC, fortalecer las juntas vecinales, difundir mapas de incidencia y establecer una ruta rápida de atención para casos de violencia familiar.",
+            "goal": "Sectores con simulacros activos, aumento de la participación vecinal y un mayor número de brigadas o comités funcionales.",
+            "indicator": "Número de consultas públicas y reuniones por sectores, número de juntas vecinales activas o articuladas, y seguimiento público de los compromisos del CODISEC."
+          },
+          {
+            "problem": "La reducción del riesgo excede la capacidad financiera exclusiva del municipio y, sin una cartera de proyectos priorizada, las acciones quedan atrapadas en una lógica reactiva.",
+            "objective": "Gestionar proyectos e intervenciones por etapas para quebradas y laderas, establecer una mesa técnica con entidades como ANA, CENEPRED e INDECI, y postular a programas de cooperación.",
+            "goal": "Mitigar riesgos en quebradas y zonas vulnerables para proteger la vida y el territorio.",
+            "indicator": "Número de proyectos o IOARR con financiamiento gestionado, número de convenios activos para la reducción del riesgo y participación del riesgo en la programación multianual."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-DffMyTOL3QjBRpvdYvbWKKOvA0bTIA4Z",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DffMyTOL3QjBRpvdYvbWKKOvA0bTIA4Z",
+      "sha256": "54a474c59354f3a4124c4925acb9357d436fcd3a533cc17b6e66151c431097dc",
+      "accessedAt": "2026-10-02T22:53:30.939Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020399",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020399",
+      "sha256": "6e851a1c8d671f6153d3e0922d9ebd47c0df6cddc376b6cd292a3b4e364b7417",
+      "accessedAt": "2026-10-02T22:53:31.426Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": "7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU",
+  "slug": "lauro-cristobal-munoz-soldevilla",
+  "electionId": "erm-2026",
+  "name": "Lauro Cristobal Muñoz Soldevilla",
+  "givenNames": "Lauro Cristobal",
+  "surnames": "Muñoz Soldevilla",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140102",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:09.407Z",
+      "sourceId": "jne-hv-7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "COMPUTRON",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "San Ignacio de Loyola",
+        "program": "Ninguno",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE ANCON",
+      "role": "COORDINADOR",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Textiles Muñoz S.A",
+      "role": "Asistente Administrativo",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "Lauro Muñoz Abogados Consultores S.A.C",
+      "role": "Asistente Legal",
+      "from": "2018",
+      "to": "2021"
+    },
+    {
+      "employer": "Salmon Corp S.A.C",
+      "role": "Asistente Administrativo",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 48000,
+        "public": 48000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9765e3ab-1d6e-4876-9c3c-9ad09910f0ff.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/272ef034-c709-4cd1-8eb7-def6297cc70e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva.",
+            "objective": "Mejorar la atención y prevención en salud.",
+            "goal": "Reducir en 50% la anemia infantil.",
+            "indicator": "Personas atendidas en campañas de salud."
+          },
+          {
+            "problem": "Deficiencias en educación y capacitación juvenil.",
+            "objective": "Fortalecer la educación y formación para el empleo.",
+            "goal": "1,500 jóvenes certificados.",
+            "indicator": "Jóvenes capacitados."
+          },
+          {
+            "problem": "Inseguridad ciudadana.",
+            "objective": "Fortalecer la seguridad ciudadana.",
+            "goal": "150 cámaras operativas.",
+            "indicator": "Cámaras de vigilancia instaladas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo nivel de formalización empresarial.",
+            "objective": "Impulsar el emprendimiento y la formalización.",
+            "goal": "1,000 emprendimientos formalizados.",
+            "indicator": "Negocios formalizados."
+          },
+          {
+            "problem": "Escasas oportunidades de empleo formal.",
+            "objective": "Promover el empleo local.",
+            "goal": "1,000 nuevos empleos formales.",
+            "indicator": "Empleos generados."
+          },
+          {
+            "problem": "Potencial turístico poco aprovechado.",
+            "objective": "Desarrollar y promover el turismo local.",
+            "goal": "Aumentar en 50% el flujo turístico.",
+            "indicator": "Incremento de visitantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo inadecuado de residuos sólidos.",
+            "objective": "Mejorar la gestión ambiental.",
+            "goal": "Eliminar el 80% de puntos críticos.",
+            "indicator": "Puntos críticos eliminados."
+          },
+          {
+            "problem": "Déficit de áreas verdes.",
+            "objective": "Recuperar y ampliar áreas verdes.",
+            "goal": "Recuperar 30 hectáreas.",
+            "indicator": "Hectáreas recuperadas."
+          },
+          {
+            "problem": "Problemas de bienestar animal.",
+            "objective": "Fortalecer los servicios veterinarios.",
+            "goal": "3,000 mascotas atendidas.",
+            "indicator": "Mascotas atendidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada transparencia municipal.",
+            "objective": "Fortalecer la transparencia y rendición de cuentas.",
+            "goal": "100% de informes de gestión difundidos.",
+            "indicator": "Informes publicados."
+          },
+          {
+            "problem": "Procesos administrativos poco modernizados.",
+            "objective": "Impulsar la transformación digital.",
+            "goal": "Implementar servicios digitales municipales.",
+            "indicator": "Trámites digitalizados."
+          },
+          {
+            "problem": "Débil coordinación interinstitucional.",
+            "objective": "Fortalecer alianzas y convenios.",
+            "goal": "Incrementar la cooperación para proyectos locales.",
+            "indicator": "Convenios suscritos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139038",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: Contra el patrimonio",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2020-03-10",
+      "details": {
+        "materia": "Contra el patrimonio",
+        "fallo": "2 años y un mes",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "3er Juzgado de investigación preparatoria",
+        "expediente": "00719-2020",
+        "comentario": "SIN ANTECEDENTES PENALES NI JUDICIALES"
+      },
+      "quote": "Contra el patrimonio · 2 años y un mes · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-penal-139037",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: Delito peligro común",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2015-04-24",
+      "details": {
+        "materia": "Delito peligro común",
+        "fallo": "5 meses",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "6to Juzgado Penal de Callao",
+        "expediente": "4696-2013",
+        "comentario": null
+      },
+      "quote": "Delito peligro común · 5 meses · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU",
+      "sha256": "cb5364c74f457522ed356b37e0ba189e747e89b411199bd4865973c61dabd5b5",
+      "accessedAt": "2026-10-02T22:50:09.407Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023158",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023158",
+      "sha256": "565af09a05981beb7237fa39db74a00a91985426277a5dea83a1bfaf520a4a83",
+      "accessedAt": "2026-10-02T22:50:09.935Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

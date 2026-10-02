@@ -1,0 +1,190 @@
+{
+  "id": "nBrl_DmEhdQV1bJ4tY-V_bn9qSos3cQB",
+  "slug": "diana-vanessa-herrera-zavala",
+  "electionId": "erm-2026",
+  "name": "Diana Vanessa Herrera Zavala",
+  "givenNames": "Diana Vanessa",
+  "surnames": "Herrera Zavala",
+  "age": 38,
+  "gender": "Femenino",
+  "party": {
+    "id": 2898,
+    "name": "FE EN EL PERU"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:21.898Z",
+      "sourceId": "jne-hv-nBrl_DmEhdQV1bJ4tY-V_bn9qSos3cQB"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "IESPP \"MANUEL GONZALES PRADA\"",
+        "program": "DOCENTE DE PRIMARIA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "municipalidad de pachacmac",
+      "role": "servicio de gestión de cobranza",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "UGEL 01",
+      "role": "AUXILIAR DE EDUCACION",
+      "from": "2012",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIA DISTRITAL",
+      "party": "PARTIDO POLÍTICO FE EN EL PERU",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 44396.7,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Camioneta",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/57f04f9c-1296-4385-8787-65fac76fa1ef.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0d0416a9-ee83-4eeb-a744-35ec95f2b00b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Vulnerabilidades y riesgos en la juventud local, como violencia familiar, deserción escolar, consumo de drogas y embarazo adolescente.",
+            "objective": "Incorporar al desarrollo distrital y local a los sectores sociales más vulnerables como la niñez, la juventud, la mujer y el adulto mayor, defendiendo sus derechos y otorgándoles oportunidades de desarrollo.",
+            "goal": "Crear centros de atención especializados dirigidos a la niñez, la mujer, la juventud y al adulto mayor para incorporarlos al desarrollo distrital y local.",
+            "indicator": "Creación de centros de atención con programas especializados (guarderías, cunas, casa del adulto mayor)."
+          },
+          {
+            "problem": "Cobertura deficiente y calidad insuficiente de los servicios de salud y educación en el distrito.",
+            "objective": "Ampliar la cobertura de los servicios sociales, principalmente en salud y educación con calidad, tanto en el área urbana como rural.",
+            "goal": "Gestionar la construcción de un hospital de primer nivel y promover la creación de policlínicos de salud municipales mediante mecanismos como obras por impuestos.",
+            "indicator": "Número de nuevos establecimientos de salud y educación construidos y operativos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existencia de brechas significativas en la reducción de la pobreza extrema y en la mejora de la infraestructura urbana local, a pesar del crecimiento económico.",
+            "objective": "Garantizar un entorno favorable que incentive la inversión, la creación de empleos y el desarrollo económico urbano y rural.",
+            "goal": "Brindar capacitación y asesoramiento a los pequeños empresarios locales en temas de elaboración de planes de negocios y acceso a información sobre nuevos mercados.",
+            "indicator": "Número de pequeños empresarios locales que reciben capacitación y asesoramiento."
+          },
+          {
+            "problem": "Falta de articulación y apoyo para los productores y microempresarios locales, limitando su acceso a tecnología y mercados.",
+            "objective": "Impulsar una economía basada en el conocimiento, con capital humano y empresarial competitivo.",
+            "goal": "Facilitar la conformación de asociaciones de productores y microempresarios locales y promover el intercambio de experiencias sobre tecnología de producción y conocimiento de mercados.",
+            "indicator": "Número de asociaciones de productores y microempresarios locales conformadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación hídrica y de ecosistemas en el río Lurín debido a vertimientos de residuos sólidos, desagües clandestinos y actividades extractivas.",
+            "objective": "Mitigar el impacto ambiental frente a la expansión industrial y urbana, aplicando las normativas metropolitanas existentes.",
+            "goal": "Revisar los Planes Ambientales Detallados de las entidades comerciales y de servicios para asegurar su cumplimiento y/o proponer su modificación.",
+            "indicator": "Nivel de cumplimiento de los Planes Ambientales Detallados por parte de las entidades comerciales y de servicios."
+          },
+          {
+            "problem": "Fuerte degradación del entorno ambiental por el crecimiento desordenado, la presión inmobiliaria y la tensión sobre la zonificación de áreas agrícolas.",
+            "objective": "Realizar el acondicionamiento y ordenamiento territorial con el establecimiento de áreas de desarrollo productivo, residencial, protección ambiental, entre otros.",
+            "goal": "Proteger, conservar y revalorar las zonas agrícolas, incentivando la economía de los productores locales mediante convenios en el mercado interno y metropolitano.",
+            "indicator": "Hectáreas de zonas agrícolas protegidas y revaloradas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiencia en la gestión municipal, caracterizada por falta de liderazgo, poca capacidad operativa, corrupción y gestión sin planificación.",
+            "objective": "Impulsar una administración pública gerencial con enfoque estratégico y consolidar un gobierno local transparente, eficiente y con rendición de cuentas.",
+            "goal": "Implementar un sistema de administración de recursos humanos, tecnologías de información y comunicación, y actualizar y modernizar el sistema catastral urbano y rural municipal.",
+            "indicator": "Grado de implementación de tecnologías de información y comunicación para la eficacia gubernamental."
+          },
+          {
+            "problem": "Creciente clima de inseguridad ciudadana que afecta la tranquilidad y el desarrollo del distrito.",
+            "objective": "Disminuir los efectos negativos de la inseguridad ciudadana, salvaguardando la integridad personal y el patrimonio de los ciudadanos.",
+            "goal": "Crear la primera central única de cámaras, basada en reconocimiento facial y placas de rodaje, interconectada con la Policía Nacional del Perú (PNP), mediante el mecanismo de obras por impuestos.",
+            "indicator": "Número de cámaras de videovigilancia interconectadas con la Policía Nacional del Perú."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-nBrl_DmEhdQV1bJ4tY-V_bn9qSos3cQB",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/nBrl_DmEhdQV1bJ4tY-V_bn9qSos3cQB",
+      "sha256": "a82968c548f55013568f61008b95fe03a6f2067b15951049cf965c7abcf9bc0e",
+      "accessedAt": "2026-10-02T22:59:21.898Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015220",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015220",
+      "sha256": "1c883c32898cb6948283e30311a8f5bb7a344004d99bf4a0722892bf9afe20cd",
+      "accessedAt": "2026-10-02T22:59:22.391Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

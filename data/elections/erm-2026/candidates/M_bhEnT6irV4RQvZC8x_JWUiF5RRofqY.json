@@ -1,0 +1,187 @@
+{
+  "id": "M_bhEnT6irV4RQvZC8x_JWUiF5RRofqY",
+  "slug": "edgard-nunez-quipuzco",
+  "electionId": "erm-2026",
+  "name": "Edgard Nuñez Quipuzco",
+  "givenNames": "Edgard",
+  "surnames": "Nuñez Quipuzco",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 2933,
+    "name": "LIBERTAD POPULAR"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:34.653Z",
+      "sourceId": "jne-hv-M_bhEnT6irV4RQvZC8x_JWUiF5RRofqY"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "EMCH",
+        "program": "LIC. CIENCIAS MILITARES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1990"
+      },
+      {
+        "level": "posgrado",
+        "institution": "ESGE-EPG",
+        "program": "CIENCIAS MILITARES PLANEAMIENTO ESTRATEGICO",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "CAEN",
+        "program": "DESARROLLO NACIONAL",
+        "completed": true,
+        "degree": null,
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINISTERIO DE DEFENSA",
+      "role": "OFL EP (R)",
+      "from": "1987",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO NACIONAL DE PLAN DE GOBIERNO",
+      "party": "PACTO NACIONAL",
+      "from": "2024",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 11375.56,
+        "public": 11375.56,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 145688.49,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 91712.6,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 261465.47,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 80500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2203506f-0cab-4410-a0b2-135eaed0d0a4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a4c87ab4-31c8-49fd-94eb-a132fa56d483.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Robos al paso, a domicilios, de autopartes, inseguridad en centros comerciales y financieros, extorsión y delitos informáticos.",
+            "objective": "Implementar un distrito inteligente con tecnología digital al servicio del vecino, fomentar la participación vecinal para alertas oportunas, realizar patrullaje integrado con la Policía Nacional del Perú y establecer sistemas institucionales integrados.",
+            "goal": "Incremento anual del 25% en seguridad, implementación del centro de control C5 al 100% en 24 meses, finalización del proyecto de la aplicación en 6 meses y conclusión del proyecto de la línea segura en 12 meses.",
+            "indicator": "Incremento del 50% de cámaras de videovigilancia con inteligencia artificial, implementación de un centro de control C5, mejora de la aplicación SOS SAN BORJA e implementación de una línea segura para delitos de extorsión y violencia familiar."
+          },
+          {
+            "problem": "Falta de atención en los servicios de primer nivel de atención de manera ambulatoria dedicados a la salud familiar, comunitaria y salud ambiental.",
+            "objective": "Fortalecer la cobertura y accesibilidad de los servicios de atención primaria de salud, mejorar la calidad de atención integral en salud familiar y comunitaria, y fortalecer las acciones de promoción de la salud y gestión de la salud ambiental.",
+            "goal": "Alcanzar una cobertura de atención del 90% de la población objetivo, reducir el tiempo de espera a menos de 2 días hábiles, lograr una satisfacción de usuarios superior al 95% y alcanzar una cobertura del 90% en actividades de promoción de la salud en la población objetivo.",
+            "indicator": "Porcentaje de cobertura de atención ambulatoria, tiempo promedio de espera para citas en días, porcentaje de satisfacción del usuario, porcentaje de cobertura de controles preventivos y porcentaje de cobertura de actividades de promoción de la salud."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El distrito de San Borja, pese a su alta formalidad laboral, enfrenta limitaciones en la productividad de sus MYPES y en la digitalización de procesos empresariales. La falta de infraestructura de innovación y de apoyo sostenido a la competitividad limita el crecimiento económico y la generación de empleo formal pleno.",
+            "objective": "Impulsar la transformación digital de las MYPES, fortalecer los conglomerados empresariales de servicios, salud, educación y comercio, y promover la innovación y la infraestructura productiva para alcanzar un mercado laboral con empleo formal y sostenible.",
+            "goal": "Alcanzar 95¿% de la PEA con empleo formal en el distrito. Lograr que 100¿% de las MYPES registradas estén digitalizadas y operen en plataformas digitales. Consolidar al menos 5 nuevos conglomerados empresariales en sectores estratégicos. Incrementar en 30¿% la productividad laboral promedio respecto al año base 2026.",
+            "indicator": "Porcentaje de la PEA con empleo formal. Número de MYPES digitalizadas y con acceso a plataformas de comercio electrónico. Creación de nuevos conglomerados empresariales en ejes estratégicos del distrito. Nivel de productividad laboral medido por ingresos promedio por trabajador."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Congestión vehicular y contaminación ambiental en el distrito.",
+            "objective": "Reducir la congestión vehicular y la contaminación ambiental.",
+            "goal": "Reducir el flujo vehicular en un 25%, incrementar el uso de transporte público al 20%, aumentar el uso de bicicletas al 30%, reducir los niveles de contaminación, incrementar las áreas verdes en un 15% e incrementar la cobertura de las ciclovías.",
+            "indicator": "Reducción del flujo vehicular en horas punta, uso de transporte público, uso de bicicletas, calidad del aire, áreas verdes urbanas y amplitud de las ciclovías operativas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Trámites administrativos presenciales y lentos, Texto Único de Procedimientos Administrativos (TUPA) desactualizado y falta de interconectividad.",
+            "objective": "Convertir a San Borja en un distrito inteligente mediante el uso de tecnología digital al servicio del vecino con agilidad y transparencia, así como realizar la revisión del TUPA.",
+            "goal": "Alcanzar el 100% de trámites digitales al final de la gestión, que el 60% de adultos mayores utilice la aplicación para pagos, lograr el 80% de consultas no de emergencia mediante teleconsulta, reducir a 4 minutos las respuestas a pedidos de auxilio y totalizar 12 cabinas en el distrito.",
+            "indicator": "Digitalización del 100% de los trámites, porcentaje de adultos mayores que usan la aplicación, prestaciones de salud por teleconsulta, centro de comando y control C2 con inteligencia artificial predictiva y cabinas digitales de servicio público asistidas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-M_bhEnT6irV4RQvZC8x_JWUiF5RRofqY",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/M_bhEnT6irV4RQvZC8x_JWUiF5RRofqY",
+      "sha256": "2460268da86801c5ec876f011c6698ab32ffd07302ff4900276607b72d255356",
+      "accessedAt": "2026-10-02T23:02:34.653Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015918",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015918",
+      "sha256": "92271b7c94e03de4f1ddfa1b177d943f07d02e2deb90fdd02e5c6ac8bbabf5aa",
+      "accessedAt": "2026-10-02T23:02:35.170Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

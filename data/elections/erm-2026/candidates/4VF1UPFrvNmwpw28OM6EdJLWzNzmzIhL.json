@@ -1,0 +1,334 @@
+{
+  "id": "4VF1UPFrvNmwpw28OM6EdJLWzNzmzIhL",
+  "slug": "adolfo-israel-mattos-piaggio",
+  "electionId": "erm-2026",
+  "name": "Adolfo Israel Mattos Piaggio",
+  "givenNames": "Adolfo Israel",
+  "surnames": "Mattos Piaggio",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:40.144Z",
+      "sourceId": "jne-hv-4VF1UPFrvNmwpw28OM6EdJLWzNzmzIhL"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "INGENIERO CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "Ingeniero Industrial",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad de Piura",
+        "program": "Programa de Gerencia de Empresas",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad San Ignacio de Loyola",
+        "program": "Maestria en Gestion Publica",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MAGA SAC",
+      "role": "INGENIERO CIVIL",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "Atlon SAC",
+      "role": "Ingeniero Civil",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "employer": "Municipalidad Distrital de San Martin de Porres",
+      "role": "Alcalde",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "SIEMPRE UNIDOS",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA NACIONAL DE GOBIERNOS LOCALES Y REGIONALES",
+      "party": "PARTIDO POLITICO CONTIGO",
+      "from": "2015",
+      "to": "2020"
+    },
+    {
+      "position": "SECRETARIO NACIONAL DE ORGANIZACIÓN",
+      "party": "PARTIDO POLITICO CONTIGO",
+      "from": "2015",
+      "to": "2015"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 240000,
+        "public": 0,
+        "private": 240000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 206223.9,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 86937.72,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 45930.13,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Camioneta SUV",
+        "value": 105000
+      },
+      {
+        "type": "camioneta SUV",
+        "value": 30000
+      },
+      {
+        "type": "volquete carga pesada",
+        "value": 40000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GABEL SERVICIOS GENERALES SAC",
+        "type": "ACCIONES",
+        "quantity": 6500,
+        "value": 6500
+      },
+      {
+        "company": "MATTOS GLOBAL IMPORT SAC",
+        "type": "ACCIONES",
+        "quantity": 3580,
+        "value": 3580
+      },
+      {
+        "company": "CORPORACION AUTOMOTRIZ MOTOR CENTRO SAC",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3a1585a6-4b0e-4f76-9a93-ee0cb826694e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a3ea4578-31de-4845-a7cf-92d5584a9eed.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana, violencia, pandillaje, consumo de drogas y otros factores que afectan la convivencia social.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la articulación entre Serenazgo, Policía Nacional, juntas vecinales y ciudadanía organizada.",
+            "goal": "Reducir progresivamente los índices de percepción de inseguridad ciudadana, ampliar la cobertura de videovigilancia, fortalecer el patrullaje preventivo y promover sistemas de seguridad vecinal.",
+            "indicator": "Índices de percepción de inseguridad ciudadana, cobertura de videovigilancia."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud mental para niños, adolescentes, jóvenes, adultos y adultos mayores.",
+            "objective": "Fortalecer las acciones de promoción, prevención y atención de la salud mediante alianzas estratégicas con instituciones públicas y privadas.",
+            "goal": "Ejecutar campañas permanentes de salud mental, atención odontológica, oftalmológica y medicina preventiva dirigidas prioritariamente a la población vulnerable.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Falta de oportunidades de capacitación e inserción laboral para los jóvenes del distrito.",
+            "objective": "Promover la capacitación técnica, el emprendimiento y la empleabilidad juvenil mediante convenios con instituciones públicas y privadas.",
+            "goal": "Capacitar y certificar a jóvenes y a la población económicamente activa mediante programas de formación técnica, emprendimiento y empleabilidad.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Escasa participación de niños y jóvenes en actividades deportivas y recreativas.",
+            "objective": "Promover el deporte y la recreación como herramientas de integración social y prevención de conductas de riesgo.",
+            "goal": "Organizar campeonatos distritales, interescolares e interzonales, así como programas recreativos permanentes para niños, jóvenes y adultos mayores.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Escasez de espacios de integración social, recreación y convivencia comunitaria para vecinos de todas las edades.",
+            "objective": "Promover actividades culturales, recreativas, deportivas y sociales que fortalezcan la integración vecinal, la salud emocional y el uso positivo de los espacios públicos.",
+            "goal": "Implementar un programa permanente de actividades comunitarias que incluya concursos, festivales, talleres, ferias vecinales y eventos familiares en los diferentes sectores del distrito.",
+            "indicator": "No se especifican indicadores en el documento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasos espacios para la promoción de emprendimientos locales.",
+            "objective": "Promover la actividad económica local mediante espacios ordenados para la comercialización de productos y servicios.",
+            "goal": "Implementar mercados de pulgas municipales itinerantes, ferias de emprendimiento, ferias gastronómicas y espacios de promoción comercial en diversos sectores del distrito.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Limitadas oportunidades de capacitación para micro y pequeños empresarios.",
+            "objective": "Fortalecer las capacidades empresariales mediante programas de asesoría, capacitación y acompañamiento técnico.",
+            "goal": "Implementar un Programa Municipal de Fortalecimiento Empresarial para micro y pequeños negocios.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Alta presencia de comercio informal.",
+            "objective": "Promover la formalización de comerciantes y emprendedores mediante asistencia técnica, programas de orientación y simplificación administrativa.",
+            "goal": "Incrementar progresivamente el número de comerciantes formalizados mediante programas gratuitos de asesoría y acompañamiento empresarial.",
+            "indicator": "Número de comerciantes formalizados."
+          },
+          {
+            "problem": "Escasas oportunidades de vinculación laboral.",
+            "objective": "Promover la empleabilidad mediante ferias laborales y de articulación con empresas e instituciones públicas y privadas.",
+            "goal": "Incrementar las oportunidades de inserción laboral de jóvenes y población económicamente activa del distrito.",
+            "indicator": "Tasa de inserción laboral de la población económicamente activa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente mantenimiento y recuperación de parques y áreas verdes.",
+            "objective": "Mejorar la gestión y conservación de parques, jardines y espacios públicos del distrito.",
+            "goal": "Incrementar y mantener adecuadamente las áreas verdes, parques y espacios públicos del distrito.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Deficiente gestión integral de residuos sólidos.",
+            "objective": "Fortalecer la gestión ambiental y promover la adecuada disposición y aprovechamiento de residuos sólidos.",
+            "goal": "Incrementar la participación ciudadana en programas de segregación, reciclaje y gestión responsable de residuos sólidos.",
+            "indicator": "Porcentaje de participación ciudadana en programas de segregación y reciclaje."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la transparencia y la rendición de cuentas.",
+            "objective": "Consolidar una gestión municipal abierta y orientada al ciudadano.",
+            "goal": "Realizar audiencias públicas periódicas, fortalecer los canales de información y ampliar el acceso a la información pública municipal.",
+            "indicator": "Número de audiencias públicas realizadas y canales de información implementados."
+          },
+          {
+            "problem": "Necesidad de fortalecer las capacidades del personal municipal.",
+            "objective": "Promover la capacitación permanente y la mejora continua de los servidores y funcionarios municipales.",
+            "goal": "Incrementar los niveles de capacitación y desempeño del personal municipal.",
+            "indicator": "Niveles de capacitación y desempeño del personal municipal."
+          },
+          {
+            "problem": "Procesos administrativos complejos y poco ágiles.",
+            "objective": "Modernizar y simplificar los procedimientos administrativos mediante herramientas tecnológicas y mejora de procesos.",
+            "goal": "Implementar mecanismos de atención y tramitación más eficientes, accesibles y transparentes para los vecinos.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la toma de decisiones locales.",
+            "objective": "Fortalecer los mecanismos de participación vecinal y control ciudadano.",
+            "goal": "Incrementar la participación de organizaciones vecinales en los procesos de planificación, presupuesto participativo y vigilancia ciudadana de la gestión municipal.",
+            "indicator": "Nivel de participación de organizaciones vecinales en procesos de planificación y presupuesto participativo."
+          },
+          {
+            "problem": "Necesidad de fortalecer la seguridad física de los sectores residenciales.",
+            "objective": "Promover intervenciones urbanas que contribuyan a la seguridad y organización territorial del distrito.",
+            "goal": "Gestionar la implementación de cerramientos, accesos controlados, rejas urbanizacionales e iluminación pública en coordinación con las organizaciones vecinales.",
+            "indicator": "No se especifican indicadores en el documento."
+          },
+          {
+            "problem": "Déficit de infraestructura urbana y espacios públicos adecuados.",
+            "objective": "Impulsar proyectos de mejoramiento urbano, accesibilidad y recuperación de espacios públicos.",
+            "goal": "Incrementar progresivamente la cobertura y calidad de la infraestructura urbana, pistas, veredas, parques y espacios de recreación.",
+            "indicator": "Cobertura y calidad de la infraestructura urbana (pistas, veredas, parques)."
+          },
+          {
+            "problem": "Vulnerabilidad frente a emergencias y desastres.",
+            "objective": "Fortalecer la gestión del riesgo de desastres y la preparación de la población.",
+            "goal": "Incrementar las acciones de prevención, capacitación y simulacros para mejorar la capacidad de respuesta de la comunidad.",
+            "indicator": "Número de acciones de prevención, capacitación y simulacros realizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-4VF1UPFrvNmwpw28OM6EdJLWzNzmzIhL",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/4VF1UPFrvNmwpw28OM6EdJLWzNzmzIhL",
+      "sha256": "1f48b82fc57203f9f0e4643bfd75d447c70b1b2aca64166ce5d74974707fdb35",
+      "accessedAt": "2026-10-02T23:04:40.144Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020608",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020608",
+      "sha256": "35612fcd6d1323761706b9c3b6dcc8b1bd5bafdd4e0073122667e59d67d4d220",
+      "accessedAt": "2026-10-02T23:04:40.651Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

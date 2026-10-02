@@ -1,0 +1,227 @@
+{
+  "id": "n62f2lsLOS7dEoDgOAuaeNJG8xB6HF02",
+  "slug": "antero-maurine-pickmans-arenaza",
+  "electionId": "erm-2026",
+  "name": "Antero Maurine Pickmans Arenaza",
+  "givenNames": "Antero Maurine",
+  "surnames": "Pickmans Arenaza",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:38.188Z",
+      "sourceId": "jne-hv-n62f2lsLOS7dEoDgOAuaeNJG8xB6HF02"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE HUANUCO",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACION PICKMANS S.A.C.",
+      "role": "EMPLEADO",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2021"
+    },
+    {
+      "party": "ACCION POPULAR",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 141560,
+        "public": 0,
+        "private": 141560
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "ESTACIONAMIENTO",
+        "value": 14014.66,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DEPARTAMENTO",
+        "value": 83112.43,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "ESTACIONAMIENTO",
+        "value": 6461.21,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "TOYOTA YARIS",
+        "value": 37403.04
+      },
+      {
+        "type": "JEEP CHEROKEE LONGITUDE",
+        "value": 57804.69
+      },
+      {
+        "type": "VOLKSWAGEN - GOL SEDAN",
+        "value": 40803.31
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "- CIPICKSAC, PERSONA JURIDICA CON BAJA DE OFICIO 31/10/2024 - COPICKAR S.A.C., PERSONA JURIDICA CON BAJA DE OFICIO 31/08/2011 - GRUPO CORPORATIVO PICKMANS S.A.C., PERSONA JURIDICA CON BAJA DE OFICIO 31/05/2016 - COPICKPAL S.A.C., PERSONA JURIDICA CON BAJA DE OFICIO 28/02/2014",
+    "INFORMO QUE CUENTO CON DOS ASOCIACIONES SIN FINES DE LUCRO, DEBIDAMENTE CONSTITUIDAS, LAS CUALES DESARROLLAN ACTIVIDADES ORIENTADAS AL BIENESTAR Y DESARROLLO DE LA COMUNIDAD: 1. ASOCIACIÓN DE PRODUCTORES Y COMERCIANTES DE FRUTAS NICOLAS AYLLON. 2. ASOCIACIÓN EDUCATIVA CULTURAL Y DEPORTIVA AQUÍ ESTAMOS SANTA ANITA.",
+    "AÚN FALTAN CULMINAR TRAMITES DE SUCESIÓN INTESTADAS, QUE GENERARAN DERECHOS DE PROPIEDAD."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9f65084d-83f4-4ca3-a02b-dcbe695982de.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a2c85c94-a4e7-4fdb-939a-af86735fbd8c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia delictiva, violencia escolar, pandillaje y consumo de drogas que generan una elevada percepción de inseguridad en el distrito.",
+            "objective": "Modernizar integralmente los servicios de seguridad ciudadana, mejorar la capacidad de respuesta ante emergencias y fortalecer la articulación con la comunidad para la prevención del delito.",
+            "goal": "Reducir significativamente los índices delictivos y mejorar la percepción de seguridad mediante la modernización tecnológica del serenazgo, la implementación de una central de monitoreo mejorada y la creación de una red ciudadana de seguridad.",
+            "indicator": "Número de cámaras de vigilancia con IA y comunicación bidireccional; tiempo promedio de respuesta a las alertas generadas por los vecinos; número de patrullajes conjuntos con distritos aledaños; reducción de incidencias delictivas por zona."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud, con un 35.7% de la población sin seguro, y carencia de programas de salud preventiva y comunitaria.",
+            "objective": "Mejorar y ampliar la oferta de servicios de salud, facilitando el acceso a atenciones médicas, medicamentos a precios sociales y promoviendo la salud preventiva, mental y comunitaria.",
+            "goal": "Garantizar el acceso a servicios de salud de calidad para todos los vecinos a través de la reestructuración de la Clínica Municipal, la creación de una Farmacia Municipal y la implementación de programas de salud preventiva y bienestar social.",
+            "indicator": "Número de especialidades implementadas en la Clínica Municipal; porcentaje de reducción del costo promedio de medicamentos en la farmacia municipal; número de promotores de salud comunitaria capacitados; número de atenciones psicológicas realizadas."
+          },
+          {
+            "problem": "Brechas en el acceso a la educación superior y deficiencias en el rendimiento escolar, junto a una falta de programas de desarrollo para la primera infancia.",
+            "objective": "Fortalecer la formación académica de los jóvenes para el acceso a la educación superior y brindar apoyo en el desarrollo de sus tareas escolares, así como promover el desarrollo integral desde los primeros años de vida.",
+            "goal": "Implementar programas educativos como la academia preuniversitaria, el refuerzo escolar y la estimulación temprana para reducir las brechas de aprendizaje y brindar mayores oportunidades a niños y jóvenes del distrito.",
+            "indicator": "Número de estudiantes matriculados en la Academia Municipal Pre Universitaria; porcentaje de estudiantes que mejoran su rendimiento académico; número de niños y niñas de 0 a 3 años beneficiados por el programa de estimulación temprana."
+          },
+          {
+            "problem": "Deterioro de la infraestructura urbana, como pistas y veredas, y falta de acceso a servicios básicos y titulación de predios en sectores vulnerables.",
+            "objective": "Mejorar la habitabilidad y conectividad del distrito mediante la reparación de la infraestructura vial, la formalización de la propiedad y la gestión para el acceso universal a servicios básicos.",
+            "goal": "Ejecutar un programa integral de mejoramiento de infraestructura barrial, incluyendo la reparación de pistas y veredas, la formalización de predios y la facilitación del acceso a servicios básicos para mejorar la calidad de vida en el distrito.",
+            "indicator": "Metros cuadrados de pistas reparadas; número de predios titulados; número de familias beneficiadas con el acceso a servicios básicos; número de muros de contención construidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Población económicamente activa desocupada, especialmente en el grupo etario de 14 a 29 años, y falta de apoyo para la formalización y competitividad de los emprendimientos locales.",
+            "objective": "Impulsar el emprendimiento y la competitividad productiva del distrito a través de capacitación, asesoría personalizada, incentivos y cofinanciamiento de planes de negocio.",
+            "goal": "Fomentar el desarrollo económico local mediante la creación de la Escuela Municipal de Emprendimiento y la implementación del programa Procompite, promoviendo la formalización y el crecimiento de los negocios.",
+            "indicator": "Número de emprendedores del distrito capacitados; número de planes de negocio cofinanciados por el programa Procompite; incremento de la formalización de negocios en el distrito; número de ferias itinerantes realizadas."
+          },
+          {
+            "problem": "Desempleo juvenil y brechas de empleabilidad que dificultan la inserción laboral de los vecinos del distrito.",
+            "objective": "Mejorar la empleabilidad de los vecinos, especialmente de los jóvenes, conectando eficientemente el perfil laboral con las oportunidades de empleo y desarrollando competencias y habilidades blandas.",
+            "goal": "Reducir el desempleo juvenil y mejorar las oportunidades laborales para los vecinos a través de una bolsa de trabajo inteligente con IA, convenios para prácticas laborales y programas de capacitación en habilidades blandas.",
+            "indicator": "Número de jóvenes contratados por empresas locales; número de personas que accedieron a puestos de trabajo mediante la bolsa de trabajo inteligente; número de talleres de habilidades blandas realizados; número de convenios de primera experiencia laboral suscritos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, con puntos críticos de acumulación, y una escasa cultura de reciclaje y segregación en la fuente por parte de la población.",
+            "objective": "Modernizar el sistema de gestión de residuos sólidos, promoviendo la segregación en la fuente, fortaleciendo la recolección selectiva y garantizando una adecuada cadena de reciclaje en todo el distrito.",
+            "goal": "Implementar un moderno sistema de gestión de residuos sólidos que promueva la segregación en la fuente y el reciclaje, logrando un distrito limpio y sostenible con la participación activa de los vecinos.",
+            "indicator": "Toneladas de residuos reciclables recolectadas anualmente; número de contenedores diferenciados instalados; reducción de puntos críticos de acumulación de residuos sólidos; porcentaje de viviendas que participan en programas de segregación."
+          },
+          {
+            "problem": "Deterioro de espacios públicos, áreas verdes y cuerpos de agua como el río Surco, además de contaminación visual por cableado en desuso.",
+            "objective": "Recuperar integralmente los espacios públicos, áreas verdes y el canal del río Surco, reduciendo la contaminación ambiental y visual para embellecer el distrito y mejorar la calidad de vida.",
+            "goal": "Ejecutar programas de recuperación de espacios públicos, limpieza y mantenimiento del río Surco, y retiro de cableado en desuso para lograr un entorno urbano ordenado, saludable y sostenible.",
+            "indicator": "Número de espacios públicos recuperados; metros lineales del canal del río Surco descolmatados y mantenidos; número de parques recuperados y habilitados temáticamente; metros lineales de cable en desuso retirado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procedimientos administrativos municipales obsoletos, burocráticos y no digitalizados, lo que genera demoras y dificultades para los vecinos.",
+            "objective": "Modernizar la gestión municipal mediante la reorganización de su estructura, la digitalización de procedimientos administrativos y la implementación de plataformas virtuales para mejorar la atención al ciudadano.",
+            "goal": "Lograr la transformación digital integral de la municipalidad, implementando el expediente digital, la mesa de partes virtual y otros canales digitales para ofrecer una gestión administrativa eficiente, transparente y accesible.",
+            "indicator": "Número de procedimientos administrativos digitalizados; tiempo de mejora de los procedimientos administrativos; número de vecinos que usan las plataformas digitales para sus trámites; implementación del expediente digital."
+          },
+          {
+            "problem": "Bajos niveles de recaudación tributaria, alta morosidad y una base de contribuyentes limitada, lo que afecta la capacidad financiera del municipio.",
+            "objective": "Modernizar la gestión tributaria para incrementar la recaudación, reducir los niveles de morosidad y ampliar la base de contribuyentes a través de incentivos y facilidades de pago.",
+            "goal": "Fortalecer las finanzas municipales mediante la implementación de programas de incentivos para el pago puntual y facilidades para la regularización de deudas, junto con una plataforma de cuenta tributaria digital.",
+            "indicator": "Incremento de la recaudación tributaria municipal; monto de la deuda tributaria recuperada; número de contribuyentes que han regularizado sus deudas; número de cuentas tributarias digitales activas."
+          },
+          {
+            "problem": "Escasa participación ciudadana en la gestión municipal y falta de mecanismos efectivos de diálogo, control y rendición de cuentas.",
+            "objective": "Fortalecer la confianza y la cercanía con la comunidad, promoviendo la participación directa de los vecinos en la gestión y fiscalización a través de espacios de diálogo y un gobierno abierto.",
+            "goal": "Institucionalizar una gestión participativa y transparente a través de audiencias zonales, reuniones semanales con el alcalde y el reconocimiento de juntas vecinales, asegurando la rendición de cuentas y el control ciudadano.",
+            "indicator": "Número de reuniones “El Alcalde Escucha” realizadas; número de audiencias públicas zonales; número de proyectos comunitarios financiados mediante el fondo concursable; número de organizaciones sociales reconocidas y capacitadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-n62f2lsLOS7dEoDgOAuaeNJG8xB6HF02",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/n62f2lsLOS7dEoDgOAuaeNJG8xB6HF02",
+      "sha256": "dca62ab8bbdbc247c74537703749de3e1604e7c6da71ef268c488720cf47df72",
+      "accessedAt": "2026-10-02T23:05:38.188Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016390",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016390",
+      "sha256": "9c8762eea0e03a716b88d6d4a42c2e52ceea750e9a42129997ad31acf9d97161",
+      "accessedAt": "2026-10-02T23:05:38.735Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

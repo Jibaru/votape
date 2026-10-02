@@ -1,0 +1,216 @@
+{
+  "id": "VclMNQHoMz6X9XVrpPvO8T1yM08eu-kr",
+  "slug": "maria-soledad-ferreyros-castaneda",
+  "electionId": "erm-2026",
+  "name": "Maria Soledad Ferreyros Castañeda",
+  "givenNames": "Maria Soledad",
+  "surnames": "Ferreyros Castañeda",
+  "age": 67,
+  "gender": "Femenino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:06.599Z",
+      "sourceId": "jne-hv-VclMNQHoMz6X9XVrpPvO8T1yM08eu-kr"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1993"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1990"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSITE DE BORDEAUX",
+        "program": "GRADO DE MÁSTER EN DERECHO, ECONOMÍA, GESTIÓN, ESPECIALIDAD: MANAGEMENT - PROGRAMA TIPO EN GESTIÓN Y TEORÍAS DE LAS ORGANIZACIONES (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2020"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDECOPI",
+      "role": "VOCAL DEL TRIBUNAL",
+      "from": "2006",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 158169,
+        "public": 0,
+        "private": 158169
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 2069.64,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "WOL GOLD",
+        "value": 500
+      },
+      {
+        "type": "TOYOTA RAVA 2011",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESTUDIO M. FERREYROS Y ABOGADOS ASOCIADOS SCRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 100,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4a10187f-f00a-48a1-9d31-33ecfea3a896.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/107b0c6f-23c4-4a83-b8aa-003e0f53773f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, robos al paso, venta de drogas, explotación sexual y limitada presencia efectiva del Serenazgo y la PNP en las zonas críticas del distrito.",
+            "objective": "Ejecutar el proyecto Smart City Miraflores con sistema de cámaras de videovigilancia con inteligencia artificial; liderar la lucha contra la delincuencia mejorando el patrullaje integrado; implementar pórticos inteligentes, botón de pánico y drones; ejecutar el 'Plan Cuadrante' con operativos permanentes; e implementar el programa 'Mi cole seguro' para la seguridad de los escolares.",
+            "goal": "Reducir en 50% la tasa de delitos contra el patrimonio; Disminuir en 40% la percepción de inseguridad; Incrementar en 30% el número de serenos operativos; Lograr 100% de cámaras operativas y al menos 70% con IA; Reducir el tiempo de respuesta a 5 minutos o menos.",
+            "indicator": "Tasa de delitos contra el patrimonio; Percepción de inseguridad; Número de serenos operativos; Porcentaje de cámaras operativas con IA; Tiempo promedio de respuesta a incidentes críticos."
+          },
+          {
+            "problem": "Congestión vehicular, desorden del tránsito, siniestralidad, informalidad en el transporte, deficiencias de semaforización y señalización, y crecimiento de la micromovilidad sin infraestructura suficiente.",
+            "objective": "Implementar un sistema de semaforización inteligente y señalización vial; implementar una red de ciclovías segura; rediseñar intersecciones y cruceros peatonales; mejorar la fiscalización del tránsito en coordinación con la ATU y la MML; ordenar el estacionamiento y promover corredores de buses eléctricos gratuitos.",
+            "goal": "Reducir en 30% los tiempos promedio de viaje en hora punta; Disminuir en 70% los siniestros viales con víctimas; Incrementar en 40% el uso de bicicleta pública; Implementar 20 intersecciones semaforizadas con tecnología de punta; Completar al menos 9 km adicionales de ciclovías; Reducir en 60% los puntos negros de congestión; Reducir en un 70% la presencia de vehículos informales; Implementar 3 circuitos de buses eléctricos gratuitos en el distrito.",
+            "indicator": "Tiempo promedio de viaje interno; Número de siniestros viales con víctimas; Porcentaje de uso de bicicleta pública; Número de intersecciones semaforizadas con tecnología; Kilómetros adicionales de ciclovías; Reducción de puntos negros de congestión y presencia de vehículos informales; Número de circuitos de buses eléctricos gratuitos."
+          },
+          {
+            "problem": "Deficiente gestión del riesgo de desastres en el distrito, por la falta de liderazgo de la autoridad local para mejorar la condición costera, sus acantilados y la falta de protocolos ante sismos, tsunamis y emergencias urbanas.",
+            "objective": "Liderar y articular el Sistema de Gestión de Riesgo de Desastres; actualizar estudios de riesgo, mapas de peligro y planos de prevención; incrementar las brigadas comunitarias y equipar los almacenes soterrados; implementar el sistema de alerta temprana; fortalecer las brigadas vecinales con capacitaciones; impulsar simulacros con protocolos de movilización seguros; e implementar mejoras físicas en accesos y salidas de la Costa Verde.",
+            "goal": "100% de los mapas de peligro y planos de prevención del distrito actualizados; 100% de protocolos especiales de emergencia elaborados; 100% de los almacenes soterrados equipados; 60% de los accesos vehiculares y peatonales de la Costa Verde intervenidos; Incrementar en un 40% la movilización y participación de los vecinos por simulacro distrital; Incrementar en un 40% el número de brigadas vecinales y comunitarias de Defensa Civil acreditadas.",
+            "indicator": "Porcentaje de mapas de peligro y planos de prevención actualizados; Porcentaje de protocolos de emergencia validados; Porcentaje de almacenes soterrados equipados; Porcentaje de accesos vehiculares y peatonales de la Costa Verde intervenidos; Porcentaje de movilización y participación de los vecinos por simulacro distrital; Porcentaje de brigadas vecinales y comunitarias de Defensa Civil capacitadas y acreditadas."
+          },
+          {
+            "problem": "Limitada cobertura de salud preventiva y de servicios sociales para adultos mayores, personas con discapacidad y cohesión comunitaria; limitada atención del comedor y panadería municipal.",
+            "objective": "Fortalecer la salud preventiva, implementar el programa PADOMI Municipal, potenciar programas sociales y de inclusión (DEMUNA, OMAPED, salud mental), y relanzar el comedor y la panadería municipal, incrementando el número de vecinos beneficiarios.",
+            "goal": "Integrar al menos al 80% de adultos mayores identificados en el programa; Aumentar 100% las campañas médicas; Incrementar en un 25% la cobertura preventiva de la DEMUNA; Incrementar en un 30% el número de beneficiarios del comedor y panadería municipal; Incrementar en un 30% el número de egresadas de los talleres de emprendimiento; Incrementar en un 40% el número de vecinos capacitados en educación alimentaria.",
+            "indicator": "Porcentaje de adultos mayores inscritos en el programa de salud; Porcentaje de campañas médicas; Porcentaje de incremento de la cobertura preventiva de la DEMUNA; Porcentaje de incremento del número de beneficiarios del comedor y panadería municipal; Porcentaje de incremento del número de egresadas de los talleres de emprendimiento; Porcentaje de incremento del número de vecinos capacitados en educación alimentaria."
+          },
+          {
+            "problem": "Reducción de la capacidad de la infraestructura deportiva, limitada participación de los jóvenes en programas municipales y poca cobertura de atención de la veterinaria municipal a las mascotas.",
+            "objective": "Recuperar el Complejo Deportivo Manuel Bonilla; promover la masificación del deporte; construir un Gimnasio moderno; mejorar la infraestructura deportiva; recuperar y mejorar el skate park y BMX; realizar actividades al aire libre; implementar una plataforma deportiva digital; implementar una nueva Veterinaria Municipal (Miravet); implementar parques caninos integrados; y fundar el 'Voluntariado Joven Miraflorino'.",
+            "goal": "Incrementar en un 40% la capacidad de la infraestructura deportiva municipal; Incrementar en un 60% el número de deportistas participantes; Incrementar en un 30% los espacios de convivencia canina; Incrementar en un 60% las atenciones a las mascotas en Miravet; Incrementar en un 40% el número de jóvenes activos del 'Voluntariado Joven Miraflorino'; Incrementar en un 40% el número de participantes del programa de tenencia responsable de mascotas.",
+            "indicator": "Porcentaje de incremento de la capacidad de la infraestructura deportiva municipal; Porcentaje de incremento del número de deportistas; Porcentaje de incremento de espacios de convivencia canina; Porcentaje de incremento de las atenciones a las mascotas en Miravet; Porcentaje de incremento del número de jóvenes activos del 'Voluntariado Joven Miraflorino'; Porcentaje de incremento del número de participantes del programa de tenencia responsable de mascotas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Deterioro del dinamismo económico local por las trabas administrativas burocráticas, fiscalización cuestionada, tensiones entre uso residencial, comercial y turístico, y necesidad de promoción del empleo formal y emprendimientos.",
+            "objective": "Consolidar el distrito como referente emprendedor y competitivo, simplificando el trámite de licencias de funcionamiento, implementando una fiscalización con enfoque preventivo, impulsando ferias de emprendimiento y promoviendo la bolsa de trabajo miraflorino en alianza con el sector privado.",
+            "goal": "Incrementar en 30% los emprendimientos formales; Reducir en 3 puntos porcentuales la tasa de desempleo; Incrementar en un 40% el número de ferias de emprendimientos; Incrementar en un 30% el número de capacitaciones laborales; Incrementar en un 80% el índice de satisfacción en la atención del trámite de obtención de licencias de funcionamiento.",
+            "indicator": "Porcentaje de incremento del número de emprendimientos formales; Tasa de desempleo distrital; Porcentaje de incremento del número de ferias de emprendimientos; Porcentaje de incremento del número de capacitaciones laborales; Porcentaje del índice de satisfacción en la atención del trámite de obtención de licencias de funcionamiento."
+          },
+          {
+            "problem": "Desaprovechamiento del potencial cultural y turístico, sin integración de una agenda unificada.",
+            "objective": "Consolidar a Miraflores como capital turística y cultural, potenciando su patrimonio arqueológico (Museo de Sitio Pucllana); implementar circuitos culturales y turísticos integrados; organizar y difundir una agenda cultural y turística; relanzamiento del Palacio de las Artes; implementación de la museografía del Santuario Reducto 2; organización de pasacalles culturales y mejoramiento de la Biblioteca Municipal y de la Casa Museo Ricardo Palma.",
+            "goal": "Incrementar en un 40% el número de visitantes al Museo de Sitio Pucllana y a los circuitos culturales y turísticos del distrito; Incrementar en un 40% el número de actividades culturales y turísticas publicadas en la Agenda integrada; Incrementar en un 50% el número de exposiciones artísticas y culturales en el Palacio de Las Artes; Incrementar en un 40% el número de visitantes de la Biblioteca Municipal y de la Casa Museo Ricardo Palma.",
+            "indicator": "Porcentaje de incremento de visitantes al Museo de Sitio Pucllana y a los circuitos culturales y turísticos del distrito; Porcentaje de incremento del número de actividades culturales y turísticas publicadas en la Agenda integrada; Porcentaje de incremento del número de exposiciones artísticas y culturales en el Palacio de Las Artes; Porcentaje de incremento del número de visitantes de la Biblioteca Municipal y de la Casa Museo Ricardo Palma."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental y sonora derivada del transporte automotor, junto con el deterioro del ornato público y parques.",
+            "objective": "Mejorar el servicio de mantenimiento de áreas verdes; implementar un programa de arborización; implementar un sistema de andenería y jardines en los acantilados; mejorar la gestión de residuos sólidos; realizar el programa de techos limpio; implementar contenedores soterrados; realizar controles de contaminación sonora; implementar iluminación LED y sistemas de riego tecnificado.",
+            "goal": "Incrementar a 15 metros cuadrados de área verde por habitante; Incrementar en un 30% el número de especies arbóreas; Incrementar en un 40% el número de vecinos participantes del programa de segregación; Incrementar en un 40% el número de operativos 'techo limpio'; Incrementar en un 30% el número de fachadas limpias y pintadas; Incrementar en un 40% el número de contenedores soterrados; Incrementar en un 60% el número de acciones de control de contaminación sonora; Incrementar en un 60% el número de vías con iluminación LED; Incrementar en un 40% el número de parques con sistema de riego tecnificado.",
+            "indicator": "Número de metros cuadrados de área verde por habitante; Porcentaje de incremento del número de especies arbóreas; Porcentaje de incremento de vecinos participantes del programa de segregación en la fuente; Porcentaje de incremento de operativos 'techo limpio'; Porcentaje de incremento del número de fachadas limpias y pintadas; Porcentaje de incremento del número de contenedores soterrados; Porcentaje de incremento del número de acciones de control de contaminación sonora; Porcentaje de incremento de vías con iluminación LED; Porcentaje de incremento del número de parques con sistema de riego tecnificado."
+          },
+          {
+            "problem": "Deterioro general en el mobiliario urbano, pistas, veredas y quejas ciudadanas por obras sin adecuada planificación.",
+            "objective": "Ejecutar un programa planificado de mejoramiento de pistas y veredas; ejecutar la recuperación integral de parques, plazas, pasajes y malecones; construir una piscina temperada y un gimnasio municipal; ejecutar todas las obras aprobadas en el presupuesto participativo; mejorar el mobiliario urbano y gestionar la reparación de vías metropolitanas.",
+            "goal": "Incrementar en un 80% el número de pistas y veredas reparadas; Incrementar en un 80% el número de parques recuperadas integralmente; Incrementar en un 90% la ejecución de las obras aprobadas en el proceso de Presupuesto Participativo anual; Incrementar en un 60% el número de zonas con mobiliario urbano renovado.",
+            "indicator": "Porcentaje de incremento de pistas y veredas reparadas; Porcentaje de incremento del número de parques recuperadas integralmente; Porcentaje de ejecución de las obras aprobadas en el proceso de Presupuesto Participativo anual; Porcentaje de incremento de zonas con mobiliario urbano renovado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Distanciamiento de la municipalidad con el vecino, denuncias de corrupción de funcionarios, deficiencias en la atención ciudadana, falta de transparencia y celeridad en los trámites, y desconfianza de los ciudadanos debido a la escasa participación vecinal.",
+            "objective": "Transformar la municipalidad en un modelo de gobierno abierto, digital y cercano al vecino; implementar el ISO 37001 (Sistema de Gestión Antisoborno) y el ISO 9001 (Sistema de Gestión de Calidad); simplificar y digitalizar los trámites TUPA y TUSNE; implementar la atención multicanal; y realizar reuniones, audiencias públicas y asambleas vecinales para promover la participación ciudadana.",
+            "goal": "Incrementar en un 90% el número de trámites y pagos con atención multicanal; Incrementar en un 70% los niveles de satisfacción ciudadana; Posicionar a Miraflores dentro de los tres primeros lugares en el ranking de transparencia; Incrementar en un 50% la participación vecinal en los procesos de presupuesto participativo y rendición de cuentas.",
+            "indicator": "Porcentaje del número de trámites municipales, pagos tributarios y administrativos que cuentan con atención multicanal; Porcentaje de los niveles de satisfacción ciudadana con respecto a los servicios municipales; Posicionamiento en el Ranking de Municipalidades Distritales sobre publicación de información pública; Porcentaje del número de participación vecinal en los procesos de presupuesto participativo anual y rendiciones de cuentas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-VclMNQHoMz6X9XVrpPvO8T1yM08eu-kr",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/VclMNQHoMz6X9XVrpPvO8T1yM08eu-kr",
+      "sha256": "d2e9b099875b00ca49445401a8584728f656ad0e90b8c405affb6910bb1429d4",
+      "accessedAt": "2026-10-02T23:00:06.599Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021538",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021538",
+      "sha256": "cd560f45078a4f51dc35563a22742ac244008c8fb001e4d4962c69593d9cdd45",
+      "accessedAt": "2026-10-02T23:00:07.248Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

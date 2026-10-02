@@ -1,0 +1,331 @@
+{
+  "id": "TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r",
+  "slug": "luis-miguel-llanos-carrillo",
+  "electionId": "erm-2026",
+  "name": "Luis Miguel Llanos Carrillo",
+  "givenNames": "Luis Miguel",
+  "surnames": "Llanos Carrillo",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:45.111Z",
+      "sourceId": "jne-hv-TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "ASESORIA DE SEGURIDAD PREVENTIVA",
+      "role": "ASESOR DE SEGURIDAD",
+      "from": "2023",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "AFILIADO",
+      "party": "PARTIDO POLÍTICO RENOVACION POPULAR",
+      "from": "2014",
+      "to": "2024"
+    },
+    {
+      "position": "AFILIADO",
+      "party": "PARTIDO POLÍTICO PERU PATRIA SEGURA",
+      "from": "2017",
+      "to": "2019"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [
+      {
+        "type": "DERECHOS MINEROS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO",
+        "value": 20000
+      },
+      {
+        "type": "MOTO",
+        "value": 20000
+      },
+      {
+        "type": "MOTOT",
+        "value": 18000
+      },
+      {
+        "type": "MOTO",
+        "value": 20000
+      },
+      {
+        "type": "MOTO",
+        "value": 20000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f4c48e19-ec73-4e97-9da5-484d45293347.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/688c7aec-fb26-4f44-8162-3ef21e78b279.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura y equipamiento deficientes en las instituciones educativas de la provincia de Lima, lo que limita la calidad de los servicios educativos.",
+            "objective": "Garantizar el mejoramiento, equipamiento y la calidad de la infraestructura de los servicios educativos.",
+            "goal": "Elevar al 40% el total de instituciones educativas provinciales con infraestructura óptima, reduciendo el déficit actual del 80% al 60%.",
+            "indicator": "Porcentaje de instituciones educativas de la provincia con infraestructura y equipamiento en condiciones adecuadas."
+          },
+          {
+            "problem": "Alta prevalencia de desnutrición crónica y anemia en niñas y niños de zonas de pobreza y pobreza extrema.",
+            "objective": "Reducir los niveles de desnutrición crónica y anemia infantil mediante la articulación de programas sociales y vigilancia comunitaria.",
+            "goal": "Reducir en 5 puntos porcentuales la desnutrición crónica infantil y en 10 puntos porcentuales la prevalencia de anemia para 2030.",
+            "indicator": "Tasa de desnutrición crónica en niños menores de 5 años (INEI) y porcentaje de anemia en niños de 6 a 35 meses (ENDES-INEI)."
+          },
+          {
+            "problem": "Elevada brecha de acceso a servicios de agua potable y alcantarillado en sectores periféricos de la provincia.",
+            "objective": "Ampliar de manera integral la cobertura y calidad de los servicios de agua limpia y saneamiento básico en la provincia.",
+            "goal": "Alcanzar el 85% de cobertura provincial mediante la priorización de proyectos en el presupuesto participativo.",
+            "indicator": "Porcentaje de población periurbana con acceso regular a agua potable y alcantarillado por red pública."
+          },
+          {
+            "problem": "Vulnerabilidad alimentaria, elevados índices de anemia infantil y desnutrición crónica en la población objetivo de los programas sociales.",
+            "objective": "Fortalecer la seguridad alimentaria de la población en situación de pobreza y vulnerabilidad extrema mediante el soporte logístico y nutricional local.",
+            "goal": "Lograr el 100% de Comedores Populares y Ollas Comunes fortalecidos y certificados en condiciones sanitarias para el año 2030.",
+            "indicator": "Porcentaje de comedores populares y ollas comunes con equipamiento moderno y abastecimiento óptimo continuo."
+          },
+          {
+            "problem": "Deficiente infraestructura deportiva y recreacional en los Asentamientos Humanos, limitando el desarrollo de actividades saludables.",
+            "objective": "Modernizar y optimizar la infraestructura deportiva para fomentar las actividades recreativas y la salud comunitaria.",
+            "goal": "Lograr el 80% de las losas y campos deportivos remodelados, equipados y operativos para el año 2030.",
+            "indicator": "Porcentaje de complejos deportivos intervenidos y puestos en valor."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad comercial de las microempresas (MYPES) locales y baja calidad del empleo.",
+            "objective": "Impulsar la formalización comercial y el fortalecimiento de las MYPES en la ciudad.",
+            "goal": "Lograr la formalización del 40% de los comerciantes informales registrados en el padrón municipal base al 2030.",
+            "indicator": "Porcentaje de MYPES comerciales de la provincia que logren su formalización."
+          },
+          {
+            "problem": "Desaprovechamiento de las potencialidades gastronómicas locales debido a la insuficiente capacitación y asistencia técnica.",
+            "objective": "Mejorar la competitividad de la cadena productiva gastronómica, incluyendo comidas típicas y licores tradicionales.",
+            "goal": "Alcanzar el 70% de productores gastronómicos locales capacitados y asistidos técnicamente para el año 2030.",
+            "indicator": "Porcentaje de productores gastronómicos tradicionales que acceden a servicios de capacitación y asistencia técnica."
+          },
+          {
+            "problem": "Escasa promoción turística y deficiente calidad en los servicios ofrecidos a los visitantes.",
+            "objective": "Promover el desarrollo turístico sostenible y diversificado, posicionando a la ciudad en el mercado nacional e internacional.",
+            "goal": "Lograr que el 80% de los operadores turísticos locales cuenten con formalización, certificación de calidad y buenas prácticas para el año 2030.",
+            "indicator": "Porcentaje de prestadores de servicios turísticos promovidos (hoteles, guías, restaurantes) formalizados y capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente servicio de recolección de residuos en barrios periféricos, contaminación de quebradas y colapso de la disposición final.",
+            "objective": "Optimizar el sistema integral de gestión de residuos sólidos mediante un servicio de recolección eficiente, sostenible y con disposición final segura en la provincia.",
+            "goal": "Lograr el 95% de cobertura de recolección en zonas urbanas y periféricas al 2030 con frecuencias optimizadas, en un nuevo Relleno Sanitario Provincial.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos sólidos en el ámbito urbano, dispuestos en infraestructura autorizada (Relleno Sanitario)."
+          },
+          {
+            "problem": "Elevados niveles de contaminación sonora y saturación visual en el caso urbano de la ciudad.",
+            "objective": "Controlar y mitigar la contaminación ambiental, tanto acústica como visual, para mejorar la calidad de vida ciudadana.",
+            "goal": "Reducir en un 20% los puntos críticos con exceso de ruido y retirar el 100% de paneles publicitarios informales para 2030.",
+            "indicator": "Porcentaje de zonas urbanas monitoreadas que cumplen con los Estándares de Calidad Ambiental (ECA) para ruido."
+          },
+          {
+            "problem": "Limitada cobertura de alcantarillado y falta de tratamiento técnico de aguas residuales, lo que contamina los cauces de las fuentes de agua.",
+            "objective": "Incrementar el acceso sostenible al servicio de tratamiento de aguas residuales en la ciudad de Lima.",
+            "goal": "Reducir en un 15% la brecha de población sin acceso a un sistema adecuado de tratamiento de aguas residuales.",
+            "indicator": "Porcentaje de la población sin acceso adecuado al servicio y tratamiento de aguas residuales."
+          },
+          {
+            "problem": "Deficiente manejo de espacios verdes, con abandono de parques y jardines en la provincia.",
+            "objective": "Incrementar, recuperar y asegurar la sostenibilidad de los espacios públicos destinados a áreas verdes urbanas.",
+            "goal": "Lograr el 85% de los parques urbanos principales de la provincia rehabilitados y con riego tecnificado al 2030.",
+            "indicator": "Porcentaje de parques y jardines públicos rehabilitados con sistemas de riego tecnificados."
+          },
+          {
+            "problem": "Escasa cultura de reciclaje en la población y ausencia de segregación de residuos sólidos en la fuente de generación.",
+            "objective": "Promover la segregación en la fuente y la valorización de residuos sólidos.",
+            "goal": "Valorizar el 25% de los residuos sólidos municipales e implementar una planta de valorización de residuos orgánicos e inorgánicos operativos para 2030.",
+            "indicator": "Porcentaje de residuos sólidos municipales domiciliarios valorizados, tanto orgánicos como inorgánicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Percepción de corrupción y excesiva burocracia en los trámites administrativos municipales.",
+            "objective": "Modernizar la gestión municipal hacia una administración transparente, digital y libre, luchando frontalmente contra la corrupción sin excepción.",
+            "goal": "Obtener la Certificación ISO 37001 (Sistema de Gestión Antisoborno) en las áreas de Logística y Tesorería.",
+            "indicator": "Porcentaje de trámites administrativos digitalizados (Cero Papel)."
+          },
+          {
+            "problem": "Deficiente gestión de procesos internos y limitada digitalización de los servicios administrativos en la Municipalidad de Lima.",
+            "objective": "Modernizar la gestión pública municipal mediante la optimización de procesos, actualización normativa y transformación digital institucional.",
+            "goal": "Lograr el 100% de los instrumentos de gestión institucional actualizados, aprobados y en ejecución para el año 2030.",
+            "indicator": "Porcentaje de instrumentos de gestión (MOF, ROF, Perfil de Puestos, CAP-P, TUPA-SUT) actualizados e implementados según la normativa vigente."
+          },
+          {
+            "problem": "Deficiente transparencia y debilidad en los mecanismos de Rendición de Cuentas en la gestión de la Municipalidad Metropolitana de Lima.",
+            "objective": "Fortalecer la transparencia institucional y el control gubernamental mediante la presentación oportuna de los informes exigidos por ley.",
+            "goal": "Lograr el 100% de los informes anuales y de transferencia aprobados sin observaciones por la Contraloría General de la República al 2030.",
+            "indicator": "Porcentaje de Informes de Rendición de Cuentas presentados ante la Contraloría General de la República y publicados dentro de los plazos legales."
+          },
+          {
+            "problem": "Actualización deficiente y falta de dinamismo en los Portales de Transparencia Estándar, y procesos de contratación de personal con poca visibilidad pública.",
+            "objective": "Implementar un sistema de transparencia proactiva y transformación digital que garantice el acceso público y en tiempo real a todas las convocatorias laborales del municipio.",
+            "goal": "Lograr que el 100% de los procesos de contratación de personal sean digitalizados, transmitidos en vivo y publicados en el portal municipal para el año 2030.",
+            "indicator": "Porcentaje de convocatorias CAS y Locación de servicios publicadas íntegramente en el portal de datos abiertos institucional."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-139488",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: FALSA DECLARACIÓN EN PROCESO ADMINISTRATIVO ART. 411",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2022-06-21",
+      "details": {
+        "materia": "FALSA DECLARACIÓN EN PROCESO ADMINISTRATIVO ART. 411",
+        "fallo": "PRIV. LIB. CONDICIONAL",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "EN CUMPLIMIENTO",
+        "juzgado": "003º JUZG. PENAL INVEST.PREPARATORIA DE LIMA",
+        "expediente": "2501-2022",
+        "comentario": "SE HA EFECTUADO DE LA TOTALIDAD DEL PAGO DE LA REPARACIÓN CIVIL"
+      },
+      "quote": "FALSA DECLARACIÓN EN PROCESO ADMINISTRATIVO ART. 411 · PRIV. LIB. CONDICIONAL · SUSPENDIDA · EN CUMPLIMIENTO",
+      "sourceIds": [
+        "jne-hv-TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-penal-139493",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: DIFAMACION AGRAVADA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2017-04-19",
+      "details": {
+        "materia": "DIFAMACION AGRAVADA",
+        "fallo": "2 AÑOS DE PENA PRIVATIVA SUSPENDIDA",
+        "modalidad": "SUSPENDIDA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "TRIGÉSIMO JUZGADO PENAL DE LA CSJL",
+        "expediente": "18992015",
+        "comentario": "REHABILITADO MEDIANTE RESOLUCIÓN DEL 19/11/ 2025"
+      },
+      "quote": "DIFAMACION AGRAVADA · 2 AÑOS DE PENA PRIVATIVA SUSPENDIDA · SUSPENDIDA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-144196",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "CORTE SUPERIOR DE JUSTICIA DE LIMA - SEXTO JUZGADO ESPECIALIZADO DE FAMILIA",
+        "expediente": "00390-2024-0-1801-JR-FC-06",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-144195",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2° JUZGADO DE PAZ LETRADO - PUEBLO LIBRE Y MAGDALENA",
+        "expediente": "00047-2015-0-1829-JP-FC-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/TdQIOpO91yDk4PuLpxQQAMxm-rSEPP9r",
+      "sha256": "c75887aa62419df7e574be42c8cd98ce1e5865e326680475334e6c8633e5ae05",
+      "accessedAt": "2026-10-02T22:49:45.111Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032142",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032142",
+      "sha256": "79c79888062c596f810a9ea22bc0262b56ef85bc1e0ded46e84d3e6286cc03cd",
+      "accessedAt": "2026-10-02T22:49:45.613Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

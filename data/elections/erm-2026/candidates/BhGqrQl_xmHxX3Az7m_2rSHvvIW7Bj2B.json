@@ -1,0 +1,282 @@
+{
+  "id": "BhGqrQl_xmHxX3Az7m_2rSHvvIW7Bj2B",
+  "slug": "miguel-stefano-ruiz-gutierrez",
+  "electionId": "erm-2026",
+  "name": "Miguel Stefano Ruiz Gutierrez",
+  "givenNames": "Miguel Stefano",
+  "surnames": "Ruiz Gutierrez",
+  "age": 37,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:53.890Z",
+      "sourceId": "jne-hv-BhGqrQl_xmHxX3Az7m_2rSHvvIW7Bj2B"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Científica del Sur S.A.C.",
+        "program": "LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Científica del Sur S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACION DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "MAGÍSTER EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIVERSIDAD AUTÓNOMA DEL PERÚ",
+      "role": "DOCENTE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIVERSIDAD TECNOLÓGICA DE LIMA SUR",
+      "role": "DOCENTE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIVERSIDAD PRIVADA DEL NORTE S.A.C.",
+      "role": "DOCENTE",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "DESARROLLO EDUCATIVO S.A.",
+      "role": "DOCENTE",
+      "from": "2021",
+      "to": "2025"
+    },
+    {
+      "employer": "TRANSPORTE INSTABUS S.A.C.",
+      "role": "ASESOR COMERCIAL",
+      "from": "2022",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    },
+    {
+      "party": "VICTORIA NACIONAL",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 69794,
+        "public": 30000,
+        "private": 39794
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 58104.19,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "PLATA, CHANGAN, CS15 PLUS 2025",
+        "value": 42000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MARTINNI OFFICE S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 19200,
+        "value": 19200
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f23b3c80-5c42-46fa-a343-750fce42a86a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b26df674-49ff-4dce-8236-28e19c5f6a80.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Un 9% de la población presenta alguna discapacidad, enfrentando barreras de accesibilidad urbana y una limitada inclusión laboral.",
+            "objective": "Garantizar la inclusión plena de las personas con discapacidad en accesibilidad, empleo, salud y participación ciudadana.",
+            "goal": "Instalar 30 rampas, ejecutar 8 campañas de sensibilización e incorporar a 30 personas en programas de empleo.",
+            "indicator": "Número de rampas instaladas, número de campañas de sensibilización realizadas y número de personas con discapacidad incorporadas a programas de empleo."
+          },
+          {
+            "problem": "Adultos mayores en situación de soledad, con riesgo de aislamiento y depresión, y carencia de servicios integrales de cuidado.",
+            "objective": "Implementar un centro de cuidado diurno que ofrezca atención integral y apoyo a las familias para la conciliación de la vida laboral y familiar.",
+            "goal": "Atender a 30 adultos mayores durante el primer año de funcionamiento y alcanzar un 90% de satisfacción en las encuestas semestrales.",
+            "indicator": "Porcentaje de satisfacción de los familiares y número de adultos mayores atendidos."
+          },
+          {
+            "problem": "Inexistencia de infraestructura pública veterinaria y falta de acceso de las familias a servicios básicos para sus mascotas.",
+            "objective": "Implementar una unidad móvil para la salud animal y promover la tenencia responsable de mascotas en el distrito.",
+            "goal": "Realizar 20,000 atenciones veterinarias, 120 campañas de difusión, 5,000 esterilizaciones y lograr 300 adopciones responsables.",
+            "indicator": "Número de atenciones veterinarias, número de campañas de difusión y número de esterilizaciones realizadas."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana y baja predictibilidad en los tiempos de respuesta del servicio de serenazgo.",
+            "objective": "Reducir la incidencia delictiva y mejorar la eficiencia del patrullaje preventivo mediante el uso de una aplicación inteligente.",
+            "goal": "Alcanzar 30,000 usuarios, reducir el tiempo de respuesta a menos de 4 minutos, lograr un 85% de satisfacción y reducir en un 25% los delitos patrimoniales.",
+            "indicator": "Número de usuarios registrados en la aplicación, tiempo promedio de respuesta del serenazgo y porcentaje de satisfacción vecinal."
+          },
+          {
+            "problem": "Carencia de participación organizada de los vecinos en labores de vigilancia preventiva para la seguridad ciudadana.",
+            "objective": "Fortalecer la prevención del delito a través de la capacitación y organización de juntas vecinales.",
+            "goal": "Implementar 20 juntas vecinales, capacitar a 1,000 vecinos y reducir en un 25% la incidencia delictiva.",
+            "indicator": "Número de juntas vecinales conformadas, número de vecinos capacitados y porcentaje de reducción de la incidencia delictiva en zonas priorizadas."
+          },
+          {
+            "problem": "Brecha existente en infraestructura recreativa y abandono de espacios deportivos históricos en el distrito.",
+            "objective": "Fomentar el acceso a actividades deportivas mediante la mejora y modernización de la infraestructura existente.",
+            "goal": "Construir un coliseo, remodelar el 100% de los complejos deportivos, beneficiar a 100,000 usuarios y organizar 100 eventos deportivos.",
+            "indicator": "Número de complejos remodelados, número de usuarios beneficiados y número de eventos deportivos organizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Jóvenes calificados sin canales modernos, eficientes y transparentes para su vinculación con el mercado laboral.",
+            "objective": "Fomentar la empleabilidad juvenil y la vinculación con el mercado laboral tecnológico y formal.",
+            "goal": "Registrar a 15,000 jóvenes, vincular a 500 empresas, publicar 20,000 oportunidades laborales y lograr 5,000 inserciones formales.",
+            "indicator": "Número de jóvenes registrados en la bolsa de trabajo, número de empresas vinculadas, número de oportunidades laborales publicadas y número de inserciones laborales formales."
+          },
+          {
+            "problem": "Predominio de emprendimientos y negocios locales con modelos tradicionales, baja transformación digital y acceso limitado a la innovación y al financiamiento.",
+            "objective": "Impulsar la competitividad, la innovación y la empleabilidad mediante la creación de un ecosistema distrital de emprendimiento y tecnología.",
+            "goal": "Capacitar a 15,000 personas, incubar 500 emprendimientos, acelerar 100 startups, formalizar 3,000 negocios y generar 5,000 empleos.",
+            "indicator": "Número de emprendedores capacitados, número de startups incubadas o aceleradas y número de empleos generados."
+          },
+          {
+            "problem": "Promoción turística y cultural con metodologías estáticas, desaprovechando la identidad histórica para generar dinamismo económico.",
+            "objective": "Dinamizar la actividad cultural, turística y gastronómica del distrito mediante la aplicación de innovación tecnológica.",
+            "goal": "Incrementar en 50% el flujo turístico, alcanzar 500,000 visitantes, implementar 10 puntos turísticos inteligentes e incorporar 150 negocios a los circuitos.",
+            "indicator": "Número de visitantes, número de puntos turísticos inteligentes implementados y número de actividades culturales y gastronómicas realizadas."
+          },
+          {
+            "problem": "Desorden y falta de modernización en la zona de venta de artesanía y textiles, desaprovechando su potencial cultural y turístico.",
+            "objective": "Reordenar y modernizar los mercados de artesanías para potenciar la identidad cultural y el comercio justo.",
+            "goal": "Aumentar en 40% el flujo de visitantes, incrementar en 30% las ventas y convertir la zona en un corredor turístico-cultural.",
+            "indicator": "Porcentaje de incremento de visitantes y porcentaje de incremento en las ventas de los comerciantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El plan operativo se centra en el mantenimiento rutinario de vías, sin un enfoque integral de micromovilidad y transporte multimodal.",
+            "objective": "Mejorar la transitabilidad vial y peatonal del distrito bajo criterios de sostenibilidad y con el uso de nuevas tecnologías.",
+            "goal": "Implementar 15 km de ciclovías, instalar 50 sensores inteligentes y aumentar en 60% el uso de transporte sostenible.",
+            "indicator": "Kilómetros de ciclovías implementadas, número de sensores de flujo instalados y porcentaje de incremento en el uso de transporte sostenible."
+          },
+          {
+            "problem": "Asentamiento humano con brechas significativas en ordenamiento territorial, saneamiento físico-legal e infraestructura urbana deficiente.",
+            "objective": "Elevar las condiciones de habitabilidad, seguridad y formalización territorial del asentamiento humano.",
+            "goal": "Realizar el catastro digital 3D del 100% del sector, sanear 1,000 predios, incorporar 500 familias a programas de vivienda y aumentar en 50% el valor de los predios.",
+            "indicator": "Número de predios saneados, número de familias incorporadas a programas de vivienda y porcentaje de incremento del valor urbano."
+          },
+          {
+            "problem": "Veredas y pistas deterioradas, con obras de corta duración que generan inseguridad vial y afectan la imagen urbana.",
+            "objective": "Implementar un plan integral de mejoramiento de pistas y veredas con estándares de alta calidad y accesibilidad.",
+            "goal": "Reparar 15 km de veredas en zonas críticas y rehabilitar 5 km de pistas principales durante el primer año.",
+            "indicator": "Kilómetros de veredas reparadas y kilómetros de pistas rehabilitadas."
+          },
+          {
+            "problem": "Creciente generación de residuos sólidos y sistemas de reciclaje con capacidades limitadas para su gestión.",
+            "objective": "Modernizar la gestión de residuos implementando un modelo de economía circular y el uso de tecnología.",
+            "goal": "Incrementar el reciclaje en 50%, reducir los residuos a rellenos en 30%, instalar 50 contenedores inteligentes e incorporar 20,000 hogares al programa de segregación.",
+            "indicator": "Porcentaje de incremento del reciclaje, porcentaje de reducción de residuos enviados a rellenos sanitarios y número de contenedores inteligentes instalados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Creciente preocupación vecinal por la falta de transparencia en el uso de recursos públicos, generando desconfianza en la gestión municipal.",
+            "objective": "Fortalecer la transparencia, la integridad institucional y la rendición de cuentas mediante mecanismos de vigilancia ciudadana digital.",
+            "goal": "Publicar el 100% de las contrataciones, realizar 16 audiencias públicas, atender el 95% de las denuncias y alcanzar una satisfacción superior al 85%.",
+            "indicator": "Porcentaje de contrataciones publicadas en tiempo real, número de audiencias públicas realizadas, porcentaje de denuncias atendidas y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Predominio de procesos administrativos tradicionales y burocráticos basados en papel, que desincentivan la formalización y la eficiencia.",
+            "objective": "Modernizar la gestión institucional y simplificar los trámites administrativos mediante la implementación de un gobierno digital.",
+            "goal": "Digitalizar el 100% del TUPA, lograr que el 90% de los trámites sean virtuales, reducir en 70% los tiempos de atención y disminuir en 90% el uso de papel.",
+            "indicator": "Porcentaje de trámites digitalizados, porcentaje de reducción en tiempos de atención, porcentaje de reducción en el uso de papel y número de usuarios registrados en la plataforma digital."
+          },
+          {
+            "problem": "Sistema de cobranza de tributos basado en notificaciones en papel y procesos coactivos, con incentivos poco atractivos para el pago puntual.",
+            "objective": "Incentivar el pago puntual de tributos a través de un programa de beneficios exclusivos y fortalecer la confianza vecinal.",
+            "goal": "Emitir 2,000 carnets VPP, incrementar en 30% la recaudación anual y lograr 50 alianzas con negocios locales en el primer año.",
+            "indicator": "Número de carnets de buen pagador emitidos, porcentaje de incremento en la recaudación y número de alianzas con negocios locales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-BhGqrQl_xmHxX3Az7m_2rSHvvIW7Bj2B",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/BhGqrQl_xmHxX3Az7m_2rSHvvIW7Bj2B",
+      "sha256": "e7552bb988cf9a26d874b498addaeae7d2df60017e9c77a5ebac909da06f40d8",
+      "accessedAt": "2026-10-02T23:00:53.890Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021985",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021985",
+      "sha256": "b97938daee8c69b63634240e84684fa05bd88bad74d42ecfd0ca3d487a9ccaad",
+      "accessedAt": "2026-10-02T23:00:54.468Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

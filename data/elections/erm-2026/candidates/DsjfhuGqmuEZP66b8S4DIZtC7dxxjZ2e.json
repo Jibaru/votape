@@ -1,0 +1,380 @@
+{
+  "id": "DsjfhuGqmuEZP66b8S4DIZtC7dxxjZ2e",
+  "slug": "alberto-tejada-conroy",
+  "electionId": "erm-2026",
+  "name": "Alberto Tejada Conroy",
+  "givenNames": "Alberto",
+  "surnames": "Tejada Conroy",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:31.171Z",
+      "sourceId": "jne-hv-DsjfhuGqmuEZP66b8S4DIZtC7dxxjZ2e"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada \"San Juan Bautista\"",
+        "program": "MEDICO CIRUJANO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada \"San Juan Bautista\"",
+        "program": "BACHILLER EN MEDICINA HUMANA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "LICENCIADO EN BIOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "BACHILLER EN BIOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2004"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Autónoma del Perú S.A.C.",
+        "program": "MAESTRO EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2026"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Peruana Cayetano Heredia",
+        "program": "MAESTRO EN MEDICINA OCUPACIONAL Y DEL MEDIO AMBIENTE",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINISTERIO DE SALUD",
+      "role": "Director General de la Oficina General de Cooperación Técnica Internacional",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "INSTITUTO PERUANO DEL DEPORTE",
+      "role": "GERENTE GENERAL",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SURCO",
+      "role": "SUB GERENTE DE SALUD",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "MINISTERIO DE SALUD",
+      "role": "DIRECTOR GENERAL",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "FONDO DE ASEGURAMIENTO EN SALUD DE LA PNP - SALUDPOL",
+      "role": "GERENTE GENERAL",
+      "from": "2022",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "VALORES PERU",
+      "from": "2006",
+      "to": "2007"
+    },
+    {
+      "position": "APODERADO",
+      "party": "VALORES PERU",
+      "from": "2006",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ORGANIZACIÓN POLÍTICA LOCAL DISTRITAL VALORES PERU",
+      "year": "2011"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 159857,
+        "public": 149857,
+        "private": 10000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 673600.4,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Camioneta Jeep",
+        "value": 133200
+      },
+      {
+        "type": "Camioneta Volkswagen tiguan",
+        "value": 129500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "nutricare sac",
+        "type": "ACCIONES",
+        "quantity": 13530,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/24b4dbc0-faeb-45b2-9288-9e21102c60c3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5ff590da-71e3-4d26-9b45-3e8de7c70fbb.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de enfermedades crónicas no transmisibles, hipertensión, diabetes, obesidad y factores de riesgo cardiovascular.",
+            "objective": "Implementar San Borja Salud 360, fortaleciendo tamizajes preventivos, vida saludable, atención comunitaria y seguimiento digital.",
+            "goal": "Alcanzar al menos 80% de cobertura anual de tamizajes en población priorizada e incrementar en 50% la participación en actividades saludables.",
+            "indicator": "Cobertura de tamizajes preventivos; participantes en programas de vida saludable; usuarios registrados en plataforma digital de salud."
+          },
+          {
+            "problem": "Incremento de problemas de salud mental, soledad no deseada, estrés, aislamiento social y riesgos psicosociales.",
+            "objective": "Desarrollar San Borja Bienestar Mental mediante red comunitaria, orientación psicológica preventiva, prescripción social y derivación especializada.",
+            "goal": "Implementar acciones de bienestar emocional en el 100% de los sectores territoriales del distrito.",
+            "indicator": "Atenciones preventivas; sectores con cobertura; campañas realizadas; casos derivados."
+          },
+          {
+            "problem": "Envejecimiento poblacional, dependencia funcional y mayor demanda de servicios de cuidado.",
+            "objective": "Implementar San Borja Ciudad de los Cuidados con atención domiciliaria, CIAM 4.0, teleasistencia, centro de día y escuela de cuidadores.",
+            "goal": "Atender progresivamente a adultos mayores frágiles o dependientes e incrementar la participación en programas de envejecimiento activo.",
+            "indicator": "Adultos mayores atendidos; visitas domiciliarias; usuarios de teleasistencia; cuidadores capacitados."
+          },
+          {
+            "problem": "Barreras físicas, urbanas, digitales, laborales y sociales que limitan la inclusión de personas con discapacidad.",
+            "objective": "Implementar San Borja Inclusiva mediante OMAPED fortalecida, ciudad sin barreras, Casa Taller Inclusiva, inclusión laboral, deporte y cultura accesible.",
+            "goal": "Alcanzar accesibilidad universal en el 100% de la infraestructura municipal priorizada y ampliar programas de inclusión social y económica.",
+            "indicator": "Infraestructura accesible; personas atendidas por OMAPED; rutas accesibles; beneficiarios de inclusión laboral."
+          },
+          {
+            "problem": "Necesidad de respuesta rápida ante emergencias cardiovasculares y sanitarias en espacios públicos.",
+            "objective": "Implementar San Borja Cardioprotegida con desfibriladores, brigadas comunitarias, capacitación en RCP y espacios cardioprotegidos.",
+            "goal": "Consolidar una red distrital de respuesta temprana ante emergencias cardiovasculares y sanitarias.",
+            "indicator": "DEA instalados; personas capacitadas; brigadistas; espacios cardioprotegidos."
+          },
+          {
+            "problem": "Delitos patrimoniales, robo de vehículos, hurto de autopartes y percepción de inseguridad.",
+            "objective": "Desarrollar San Borja Seguro 360 mediante patrullaje integrado, analítica de video, centros descentralizados, participación vecinal y articulación con PNP.",
+            "goal": "Reducir la victimización a 21.39% e incrementar la percepción de seguridad ciudadana por encima del 80%.",
+            "indicator": "Victimización; percepción de seguridad; cámaras operativas; patrullajes; incidentes atendidos."
+          },
+          {
+            "problem": "Violencia familiar, riesgos sociales y limitada articulación comunitaria para proteger a poblaciones vulnerables.",
+            "objective": "Implementar Familias Protegidas mediante prevención, redes comunitarias, articulación con DEMUNA, CEM, PNP y servicios especializados.",
+            "goal": "Consolidar una red distrital de protección familiar y prevención de violencia en todos los sectores del distrito.",
+            "indicator": "Casos orientados; campañas preventivas; redes comunitarias activas; instituciones articuladas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Gasto familiar elevado en medicamentos, exámenes y servicios preventivos, especialmente en adultos mayores y pacientes crónicos.",
+            "objective": "Implementar mecanismos complementarios de protección económica familiar en salud mediante orientación, convenios y campañas preventivas de bajo costo.",
+            "goal": "Ampliar progresivamente el acceso a programas municipales de orientación, prevención y apoyo sanitario complementario.",
+            "indicator": "Vecinos beneficiados; convenios activos; campañas preventivas; satisfacción ciudadana."
+          },
+          {
+            "problem": "Catastro desactualizado, limitada sostenibilidad financiera y necesidad de mejorar la recaudación municipal.",
+            "objective": "Modernizar el catastro, rentas y finanzas municipales mediante información georreferenciada, gestión tributaria digital y seguimiento financiero.",
+            "goal": "Incrementar la eficacia del ingreso municipal de 72.85% a 90% al 2030.",
+            "indicator": "Predios actualizados; eficacia de recaudación; contribuyentes en canales digitales; reportes financieros."
+          },
+          {
+            "problem": "Baja competitividad de emprendedores, MYPES y negocios locales frente a la transformación digital.",
+            "objective": "Impulsar San Borja Emprende e Innova mediante capacitación, mentoría, digitalización, ventanilla empresarial y promoción comercial.",
+            "goal": "Beneficiar a más de 3,000 emprendedores y pequeñas empresas con programas de fortalecimiento empresarial.",
+            "indicator": "Emprendedores capacitados; MYPES digitalizadas; trámites empresariales atendidos; satisfacción empresarial."
+          },
+          {
+            "problem": "Limitadas oportunidades laborales, reconversión digital e inclusión productiva para jóvenes, mujeres, adultos mayores y personas con discapacidad.",
+            "objective": "Implementar San Borja Distrito de Oportunidades mediante bolsa laboral, escuela de capacitación, inclusión laboral y economía plateada.",
+            "goal": "Capacitar y vincular laboralmente a más de 5,000 vecinos durante el periodo 2027-2030.",
+            "indicator": "Personas capacitadas; vecinos vinculados a oportunidades laborales; empresas aliadas; adultos mayores participantes."
+          },
+          {
+            "problem": "Necesidad de mejorar la eficiencia, transparencia y seguimiento de las inversiones públicas municipales.",
+            "objective": "Desarrollar San Borja Invierte con Transparencia mediante cartera priorizada, tablero de seguimiento, vigilancia ciudadana y reportes periódicos.",
+            "goal": "Mantener altos niveles de ejecución de inversiones y publicar información periódica sobre avance físico y financiero de proyectos.",
+            "indicator": "Ejecución presupuestal; proyectos monitoreados; reportes publicados; participación ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Estrés hídrico, consumo energético urbano y altos costos de mantenimiento de áreas verdes.",
+            "objective": "Implementar Agua y Energía para el Futuro mediante riego tecnificado, Canal Surco, eficiencia energética, luminarias eficientes, energías renovables y soterramiento.",
+            "goal": "Alcanzar 60% de cobertura de riego tecnificado y reducir 20% el consumo de agua y 25% el consumo energético municipal priorizado.",
+            "indicator": "Áreas verdes con riego tecnificado; agua ahorrada; reducción de consumo energético; luminarias modernizadas."
+          },
+          {
+            "problem": "Deterioro de la calidad ambiental urbana, presión sobre áreas verdes, ruido y necesidad de espacios saludables.",
+            "objective": "Fortalecer San Borja Verde y Saludable mediante parques, corredores verdes, control de ruido, educación ambiental y mercados saludables.",
+            "goal": "Incrementar la cobertura y calidad de áreas verdes y fortalecer la gestión ambiental preventiva del distrito.",
+            "indicator": "Parques mejorados; árboles incorporados; monitoreos ambientales; campañas realizadas."
+          },
+          {
+            "problem": "Necesidad de proteger el patrimonio arbóreo, mejorar el reciclaje y fortalecer la economía circular.",
+            "objective": "Implementar gestión inteligente del patrimonio verde y economía circular mediante monitoreo arbóreo, valorización de residuos y alianzas ambientales.",
+            "goal": "Fortalecer la gestión del arbolado urbano e incrementar la recuperación y valorización de residuos sólidos.",
+            "indicator": "Árboles evaluados; residuos valorizados; convenios implementados; participación ciudadana."
+          },
+          {
+            "problem": "Congestión vehicular, limitada movilidad sostenible y débil conectividad interna.",
+            "objective": "Implementar Movilidad Inteligente y Urbanito Seguro mediante transporte de proximidad, integración modal, ciclovías, rutas seguras y cultura vial.",
+            "goal": "Incrementar en 40% el uso de movilidad sostenible y reducir en 20% los tiempos de desplazamiento en corredores priorizados.",
+            "indicator": "Usuarios del Urbanito; tiempo de desplazamiento; infraestructura ciclista; incidentes viales."
+          },
+          {
+            "problem": "Ocupación ineficiente del espacio público, estacionamiento desordenado y deterioro urbano.",
+            "objective": "Implementar Recuperación y Ordenamiento del Espacio Público mediante gestión de estacionamientos, recuperación de veredas, frentes activos y regeneración urbana.",
+            "goal": "Recuperar progresivamente espacios públicos estratégicos y reducir la ocupación indebida de veredas, bermas y vías locales.",
+            "indicator": "Espacio público recuperado; veredas mejoradas; estacionamientos gestionados; corredores intervenidos."
+          },
+          {
+            "problem": "Riesgos climáticos, emisiones urbanas y necesidad de adaptación frente al cambio climático.",
+            "objective": "Implementar San Borja Carbono Neutral y Resiliente mediante plan climático, huella de carbono, sostenibilidad y participación ciudadana.",
+            "goal": "Implementar el Plan Distrital de Adaptación Climática y un sistema de medición de huella de carbono municipal.",
+            "indicator": "Inventario de huella de carbono; medidas de adaptación; reportes ambientales; participación ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Información territorial dispersa y limitada interoperabilidad para planificación y fiscalización.",
+            "objective": "Implementar Sistema de Información Territorial y Planeamiento Urbano mediante información georreferenciada, integración de áreas y fiscalización territorial.",
+            "goal": "Integrar progresivamente la información estratégica de catastro, desarrollo urbano, rentas, fiscalización y servicios municipales.",
+            "indicator": "Información territorial actualizada; áreas integradas; procesos con información georreferenciada."
+          },
+          {
+            "problem": "Limitada transformación digital, fragmentación de información y necesidad de servicios municipales más rápidos.",
+            "objective": "Implementar San Borja Smart City 2030 mediante plataforma Mi San Borja, gobierno digital, datos abiertos e innovación pública.",
+            "goal": "Digitalizar al menos 90% de trámites y servicios municipales priorizados y reducir en 50% tiempos de atención.",
+            "indicator": "Trámites digitalizados; servicios integrados; usuarios registrados; tiempo de atención."
+          },
+          {
+            "problem": "Limitada capacidad para captar cooperación técnica, financiamiento externo y transferencia de conocimiento.",
+            "objective": "Fortalecer la Innovación Pública y Cooperación Internacional mediante convenios, redes, fondos, universidades y proyectos piloto.",
+            "goal": "Incrementar progresivamente la cooperación técnica y financiera para proyectos prioritarios del distrito.",
+            "indicator": "Convenios suscritos; recursos gestionados; proyectos con cooperación; alianzas implementadas."
+          },
+          {
+            "problem": "Necesidad de mejorar la capacidad institucional, la calidad de servicios, la gestión por resultados y la mejora continua.",
+            "objective": "Implementar Gestión Municipal de Alto Desempeño mediante indicadores, capacitación, simplificación, calidad y seguimiento institucional.",
+            "goal": "Alcanzar niveles sostenidos de cumplimiento de metas institucionales superiores al 90%.",
+            "indicator": "Cumplimiento de metas; ejecución presupuestal; procesos optimizados; servidores capacitados."
+          },
+          {
+            "problem": "Necesidad de fortalecer la convivencia vecinal, identidad barrial y gestión de entornos residenciales.",
+            "objective": "Implementar Barrios Integrados y Convivencia Vecinal mediante intervenciones barriales, espacios comunitarios y participación ciudadana territorial.",
+            "goal": "Implementar proyectos de mejora urbana y convivencia en sectores residenciales priorizados.",
+            "indicator": "Intervenciones barriales; vecinos participantes; espacios comunitarios recuperados; percepción de seguridad."
+          },
+          {
+            "problem": "Débil articulación entre actores de salud para prevención, alertas y promoción comunitaria.",
+            "objective": "Consolidar la Gobernanza Territorial para la Salud mediante Mesa Distrital de Salud, Agenda Distrital y red de instituciones promotoras.",
+            "goal": "Implementar una Agenda Distrital de Salud con participación de instituciones públicas, privadas y comunitarias.",
+            "indicator": "Sesiones de mesa; instituciones participantes; acuerdos implementados; campañas articuladas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-17762",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Datos Personales",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-07-24",
+      "details": {
+        "rubro": "DATOS PERSONALES",
+        "resolucion": "RESOLUCION N° 01263-2026-JEE-LIO2/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCION N° 01263-2026-JEE-LIO2/JNE",
+      "sourceIds": [
+        "jne-hv-DsjfhuGqmuEZP66b8S4DIZtC7dxxjZ2e"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-DsjfhuGqmuEZP66b8S4DIZtC7dxxjZ2e",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DsjfhuGqmuEZP66b8S4DIZtC7dxxjZ2e",
+      "sha256": "bab72be028a4677f34b954474a20cb3b32df37d60c96da4723395dfccc982b53",
+      "accessedAt": "2026-10-02T23:02:31.171Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016265",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016265",
+      "sha256": "60c6d22bdfef4e1166674a60ad4b79fa722d24874a1b11c97938e5934bc0212c",
+      "accessedAt": "2026-10-02T23:02:31.777Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

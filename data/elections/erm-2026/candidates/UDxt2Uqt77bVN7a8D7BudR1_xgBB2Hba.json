@@ -1,0 +1,173 @@
+{
+  "id": "UDxt2Uqt77bVN7a8D7BudR1_xgBB2Hba",
+  "slug": "henrry-giscard-de-la-cruz-arana",
+  "electionId": "erm-2026",
+  "name": "Henrry Giscard De La Cruz Arana",
+  "givenNames": "Henrry Giscard",
+  "surnames": "De La Cruz Arana",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:56.513Z",
+      "sourceId": "jne-hv-UDxt2Uqt77bVN7a8D7BudR1_xgBB2Hba"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA DEL NORTE",
+        "program": "ESTUDIANTE DE DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "GRUPO EMPRESARIAL MV S.A.C",
+      "role": "JEFE DE PROYECTOS",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "J&H SERVICIOS GENERALES",
+      "role": "JEFE DE PROYECTOS",
+      "from": "2017",
+      "to": "2024"
+    },
+    {
+      "employer": "CSI PERU LOGISTICA S.A.C",
+      "role": "JEFE DE LOGISTICA",
+      "from": "2008",
+      "to": "2011"
+    },
+    {
+      "employer": "SAGA FALABELLA S.A",
+      "role": "VENDEDOR",
+      "from": "2004",
+      "to": "2006"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 18000,
+        "public": 0,
+        "private": 18000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d58655dd-25ac-4dbb-b3df-3a8d726f3b58.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/dcb507a4-05e0-4d41-b10c-e66b3bb73eb7.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia y una baja percepción de seguridad vecinal en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana mediante acciones preventivas, tecnología, presencia operativa permanente y participación vecinal organizada.",
+            "goal": "Reducir los índices de delincuencia y faltas, incrementar la percepción de seguridad vecinal y lograr una cobertura eficiente de videovigilancia en todo el distrito.",
+            "indicator": "Índices de delincuencia y faltas, percepción de seguridad vecinal, capacidad de respuesta ante emergencias y cobertura de videovigilancia."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud preventiva y bienestar social, especialmente para las poblaciones vulnerables.",
+            "objective": "Promover una comunidad saludable mediante programas preventivos y servicios de atención dirigidos especialmente a poblaciones vulnerables.",
+            "goal": "Incrementar la cobertura de atención preventiva, mejorar la calidad de vida de adultos mayores y personas vulnerables, y fortalecer la cultura de prevención en salud.",
+            "indicator": "Cobertura de atención preventiva y calidad de vida de adultos mayores y personas vulnerables."
+          },
+          {
+            "problem": "Infraestructura urbana deteriorada y espacios públicos en mal estado que afectan la calidad de vida y la transitabilidad de los vecinos.",
+            "objective": "Modernizar la infraestructura urbana y recuperar los espacios públicos para mejorar la calidad de vida de los vecinos.",
+            "goal": "Recuperar la totalidad de parques y espacios públicos deteriorados, mejorar significativamente la transitabilidad urbana e incrementar las áreas verdes y espacios recreativos disponibles para los vecinos.",
+            "indicator": "Porcentaje de parques y espacios públicos recuperados, nivel de transitabilidad urbana y cantidad de áreas verdes y espacios recreativos disponibles."
+          },
+          {
+            "problem": "Escasa oferta de programas educativos, culturales y deportivos que limitan el desarrollo integral y la integración comunitaria.",
+            "objective": "Promover el desarrollo integral de la población mediante programas educativos, culturales y deportivos.",
+            "goal": "Incrementar la participación ciudadana en actividades culturales y deportivas, y fortalecer la integración social y comunitaria.",
+            "indicator": "Nivel de participación ciudadana en actividades culturales y deportivas, y nivel de integración social y comunitaria."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado crecimiento económico local y falta de oportunidades para emprendedores y pequeños negocios.",
+            "objective": "Impulsar el crecimiento económico local y fortalecer las oportunidades para emprendedores y pequeños negocios.",
+            "goal": "Incrementar la formalización económica, fortalecer el tejido empresarial local y generar mayores oportunidades de desarrollo para los vecinos.",
+            "indicator": "Tasa de formalización económica y fortalecimiento del tejido empresarial local."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión ambiental deficiente y falta de una cultura de sostenibilidad urbana en el distrito.",
+            "objective": "Construir un distrito limpio, ordenado y ambientalmente responsable.",
+            "goal": "Mejorar la calidad ambiental del distrito, incrementar la participación ciudadana en programas ambientales y consolidar una cultura de sostenibilidad urbana.",
+            "indicator": "Calidad ambiental del distrito y nivel de participación ciudadana en programas ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos municipales lentos y carencia de servicios digitalizados que afectan la eficiencia administrativa y la satisfacción del vecino.",
+            "objective": "Transformar la gestión municipal mediante la digitalización de servicios y la innovación tecnológica.",
+            "goal": "Reducir los tiempos de atención, incrementar la eficiencia administrativa y mejorar la satisfacción de los vecinos respecto a los servicios municipales.",
+            "indicator": "Tiempos de atención, eficiencia administrativa y satisfacción de los vecinos respecto a los servicios municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-UDxt2Uqt77bVN7a8D7BudR1_xgBB2Hba",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/UDxt2Uqt77bVN7a8D7BudR1_xgBB2Hba",
+      "sha256": "c27a8fded3540644a1698d72c17cf31cb17a50d969956444552bf9aed4af2583",
+      "accessedAt": "2026-10-02T22:51:56.513Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023120",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023120",
+      "sha256": "49fae8b2acf1f3e432fd620e57177a6f5ad1bec0d96901ca2a80bd671e67dc55",
+      "accessedAt": "2026-10-02T22:51:57.058Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

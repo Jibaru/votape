@@ -1,0 +1,160 @@
+{
+  "id": "O3mCUql20axZHq08pmWD9fENi9kOvThr",
+  "slug": "magaly-rosy-copez-gutierrez",
+  "electionId": "erm-2026",
+  "name": "Magaly Rosy Copez Gutierrez",
+  "givenNames": "Magaly Rosy",
+  "surnames": "Copez Gutierrez",
+  "age": 48,
+  "gender": "Femenino",
+  "party": {
+    "id": 2927,
+    "name": "SALVEMOS AL PERU"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:34.726Z",
+      "sourceId": "jne-hv-O3mCUql20axZHq08pmWD9fENi9kOvThr"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "TEXTIL APOLOGYES STORE SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "TEXTIL APOLOGYES STORE SAC",
+        "type": "ACCIONES",
+        "quantity": 33048,
+        "value": 33048
+      }
+    ]
+  },
+  "additionalInfo": [
+    "DEMANDA(CIVIL) OBLIGACION SUMA DE DINERO - EXPEDIENTE 00693-2015"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/322725b0-78ac-48bb-b8e0-612a9d573560.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fc78fbb9-656a-4fc8-a3c4-288c097d03ed.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad alimentaria: Ollas comunes con presupuesto insuficiente (2 soles/ración); dependencia de donaciones; niños con signos de desnutrición.",
+            "objective": "Implementar programa municipal de apoyo a ollas comunes con asistencia técnica y logística; gestionar donaciones ante MIDIS y sector privado; promover huertos urbanos.",
+            "goal": "Asistir al 100% de ollas comunes del distrito. Reducir desnutrición infantil en 15%.",
+            "indicator": "Número de ollas comunes asistidas. Número de familias beneficiadas. % de reducción de desnutrición infantil."
+          },
+          {
+            "problem": "Seguridad ciudadana: Alta percepción de inseguridad a pesar de inversiones (650 cámaras, 52 patrullas); débil articulación serenazgo-PNP; respuesta lenta ante emergencias.",
+            "objective": "Modernizar sistema de videovigilancia; implementar patrullaje integrado por cuadrantes; fortalecer juntas vecinales con capacitación y equipamiento.",
+            "goal": "Reducir percepción de inseguridad en 20% al 2030. 200 patrullajes integrados mensuales. Fortalecer 50 juntas vecinales.",
+            "indicator": "% de reducción de percepción de inseguridad (encuesta anual). Número de patrullajes integrados mensuales. Número de juntas vecinales fortalecidas."
+          },
+          {
+            "problem": "Protección a grupos vulnerables: Aumento de violencia de género y maltrato infantil; falta de centros de acogida para víctimas menores de edad; DEMUNA con recursos limitados.",
+            "objective": "Crear Centro de Acogida Residencial para niñas, adolescentes y mujeres víctimas de violencia; fortalecer DEMUNA con personal especializado y recursos; campañas de prevención.",
+            "goal": "Centro de Acogida operativo al segundo año (2028). Atender 100% de casos derivados. 4 campañas anuales.",
+            "indicator": "Número de casos atendidos y derivados al Centro de Acogida. Número de campañas de prevención realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ordenamiento urbano y construcciones informales: Proliferación de construcciones sin licencia que obstruyen vías y espacios públicos; falta de fiscalización efectiva.",
+            "objective": "Fortalecer fiscalización urbanística con enfoque preventivo; simplificar trámites para licencias de construcción y funcionamiento; recuperar espacios públicos ocupados.",
+            "goal": "Reducir a cero construcciones que obstruyan espacio público. Reducir tiempo de licencias a 15 días hábiles.",
+            "indicator": "Número de construcciones informales fiscalizadas y regularizadas. Tiempo promedio para obtención de licencias."
+          },
+          {
+            "problem": "Transporte público informal: Alta tasa de informalidad en mototaxis y combis; caos vehicular; paraderos no delimitados; inseguridad vial",
+            "objective": "Formalizar transporte público con empadronamiento, delimitación de paraderos, capacitación a conductores y fiscalización; promover educación vial.",
+            "goal": "Formalizar 80% del transporte público informal al 2030. Señalizar 50 paraderos.",
+            "indicator": "% de vehículos de transporte público empadronados y formalizados. Número de paraderos autorizados y señalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Residuos sólidos y limpieza pública: Recolección ineficiente; puntos críticos de acumulación de basura; baja cultura de segregación y reciclaje.",
+            "objective": "Optimizar rutas de recolección; implementar campañas de segregación en fuente; formalizar recicladores; recuperar y mantener áreas verdes.",
+            "goal": "Aumentar cobertura de recolección en 15%. 4 campañas anuales. Recuperar 10 parques principales.",
+            "indicator": "% de residuos recolectados y dispuestos adecuadamente. Número de campañas de educación ambiental. Metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "Agua potable y saneamiento: Brecha histórica (34% sin agua potable); proyecto de S/ 510 millones en ejecución (6,587 conexiones, 70 km de redes); PTAR en construcción; culminación prevista para 2027.",
+            "objective": "Supervisar y fiscalizar culminación del megaproyecto de agua y saneamiento; garantizar operación y mantenimiento de PTAR; monitoreo ciudadano de la calidad del servicio.",
+            "goal": "Culminar 100% del proyecto al 2027. Alcanzar 95% de cobertura de agua potable. Tratar 100% de aguas residuales.",
+            "indicator": "% de avance del proyecto de agua y saneamiento. % de hogares con conexión activa y servicio continuo. % de aguas residuales tratadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil participación ciudadana y rendición de cuentas: Presupuesto participativo poco efectivo; escasa fiscalización vecinal; audiencias públicas insuficientes.",
+            "objective": "Realizar audiencias públicas descentralizadas en todas las zonas del distrito; fortalecer presupuesto participativo vinculante; implementar comités de vigilancia ciudadana.",
+            "goal": "2 audiencias distritales y 4 sectoriales anuales. Ejecutar 90% de proyectos priorizados. 10 comités de vigilancia.",
+            "indicator": "Número de audiencias públicas realizadas. % de ejecución de proyectos del presupuesto participativo. Número de comités de vigilancia activos."
+          },
+          {
+            "problem": "Burocracia y gestión ineficiente: Trámites engorrosos y demoras injustificadas; falta de digitalización; desconfianza ciudadana en la gestión municipal.",
+            "objective": "Modernizar gestión municipal con ventanilla única virtual; implementar portal de datos abiertos; digitalizar procedimientos administrativos principales.",
+            "goal": "Alcanzar nivel \"Muy Alto\" en transparencia. Digitalizar 80% de procedimientos. Reducir atención a 10 días hábiles.",
+            "indicator": "Índice de transparencia municipal (JNE). Número de trámites digitalizados. Tiempo promedio de atención."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-O3mCUql20axZHq08pmWD9fENi9kOvThr",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/O3mCUql20axZHq08pmWD9fENi9kOvThr",
+      "sha256": "814ee079108ce3bb55d4747260ef99f697e45a6758dcec20b4826855ad089f00",
+      "accessedAt": "2026-10-02T23:07:34.726Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022625",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022625",
+      "sha256": "3f7a9e127e60127ef802405d2341056c13b87e8e015849d409aeec8b09fdee2f",
+      "accessedAt": "2026-10-02T23:07:35.237Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

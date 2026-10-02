@@ -1,0 +1,158 @@
+{
+  "id": "WRX1OSHiYFWapp4sTThvGu9GoIeC5KA9",
+  "slug": "ivan-jesus-aquino-honores",
+  "electionId": "erm-2026",
+  "name": "Ivan Jesus Aquino Honores",
+  "givenNames": "Ivan Jesus",
+  "surnames": "Aquino Honores",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 2988,
+    "name": "VISION PERU"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:56.012Z",
+      "sourceId": "jne-hv-WRX1OSHiYFWapp4sTThvGu9GoIeC5KA9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INPEDENDIENTE - AQUINO HONORES IVAN JESUS",
+      "role": "VARIOS SERVICIOS",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/70e3f996-e892-41a6-9f6f-d06bf8750bed.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/af63c0d2-e5e2-4df4-8edd-7347507501cd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a los servicios de salud por parte de la población del distrito.",
+            "objective": "Promover el acceso equitativo y oportuno a servicios de salud integral de calidad para la población del distrito de Independencia, con énfasis en las zonas de mayor vulnerabilidad social.",
+            "goal": "Para el año 2030, se espera alcanzar un 85% de la población vulnerable atendida, realizar 60 campañas de salud anuales y lograr un 75% de satisfacción ciudadana con los servicios de salud.",
+            "indicator": "Porcentaje de la población vulnerable atendida en la red de salud municipal, cobertura de campañas de salud preventiva e itinerantes en zonas de difícil acceso y porcentaje de ciudadanos que reportan satisfacción con los servicios de salud locales."
+          },
+          {
+            "problem": "Falta de recursos para cubrir las necesidades de las obras de saneamiento distrital.",
+            "objective": "Incrementar el financiamiento y la viabilización de proyectos de saneamiento básico en el distrito, mediante la gestión de recursos públicos y privados, para reducir la brecha de acceso a agua y desagüe en las zonas vulnerables.",
+            "goal": "Para el año 2030, se busca gestionar el financiamiento del 100% de los proyectos de saneamiento, captar una inversión de S/ 90 millones y culminar el saneamiento físico-legal del 100% de los asentamientos humanos priorizados.",
+            "indicator": "Porcentaje de proyectos de saneamiento con expediente técnico aprobado y financiamiento gestionado, monto de inversión captado mediante transferencias o Asociaciones Público-Privadas (APP) y porcentaje de asentamientos humanos priorizados con saneamiento físico-legal culminado."
+          },
+          {
+            "problem": "Limitaciones en el acceso a internet para los habitantes del distrito.",
+            "objective": "Reducir la brecha digital en el distrito mediante el despliegue de infraestructura de conectividad y la creación de espacios públicos digitales, garantizando un acceso inclusivo, seguro y de calidad al servicio de internet para la población de Independencia.",
+            "goal": "Para el año 2030, se proyecta habilitar 150 espacios públicos con Wi-Fi, interconectar el 100% de las instituciones educativas y locales comunales, y certificar a 30,000 ciudadanos en competencias digitales.",
+            "indicator": "Número de espacios públicos con acceso a internet Wi-Fi gratuito, porcentaje de instituciones educativas y locales comunales interconectados con fibra óptica y número de ciudadanos de zonas vulnerables certificados en competencias digitales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Pobreza extrema concentrada en las zonas marginales del distrito.",
+            "objective": "Reducir la pobreza extrema y la vulnerabilidad económica en las zonas marginales del distrito, mediante el fortalecimiento del autoempleo productivo, la inserción laboral formal, el desarrollo de capacidades financieras y la consolidación de redes de subsistencia alimentaria con enfoque de emprendimiento.",
+            "goal": "Para el año 2030, se busca que el 85% de los hogares en pobreza extrema accedan a programas de inserción, convertir 350 ollas comunes en unidades productivas y lograr la inserción laboral formal del 75% de los jóvenes de zonas marginales a través de la Bolsa de Trabajo Municipal.",
+            "indicator": "Porcentaje de hogares en situación de pobreza extrema que acceden a programas municipales de inserción laboral o autoempleo, número de ollas comunes y comedores populares convertidos en unidades productivas autosostenibles, y porcentaje de jóvenes de zonas marginales insertados en el mercado laboral formal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación generalizada de la ciudad por acumulación de residuos sólidos y contaminación del aire.",
+            "objective": "Promover la sostenibilidad ambiental y mejorar la calidad de vida en el distrito mediante una gestión integral de residuos sólidos, la ampliación de la infraestructura verde urbana y la fiscalización efectiva de los agentes contaminantes.",
+            "goal": "Para el año 2030, se propone erradicar el 95% de los puntos críticos de basura, valorizar 10,000 toneladas anuales de residuos mediante programas de reciclaje y alcanzar un índice de 6.0 metros cuadrados de área verde por habitante.",
+            "indicator": "Porcentaje de puntos críticos de acumulación de residuos sólidos erradicados, toneladas anuales de residuos sólidos segregados y valorizados, e índice de metros cuadrados de áreas verdes urbanas por habitante."
+          },
+          {
+            "problem": "Acceso limitado al agua potable y al servicio de desagüe en diversas zonas del distrito.",
+            "objective": "Asegurar la sostenibilidad hídrica y la mitigación de riesgos ambientales en el distrito, promoviendo la ampliación de la infraestructura de agua y saneamiento ecológico, la reutilización de aguas residuales tratadas y la erradicación de focos de contaminación por efluentes domésticos.",
+            "goal": "Para el año 2030, se busca implementar sistemas de saneamiento alternativo en el 80% de los asentamientos de zonas altas, reutilizar 10,000 metros cúbicos diarios de agua residual tratada y erradicar 150 puntos críticos de contaminación.",
+            "indicator": "Porcentaje de asentamientos humanos en zonas altas con sistemas de saneamiento alternativo, volumen diario de agua residual tratada reutilizada para riego de áreas verdes y número de puntos críticos de contaminación por colapso de desagües erradicados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza institucional y percepción de corrupción en la gestión municipal.",
+            "objective": "Fortalecer la integridad institucional y recuperar la confianza ciudadana en la gestión municipal, mediante la transformación digital, la transparencia activa, la simplificación administrativa y la tolerancia cero a los actos de corrupción.",
+            "goal": "Para el año 2030, se plantea alcanzar el 100% en la implementación del Modelo de Integridad, digitalizar el 100% de los trámites críticos y lograr que el 80% de los ciudadanos perciban la gestión como transparente.",
+            "indicator": "Índice de avance en la implementación del Modelo de Integridad Pública, porcentaje de trámites críticos municipales digitalizados e impersonales y porcentaje de ciudadanos que perciben la gestión municipal como transparente."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana en el distrito.",
+            "objective": "Fortalecer la capacidad operativa, tecnológica y de articulación multisectorial del sistema de seguridad ciudadana distrital, garantizando una respuesta oportuna, integrada y predictiva frente al delito.",
+            "goal": "Para el año 2030, se busca alcanzar el 100% de cámaras operativas con inteligencia artificial, reducir el tiempo de respuesta a 5 minutos y lograr que el 95% de los comités de Juntas Vecinales estén activados y equipados.",
+            "indicator": "Porcentaje de cámaras de videovigilancia operativas con inteligencia artificial, tiempo promedio de respuesta del Serenazgo Integrado y porcentaje de comités de Juntas Vecinales activados y articulados al CODISEC."
+          },
+          {
+            "problem": "Crecimiento urbano informal, acelerado y desarticulado de la planificación urbana.",
+            "objective": "Fortalecer la gobernanza y el ordenamiento territorial del distrito mediante la modernización del catastro urbano, la implementación de instrumentos de planificación sostenible y la fiscalización del uso del suelo, garantizando un crecimiento urbano ordenado y seguro.",
+            "goal": "Para el año 2030, se propone actualizar el 100% de los predios en el catastro digital, alcanzar un 95% de avance en la ejecución del PDU y delimitar y fiscalizar el 100% de las zonas de muy alto riesgo no mitigable.",
+            "indicator": "Porcentaje de predios del distrito actualizados e incorporados en el Catastro Urbano Municipal Digitalizado, porcentaje de avance en la implementación del Plan de Desarrollo Urbano (PDU) y porcentaje de zonas de muy alto riesgo delimitadas y fiscalizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-WRX1OSHiYFWapp4sTThvGu9GoIeC5KA9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/WRX1OSHiYFWapp4sTThvGu9GoIeC5KA9",
+      "sha256": "500ddfa7d1e5cb52344aa8a205880b58ef9414371bc2b2950fa4cb7e64f09fd2",
+      "accessedAt": "2026-10-02T22:56:56.012Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021353",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021353",
+      "sha256": "390682ca10f697aef949a3e6a02b37931933f595409bf8e192aee783c9f2e229",
+      "accessedAt": "2026-10-02T22:56:56.498Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

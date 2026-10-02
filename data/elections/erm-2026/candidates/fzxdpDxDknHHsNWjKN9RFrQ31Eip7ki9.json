@@ -1,0 +1,267 @@
+{
+  "id": "fzxdpDxDknHHsNWjKN9RFrQ31Eip7ki9",
+  "slug": "cecilia-acosta-cajaleon",
+  "electionId": "erm-2026",
+  "name": "Cecilia Acosta Cajaleon",
+  "givenNames": "Cecilia",
+  "surnames": "Acosta Cajaleon",
+  "age": 55,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:58.576Z",
+      "sourceId": "jne-hv-fzxdpDxDknHHsNWjKN9RFrQ31Eip7ki9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "Licenciada en Educación Secundaria",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2000"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1999"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+        "program": "DOCENCIA EN EL NIVEL SUPERIOR",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE JESUS MARIA",
+      "role": "SERVICIO DE ASISTENCIA TÉCNICA ADMINISTRATIVA Y PROMOCIÓN DE ACTIVIDADES EDUCATIVAS",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE",
+      "role": "REGIDORA DISTRITAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "INSTITUTO DE EDUCACIÓN SUPERIOR CEPEA",
+      "role": "DOCENTE POR HORAS",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "ÁREA DE GESTIÓN DE LA EDUCACIÓN BÁSICA ALTERNATIVO Y TÉCNICO PRODUCTIVO DE LA UGEL 03",
+      "role": "SERVICIO DE MONITOREO EN LOS LINEAMIENTOS DE LA ESCUELA DE CONFIANZA",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "INSTITUTO NACIONAL DE ESTADISRICA E INFORMATIVA - INEI",
+      "role": "MONITORA NACIONAL DE ENL",
+      "from": "2022",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2023"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 86180.44,
+        "public": 78364.62,
+        "private": 7815.82
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 81918.65,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 37033.82,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "STYLE AND CREATINITY SAC",
+        "type": "ACCIONES",
+        "quantity": 250,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "FUI GERENTE ADMINISTRATIVA DE LA EMPRESA BRACE EXPAND S.A.C. PERO NO FUI ACCIONISTA DE DICHA EMPRESA. ADEMÁS, ESTA EMPRESA SE ENCUENTRA SUSPENDIDA Y SIN OPERACIÓN EN SUNAT. LA EMPRESA STYLE AND CREATIVITY SAC SOLAMENTE SE INSCRIBIO EN LA SUNARP"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/831e0600-8835-4f65-964f-380b81775d67.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7d271cfc-1dbc-41bb-b190-e74f853a00e3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada atención a personas con discapacidad y barreras para la inclusión social y accesibilidad urbana.",
+            "objective": "Impulsar el programa 'Pueblo Libre Inclusivo y sin Discriminación', incorporando progresivamente la accesibilidad en espacios públicos y fortaleciendo la participación de poblaciones vulnerables en la vida local.",
+            "goal": "Consolidar un distrito inclusivo y sin discriminación, eliminando barreras físicas y sociales para garantizar la plena participación de todas las personas.",
+            "indicator": "Número de intervenciones municipales con criterios de accesibilidad e inclusión."
+          },
+          {
+            "problem": "Necesidad de fortalecer los aprendizajes, el acceso a la cultura y la práctica del deporte en la comunidad.",
+            "objective": "Desarrollar los programas 'Aprende Pueblo Libre' y 'Pueblo Libre Activo' para ofrecer refuerzo escolar, actividades culturales, recreativas y deportivas para todas las edades.",
+            "goal": "Fomentar un Pueblo Libre educador y activo, fortaleciendo las capacidades y el bienestar de los vecinos a través de la educación, la cultura y el deporte.",
+            "indicator": "Número de actividades educativas, culturales y deportivas realizadas."
+          },
+          {
+            "problem": "Insuficiente cobertura de salud preventiva y morbilidad creciente en la población de adultos mayores.",
+            "objective": "Implementar los programas 'Pueblo Libre Saludable 2030' y 'Bienestar Activo' para priorizar campañas de prevención de enfermedades y promover el cuidado integral del adulto mayor con talleres y acompañamiento.",
+            "goal": "Lograr un Pueblo Libre saludable, mejorando los indicadores de salud preventiva en la comunidad y garantizando el bienestar de los adultos mayores.",
+            "indicator": "Número de vecinos atendidos en campañas de salud y número de adultos mayores inscritos en programas municipales."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana y persistencia de la violencia familiar y contra la mujer en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana y prevenir la violencia mediante la implementación del programa 'Pueblo Libre Seguro 24/7' y 'Pueblo Libre sin Violencia Familiar', promoviendo el patrullaje integrado, la videovigilancia y campañas preventivas articuladas.",
+            "goal": "Construir un Pueblo Libre más seguro, reduciendo la incidencia delictiva y los casos de violencia familiar, para mejorar la convivencia y la calidad de vida de los vecinos.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio, número de patrullajes integrados, número de cámaras operativas, número de juntas vecinales activas y número de campañas de prevención de violencia familiar."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Aprovechamiento limitado del potencial turístico, cultural, patrimonial y gastronómico del distrito.",
+            "objective": "Impulsar el programa 'Pueblo Libre Destino Cultural' para poner en valor la historia, la zona monumental y la oferta del distrito, a través de la gestión del Plan Maestro y la promoción de rutas turísticas.",
+            "goal": "Posicionar a Pueblo Libre como un destino cultural y turístico de referencia, fortaleciendo la identidad local y generando nuevas oportunidades económicas.",
+            "indicator": "No se especifican indicadores para este objetivo."
+          },
+          {
+            "problem": "Trámites complejos y falta de articulación entre los actores económicos para el desarrollo local.",
+            "objective": "Promover la articulación entre empresarios, comercios, emprendedores e instituciones para que la actividad económica se desarrolle en condiciones de formalidad, orden y seguridad.",
+            "goal": "Crear un entorno de negocios favorable que promueva la inversión, la innovación y el desarrollo económico sostenible en el distrito.",
+            "indicator": "No se especifican indicadores para este objetivo."
+          },
+          {
+            "problem": "Comercio informal extendido y necesidad de fortalecer la formalización y competitividad de los negocios locales.",
+            "objective": "Implementar el programa 'Pueblo Libre Emprende y Formaliza' mediante la simplificación de licencias, capacitación a emprendedores y promoción de la reconversión progresiva del comercio informal.",
+            "goal": "Dinamizar la economía local, incrementando la formalización de los negocios y mejorando su competitividad en el mercado.",
+            "indicator": "No se especifican indicadores para este objetivo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación sonora, mala calidad del aire y gestión deficiente de residuos sólidos y desmonte en puntos críticos.",
+            "objective": "Ejecutar el programa 'Pueblo Libre Verde y Limpio', adquiriendo equipamiento para la limpieza pública, eliminando puntos críticos de residuos y desarrollando campañas de segregación y reciclaje.",
+            "goal": "Lograr un distrito limpio y ambientalmente sostenible, reduciendo los niveles de contaminación y mejorando la gestión integral de residuos.",
+            "indicator": "Número de puntos críticos de residuos reducidos, concentración promedio de PM2.5, nivel promedio de ruido ambiental y número de campañas de segregación y reciclaje."
+          },
+          {
+            "problem": "Alta vulnerabilidad del distrito frente a sismos, incendios y otras emergencias urbanas.",
+            "objective": "Implementar el programa 'Pueblo Libre Resiliente' mediante la actualización del mapa de riesgos, la realización de inspecciones de seguridad, la formación de brigadas vecinales y la ejecución de simulacros.",
+            "goal": "Fortalecer la capacidad de prevención y respuesta del distrito ante desastres, garantizando la seguridad de la población.",
+            "indicator": "Número de zonas de riesgo intervenidas, número de brigadas vecinales capacitadas y número de simulacros realizados."
+          },
+          {
+            "problem": "Deterioro de la movilidad urbana, accesibilidad limitada y déficit en el mantenimiento de áreas verdes.",
+            "objective": "Impulsar el programa 'Movilidad Segura y Accesible' para el mejoramiento de vías, veredas y rampas, y optimizar el sistema de riego para el mantenimiento de áreas verdes.",
+            "goal": "Construir un Pueblo Libre verde, accesible y caminable, mejorando la infraestructura urbana y la calidad de los espacios públicos.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante, número de proyectos de movilidad ejecutados, número de vías intervenidas y número de rampas y veredas accesibles implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos insuficientes, baja trazabilidad de trámites y brecha en el acceso a un gobierno digital.",
+            "objective": "Impulsar un 'Municipio Digital, Íntegro y Cercano' a través del fortalecimiento de la mesa de partes digital, la simplificación administrativa y la implementación de un portal de datos abiertos y seguimiento de obras.",
+            "goal": "Consolidar una administración municipal moderna, digital y eficiente, que simplifique los trámites y ofrezca servicios de calidad centrados en el vecino.",
+            "indicator": "Número de trámites priorizados con seguimiento digital y la implementación y actualización del tablero público del Plan de Gobierno."
+          },
+          {
+            "problem": "Desarticulación entre los diferentes niveles de gobierno y baja articulación interinstitucional con actores locales.",
+            "objective": "Instalar y poner en funcionamiento la Mesa de Gobernanza Territorial de Pueblo Libre para coordinar acuerdos, convenios y seguimiento de compromisos con entidades públicas y privadas.",
+            "goal": "Alcanzar una gestión pública articulada y coordinada que permita la ejecución eficiente de políticas y proyectos en beneficio del distrito.",
+            "indicator": "Número de convenios de cooperación activos y número de sesiones de la Mesa de Gobernanza Territorial."
+          },
+          {
+            "problem": "Débiles mecanismos de participación ciudadana, transparencia y rendición de cuentas en la gestión municipal.",
+            "objective": "Fortalecer la participación ciudadana mediante el presupuesto participativo y audiencias públicas vecinales, y mejorar la transparencia activa difundiendo información en lenguaje ciudadano.",
+            "goal": "Fomentar una cultura de transparencia y participación, fortaleciendo la confianza de los ciudadanos en la gestión municipal.",
+            "indicator": "Número de agentes participantes en presupuesto participativo, porcentaje de audiencias públicas realizadas y puntaje del Portal de Transparencia Estándar."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-fzxdpDxDknHHsNWjKN9RFrQ31Eip7ki9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/fzxdpDxDknHHsNWjKN9RFrQ31Eip7ki9",
+      "sha256": "d58ce426bb763060e0ad9db24f9b05198eed3ff2fdcc95a5d298fff1c024941b",
+      "accessedAt": "2026-10-02T23:00:58.576Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019373",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019373",
+      "sha256": "373d8733865984fe3c11713165faa3f0f8043013c5b1b59d29aa8e38adf1cb4d",
+      "accessedAt": "2026-10-02T23:00:59.103Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

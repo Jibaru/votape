@@ -1,0 +1,219 @@
+{
+  "id": "1FEzCQzYbFuTdT1a2sLcCuQ1I-TD6yjE",
+  "slug": "ruth-haydee-meza-saldarriaga",
+  "electionId": "erm-2026",
+  "name": "Ruth Haydee Meza Saldarriaga",
+  "givenNames": "Ruth Haydee",
+  "surnames": "Meza Saldarriaga",
+  "age": 63,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140131",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:32.499Z",
+      "sourceId": "jne-hv-1FEzCQzYbFuTdT1a2sLcCuQ1I-TD6yjE"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "GRUPO BACON SAC",
+      "role": "GERENTE DE VENTAS",
+      "from": "2013",
+      "to": "2026"
+    },
+    {
+      "employer": "BELCORP",
+      "role": "GERENTE ZONAL",
+      "from": "1994",
+      "to": "2010"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FE EN EL PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 0,
+        "private": 30000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 479598.05,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 35000
+      },
+      {
+        "type": "MINIVAN",
+        "value": 8000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 45000
+      },
+      {
+        "type": "AUTOMOVIL",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "SOY PENSIONISTA",
+    "EL DOMICILIO CONSIGNADO- VICTOR MAURTUA 166- ANTERIORMENTE SE LLAMABA FRANCISCO MOSTAJO SURQUILLO- ADEMAS CUENTO CON DOMICILIO MULTIPLE DE ACUERDO LEY"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b8b31c39-d08a-4829-929c-09adacf44e03.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/47853c53-03d2-4d3a-ae58-a6b8c1e5402c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil acceso a programas sociales para población vulnerable.",
+            "objective": "Fortalecer la atención social inclusiva y focalizada.",
+            "goal": "Cobertura del 85%.",
+            "indicator": "Porcentaje de población vulnerable atendida."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana en barrios y zonas comerciales.",
+            "objective": "Reducir la inseguridad mediante acciones preventivas articuladas entre serenazgo, policía y comunidad.",
+            "goal": "Reducir en 90% la percepción de inseguridad.",
+            "indicator": "Porcentaje de percepción de inseguridad según encuestas vecinales."
+          },
+          {
+            "problem": "Insuficiente acceso a espacios recreativos seguros.",
+            "objective": "Recuperar y ampliar espacios públicos para la convivencia ciudadana.",
+            "goal": "10 espacios públicos implementados.",
+            "indicator": "Número de espacios recuperados."
+          },
+          {
+            "problem": "Limitado acceso a salud preventiva y salud mental.",
+            "objective": "Implementar programas de salud comunitaria preventiva.",
+            "goal": "20 campañas anuales.",
+            "indicator": "Número de campañas realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades de empleo.",
+            "objective": "Impulsar el emprendimiento y la capacitación laboral.",
+            "goal": "5,000 personas capacitadas.",
+            "indicator": "Número de personas capacitadas."
+          },
+          {
+            "problem": "Alta informalidad del comercio local.",
+            "objective": "Promover la formalización de MYPES.",
+            "goal": "70% de formalización.",
+            "indicator": "Porcentaje de negocios formalizados."
+          },
+          {
+            "problem": "Baja competitividad del comercio local.",
+            "objective": "Fortalecer ferias y economía digital.",
+            "goal": "12 ferias anuales.",
+            "indicator": "Número de ferias realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes urbanas.",
+            "objective": "Incrementar y recuperar áreas verdes.",
+            "goal": "4 metros cuadrados por habitante.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos.",
+            "objective": "Mejorar el sistema de limpieza pública.",
+            "goal": "95% de cobertura.",
+            "indicator": "Porcentaje de cobertura de residuos."
+          },
+          {
+            "problem": "Desorden urbano y comercio informal.",
+            "objective": "Ordenar el uso del espacio público.",
+            "goal": "100% de zonas críticas intervenidas.",
+            "indicator": "Zonas intervenidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos municipales lentos.",
+            "objective": "Modernizar la gestión municipal.",
+            "goal": "Reducir en 90% los tiempos.",
+            "indicator": "Tiempo de trámites."
+          },
+          {
+            "problem": "Baja transparencia en la gestión pública.",
+            "objective": "Implementar gobierno digital y abierto.",
+            "goal": "90% de digitalización.",
+            "indicator": "Porcentaje de procesos digitalizados."
+          },
+          {
+            "problem": "Débil participación ciudadana.",
+            "objective": "Fortalecer la participación vecinal.",
+            "goal": "24 reuniones anuales.",
+            "indicator": "Número de reuniones vecinales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-1FEzCQzYbFuTdT1a2sLcCuQ1I-TD6yjE",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1FEzCQzYbFuTdT1a2sLcCuQ1I-TD6yjE",
+      "sha256": "d2f530df144350d3f4113f02e7117a2f50e869a8694d55397a9509cc1cf4749a",
+      "accessedAt": "2026-10-02T23:06:32.499Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020785",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020785",
+      "sha256": "0db5c2477c96cdc910b0b0ecdd31550e4eac884e59a4a25e1570b7e69764d065",
+      "accessedAt": "2026-10-02T23:06:32.984Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "GY5SGyzb1gvkfg5WvUco59be8hskeHc-",
+  "slug": "denner-guillermo-romaldo-noblejas",
+  "electionId": "erm-2026",
+  "name": "Denner Guillermo Romaldo Noblejas",
+  "givenNames": "Denner Guillermo",
+  "surnames": "Romaldo Noblejas",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:39.551Z",
+      "sourceId": "jne-hv-GY5SGyzb1gvkfg5WvUco59be8hskeHc-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CIENCIA POLITICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DEL PACIFICO",
+        "program": "MAESTRIA EN GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ROMALDO",
+      "role": "ASESOR",
+      "from": "2007",
+      "to": "2026"
+    },
+    {
+      "employer": "CMA MOTORS SAC",
+      "role": "ASESOR",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "PMESUT",
+      "role": "CONSULTOR",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+      "role": "CONSULTOR",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "employer": "PROCOES",
+      "role": "CONSULTOR",
+      "from": "2018",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8b97979a-77e2-4a51-8ba9-5b297de77752.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/106f181d-0b4d-4bcc-90ad-03fe747497c9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevadas tasas de criminalidad y percepción de inseguridad, con un preocupante incremento en delitos como la extorsión, el pandillaje y la violencia familiar.",
+            "objective": "Reducir la incidencia delictiva y mejorar la seguridad ciudadana a través del fortalecimiento del patrullaje, la participación comunitaria y la prevención social del delito.",
+            "goal": "Reforzar el patrullaje policial y de serenazgo en puntos críticos, ampliar los comités vecinales de seguridad ciudadana e implementar programas de reinserción juvenil y prevención del pandillaje.",
+            "indicator": "Número de denuncias registradas por delitos, especialmente extorsión, violencia familiar y robos."
+          },
+          {
+            "problem": "Limitaciones en el acceso a servicios de salud, evidenciadas por carencias en la capacidad instalada, personal médico insuficiente y brechas en la cobertura de seguros.",
+            "objective": "Fortalecer la atención primaria de salud y ampliar la capacidad hospitalaria con mayores especialidades para mejorar el acceso y la calidad de los servicios para la población.",
+            "goal": "Abrir nuevos módulos de salud, construir centros de atención primaria en barrios alejados y ampliar el Hospital Municipal con especialidades como salud mental y pediatría.",
+            "indicator": "Monitoreo distrital de la tasa de morbilidad y del porcentaje de cobertura de seguros de salud en la población."
+          },
+          {
+            "problem": "Escasez de espacios públicos para la recreación y el deporte, con una insuficiente dotación de áreas verdes por habitante en comparación con otros distritos.",
+            "objective": "Incrementar la disponibilidad de infraestructura recreativa y deportiva, promoviendo la recuperación y creación de nuevos espacios públicos inclusivos y seguros.",
+            "goal": "Construir nuevos espacios verdes y deportivos, como piscinas públicas y canchas multipropósito, y diseñar programas continuos de cultura y deporte con enfoque en jóvenes y personas con discapacidad.",
+            "indicator": "Superficie de áreas verdes y espacios deportivos por habitante, y porcentaje de población que practica deporte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil y desactualizada información catastral y predial, lo que genera una baja recaudación tributaria y dificulta el ordenamiento del crecimiento urbano.",
+            "objective": "Modernizar la gestión catastral para mejorar la base predial, sincerar el valor de los predios y elevar la recaudación de manera justa y sin incrementar las tasas impositivas.",
+            "goal": "Implementar un Catastro Digital 3D utilizando herramientas GIS, drones y modelamiento para detectar ampliaciones no declaradas y ordenar el crecimiento urbano.",
+            "indicator": "Nivel de recaudación del impuesto predial y arbitrios, y porcentaje de predios incorporados en el catastro digital."
+          },
+          {
+            "problem": "Alta informalidad comercial y laboral que limita el desarrollo económico, reduce la base tributaria y genera desorden en el distrito.",
+            "objective": "Reducir la informalidad e incrementar los ingresos municipales mediante la simplificación administrativa, la facilitación del acceso a licencias y la promoción de la formalización.",
+            "goal": "Implementar una plataforma digital para licencias express, crear una licencia temporal para emprendedores jóvenes y ejecutar el programa territorial \"Formaliza tu Negocio\".",
+            "indicator": "Porcentaje de negocios formalizados y número de licencias de funcionamiento otorgadas."
+          },
+          {
+            "problem": "Dificultades de los jóvenes para acceder a un empleo formal y baja competitividad de las micro y pequeñas empresas (MYPES) por su escasa digitalización.",
+            "objective": "Mejorar la empleabilidad juvenil y fortalecer la competitividad de las MYPES a través de la capacitación técnica, la intermediación laboral y la transformación digital.",
+            "goal": "Crear una Bolsa Laboral Distrital Inteligente, una Escuela Municipal de Oficios Tecnológicos y un programa de digitalización para comerciantes y emprendedores.",
+            "indicator": "Número de jóvenes colocados en empleos formales y cantidad de MYPES capacitadas en herramientas digitales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Desarrollo territorial desordenado, caracterizado por la congestión vehicular, la invasión de vías públicas por el comercio informal y la construcción en zonas de riesgo.",
+            "objective": "Promover un desarrollo territorial ordenado y sostenible, mejorando la infraestructura vial, ordenando el comercio y mitigando los riesgos físicos asociados a la construcción informal.",
+            "goal": "Implementar una red vial urbana con infraestructura para micromovilidad, ordenar el comercio en plataformas modulares y ejecutar el saneamiento físico legal de predios.",
+            "indicator": "Reducción de los índices de congestión vehicular y número de comercios informales reubicados o formalizados."
+          },
+          {
+            "problem": "Abandono y déficit de espacios verdes y espacios públicos, lo que afecta la calidad de vida, el bienestar de la comunidad y el equilibrio ecológico del distrito.",
+            "objective": "Recuperar, ampliar y gestionar adecuadamente los espacios públicos y áreas verdes del distrito para el uso y disfrute de la ciudadanía.",
+            "goal": "Ejecutar un programa de recuperación y ampliación de parques y otros espacios públicos, garantizando su mantenimiento y seguridad.",
+            "indicator": "Metros cuadrados de áreas verdes y espacios públicos recuperados y/o creados por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Bajos niveles de confianza ciudadana en la gestión municipal, asociados a una alta percepción de corrupción y a una deficiente transparencia en el uso de los recursos públicos.",
+            "objective": "Fortalecer la integridad institucional y la transparencia para recuperar la confianza ciudadana, luchando frontalmente contra la corrupción en la administración municipal.",
+            "goal": "Diseñar e implementar una política local anticorrupción, adecuar la gestión a la norma ISO antisoborno y crear una plataforma tecnológica para el monitoreo de denuncias.",
+            "indicator": "Posición del distrito en los rankings de transparencia y resultados de las encuestas de percepción ciudadana sobre corrupción."
+          },
+          {
+            "problem": "Gestión pública municipal ineficiente, con predominio de procesos burocráticos, falta de un enfoque de gestión por resultados y escasa capacitación del personal.",
+            "objective": "Modernizar la administración municipal, promoviendo una gestión eficiente, eficaz y orientada a resultados que mejore la calidad de los servicios públicos.",
+            "goal": "Implementar un programa de capacitación para el personal municipal, desarrollar un sistema de gestión del conocimiento con inteligencia artificial y adoptar un enfoque de gestión por proyectos.",
+            "indicator": "Tiempo promedio de atención de trámites y nivel de satisfacción del ciudadano con los servicios municipales."
+          },
+          {
+            "problem": "Débil articulación interinstitucional e interdistrital para abordar problemáticas complejas y transversales que afectan al distrito, como la seguridad y el transporte.",
+            "objective": "Establecer una política de coordinación y articulación efectiva con entidades de los tres niveles de gobierno y otros distritos para la resolución conjunta de problemas comunes.",
+            "goal": "Fijar una política local de articulación interinstitucional, crear una comisión de funcionarios para la coordinación y generar sinergias con los diferentes niveles de gobierno.",
+            "indicator": "Número de convenios y planes de acción conjuntos suscritos y en ejecución con otras entidades públicas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-GY5SGyzb1gvkfg5WvUco59be8hskeHc-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GY5SGyzb1gvkfg5WvUco59be8hskeHc-",
+      "sha256": "9a21393a547b08ed90be86b8ac96824aff98e47d4ca1b784d16fb75d9310885a",
+      "accessedAt": "2026-10-02T22:58:39.551Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020669",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020669",
+      "sha256": "306a0482b49a5d52eaf8ea6974d7e99f67aab6c365c632642581961d64052fe5",
+      "accessedAt": "2026-10-02T22:58:40.080Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

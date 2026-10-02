@@ -1,0 +1,219 @@
+{
+  "id": "Ufl2LLR2lOM2fhZKNwKOf4yOZAg9TtzI",
+  "slug": "maribel-albornoz-rosas",
+  "electionId": "erm-2026",
+  "name": "Maribel Albornoz Rosas",
+  "givenNames": "Maribel",
+  "surnames": "Albornoz Rosas",
+  "age": 42,
+  "gender": "Femenino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:26.854Z",
+      "sourceId": "jne-hv-Ufl2LLR2lOM2fhZKNwKOf4yOZAg9TtzI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "ENRIQUE GUZMAN Y VALLE",
+        "program": "EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "posgrado",
+        "institution": "CESAR VALLEJO",
+        "program": "GESTION PUBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2017"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO NACIONALISTA PERUANO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 39600,
+        "public": 39600,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA K05 CARGO VAN - COLOR PLATA - MODELO DFSK",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d8b35d9a-4b73-46f8-9c8a-17c7d99a6ccd.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6b0fad47-432b-4494-a82b-4a61d3e317a9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Atención insuficiente a la población vulnerable.",
+            "objective": "Ampliar la cobertura de servicios sociales municipales.",
+            "goal": "Incrementar en un 50% el número de beneficiarios.",
+            "indicator": "Incremento de beneficiarios atendidos."
+          },
+          {
+            "problem": "Inseguridad ciudadana en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana y la convivencia vecinal.",
+            "goal": "Reducir en un 30% la percepción de inseguridad.",
+            "indicator": "Reducción de percepción de inseguridad."
+          },
+          {
+            "problem": "Déficit de espacios públicos y recreativos.",
+            "objective": "Recuperar y mejorar los espacios públicos.",
+            "goal": "Recuperar 150,000 m² de espacios públicos.",
+            "indicator": "Metros cuadrados recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades laborales para la población.",
+            "objective": "Fortalecer la empleabilidad local.",
+            "goal": "Lograr 15,000 beneficiarios en programas laborales.",
+            "indicator": "Número de beneficiarios de programas laborales."
+          },
+          {
+            "problem": "Alta informalidad económica en el distrito.",
+            "objective": "Promover la formalización empresarial.",
+            "goal": "Alcanzar 10,000 emprendimientos formalizados.",
+            "indicator": "Número de emprendimientos formalizados."
+          },
+          {
+            "problem": "Infraestructura comercial insuficiente.",
+            "objective": "Modernizar los espacios económicos del distrito.",
+            "goal": "Modernizar 15 mercados.",
+            "indicator": "Número de mercados modernizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes en el distrito.",
+            "objective": "Incrementar la infraestructura verde.",
+            "goal": "Recuperar 150,000 m² para áreas verdes.",
+            "indicator": "Metros cuadrados recuperados."
+          },
+          {
+            "problem": "Gestión insuficiente de los residuos sólidos.",
+            "objective": "Fortalecer el reciclaje y la valorización de residuos.",
+            "goal": "Alcanzar el 40% de residuos valorizados.",
+            "indicator": "Porcentaje de residuos valorizados."
+          },
+          {
+            "problem": "Existencia de espacios degradados en el distrito.",
+            "objective": "Recuperar los espacios críticos.",
+            "goal": "Recuperar el 100% de los espacios críticos.",
+            "indicator": "Porcentaje de espacios recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Trámites lentos y burocráticos en la municipalidad.",
+            "objective": "Modernizar la gestión municipal.",
+            "goal": "Digitalizar el 80% de los procedimientos.",
+            "indicator": "Porcentaje de procedimientos digitalizados."
+          },
+          {
+            "problem": "Déficit de transparencia en la gestión municipal.",
+            "objective": "Fortalecer la transparencia institucional.",
+            "goal": "Alcanzar el 100% de cumplimiento en transparencia activa.",
+            "indicator": "Cumplimiento de la transparencia activa."
+          },
+          {
+            "problem": "Participación ciudadana limitada.",
+            "objective": "Fortalecer los mecanismos participativos.",
+            "goal": "Lograr una cobertura distrital integral de la participación ciudadana.",
+            "indicator": "Cobertura de participación ciudadana."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18708",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Formación Académica",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-16",
+      "details": {
+        "rubro": "FORMACIÓN ACADÉMICA",
+        "resolucion": "RESOLUCIÓN N.° 00511-2026-JEE-LIE1/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCIÓN N.° 00511-2026-JEE-LIE1/JNE",
+      "sourceIds": [
+        "jne-hv-Ufl2LLR2lOM2fhZKNwKOf4yOZAg9TtzI"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-Ufl2LLR2lOM2fhZKNwKOf4yOZAg9TtzI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Ufl2LLR2lOM2fhZKNwKOf4yOZAg9TtzI",
+      "sha256": "6fd5b9249390b4bdda74be1403a27d42d4ca5c9fda66b270eea192b5f14f2aa2",
+      "accessedAt": "2026-10-02T23:05:26.854Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022879",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022879",
+      "sha256": "7abd9dfbab47bc371dee141d5253d30b86d2731a4ac594855069c8894604cee9",
+      "accessedAt": "2026-10-02T23:05:27.480Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "cI90JOFbpAy2wQfZ1r0IAJFqK80Tdyev",
+  "slug": "eloy-chavez-hernandez",
+  "electionId": "erm-2026",
+  "name": "Eloy Chavez Hernandez",
+  "givenNames": "Eloy",
+  "surnames": "Chavez Hernandez",
+  "age": 35,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:00.486Z",
+      "sourceId": "jne-hv-cI90JOFbpAy2wQfZ1r0IAJFqK80Tdyev"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "NO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA MARIA DL TRIUNFO",
+      "role": "ALCALDE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VILLA MARIA DL TRIUNFO",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU PATRIA SEGURA",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA DE JUVENTUDES",
+      "party": "VILLA MARIA CAMBIA",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "VILLA MARIA CAMBIA",
+      "from": "2017",
+      "to": "2019"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "VILLA MARIA CAMBIA",
+      "year": "2019"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 221240,
+        "public": 187040,
+        "private": 34200
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 24221.68,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 35285.95,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 71786.06,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 147045.64,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 71786.06,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "EMIA INMOBILIARIA & CONSTRUCTORA S.A.C",
+        "type": "ACCIONES",
+        "quantity": 237080,
+        "value": 1
+      },
+      {
+        "company": "SERVICIOS & IMPORTACIONES",
+        "type": "ACCIONES",
+        "quantity": 7500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "DEBO INFORMAR QUE LOS BIENES INMUEBLES DECLARADOS, LOS HE ADQUIRIDO COMO ANTICIPO DE LEGITIMA, SUCESIÓN INTESTADA Y DONACIONES."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d4594aea-c253-4fed-929a-9c7104e877c3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ca4cf10f-3ed0-4c88-8e91-af6b366d802f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada infraestructura cultural y reducida oferta municipal permanente para la formación artística, la promoción de la identidad local y el acceso de niñas, niños, adolescentes, jóvenes y familias a actividades culturales descentralizadas.",
+            "objective": "Promover el acceso a la cultura, la formación artística y la identidad local mediante una red distrital de actividades culturales, talleres descentralizados, recuperación de espacios públicos para el arte y gestión progresiva de infraestructura cultural municipal.",
+            "goal": "Beneficiar al menos al 70% de la población objetivo priorizada mediante actividades culturales, talleres artísticos y programas de identidad local al año 2030.",
+            "indicator": "Porcentaje de población objetivo beneficiada con actividades, talleres y programas culturales municipales."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana en San Juan de Miraflores, asociada a la incidencia de delitos contra el patrimonio, violencia familiar y de género, extorsión, micro comercialización de drogas, delitos informáticos, limitada capacidad de patrullaje y videovigilancia, y presencia de espacios públicos deteriorados o inseguros.",
+            "objective": "Fortalecer la seguridad ciudadana mediante un modelo integral de prevención del delito, patrullaje articulado con la Policía Nacional, ampliación de la videovigilancia, recuperación de espacios públicos, fiscalización efectiva y participación vecinal organizada",
+            "goal": "Reducir progresivamente la percepción de inseguridad ciudadana de 92.8% a 80% o menos al año 2030.",
+            "indicator": "Porcentaje de percepción de inseguridad ciudadana en el distrito."
+          },
+          {
+            "problem": "Persistencia de brechas educativas en San Juan de Miraflores, expresadas en limitado acceso a educación universitaria, población sin nivel educativo, analfabetismo y reducidas oportunidades complementarias de reforzamiento escolar, orientación vocacional, formación técnica y espacios seguros de aprendizaje.",
+            "objective": "Promover oportunidades educativas complementarias para niños, adolescentes, jóvenes y adultos del distrito, mediante programas municipales de reforzamiento escolar, alfabetización, orientación vocacional, preparación preuniversitaria, formación para el trabajo y articulación con instituciones educativas.",
+            "goal": "Beneficiar al menos al 70% de personas con brecha educacional mediante programas municipales de apoyo educativo, alfabetización, orientación vocacional y formación complementaria al año 2030.",
+            "indicator": "Porcentaje de personas beneficiadas con programas municipales de apoyo educativo, alfabetización, orientación vocacional y formación complementaria."
+          },
+          {
+            "problem": "Limitado acceso efectivo de la población a acciones preventivas y comunitarias de salud, especialmente en zonas vulnerables, debido a la insuficiente articulación territorial de campañas, prevención de enfermedades, promoción de hábitos saludables, control sanitario, salud mental y atención a la población vulnerable.",
+            "objective": "Fortalecer la salud pública local mediante campañas preventivas descentralizadas, articulación con DIRIS Lima Sur y establecimientos de salud, promoción de hábitos saludables, control sanitario, prevención de enfermedades y atención prioritaria a población vulnerable.",
+            "goal": "Beneficiar al menos al 70% de la población objetivo priorizada mediante campañas preventivas, ferias de salud, despistajes, promoción de hábitos saludables y acciones comunitarias de salud al año 2030.",
+            "indicator": "Porcentaje de población objetivo priorizada beneficiada con campañas municipales de prevención, promoción de la salud y atención comunitaria."
+          },
+          {
+            "problem": "Limitada infraestructura deportiva oficial, reglamentaria y accesible para la práctica recreativa, formativa y competitiva en San Juan de Miraflores, especialmente para niñas, niños, adolescentes, jóvenes, adultos mayores y personas con discapacidad.",
+            "objective": "Promover el acceso al deporte, la recreación y la actividad física mediante la recuperación de espacios deportivos, implementación de escuelas municipales, circuitos recreativos, torneos descentralizados y gestión de infraestructura deportiva accesible en las seis zonas del distrito.",
+            "goal": "Beneficiar al menos al 70% de la población objetivo priorizada mediante programas deportivos, actividades recreativas e infraestructura deportiva recuperada o implementada al año 2030",
+            "indicator": "Porcentaje de población objetivo beneficiada con programas, actividades e infraestructura deportiva municipal recuperada o implementada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ocupación desordenada de espacios públicos por comercio ambulatorio, especialmente en mercados, paraderos, avenidas principales y zonas de alta concurrencia, afectando el tránsito peatonal, la seguridad, la limpieza pública, la formalización y el orden urbano.",
+            "objective": "Ordenar el comercio ambulatorio en el distrito mediante empadronamiento, fiscalización, zonas autorizadas, recuperación de espacios públicos, formalización progresiva y articulación con limpieza, seguridad y desarrollo económico local.",
+            "goal": "ntervenir, ordenar y fiscalizar periódicamente al menos el 80% de zonas críticas identificadas de comercio ambulatorio al año 2030.",
+            "indicator": "Porcentaje de zonas críticas de comercio ambulatorio intervenidas, ordenadas y fiscalizadas periódicamente."
+          },
+          {
+            "problem": "Limitada promoción empresarial y alta fragilidad de los pequeños negocios del distrito, expresada en informalidad, baja asistencia técnica, dificultades para acceder a licencias, escasa digitalización, débil articulación comercial y cierre de unidades económicas.",
+            "objective": "Fortalecer el desarrollo económico local mediante programas de formalización, simplificación administrativa, asistencia técnica, capacitación empresarial, digitalización, promoción comercial y articulación de emprendedores, mercados y pequeños negocios del distrito.",
+            "goal": "Beneficiar al menos al 70% de emprendedores, comerciantes y pequeños negocios priorizados mediante programas municipales de formalización, capacitación, asistencia técnica, digitalización y promoción comercial al año 2030.",
+            "indicator": "Porcentaje de emprendedores, comerciantes y pequeños negocios priorizados beneficiados con programas municipales de formalización, capacitación, asistencia técnica y promoción"
+          },
+          {
+            "problem": "Limitado aprovechamiento de los activos locales, comerciales, culturales, gastronómicos y recreativos de San Juan de Miraflores para promover turismo local, identidad distrital y dinamización económica.",
+            "objective": "Impulsar el turismo local y la identidad distrital mediante rutas por zonas, ferias gastronómicas y comerciales, festivales culturales, promoción de emprendedores y puesta en valor de espacios recreativos y comerciales del distrito.",
+            "goal": "Implementar al menos el 80% de actividades, rutas y eventos programados de turismo local, identidad distrital y promoción económica al año 2030",
+            "indicator": "Porcentaje de actividades, rutas y eventos de turismo local e identidad distrital implementados respecto de los programados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente capacidad operativa del servicio de Mejorar la cobertura, Porcentaje de cobertura efectiva Alcanzar al año 2030 una cobertura de 9 limpieza pública para atender la generación aproximada de 447.53 toneladas diarias de residuos sólidos municipales, debido a la limitada flota de compactadoras, deficiencias en la maestranza, escaso personal técnico, baja cobertura efectiva del barrido y presencia de puntos críticos de acumulación de residuos",
+            "objective": "Mejorar la cobertura, continuidad y calidad del servicio de limpieza pública mediante el fortalecimiento de la flota vehicular, modernización de la maestranza, optimización de rutas, ampliación del barrido de calles, eliminación de puntos críticos y valorización progresiva de residuos sólidos.",
+            "goal": "Alcanzar al año 2030 una cobertura de 100% del servicio de recolección de residuos sólidos y barrido de calles en las seis zonas del distrito",
+            "indicator": "Porcentaje de cobertura efectiva del servicio de recolección de residuos sólidos y barrido de calles en las seis zonas del distrito"
+          },
+          {
+            "problem": "Alta exposición y vulnerabilidad de sectores del distrito frente a sismos, emergencias urbanas y otros peligros, especialmente en zonas de ladera, asentamientos humanos, áreas de crecimiento informal, mercados, colegios, vías principales y espacios de alta concentración poblacional.",
+            "objective": "vulnerabilidad de sectores del distrito frente a sismos, emergencias urbanas y otros peligros, especialmente en Fortalecer la gestión del riesgo de desastres mediante la identificación de zonas críticas, reducción de vulnerabilidades, preparación comunitaria, actualización de instrumentos de riesgo, señalización, simulacros, fiscalización preventiva y mejora de la capacidad municipal de respuesta.",
+            "goal": "Intervenir al menos el 80% de zonas críticas identificadas con acciones de prevención, preparación, señalización, capacitación y respuesta ante emergencias al año 2030.",
+            "indicator": "Porcentaje de zonas críticas identificadas que cuentan con acciones de prevención, preparación, señalización, capacitación y respuesta implementadas."
+          },
+          {
+            "problem": "Deterioro de parques, jardines y bermas del distrito, sumado al déficit de áreas verdes por habitante, debido a deficiente mantenimiento, falta de regadío, pobreza de nutrientes del suelo, limitada arborización y ausencia de un sistema sostenido de conservación de espacios públicos verdes.",
+            "objective": "Recuperar y mantener los parques, jardines y bermas de San Juan de Miraflores mediante un programa integral de áreas verdes, arborización urbana, riego eficiente, mejoramiento de suelos, mantenimiento permanente y participación vecinal.",
+            "goal": "Recuperar y mantener periódicamente al menos el 80% de parques y bermas priorizadas del distrito al año 2030.",
+            "indicator": "Porcentaje de parques y bermas priorizadas recuperadas y mantenidas periódicamente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada modernización de la gestión municipal, expresada en procedimientos complejos, atención al ciudadano poco ágil, insuficiente simplificación administrativa, débil articulación de servicios, limitado aprovechamiento de herramientas digitales y necesidad de fortalecer el control interno y la gestión de riesgos de gestión.",
+            "objective": "Modernizar la gestión municipal mediante la mejora de la atención al ciudadano, implementación de ventanilla única, simplificación administrativa, digitalización de procesos, fortalecimiento del control interno y gestión de riesgos, orientando el uso eficiente del gasto hacia más bienes y servicios para la población.",
+            "goal": "Implementar mejoras de simplificación, digitalización y modernización en al menos el 80% de los procesos y servicios municipales priorizados al año 2030",
+            "indicator": "Porcentaje de procesos y servicios municipales priorizados que han sido simplificados, digitalizados o mejorados bajo criterios de atención al ciudadano, control interno y gestión por resultados."
+          },
+          {
+            "problem": "Débil articulación entre la municipalidad y las organizaciones vecinales del distrito, limitada participación ciudadana en la gestión local, insuficientes mecanismos de rendición de cuentas y baja integración de vecinos en la vigilancia, recuperación y mantenimiento de espacios públicos.",
+            "objective": "Fortalecer la participación vecinal mediante mecanismos descentralizados de diálogo, vigilancia ciudadana, presupuesto participativo, rendición de cuentas, canales digitales de reporte y articulación permanente con organizaciones sociales y juntas vecinales.",
+            "goal": "Implementar mecanismos activos de participación vecinal, coordinación ciudadana y rendición de cuentas en el 100% de las zonas territoriales del distrito al año 2030.",
+            "indicator": "Porcentaje de zonas territoriales del distrito con mecanismos activos de participación, coordinación vecinal, reporte ciudadano y rendición de cuentas implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cI90JOFbpAy2wQfZ1r0IAJFqK80Tdyev",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cI90JOFbpAy2wQfZ1r0IAJFqK80Tdyev",
+      "sha256": "8f9e6493441345ba94a1f58ddba363983c5d2bacd6202e316eb161209f22b067",
+      "accessedAt": "2026-10-02T23:04:00.486Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014231",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014231",
+      "sha256": "881b92a4204ee22fc7df49e2745c6020cc354044a8b434cd6636f6b99c338bfe",
+      "accessedAt": "2026-10-02T23:04:00.995Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

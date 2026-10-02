@@ -1,0 +1,830 @@
+{
+  "id": "24PfKYKBrbTRS4GAQW8a2NNjeGa7__zS",
+  "slug": "carlos-ricardo-bruce-montes-de-oca",
+  "electionId": "erm-2026",
+  "name": "Carlos Ricardo Bruce Montes De Oca",
+  "givenNames": "Carlos Ricardo",
+  "surnames": "Bruce Montes De Oca",
+  "age": 69,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:32.849Z",
+      "sourceId": "jne-hv-24PfKYKBrbTRS4GAQW8a2NNjeGa7__zS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "Economista",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "Bachiller en Economía",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1988"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSITAT DE BARCELONA",
+        "program": "TÍTULO UNIVERSITARIO OFICIAL DE MÁSTER UNIVERSITARIO EN PLANIFICACIÓN TERRITORIAL Y GESTIÓN AMBIENTAL (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO",
+      "role": "ALCALDE DISTRITAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "AFE GOURMET SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "CONGRESISTA DE LA REPUBLICA",
+      "from": "2006",
+      "to": "2019"
+    },
+    {
+      "employer": "MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO",
+      "role": "MINISTRO",
+      "from": "2019",
+      "to": "2019"
+    },
+    {
+      "employer": "MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO",
+      "role": "MINISTRO",
+      "from": "2017",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "CONGRESISTA DE LA REPÚBLICA",
+      "party": "PERUANOS POR EL KAMBIO",
+      "from": "2016",
+      "to": "2021"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "COMITÉ EJECUTIVO NACIONAL - SECRETARIOS GENERALES COLEGIADOS",
+      "party": "PERU POSIBLE",
+      "from": "2004",
+      "to": "2005"
+    },
+    {
+      "position": "JEFE DEL COMANDO NACIONAL DE CAMPAÑA",
+      "party": "PERÚ POSIBLE",
+      "from": "2010",
+      "to": "2011"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2021"
+    },
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 198900,
+        "public": 198900,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA LAND ROVER - DISCOVERY 4 2011",
+        "value": 43680
+      },
+      {
+        "type": "CAMIONETA LEXUS LC 570 PLUS 2016",
+        "value": 134640
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES EIVISSA SAC",
+        "type": "ACCIONES",
+        "quantity": 2700,
+        "value": 2700
+      },
+      {
+        "company": "INVERSIONES PROTON SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 350760,
+        "value": 350760
+      },
+      {
+        "company": "AFEGOURMET SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 7500,
+        "value": 7500
+      }
+    ]
+  },
+  "additionalInfo": [
+    "ACTUALMENTE ES MIEMBRO DE LA COMISIÓN CONSULTIVA DE LA MAESTRIA EN GESTIÓN DE LAS CIUDADES DE LA UNIVERSIDAD DE LIMA"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a6663c58-46ed-4a05-8057-d535744bc9a6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c366b244-7591-4824-8df9-b1f5f1c3d1ff.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada capacidad de conducción estratégica y monitoreo del sistema de seguridad ciudadana",
+            "objective": "Modernizar la gestión estratégica mediante inteligencia y análisis de información",
+            "goal": "40%",
+            "indicator": "Nivel de disponibilidad pública de información de seguridad ciudadana (reportes estadísticos y difundidos)"
+          },
+          {
+            "problem": "Persistencia de factores de exclusión educativa en adolescentes",
+            "objective": "Fortalecer la coordinación entre actores del SINASEC, sector educación, programas sociales y gobiernos locales para prevenir factores de riesgo social y exclusión educativa",
+            "goal": "30%",
+            "indicator": "Nivel de implementación de acciones conjuntas multisectoriales"
+          },
+          {
+            "problem": "Tenencia irresponsable, animales en calle, mordeduras, excretas y reproducción no controlada generan riesgos sanitarios y vecinales.",
+            "objective": "Registrar animales de compañía y promover tenencia responsable, vacunación, esterilización y adopción.",
+            "goal": "100,000 animales registrados y 500 campañas de tenencia responsable acumuladas.",
+            "indicator": "N° de animales registrados; N° de campañas de tenencia responsable."
+          },
+          {
+            "problem": "Alta siniestralidad escolar: En Lima, 1 de cada 10 accidentes fatales ocurre cerca de un colegio (299 menores fallecidos en 2023). El entorno educativo es hostil por falta de señalización, veredas insuficientes y exceso de velocidad vehicular.",
+            "objective": "Transformar los accesos escolares en zonas seguras y caminables, reduciendo la velocidad vehicular y recuperando el espacio público para estudiantes y familias",
+            "goal": "A los 100 días: Mínimo de 03 instituciones educativas intervenidas bajo el plan de choque. Al segundo año: Al menos 26 instituciones educativas con entornos seguros concluidos. Al cuarto año: Consolidación de un total de 52 instituciones intervenidas a nivel metropolitano.",
+            "indicator": "Número de Instituciones Educativas (II.EE.) con entornos seguros implementados."
+          },
+          {
+            "problem": "La red ciclista metropolitana es fragmentada, insegura y con limitada integración al transporte público.",
+            "objective": "Consolidar una red ciclista metropolitana conectada, segura e integrada al sistema de transporte urbano.",
+            "goal": "Cien (100) km de infraestructura ciclista segura implementada y veinte (20) estaciones con integración ciclista al finalizar la gestión.",
+            "indicator": "Km de infraestructura ciclista implementada y estaciones intermodales habilitadas."
+          },
+          {
+            "problem": "Lima presenta un déficit de 2.5 millones de árboles y solo 3.5 m²/hab de áreas verdes, mientras el 85% de ciudadanos vive a más de 1 km de un parque. La toxicidad por PM2.5 alcanza los 28 µg/m³, triplicando los límites de la OMS.",
+            "objective": "Elevar el índice de áreas verdes y mejorar la salud ambiental mediante un Sistema Ecológico Integrado, justicia espacial y monitoreo de contaminantes en tiempo real.",
+            "goal": "A los 100 días: 01 Comité Metropolitano de Gestión de Espacios Públicos instalado. 5000 árboles sembrados en zonas estratégicas. Al segundo año: 01 Guía de Gestión aprobada y 09 estaciones de vigilancia ambiental operativas en el Cercado. Al cuarto año: 100% de ejecución de la Red de Corredores Ecológicos de Atención Prioritaria en el Sistema Vial Metropolitano.",
+            "indicator": "Número de Guías de Gestión de Espacios Públicos aprobadas. % de ejecución de Corredores Ecológicos. Cantidad de estaciones de vigilancia ambiental (sensores) instaladas."
+          },
+          {
+            "problem": "Alta incidencia de pandillaje pernicioso y violencia juvenil organizada",
+            "objective": "Fortalecer la prevención comunitaria y reinserción social juvenil",
+            "goal": "Alta incidencia de pandillaje pernicioso y violencia juvenil organizada",
+            "indicator": "Número de adolescentes y jóvenes incorporados a programas de reinserción social"
+          },
+          {
+            "problem": "Gestión alimentaria fragmentada, con padrones y reportes dispersos de PCA, PVL, ollas comunes y comedores populares.",
+            "objective": "Ordenar la seguridad alimentaria metropolitana con información, trazabilidad, asistencia técnica e inocuidad.",
+            "goal": "43 distritos con información estandarizada y 1,000 organizaciones comunitarias capacitadas/incorporadas al sistema.",
+            "indicator": "N° de distritos con información alimentaria estandarizada; N° de organizaciones comunitarias capacitadas o incorporadas al seguimiento."
+          },
+          {
+            "problem": "Desarticulación de la información territorial y catastral, lo que dificulta la planificación y el control de la expansión informal.",
+            "objective": "Implementar un sistema de información territorial único e interoperable para una gestión eficiente",
+            "goal": "100% del Catastro del Cercado de Lima actualizado y 100% de la información distrital integrada al sistema.",
+            "indicator": "% de actualización del Catastro en el Cercado de Lima y número de bases distritales integradas al IMP."
+          },
+          {
+            "problem": "Incremento y diversificación de la criminalidad en Lima Metropolitana",
+            "objective": "Fortalecer el control territorial (microzonificación) y la capacidad operativa en zonas críticas de alta incidencia delictiva",
+            "goal": "20%",
+            "indicator": "Nivel de implementación operativa del Serenazgo Metropolitano Profesional"
+          },
+          {
+            "problem": "La informalidad y precariedad habitacional en los sectores D y E relegan a la población a viviendas autoconstruidas sin asistencia técnica ni condiciones mínimas de seguridad y habitabilidad.",
+            "objective": "Elevar los estándares de seguridad y habitabilidad de la vivienda autoconstruida mediante formalización y asistencia técnica.",
+            "goal": "Al segundo año: 01 Reforma normativa aprobada. Al cuarto año de gestión: 02 campañas masivas de formalización y asistencia técnica en distritos.",
+            "indicator": "Número de reformas administrativas/normativas y de campañas de formalización ejecutadas."
+          },
+          {
+            "problem": "Albergues municipales con necesidad de fortalecer atención integral, salud mental, educación, reintegración familiar y rutas de egreso.",
+            "objective": "Modernizar el modelo de atención de albergues municipales según población usuaria y necesidad de protección.",
+            "goal": "4 albergues municipales con plan de mejora y rutas de egreso/seguimiento implementadas.",
+            "indicator": "N° de albergues con plan de mejora; % de albergues con rutas de egreso y seguimiento."
+          },
+          {
+            "problem": "Expansión del crimen organizado y economías ilegales",
+            "objective": "Fortalecer la articulación interinstitucional para prevenir, identificar y reducir la presencia de organizaciones criminales y economías ilegales",
+            "goal": "5%",
+            "indicator": "Reducción de incidencia del crimen organizado y economías ilegales"
+          },
+          {
+            "problem": "Barreras de accesibilidad física, comunicacional y de atención para personas con discapacidad y personas adultas mayores.",
+            "objective": "Estandarizar criterios de accesibilidad en servicios municipales y articularlos con las mejoras físicas de parques y espacios públicos.",
+            "goal": "Estándar metropolitano aprobado; 100 servicios o equipamientos municipales evaluados/asistidos al 2030.",
+            "indicator": "N° de estándares o protocolos aprobados; N° de servicios/equipamientos evaluados o asistidos."
+          },
+          {
+            "problem": "Jóvenes del Cercado con barreras económicas y de información para acceder a educación superior, técnica y certificaciones.",
+            "objective": "Articular becas, medias becas, cursos cortos y certificaciones con universidades, institutos y empresas.",
+            "goal": "30 convenios activos y 1,000 beneficiarios acumulados al cierre de gestión.",
+            "indicator": "N° de convenios suscritos; N° de beneficiarios de becas, cursos o certificaciones."
+          },
+          {
+            "problem": "Familias y cuidadores requieren herramientas para crianza positiva, cuidados, nutrición, prevención de violencia y salud mental.",
+            "objective": "Fortalecer capacidades familiares y comunitarias para el cuidado y la prevención.",
+            "goal": "20,000 familias/cuidadores capacitados y módulos implementados en zonas priorizadas al 2030.",
+            "indicator": "N° de familias y cuidadores capacitados; N° de módulos implementados."
+          },
+          {
+            "problem": "Sedentarismo, baja práctica regular de actividad física y oferta recreativa desigual entre distritos.",
+            "objective": "Masificar actividad física, recreación y movimiento comunitario como política de salud, convivencia y bienestar.",
+            "goal": "1,000 activaciones y 250,000 participaciones acumuladas al 2030.",
+            "indicator": "N° de activaciones de movimiento; N° de participantes acumulados."
+          },
+          {
+            "problem": "Transporte público desordenado, paraderos informales y baja eficiencia operativa.",
+            "objective": "Mejorar la eficiencia del transporte público y ordenar la operación vial.",
+            "goal": "25 km ordenados y 50% reducción de paraderos informales",
+            "indicator": "Km de corredores intervenidos y reducción de informalidad"
+          },
+          {
+            "problem": "Demanda creciente de servicios de salud municipales y necesidad de mejorar eficiencia, cobertura y experiencia usuaria.",
+            "objective": "Modernizar SISOL con información de gestión, evaluación de sedes, calidad de atención y priorización territorial.",
+            "goal": "100% de sedes SISOL evaluadas, tablero de gestión operativo y plan de mejora aprobado al año 1.",
+            "indicator": "% de sedes evaluadas; tablero de gestión implementado; plan de mejora aprobado."
+          },
+          {
+            "problem": "La red vial metropolitana presenta congestión estructural, baja capacidad operativa y deficiente articulación con el sistema de transporte urbano.",
+            "objective": "Mejorar la eficiencia y operatividad de la red vial metropolitana priorizando el transporte público y la movilidad sostenible.",
+            "goal": "Cien (100) km de corredores metropolitanos intervenidos y priorizados para transporte público al finalizar la gestión.",
+            "indicator": "Km de corredores intervenidos y carriles exclusivos implementados."
+          },
+          {
+            "problem": "Debilidad en el liderazgo metropolitano para la gestión de grandes eventos y proyectos estratégicos como los Juegos Panamericanos 2027.",
+            "objective": "Liderar la adecuación del entorno urbano y la articulación de servicios metropolitanos para garantizar un legado sostenible.",
+            "goal": "100 días: Mesas técnicas instaladas y cronograma de obras. Julio 2027: 100% del Plan de Emergencia implementado.",
+            "indicator": "% de intervenciones ejecutadas y operativas antes de julio de 2027 (inicio de los Juegos Panamericanos 2027)"
+          },
+          {
+            "problem": "Subutilización de grandes superficies de suelo con potencial de transformación (27% del área urbana tiene usos obsoletos o industriales)",
+            "objective": "Transformar áreas de oportunidad en polos de desarrollo mixto (vivienda, comercio y servicios) mediante instrumentos de gestión de suelo.",
+            "goal": "Al finalizar la gestión: 05 Planes Específicos aprobados (01 Lima Centro, 01 Lima Norte, 02 Lima Sur, 01 Lima Este).",
+            "indicator": "Número de Planes Específicos Integrales aprobados mediante Ordenanza Metropolitana."
+          },
+          {
+            "problem": "La infraestructura peatonal presenta discontinuidad, deterioro, baja accesibilidad y condiciones inseguras para peatones y usuarios vulnerables.",
+            "objective": "Mejorar la caminabilidad, accesibilidad universal y seguridad peatonal en Lima Metropolitana.",
+            "goal": "Ochenta (80) km de corredores peatonales y rutas accesibles implementadas o mejoradas al finalizar la gestión.",
+            "indicator": "Km de corredores peatonales y espacios públicos intervenidos."
+          },
+          {
+            "problem": "El Centro Histórico es usado más como zona de tránsito o visita puntual que como aula abierta de ciudad.",
+            "objective": "Convertir el patrimonio del Cercado en recurso educativo mediante rutas, mediación cultural y agenda escolar/familiar.",
+            "goal": "6 rutas activas y 20,000 participantes acumulados al 2030.",
+            "indicator": "N° de rutas patrimoniales activas; N° de escolares, familias y vecinos participantes."
+          },
+          {
+            "problem": "Existen altos niveles de siniestralidad vial y conflictos entre peatones, ciclistas y vehículos motorizados.",
+            "objective": "Reducir riesgos viales y priorizar la movilidad activa en zonas urbanas de alta demanda.",
+            "goal": "Cincuenta (50) Zonas 30 implementadas y reducción progresiva de siniestros viales en zonas intervenidas al 2030.",
+            "indicator": "Número de Zonas 30 e intervenciones de tráfico calmado implementadas."
+          },
+          {
+            "problem": "Marco normativo urbanístico desactualizado por más de 20 años, operando de forma reactiva y con cobertura desigual en la metrópoli.",
+            "objective": "Lograr una planificación urbana integral mediante la actualización de los instrumentos técniconormativos de la metrópoli",
+            "goal": "100 días: 100% del diagnóstico del \"estado de la cuestión\" culminado. Al finalizar la gestión: 05 PDUs aprobados",
+            "indicator": "Número de Planes de Desarrollo Urbano (PDU) actualizados y aprobados."
+          },
+          {
+            "problem": "El Cercado de Lima y Centro Histórico presentan congestión, conflictos funcionales y deterioro del espacio público vial.",
+            "objective": "Recuperar la funcionalidad vial y mejorar la movilidad urbana en el Centro Histórico y Cercado de Lima.",
+            "goal": "Veinte (20) intervenciones integrales ejecutadas en el Cercado de Lima y Centro Histórico al 2030.",
+            "indicator": "Número de intervenciones ejecutadas en ejes y espacios públicos estratégicos."
+          },
+          {
+            "problem": "Riesgo de dengue y otras enfermedades metaxénicas por criaderos en viviendas, mercados, parques y espacios públicos.",
+            "objective": "Prevenir enfermedades metaxénicas mediante eliminación de criaderos, educación sanitaria y control ambiental municipal.",
+            "goal": "200 campañas o jornadas de eliminación de criaderos y educación sanitaria acumuladas en Cercado.",
+            "indicator": "Número de campañas de eliminación de criaderos y puntos críticos intervenidos."
+          },
+          {
+            "problem": "Escolares de primaria fuera de cobertura alimentaria escolar con riesgo nutricional y necesidad de educación alimentaria.",
+            "objective": "Implementar un piloto focalizado de educación nutricional y soporte alimentario escolar, articulado a salud preventiva.",
+            "goal": "Piloto validado en el primer año; al menos 10 instituciones educativas y 2,000 escolares atendidos acumulados al 2030.",
+            "indicator": "N° de instituciones educativas piloto; N° de escolares atendidos; % de escolares con seguimiento básico."
+          },
+          {
+            "problem": "El déficit habitacional en Lima Metropolitana alcanza las 475,363 viviendas, con una demanda formal que triplica la oferta actual.",
+            "objective": "Reducir la brecha habitacional mediante la gestión activa de suelo público para vivienda social y regeneración urbana.",
+            "goal": "Al segundo año: 01 Cartera metropolitana consolidada y saneada.",
+            "indicator": "Número de carteras de predios e inmuebles viables para proyectos de vivienda social saneados y priorizados"
+          },
+          {
+            "problem": "Los principales nodos de transporte presentan saturación, informalidad y deficiente accesibilidad peatonal.",
+            "objective": "Mejorar las condiciones de acceso, seguridad y operación en nodos y corredores estratégicos.",
+            "goal": "Treinta (30) intervenciones integrales ejecutadas en nodos y corredores priorizados al 2030.",
+            "indicator": "Número de intervenciones de ordenamiento y accesibilidad ejecutadas."
+          },
+          {
+            "problem": "Ausencia de espacios distritales para la promoción de la cultura y las artes",
+            "objective": "Implementar un centro municipal de formación artística inicial e intermedia, orientado a la danza, artes escénicas, pintura, música, artes visuales y otras disciplinas creativas y culturales.",
+            "goal": "1 EMAC implementado, y 3,000 atenciones culturales/educativas acumuladas.",
+            "indicator": "N° de EMAC implementados; N° de usuarios/atenciones."
+          },
+          {
+            "problem": "Congestión por exceso de vehículos, estacionamiento indebido y ocupación del espacio público.",
+            "objective": "Recuperar capacidad vial y regular el uso del espacio urbano.",
+            "goal": "120,000 m² recuperados y 30% reducción del tránsito de paso",
+            "indicator": "m² de espacio recuperado y % reducción de flujo vehicular"
+          },
+          {
+            "problem": "Lima tiene una brecha de inversión crítica: mientras el Centro Histórico recibió S/ 260M en 2025, los 696 sitios arqueológicos recibieron solo S/ 3M. Solo el 3.7% de las huacas están puestas en valor, y el 84% carece de saneamiento legal.",
+            "objective": "Revalorizar la identidad milenaria de Lima mediante el reconocimiento internacional de los sitios arqueológicos, la integración de huacas como nodos de servicios (\"Puertos de Cultura\") y la creación de mecanismos de financiamiento sostenibles.",
+            "goal": "A los 100 días: Mesa Técnica \"Lima Milenaria\" instalada para Ley de Financiamiento y Postulación a la UNESCO. Al segundo año: Ley de Financiamiento de Sitios Arqueológicos aprobada y 100% de pilotos de Huacas Vivas con acciones rápidas. Al cuarto año: Expediente UNESCO finalizado y 01 paquete piloto de Parques Lineales \"Canales de Lima\" implementado.",
+            "indicator": "Expediente UNESCO presentado. % de avance físico en Red Huacas Vivas. Estrategia de Canales definida. Ley de Financiamiento aprobada."
+          },
+          {
+            "problem": "Servicios alimentarios del Cercado con padrones y mecanismos de seguimiento que requieren actualización.",
+            "objective": "Actualizar la gestión alimentaria local y acercar orientación nutricional y social a población vulnerable.",
+            "goal": "100% del padrón alimentario municipal actualizado al primer año y 6 nodos de orientación alimentaria activos.",
+            "indicator": "% de padrón alimentario municipal actualizado; N° de nodos de orientación alimentaria activos."
+          },
+          {
+            "problem": "Costa Verde y Parque de las Leyendas como espacios de oportunidad desaprovechados por años ante la falta de una gobernanza integral.",
+            "objective": "Fortalecer la gobernanza e integralidad de espacios de oportunidad de escala metropolitana.",
+            "goal": "02 planes Maestros (Costa Verde y Parque de las Leyendas) desarrollados y aprobados.",
+            "indicator": "Número de Planes Maestros aprobados mediante Ordenanza Metropolitana."
+          },
+          {
+            "problem": "Brechas territoriales de refuerzo escolar, orientación vocacional y preparación para educación superior y empleo.",
+            "objective": "Ampliar la oferta municipal de educación complementaria y aprendizaje permanente.",
+            "goal": "Red educativa complementaria en funcionamiento y 5,000 atenciones educativas acumuladas al 2030.",
+            "indicator": "N° de sedes o servicios educativos articulados; N° de beneficiarios atendidos."
+          },
+          {
+            "problem": "Cercado cuenta con infraestructura deportiva municipal que requiere mayor uso social, seguridad y programación barrial.",
+            "objective": "Activar progresivamente los espacios deportivos y recreativos del Cercado con actividades intergeneracionales y preventivas.",
+            "goal": "50 espacios del Cercado activados y 1 agenda semanal de movimiento sostenida al cierre de gestión.",
+            "indicator": "N° de espacios del Cercado con programación semanal; N° de actividades realizadas."
+          },
+          {
+            "problem": "57% de las 31,000 ha de lomas carece de protección oficial y el Plan Maestro del ACR Lomas presenta retraso administrativo desde 2020, facilitando el tráfico de tierras y pérdida de biodiversidad.",
+            "objective": "Institucionalizar la defensa de lomas y humedales mediante zonificación estricta, planes maestros vigentes y la implementación de cinturones ecológicos de protección.",
+            "goal": "Al cuarto año de gestión: 02 Planes Maestros aprobados (Lomas y Pantanos). 01 proyecto piloto de Cinturón Ecológico implementado en sectores críticos de Lomas para contención de la expansión urbana",
+            "indicator": "- Número de Planes Maestros aprobados y vigentes. - Cantidad de proyectos piloto de Cinturón Ecológico y Zonas de Amortiguamiento ejecutados."
+          },
+          {
+            "problem": "Riesgos de zoonosis, salud animal, salubridad urbana y enfermedades metaxénicas requieren articulación sanitaria y territorial.",
+            "objective": "Integrar salud humana, salud animal y ambiente urbano bajo enfoque de Una Sola Salud.",
+            "goal": "Mesa metropolitana operativa y 43 distritos con lineamientos/acciones articulados al 2030.",
+            "indicator": "Mesa metropolitana instalada; N° de distritos con plan o acciones articuladas."
+          },
+          {
+            "problem": "El sistema de transporte público presenta fragmentación, desorden y baja articulación entre modos de transporte",
+            "objective": "Fortalecer la integración física, operativa y funcional del sistema de transporte público metropolitano.",
+            "goal": "Veinte (20) nodos y estaciones estratégicas intervenidos al finalizar la gestión.",
+            "indicator": "Número de nodos y estaciones intervenidas con criterios de integración modal."
+          },
+          {
+            "problem": "Limitada articulación del Sistema Metropolitano de Seguridad Ciudadana",
+            "objective": "Fortalecer la interoperabilidad y seguimiento estratégico del sistema de seguridad ciudadana",
+            "goal": "35%",
+            "indicator": "Porcentaje de instituciones que reportan información de manera interoperable."
+          },
+          {
+            "problem": "Brecha y costo excesivo del agua: Más de 635 mil personas sin red pagan hasta 6 veces más por agua de cisterna. El 92% la almacena en condiciones inseguras, generando un alto riesgo sanitario para familias vulnerables.",
+            "objective": "Asegurar la justicia hídrica y la salud pública: Ejercer el liderazgo metropolitano en la regulación del abastecimiento alternativo y garantizar condiciones técnicas de salubridad en el consumo de agua para la población no conectada.",
+            "goal": "Al segundo año: 01 primer paquete de registro y certificación de cisternas en zonas críticas; y 01 primer paquete de infraestructura sanitaria entregado en zonas priorizadas. Al cuarto año: Consolidación del registro metropolitano y escalamiento de los paquetes de infraestructura sanitaria según la demanda empadronada.",
+            "indicator": "1. Número de paquetes de registro y certificación de cisternas ejecutados. 2. Número de paquetes de infraestructura sanitaria (tanques y kits) entregados."
+          },
+          {
+            "problem": "Falta de liderazgo metropolitano y ausencia de articulación interinstitucional en seguridad ciudadana",
+            "objective": "Fortalecer la gobernanza y coordinación institucional metropolitana",
+            "goal": "30%",
+            "indicator": "Nivel de cumplimiento de planes metropolitanos de seguridad ciudadana."
+          },
+          {
+            "problem": "La vulnerabilidad sísmica crítica en el Cercado de Lima afecta al 75.6% de la población del distrito.",
+            "objective": "Reducir el riesgo sísmico mediante la articulación con el gobierno central para el reforzamiento estructural masivo por paquetes.",
+            "goal": "Al segundo año: 01 Gestión de priorización ante el MVCS concluida. Al cuarto año de gestión: 01 Primer paquete de saneamiento y obras de reforzamiento ejecutado.",
+            "indicator": "Cantidad de gestiones ante el MVCS y de paquetes de saneamiento/obras de reforzamiento concluidos."
+          },
+          {
+            "problem": "Más de 6.2 millones de personas habitan en zonas de riesgo muy alto con graves brechas de infraestructura social, accesibilidad y seguridad ante desastres naturales en asentamientos vulnerables.",
+            "objective": "Transformar barrios vulnerables mediante gestión de riesgos, mitigación e infraestructura social como motor de desarrollo urbano.",
+            "goal": "Al segundo año: 100% de la Estrategia de Priorización desarrollada. Al cuarto año de gestión: 01 Caso de reasentamiento y 100 intervenciones de infraestructura social (escaleras y espacios públicos)",
+            "indicator": "Cantidad de intervenciones de infraestructura social (entre muros de contención, escaleras seguras y forestación en zonas de riesgo mitigable) y casos de reasentamiento estratégico ejecutados."
+          },
+          {
+            "problem": "Servicios de protección y cuidados dispersos para NNA, mujeres, personas adultas mayores, personas con discapacidad y familias vulnerables.",
+            "objective": "Articular una red metropolitana de cuidados con rutas de atención, derivación y seguimiento social.",
+            "goal": "4 rutas diferenciadas aprobadas y al menos 20 distritos o servicios articulados al cierre de gestión.",
+            "indicator": "N° de rutas de atención aprobadas; N° de distritos o servicios articulados a la estrategia."
+          },
+          {
+            "problem": "Ausencia de espacios municipales a nivel metropolitano para la promoción de la cultura y las artes",
+            "objective": "Implementar una red de Centros Metropolitanos de la Cultura y las Artes como espacios públicos de formación artística, creación cultural y profesionalización progresiva, implementados en los Clubes Metropolitanos",
+            "goal": "11 CMCA implementados en los clubes metropolitanos, y 100,000 atenciones culturales/educativas acumuladas.",
+            "indicator": "N° de CMCA implementados; N° de usuarios/atenciones."
+          },
+          {
+            "problem": "Acceso desigual a bienes y servicios culturales, con barrios sin programación permanente y patrimonio poco conectado a la vida cotidiana.",
+            "objective": "Activar cultura, patrimonio y espacio público como herramientas de identidad, convivencia y recuperación barrial.",
+            "goal": "100 espacios o barrios activados y 500 actividades culturales acumuladas al 2030.",
+            "indicator": "N° de barrios o espacios activados; N° de actividades culturales realizadas."
+          },
+          {
+            "problem": "Población vulnerable con barreras de acceso a campañas preventivas, tamizajes y orientación en salud.",
+            "objective": "Acercar servicios preventivos e itinerantes a zonas vulnerables, casas vecinales, clubes zonales y espacios públicos.",
+            "goal": "500 campañas/módulos itinerantes y 250,000 atenciones preventivas acumuladas al 2030.",
+            "indicator": "N° de campañas o módulos itinerantes; N° de atenciones preventivas."
+          },
+          {
+            "problem": "Insuficiente cobertura de fibra óptica y conectividad desigual",
+            "objective": "Garantizar una gestión tecnológica segura, eficiente y sostenible",
+            "goal": "25%",
+            "indicator": "Porcentaje de distritos interconectados a la red metropolitana."
+          },
+          {
+            "problem": "La falta de un inventario digital de arbolado y la dependencia de camiones cisterna para riego generan altos costos, ineficiencia operativa y riesgos de accidentes por caída de ejemplares en mal estado.",
+            "objective": "Garantizar la sostenibilidad técnica, hídrica y de seguridad de la infraestructura verde mediante el uso de agua tratada, riego tecnificado y gestión forestal digitalizada.",
+            "goal": "A los 100 días: 01 Hoja de Ruta con SEDAPAL suscrita. Al segundo año: 01 Plan de Acción de la Red de Riego concluido. 100% del Inventario Digital del Arbolado terminado. Al cuarto año: 100% de la Red de Riego local del Cercado de Lima modernizada y operativa.",
+            "indicator": "- Número de Hojas de Ruta o Convenios de suministro suscritos con SEDAPAL. - Porcentaje (%) de la Red de Riego modernizada y operativa. % de avance del Inventario Digital del Arbolado."
+          },
+          {
+            "problem": "Enfermedades crónicas, anemia, salud bucal/visual y baja cultura preventiva requieren acciones sostenidas de promoción de salud.",
+            "objective": "Desarrollar campañas integradas de prevención y estilos de vida saludables con MINSA, DIRIS, SISOL y distritos.",
+            "goal": "1,000 campañas preventivas y 500,000 personas alcanzadas acumuladas al 2030.",
+            "indicator": "N° de campañas preventivas; N° de personas alcanzadas."
+          },
+          {
+            "problem": "Incremento y diversificación de la criminalidad en Lima Metropolitana",
+            "objective": "Crear una institución especializada en prevención, vigilancia, control del espacio público y atención de la criminalidad urbana de menor complejidad.",
+            "goal": "Implementación de la Policía Municipal Metropolitana",
+            "indicator": "Entidades municipales especializadas en la prevención y actuación de delitos comunes de menor complejidad."
+          },
+          {
+            "problem": "Vulnerabilidad de jóvenes que no estudian ni trabajan (NINI)",
+            "objective": "Priorizar la atención de jóvenes vulnerables mediante inserción educativa y laboral",
+            "goal": "20%",
+            "indicator": "Porcentaje de jóvenes capacitados e insertados laboralmente"
+          },
+          {
+            "problem": "Débil confianza institucional y alta percepción de inseguridad ciudadana",
+            "objective": "Optimizar la capacidad de respuesta y fortalecer la legitimidad institucional",
+            "goal": "5%",
+            "indicator": "Incremento del nivel de confianza ciudadana en instituciones de seguridad"
+          },
+          {
+            "problem": "Problemas de salud mental en adolescentes, jóvenes, mujeres, cuidadores y adultos mayores con baja oferta comunitaria de orientación.",
+            "objective": "Implementar prevención, orientación, primeros auxilios psicológicos comunitarios y rutas de derivación.",
+            "goal": "25,000 orientaciones/talleres y rutas de derivación activas en zonas priorizadas.",
+            "indicator": "N° de orientaciones o talleres; N° de derivaciones realizadas."
+          },
+          {
+            "problem": "Existe débil coordinación institucional para la gestión y fiscalización del sistema de transporte.",
+            "objective": "Fortalecer la gobernanza y articulación institucional de la movilidad urbana.",
+            "goal": "Una (1) mesa técnica permanente operativa y ejecución continua de acciones coordinadas durante toda la gestión.",
+            "indicator": "Número de mecanismos de coordinación y acciones conjuntas implementados."
+          },
+          {
+            "problem": "Existen 232 puntos críticos por inundaciones y huaycos identificados por ANA (96 en Chosica y 33 en Chaclacayo), con fajas marginales ocupadas informalmente que elevan el riesgo de desastres hídricos",
+            "objective": "Transformar las riberas en corredores de amortiguamiento y protección mediante infraestructura híbrida y soluciones basadas en la naturaleza (SbN)",
+            "goal": "A los 100 días: 01 Mesa de Trabajo Ejecutiva con ANA y MVCS instalada para acciones de emergencia. Al cuarto año: 100% de ejecución del Proyecto Especial Paisajístico Río Rímac en el ámbito del Cercado y ejecución de infraestructura definitiva de protección y paisaje en sectores priorizados de la metrópoli.",
+            "indicator": "- Número de Mesas de Trabajo de articulación interinstitucional (MML-ANA-MVCS) instaladas por año. - Porcentaje (%) de avance físico de la implementación del Proyecto Especial Paisajístico Río Rímac."
+          },
+          {
+            "problem": "El 45.3% de los predios del Centro Histórico presenta riesgo alto o muy alto, debido al deterioro físico y la saturación de depósitos ilegales (1,032 negocios clausurados en 2024) que desplazan la vivienda segura.",
+            "objective": "Erradicar riesgos de incendio y recuperar la vivienda mediante una política de tolerancia cero a depósitos ilegales y la reconversión de usos del suelo.",
+            "goal": "A los 100 días: Operativos de clausura definitiva de depósitos en inmuebles de riesgo extremo. Al segundo año: 01 Estudio de Reconversión finalizado y 100% de depósitos identificados de riesgo extremo clausurados. Al cuarto año: 01 primer Paquete de Proyectos de Sustitución de Actividades ejecutado",
+            "indicator": "Estudio Estratégico de Reconversión concluido. % de depósitos de riesgo extremo clausurados. Paquetes de Proyectos de Sustitución de actividades ejecutados."
+          },
+          {
+            "problem": "El sistema vial ha sido diseñado priorizando el vehículo privado, limitando la movilidad sostenible y la accesibilidad urbana.",
+            "objective": "Promover una red vial multimodal, segura y sostenible.",
+            "goal": "Sesenta (60) km de vías completas implementadas al finalizar la gestión.",
+            "indicator": "Km de vías completas implementadas."
+          },
+          {
+            "problem": "Aproximadamente el 75% de los incendios en el Centro Histórico se originan por fallas eléctricas en redes obsoletas, afectando principalmente a las quintas de quincha y adobe en Barrios Altos y Monserrate (CGBVP / PROLIMA).",
+            "objective": "Reducir drásticamente el riesgo de incendio y proteger la vida de los vecinos del Cercado de Lima",
+            "goal": "A los 100 días: Ejecución del Padrón de Riesgo Eléctrico en las quintas más críticas de Barrios Altos y Monserrate. Al segundo año: 01 Padrón de Riesgo Eléctrico finalizado y Red de convenios del \"Crédito Eléctrico Seguro\" operativa. Al cuarto año: 01 primer Paquete de Viviendas con Redes Eléctricas Certificadas entregado y operativo",
+            "indicator": "- Padrón de Riesgo Eléctrico concluido. - Red de convenios financieros operativa. - Cantidad de Paquetes de Viviendas Certificadas entregados."
+          },
+          {
+            "problem": "Debilidad técnica y financiera del IMP, junto a una falta de articulación vinculante con las unidades ejecutoras de la metrópoli.",
+            "objective": "Potenciar la capacidad técnica y autonomía del IMP como el ente rector de la planificación metropolitana",
+            "goal": "100 días: 01 Mesa de Concertación operativa. Al finalizar la gestión: 100% de proyectos validados y 100% de direcciones modernizadas",
+            "indicator": "% de implementación del plan de modernización y % de proyectos con validación técnica del IMP."
+          },
+          {
+            "problem": "La infraestructura vial presenta deterioro, cuellos de botella y falta de jerarquización funcional.",
+            "objective": "Fortalecer la conectividad y funcionalidad de la red vial metropolitana.",
+            "goal": "Cincuenta (50) intersecciones y nodos críticos intervenidos al 2030.",
+            "indicator": "Número de intersecciones y puntos críticos optimizados."
+          },
+          {
+            "problem": "Alta siniestralidad vial y conflictos entre modos de transporte.",
+            "objective": "Reducir siniestros viales y priorizar la seguridad vial en toda la red urbana.",
+            "goal": "40 puntos críticos seguros y 50 Zonas 30 implementadas con reducción de siniestros",
+            "indicator": "N° de puntos críticos intervenidos y Zonas 30 implementadas"
+          },
+          {
+            "problem": "Fragmentación de la Videovigilancia y Ausencia de Analítica Inteligente como Brechas Críticas del Sistema de Seguridad Metropolitana",
+            "objective": "Interconectar cámaras de videovigilancia de los 43 distritos mediante estándares tecnológicos comunes, inteligencia artificial y monitoreo centralizado",
+            "goal": "10 distritos",
+            "indicator": "Número de distritos interoperables integrados al sistema metropolitano de videovigilancia"
+          },
+          {
+            "problem": "Cercado requiere un piloto integrado de salud preventiva, orientación social y derivación desde equipamientos existentes.",
+            "objective": "Articular SISOL, casas vecinales y campañas de bienestar para población vulnerable del Cercado.",
+            "goal": "6 nodos de salud preventiva y 100 campañas acumuladas en el Cercado al 2030.",
+            "indicator": "N° de nodos de salud preventiva; N° de campañas realizadas."
+          },
+          {
+            "problem": "Crecimiento de nuevas modalidades delictivas asociadas a la tecnología",
+            "objective": "Implementar un Centro de Comando, Control, Comunicaciones, Cómputo, Coordinación e Inteligencia (C5i) para integrar monitoreo, inteligencia territorial y gestión estratégica de la seguridad ciudadana en Lima Metropolitana",
+            "goal": "15 entidades",
+            "indicator": "Número de entidades y sistemas interoperables integradas al sistema"
+          },
+          {
+            "problem": "Incremento de la violencia escolar y debilitamiento de entornos protectores",
+            "objective": "Fortalecer entornos escolares seguros mediante prevención de violencia, convivencia escolar y atención psicosocial",
+            "goal": "40%",
+            "indicator": "Porcentaje de instituciones educativas incorporadas al programa"
+          },
+          {
+            "problem": "Precariedad del tejido urbano con edificaciones inhabitables, tugurización y hacinamiento, especialmente en zonas como Barrios Altos y los márgenes del río Rímac.",
+            "objective": "Recuperar la función residencial y promover la destugurización del área central mediante oferta formal de vivienda y alquiler.",
+            "goal": "A los 100 días: 01 Proyecto piloto de vivienda de alquiler identificado. Al segundo año: Inventario y marco legal consolidado. Al cuarto año de gestión: Ejecución y asignación de viviendas",
+            "indicator": "Cantidad de inventarios, marco legal y proyectos piloto ejecutados"
+          },
+          {
+            "problem": "Gestión del tránsito desactualizada, semaforización ineficiente, congestión y baja articulación institucional.",
+            "objective": "Modernizar y digitalizar la gestión del tránsito metropolitano con enfoque inteligente e integrado.",
+            "goal": "426 intersecciones ITS y 60 intersecciones optimizadas en Cercado; sistema integrado operativo 24/7",
+            "indicator": "Intersecciones ITS implementadas y corredores controlados"
+          },
+          {
+            "problem": "Equipamientos comunitarios y servicios sociales con baja articulación territorial y programación dispersa.",
+            "objective": "Convertir activos públicos y comunitarios en una red de bienestar de proximidad.",
+            "goal": "Mapa metropolitano de equipamientos al año 1 y 4 zonas interdistritales con nodos comunitarios articulados al 2030.",
+            "indicator": "N° de equipamientos mapeados/activados; N° de zonas o distritos articulados."
+          },
+          {
+            "problem": "El Cercado de Lima y Centro Histórico presentan conflictos en el uso del espacio público, discontinuidad peatonal y déficit de infraestructura ciclista.",
+            "objective": "Recuperar el espacio público y priorizar la movilidad activa en el Centro Histórico y Cercado de Lima.",
+            "goal": "Veinte (20) intervenciones integrales de movilidad activa ejecutadas en el Cercado de Lima y Centro Histórico al 2030.",
+            "indicator": "Número de intervenciones ejecutadas en corredores y espacios públicos priorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Tendencias empresariales que están creciendo lentamente (Empresas Verdes e Inclusivas, Economía Digital, Gestión de la Calidad (ISO 9001, 37001, etc., Uso de redes y medios digitales)",
+            "objective": "Impulsar la competitividad y sostenibilidad del ecosistema empresarial de Lima Metropolitana, mediante la adopción de una cultura y modelos de negocios verdes, inclusivos, digitales y certificados, fomentando la formalización y la innovación en los sectores de mayor impacto productivo",
+            "goal": "Creación del \"Sello Lima Innova\" A los 2 Años (Escalamiento): 15 convenios estratégicos con universidades y gremios. 5,000 empresas locales operando con procesos digitales. Inclusión: 50% de participación femenina en programas de alta tecnología. A los 4 Años (Legado): Lima reconocida como \"Ciudad Innovadora y Sostenible\". Meta: Sube 10 posiciones en el ranking regional de Smart Cities",
+            "indicator": "Ordenanza de Creación y Lineamientos de la Marca “Lima Innova”. • N° de alianzas estratégicas formalizadas. N´° de Empresas operando con procesos digitales. Porcentaje de Participación Femenina en Programas de Alta Tecnología"
+          },
+          {
+            "problem": "Insuficiente captación de eventos y falta de una marca ciudad potente.",
+            "objective": "Posicionar a Lima como Hub de eventos y \"Capital Gastronómica del Pacífico\".",
+            "goal": "100 días: Constitución y puesta en marcha del Buró de Convenciones. 1 año: Posicionamiento de la Marca Turística Lima. 4 años: 1.1M turistas extranjeros y 5.3M nacionales anuales.",
+            "indicator": "Número de turistas extranjeros y nacionales que visitan atractivos en Lima."
+          },
+          {
+            "problem": "2. Estructura Empresarial Atomizada (Micro-dependencia). La economía de Lima depende casi exclusivamente de unidades productivas mínimas, lo que limita las economías de escala. Dato clave: Las microempresas representan el 95.3% del tejido empresarial (aprox. 1.35 millones de unidades). Impacto:",
+            "objective": "Transformar el tejido productivo de subsistencia hacia uno de alta productividad y competitividad (Reducción de la dependencia excesiva de microempresas y el fomento de economías de escala).",
+            "goal": "500 proyectos de innovación. 1,000 MYPES articuladas.",
+            "indicator": "Número de nuevos productos o procesos mejorados mediante el LAB INN. Número de MYPES integradas a cadenas de valor de empresas grandes"
+          },
+          {
+            "problem": "Desnaturalización de inmuebles patrimoniales usados como almacenes clandestinos.",
+            "objective": "Reconvertir predios para recuperar la función residencial y turística del centro.",
+            "goal": "2 años: Publicación y aplicación de la Ordenanza de incentivos tributarios. 4 años: Lograr el 2% de asignación presupuestal en la función turismo.",
+            "indicator": "% del presupuesto municipal asignado a la función turismo para el Cercado."
+          },
+          {
+            "problem": "Brecha del 84% en la calidad de servicios turísticos públicos en el Centro Histórico.",
+            "objective": "Modernizar los puntos de atención mediante tecnología y experiencia digital.",
+            "goal": "100 días: Diagnóstico y plan de mejora de oficinas de información. 2 años: Operatividad de 3 Centros de Experiencia Digital. 4 años: Reducción de la brecha de servicios inadecuados al 20%",
+            "indicator": "% de recursos con servicios turísticos públicos inadecuados en el Cercado."
+          },
+          {
+            "problem": "Desarticulación y baja formalización de la oferta turística y artesanal en la capital.",
+            "objective": "Capitalizar la conectividad y el prestigio culinario para formalizar la oferta turística a gran escala.",
+            "goal": "100 días: Inicio de actualización digital del Inventario Turístico. 2 años: Ejecución de formalización masiva de artesanos (RNA). 4 años: 4,000 prestadores certificados con el \"Sello Lima\".",
+            "indicator": "Número de prestadores de servicios turísticos certificados con estándares de calidad."
+          },
+          {
+            "problem": "Brecha de Edad: disparidad en la contratación. Mientras el empleo para mayores de 45 años creció más del 12%, el empleo para jóvenes de 14 a 24 años mostró un crecimiento muy bajo (0.4% - 0.5%), e incluso caídas en algunos trimestres de 2025. 75% de jóvenes en Lima trabajan en la informalidad. Sueldo promedio joven: S/1,135 (muy por debajo del promedio). Principal barrera: \"Falta de experiencia previa”",
+            "objective": "Contribuir en incrementar la inserción laboral formal de jóvenes entre 14 y 24 años en Lima Metropolitana, reduciendo la brecha de experiencia previa mediante alianzas público-privadas y programas de capacitación técnica certificada, con el fin de disminuir la tasa de informalidad juvenil y elevar el sueldo promedio en un 15% para el cierre del 2026.",
+            "goal": "A los 2 AÑOS (Consolidación): Certificar competencias de 200 jóvenes con experiencia informal. 5,000 jóvenes insertados en puestos formales (planilla). Reducción activa de jóvenes \"NINI\" en distritos clave",
+            "indicator": "Número de jóvenes con competencias certificadas Número de Jóvenes con puestos formales Porcentaje de NINIs"
+          },
+          {
+            "problem": "3. Informalidad Estructural Dominante. La informalidad no es un evento aislado, sino un fenómeno que afecta a más de la mitad de la fuerza económica. Dato clave: La tasa de informalidad laboral oscila entre el 55% y 60% en Lima Metropolitana.",
+            "objective": "Implementar una estrategia integral de formalización laboral y empresarial que revierta la percepción de bajo beneficio de la formalidad, reduciendo así la tasa de informalidad estructural en Lima Metropolitana del 55-60% actual.",
+            "goal": "Sistema Metropolitano de Simplificación Administrativa (Lima Fácil) implementado y sostenible.",
+            "indicator": "Sistema Metropolitano de Simplificación Administrativa (Lima Fácil) creado."
+          },
+          {
+            "problem": "1. Alta Vulnerabilidad y Baja Sostenibilidad Empresarial. Existe un ecosistema dinámico pero frágil, donde la tasa de mortalidad de los negocios es muy alta. Dato clave: En el tercer trimestre de 2025, por cada 100 empresas creadas, aproximadamente 56 cerraron (36,742 altas vs. 20,536 bajas). Impacto: Esto genera una \"alta rotación\" que impide la acumulación de capital y experiencia a largo plazo.",
+            "objective": "Revertir la alta tasa de mortalidad empresarial y estabilizar el ecosistema de negocios mediante el fortalecimiento de la sostenibilidad a largo plazo, reduciendo así la alta rotación (cierre) de nuevas empresas.",
+            "goal": "Al cuarto año, 60% de las empresas intervenidas. Al cuarto año, S/ 10 Millones acumulados.",
+            "indicator": "Porcentaje de MYPES beneficiarias que adoptan e-commerce. Monto total gestionado en fondos concursables (públicos/privados)."
+          },
+          {
+            "problem": "Inseguridad y falta de protocolos de protección al turista en el Centro Histórico.",
+            "objective": "Garantizar un destino vivo, seguro y hospitalario mediante estándares de conducta.",
+            "goal": "1 año: Implementación del distintivo y suscripción de protocolos de seguridad. 4 años: Lograr 60% de satisfacción con 100% de prestadores adheridos.",
+            "indicator": "Nivel de satisfacción de los turistas nacionales y extranjeros en el Centro de Lima."
+          },
+          {
+            "problem": "Materialidad precaria e instalaciones obsoletas (12.4% de mercados con materiales rústicos y 63.5% de mercados con redes anteriores a 1999).",
+            "objective": "Prevenir incendios y garantizar la seguridad física mediante estándares técnicos de redes.",
+            "goal": "Año 1: Desarrollo de la guía técnica. Año 2-4: Implementación y acompañamiento técnico a nivel metropolitano.",
+            "indicator": "Número de guías de mantenimiento de infraestructura y redes aprobadas."
+          },
+          {
+            "problem": "Incidencia de altos índices de inseguridad dentro y alrededores de los mercados de abastos",
+            "objective": "Mitigar los niveles de inseguridad y articular la vigilancia entre la MML, distritos y PNP.",
+            "goal": "Año 1: Diseño de la estrategia. Año 2-4: Implementación y seguimiento técnico a nivel de Lima Metropolitana.",
+            "indicator": "Número de estrategias de seguridad integral metropolitana aprobadas."
+          },
+          {
+            "problem": "4. Persistencia de Barreras Burocráticas y Costos de Entrada. El sistema regulatorio actúa como un freno en lugar de un facilitador para los nuevos emprendedores. Dato clave: El 64% de los nuevos negocios son personas naturales, quienes enfrentan trámites percibidos como \"complicados y costosos en tiempo\". Impacto: El temor a la carga impositiva y la excesiva regulación desincentivan el salto hacia modelos societarios más robustos y legales.",
+            "objective": "Fomentar la formalización y el crecimiento empresarial, reduciendo los costos de entrada y las trabas burocráticas para las personas naturales con negocio, con el fin de facilitar su transición hacia modelos empresariales más robustos, legales y sostenibles.",
+            "goal": "A los dos años, eliminación y/o mejora de por lo menos el 20% de los procedimientos administrativos y procesos vinculados al desarrollo económico EN toda Lima Metropolitana y Lima Cercado. Al cuarto año, eliminación y/o mejora de por lo menos entre el 70% y el 100% de los procedimientos administrativos y procesos vinculados al desarrollo económico EN toda Lima Metropolitana",
+            "indicator": "Porcentaje de Procedimientos Administrativos y/o Procesos eliminados y/o mejorados que incentivan la formalización empresarial"
+          },
+          {
+            "problem": "Desorden y saturación del espacio público en los entornos comerciales del Centro de Lima.",
+            "objective": "Establecer un modelo de convivencia con reglas de conducta que garantice la transitabilidad.",
+            "goal": "Año 1: Censo y elaboración del plan. Año 2-4: Ejecución en los 54 mercados de abastos del Cercado de Lima.",
+            "indicator": "Número de mercados de abastos con el plan de ordenamiento del comercio ambulatorio en ejecución."
+          },
+          {
+            "problem": "Experiencia del visitante limitada por falta de herramientas digitales y señalética.",
+            "objective": "Transformar digitalmente la experiencia del visitante para elevar la satisfacción.",
+            "goal": "1 año: Lanzamiento y puesta en funcionamiento de la App \"Visit Lima\". 2 años: Despliegue de red de señalética inteligente (QR/Tótems). 4 años: Lograr 70% de satisfacción del turista.",
+            "indicator": "Nivel de satisfacción de los turistas nacionales y extranjeros en Lima Metropolitana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de articulación logística y ambiental con grandes proyectos metropolitanos.",
+            "objective": "Integrar infraestructura ambiental con el desarrollo territorial y logístico metropolitano.",
+            "goal": "Desarrollo progresivo de corredores logísticos y ambientales vinculados al AVP y recuperación territorial de zonas degradadas.",
+            "indicator": "Número de proyectos integrados al sistema logístico-ambiental."
+          },
+          {
+            "problem": "Limitada capacidad de transferencia, segregación y valorización de residuos comerciales y urbanos en Lima Cercado.",
+            "objective": "Fortalecer la valorización urbana y recuperación de residuos comerciales.",
+            "goal": "Implementación progresiva de un modelo piloto de valorización urbana operando en Lima Cercado.",
+            "indicator": "Número de centros implementados y operativos."
+          },
+          {
+            "problem": "Ausencia de articulación operativa entre municipalidades distritales y limitada gobernanza metropolitana.",
+            "objective": "Implementar mecanismos de integración operativa y coordinación mancomunada.",
+            "goal": "Incorporación progresiva de los 43 distritos al sistema metropolitano articulado mediante 4 mancomunidades.",
+            "indicator": "Número de distritos incorporados al sistema mancomunado."
+          },
+          {
+            "problem": "Existencia de botaderos sin cierre técnico y pasivos ambientales de alto impacto.",
+            "objective": "Impulsar la recuperación ambiental y territorial de botaderos metropolitanos.",
+            "goal": "Inicio de recuperación progresiva de botaderos metropolitanos priorizados, incluyendo La Vizcachera.",
+            "indicator": "Número de botaderos recuperados y remediados."
+          },
+          {
+            "problem": "Incremento de residuos en vía pública, deterioro de corredores metropolitanos y limitada capacidad de fiscalización operativa.",
+            "objective": "Recuperar el orden ambiental urbano y fortalecer la capacidad de respuesta operativa metropolitana.",
+            "goal": "Recuperación integral de corredores metropolitanos estratégicos y zonas comerciales priorizadas.",
+            "indicator": "Número de corredores metropolitanos recuperados."
+          },
+          {
+            "problem": "Débil articulación entre operadores ambientales, sector privado y entidades públicas.",
+            "objective": "Consolidar alianzas metropolitanas para fortalecer la economía circular y sostenibilidad financiera.",
+            "goal": "Consolidación progresiva de alianzas público-privadas para valorización y recuperación ambiental urbana.",
+            "indicator": "N° de convenios y alianzas estratégicas implementadas."
+          },
+          {
+            "problem": "Bajo desarrollo de compostaje, reciclaje y economía circular metropolitana.",
+            "objective": "Fortalecer cadenas formales de economía circular y reaprovechamiento de residuos.",
+            "goal": "Implementación progresiva de pilotos metropolitanos de recuperación ambiental urbana mediante compost y biosólidos estabilizados.",
+            "indicator": "TN valorizadas aplicadas en recuperación urbana."
+          },
+          {
+            "problem": "Fragmentación de la gestión de residuos sólidos y limpieza pública entre 43 distritos, con capacidades operativas desiguales y ausencia de estándares metropolitanos.",
+            "objective": "Consolidar un sistema metropolitano integrado de limpieza pública con estándares técnicos homogéneos y articulación territorial.",
+            "goal": "Primeros 100 días: georreferenciación metropolitana e intervención inmediata de 150 puntos críticos. Al finalizar la gestión: reducción del 60% de puntos críticos metropolitanos.",
+            "indicator": "Número de puntos críticos recuperados."
+          },
+          {
+            "problem": "Limitado desarrollo de valorización energética y aprovechamiento alternativo de residuos.",
+            "objective": "Promover soluciones prudentes de valorización energética mediante alianzas estratégicas.",
+            "goal": "Implementación de pilotos metropolitanos operativos mediante convenios con operadores especializados y cementeras.",
+            "indicator": "TN valorizadas mediante CDR."
+          },
+          {
+            "problem": "Alta concentración de residuos, comercio informal y deterioro ambiental en el Cercado de Lima.",
+            "objective": "Recuperar la competitividad urbana y ambiental del Centro Histórico y corredores comerciales.",
+            "goal": "Intervención permanente de corredores críticos del Cercado de Lima y recuperación progresiva de zonas comerciales priorizadas.",
+            "indicator": "Número de corredores recuperados y operativos especiales ejecutados."
+          },
+          {
+            "problem": "Infraestructura ambiental estratégica limitada, desactualizada y con baja integración metropolitana.",
+            "objective": "Recuperar y modernizar la infraestructura ambiental estratégica de Lima Metropolitana.",
+            "goal": "Primeros 100 días: reactivación operativa inicial de la Planta de Transferencia SJM y evaluación físico-legal de Portillo Grande y Zapallal. Al finalizar la gestión: 03 infraestructuras estratégicas incorporadas progresivamente al sistema metropolitano.",
+            "indicator": "Número de infraestructuras recuperadas e incorporadas al sistema ambiental metropolitano."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existe un gobierno metropolitano de limitado alcance y débilmente desarrollado.",
+            "objective": "Fortalecer y desarrollar el gobierno metropolitano (financiamiento, competencias).",
+            "goal": "Cinco (5) Mesas Ejecutivas instaladas y en operación al finalizar la gestión.",
+            "indicator": "Número de mesas ejecutivas implementadas."
+          },
+          {
+            "problem": "Desarticulación y fragmentación institucional.",
+            "objective": "Crear y desarrollar sistemas metropolitanos de gestión (limpieza, deporte, seguridad).",
+            "goal": "Cuatro (4) sistemas metropolitanos operando para el tercer año de gestión.",
+            "indicator": "Número de sistemas metropolitanos operando."
+          },
+          {
+            "problem": "Ineficiencias e insatisfacción en la prestación de los servicios municipales.",
+            "objective": "Impulsar la prestación mancomunada de servicios públicos municipales.",
+            "goal": "Al tercer año de gestión la prestación mancomunada se encuentra en plena ejecución.",
+            "indicator": "Ejecución de la prestación mancomunada de los servicios municipales al 100% en los tres distritos involucrados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-24PfKYKBrbTRS4GAQW8a2NNjeGa7__zS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/24PfKYKBrbTRS4GAQW8a2NNjeGa7__zS",
+      "sha256": "f5e608506bcd3ec29fe9ccfdfdadf037bb0dbe447c31c6151e496e4294a1faa2",
+      "accessedAt": "2026-10-02T22:49:32.849Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015986",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015986",
+      "sha256": "2ef0aeaaf244520251abcf4b75c6577e1d21bc5809bb5f8c2b7fcb0fab8a95e3",
+      "accessedAt": "2026-10-02T22:49:33.435Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

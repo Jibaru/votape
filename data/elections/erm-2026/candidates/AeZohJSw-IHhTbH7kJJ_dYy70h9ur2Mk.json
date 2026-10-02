@@ -1,0 +1,367 @@
+{
+  "id": "AeZohJSw-IHhTbH7kJJ_dYy70h9ur2Mk",
+  "slug": "alberto-luis-peralta-huatuco",
+  "electionId": "erm-2026",
+  "name": "Alberto Luis Peralta Huatuco",
+  "givenNames": "Alberto Luis",
+  "surnames": "Peralta Huatuco",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:02.313Z",
+      "sourceId": "jne-hv-AeZohJSw-IHhTbH7kJJ_dYy70h9ur2Mk"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad José Carlos Mariátegui",
+        "program": "BACHILLER EN CIENCIAS ADMINISTRATIVAS Y MARKETING ESTRATÉGICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CEUMA",
+        "program": "TÍTULO DE MAESTRÍA EN DERECHO CON ORIENTACIÓN EN DERECHO CORPORATIVO Y LABORAL (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2026"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD COMPLUTENSE",
+        "program": "GRADO ACADÉMICO DE MAGÍSTER UNIVERSITARIO EN INVESTIGACIÓN PARTICIPATIVA PARA EL DESARROLLO LOCAL (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2005"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "DOCTORADO EN DERECHO",
+        "completed": true,
+        "degree": null,
+        "year": "2009"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD MAYOR DE SAN MARCOS",
+        "program": "MAESTRÍA EN DESARROLLO SUSTENTABLE",
+        "completed": true,
+        "degree": null,
+        "year": "2007"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+      "role": "GERENTE DE MOVILIDAD URBANA",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "INVERMET",
+      "role": "GERENTE DE SUPERVISIÓN DE CONTRATOS",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "EMILIMA S.A.",
+      "role": "GERENTE DE GESTIÓN INMOBILIARIA Y MERCADOS",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "INVERMET",
+      "role": "GERENTE DE SUPERVISIÓN DE CONTRATOS",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "INVERMET",
+      "role": "GESTOR PÚBLICO",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2023"
+    },
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2019"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 110430,
+        "public": 43280,
+        "private": 67150
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 7551.61,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 78607.69,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 73417.17,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 2800.79,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 22502,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 45973.98,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 45973.98,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 45973.98,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 103990.26,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 78621.84,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 194905.78,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 62455,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1678.18,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 43558.45,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA SUV. MARCA HAVAL MODELO NEW H6",
+        "value": 61380
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES INMOBILIARIAS JAF S.A.",
+        "type": "ACCIONES",
+        "quantity": 29000,
+        "value": 1
+      },
+      {
+        "company": "PERALTA & FLORES ABOGADOS - AUDITORES SAC",
+        "type": "ACCIONES",
+        "quantity": 4500,
+        "value": 1
+      },
+      {
+        "company": "CONSORCIO E INVERSIONES TURISTICAS S.A.",
+        "type": "ACCIONES",
+        "quantity": 900,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6f68a857-4588-4902-afcb-566cc5783cfe.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7b1d983d-1fda-42d7-aa39-b3a0f83d8774.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevada inseguridad ciudadana en los espacios públicos del distrito.",
+            "objective": "Reducir la incidencia de delitos y fortalecer la seguridad ciudadana.",
+            "goal": "Reducir la tasa de robos en un 25%.",
+            "indicator": "Tasa de delitos registrados por cada 10,000 habitantes."
+          },
+          {
+            "problem": "Alta prevalencia de anemia infantil, que afecta al 42% de la población infantil del distrito.",
+            "objective": "Reducir la anemia infantil mediante la implementación de acciones preventivas.",
+            "goal": "Reducir la prevalencia de la anemia infantil del 42% al 35%.",
+            "indicator": "Porcentaje de niños de 6 a 36 meses con diagnóstico de anemia."
+          },
+          {
+            "problem": "Déficit en el acceso a servicios básicos de agua potable y alcantarillado.",
+            "objective": "Ampliar la cobertura de los servicios básicos para la población.",
+            "goal": "Incrementar la cobertura de acceso a agua potable del 88% al 96%.",
+            "indicator": "Porcentaje de viviendas con acceso a la red pública de agua potable."
+          },
+          {
+            "problem": "Alta tasa de deserción escolar en el nivel secundario, equivalente al 8%.",
+            "objective": "Reducir la deserción escolar, especialmente en jóvenes en situación de vulnerabilidad.",
+            "goal": "Disminuir la tasa de deserción escolar del 8% al 6%.",
+            "indicator": "Tasa de deserción escolar en el nivel secundario."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada tasa de desempleo juvenil, que alcanza el 18% de la población joven.",
+            "objective": "Generar mayores oportunidades de empleo formal para la población joven.",
+            "goal": "Reducir la tasa de desempleo juvenil del 18% al 12%.",
+            "indicator": "Tasa de desempleo juvenil."
+          },
+          {
+            "problem": "Alta informalidad económica que afecta al 70% de las micro y pequeñas empresas (MYPE) del distrito.",
+            "objective": "Formalizar y fortalecer a las micro y pequeñas empresas (MYPE).",
+            "goal": "Incrementar el porcentaje de MYPE formalizadas del 30% al 45%.",
+            "indicator": "Porcentaje de MYPE formalizadas."
+          },
+          {
+            "problem": "Existencia de comercio ambulatorio desordenado en las vías públicas del distrito.",
+            "objective": "Ordenar y formalizar el comercio local para mejorar el entorno urbano y la competitividad.",
+            "goal": "Alcanzar la cifra de 2,000 comerciantes debidamente formalizados.",
+            "indicator": "Número de comerciantes formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante, con un indicador actual de 2.8 metros cuadrados.",
+            "objective": "Incrementar la cantidad y calidad de las áreas verdes en el distrito.",
+            "goal": "Incrementar el indicador de áreas verdes de 2.8 a 4.5 metros cuadrados por habitante.",
+            "indicator": "Metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Gestión inadecuada e ineficiente de los residuos sólidos generados en el distrito.",
+            "objective": "Mejorar la gestión integral de los residuos sólidos a nivel distrital.",
+            "goal": "Aumentar el porcentaje de segregación en la fuente del 15% al 35%.",
+            "indicator": "Porcentaje de segregación de residuos en la fuente."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la población asentada en laderas ante posibles desastres naturales.",
+            "objective": "Reducir los riesgos de desastres y fortalecer la resiliencia territorial.",
+            "goal": "Lograr la atención del 100% de las zonas críticas identificadas.",
+            "indicator": "Porcentaje de zonas críticas que han sido intervenidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Bajos niveles de transparencia y dificultades en el acceso a la información pública de la gestión municipal.",
+            "objective": "Fortalecer la transparencia en la gestión y promover un modelo de gobierno abierto.",
+            "goal": "Ubicar al distrito de Villa El Salvador entre los 10 más transparentes de Lima.",
+            "indicator": "Posición en el ranking de transparencia municipal."
+          },
+          {
+            "problem": "Deficiente calidad en la atención al ciudadano y excesiva burocracia en los trámites municipales.",
+            "objective": "Modernizar y digitalizar la gestión municipal para mejorar los servicios al ciudadano.",
+            "goal": "Alcanzar el 40% de trámites realizados de manera digital.",
+            "indicator": "Porcentaje de trámites municipales realizados en línea."
+          },
+          {
+            "problem": "Baja participación de la ciudadanía en los asuntos de la gestión pública local.",
+            "objective": "Fortalecer la participación vecinal en la toma de decisiones y la gestión pública.",
+            "goal": "Incrementar la participación ciudadana en el presupuesto participativo del 2% al 8%.",
+            "indicator": "Porcentaje de participación ciudadana en el presupuesto participativo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-AeZohJSw-IHhTbH7kJJ_dYy70h9ur2Mk",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/AeZohJSw-IHhTbH7kJJ_dYy70h9ur2Mk",
+      "sha256": "0ec0147af53c944a066f47ebf280b8f7167ef980bab80a72584e171b0bfe629c",
+      "accessedAt": "2026-10-02T23:07:02.313Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017555",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017555",
+      "sha256": "e7f51a7617989e0ddeed3e6b4a80849f68b94c1de62fadecda1a86c36b44390d",
+      "accessedAt": "2026-10-02T23:07:02.852Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

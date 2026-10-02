@@ -1,0 +1,223 @@
+{
+  "id": "6uX1z8FzCvm7wjCf6aGyOp2Gm8eVlSk3",
+  "slug": "carlos-enrique-arana-urteaga",
+  "electionId": "erm-2026",
+  "name": "Carlos Enrique Arana Urteaga",
+  "givenNames": "Carlos Enrique",
+  "surnames": "Arana Urteaga",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140117",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:41.658Z",
+      "sourceId": "jne-hv-6uX1z8FzCvm7wjCf6aGyOp2Gm8eVlSk3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1991"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1990"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ARANA ABOGADO",
+      "role": "ABOGADO",
+      "from": "2014",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE",
+      "role": "REGIDOR - TENIENTE ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 106000,
+        "public": 0,
+        "private": 106000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MITSUBISHI, ECLIPSE CROSS, BLANCO PERLA, AÑO 2019",
+        "value": 51000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a7f24aa2-684a-4671-82cf-647178be186c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/973d33d2-fabc-48d1-af67-da3a2cc17525.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Escasa participación vecinal y limitada rendición de cuentas.",
+            "objective": "Fortalecer la democracia participativa como derecho y deber de todos.",
+            "goal": "Cabildos abiertos realizados con participación vecinal superior; e incremento de satisfacción ciudadana mayor al 85%.",
+            "indicator": "Número de cabildos realizados; participación vecinal; nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Educación de baja calidad y escaso apoyo al deporte.",
+            "objective": "Impulsar programas educativos con enfoque preventivo y fomentar el deporte y revalorizar la identidad cultural e histórica del distrito.",
+            "goal": "Mejora sostenida en logros de aprendizaje. Incremento de participación deportiva y cultural.",
+            "indicator": "Población que accede a actividades deportivas y culturales."
+          },
+          {
+            "problem": "Alta incidencia de anemia y malnutrición.",
+            "objective": "Garantizar el derecho a la salud y abastecimiento pleno; reducir drásticamente indicadores de riesgo.",
+            "goal": "Reducción de la anemia infantil en el distrito. Mejora en los índices de malnutrición del distrito.",
+            "indicator": "Porcentaje de menores de 5 años con anemia; Cobertura de atención en salud."
+          },
+          {
+            "problem": "Congestión vehicular, invasión de veredas y movilidad poco accesible.",
+            "objective": "Implementar una movilidad urbana sostenible, segura y accesible para todos.",
+            "goal": "Reducir los tiempos de viaje; 100% de corredores principales con semaforización inteligente; recuperación de veredas críticas.",
+            "indicator": "Tiempo promedio de desplazamiento; intersecciones semaforizadas inteligentemente; veredas recuperadas."
+          },
+          {
+            "problem": "Inseguridad ciudadana y alta incidencia de delitos patrimoniales (raqueteo y robos).",
+            "objective": "Fortalecer la seguridad ciudadana mediante un sistema de vigilancia inteligente e interoperable con distritos colindantes.",
+            "goal": "Reducir en 100% los delitos patrimoniales; 100% de accesos al distrito monitoreados; incrementar la percepción de seguridad.",
+            "indicator": "Tasa de delitos denunciados; cámaras integradas al sistema inteligente; percepción de seguridad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Trámites burocráticos que afectan la inversión y formalización empresarial.",
+            "objective": "Promover la competitividad y formalización de las MYPES mediante simplificación administrativa y digitalización.",
+            "goal": "Licencias emitidas digitalmente; incremento de negocios formalizados; reducción en tiempos de trámite.",
+            "indicator": "Licencias emitidas digitalmente; empresas formalizadas; tiempo promedio de atención."
+          },
+          {
+            "problem": "Déficit de infraestructura para la actividad comercial y gastronómica.",
+            "objective": "Fortalecer los corredores comerciales y gastronómicos del distrito.",
+            "goal": "Implementar corredores comerciales integrales implementados; incremento de la actividad económica local.",
+            "indicator": "Corredores implementados; estacionamientos creados; crecimiento de actividad comercial."
+          },
+          {
+            "problem": "Limitado aprovechamiento del potencial turístico y cultural del distrito.",
+            "objective": "Convertir el patrimonio histórico y cultural en motor de desarrollo económico local.",
+            "goal": "Incrementar el flujo turístico; implementar 3 rutas turísticas integradas; 100 negocios con sello \"Pueblo Libre Histórico\".",
+            "indicator": "Visitantes anuales; rutas turísticas implementadas; establecimientos certificados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad sísmica del patrimonio histórico y edificaciones antiguas.",
+            "objective": "Fortalecer la gestión del riesgo de desastres y la protección del patrimonio cultural.",
+            "goal": "Programa de recuperación de inmuebles patrimoniales priorizados.",
+            "indicator": "Predios evaluados; simulacros realizados; zonas intervenidas."
+          },
+          {
+            "problem": "Incremento en la generación de residuos sólidos y baja cultura de reciclaje.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos y la educación ambiental.",
+            "goal": "Reciclar y valorizar el 30% de residuos sólidos; implementar programas de segregación en el 100% de sectores vecinales.",
+            "indicator": "Toneladas recicladas; participación vecinal en programas ambientales."
+          },
+          {
+            "problem": "Deterioro de áreas verdes y sistemas de riego poco eficientes; contaminación visual por cableado aéreo y otros; contaminación sonora; falta de cultura de cuidado ambiental.",
+            "objective": "Incrementar y gestionar sosteniblemente las áreas verdes del distrito. Recuperar, ampliar y proteger espacios naturales; alcanzar equilibrio ecológico y estándares de calidad de vida.",
+            "goal": "Mejorar áreas verdes y alcanzar 6m²/habitante. Soterramiento progresivo en corredores priorizados. Reducción de contaminación visual y sonora. Implementar programas educativos con enfoque ambiental.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante sostenible. Población participante en programas ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Gestión pública burocrática, lenta y alejada del ciudadano; trámites complejos y exceso de papeleo; baja calidad de atención.",
+            "objective": "Transformar la administración para poner al Estado al servicio del ciudadano.",
+            "goal": "Reducción del tiempo de espera de atención ciudadana. Eliminación de trámites innecesarios. Satisfacción ciudadana > 85%.",
+            "indicator": "Tiempo promedio de atención al usuario. Nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Falta de transparencia y limitado acceso ciudadano a la información pública.",
+            "objective": "Fortalecer la transparencia y el gobierno abierto municipal.",
+            "goal": "Publicación de Informes. Audiencias públicas. Incremento sostenido de confianza ciudadana.",
+            "indicator": "Informes de gestión publicados periódicamente. Audiencias públicas realizadas. Nivel de confianza en la institución."
+          },
+          {
+            "problem": "Procesos manuales, falta de uso de tecnología, desactualización de sistemas y escasa información digital; desequilibrio hombre – información.",
+            "objective": "Implementar un gobierno digital interoperable y sin papel.",
+            "goal": "Digitalizar el 100% del archivo documentario; 80% de trámites disponibles en línea; implementación de política “Cero Papeles”.",
+            "indicator": "Expedientes digitalizados; servicios en línea; documentos con valor legal digital."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-6uX1z8FzCvm7wjCf6aGyOp2Gm8eVlSk3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/6uX1z8FzCvm7wjCf6aGyOp2Gm8eVlSk3",
+      "sha256": "f9b6b5c2e97a8f4993ad6a59982b1e42e5cb7116d1e070ac9acf1f51cdd51d98",
+      "accessedAt": "2026-10-02T23:00:41.658Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019309",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019309",
+      "sha256": "6df3931b85894c44d95bbb163eb60160152a063ba792d88941ec80340368ab08",
+      "accessedAt": "2026-10-02T23:00:42.178Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

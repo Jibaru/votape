@@ -1,0 +1,346 @@
+{
+  "id": "9iAldVGRlb-_OBjuC5rTMzvlZWv7JESC",
+  "slug": "jackeline-stephany-munoz-calderon",
+  "electionId": "erm-2026",
+  "name": "Jackeline Stephany Muñoz Calderon",
+  "givenNames": "Jackeline Stephany",
+  "surnames": "Muñoz Calderon",
+  "age": 31,
+  "gender": "Femenino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:53.533Z",
+      "sourceId": "jne-hv-9iAldVGRlb-_OBjuC5rTMzvlZWv7JESC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PRIVADA SAN JUAN BAUTISTA",
+        "program": "BACHILLER EN PSICOLOGÍA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INSTITUTO NACIONAL DE SALUD DEL NIÑO",
+      "role": "AUXILIAR",
+      "from": "2023",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 9040,
+        "public": 0,
+        "private": 9040
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA:TOYOTA/MODELO:YARIS/COLOR:PLATA",
+        "value": 59200
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/cd9394e0-66cb-4a7c-a61e-3a9d483581a8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2f8dc48d-7f59-4a35-962d-8e48d8b3f746.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia de robos, hurtos, asaltos, violencia familiar y percepción de inseguridad en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana y la prevención de la violencia mediante acciones integrales de vigilancia, participación vecinal y fortalecimiento comunitario.",
+            "goal": "Instalar 300 cámaras de videovigilancia, fortalecer 100 juntas vecinales y beneficiar a más de 30,000 vecinos con acciones preventivas y de seguridad ciudadana.",
+            "indicator": "Cámaras instaladas; juntas vecinales fortalecidas; operativos realizados; vecinos beneficiados."
+          },
+          {
+            "problem": "Incremento de problemas de salud mental, ansiedad, depresión, violencia familiar y limitada cobertura de atención psicológica.",
+            "objective": "Garantizar el acceso a servicios comunitarios de salud mental y fortalecer el bienestar emocional de la población.",
+            "goal": "Atender a más de 20,000 vecinos mediante servicios de orientación y atención psicológica comunitaria. Implementar una instancia donde se atienda a casos de niños neurodivergentes.",
+            "indicator": "Personas atendidas; campañas realizadas; talleres ejecutados."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva, especialmente en asentamientos humanos y zonas altas del distrito.",
+            "objective": "Acercar los servicios de salud a la población mediante campañas preventivas e intervención descentralizada.",
+            "goal": "Realizar al menos 150 campañas integrales de salud y beneficiar a más de 50,000 vecinos durante la gestión.",
+            "indicator": "Campañas realizadas; vecinos atendidos; zonas intervenidas."
+          },
+          {
+            "problem": "Persistencia de anemia, desnutrición y mala alimentación en población vulnerable.",
+            "objective": "Mejorar el estado nutricional de la población mediante programas alimentarios y educación nutricional.",
+            "goal": "Fortalecer el 100% de comedores populares registrados y beneficiar a más de 15,000 vecinos vulnerables.",
+            "indicator": "Comedores fortalecidos; beneficiarios atendidos; campañas realizadas."
+          },
+          {
+            "problem": "Alta incidencia de tuberculosis (TBC) y necesidad de fortalecer la prevención y acompañamiento de pacientes.",
+            "objective": "Contribuir a la prevención, detección temprana y acompañamiento social de personas afectadas por tuberculosis.",
+            "goal": "Beneficiar a más de 5,000 vecinos mediante acciones preventivas y de acompañamiento relacionadas con la tuberculosis.",
+            "indicator": "Campañas realizadas; personas sensibilizadas; beneficiarios atendidos."
+          },
+          {
+            "problem": "Brechas en el acceso a servicios básicos y condiciones precarias de vivienda en sectores vulnerables.",
+            "objective": "Gestionar mejoras progresivas en el acceso a servicios básicos y entornos saludables para la población vulnerable.",
+            "goal": "Beneficiar a más de 10,000 familias mediante proyectos y gestiones de mejora urbana.",
+            "indicator": "Proyectos gestionados; familias beneficiadas."
+          },
+          {
+            "problem": "Limitadas oportunidades para jóvenes, mujeres y familias en situación de vulnerabilidad económica.",
+            "objective": "Promover la inclusión social, la empleabilidad y el emprendimiento local.",
+            "goal": "Capacitar a 10,000 vecinos y facilitar oportunidades laborales para al menos 3,000 personas.",
+            "indicator": "Personas capacitadas; ferias realizadas; beneficiarios insertados laboralmente."
+          },
+          {
+            "problem": "Baja participación de niños y jóvenes en actividades deportivas, culturales y recreativas debido a la inseguridad y deterioro de espacios públicos.",
+            "objective": "Promover estilos de vida saludables, integración social y prevención de la violencia mediante el deporte y la cultura.",
+            "goal": "Recuperar 20 espacios públicos e incorporar a más de 15,000 niños y jóvenes en programas permanentes.",
+            "indicator": "Espacios recuperados; participantes inscritos; actividades realizadas."
+          },
+          {
+            "problem": "Persistencia de pobreza y vulnerabilidad social en asentamientos humanos y zonas altas del distrito.",
+            "objective": "Fortalecer la inclusión social y la atención a poblaciones vulnerables.",
+            "goal": "Beneficiar a más de 20,000 vecinos en situación de vulnerabilidad.",
+            "indicator": "Beneficiarios atendidos; campañas ejecutadas."
+          },
+          {
+            "problem": "Incremento del abandono y maltrato animal, ausencia de programas permanentes de esterilización y limitado apoyo a rescatistas independientes.",
+            "objective": "Implementar una política integral de bienestar animal que promueva la convivencia responsable, la salud pública y el apoyo municipal a rescatistas y organizaciones protectoras.",
+            "goal": "Registrar y brindar apoyo permanente a por lo menos 100 rescatistas del distrito, realizar 12,000 esterilizaciones gratuitas, promover 2,000 adopciones responsables y registrar 15,000 mascotas durante la gestión.",
+            "indicator": "Rescatistas registrados; esterilizaciones realizadas; adopciones concretadas; mascotas registradas; campañas ejecutadas."
+          },
+          {
+            "problem": "Bajo rendimiento escolar y limitado acompañamiento socioemocional de estudiantes.",
+            "objective": "Promover el desarrollo integral de niños y adolescentes fortaleciendo los aprendizajes y la salud emocional.",
+            "goal": "Beneficiar a más de 25,000 estudiantes de instituciones educativas públicas del distrito.",
+            "indicator": "Instituciones educativas beneficiadas; estudiantes participantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Potencial económico desaprovechado por la ubicación estratégica del distrito.",
+            "objective": "Aprovechar la ubicación estratégica de El Agustino para atraer inversión y dinamizar la economía local.",
+            "goal": "Generar al menos 50 alianzas estratégicas que impulsen el desarrollo económico distrital.",
+            "indicator": "Actividades realizadas; actores económicos participantes."
+          },
+          {
+            "problem": "Congestión comercial y limitado ordenamiento de la actividad económica local.",
+            "objective": "Promover espacios económicos más ordenados, seguros y competitivos.",
+            "goal": "Beneficiar a más de 2,000 comerciantes mediante programas de fortalecimiento económico local.",
+            "indicator": "Comerciantes beneficiados; espacios intervenidos."
+          },
+          {
+            "problem": "Mujeres emprendedoras con dificultades para acceder a capacitación y financiamiento.",
+            "objective": "Promover la autonomía económica y el liderazgo empresarial de las mujeres.",
+            "goal": "Beneficiar a más de 3,000 mujeres emprendedoras del distrito.",
+            "indicator": "Mujeres beneficiadas; negocios fortalecidos."
+          },
+          {
+            "problem": "Alta participación de jóvenes en empleos precarios o informales.",
+            "objective": "Fortalecer la inserción laboral y el emprendimiento juvenil.",
+            "goal": "Beneficiar a más de 5,000 jóvenes con programas de formación y empleabilidad.",
+            "indicator": "Jóvenes beneficiados; capacitaciones realizadas."
+          },
+          {
+            "problem": "Limitados espacios de comercialización para emprendedores locales.",
+            "objective": "Generar oportunidades de venta y posicionamiento para productos y servicios locales.",
+            "goal": "Realizar al menos 100 ferias empresariales y comerciales durante la gestión.",
+            "indicator": "Ferias realizadas; emprendedores y participantes."
+          },
+          {
+            "problem": "Bajos niveles de formalización de micro y pequeñas empresas.",
+            "objective": "Facilitar la formalización empresarial y promover negocios competitivos.",
+            "goal": "Contribuir a la formalización de 1,500 negocios durante la gestión.",
+            "indicator": "Empresas formalizadas; asesorías realizadas."
+          },
+          {
+            "problem": "Escasa educación financiera y limitada cultura empresarial.",
+            "objective": "Fortalecer las capacidades financieras y de gestión empresarial de emprendedores y comerciantes.",
+            "goal": "Capacitar a más de 10,000 vecinos en educación financiera y gestión empresarial.",
+            "indicator": "Participantes capacitados; talleres realizados."
+          },
+          {
+            "problem": "Alta informalidad laboral (88.3%) y limitado acceso a empleo formal.",
+            "objective": "Promover la formalización laboral y mejorar las oportunidades de empleo para la población económicamente activa.",
+            "goal": "Beneficiar a más de 15,000 vecinos mediante programas de empleabilidad y orientación laboral.",
+            "indicator": "Personas capacitadas; ferias realizadas; beneficiarios insertados laboralmente."
+          },
+          {
+            "problem": "Limitadas oportunidades de crecimiento para emprendedores y microempresarios.",
+            "objective": "Fortalecer el ecosistema emprendedor local mediante capacitación, asistencia técnica y acceso a oportunidades de financiamiento.",
+            "goal": "Capacitar y asesorar a más de 5,000 emprendedores durante la gestión municipal.",
+            "indicator": "Emprendedores capacitados; asesorías realizadas."
+          },
+          {
+            "problem": "Dificultades de acceso a financiamiento para pequeños negocios con potencial de crecimiento.",
+            "objective": "Impulsar el desarrollo de emprendimientos sostenibles mediante concursos y capital semilla supervisado.",
+            "goal": "Financiar y acompañar al menos 200 emprendimientos con alto potencial de desarrollo.",
+            "indicator": "Emprendimientos beneficiados; negocios fortalecidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad frente a los efectos del cambio climático y escasa participación ciudadana en acciones ambientales.",
+            "objective": "Promover la adaptación al cambio climático y la participación activa de la comunidad en la protección ambiental.",
+            "goal": "Involucrar a más de 30,000 vecinos en actividades de educación y participación ambiental.",
+            "indicator": "Actividades realizadas; vecinos participantes; espacios recuperados."
+          },
+          {
+            "problem": "Existencia de viviendas y población expuestas a sismos, deslizamientos y otros riesgos en zonas vulnerables del distrito.",
+            "objective": "Fortalecer la gestión del riesgo de desastres y la capacidad de respuesta de la población frente a emergencias.",
+            "goal": "Capacitar a más de 5,000 vecinos y conformar brigadas comunitarias en todos los sectores priorizados del distrito.",
+            "indicator": "Simulacros realizados; brigadistas capacitados; sectores intervenidos."
+          },
+          {
+            "problem": "Disposición inadecuada de residuos sólidos y limitada segregación en la fuente.",
+            "objective": "Mejorar la gestión integral de residuos sólidos promoviendo una cultura de reciclaje y responsabilidad ambiental.",
+            "goal": "Incorporar a 20,000 hogares en programas de segregación y reciclaje.",
+            "indicator": "Vecinos participantes; puntos ecológicos instalados; campañas realizadas."
+          },
+          {
+            "problem": "Necesidad de fortalecer la formalización y condiciones laborales de recicladores del distrito.",
+            "objective": "Impulsar la formalización e inclusión de recicladores como actores estratégicos de la gestión ambiental.",
+            "goal": "Formalizar y fortalecer a 200 recicladores durante la gestión municipal.",
+            "indicator": "Recicladores formalizados; capacitaciones realizadas."
+          },
+          {
+            "problem": "Déficit de áreas verdes y necesidad de mejorar la calidad ambiental del distrito.",
+            "objective": "Incrementar y recuperar las áreas verdes para mejorar la calidad de vida y adaptación al cambio climático.",
+            "goal": "Plantar 10,000 árboles y recuperar 30 espacios públicos y áreas verdes.",
+            "indicator": "Árboles plantados; áreas recuperadas; parques intervenidos."
+          },
+          {
+            "problem": "Limitada educación ambiental en niños, adolescentes y comunidad educativa.",
+            "objective": "Fortalecer la conciencia y cultura ambiental mediante programas educativos permanentes.",
+            "goal": "Implementar biohuertos en al menos 50 instituciones educativas y beneficiar a más de 20,000 estudiantes.",
+            "indicator": "Instituciones educativas participantes; biohuertos implementados, estudiantes beneficiados."
+          },
+          {
+            "problem": "Deterioro de parques y espacios públicos por malas prácticas ambientales y falta de vigilancia.",
+            "objective": "Fortalecer la protección y vigilancia ambiental de los espacios públicos del distrito.",
+            "goal": "Implementar el Serenazgo Ecológico en todo el distrito y realizar al menos 500 intervenciones ambientales durante la gestión.",
+            "indicator": "Operativos realizados; espacios monitoreados; incidencias atendidas."
+          },
+          {
+            "problem": "Contaminación de espacios públicos por residuos y falta de responsabilidad ciudadana respecto a mascotas.",
+            "objective": "Promover espacios públicos limpios y una convivencia responsable entre vecinos y mascotas.",
+            "goal": "Implementar 100 puntos de apoyo para la limpieza de mascotas y desarrollar campañas permanentes de sensibilización.",
+            "indicator": "Campañas realizadas; puntos implementados; vecinos beneficiados."
+          },
+          {
+            "problem": "Escasez de espacios comunitarios para promover agricultura urbana y educación ambiental práctica.",
+            "objective": "Impulsar la agricultura urbana sostenible como herramienta de educación ambiental y seguridad alimentaria.",
+            "goal": "Implementar 100 biohuertos comunitarios y escolares durante la gestión municipal.",
+            "indicator": "Biohuertos implementados; participantes capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Percepción de poca transparencia en la gestión de los recursos públicos.",
+            "objective": "Fortalecer la transparencia y la rendición de cuentas en la administración municipal.",
+            "goal": "Realizar rendiciones de cuentas semestrales y publicar información presupuestal de manera accesible durante toda la gestión.",
+            "indicator": "Informes publicados; audiencias realizadas; vecinos participantes."
+          },
+          {
+            "problem": "Limitaciones en la capacidad institucional y procesos administrativos poco eficientes.",
+            "objective": "Fortalecer la capacidad institucional y modernizar la gestión municipal para brindar servicios más eficientes y oportunos.",
+            "goal": "Digitalizar los principales trámites municipales y capacitar al 100% del personal administrativo durante la gestión.",
+            "indicator": "Trámites digitalizados; servidores capacitados; procesos optimizados."
+          },
+          {
+            "problem": "Lentitud en la atención al ciudadano y excesiva burocracia en diversos procedimientos municipales.",
+            "objective": "Mejorar la calidad de atención al vecino mediante servicios más ágiles, accesibles y transparentes.",
+            "goal": "Reducir en 50% los tiempos promedio de atención y respuesta municipal.",
+            "indicator": "Tiempo promedio de atención; vecinos atendidos; encuestas de satisfacción."
+          },
+          {
+            "problem": "Necesidad de fortalecer la planificación y evaluación de resultados de la gestión pública.",
+            "objective": "Consolidar una gestión orientada a resultados y mejora continua.",
+            "goal": "Publicar reportes anuales de cumplimiento de metas y avances del plan de gobierno durante toda la gestión.",
+            "indicator": "Informes de seguimiento; metas evaluadas."
+          },
+          {
+            "problem": "Limitado aprovechamiento de herramientas tecnológicas para la gestión y comunicación con los vecinos.",
+            "objective": "Impulsar la transformación digital municipal para mejorar la eficiencia y participación ciudadana.",
+            "goal": "Implementar una plataforma digital integral de atención ciudadana y gestión municipal.",
+            "indicator": "Herramientas implementadas; reportes atendidos."
+          },
+          {
+            "problem": "Necesidad de fortalecer la integridad pública y la prevención de actos de corrupción.",
+            "objective": "Promover una gestión basada en principios de integridad, ética y lucha contra la corrupción.",
+            "goal": "Capacitar al 100% del personal municipal en integridad y buenas prácticas de gestión pública.",
+            "indicator": "Capacitaciones realizadas; mecanismos implementados."
+          },
+          {
+            "problem": "Escasa presencia de la municipalidad en los distintos sectores del distrito.",
+            "objective": "Acercar la gestión municipal a la población mediante servicios descentralizados y atención territorial.",
+            "goal": "Realizar al menos 200 jornadas descentralizadas de atención durante la gestión.",
+            "indicator": "Jornadas realizadas; vecinos atendidos; sectores intervenidos."
+          },
+          {
+            "problem": "Desconfianza ciudadana y limitada participación de los vecinos en la toma de decisiones.",
+            "objective": "Promover una gobernanza participativa e inclusiva que fortalezca la relación entre municipio y ciudadanía.",
+            "goal": "Beneficiar a más de 20,000 vecinos mediante mecanismos permanentes de participación ciudadana.",
+            "indicator": "Espacios participativos implementados; vecinos participantes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-9iAldVGRlb-_OBjuC5rTMzvlZWv7JESC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/9iAldVGRlb-_OBjuC5rTMzvlZWv7JESC",
+      "sha256": "132c904917d12b7ba124886a22cb226f53957a2e880ad2177e9dcc9a6b29dbac",
+      "accessedAt": "2026-10-02T22:55:53.533Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015947",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015947",
+      "sha256": "8faa2d11f46ab6d9ed931d6be53699f8db1aa07993178496defd16befb9c691d",
+      "accessedAt": "2026-10-02T22:55:54.150Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

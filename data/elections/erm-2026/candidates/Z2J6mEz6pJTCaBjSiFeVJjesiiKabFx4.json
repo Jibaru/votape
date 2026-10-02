@@ -1,0 +1,276 @@
+{
+  "id": "Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4",
+  "slug": "raul-diaz-perez",
+  "electionId": "erm-2026",
+  "name": "Raul Diaz Perez",
+  "givenNames": "Raul",
+  "surnames": "Diaz Perez",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:07.956Z",
+      "sourceId": "jne-hv-Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILAZO DE LA VEGA",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD FEDERICO VILLARREAL",
+        "program": "LICENCIADO EN CIENCIAS POLITICAS - POLITOLOGO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2006"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES - CONVENIO EUCIM BUSINESS SCHOOL",
+        "program": "MASTER EN GERENCIA PÚBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+        "program": "MAESTRIA EN DERECHO EN CIENCIAS PENALES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE VENTANILLA",
+      "role": "SERVICIO EN LA SECRETARIA GENERAL",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MINISTERIO DEL INTERIOR",
+      "role": "ASESORIA EN EL VICEMINISTERIO DE SEGURIDAD PÚBLICA",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE COMAS",
+      "role": "PLAZA DE ARMAS S/N COMAS",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ABOGADO - ASESOR",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MINISTERIO DE TRABAJO",
+      "role": "CONSULTOR",
+      "from": "2016",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "UNION POR EL PERU",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "INTEGRANTE ALTERNO DEL COMANDO NACIONAL DE CAMPAÑA",
+      "party": "ALIANZA SOLIDARIDAD NACIONAL",
+      "from": "2010",
+      "to": "2011"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2022"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 84000,
+        "public": 84000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "BMW AÑO 2018",
+        "value": 88400
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "DEBO DECLARA R QUE A LA FECHA ME ENCUENTRO DIVORCIADO, PRODUCTO DE ELLO HE LIQUIDADO MIS BIENES GANANCIALES Y OTROS."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/76efc974-c1b0-4a88-bb83-230486ad822c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5049dc2e-03b3-4d4a-8272-60b95c2e26bc.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos niveles de inseguridad ciudadana en el distrito de Comas.",
+            "objective": "Reducir la inseguridad ciudadana en el distrito de Comas.",
+            "goal": "Reducir la tasa de 8.73 en la línea de base a 2 para el año 2030.",
+            "indicator": "Tasa de delitos contra el patrimonio por cada mil habitantes."
+          },
+          {
+            "problem": "Insuficiente apoyo y protección a los grupos vulnerables, instalaciones poco adecuadas y deficiencia en la atención primaria de salud y educación.",
+            "objective": "Promover el desarrollo humano integral priorizando a la población vulnerable del distrito.",
+            "goal": "Incrementar el porcentaje de 33.1% en la línea de base a 41% para el año 2030.",
+            "indicator": "Porcentaje de adolescentes que logran el nivel satisfactorio en matemáticas y comprensión lectora (2° secundaria)."
+          },
+          {
+            "problem": "Condiciones de habitabilidad deficientes, especialmente en las partes altas, con carencia de servicios básicos, accesos y titulación de propiedad.",
+            "objective": "Promover el desarrollo urbano ordenado y sostenible en el distrito.",
+            "goal": "Incrementar la ejecución del presupuesto de inversión de un 92.5% en la línea de base al 100% para el año 2028.",
+            "indicator": "Porcentaje de ejecución del presupuesto de inversión anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de estrategias para promover las inversiones privadas, deficiente apoyo a los emprendedores, falta de empleo y formalización de negocios.",
+            "objective": "Promover la competitividad económica en el distrito de Comas.",
+            "goal": "Alcanzar el 75% de cumplimiento del Plan de Desarrollo Económico para el año 2030, partiendo de una línea de base de 0%.",
+            "indicator": "Porcentaje de cumplimiento del Plan de Desarrollo Económico."
+          },
+          {
+            "problem": "Las micro y pequeñas empresas (MYPEs) enfrentan extorsiones e inseguridad ciudadana, lo que afecta su sostenibilidad en el tiempo.",
+            "objective": "Promover la competitividad económica en el distrito de Comas.",
+            "goal": "No especificado en el documento.",
+            "indicator": "No especificado en el documento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alto riesgo de ocurrencia de desastres que afectan a las personas y sus medios de vida en el distrito.",
+            "objective": "Promover la gestión ambiental sostenible en el distrito de Comas.",
+            "goal": "No especificado en el documento.",
+            "indicator": "No especificado en el documento."
+          },
+          {
+            "problem": "Servicio municipal de limpieza pública que no satisface las expectativas de los vecinos del distrito.",
+            "objective": "Promover la gestión ambiental sostenible en el distrito de Comas.",
+            "goal": "No especificado en el documento.",
+            "indicator": "No especificado en el documento."
+          },
+          {
+            "problem": "Áreas verdes con insuficiente cuidado y falta de equipamiento en parques y jardines.",
+            "objective": "Promover la gestión ambiental sostenible en el distrito de Comas.",
+            "goal": "Incrementar los metros cuadrados de áreas verdes por habitante de 2.81 a 2.86 para el año 2030.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La gestión municipal es percibida como carente de empatía, con procesos de atención engorrosos y lentos, y una cuestionada transparencia en los actos públicos, lo que ocasiona bajos niveles de aprobación.",
+            "objective": "Fortalecer la gestión institucional de la Municipalidad de Comas.",
+            "goal": "Incrementar el porcentaje de ejecución presupuestal de 95.6% en la línea de base a 99% para el año 2030.",
+            "indicator": "Porcentaje de ejecución del presupuesto municipal (PIM) anualmente."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-141781",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "JUZGADO DE PAZ LETRADO ANCO - SANTA ROSA",
+        "expediente": "18-2021-0-3301-JP-FC-04",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4",
+      "sha256": "2fd0a64e8bd5416bffd441c0d5ae772eca443f934f55259374e4a976d36b4a42",
+      "accessedAt": "2026-10-02T22:55:07.956Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012222",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012222",
+      "sha256": "3993b11c40ba1d28faa5827e61061fa0a0e9f9f44f7d0ea8aee3c5f6a1fbd059",
+      "accessedAt": "2026-10-02T22:55:08.438Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

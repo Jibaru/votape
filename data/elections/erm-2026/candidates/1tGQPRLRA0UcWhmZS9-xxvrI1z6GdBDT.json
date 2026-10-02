@@ -1,0 +1,256 @@
+{
+  "id": "1tGQPRLRA0UcWhmZS9-xxvrI1z6GdBDT",
+  "slug": "marcos-enrique-cabrera-porras",
+  "electionId": "erm-2026",
+  "name": "Marcos Enrique Cabrera Porras",
+  "givenNames": "Marcos Enrique",
+  "surnames": "Cabrera Porras",
+  "age": 38,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:16.010Z",
+      "sourceId": "jne-hv-1tGQPRLRA0UcWhmZS9-xxvrI1z6GdBDT"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Jaime Bausate y Meza",
+        "program": "LICENCIADO EN PERIODISMO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Jaime Bausate y Meza",
+        "program": "BACHILLER EN PERIODISMO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SERVICIO DE PARQUES DE LIMA SERPAR - LIMA",
+      "role": "FUNCIONARIO",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SAN MIGUEL ME GUSTA",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 157600,
+        "public": 86000,
+        "private": 71600
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "BMWX1",
+        "value": 69000
+      },
+      {
+        "type": "TOYOTA YARIS",
+        "value": 27000
+      },
+      {
+        "type": "HYUNDAI TUCSON",
+        "value": 56000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "TENGO UNA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA (E.I.R.L.) NOMINADA SERVICIOS LIACABPA GENERALES E.I.R.L., EN EL AÑO 2025, NO FACTURO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6bff8864-5f39-46b6-8e09-fc2709e2c113.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/545e1cac-4433-4070-b4b7-984d5dde4afe.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la extorsión, el crimen organizado, delitos contra el patrimonio, sicariato y homicidios.",
+            "objective": "Implementar un Centro de Alto Rendimiento Táctico para Seguridad Ciudadana (CARTS), crear una unidad élite del Serenazgo, fortalecer la seguridad con una red de videovigilancia inteligente, implementar un Centro de Operaciones de Seguridad 24/7, adquirir body cams, realizar analítica de video con inteligencia artificial, gestionar convenios operativos y renovar la flota de Serenazgo.",
+            "goal": "Reducir los delitos patrimoniales y aumentar la sensación de seguridad.",
+            "indicator": "Porcentaje de reducción de delitos de alto impacto (extorsión, homicidio, sicariato y delitos contra el patrimonio)."
+          },
+          {
+            "problem": "Falta de control y gestión integral de los conciertos y eventos masivos en la Costa Verde de San Miguel.",
+            "objective": "Impulsar la participación ciudadana en seguridad y fortalecer la regulación, supervisión y control de eventos masivos en la Costa Verde, garantizando la seguridad, movilidad, control de ruido y cumplimiento de condiciones técnicas y ambientales.",
+            "goal": "Capacitar a las Juntas Vecinales en seguridad ciudadana y proceder con el cierre de Costa 21 y Arena 1 ante el riesgo inminente para la población.",
+            "indicator": "Número de capacitaciones en seguridad ciudadana a vecinos y juntas vecinales; porcentaje de eventos masivos fiscalizados y supervisados."
+          },
+          {
+            "problem": "Congestionamiento vehicular en diversas zonas del distrito.",
+            "objective": "Implementar semaforización adaptativa con sensores de flujo vehicular, estacionamiento inteligente con pago por aplicación y la ampliación de ciclovías en coordinación con MML y MTC.",
+            "goal": "Reducir el tiempo promedio de desplazamiento vehicular en las zonas críticas del distrito.",
+            "indicator": "Tiempo promedio de desplazamiento vehicular en las principales vías del distrito (minutos)."
+          },
+          {
+            "problem": "Falta de cobertura y acceso a la Salud.",
+            "objective": "Instalar dos Hospitales de la Solidaridad, impulsar programas de protección alimentaria y reducción de anemia, y fortalecer los servicios para personas con discapacidad, adultos mayores y los centros de salud municipales.",
+            "goal": "Lograr el acceso total a los servicios básicos de salud, realizar campañas semanales de educación nutricional, asegurar el acceso a servicios básicos para la población y ampliar los servicios para adultos mayores, niños, niñas y adolescentes, y aumentar la infraestructura accesible.",
+            "indicator": "Número de personas atendidas en Hospitales de la Solidaridad, beneficiarios de campañas nutricionales, personas con discapacidad atendidas, adultos mayores atendidos y personas atendidas en centros de salud municipales."
+          },
+          {
+            "problem": "Falta de protección a los derechos de los niños y adolescentes.",
+            "objective": "Fortalecer las acciones de protección y defensa de los derechos de las niñas, niños y adolescentes.",
+            "goal": "Fortalecer el Centro de Emergencia Mujer.",
+            "indicator": "Número de niñas, niños y adolescentes atendidos por la DEMUNA."
+          },
+          {
+            "problem": "Falta de promoción de la educación, deporte y cultura.",
+            "objective": "Instaurar las Olimpiadas interbarrios, fomentar el uso gratuito de la infraestructura deportiva, e impulsar programas formativos, educativos, culturales y de esparcimiento.",
+            "goal": "Incrementar anualmente la participación vecinal en las olimpiadas, garantizar el acceso a infraestructura deportiva, promover un estilo de vida saludable y realizar eventos mensuales de cultura y esparcimiento.",
+            "indicator": "Número de equipos participantes, número de beneficiarios de infraestructura deportiva, cobertura de programas educativos y número de beneficiarios de actividades culturales."
+          },
+          {
+            "problem": "Escasa participación de jóvenes en las tareas de desarrollo, promoción y políticas públicas.",
+            "objective": "Gestionar convenios con instituciones de educación técnica y universidades, e identificar y reclutar a jóvenes para formar grupos de participación activa en el desarrollo y vigilancia del distrito.",
+            "goal": "Proporcionar a los jóvenes de escasos recursos acceso a cursos y capacitaciones para su desarrollo laboral e incrementar anualmente la participación de los jóvenes.",
+            "indicator": "Número de convenios gestionados y número de jóvenes con participación activa en la toma de decisiones."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de infraestructura inteligente desplegada a escala distrital.",
+            "objective": "Instalar Wifi público gratuito de alta velocidad en 150 puntos y crear un coworking público junto a un laboratorio de innovación cívica en alianza con universidades.",
+            "goal": "Convertir a San Miguel en el primer distrito de Lima Metropolitana con infraestructura inteligente.",
+            "indicator": "Número de beneficiarios del Wifi público y número de beneficiarios del coworking."
+          },
+          {
+            "problem": "Falta de movilidad, sostenibilidad e innovación urbana.",
+            "objective": "Crear un mapa interactivo de movilidad, implementar estacionamientos inteligentes con sensores y pago por aplicación, y ampliar las ciclovías seguras y la red de bicicletas públicas.",
+            "goal": "Incorporar rutas, paraderos, estacionamientos y ciclovías al mapa digital; equipar estacionamientos con sensores y pago digital; e incrementar la red de ciclovías para el 2026.",
+            "indicator": "Porcentaje de infraestructura de movilidad georreferenciada, porcentaje de espacios de estacionamiento equipados con sensores y kilómetros de ciclovías seguras implementadas."
+          },
+          {
+            "problem": "Falta de ordenamiento de cables aéreos que afecta el paisaje urbano y la seguridad.",
+            "objective": "Mejorar el ordenamiento urbano y la seguridad mediante la gestión, reordenamiento y retiro progresivo de cableado aéreo en desuso, promoviendo una infraestructura de telecomunicaciones segura.",
+            "goal": "Alcanzar el 100% de ordenamiento del cableado aéreo en las vías principales y zonas críticas del distrito.",
+            "indicator": "Porcentaje de postes y vías intervenidas con cableado aéreo ordenado o retirado."
+          },
+          {
+            "problem": "Falta de mantenimiento de Pistas y Veredas.",
+            "objective": "Mejorar la infraestructura vial y peatonal mediante un programa integral de mantenimiento, rehabilitación y modernización para garantizar una movilidad segura y accesible.",
+            "goal": "Alcanzar que el 100% de las pistas y veredas del distrito se encuentren en buen estado de conservación.",
+            "indicator": "Porcentaje de kilómetros de vías y veredas en buen estado de conservación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de infraestructura inteligente desplegada a escala distrital para el monitoreo ambiental.",
+            "objective": "Instalar sensores de calidad del aire, contenedores de basura con sensores de llenado, sensores de nivel sonoro y sensores de aforo en parques y polideportivos.",
+            "goal": "Ser el primer distrito en Lima Metropolitana con infraestructura inteligente.",
+            "indicator": "Porcentaje de puntos críticos monitoreados, porcentaje de contenedores inteligentes, porcentaje de zonas con monitoreo acústico y porcentaje de parques con monitoreo de aforo."
+          },
+          {
+            "problem": "Falta de Alumbrado Público inteligente.",
+            "objective": "Realizar el reemplazo progresivo del 100% del alumbrado público por luminarias LED.",
+            "goal": "Ser el primer distrito en Lima Metropolitana con Alumbrado inteligente.",
+            "indicator": "Porcentaje de reemplazo, con porcentaje de ahorro energético."
+          },
+          {
+            "problem": "Falta de gestión de Residuos Sólidos.",
+            "objective": "Establecer rutas de recolección optimizadas, promover puntos limpios digitales con incentivos, reducir el volumen de residuos enviados a relleno sanitario y promover la concientización ambiental.",
+            "goal": "Reducir los kilómetros recorridos de recolección, incrementar el reciclaje en 100% para 2026, reducir los residuos enviados a relleno sanitario e incrementar la participación en programas de segregación.",
+            "indicator": "Reducción de kilómetros recorridos, toneladas de residuos reciclables recuperados, porcentaje de volumen enviado a relleno sanitario y número de personas sensibilizadas."
+          },
+          {
+            "problem": "Falta de mantenimiento de áreas verdes del distrito, como parques y jardines.",
+            "objective": "Fortalecer el vivero municipal para incrementar la producción de especies ornamentales y forestales, y aumentar la capacidad operativa del servicio de mantenimiento de áreas verdes.",
+            "goal": "Incrementar la producción del vivero en 100% para 2026 y realizar el mantenimiento oportuno y adecuado de la totalidad de metros cuadrados de áreas verdes.",
+            "indicator": "Número de plantas producidas anualmente en el vivero municipal y número de personal de áreas verdes con equipo adecuado y cobertura del servicio."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia, datos abiertos y participación.",
+            "objective": "Mejorar la mesa de partes digital y la firma electrónica, y actualizar el portal de transparencia con la creación de un tablero ciudadano en tiempo real.",
+            "goal": "Garantizar el acceso total a la información pública de la Municipalidad.",
+            "indicator": "Número de expedientes ingresados y número de visitas al portal web de transparencia y al tablero ciudadano."
+          },
+          {
+            "problem": "Falta de implementación del Gobierno Digital y atención al vecino.",
+            "objective": "Crear la aplicación oficial \"San Miguel Conmigo\", implementar el portal del vecino con expediente único digital, y mejorar el sistema de pagos digitales y el asistente virtual con inteligencia artificial.",
+            "goal": "Garantizar que los trámites municipales puedan iniciarse, pagarse y culminarse 100% en línea al cierre de la gestión.",
+            "indicator": "Número de trámites ejecutados por la aplicación, número de expedientes digitales emitidos, número de transacciones de pago y número de resoluciones automáticas de consultas."
+          },
+          {
+            "problem": "Falta de ciberseguridad municipal y protección de datos.",
+            "objective": "Establecer el marco NIST Cybersecurity, crear el cargo de Oficial de Seguridad de la Información (CISO), crear un centro de operaciones de ciberseguridad 24/7 y proteger los datos de los vecinos.",
+            "goal": "Garantizar la integridad, confidencialidad y disponibilidad de los sistemas y datos personales conforme a la Ley N° 29733 y estándares internacionales (ISO 27001, NIST CSF).",
+            "indicator": "Número de detecciones, contenciones y respuestas a incidentes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-1tGQPRLRA0UcWhmZS9-xxvrI1z6GdBDT",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1tGQPRLRA0UcWhmZS9-xxvrI1z6GdBDT",
+      "sha256": "f8943ec09c41b01a6a8dc35f5f58f1a078df26bc2ac4f6947af1bdbe4f3d1393",
+      "accessedAt": "2026-10-02T23:05:16.010Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020925",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020925",
+      "sha256": "ef9197688c4fd2561b22ad544b3f19e61f72aea6569e9f185150aa6d0754ded8",
+      "accessedAt": "2026-10-02T23:05:16.583Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

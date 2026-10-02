@@ -1,0 +1,188 @@
+{
+  "id": "EoONnEWE_qUGrr1mtlBB7jbhhPc8JxPc",
+  "slug": "napoleon-gonzales-castillo",
+  "electionId": "erm-2026",
+  "name": "Napoleon Gonzales Castillo",
+  "givenNames": "Napoleon",
+  "surnames": "Gonzales Castillo",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2895,
+    "name": "PARTIDO DEMOCRATA VERDE"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:24.073Z",
+      "sourceId": "jne-hv-EoONnEWE_qUGrr1mtlBB7jbhhPc8JxPc"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "DERECHO PENAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "MAGISTER EN DERECHO PENAL",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2018"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 120000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MARCA NISSAN - MODELO SENTRA",
+        "value": 20000
+      },
+      {
+        "type": "MARCA NISSAN - SENTRA",
+        "value": 17000
+      },
+      {
+        "type": "MARCA TOYOTA - MODELO AVANZA",
+        "value": 34000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "AVICOLA COMERCIAL BUFALO S.R.L",
+        "type": "ACCIONES",
+        "quantity": 6000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/adbeaa70-eb35-42b9-a16e-2b835dae537f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a55e6166-1d79-4903-aa0c-b22a1f09dada.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia de hurtos al paso y presencia de establecimientos informales nocturnos que generan inseguridad en zonas residenciales del distrito.",
+            "objective": "Fortalecer el sistema integrado de vigilancia vecinal mediante tecnología de videovigilancia y patrullaje articulado con la Policía Nacional del Perú y el Serenazgo.",
+            "goal": "Reducir en 40% los índices de delitos contra el patrimonio y ampliar la red de cámaras al 100% de las zonas de mayor riesgo al cierre del mandato.",
+            "indicator": "Índice de delitos contra el patrimonio. Porcentaje de cobertura de la red de cámaras en zonas de mayor riesgo."
+          },
+          {
+            "problem": "Alta incidencia de hurtos al paso y presencia de establecimientos informales nocturnos que generan inseguridad en zonas residenciales del distrito.",
+            "objective": "Fortalecer el sistema integrado de vigilancia vecinal mediante tecnología de videovigilancia y patrullaje articulado entre el Serenazgo y la Policía Nacional del Perú.",
+            "goal": "Reducir en 40% los índices de delitos contra el patrimonio y ampliar la red de cámaras al 100% de las zonas de mayor riesgo al cierre del mandato.",
+            "indicator": "Índice de delitos contra el patrimonio y porcentaje de cobertura de la red de cámaras en zonas de riesgo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Proliferación de talleres mecánicos y comercio informal en la zona de San Jacinto y la avenida Nicolás Ayllón, generando conflicto con áreas residenciales.",
+            "objective": "Ordenar y formalizar las actividades económicas del distrito mediante un programa de reordenamiento urbano-comercial con incentivos a la formalización.",
+            "goal": "Formalizar el 60% de los comercios ambulatorios registrados y reubicar el 100% de talleres en zonas compatibles con el uso de suelo al término del mandato.",
+            "indicator": "Porcentaje de comercios ambulatorios formalizados. Porcentaje de talleres reubicados en zonas compatibles."
+          },
+          {
+            "problem": "Proliferación de talleres mecánicos y comercio informal en la zona de San Jacinto y la avenida Nicolás Ayllón, lo que genera conflictos con las áreas residenciales.",
+            "objective": "Ordenar y formalizar las actividades económicas del distrito mediante un programa de reordenamiento urbano-comercial con incentivos a la formalización.",
+            "goal": "Formalizar el 60% de los comercios ambulatorios registrados y reubicar el 100% de los talleres en zonas compatibles con el uso de suelo al término del mandato.",
+            "indicator": "Porcentaje de comercios ambulatorios formalizados y porcentaje de talleres reubicados en zonas compatibles."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante por debajo del estándar de la Organización Mundial de la Salud (OMS), contaminación sonora por tráfico vehicular y acumulación de residuos en la vía pública.",
+            "objective": "Ejecutar el Plan Distrital de Gestión Ambiental con arborización urbana, mejora de la flota de limpieza y un programa de reciclaje y educación ambiental.",
+            "goal": "Incrementar en 2 m² per cápita el área verde del distrito, alcanzar un 95% de cobertura en la recolección de residuos y reducir en un 30% las quejas por contaminación sonora.",
+            "indicator": "Metros cuadrados de área verde por habitante. Porcentaje de cobertura en recolección de residuos. Porcentaje de reducción de quejas por contaminación sonora."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante por debajo del estándar de la OMS (9 m²/hab), contaminación sonora por tráfico vehicular y acumulación de residuos en la vía pública.",
+            "objective": "Ejecutar el Plan Distrital de Gestión Ambiental, que incluye arborización urbana, mejora de la flota de limpieza y un programa de reciclaje y educación ambiental.",
+            "goal": "Incrementar en 2 m² per cápita el área verde del distrito, alcanzar el 95% de cobertura en la recolección de residuos y reducir en un 30% las quejas por contaminación sonora.",
+            "indicator": "Metros cuadrados de área verde por habitante, porcentaje de cobertura en la recolección de residuos y porcentaje de reducción de quejas por contaminación sonora."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta informalidad comercial en la zona de San Jacinto, asociada a la venta de autopartes de procedencia irregular y riesgos de corrupción en los procesos de fiscalización y gestión municipal.",
+            "objective": "Promover la formalización económica y fortalecer la transparencia y el control institucional.",
+            "goal": "Censar el 100% de los locales de San Jacinto, implementar una ventanilla de denuncias anónimas, publicar las declaraciones juradas de intereses de los funcionarios y lograr un incremento del 50% en la formalización comercial para el año 2030.",
+            "indicator": "Porcentaje de locales comerciales censados, implementación de una ventanilla de denuncias anónimas, publicación de declaraciones juradas de intereses y porcentaje de incremento en la formalización comercial."
+          },
+          {
+            "problem": "Alta informalidad comercial en la zona de San Jacinto, asociada a la venta de autopartes de procedencia irregular y riesgos de corrupción en los procesos de fiscalización y gestión municipal.",
+            "objective": "Promover la formalización económica y fortalecer la transparencia y el control institucional.",
+            "goal": "Censar el 100% de locales de San Jacinto, implementar una ventanilla de denuncias anónimas, publicar declaraciones juradas de intereses de funcionarios y lograr un incremento del 50% en la formalización comercial al 2030.",
+            "indicator": "Porcentaje de locales censados en San Jacinto. Número de declaraciones juradas de intereses publicadas. Porcentaje de incremento en la formalización comercial."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-EoONnEWE_qUGrr1mtlBB7jbhhPc8JxPc",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/EoONnEWE_qUGrr1mtlBB7jbhhPc8JxPc",
+      "sha256": "f97c3d267fe974f823e0361169c2f3959abd9d1e4faf36f3c273287830904e7a",
+      "accessedAt": "2026-10-02T23:04:24.073Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019444",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019444",
+      "sha256": "3cda96c386fe9c0d63d8ef343fabdc3be3176b006e2c3b552e732852f8bd093a",
+      "accessedAt": "2026-10-02T23:04:24.561Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "E4ovBLoIE5xkY3KlO8jAxPIPfP5yay20",
+  "slug": "luis-felipe-moreno-torres",
+  "electionId": "erm-2026",
+  "name": "Luis Felipe Moreno Torres",
+  "givenNames": "Luis Felipe",
+  "surnames": "Moreno Torres",
+  "age": 68,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:29.727Z",
+      "sourceId": "jne-hv-E4ovBLoIE5xkY3KlO8jAxPIPfP5yay20"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "Ministerio del Interior",
+      "role": "Policia",
+      "from": "1984",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 42000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Hyundai Excel celeste del año 1989",
+        "value": 1000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/570e38fe-782b-40a4-8536-db1dbd5abcb7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6663917b-a0c7-495e-a154-56c5eae128af.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de hospital.",
+            "objective": "Dotar de un hospital materno infantil.",
+            "goal": "100%",
+            "indicator": "Población más sana."
+          },
+          {
+            "problem": "Falta de calidad de vida.",
+            "objective": "Fortalecimiento de servicios.",
+            "goal": "80%",
+            "indicator": "Mayor población con servicios básicos."
+          },
+          {
+            "problem": "Falta de cohesión social.",
+            "objective": "Fomentar la educación y el civismo, así como una cultura de valores e inclusión.",
+            "goal": "80%",
+            "indicator": "Más oportunidades para los más jóvenes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Fortalecimiento del turismo.",
+            "objective": "Implementar un programa de incentivos y campañas para incentivar visitas.",
+            "goal": "80%",
+            "indicator": "Mejores niveles de vida."
+          },
+          {
+            "problem": "Ordenamiento del comercio.",
+            "objective": "Realizar una fiscalización constante.",
+            "goal": "80%",
+            "indicator": "Mejores niveles de vida."
+          },
+          {
+            "problem": "Formalización de negocios locales.",
+            "objective": "Simplificación administrativa.",
+            "goal": "100%",
+            "indicator": "Más competitividad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de protección de áreas naturales.",
+            "objective": "Proteger parques y bosques.",
+            "goal": "80%",
+            "indicator": "Mejora de la calidad del aire."
+          },
+          {
+            "problem": "Falta de fiscalización ambiental.",
+            "objective": "Capacitar al personal para mejorar el control del desarrollo ambiental.",
+            "goal": "80%",
+            "indicator": "Menos contaminación."
+          },
+          {
+            "problem": "Falta de control de construcción en zonas críticas.",
+            "objective": "Promover la transparencia en la gestión de otorgamiento de licencias.",
+            "goal": "100%",
+            "indicator": "Construcciones respetando la zonificación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta la implementación del gobierno digital.",
+            "objective": "Implementar el gobierno digital en la gestión.",
+            "goal": "100%",
+            "indicator": "Ciudadanía mejor informada."
+          },
+          {
+            "problem": "Falta de implementación del portal de transparencia en tiempo real.",
+            "objective": "Implementar el portal de transparencia en tiempo real para una mejor información al usuario.",
+            "goal": "100%",
+            "indicator": "Ciudadanía mejor informada."
+          },
+          {
+            "problem": "Falta de control concurrente de obras.",
+            "objective": "Mejorar el control de obras.",
+            "goal": "100%",
+            "indicator": "Mejorar la calidad de las obras."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-E4ovBLoIE5xkY3KlO8jAxPIPfP5yay20",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/E4ovBLoIE5xkY3KlO8jAxPIPfP5yay20",
+      "sha256": "0a3cc10135b4f4e752462c8ab9d4a0da1fc05c4cb9bbf9f3a5503f54df44ff90",
+      "accessedAt": "2026-10-02T23:01:29.727Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023237",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023237",
+      "sha256": "be36289fe53fb1fe712cbe77faeb99cc4417557ffd1f5f52326252ada44a1c6c",
+      "accessedAt": "2026-10-02T23:01:30.382Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

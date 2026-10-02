@@ -1,0 +1,233 @@
+{
+  "id": "Px-qn0o4F72P_r7gWjaYL1PSxuvkET2r",
+  "slug": "leonidas-ivan-altamirano-matus",
+  "electionId": "erm-2026",
+  "name": "Leonidas Ivan Altamirano Matus",
+  "givenNames": "Leonidas Ivan",
+  "surnames": "Altamirano Matus",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:27.947Z",
+      "sourceId": "jne-hv-Px-qn0o4F72P_r7gWjaYL1PSxuvkET2r"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería - Nicaragua",
+        "program": "Ingeniero Civil",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional de Ingeniería - Nicaragua",
+        "program": "Formulación, evaluación y administración de proyectos",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad de Pueblo Libre",
+      "role": "Servicio especializado en administración- Proyectos de Inversión pública",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "Municipalidad Distrital de Huachupampa - MDH",
+      "role": "Gerente de servicios a la ciudadanía y medio ambiente",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "Municipalidad Distrital de Santa Eulalia - MDSE",
+      "role": "Gerente de Desarrollo Urbano y Rural",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad Distrital de Santa Eulalia - MDSE",
+      "role": "Gerente de seguridad ciudadana y defensa civil",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "AUTORIDAD PARA LA RECONSTRUCCIÓN CON CAMBIOS",
+      "role": "EXPERTO EN GESTIÓN DE PROYECTOS",
+      "from": "2021",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 108000,
+        "public": 108000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "Camioneta",
+        "value": 87500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Se adjunta la resolución de reposición de título apostillado y el diploma de posgrado apostillado, para los fines correspondientes."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6fbee840-49ba-4386-b110-858eda94fc20.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d3a4fbc4-a253-47d1-80bb-cd9cdea453c0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Vulnerabilidad ante desastres (huaicos)",
+            "objective": "Gestionar ante el Gobierno Central y la Municipalidad Metropolitana de Lima la construcción de diques y mallas geodinámicas en las quebradas Los Cóndores, Cusipata y Huascarán para una gestión de obras de mitigación definitiva.",
+            "goal": "100% de quebradas críticas con sistemas de alerta temprana y obras de protección operativos.",
+            "indicator": "Número de quebradas críticas con sistemas de alerta temprana y mitigación física instalados."
+          },
+          {
+            "problem": "Alta inseguridad ciudadana",
+            "objective": "Implementar el programa \"Chaclacayo Seguro e Inteligente\": sistema integrado de videovigilancia con inteligencia artificial, drones, alarmas vecinales y el esquema \"Serenazgo sin Fronteras\" articulado con los distritos de Chosica y Ate.",
+            "goal": "Reducir en 30% la victimización delictiva en el distrito.",
+            "indicator": "Porcentaje de reducción de victimización delictiva (Encuesta INEI)."
+          },
+          {
+            "problem": "Servicios de salud del primer nivel saturados e insuficientes",
+            "objective": "Fortalecer la atención primaria mediante la gestión de la recategorización de los centros de salud existentes y la creación del programa municipal \"Médico a tu Puerta\" para adultos mayores y personas en situación de vulnerabilidad.",
+            "goal": "90% de cobertura en programas preventivos de salud municipal.",
+            "indicator": "Porcentaje de cobertura de atención primaria en adultos mayores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desempleo y subempleo juvenil",
+            "objective": "Implementar el programa \"Chamba Joven Chaclacayo\", forjando alianzas con empresas de Lima Este para una bolsa de trabajo y la creación de una incubadora de emprendimientos (startups) locales.",
+            "goal": "500 jóvenes beneficiados anualmente.",
+            "indicator": "Número de jóvenes insertados en el mercado laboral mediante programas municipales."
+          },
+          {
+            "problem": "Estancamiento del turismo y la actividad comercial",
+            "objective": "Crear el Corredor Gastronómico y Turístico \"Chaclacayo Tradición\", estableciendo incentivos tributarios temporales para nuevos emprendimientos turísticos y ferias itinerantes de fin de semana que reactiven la economía local.",
+            "goal": "Incrementar en 40% la afluencia turística anual al distrito.",
+            "indicator": "Número de visitantes y turistas nacionales anuales."
+          },
+          {
+            "problem": "Informalidad en el comercio ambulatorio",
+            "objective": "Fomentar la formalización con incentivos, mediante la reubicación ordenada en ferias modelo y la simplificación del trámite de licencias de funcionamiento a costo social, bajo la modalidad \"Licencia Cero\".",
+            "goal": "70% de comerciantes informales formalizados.",
+            "indicator": "Porcentaje de comerciantes informales empadronados que migran a la formalidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de residuos sólidos",
+            "objective": "Modernizar el servicio de limpieza pública a través de la renovación progresiva de la flota de recolección y el lanzamiento del programa \"Chaclacayo Recicla\", con descuentos en arbitrios municipales para los vecinos que practiquen la segregación en la fuente (ecoincentivos).",
+            "goal": "Alcanzar el 30% de segregación en origen.",
+            "indicator": "Porcentaje de residuos sólidos segregados en la fuente (domicilios)."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios públicos deteriorados",
+            "objective": "Promover la recuperación de parques y riego tecnificado, incluyendo el mantenimiento de parques emblemáticos y el impulso a la implementación del \"Parque Lineal Río Rímac\" en coordinación con el Plan Urbano Lima Este.",
+            "goal": "Mantener el estándar mínimo de la OMS: 9 metros cuadrados de área verde por habitante.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas y mantenidas por habitante."
+          },
+          {
+            "problem": "Contaminación del aire y contaminación sonora",
+            "objective": "Realizar una fiscalización ambiental estricta para el control de emisiones vehiculares y niveles de ruido, mediante equipamiento técnico homologado y operativos periódicos en la Carretera Central y zonas residenciales.",
+            "goal": "24 operativos integrales de control ambiental por año.",
+            "indicator": "Número de operativos integrales de control ambiental realizados anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia excesiva y tramitación lenta",
+            "objective": "Implementar el Gobierno Digital \"Chaclacayo Clic\" mediante la digitalización del 100% de los trámites del TUPA y la emisión automática de licencias de funcionamiento para establecimientos de bajo riesgo.",
+            "goal": "Emisión de licencias de bajo riesgo en un máximo de 48 horas.",
+            "indicator": "Tiempo promedio de atención de trámites (licencias de funcionamiento)."
+          },
+          {
+            "problem": "Desconfianza ciudadana y percepción de corrupción",
+            "objective": "Implementar la norma ISO 37001 (Sistema de Gestión Antisoborno), realizar una auditoría externa al inicio de la gestión y efectuar Cabildos Abiertos trimestrales descentralizados en diferentes zonas del distrito.",
+            "goal": "100% de cumplimiento en transparencia proactiva.",
+            "indicator": "Nivel de cumplimiento en el Portal de Transparencia Estándar del MEF."
+          },
+          {
+            "problem": "Desarticulación organizacional e instrumentos de gestión desactualizados",
+            "objective": "Ejecutar una reingeniería de procesos institucionales, actualizando el ROF, MOF y demás instrumentos de gestión bajo el enfoque de servicio civil meritocrático, en coordinación con SERVIR.",
+            "goal": "100% de instrumentos de gestión actualizados al cierre del primer año de gestión.",
+            "indicator": "Porcentaje de instrumentos de gestión actualizados y aprobados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Px-qn0o4F72P_r7gWjaYL1PSxuvkET2r",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Px-qn0o4F72P_r7gWjaYL1PSxuvkET2r",
+      "sha256": "f1e38e4f4160c6cbdbe430391371576a0d876ecdb4c16f3826e3e6336b0f5227",
+      "accessedAt": "2026-10-02T22:53:27.947Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011871",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011871",
+      "sha256": "b96b3a201b65b809c49b7cc97f7d33946e283570505fa07914ed34b4f7554d25",
+      "accessedAt": "2026-10-02T22:53:28.442Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

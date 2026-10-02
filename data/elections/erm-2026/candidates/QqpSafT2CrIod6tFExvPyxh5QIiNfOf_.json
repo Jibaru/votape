@@ -1,0 +1,231 @@
+{
+  "id": "QqpSafT2CrIod6tFExvPyxh5QIiNfOf_",
+  "slug": "luis-martin-koc-lem-moya",
+  "electionId": "erm-2026",
+  "name": "Luis Martin Koc Lem Moya",
+  "givenNames": "Luis Martin",
+  "surnames": "Koc Lem Moya",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:31.394Z",
+      "sourceId": "jne-hv-QqpSafT2CrIod6tFExvPyxh5QIiNfOf_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IDAT",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UTP",
+        "program": "TITULADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad de Chilca",
+      "role": "Administrador",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Municipalidad de Chilca",
+      "role": "Funcionario",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad de Chilca",
+      "role": "Funcionario",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad de Pucusana",
+      "role": "Funcionario",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "Municipalidad de Pucusana",
+      "role": "Funcionario",
+      "from": "2021",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATA UNIDO PERU",
+      "year": "2025"
+    },
+    {
+      "party": "JUNTOS POR EL PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 84000,
+        "public": 84000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "Camioneta color rojo de marca CHANGAN, modelo CS15",
+        "value": 50000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/0addaec0-351a-4683-b3fd-49cc8d4a407d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ec03030c-5265-4616-9683-9f8f352e90df.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Desconexión educativa debido a la inexistencia de alternativas de formación profesional técnica dentro del distrito, lo que fuerza la deserción laboral o escolar juvenil.",
+            "objective": "Gestionar ante el MINEDU el licenciamiento de un instituto superior y poner en operaciones el CETPRO Pucusana.",
+            "goal": "Un instituto superior gestionado y un CETPRO dictando cuatro carreras técnico-productivas del motor marítimo e industrial.",
+            "indicator": "Número de mallas técnicas productivas certificadas operando formalmente."
+          },
+          {
+            "problem": "Déficit asistencial en salud, con centralización de la atención y carencia de especialidades médicas básicas en la periferia, lo que obliga a traslados foráneos gravosos.",
+            "objective": "Elevar la categoría del centro médico local e implementar el Centro Médico Municipal con cinco especialidades básicas y una farmacia municipal.",
+            "goal": "Cien por ciento de operatividad de los servicios en medicina familiar, interna, pediatría, ginecología y geriatría.",
+            "indicator": "Número de consultorios de especialidades médicas implementados y operativos."
+          },
+          {
+            "problem": "Exclusión social en infraestructura, evidenciada en locales comunales deteriorados en los cerros y una brecha digital que restringe el rendimiento escolar en los asentamientos humanos.",
+            "objective": "Refaccionar locales comunales instalando internet gratis para niños y construir una red de complejos polideportivos descentralizados.",
+            "goal": "Rehabilitación de doce locales comunales de zonas altas y entrega de tres complejos polideportivos iluminados.",
+            "indicator": "Cantidad de locales comunales multifuncionales interconectados con banda ancha."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desarticulación turística por carencia de circuitos turísticos señalizados e integrados, mal estado de malecones y desorden comercial playero.",
+            "objective": "Diseñar la 'Ruta Turística al Boquerón y Naplo', remodelar malecones e implementar el sistema integrado de Ecobús Municipal.",
+            "goal": "Renovación urbana de 1.5 kilómetros de malecón, activación de dos ecobuses y certificación del cien por ciento de restaurantes en inocuidad.",
+            "indicator": "Metros lineales de malecón modernizados e intervenciones de ordenamiento en la bahía."
+          },
+          {
+            "problem": "Estancamiento pesquero por ausencia de soporte técnico, crediticio y de seguros para el sector de la pesca artesanal en el desembarcadero.",
+            "objective": "Institucionalizar la Mesa Técnica de la Pesca, dictar capacitaciones y gestionar líneas de financiamiento con FONDEPES y seguros marítimos.",
+            "goal": "Lograr que el ochenta por ciento del padrón activo de pescadores acceda a financiamiento para motores, aparejos y pólizas de protección.",
+            "indicator": "Porcentaje de pescadores artesanales cubiertos por programas de crédito o seguros de vida."
+          },
+          {
+            "problem": "Desconexión laboral manifestada en una alta tasa de desempleo juvenil, mientras las empresas de la zona industrial contratan mano de obra foránea por falta de nexos.",
+            "objective": "Firmar convenios de empleabilidad preferente con la zona industrial, vinculados a los egresados certificados de la oferta técnica distrital.",
+            "goal": "Inserción laboral preferente formalizada de un mínimo de 1,500 jóvenes locales en empresas del parque industrial.",
+            "indicator": "Número de jóvenes técnicos pucusaneños insertados anualmente en planillas industriales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Emergencia sanitaria hídrica por desabastecimiento crónico de agua potable por red pública y alcantarillado en los asentamientos humanos periféricos.",
+            "objective": "Liderar ante el Ejecutivo la viabilización territorial y técnica de la Planta Desalinizadora de Agua para Pucusana y conformar cuadrilla de redes.",
+            "goal": "Lograr el cien por ciento de viabilidad y puesta en marcha de la planta desalinizadora y redes secundarias en zonas formalizadas.",
+            "indicator": "Porcentaje de avance de la infraestructura mayor de desalinización y redes complementarias."
+          },
+          {
+            "problem": "Informalidad de la propiedad por ausencia de un catastro urbano integrado que atrasa el saneamiento físico-legal y los títulos de propiedad en los asentamientos humanos.",
+            "objective": "Ejecutar el levantamiento del primer catastro distrital informático y formular el Plan de Desarrollo Urbano Sostenible (PDUS) para titulación masiva.",
+            "goal": "Cien por ciento del territorio catastrado digitalmente y reducción del setenta por ciento de la brecha de informalidad predial junto a COFOPRI.",
+            "indicator": "Porcentaje de predios urbanos y rurales del distrito catastrados digitalmente y regularizados."
+          },
+          {
+            "problem": "Contaminación urbana y marina, con botaderos informales de desmonte, vertimientos clandestinos en la bahía y deficiente recojo de basura.",
+            "objective": "Modernizar la limpieza pública con camiones y contenedores subterráneos, arborizar ingresos e inspeccionar el mar junto a la Capitanía.",
+            "goal": "Instalación de un mínimo de seis islas de contenedores subterráneos y plantación de 5,000 árboles bajo el plan 'Adopta un Árbol'.",
+            "indicator": "Número de islas de contenedores subterráneos operando y cantidad de árboles forestados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Centralismo municipal debido a la concentración total de oficinas en el casco antiguo, lo que obliga a traslados costosos al ciudadano de zonas altas.",
+            "objective": "Descentralizar la atención municipal abriendo sedes fijas de las áreas de Rentas, Desarrollo Urbano, Fiscalización y Transporte en los asentamientos humanos.",
+            "goal": "Dos agencias municipales descentralizadas plenamente operativas en los sectores demográficamente más densos de la periferia.",
+            "indicator": "Número de agencias municipales periféricas operando de forma interconectada."
+          },
+          {
+            "problem": "Inseguridad y bajos efectivos, con altos índices de robos, serenazgo centralizado y una comisaría local desabastecida de personal táctico.",
+            "objective": "Instalar cinco centros de operaciones descentralizados, control por GPS de unidades y mototaxis, y gestionar la elevación de la comisaría a Tipo B.",
+            "goal": "Cinco bases de operaciones funcionales con cámaras de lectura de placas y ampliación formal lograda a 120 efectivos policiales.",
+            "indicator": "Número de bases tácticas operativas de serenazgo y cantidad de efectivos policiales fijos asignados."
+          },
+          {
+            "problem": "Burocracia e instrumentos obsoletos, con trámites manuales lentos bajo un ROF/TUPA desactualizado que propicia la informalidad comercial.",
+            "objective": "Actualizar integralmente el ROF y TUPA municipal, implementando la digitalización de trámites bajo el enfoque de expediente electrónico.",
+            "goal": "Cien por ciento de vigencia de los nuevos instrumentos administrativos y reducción en un setenta por ciento de los plazos de tramitación vecinal.",
+            "indicator": "Tiempo promedio de respuesta en días para la emisión de licencias y digitalización del TUPA."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-QqpSafT2CrIod6tFExvPyxh5QIiNfOf_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/QqpSafT2CrIod6tFExvPyxh5QIiNfOf_",
+      "sha256": "198eca5f7bab09255fe3a8d8705d28a0fea8dc31932a546128a4fb7147dc5fbd",
+      "accessedAt": "2026-10-02T23:00:31.394Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023252",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023252",
+      "sha256": "996248995cb88bcfaa93bfb4794ac7d8de6c190cb1fb23fcc9086c1a61eb43c5",
+      "accessedAt": "2026-10-02T23:00:31.932Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

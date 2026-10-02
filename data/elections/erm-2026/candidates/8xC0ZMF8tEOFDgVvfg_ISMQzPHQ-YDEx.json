@@ -1,0 +1,303 @@
+{
+  "id": "8xC0ZMF8tEOFDgVvfg_ISMQzPHQ-YDEx",
+  "slug": "isabel-del-rocio-ayala-melgarejo",
+  "electionId": "erm-2026",
+  "name": "Isabel Del Rocio Ayala Melgarejo",
+  "givenNames": "Isabel Del Rocio",
+  "surnames": "Ayala Melgarejo",
+  "age": 38,
+  "gender": "Femenino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:20.817Z",
+      "sourceId": "jne-hv-8xC0ZMF8tEOFDgVvfg_ISMQzPHQ-YDEx"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "LICENCIADA EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "ADMINISTRACIÓN Y GERENCIA SOCIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+      "role": "GERENTE DE DESARROLLO HUMANO",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA",
+      "role": "GERENTE DE DESARROLLO HUMANO Y SOCIAL",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE COMAS",
+      "role": "SUBGERENTE DE COMPLEMENTACIÓN ALIMENTARIA",
+      "from": "2019",
+      "to": "2019"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE COMAS",
+      "role": "ESPECIALISTA DE COOPERACIÓN TÉCNICA NACIONAL E INTERNACIONAL",
+      "from": "2019",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "VICTORIA NACIONAL",
+      "year": "2021"
+    },
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2019"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 205600,
+        "public": 205600,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 161000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 25000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 71500
+      },
+      {
+        "type": "AUTOMOVIL",
+        "value": 43750
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/cf303799-939a-4ccf-a53e-48e4d388ed9a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4599a7dd-2a1a-4cee-b545-67fa63a2b4f8.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Creciente inseguridad ciudadana en el distrito, reflejada en un alto índice de robos, extorsiones y sicariato ligados a bandas organizadas.",
+            "objective": "Reducir los índices de inseguridad y fortalecer la capacidad de respuesta ante el delito de manera oportuna en el distrito.",
+            "goal": "Incrementar en 100% la capacidad operativa del serenazgo, adquirir chalecos antibalas, lograr que el 100% de unidades móviles realicen patrullaje integrado, gestionar un convenio con la PNP, implementar la conexión de la central de operaciones con la central 105, tener el 100% de cámaras de videovigilancia operativas, recuperar el 100% de espacios públicos abandonados y gestionar el alumbrado público del 100% de las vías del distrito.",
+            "indicator": "Servicio de patrullaje integrado, sistema de videovigilancia con analítica de datos, centrales de emergencia interconectadas y recuperación de espacios públicos críticos."
+          },
+          {
+            "problem": "Alta vulnerabilidad frente a sismos, incendios y deslizamientos, especialmente en zonas altas y sectores con viviendas tugurizadas.",
+            "objective": "Promover la gestión del riesgo de desastres de manera integral para reducir la vulnerabilidad de la población ante la ocurrencia de sismos y fenómenos naturales en el distrito.",
+            "goal": "Actualizar el mapa de microzonificación sísmica, implementar 4 zonas de refugio temporal y capacitar al 100% de instituciones públicas y privadas en temas de seguridad y prevención de riesgos.",
+            "indicator": "Estudio de evaluación de riesgos y mapa de microzonificación del distrito, implementación de refugios temporales y capacitación continua en medidas de seguridad."
+          },
+          {
+            "problem": "El distrito no cuenta con un velatorio municipal digno y a costo social.",
+            "objective": "Mejorar las condiciones de vida de la población vulnerable.",
+            "goal": "Crear el velatorio municipal.",
+            "indicator": "Servicio de asistencia social integral accesible para la comunidad."
+          },
+          {
+            "problem": "Inseguridad alimentaria moderada y severa que afecta a un gran porcentaje de la población, reflejada en altas tasas de anemia y desnutrición crónica infantil.",
+            "objective": "Promover el desarrollo humano, la seguridad alimentaria y la participación democrática de las Organizaciones Sociales de Base (OSB) en el distrito.",
+            "goal": "Capacitar con talleres de emprendimiento al 100% de las OSB y equipar al 100% de las OSB con equipos de cocina.",
+            "indicator": "Fortalecimiento de las capacidades de las OSB."
+          },
+          {
+            "problem": "Personas con discapacidad no tienen acceso a locales municipales y a espacios públicos.",
+            "objective": "Promover el desarrollo humano e inclusión social con igualdad de oportunidades para la población.",
+            "goal": "Implementar accesos para personas con discapacidad (rampas) al 100% en locales institucionales y espacios públicos.",
+            "indicator": "Adecuación de la infraestructura pública urbana, como rampas y accesos a edificios y espacios públicos."
+          },
+          {
+            "problem": "Asentamientos humanos que no cuentan con servicios básicos esenciales.",
+            "objective": "Mejorar las condiciones de habitabilidad en el distrito, con énfasis en la población de los asentamientos humanos y zonas vulnerables.",
+            "goal": "Implementar el Programa Agua de Emergencia a fin de dotar de agua al 100% de los asentamientos humanos que aún no tienen acceso a dicho recurso.",
+            "indicator": "Incremento del acceso a servicios de agua para la población."
+          },
+          {
+            "problem": "Déficit en infraestructura deportiva, lo que pone en riesgo a los adolescentes y jóvenes de caer en el pandillaje y el consumo de drogas.",
+            "objective": "Promover el desarrollo humano y estilos de vida saludables en la población del distrito.",
+            "goal": "Mantener el 100% de la infraestructura deportiva, implementar el campeonato Interescolar Copa Ciudad del Rímac y el mundialito del Rímac.",
+            "indicator": "Mejora de la infraestructura deportiva y organización de torneos e iniciativas de integración comunitaria."
+          },
+          {
+            "problem": "Bajos niveles de calidad en la oferta educativa pública y privada, y carencia de una mayor oferta cultural.",
+            "objective": "Mejorar el acceso y la calidad de los servicios educativos y promover la identidad cultural y la puesta en valor del patrimonio.",
+            "goal": "Gestionar convenios para mejorar la infraestructura de colegios, crear la Cuna Municipal, implementar el programa CRECE RÍMAC, crear la Academia Municipal y realizar talleres culturales y pasacalles festivos.",
+            "indicator": "Mantenimiento y equipamiento de infraestructura educativa, capacitación y becas de estudio, y programas de promoción artística y cultural."
+          },
+          {
+            "problem": "Insuficiente oferta de atención de salud para mascotas, falta de espacios públicos para su recreación y deficiente cultura de tenencia responsable.",
+            "objective": "Promover la salud preventiva, la vigilancia sanitaria y el bienestar animal en los espacios públicos del distrito.",
+            "goal": "Crear un albergue de mascotas, implementar tarifas sociales para animales rescatados, capacitar en tenencia responsable de mascotas al 100% de colegios y juntas vecinales, e implementar espacios públicos acondicionados en el 50% de los parques del distrito.",
+            "indicator": "Mejoramiento de la oferta de servicios para las mascotas y capacitación en tenencia responsable."
+          },
+          {
+            "problem": "Insuficiente capacidad de los servicios de salud del MINSA y EsSalud para cubrir la demanda de la población, con un gran porcentaje sin cobertura.",
+            "objective": "Promover la salud preventiva y los estilos de vida saludable en la población del distrito.",
+            "goal": "Repotenciar y mejorar la oferta de servicios del Policlínico del Rímac, implementar tarifas sociales y preferenciales, implementar el Programa de Salud Mental y gestionar convenios con MINSA y ESSALUD.",
+            "indicator": "Servicio de atención médica primaria de fácil acceso en el distrito."
+          },
+          {
+            "problem": "Alto índice de anemia en la población adulta mayor y primera infancia.",
+            "objective": "Prevenir y controlar la anemia y la desnutrición crónica en la población.",
+            "goal": "Implementar el Programa de Complementación Nutricional para combatir la anemia infantil y en adultos mayores.",
+            "indicator": "Prevención y control de anemia y desnutrición crónica infantil y en adultos mayores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta cifra de desempleo e informalidad laboral, con 7 de cada 10 personas en trabajos informales, caracterizados por la falta de protección social y baja productividad.",
+            "objective": "Incrementar el nivel de formalidad de las unidades económicas (Mypes y Pymes) e impulsar el ecosistema de emprendimiento e innovación local.",
+            "goal": "Implementar una plataforma de Ventanilla Única para licencias, realizar campañas de formalización, ofrecer capacitación y asesoría técnica gratuita para la constitución de empresas, crear un centro de capacitación empresarial y realizar ferias comerciales temáticas.",
+            "indicator": "Agilización en la emisión de licencias de funcionamiento, fomento del emprendimiento local y desarrollo de nuevos canales de venta."
+          },
+          {
+            "problem": "Estancamiento económico y social debido a la pérdida de oportunidades turísticas, afectando la generación de ingresos y empleo.",
+            "objective": "Incrementar el valor y la competitividad de los recursos turísticos del distrito mediante la creación de nuevos productos y la mejora de la infraestructura de soporte.",
+            "goal": "Implementar rutas peatonales y gastronómicas, realizar ferias gastronómicas, poner en valor los recursos turísticos, implementar plataformas digitales y capacitar a hoteles, restaurantes y artesanos.",
+            "indicator": "Diseño de rutas temáticas, implementación de estrategias de marketing y capacitación a prestadores de servicios turísticos."
+          },
+          {
+            "problem": "Desarrollo urbano desordenado y proceso de densificación vertical sin un planeamiento técnico adecuado, generando conflictos de infraestructura y convivencia social.",
+            "objective": "Promover un desarrollo urbano planificado, sostenible, seguro e inteligente en beneficio de la población del distrito.",
+            "goal": "Aprobar el Plan de Desarrollo Urbano Distrital, actualizar el catastro, gestionar convenios con COFOPRI para la formalización de propiedades, mejorar el 100% de áreas verdes, implementar luces LED en parques, mejorar la red de ciclovías y consolidar la infraestructura tecnológica para una ciudad inteligente (SMART CITY).",
+            "indicator": "Instrumento de gestión urbana, saneamiento físico legal, mejoramiento de áreas verdes, infraestructura vial y peatonal, y despliegue de redes de sensores (IoT)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación sonora y atmosférica generada por el caos vehicular y el desorden de los comercios.",
+            "objective": "Fortalecer la fiscalización y el monitoreo de la calidad ambiental en el distrito.",
+            "goal": "Realizar operativos para reducir la contaminación sonora y controlar las emisiones de humos y gases de actividades comerciales, intervenir vehículos contaminantes e implementar estaciones de monitoreo del aire en puntos de alta congestión.",
+            "indicator": "Monitoreo y control de emisiones de ruido y agentes contaminantes en el distrito."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos, evidenciada en la existencia de centros de acopio informales y suciedad en vías y veredas.",
+            "objective": "Mejorar la gestión integral de residuos sólidos en beneficio de la población del distrito.",
+            "goal": "Implementar un sistema de mejoramiento del servicio de recolección para tener la ciudad 100% limpia, realizar campañas de sensibilización, eliminar centros de acopio informales, implementar un nuevo programa de segregación y adquirir equipamiento estratégico para la limpieza.",
+            "indicator": "Mejora del sistema de recolección de residuos, implementación de un servicio de recolección de desmonte, fortalecimiento del programa de segregación en la fuente y mejora del programa de limpieza pública."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de procedimientos administrativos complejos y falta de estandarización en la prestación de servicios, afectando la calidad de la atención al ciudadano.",
+            "objective": "Implementar la gestión por procesos, la simplificación administrativa y la mejora continua para elevar el nivel de satisfacción del ciudadano.",
+            "goal": "Implementar al 100% la gestión por procesos, actualizar los instrumentos de gestión municipal (ROF, CAP, POI, TUPA), implementar la norma ISO 9001 de gestión de la calidad y el Sistema de Gestión de Calidad para estandarizar procedimientos.",
+            "indicator": "Simplificación de procesos, modernización operativa y automatización y estandarización de procesos."
+          },
+          {
+            "problem": "Alta percepción ciudadana de ineficiencia, corrupción, burocracia y obsolescencia tecnológica en la gestión municipal.",
+            "objective": "Modernizar la gestión municipal mediante la adopción de tecnologías eficientes y fortalecer las competencias del talento humano para asegurar una gestión orientada al ciudadano.",
+            "goal": "Implementar el sistema de gestión documental digital (cero papel), sistemas de pago en línea, la plataforma virtual 'Rímac Compra' y un sistema de capacitación por niveles para el personal municipal.",
+            "indicator": "Transformación digital y de fácil acceso al vecino, y profesionalización del servidor público."
+          },
+          {
+            "problem": "Riesgos de corrupción en la gestión municipal que afectan la confianza ciudadana y el uso de recursos públicos.",
+            "objective": "Promover la integridad institucional y prevenir actos de corrupción en la gestión municipal en beneficio de la ciudadanía.",
+            "goal": "Implementar y certificar la norma ISO 37001 – Sistemas de Gestión Antisoborno e implementar canales de denuncia con relación a actos de corrupción.",
+            "indicator": "Capacidad preventiva contra la corrupción."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-8xC0ZMF8tEOFDgVvfg_ISMQzPHQ-YDEx",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/8xC0ZMF8tEOFDgVvfg_ISMQzPHQ-YDEx",
+      "sha256": "34fe4cac3e2a200edf25e80e3d8b51416ae13204da4262cde7e3822c46c1659a",
+      "accessedAt": "2026-10-02T23:02:20.817Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016341",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016341",
+      "sha256": "e73b7b006151982b1d2eefc4d7eb1ce12613ff62da7ed4917721a48fede62031",
+      "accessedAt": "2026-10-02T23:02:21.305Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

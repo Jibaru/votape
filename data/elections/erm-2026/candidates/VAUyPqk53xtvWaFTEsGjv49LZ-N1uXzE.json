@@ -1,0 +1,299 @@
+{
+  "id": "VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE",
+  "slug": "roberto-carlos-pizarro-lopez",
+  "electionId": "erm-2026",
+  "name": "Roberto Carlos Pizarro Lopez",
+  "givenNames": "Roberto Carlos",
+  "surnames": "Pizarro Lopez",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:22.326Z",
+      "sourceId": "jne-hv-VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "I.S.T. ANTENOR ORREGO ESPINOZA",
+        "program": "INDUSTRIAS ALIMENTARIAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad José Carlos Mariátegui",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad José Carlos Mariátegui",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "GESTIÓN PÚBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ASESORIA",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "CORPORACIÓN E Y R S.A.C.S.",
+      "role": "EMPLEADO",
+      "from": "2023",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2023"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 24000,
+        "public": 0,
+        "private": 24000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "PEUGEOT",
+        "value": 7000
+      },
+      {
+        "type": "PEUGEOT",
+        "value": 6000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "SE CONTÓ CON LA EMPRESA \"REPRESENTACIONES PIZARRO E.I.R.L.\", LA CUAL SE ENCUENTRA DE BAJA DE OFICIO EN LA SUNAT DESDE EL 31/01/2025."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6ad3bfd6-5d3f-4bd5-957f-18186ea23fc0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a6d3d712-82c8-4b3c-8825-9f9eaf750798.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana que afecta al 85% de los residentes del distrito de Chorrillos.",
+            "objective": "Mejorar la seguridad ciudadana mediante el uso de tecnología de última generación, la prevención del delito y el trabajo colaborativo con la Policía Nacional del Perú, juntas vecinales y la comunidad organizada.",
+            "goal": "Erradicar la delincuencia y consolidar un distrito seguro, ordenado y tecnológico, garantizando la tranquilidad de los vecinos.",
+            "indicator": "Implementación de un modelo de seguridad descentralizado con ocho bases operativas, instalación de cámaras inteligentes con reconocimiento facial y modernización de los Centros de Asistencia Rápida (CAR)."
+          },
+          {
+            "problem": "Insuficiente infraestructura deportiva y programas orientados al desarrollo de la juventud.",
+            "objective": "Fomentar el deporte y el desarrollo juvenil mediante la creación de una escuela de alto rendimiento, la recuperación de espacios deportivos y la implementación de programas de rehabilitación para jóvenes.",
+            "goal": "Promover la práctica de diversas disciplinas deportivas en todas las categorías y rehabilitar a la juventud mediante programas de orientación y capacitación laboral.",
+            "indicator": "Creación de la Escuela de alto rendimiento Municipal del Deporte, recuperación de campos deportivos con grass natural y sintético, y desarrollo de programas psicológicos y de capacitación."
+          },
+          {
+            "problem": "Carencias en la calidad y cobertura del sistema educativo, especialmente en la formación técnico-productiva.",
+            "objective": "Mejorar la calidad educativa, incrementar la cobertura de la educación técnico-productiva y fomentar la educación en poblaciones de escasos recursos.",
+            "goal": "Asegurar una oferta de educación técnico-productiva de calidad, articulada a las demandas del desarrollo local y nacional, y fortalecer la cohesión social.",
+            "indicator": "Creación de un programa de becas y medias becas, firma de convenios con institutos y universidades, e implementación de videotecas con equipos informáticos modernos."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud integrales y de calidad en el distrito.",
+            "objective": "Implementar y modernizar el Complejo Asistencial de Salud (Clínica Municipal) y ampliar la prestación de servicios de salud a través de campañas integrales.",
+            "goal": "Brindar especialidades médicas básicas y ampliar progresivamente la oferta, garantizando la prestación de servicios de salud integrales en todo el distrito.",
+            "indicator": "Capacitación del personal y modernización del equipamiento del Complejo Asistencial, creación de programas de saneamiento ambiental y promoción de estilos de vida saludables."
+          },
+          {
+            "problem": "Falta de espacios y programas específicos para la protección y desarrollo de mujeres y adultos mayores.",
+            "objective": "Mejorar la calidad de vida de las mujeres y adultos mayores, promoviendo sus derechos y ofreciendo espacios para su desarrollo integral.",
+            "goal": "Promover relaciones equitativas y garantizar que las mujeres ejerzan plenamente sus derechos, así como ofrecer a los adultos mayores un espacio para actividades de interrelación, sociales y culturales.",
+            "indicator": "Creación de la casa de la mujer, modernización de la casa del adulto mayor y ofrecimiento de atención psicológica, social y jurídica para mujeres en situación de violencia."
+          },
+          {
+            "problem": "Oferta cultural, artística y recreativa limitada para el desarrollo integral de la comunidad.",
+            "objective": "Posicionar a Chorrillos como un centro cultural de alcance metropolitano, promoviendo actividades que valoren la tradición e identidad del distrito.",
+            "goal": "Mejorar el desarrollo humano de los ciudadanos a través de una amplia oferta de actividades de formación, capacitación y recreación para todas las edades.",
+            "indicator": "Creación de la casa municipal de cultura, arte y danza, del circuito turístico distrital y del museo histórico de Chorrillos."
+          },
+          {
+            "problem": "Gestión deficiente de la limpieza pública, manejo de residuos sólidos y contaminación por cables en desuso.",
+            "objective": "Optimizar el servicio de limpieza pública a través de la revalorización de residuos, la gestión de cables en desuso, la renovación del parque automotriz y la instalación de contenedores.",
+            "goal": "Garantizar la sostenibilidad ambiental, mantener la limpieza permanente de parques y jardines, y ofrecer un servicio de atención de limpieza las 24 horas.",
+            "indicator": "Implementación del programa de reciclaje \"En Chorrillos la Basura Sirve\", renovación de la flota de vehículos municipales y creación de centros de acopio para recicladores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo crecimiento empresarial, alta informalidad comercial y dificultades en la promoción del empleo local.",
+            "objective": "Impulsar el desarrollo comercial y la promoción del empleo a través de alianzas estratégicas, la formalización del comercio y la simplificación de trámites municipales.",
+            "goal": "Fomentar el crecimiento empresarial sostenible, formalizar el comercio y generar puestos de trabajo en diversos sectores productivos del distrito.",
+            "indicator": "Creación de proyectos de formalización para microempresarios, simplificación del trámite de licencias de funcionamiento y firma de convenios con institutos técnicos para la capacitación laboral."
+          },
+          {
+            "problem": "Adopción insuficiente de innovación y nuevas tecnologías para el desarrollo económico y social.",
+            "objective": "Fomentar la investigación científica y la adopción de nuevas tecnologías en todos los campos del saber humano y en el desarrollo de negocios.",
+            "goal": "Promover la adaptación de nuevas tecnologías para impulsar el desarrollo de los negocios y mejorar la seguridad ciudadana.",
+            "indicator": "Implementación de tecnología de videovigilancia con participación vecinal y desarrollo de acciones dirigidas al ciudadano emprendedor e innovador."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acceso limitado a una vivienda digna y cobertura incompleta de servicios básicos como agua y desagüe.",
+            "objective": "Mejorar y ampliar el acceso a servicios públicos básicos y promover programas de mejoramiento de vivienda para la población.",
+            "goal": "Alcanzar la cobertura total al 100% de los servicios de agua y desagüe y mejorar las condiciones de habitabilidad de los vecinos de escasos recursos.",
+            "indicator": "Implementación del Programa Techo Propio Municipal, promoción del programa \"Chorrillos Moderno\" para el mejoramiento de fachadas y coordinación para la ampliación de servicios de agua y luz."
+          },
+          {
+            "problem": "Deterioro y falta de mantenimiento de los espacios públicos, áreas verdes y zonas de recreación.",
+            "objective": "Recuperar, habilitar y reservar áreas verdes para fines de recreación, así como remodelar y mantener los parques emblemáticos del distrito.",
+            "goal": "Elevar el balance ambiental del distrito y promover un entorno ambientalmente sostenible, reduciendo los niveles de contaminación del aire, agua y suelo.",
+            "indicator": "Implementación de un plan de remodelación de parques y mantenimiento general de áreas verdes, y fortalecimiento de la fiscalización del cumplimiento de la normativa ambiental."
+          },
+          {
+            "problem": "Carencia de planificación urbana sostenible y déficit en la infraestructura vial y de servicios.",
+            "objective": "Desarrollar un programa de proyectos de inversión pública para un desarrollo urbano sostenible y ejecutar con prioridad obras de infraestructura vial, peatonal y de señalización.",
+            "goal": "Lograr un desarrollo urbano ordenado y sostenible, mejorando la infraestructura de servicios para la ciudad.",
+            "indicator": "Ejecución de un programa de inversión en infraestructura urbana, económica, cultural y social, y priorización de obras de infraestructura vial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Mecanismos insuficientes para la participación ciudadana en las decisiones públicas y falta de transparencia en la gestión municipal.",
+            "objective": "Impulsar la participación ciudadana, fortalecer la capacidad de fiscalización y garantizar la transparencia de la información pública y la rendición de cuentas.",
+            "goal": "Lograr un gobierno municipal fiscalmente responsable e inclusivo, fortaleciendo la confianza ciudadana a través de la transparencia y la participación activa.",
+            "indicator": "Implementación de mecanismos de rendición de cuentas a través de audiencias públicas y formulación de presupuestos participativos."
+          },
+          {
+            "problem": "Administración municipal no modernizada que resulta en procesos burocráticos, lentos y poco eficientes.",
+            "objective": "Modernizar la administración municipal para mejorar la capacidad de gestión, eficiencia, calidad de los servicios y celeridad en la atención de trámites.",
+            "goal": "Mejorar significativamente la eficiencia y calidad de los servicios municipales, asegurando la celeridad en la atención de trámites a través de la digitalización completa.",
+            "indicator": "Implementación de una municipalidad con trámites al 100% virtuales y del Sistema Digital de Quejas y Sugerencias a los Servicios Municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-138667",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: VIOLENCIA FAMILIAR",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "VIOLENCIA FAMILIAR",
+        "juzgado": "1ER JUZGADO DE PAZ DE LETRADO DE FAMILIA",
+        "expediente": "00218-2014-0-1816",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "VIOLENCIA FAMILIAR",
+      "sourceIds": [
+        "jne-hv-VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-138666",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "1ER JUZGADO DE PAZ LETRADO FAMILIAR",
+        "expediente": "01420-2018-0-3005",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE",
+      "sha256": "38a9ff4d8a5f8841de13260549388177bec4a40bbf1eed4eabfb5166aa8338ca",
+      "accessedAt": "2026-10-02T22:54:22.326Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016354",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016354",
+      "sha256": "f05f28b030619c2cef5e245d83d02099024d62f5a0a6914af1258d14e0e19851",
+      "accessedAt": "2026-10-02T22:54:22.801Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

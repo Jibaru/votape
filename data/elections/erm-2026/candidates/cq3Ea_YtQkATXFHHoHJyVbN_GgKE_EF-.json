@@ -1,0 +1,331 @@
+{
+  "id": "cq3Ea_YtQkATXFHHoHJyVbN_GgKE_EF-",
+  "slug": "david-andres-morales-cardenas",
+  "electionId": "erm-2026",
+  "name": "David Andres Morales Cardenas",
+  "givenNames": "David Andres",
+  "surnames": "Morales Cardenas",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:07.777Z",
+      "sourceId": "jne-hv-cq3Ea_YtQkATXFHHoHJyVbN_GgKE_EF-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "FREDERICK WINSLOW TAYLOR",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "ISTP VILLA MARIA",
+        "program": "COMPUTACION E INFORMATICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CAMILA SOLUTION S.A.C",
+      "role": "GERENTE GENERAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MEDIA LED S.A.C",
+      "role": "GERENTE GENERAL",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE COMAS",
+      "role": "COORDINADOR GENERAL DE ORNATO",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "role": "ASISTENTE ADMINISTRATIVO",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "TECNICO PARLAMENTARIO",
+      "from": "2020",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL DE VILLA MARIA DEL TRIUNFO",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2024"
+    },
+    {
+      "position": "SECRETARIO PROVINCIAL DE PLAN DE GOBIERNO DE LIMA METROPOLITANA",
+      "party": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2023"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 32402,
+        "public": 0,
+        "private": 32402
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "VOLKSWAGEN ESCARABAJO",
+        "value": 1000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "MEDIA LED S.A.C",
+        "type": "ACCIONES",
+        "quantity": 140,
+        "value": 1400
+      }
+    ]
+  },
+  "additionalInfo": [
+    "FiGURO COMO ACCIONISTA DE CONSORCIO ACUICOLA JUAN FANINS.AC. CON RUC PERO FIGURA CON BAJA DE OFICIO"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f6071534-81d3-4714-a6dd-cbfea542a974.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fd2f7c3b-b237-4551-b64b-2796c321216a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, manifestada en robos callejeros, extorsiones, drogadicción, pandillas y homicidios, lo que ha generado cambios en la vida cotidiana de los habitantes.",
+            "objective": "Desarrollar acciones para prevenir delitos y faltas que afecten la seguridad ciudadana en coordinación con las diferentes instituciones públicas.",
+            "goal": "Reducir en un 80% las incidencias de delitos y faltas que afectan la inseguridad ciudadana.",
+            "indicator": "Porcentaje de incidencia de delitos."
+          },
+          {
+            "problem": "Aproximadamente 374,314 habitantes del distrito se encuentran en muy alto riesgo sísmico debido a edificaciones precarias en laderas y suelos con escasa capacidad portante.",
+            "objective": "Mejorar y sostener la Gestión de Riesgo de Desastre con enfoque territorial.",
+            "goal": "Mejorar en un 70% la Gestión de Riesgo de Desastre de poblaciones expuestas.",
+            "indicator": "Número de personas capacitadas en gestión de riesgo de desastre."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y con limitada planificación, ocupando áreas sin condiciones básicas para ser habitadas, lo que genera una brecha de infraestructura y un alto costo en la inversión.",
+            "objective": "Priorizar la atención de demandas de habilitaciones urbanas en zonas habitadas que cuentan con servicios básicos, con la finalidad de ejecutar proyectos de inversión pública orientada al cierre de brechas de infraestructura.",
+            "goal": "Regularizar el saneamiento físico legal de los programas sociales del distrito.",
+            "indicator": "Número de licencias de habilitación urbana otorgadas."
+          },
+          {
+            "problem": "Inexistencia de un centro de atención municipal para la esterilización de mascotas, lo que contribuye a la sobrepoblación de animales en situación de calle y a problemas de salud pública.",
+            "objective": "Controlar la tasa de natalidad canina y felina a través del servicio de esterilización responsable.",
+            "goal": "Reducir la tasa de natalidad de mascotas.",
+            "indicator": "Tasa de natalidad canina y felina."
+          },
+          {
+            "problem": "Altos niveles de inactividad física en adolescentes y adultos, y espacios públicos que no cumplen con la infraestructura necesaria para la práctica deportiva y recreativa, además del abandono de locales deportivos.",
+            "objective": "Implementar y/o mejorar espacios públicos de jurisdicción municipal para la práctica de las principales actividades deportivas y recreativas.",
+            "goal": "Incrementar infraestructura activa y programas permanentes.",
+            "indicator": "Número de espacios para el desarrollo de actividades deportivas."
+          },
+          {
+            "problem": "Limitada integración operativa entre Serenazgo, Fiscalización, Gestión del Riesgo y entidades externas como PNP y bomberos, generando respuestas fragmentadas frente al delito, violencia y emergencias.",
+            "objective": "Implementar el C4-VMT (Centro de Comando, Control, Comunicaciones y Computación) como plataforma distrital de interoperabilidad, articulando Serenazgo, Fiscalización, Transporte, Gestión del Riesgo de Desastres, PNP, Bomberos y Juntas Vecinales.",
+            "goal": "Implementar progresivamente el C4-VMT y consolidar el sistema integrado distrital.",
+            "indicator": "Número de entidades y órganos integrados al sistema."
+          },
+          {
+            "problem": "Alta incidencia de violencia de género contra las mujeres, incluyendo acoso sexual, hostigamiento, violencia física y psicológica, trata de personas y feminicidio, junto a una escasa formulación de políticas con enfoque inclusivo.",
+            "objective": "Reducir la incidencia de cualquier tipo de violencia hacia la mujer.",
+            "goal": "Reducir en un 30% la incidencia de todo tipo de violencia hacia la mujer.",
+            "indicator": "Porcentaje de incidencia de violencia hacia la mujer."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Crecimiento de mototaxis informales que operan fuera de las áreas autorizadas, dificultando la trazabilidad, el control y la prevención de incidencias vinculadas a la seguridad ciudadana.",
+            "objective": "Implementar un programa integral de formalización, identificación y registro digital del servicio de mototaxis.",
+            "goal": "Formalizar y registrar tecnológicamente al 70% del parque de mototaxis del distrito.",
+            "indicator": "Porcentaje de mototaxistas formalizados y registrados."
+          },
+          {
+            "problem": "Zonas con potencial turístico como el Parque zonal “Flor de Amancaes”, el Mirador “Apu Siqay” y el Cementerio Virgen de Lourdes no se valoran económicamente.",
+            "objective": "Revalorizar las zonas turísticas que permitan reactivar la economía local.",
+            "goal": "Crear un circuito turístico atractivo para los vecinos y visitantes.",
+            "indicator": "Número de circuitos turísticos."
+          },
+          {
+            "problem": "Baja recaudación del Impuesto Predial, que en 2023 ascendió a solo S/ 15.2 millones, lo cual es un monto bajo considerando el tamaño y la cantidad de predios del distrito.",
+            "objective": "Fortalecer la gestión del impuesto predial.",
+            "goal": "Alcanzar mejores niveles de recaudación.",
+            "indicator": "Porcentaje de efectividad de la recaudación."
+          },
+          {
+            "problem": "La municipalidad registra una deuda total de 95,427 miles de soles, lo que sobrepasa su presupuesto y compromete su capacidad para brindar servicios eficientes y de calidad.",
+            "objective": "Establecer acuerdos de ajuste y responsabilidades fiscales para el control de la deuda de la entidad.",
+            "goal": "Reducir el saldo de la Deuda Fiscal en un 40% del valor actual (95,415 millones).",
+            "indicator": "Porcentaje de deuda fiscal."
+          },
+          {
+            "problem": "Falta de capacitación en plataformas digitales, gestión contable y dirección de empresas para los emprendedores, lo que conduce a la informalización o al fracaso de sus negocios.",
+            "objective": "Implementar un programa que fomente emprendimientos sostenibles, basados en incentivar el consumo del mercado local y el uso de diversas plataformas para el éxito de los negocios.",
+            "goal": "Tener un programa implementado que acompañe al emprendedor a ejecutar correctamente cada proceso de su modelo de negocio.",
+            "indicator": "Número de programas."
+          },
+          {
+            "problem": "Elevada tasa de informalidad laboral que alcanza al 70.7% de la población, incluyendo trabajo infantil y un comercio ambulatorio con aproximadamente 7000 participantes.",
+            "objective": "Fortalecer la seguridad integral y control municipal en mercados y zonas comerciales.",
+            "goal": "Lograr que el 100% de los mercados priorizados estén bajo el programa Mercado Seguro.",
+            "indicator": "Número de mercados intervenidos."
+          },
+          {
+            "problem": "Inexistencia de un programa municipal que articule la demanda laboral de los ciudadanos con la oferta de las empresas, generando insatisfacción en el 57.5% de los habitantes.",
+            "objective": "Implementar un programa que canalice oportunidades laborales en alianza con las empresas.",
+            "goal": "Implementar un programa para canalizar la formación y oferta laboral.",
+            "indicator": "Número de programas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, con acumulación de basura, aumento de recicladores informales y una deficiente implementación del programa de reaprovechamiento y disposición final.",
+            "objective": "Mejorar el programa de segregación de la fuente y recolección de residuos sólidos.",
+            "goal": "Mejorar en un 80% la ejecución del Programa de segregación en la fuente y recolección de residuos sólidos.",
+            "indicator": "Porcentaje de ejecución del programa."
+          },
+          {
+            "problem": "Las lomas costeras del distrito se encuentran expuestas a invasiones informales y riesgos de desastres, sin una gestión eficiente del recurso hídrico presente por la condensación ambiental.",
+            "objective": "Mejorar la gestión de captación del recurso hídrico natural del distrito para la reforestación natural de la zona.",
+            "goal": "Gestionar la cosecha de agua mediante la implementación de un sistema de atrapanieblas.",
+            "indicator": "Litros de agua cosechada por sistema de atrapanieblas."
+          },
+          {
+            "problem": "Ausencia de formulación y programación de inversiones para el servicio de limpieza pública que respondan de manera sistemática a las brechas identificadas y priorizadas por el sector ambiente.",
+            "objective": "Implementar proyectos de inversión del servicio de limpieza pública orientados a brindar un adecuado servicio.",
+            "goal": "Ejecutar un proyecto de inversión de servicios públicos.",
+            "indicator": "Número de proyectos de inversión ejecutados."
+          },
+          {
+            "problem": "Servicio deficiente de recojo de residuos sólidos, evidenciado en la acumulación de basura en avenidas principales y una falta de cultura ambiental en la población.",
+            "objective": "Mejorar la eficiencia del recojo de residuos sólidos.",
+            "goal": "Instalar en los puntos de gran acumulación de residuos sólidos islas de contenedores soterrados.",
+            "indicator": "Número de puntos de islas de contenedores soterrados instaladas."
+          },
+          {
+            "problem": "Contaminación del medioambiente a través de la acumulación de basura, procesos de reciclaje desordenados y emisiones de CO2, con desafíos pendientes para la implementación efectiva de políticas ambientales.",
+            "objective": "Diseñar e implementar políticas locales medioambientales para disminuir la contaminación del medioambiente.",
+            "goal": "Implementar tres políticas medioambientales.",
+            "indicator": "Número de políticas implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Antecedentes de corrupción sistematizada a nivel local, con un exalcalde sentenciado y la persistencia de alertas de integridad y deficiencias en procesos de contratación y ejecución de obras.",
+            "objective": "Prevenir actos de corrupción e irregularidades en la gestión pública.",
+            "goal": "Promover un manejo eficaz, eficiente y transparente de los recursos. Rendir cuentas mínimo una vez cada año.",
+            "indicator": "Número de actividades que promueve la transparencia e integridad en la gestión."
+          },
+          {
+            "problem": "Los procesos de gestión no han consolidado propuestas de gobierno abierto y electrónico, sin lograr la inclusión digital de las zonas vulnerables ni aprovechar la interoperabilidad del Estado.",
+            "objective": "Promover e implementar un gobierno abierto, electrónico y digital haciendo uso de las tecnologías de la información y comunicación para brindar un servicio eficiente y eficaz.",
+            "goal": "Ampliar el servicio de atención virtual, implementar nuevos servicios y generar respuestas más rápidas a los usuarios para descongestionar otros canales de atención.",
+            "indicator": "Número de personas atendidas de manera virtual."
+          },
+          {
+            "problem": "Débil gestión municipal articulada con otras entidades públicas, lo que limita la capacidad de acceder a proyectos en beneficio del distrito a través de la firma de convenios.",
+            "objective": "Fortalecer la coordinación interinstitucional para la ejecución de proyectos a través de convenios.",
+            "goal": "Lograr la gestión de convenios.",
+            "indicator": "Número de convenios."
+          },
+          {
+            "problem": "Los ciudadanos no acceden a la información pública por desinterés y por la ausencia de mecanismos accesibles, a pesar de la existencia de portales de transparencia cuya calidad informativa es deficiente.",
+            "objective": "Generar mecanismos de accesibilidad y transparencia de la información pública en el marco de la implementación de gobierno abierto.",
+            "goal": "Diseñar un portal web de fácil consulta sobre la gestión y servicios, así como un espacio virtual para recibir la opinión y sugerencia de los usuarios.",
+            "indicator": "Número de mecanismos de accesibilidad y transparencia."
+          },
+          {
+            "problem": "Desinterés de la gestión por implementar procesos innovadores que permitan entregar servicios eficientes, lo que requiere optimizar, formalizar y automatizar los procesos internos de la entidad.",
+            "objective": "Implementar procesos eficientes e innovadores en la gestión pública en base a estándares y buenas prácticas.",
+            "goal": "Tener tres buenas prácticas implementadas y reconocidas.",
+            "indicator": "Número de Buenas Prácticas."
+          },
+          {
+            "problem": "Deficiencias a nivel de procesos internos, baja productividad y casos de comisión de delitos por parte de servidores públicos, lo que evidencia la necesidad de mejorar la gestión y promover valores éticos.",
+            "objective": "Mejorar la gestión por procesos de la entidad y promover valores éticos.",
+            "goal": "Implementar las normas ISO 37001 (anti soborno) y 9001 (Gestión de calidad).",
+            "indicator": "Número de ISO implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cq3Ea_YtQkATXFHHoHJyVbN_GgKE_EF-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cq3Ea_YtQkATXFHHoHJyVbN_GgKE_EF-",
+      "sha256": "093572be1e65361bba06aa8279d358826cd14b5251614311cc5968cb0af3880c",
+      "accessedAt": "2026-10-02T23:07:07.777Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017944",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017944",
+      "sha256": "e64270b77c2cbda52649f144bcc241be35374bb3de87d1c809c42ecbed5701e2",
+      "accessedAt": "2026-10-02T23:07:08.329Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

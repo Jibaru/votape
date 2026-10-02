@@ -1,0 +1,333 @@
+{
+  "id": "orBKadWBlif0G1ys1rHQc8JNJ2__tdP4",
+  "slug": "joel-jose-nunez-mendoza",
+  "electionId": "erm-2026",
+  "name": "Joel Jose Nuñez Mendoza",
+  "givenNames": "Joel Jose",
+  "surnames": "Nuñez Mendoza",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:58.197Z",
+      "sourceId": "jne-hv-orBKadWBlif0G1ys1rHQc8JNJ2__tdP4"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "Instituto de educación Superior Técnologico Público Huaycan",
+        "program": "Computación e informática",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Integración Global S.A.C.",
+        "program": "INGENIERO CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Integración Global S.A.C.",
+        "program": "BACHILLER EN INGENIERIA CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Peruana de Integración Global S.A.C.",
+        "program": "Gestión Pública",
+        "completed": false,
+        "degree": null,
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad distrital Santiago de Surco",
+      "role": "Gerente de desarrollo urbano",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Municipalidad Distrital de Santiago de Surco",
+      "role": "Subgerente de Planeamiento Urbano y Catastro",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "Municipalidad Distrital de Santiago de Surco",
+      "role": "Subgerente de licencias y habilitación",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad distrital de San Antonio",
+      "role": "Subgerente de obras privadas",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad Distrital de Ate",
+      "role": "Subgerente de planificación urbana y catastro",
+      "from": "2021",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "PERSONERO TÉCNICO TITULAR",
+      "party": "MOVIMIENTO INDEPENDIENTE ATE A LA MODERNIDAD",
+      "from": "2013",
+      "to": "2015"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "MOVIMIENTO INDEPENDIENTE ATE A LA MODERNIDAD",
+      "from": "2013",
+      "to": "2015"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ORGANIZACIÓN POLÍTICA LOCAL DISTRITAL MOVIMIENTO INDEPENDIENTE ATE A LA MODERNIDAD",
+      "year": "2015"
+    },
+    {
+      "party": "ORGANIZACIÓN POLÍTICA LOCAL DISTRITAL MOVIMIENTO INDEPENDIENTE ATE A LA MODERNIDAD",
+      "year": "2015"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 165480,
+        "public": 165480,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "Color Plata",
+        "value": 70000
+      },
+      {
+        "type": "Moto Senda",
+        "value": 3000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Constructora inmobiliaria Invictos",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 5000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "Fui parte de la asociación El Portal El Sicaino en el año 2014 como secretario."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7929f521-9b9f-4a9a-870b-beb2624490f8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/95288d10-bd9f-49ce-aa8f-1fb8c0b50d57.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Violencia familiar, pandillaje y debilitamiento del tejido social.",
+            "objective": "Promover valores ciudadanos y prevenir la violencia mediante actividades culturales.",
+            "goal": "No se especifica.",
+            "indicator": "Funciones realizadas, participantes y talleres ejecutados."
+          },
+          {
+            "problem": "Atención municipal lenta y limitada capacidad de respuesta a las necesidades de los vecinos.",
+            "objective": "Modernizar la atención municipal mediante tecnología, inteligencia artificial y servicios digitales.",
+            "goal": "Convertir a Ate en referente de atención digital municipal.",
+            "indicator": "Trámites digitalizados, usuarios registrados, tiempo promedio de atención y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana y percepción de inseguridad en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana mediante el programa Ate Seguro 360°, incorporando tecnología, inteligencia artificial y patrullaje integrado.",
+            "goal": "Instalar 1,000 cámaras inteligentes y reducir progresivamente la percepción de inseguridad.",
+            "indicator": "Cámaras inteligentes instaladas, tiempo de respuesta del serenazgo y espacios recuperados."
+          },
+          {
+            "problem": "Déficit de espacios para el desarrollo de niños, jóvenes y adultos mayores.",
+            "objective": "Promover el envejecimiento activo y mejorar la calidad de vida de los adultos mayores.",
+            "goal": "No se especifica.",
+            "indicator": "Adultos mayores beneficiados, talleres ejecutados y nivel de satisfacción."
+          },
+          {
+            "problem": "Limitada accesibilidad e inclusión para personas con discapacidad.",
+            "objective": "Construir un distrito accesible e inclusivo para las personas con discapacidad.",
+            "goal": "No se especifica.",
+            "indicator": "Beneficiarios atendidos, espacios adaptados y programas implementados."
+          },
+          {
+            "problem": "Atención municipal lenta y limitada participación ciudadana.",
+            "objective": "Modernizar la atención municipal mediante Ate Digital 360° y fortalecer la participación vecinal.",
+            "goal": "Digitalizar el 80% de los trámites municipales y descentralizar la atención vecinal.",
+            "indicator": "Trámites digitalizados, usuarios registrados y audiencias realizadas."
+          },
+          {
+            "problem": "Limitada atención a poblaciones vulnerables y déficit de programas de inclusión social.",
+            "objective": "Implementar Ate Crece Contigo, Ate Sin Barreras, Ate Te Cuida y Casa del Adulto Mayor.",
+            "goal": "Beneficiar a más de 50,000 vecinos mediante programas sociales e inclusivos.",
+            "indicator": "Beneficiarios atendidos, programas implementados y actividades ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada promoción del potencial turístico, cultural y comercial del distrito.",
+            "objective": "Impulsar el turismo local, la identidad cultural y la dinamización económica del distrito.",
+            "goal": "No se especifica.",
+            "indicator": "Eventos realizados, visitantes registrados, emprendedores beneficiados y actividades culturales ejecutadas."
+          },
+          {
+            "problem": "Déficit de oportunidades laborales para jóvenes y población económicamente activa.",
+            "objective": "Promover oportunidades laborales y mejorar la empleabilidad de la población.",
+            "goal": "No se especifica.",
+            "indicator": "Personas capacitadas, beneficiarios incorporados al mercado laboral, convenios suscritos y oportunidades laborales gestionadas."
+          },
+          {
+            "problem": "Limitadas oportunidades para emprendedores y pequeños negocios.",
+            "objective": "Fortalecer el emprendimiento mediante Hecho en Ate y programas de desarrollo empresarial.",
+            "goal": "Beneficiar a 10,000 emprendedores durante la gestión.",
+            "indicator": "Emprendedores beneficiados, ferias realizadas y negocios formalizados."
+          },
+          {
+            "problem": "Limitada promoción turística, cultural y comercial del distrito.",
+            "objective": "Implementar Ate Destino Turístico y Cultural e Identidad Ateña y Orgullo Barrial.",
+            "goal": "Realizar eventos permanentes de promoción turística y cultural en todo el distrito.",
+            "indicator": "Eventos realizados, visitantes registrados y emprendedores beneficiados."
+          },
+          {
+            "problem": "Déficit de empleo y capacitación laboral para jóvenes y población económicamente activa.",
+            "objective": "Implementar la Red Distrital de Empleo, Academia Municipal de Oficios e Incubadora Municipal de Proyectos Juveniles.",
+            "goal": "Capacitar a 20,000 vecinos y facilitar oportunidades de inserción laboral.",
+            "indicator": "Personas capacitadas, empleos generados y convenios empresariales suscritos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de la calidad urbana y abandono de espacios públicos.",
+            "objective": "Implementar Ate Digno y Operación Barrio por Barrio para recuperar la dignidad urbana.",
+            "goal": "Intervenir progresivamente los sectores priorizados del distrito.",
+            "indicator": "Barrios intervenidos, espacios recuperados y vecinos beneficiados."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos y existencia de puntos críticos de contaminación.",
+            "objective": "Erradicar progresivamente la normalización de la basura y fortalecer la cultura de limpieza pública.",
+            "goal": "Consolidar un distrito más limpio, ordenado y saludable.",
+            "indicator": "Puntos críticos recuperados, toneladas de residuos gestionadas, campañas realizadas y percepción de limpieza urbana."
+          },
+          {
+            "problem": "Déficit de áreas verdes y espacios públicos de calidad.",
+            "objective": "Fortalecer la calidad ambiental y la convivencia ciudadana mediante la recuperación de espacios públicos.",
+            "goal": "No se especifica.",
+            "indicator": "Parques recuperados, árboles plantados, áreas verdes mantenidas y nivel de satisfacción vecinal."
+          },
+          {
+            "problem": "Déficit de formalización predial y limitada gestión territorial.",
+            "objective": "Implementar Ate con Título y Catastro Inteligente.",
+            "goal": "Gestionar la formalización y actualización catastral de miles de predios del distrito.",
+            "indicator": "Familias beneficiadas, expedientes gestionados y predios incorporados al catastro."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos, contaminación ambiental y déficit de áreas verdes.",
+            "objective": "Implementar Ate Limpio 24/7 y Ate Verde: Tu Barrio Gana.",
+            "goal": "Incrementar áreas verdes y eliminar puntos críticos de residuos sólidos.",
+            "indicator": "Puntos críticos eliminados, campañas realizadas y áreas verdes recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos lentos y limitada transformación digital.",
+            "objective": "Modernizar la gestión municipal mediante inteligencia artificial y digitalización de servicios.",
+            "goal": "Convertir a Ate en referente de innovación y transformación digital municipal.",
+            "indicator": "Trámites digitalizados, consultas atendidas y reducción de tiempos de atención."
+          },
+          {
+            "problem": "Necesidad de fortalecer la transparencia institucional y la confianza ciudadana.",
+            "objective": "Fortalecer la confianza ciudadana mediante mecanismos permanentes de transparencia y participación.",
+            "goal": "Consolidar una gestión cercana, abierta y permanentemente supervisada por la ciudadanía.",
+            "indicator": "Audiencias realizadas, informes publicados, participación ciudadana y nivel de percepción de transparencia."
+          },
+          {
+            "problem": "Débil articulación interinstitucional para optimizar recursos y ejecutar proyectos de mayor impacto.",
+            "objective": "Optimizar la gestión municipal mediante alianzas estratégicas y cooperación institucional.",
+            "goal": "Incrementar la capacidad de gestión y ejecución de proyectos estratégicos para Ate.",
+            "indicator": "Convenios suscritos, proyectos ejecutados y recursos gestionados."
+          },
+          {
+            "problem": "Necesidad de fortalecer capacidades institucionales y gestión por resultados.",
+            "objective": "Implementar Servidores que Cuidan Ate y el Observatorio de Gestión y Resultados Municipales.",
+            "goal": "Consolidar una gestión eficiente basada en indicadores y resultados.",
+            "indicator": "Servidores capacitados, indicadores actualizados y metas monitoreadas."
+          },
+          {
+            "problem": "Limitada transparencia y participación ciudadana.",
+            "objective": "Implementar Gobierno Abierto, transparencia activa y mecanismos permanentes de participación vecinal.",
+            "goal": "Realizar rendiciones de cuentas periódicas y fortalecer la vigilancia ciudadana.",
+            "indicator": "Audiencias realizadas, informes publicados y participación registrada."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-orBKadWBlif0G1ys1rHQc8JNJ2__tdP4",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/orBKadWBlif0G1ys1rHQc8JNJ2__tdP4",
+      "sha256": "f4193e967f0cab1ae2a84f3a92eeb32da685f936b46269031ec90a6fd5c00333",
+      "accessedAt": "2026-10-02T22:50:58.197Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020390",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020390",
+      "sha256": "e271f59ddb991ef35487e5d49423ee7eec43aa0dddcaab077cef5e682f149c59",
+      "accessedAt": "2026-10-02T22:50:58.675Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "ivpYt1pYQ3_6tR-UzJoI3yWJtsdM9dwO",
+  "slug": "cesar-enrique-stuart-alvarado",
+  "electionId": "erm-2026",
+  "name": "Cesar Enrique Stuart Alvarado",
+  "givenNames": "Cesar Enrique",
+  "surnames": "Stuart Alvarado",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140124",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:06.103Z",
+      "sourceId": "jne-hv-ivpYt1pYQ3_6tR-UzJoI3yWJtsdM9dwO"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD DE LIMA",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE ALCALA - ESPAÑA",
+        "program": "DIRECCION DE EMPRESAS ( MBA)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "1998"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSORCIO PATRIMONIAL IVAVIC S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 1752743,
+        "public": 0,
+        "private": 1752743
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 35000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 150000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 14834,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 454843,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 20688,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CHEVROLET",
+        "value": 90000
+      },
+      {
+        "type": "MERCEDES",
+        "value": 80000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSORCIO PATRIMONIAL IVAVIC S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 99,
+        "value": 999
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/60b323c9-f32a-4a3a-9451-fcb452654d0c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b97841ea-6122-4865-a2d5-b104dded6807.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "El 26% de la población sanisidrina es adulta mayor.",
+            "objective": "Brindar servicios de salud primaria.",
+            "goal": "75% de la población atendida.",
+            "indicator": "Porcentaje de la población adulta atendida."
+          },
+          {
+            "problem": "No se ha respetado la residencialidad del distrito.",
+            "objective": "Restringir los proyectos de vivienda social a sectores específicos.",
+            "goal": "0% de proyectos VIS fuera de zona.",
+            "indicator": "Porcentaje de proyectos VIS fuera de sectores designados."
+          },
+          {
+            "problem": "Incremento de la sensación de inseguridad.",
+            "objective": "Alineamiento a las políticas estatales de seguridad ciudadana.",
+            "goal": "Reducción en 50%.",
+            "indicator": "Tasa de denuncias en comisarías del distrito."
+          },
+          {
+            "problem": "Necesidad de ampliar el alcance de los programas educativos.",
+            "objective": "Fortalecer los programas educativos mediante innovación, herramientas digitales y alianzas estratégicas.",
+            "goal": "Implementar 8 herramientas o metodologías innovadoras. Beneficiar a 10,000 participantes durante la gestión.",
+            "indicator": "Número de herramientas digitales o metodologías innovadoras implementadas. Número de participantes en programas educativos municipales."
+          },
+          {
+            "problem": "Insuficiente descentralización de la oferta cultural.",
+            "objective": "Ampliar el acceso a actividades culturales en diferentes espacios y sectores de San Isidro.",
+            "goal": "Realizar 120 actividades descentralizadas durante la gestión. Incorporar 20 espacios públicos al circuito cultural.",
+            "indicator": "Número de actividades culturales realizadas fuera de los espacios culturales tradicionales. Cantidad de parques, plazas o espacios públicos incorporados a la programación cultural."
+          },
+          {
+            "problem": "Necesidad de fortalecer el posicionamiento turístico del distrito.",
+            "objective": "Promover los atractivos culturales, históricos y naturales del distrito para fortalecer su reconocimiento como destino turístico.",
+            "goal": "Ejecutar 6 campañas de promoción por año. Lograr una satisfacción mínima del 90%.",
+            "indicator": "Número de campañas de promoción turística ejecutadas anualmente. Nivel de satisfacción de los visitantes respecto a la oferta turística."
+          },
+          {
+            "problem": "Faltan servicios de cultura y recreación.",
+            "objective": "Remodelación integral del centro cultural de la municipalidad.",
+            "goal": "100% de la remodelación concluida.",
+            "indicator": "Porcentaje de avance de la remodelación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "No se ejecuta el presupuesto de manera eficiente.",
+            "objective": "Priorizar acciones que impacten en el bienestar del ciudadano.",
+            "goal": "Llegar al 100% de ejecución.",
+            "indicator": "Porcentaje de ejecución del presupuesto."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Se ha normalizado que los scooters y bicicletas usen las veredas.",
+            "objective": "Reglamentar uso de veredas.",
+            "goal": "Menos de 8 al mes.",
+            "indicator": "Número de multas por uso indebido de veredas."
+          },
+          {
+            "problem": "No se respetan los horarios de fiestas en zonas residenciales.",
+            "objective": "Establecer horarios y difundirlos entre los vecinos.",
+            "goal": "Menos de 4 al mes.",
+            "indicator": "Número de multas por incumplir horarios y decibeles."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta rotación en las gerencias municipales.",
+            "objective": "Contratar gerentes municipales experimentados.",
+            "goal": "No más de 1 cambio al año.",
+            "indicator": "Rotación en las gerencias municipales."
+          },
+          {
+            "problem": "Limitada articulación con organismos de cooperación y aliados estratégicos para impulsar iniciativas de desarrollo local.",
+            "objective": "Implementar una Oficina de Cooperación al Desarrollo para gestionar recursos, alianzas y asistencia técnica que impulsen el desarrollo sostenible del distrito.",
+            "goal": "12 en el periodo. 15 en el periodo.",
+            "indicator": "Número de proyectos presentados a fondos de cooperación. Número de convenios o alianzas suscritas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ivpYt1pYQ3_6tR-UzJoI3yWJtsdM9dwO",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ivpYt1pYQ3_6tR-UzJoI3yWJtsdM9dwO",
+      "sha256": "969970c5b9416e0b8dcde0ccaa44f8591b7a298e791d354a4a9efaeeed47a997",
+      "accessedAt": "2026-10-02T23:03:06.103Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022015",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022015",
+      "sha256": "032f77f3533369f4c2f9ace850232b14814cbc8ea6c5450471dc21632d4e0971",
+      "accessedAt": "2026-10-02T23:03:06.592Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

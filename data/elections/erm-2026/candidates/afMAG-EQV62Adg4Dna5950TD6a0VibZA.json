@@ -1,0 +1,221 @@
+{
+  "id": "afMAG-EQV62Adg4Dna5950TD6a0VibZA",
+  "slug": "joe-peter-robles-escobedo",
+  "electionId": "erm-2026",
+  "name": "Joe Peter Robles Escobedo",
+  "givenNames": "Joe Peter",
+  "surnames": "Robles Escobedo",
+  "age": 48,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:38.459Z",
+      "sourceId": "jne-hv-afMAG-EQV62Adg4Dna5950TD6a0VibZA"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2023"
+    },
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/0239daa9-4e01-4fd7-a59c-4148c50547a1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a078519c-b17d-4604-888f-733d2461dd49.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios preventivos de salud y a la salubridad, con rol municipal complementario.",
+            "objective": "Fortalecer la prevención, la salubridad y la inocuidad, en coordinación con el sector Salud.",
+            "goal": "Tener un servicio municipal preventivo institucionalizado para el 2030 y realizar campañas de salud anuales sostenidas.",
+            "indicator": "Hitos de implementación del servicio preventivo; campañas de salud realizadas al año."
+          },
+          {
+            "problem": "Inseguridad ciudadana y limitada prevención comunitaria, con predominio de robos, hurtos y amenazas.",
+            "objective": "Reducir la incidencia y la percepción de inseguridad mediante prevención, patrullaje integrado y participación vecinal.",
+            "goal": "Alcanzar 58,881 incidencias atendidas para el año 2030, incrementar el número de serenos equipados a 400 y realizar 40 operativos anuales con la PNP.",
+            "indicator": "Incidencias atendidas por personal operativo; serenos equipados; operativos con la PNP."
+          },
+          {
+            "problem": "Infraestructura educativa deteriorada y entorno escolar inseguro.",
+            "objective": "Mejorar el entorno educativo y apoyar la calidad, en coordinación con el sector Educación.",
+            "goal": "Lograr que el 100% de las instituciones educativas o sus entornos cuenten con apoyo o mejora municipal para el 2030.",
+            "indicator": "Porcentaje de instituciones educativas o entornos con apoyo o mejora municipal."
+          },
+          {
+            "problem": "Déficit de espacios deportivos, recreativos y limitada oferta para la juventud.",
+            "objective": "Recuperar y crear espacios deportivos y recreativos y ampliar la oferta juvenil.",
+            "goal": "Implementar un programa de escuelas deportivas operativo desde 2027 y realizar un mejoramiento progresivo de espacios por sector hasta 2030.",
+            "indicator": "Espacios deportivos o recreativos mejorados o creados; beneficiarios de las escuelas deportivas."
+          },
+          {
+            "problem": "Población vulnerable con atención insuficiente y casos de violencia familiar.",
+            "objective": "Fortalecer la DEMUNA, la OMAPED y el CIAM, y la atención frente a la violencia familiar.",
+            "goal": "Lograr una ampliación progresiva de la cobertura y atenciones durante el periodo 2027-2030, con servicios operativos en los sectores priorizados.",
+            "indicator": "Atenciones y servicios brindados por DEMUNA, OMAPED y CIAM al año."
+          },
+          {
+            "problem": "Pobreza, anemia y desnutrición en sectores vulnerables.",
+            "objective": "Mejorar la focalización y la cobertura de los programas alimentarios municipales.",
+            "goal": "Contar con un padrón depurado y una cobertura sostenida durante el periodo 2027-2030, con reducción de filtraciones.",
+            "indicator": "Beneficiarios atendidos y nivel de focalización correcta."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio en vía pública y mercados con desorden e informalidad.",
+            "objective": "Ordenar y formalizar el comercio y mejorar la salubridad de los mercados.",
+            "goal": "Ejecutar un programa de ordenamiento y formalización con avance progresivo durante el periodo 2027-2030.",
+            "indicator": "Comerciantes y mercados formalizados o regularizados al año."
+          },
+          {
+            "problem": "Alta informalidad y débil empleabilidad y capacitación técnica.",
+            "objective": "Promover la formalización, la empleabilidad y el emprendimiento, con énfasis en jóvenes y MYPES.",
+            "goal": "Incrementar la formalización de los negocios al 2030.",
+            "indicator": "Porcentaje de negocios formales."
+          },
+          {
+            "problem": "Potencial turístico, arqueológico e histórico del valle del Chillón subutilizado.",
+            "objective": "Poner en valor el patrimonio y desarrollar circuitos turísticos locales.",
+            "goal": "Alcanzar un 70% de recursos turísticos operativos para el año 2030.",
+            "indicator": "Porcentaje de recursos turísticos operativos."
+          },
+          {
+            "problem": "Actividad agropecuaria rural con escaso acompañamiento técnico.",
+            "objective": "Brindar asistencia técnica y articular la comercialización del productor rural.",
+            "goal": "Implementar un programa de asistencia técnica operativo y creciente durante el periodo 2027-2030.",
+            "indicator": "Productores con asistencia técnica al año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente movilidad y transitabilidad local; principal demanda vecinal del distrito.",
+            "objective": "Mejorar las vías locales, la transitabilidad y la accesibilidad universal.",
+            "goal": "Implementar un programa de asistencia técnica operativo y creciente durante el periodo 2027-2030.",
+            "indicator": "Número de vías locales mejoradas (acumulado anual)."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y predios sin saneamiento físico legal.",
+            "objective": "Ordenar la expansión urbana y promover el saneamiento físico legal.",
+            "goal": "Alcanzar el 65% de predios con saneamiento físico legal para el año 2030.",
+            "indicator": "Porcentaje de predios con saneamiento físico legal."
+          },
+          {
+            "problem": "Brechas de agua, alcantarillado, energía e internet.",
+            "objective": "Gestionar el cierre de brechas de servicios básicos ante las entidades competentes.",
+            "goal": "Desarrollar una cartera de gestiones y proyectos en marcha durante el periodo 2027-2030, con convenios suscritos.",
+            "indicator": "Hitos de gestión y proyectos viabilizados ante las entidades competentes."
+          },
+          {
+            "problem": "Débil gestión ambiental, baja valorización de residuos y déficit de áreas verdes.",
+            "objective": "Mejorar la limpieza pública, el reciclaje, las áreas verdes y el ornato.",
+            "goal": "Alcanzar un 30% de reciclaje, 8,500 árboles plantados y 149 calles con limpieza para el año 2030.",
+            "indicator": "Porcentaje de residuos inorgánicos reciclados; árboles plantados; calles con limpieza pública."
+          },
+          {
+            "problem": "Vulnerabilidad ante riesgos en quebradas y laderas, con ocupación informal en zonas expuestas.",
+            "objective": "Reducir el riesgo de desastres y fortalecer la defensa civil local.",
+            "goal": "Ejecutar un plan de prevención operativo e intervenciones de mitigación progresivas durante el periodo 2027-2030.",
+            "indicator": "Intervenciones de mitigación y simulacros realizados al año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos y de fiscalización por modernizar.",
+            "objective": "Simplificar los trámites y fortalecer la fiscalización y el registro civil.",
+            "goal": "Lograr una reducción progresiva de tiempos y la digitalización de trámites durante el periodo 2027-2030.",
+            "indicator": "Tiempo promedio de atención de licencias y trámites simplificados."
+          },
+          {
+            "problem": "Gestión y recaudación que requieren fortalecimiento por resultados.",
+            "objective": "Modernizar la gestión, el gobierno digital y la recaudación tributaria.",
+            "goal": "Tener 6 instrumentos de gestión actualizados para el año 2030, con una recaudación creciente.",
+            "indicator": "Número de instrumentos de gestión actualizados."
+          },
+          {
+            "problem": "Participación vecinal y transparencia por consolidar.",
+            "objective": "Fortalecer la transparencia, la participación y la rendición de cuentas.",
+            "goal": "Implementar un tablero público de metas y realizar, como mínimo, cuatro reportes y audiencias de rendición al año, de forma sostenida entre 2027 y 2030.",
+            "indicator": "Reportes públicos y espacios de participación realizados al año."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-afMAG-EQV62Adg4Dna5950TD6a0VibZA",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/afMAG-EQV62Adg4Dna5950TD6a0VibZA",
+      "sha256": "401fd3ea4c6c2a470dd4a2833a20f65ba207116d42770166fb7c0bffcdf35892",
+      "accessedAt": "2026-10-02T22:52:38.459Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014191",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014191",
+      "sha256": "145a702878c54972ad2018a248f8f33d1c561431eecdb22ea029d5f08219f181",
+      "accessedAt": "2026-10-02T22:52:39.137Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

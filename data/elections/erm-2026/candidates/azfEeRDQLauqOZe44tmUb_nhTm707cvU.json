@@ -1,0 +1,324 @@
+{
+  "id": "azfEeRDQLauqOZe44tmUb_nhTm707cvU",
+  "slug": "christian-israel-pardo-reyes",
+  "electionId": "erm-2026",
+  "name": "Christian Israel Pardo Reyes",
+  "givenNames": "Christian Israel",
+  "surnames": "Pardo Reyes",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2988,
+    "name": "VISION PERU"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:34.780Z",
+      "sourceId": "jne-hv-azfEeRDQLauqOZe44tmUb_nhTm707cvU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2000"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "MAGÍSTER EN SOCIOLOGÍA CON MENCIÓN EN ESTUDIOS POLÍTICOS",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2023"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCO",
+        "program": "DOCTORADO EN DERECHO Y CIENCIA POLITICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2002",
+      "to": "2022"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESOR II",
+      "from": "2020",
+      "to": "2020"
+    },
+    {
+      "employer": "MINISTERIO DE SALUD - DIRECCION DE SALUV IV LIMA ESTE",
+      "role": "DIRECTOR DE OFICINA EEJCUTIVA DE GESTION Y DESARROLLO DE RRHH",
+      "from": "2015",
+      "to": "2016"
+    },
+    {
+      "employer": "UNIVERSIDAD DE SAN MARTIN DE PORRES",
+      "role": "DOCENTE UNIVERSITARIO",
+      "from": "2012",
+      "to": "2015"
+    },
+    {
+      "employer": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+      "role": "DOCENTE UNIVERSITARIO",
+      "from": "2013",
+      "to": "2013"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "SAN LUIS RENACE",
+      "from": "2003",
+      "to": "2006"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "APODERADO",
+      "party": "SAN LUIS SI PODEMOS",
+      "from": "2014",
+      "to": "2014"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "SAN LUIS SI PODEMOS",
+      "from": "2014",
+      "to": "2014"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 31000,
+        "public": 7000,
+        "private": 24000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 77016.61,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 14194.12,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 131458.02,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESCUELA DE GOBIERNO Y DERECHO SAC",
+        "type": "ACCIONES",
+        "quantity": 9000,
+        "value": 9000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "EMPRESA ESCUELA DE GOBIERNO Y DERECHO SAC FUE DADA DE BAJA OFICIO POR LA SUNAT",
+    "FUI PRESIDENTE DE LA O.P..L.D EN SAN LUIS... LOS JOVENES SI PODEMOS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b00d2eb3-bba2-4682-8df5-488cb1720d7f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f996c379-b391-4634-81c6-a2d839f2662a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios de salud de mayor complejidad y a una atención preventiva adecuada para la población.",
+            "objective": "Mejorar la infraestructura y la capacidad de atención en salud, garantizando el acceso a servicios de mayor nivel para todos los vecinos.",
+            "goal": "Convertir el Centro de Salud de San Luis en un Hospital de Segundo Nivel y poner en funcionamiento la Posta Municipal Médica de la Urb. San Pablo para atención preventiva y medicina general.",
+            "indicator": "Número de especialidades médicas ofrecidas, capacidad de atención de emergencias, porcentaje de la población atendida en los establecimientos de salud del distrito."
+          },
+          {
+            "problem": "Altos índices de delincuencia y violencia que afectan la seguridad y tranquilidad de los ciudadanos en el distrito.",
+            "objective": "Reducir considerablemente la delincuencia en el distrito para devolver la seguridad y tranquilidad a todos los vecinos.",
+            "goal": "Implementar un plan de reacción inmediata en coordinación con la Policía Nacional, modernizar la vigilancia con cámaras de última generación integradas con inteligencia artificial y liderar el Comité Distrital de Seguridad Ciudadana (CODISEC).",
+            "indicator": "Tasa de victimización delictiva, número de denuncias registradas, percepción de inseguridad ciudadana."
+          },
+          {
+            "problem": "Carencia de espacios adecuados y programas accesibles para el fomento del deporte y la recreación en la comunidad.",
+            "objective": "Reconocer la práctica del deporte como un derecho fundamental y promover su acceso a todos los niños, jóvenes y adultos durante todo el año.",
+            "goal": "Recuperar y modernizar el Complejo Deportivo Recreacional, habilitar el libre acceso al Parque Zonal Túpac Amaru y construir un nuevo Complejo Deportivo para el Cuadrante N° 1.",
+            "indicator": "Número de complejos deportivos recuperados y construidos, tasa de participación ciudadana en programas deportivos, número de disciplinas ofrecidas en la Escuela Municipal de Deportes."
+          },
+          {
+            "problem": "Insuficiente atención y promoción de los derechos de poblaciones vulnerables, como adultos mayores, personas con discapacidad y madres jóvenes.",
+            "objective": "Mejorar la calidad de vida de las personas en situación de vulnerabilidad, promoviendo sus derechos y brindando servicios de mejor nivel.",
+            "goal": "Crear una Guardería Municipal para madres jóvenes, fortalecer los servicios para el Adulto Mayor, mejorar el apoyo a los Comedores Populares y Vaso de Leche, e intensificar el trabajo de la OMAPED.",
+            "indicator": "Número de beneficiarios de programas sociales, nivel de satisfacción de los usuarios de la OMAPED y programas para el adulto mayor, número de actividades de prevención de violencia familiar."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de una plataforma de apoyo para el emprendimiento y la innovación tecnológica dirigida a jóvenes profesionales y estudiantes.",
+            "objective": "Promover la creación de nuevos negocios mediante el uso de herramientas tecnológicas, brindando apoyo prioritario a estudiantes y profesionales del distrito.",
+            "goal": "Crear una incubadora de negocios municipal para que los jóvenes puedan desarrollar sus propias startups, convirtiendo a la municipalidad en una plataforma de emprendimiento e innovación.",
+            "indicator": "Número de startups creadas a través de la incubadora de negocios, número de jóvenes capacitados en emprendimiento y tecnología."
+          },
+          {
+            "problem": "Baja inversión privada y escasa generación de oportunidades de negocios y empleo formal en el distrito.",
+            "objective": "Incentivar y promover la inversión de la empresa privada, generando oportunidades de negocios lícitos y la promoción del empleo formal.",
+            "goal": "Posicionar a San Luis como un distrito seguro, moderno y ordenado para atraer la inversión privada y fomentar el desarrollo económico local.",
+            "indicator": "Número de nuevas licencias de funcionamiento para empresas, tasa de empleo formal en el distrito, monto de inversión privada captada."
+          },
+          {
+            "problem": "Desorden en el transporte público, caracterizado por paraderos informales y congestión vehicular, que afecta la eficiencia y seguridad vial.",
+            "objective": "Lograr un transporte público eficiente, ordenado y seguro, estableciendo una adecuada coordinación con las autoridades competentes.",
+            "goal": "Ejecutar obras de infraestructura vial, establecer la obligatoriedad del uso de paraderos formales, prohibir el ingreso de unidades no autorizadas y mejorar la señalización de tránsito.",
+            "indicator": "Reducción del tiempo promedio de viaje en las principales avenidas, número de paraderos informales erradicados, kilómetros de vías mejoradas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Altos niveles de contaminación por una inadecuada gestión de residuos sólidos y una débil cultura de reciclaje.",
+            "objective": "Reducir los niveles de contaminación e impulsar una cultura del reciclaje en la comunidad.",
+            "goal": "Implementar un sistema de contenedores soterrados para mejorar la estética urbanística y evitar la dispersión de basura, promoviendo activamente el reciclaje.",
+            "indicator": "Volumen de residuos sólidos reciclados, número de contenedores soterrados instalados, percepción ciudadana sobre la limpieza pública."
+          },
+          {
+            "problem": "Escasa conciencia ciudadana sobre la importancia del cuidado del medio ambiente, el cambio climático y la preservación de la naturaleza.",
+            "objective": "Fomentar la conciencia ambiental y el respeto a la naturaleza, involucrando activamente a la juventud del distrito.",
+            "goal": "Crear la Brigada Ecológica Juvenil para organizar campañas de concientización sobre el cuidado del ambiente, el cambio climático y el respeto a la naturaleza.",
+            "indicator": "Número de campañas de concientización ambiental realizadas, número de jóvenes voluntarios en la Brigada Ecológica Juvenil."
+          },
+          {
+            "problem": "Predominio de medios de transporte motorizados y falta de infraestructura para promover alternativas de movilidad sostenible.",
+            "objective": "Fomentar el uso de la bicicleta como medio de transporte alternativo, contribuyendo a la reducción de la contaminación y la mejora de la movilidad.",
+            "goal": "Construir una red de ciclovías seguras y habilitar espacios vigilados de estacionamiento para bicicletas en puntos clave del distrito.",
+            "indicator": "Kilómetros de ciclovías construidas y habilitadas, número de estacionamientos para bicicletas instalados en zonas estratégicas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada transparencia en la gestión municipal y escasos mecanismos para la fiscalización ciudadana del uso de los recursos públicos.",
+            "objective": "Transparentar todas las acciones de la corporación edil e institucionalizar la participación vecinal en la fiscalización y toma de decisiones.",
+            "goal": "Implementar un Sistema Integral de Rendición de Cuentas semestral y fortalecer los procesos de participación ciudadana activa a través de mecanismos digitales y el Presupuesto Participativo por Resultados.",
+            "indicator": "Frecuencia de las rendiciones de cuentas públicas, número de mecanismos de participación digital implementados, nivel de ejecución del Presupuesto Participativo."
+          },
+          {
+            "problem": "Ineficiencia en el gasto público, con existencia de gastos administrativos innecesarios y riesgo de corrupción y nepotismo.",
+            "objective": "Mejorar la eficiencia del gasto municipal aplicando una política de austeridad, transparencia y lucha frontal contra la corrupción.",
+            "goal": "Revisar y eliminar todos los gastos administrativos innecesarios, analizar la estructura de costos de los servicios onerosos y aplicar una estricta política de austeridad, sin tolerancia a la corrupción ni al nepotismo.",
+            "indicator": "Porcentaje de reducción de gastos administrativos, resultados de auditorías a la estructura de costos de los servicios municipales."
+          },
+          {
+            "problem": "Desactualización de instrumentos de gestión territorial como el catastro urbano y la zonificación, afectando la planificación y la equidad tributaria.",
+            "objective": "Modernizar y actualizar los instrumentos de gestión urbana para una planificación ordenada, una revalorización de la propiedad y una tributación justa.",
+            "goal": "Actualizar integralmente el catastro urbano para sincerar la base imponible de los tributos y ejecutar la actualización de la zonificación y el sistema vial con criterios técnicos.",
+            "indicator": "Porcentaje de avance en la actualización del catastro urbano, aprobación de la nueva zonificación y del sistema vial del distrito."
+          },
+          {
+            "problem": "Infraestructura y equipamiento municipal obsoletos que limitan la calidad y el acceso a los servicios para los vecinos.",
+            "objective": "Implementar un plan de modernización de la infraestructura y equipos de la municipalidad para poder brindar un mejor servicio a la comunidad.",
+            "goal": "Convertir a San Luis en una 'Ciudad Digital' con servicios en línea y Wi-Fi gratuito en espacios públicos, y modernizar y ampliar la sede principal de la Municipalidad para un mejor acceso vecinal.",
+            "indicator": "Porcentaje de digitalización de los trámites municipales, número de puntos de acceso a Wi-Fi gratuito, nivel de modernización de la sede municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-17979",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Declaración Jurada De Ingresos De Bienes Y Rentas",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-08-13",
+      "details": {
+        "rubro": "DECLARACIÓN JURADA DE INGRESOS DE BIENES Y RENTAS",
+        "resolucion": "DECRETO N° 00001-2026-JEE-LIO2/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "DECRETO N° 00001-2026-JEE-LIO2/JNE",
+      "sourceIds": [
+        "jne-hv-azfEeRDQLauqOZe44tmUb_nhTm707cvU"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-azfEeRDQLauqOZe44tmUb_nhTm707cvU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/azfEeRDQLauqOZe44tmUb_nhTm707cvU",
+      "sha256": "5a0e542977022313e8ac989ed78fe9083cacbcb6363d55f11a68516f6d0b39f3",
+      "accessedAt": "2026-10-02T23:04:34.780Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016762",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016762",
+      "sha256": "a4f74fa865d3905b767d7d8be50f04fc0d24337cc709943e4a3c7ae5b7ee6bb7",
+      "accessedAt": "2026-10-02T23:04:35.401Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

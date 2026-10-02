@@ -1,0 +1,209 @@
+{
+  "id": "rAhV_I0Brmz-8Y7qFcAY0CeomzMOC7dr",
+  "slug": "christian-marco-gutierrez-guzman",
+  "electionId": "erm-2026",
+  "name": "Christian Marco Gutierrez Guzman",
+  "givenNames": "Christian Marco",
+  "surnames": "Gutierrez Guzman",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2869,
+    "name": "PARTIDO PATRIOTICO DEL PERU"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:05.464Z",
+      "sourceId": "jne-hv-rAhV_I0Brmz-8Y7qFcAY0CeomzMOC7dr"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ALEXANDE FLEMING",
+        "program": "FISIOTERAPIA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "GUTI SALUD",
+      "role": "SERVICIOS DE SALUD",
+      "from": "2018",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO OBRERO DEL PERU",
+      "year": "2025"
+    },
+    {
+      "party": "LIBERTAD POPULAR",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 0,
+        "private": 30000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO",
+        "value": 3500
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5fe0b0b2-cffa-40a7-9ca0-f59cd983c5af.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/dc45c30b-ac08-4eb6-a640-5fe16af19567.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de la inseguridad ciudadana y debilitamiento de la convivencia vecinal que afectan la tranquilidad de la población.",
+            "objective": "Fortalecer la seguridad preventiva, la convivencia ciudadana y la recuperación progresiva de espacios adecuados para el bienestar colectivo de la población, promoviendo programas para afianzar la tranquilidad vecinal y la confianza ciudadana.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Insuficiencia de espacios y actividades destinadas a la integración social, el desarrollo humano y la recreación de niños, jóvenes, adultos mayores y familias.",
+            "objective": "Desarrollar actividades culturales, recreativas y comunitarias para fortalecer la integración social y mejorar la calidad de vida, así como recuperar y modernizar parques, áreas recreativas y espacios públicos.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja competitividad urbana y condiciones desfavorables para el desarrollo de actividades económicas de comerciantes, emprendedores e inversionistas.",
+            "objective": "Fortalecer la competitividad urbana y consolidar mejores condiciones para los actores económicos del distrito mediante la organización territorial de las actividades económicas y el fomento de la inversión.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Débil articulación con los sectores económicos y empresariales, lo que dificulta la recuperación económica y el crecimiento sostenible.",
+            "objective": "Impulsar mecanismos de coordinación con los sectores económicos y empresariales para fortalecer la recuperación económica y consolidar una ciudad moderna, dinámica y territorialmente preparada para el crecimiento sostenible.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Condiciones inadecuadas de sostenibilidad ambiental y deterioro del entorno urbano, incluyendo la falta de áreas verdes y deficiencias en la limpieza pública.",
+            "objective": "Fortalecer la sostenibilidad ambiental y la recuperación progresiva de las condiciones adecuadas del entorno urbano, promoviendo la recuperación de áreas verdes y el fortalecimiento de los mecanismos de limpieza pública.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Cultura ciudadana limitada en cuanto a sostenibilidad, orden y protección del entorno territorial.",
+            "objective": "Impulsar campañas de educación ambiental y participación ciudadana destinadas a fortalecer una cultura urbana basada en la sostenibilidad, el orden y la protección progresiva del entorno territorial.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficiente modernización administrativa y baja eficiencia institucional y capacidad operativa de la municipalidad.",
+            "objective": "Fortalecer la modernización administrativa, la eficiencia institucional y la capacidad operativa de la municipalidad mediante la optimización progresiva de los servicios públicos, la simplificación administrativa y el fortalecimiento tecnológico.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          },
+          {
+            "problem": "Falta de confianza de la población en la gestión pública municipal y limitada coordinación entre la ciudadanía y el gobierno local.",
+            "objective": "Impulsar mecanismos de transparencia institucional y fortalecer la coordinación entre la ciudadanía y el gobierno local con la finalidad de recuperar la confianza de la población en la gestión pública municipal.",
+            "goal": "No se especifica en el documento.",
+            "indicator": "No se especifica en el documento."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-136560",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: AGRESION",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "2021-07-08",
+      "details": {
+        "materia": "AGRESION",
+        "fallo": "MULTA",
+        "modalidad": "RESERVA DE FALLO",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "JUZGADO TREBOL SJM",
+        "expediente": "7022-2021",
+        "comentario": null
+      },
+      "quote": "AGRESION · MULTA · RESERVA DE FALLO · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-rAhV_I0Brmz-8Y7qFcAY0CeomzMOC7dr"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-rAhV_I0Brmz-8Y7qFcAY0CeomzMOC7dr",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rAhV_I0Brmz-8Y7qFcAY0CeomzMOC7dr",
+      "sha256": "a17a54c5f13a5f23f4f53c81dd2c82d5a24013f6166a5e6c08cd55fbff50178c",
+      "accessedAt": "2026-10-02T23:04:05.464Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012917",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012917",
+      "sha256": "fa7e5e727a45f3d2a6d7059e6311e1297c04ee150532511bfe9bf67ad8083e4f",
+      "accessedAt": "2026-10-02T23:04:06.029Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

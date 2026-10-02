@@ -1,0 +1,253 @@
+{
+  "id": "PmU3eimB_kQEVA7wqOkctBKYNVXxtrR3",
+  "slug": "arturo-jonell-pena-sanchez",
+  "electionId": "erm-2026",
+  "name": "Arturo Jonell Peña Sanchez",
+  "givenNames": "Arturo Jonell",
+  "surnames": "Peña Sanchez",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 3028,
+    "name": "ALIANZA ELECTORAL VENCEREMOS"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:37.977Z",
+      "sourceId": "jne-hv-PmU3eimB_kQEVA7wqOkctBKYNVXxtrR3"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "PRODUCTOR AUDIOVISUAL",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 25000,
+        "public": 25000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4d1cef83-297f-472c-adf2-c1b38b31562d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fde9d3b2-c8a2-4b03-b29c-e2c641ed464e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada atención a las poblaciones vulnerables.",
+            "objective": "Fortalecer programas para adultos mayores, mujeres, personas con discapacidad y niñez.",
+            "goal": "Incrementar la cobertura en un 50%.",
+            "indicator": "Cobertura de programas sociales municipales."
+          },
+          {
+            "problem": "Escasas oportunidades deportivas y recreativas para la comunidad.",
+            "objective": "Ampliar escuelas deportivas y realizar la recuperación de espacios deportivos.",
+            "goal": "Beneficiar a 20,000 vecinos.",
+            "indicator": "Número de beneficiarios directos."
+          },
+          {
+            "problem": "Débil fortalecimiento de la identidad cultural distrital.",
+            "objective": "Crear el Instituto Municipal de Identidad, Historia y Cultura Popular de Ate.",
+            "goal": "Alcanzar 100,000 participantes.",
+            "indicator": "Número de participantes en actividades culturales."
+          },
+          {
+            "problem": "Limitado acceso de los jóvenes a la educación superior.",
+            "objective": "Implementar la Academia Preuniversitaria Municipal Gratuita.",
+            "goal": "Beneficiar a 10,000 jóvenes.",
+            "indicator": "Número de estudiantes beneficiados."
+          },
+          {
+            "problem": "Alta incidencia de anemia infantil en el distrito.",
+            "objective": "Implementar el Programa Municipal \"Ate Sin Anemia\" para fortalecer la prevención y educación nutricional.",
+            "goal": "Reducir la incidencia de anemia infantil en un 30%.",
+            "indicator": "Porcentaje de niños menores de 5 años con anemia."
+          },
+          {
+            "problem": "Incremento de conductas de riesgo en los jóvenes.",
+            "objective": "Implementar el programa \"Ate Piensa, Ate Juega, Ate Crece\".",
+            "goal": "Beneficiar a más de 50,000 vecinos.",
+            "indicator": "Número de beneficiarios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escaso aprovechamiento económico de la cultura popular andina.",
+            "objective": "Promover la economía popular andina.",
+            "goal": "Incrementar la participación económica cultural.",
+            "indicator": "Número de actividades económicas y culturales desarrolladas."
+          },
+          {
+            "problem": "Insuficiente acceso al empleo formal por parte de los vecinos.",
+            "objective": "Fortalecer la Bolsa Laboral Municipal y el Centro de Empleo.",
+            "goal": "Insertar laboralmente a 10,000 vecinos.",
+            "indicator": "Número de inserciones laborales."
+          },
+          {
+            "problem": "Alta informalidad económica en el distrito.",
+            "objective": "Implementar el Programa Municipal de Formalización Productiva.",
+            "goal": "Incrementar progresivamente a 10,000 negocios formalizados de manera empresarial.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Déficit de capacitación empresarial en el distrito.",
+            "objective": "Crear el Centro Municipal de Desarrollo Productivo y Emprendimiento.",
+            "goal": "Capacitar a 15,000 emprendedores.",
+            "indicator": "Número de emprendedores capacitados."
+          },
+          {
+            "problem": "Limitados espacios de comercialización para emprendedores.",
+            "objective": "Implementar la Red Distrital de Ferias Itinerantes.",
+            "goal": "Realizar más de 200 ferias.",
+            "indicator": "Número de ferias realizadas."
+          },
+          {
+            "problem": "Débil articulación productiva a nivel local.",
+            "objective": "Impulsar las compras locales y las cadenas productivas.",
+            "goal": "Aumentar progresivamente la participación de productores locales.",
+            "indicator": "Participación de MYPES locales."
+          },
+          {
+            "problem": "Potencial turístico del distrito subutilizado.",
+            "objective": "Desarrollar circuitos turísticos y culturales.",
+            "goal": "Duplicar la participación turística y cultural.",
+            "indicator": "Participación en actividades turísticas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad del distrito frente al cambio climático.",
+            "objective": "Implementar acciones de adaptación y resiliencia urbana.",
+            "goal": "Fortalecer la resiliencia ambiental distrital.",
+            "indicator": "Número de proyectos ambientales ejecutados."
+          },
+          {
+            "problem": "Contaminación ambiental y deterioro urbano.",
+            "objective": "Recuperar los espacios públicos y promover la sostenibilidad urbana.",
+            "goal": "Recuperar parques y espacios públicos priorizados.",
+            "indicator": "Número de espacios recuperados."
+          },
+          {
+            "problem": "Bajo nivel de educación ambiental en la población.",
+            "objective": "Desarrollar programas de educación ambiental comunitaria.",
+            "goal": "Capacitar a 15,000 vecinos en cultura ambiental.",
+            "indicator": "Número de participantes en campañas ambientales."
+          },
+          {
+            "problem": "Gestión insuficiente de los residuos sólidos.",
+            "objective": "Mejorar e implementar la gestión integral de residuos sólidos a través del Programa “Polvo Cero”.",
+            "goal": "Incrementar el reciclaje distrital.",
+            "indicator": "Toneladas de residuos segregados, reciclados y espacios rescatados."
+          },
+          {
+            "problem": "Déficit de áreas verdes en el distrito.",
+            "objective": "Implementar el Programa \"Ate Verde y Vivo\".",
+            "goal": "Incrementar significativamente las áreas verdes.",
+            "indicator": "Número de árboles plantados y áreas recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de mayor transparencia en la gestión municipal.",
+            "objective": "Implementar plataformas digitales de transparencia y rendición de cuentas.",
+            "goal": "Garantizar la rendición de cuentas de forma permanente.",
+            "indicator": "Nivel de acceso ciudadano a la información pública."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la gestión municipal.",
+            "objective": "Fortalecer los cabildos abiertos, las audiencias públicas y los consejos zonales.",
+            "goal": "Realizar audiencias públicas trimestrales.",
+            "indicator": "Número de mecanismos participativos realizados."
+          },
+          {
+            "problem": "Débil cultura de prevención del delito.",
+            "objective": "Implementar la Escuela Vecinal de Seguridad Ciudadana.",
+            "goal": "Capacitar a miles de vecinos.",
+            "indicator": "Número de vecinos capacitados."
+          },
+          {
+            "problem": "Escasa organización vecinal en materia de seguridad.",
+            "objective": "Implementar la Red Distrital de Rondas Comunitarias.",
+            "goal": "Lograr una cobertura progresiva en las siete zonales.",
+            "indicator": "Número de rondas organizadas."
+          },
+          {
+            "problem": "Modernización insuficiente de la gestión municipal.",
+            "objective": "Fortalecer el gobierno digital y la eficiencia administrativa.",
+            "goal": "Incrementar los servicios municipales digitales.",
+            "indicator": "Número de servicios municipales digitalizados."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana.",
+            "objective": "Fortalecer el serenazgo municipal y la vigilancia comunitaria.",
+            "goal": "Incrementar la capacidad operativa de seguridad.",
+            "indicator": "Número de efectivos y equipamiento de serenazgo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-PmU3eimB_kQEVA7wqOkctBKYNVXxtrR3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/PmU3eimB_kQEVA7wqOkctBKYNVXxtrR3",
+      "sha256": "f05748557e68d097325d8e9807e29d9e63af13f7f01aea48619ce66da97c07c3",
+      "accessedAt": "2026-10-02T22:50:37.977Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022250",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022250",
+      "sha256": "16b9d899a297e423a5a369b4fe8296c2ebff87ea6970d92b8efebea564301145",
+      "accessedAt": "2026-10-02T22:50:38.504Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

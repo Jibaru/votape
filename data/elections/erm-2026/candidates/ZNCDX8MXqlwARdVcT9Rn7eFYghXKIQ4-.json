@@ -1,0 +1,206 @@
+{
+  "id": "ZNCDX8MXqlwARdVcT9Rn7eFYghXKIQ4-",
+  "slug": "honorio-cesar-paredes-galvez",
+  "electionId": "erm-2026",
+  "name": "Honorio Cesar Paredes Galvez",
+  "givenNames": "Honorio Cesar",
+  "surnames": "Paredes Galvez",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:26.215Z",
+      "sourceId": "jne-hv-ZNCDX8MXqlwARdVcT9Rn7eFYghXKIQ4-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "universidad alas peruanas",
+        "program": "abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "universidad alas peruanas",
+        "program": "bachiller",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "policia nacional del peru",
+      "role": "oficial superior",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "employer": "policia nacional del peru",
+      "role": "oficial de inteligencia",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "employer": "policia nacional del peru frente policial vraem",
+      "role": "oficial de inteligencia",
+      "from": "2012",
+      "to": "2017"
+    },
+    {
+      "employer": "policia nacional del peru ets ayacucho",
+      "role": "oficial instructor",
+      "from": "2010",
+      "to": "2012"
+    },
+    {
+      "employer": "policia nacional del peru frente policial vraem",
+      "role": "oficial de investigacion",
+      "from": "2008",
+      "to": "2010"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 60000,
+        "public": 60000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 1800,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "paredes abogados asociados e. i. r. l.",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c5c5b83a-e130-463b-9ee0-32634d1c5153.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/eec45f4c-3a93-422d-a664-7af526624149.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Conflicto limítrofe con Pachacámac que dificulta la planificación territorial y la inversión pública. Catastro municipal desactualizado que limita la recaudación y el ordenamiento urbano. Expansión urbana desordenada y déficit de áreas verdes. Alta incidencia de accidentes de tránsito y falta de infraestructura peatonal segura. Deficiente infraestructura para movilidad sostenible. Inseguridad ciudadana y limitada cobertura de videovigilancia. Déficit de espacios públicos inclusivos y seguros. Limitaciones en servicios sociales para población vulnerable.",
+            "objective": "Gestionar la definición y formalización de los límites distritales mediante acuerdos técnicos e institucionales. Implementar un catastro municipal georreferenciado y actualizado. Ejecutar un desarrollo urbano planificado y ampliar las áreas verdes del distrito. Mejorar la seguridad vial mediante señalización, cruces seguros y medidas de pacificación del tránsito. Implementar una red distrital de ciclovías y mejorar las aceras. Fortalecer la seguridad ciudadana mediante serenazgo y sistemas inteligentes de vigilancia. Construir y recuperar parques con accesibilidad universal y arborización. Fortalecer programas sociales, DEMUNA y atención a grupos vulnerables.",
+            "goal": "Resolver el 100% de los conflictos limítrofes identificados. Actualizar el 90% de los predios urbanos y rurales. Incrementar en 1.5 m² las áreas verdes por habitante. Reducir en 20% los accidentes de tránsito con víctimas. Construir o rehabilitar 12 km de ciclovías. Instalar 300 nuevas cámaras de seguridad. Construir 5 parques inclusivos con equipamiento adecuado. Incrementar en 30% la cobertura de atención social municipal.",
+            "indicator": "Número de conflictos limítrofes resueltos. Porcentaje de predios con información catastral actualizada. m² de áreas verdes por habitante. Número de accidentes con víctimas. Kilómetros de ciclovías construidas o rehabilitadas. Número de cámaras operativas instaladas. Número de parques implementados. Número de beneficiarios atendidos por programas sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Deficiente modernización de la gestión municipal, caracterizada por trámites burocráticos, limitada digitalización de servicios y escasa transparencia en el acceso a la información pública.",
+            "objective": "Modernizar la administración municipal mediante la digitalización de trámites, la implementación de herramientas tecnológicas de gestión y el fortalecimiento de la transparencia y el gobierno abierto para mejorar la atención al ciudadano.",
+            "goal": "Digitalizar el 80% de los trámites municipales de mayor demanda y garantizar su atención mediante una ventanilla única virtual.",
+            "indicator": "Porcentaje de trámites municipales digitalizados y disponibles en línea."
+          },
+          {
+            "problem": "Alta informalidad de las micro y pequeñas empresas (MYPE), limitada generación de empleo para jóvenes y escaso aprovechamiento del potencial turístico y comercial del distrito.",
+            "objective": "Promover el desarrollo económico local mediante la formalización y fortalecimiento de las MYPE, la generación de empleo, la capacitación laboral, el impulso al turismo sostenible y el fortalecimiento del comercio local.",
+            "goal": "Formalizar y capacitar a 300 MYPE, insertar laboralmente a 200 jóvenes por año e incrementar en 25% las ventas de los comercios adheridos a programas de promoción económica municipal.",
+            "indicator": "Número de MYPE formalizadas y capacitadas; número de jóvenes insertados laboralmente mediante programas municipales."
+          },
+          {
+            "problem": "Persisten altos niveles de informalidad en las micro y pequeñas empresas (MYPE), desempleo y subempleo juvenil, brechas en competencias laborales y digitales, limitada articulación entre la oferta laboral y la demanda empresarial, escasa promoción turística, infraestructura comercial deficiente, limitada competitividad del comercio local frente a grandes cadenas y plataformas digitales, dependencia de transferencias del gobierno nacional y baja capacidad de recaudación municipal, así como deficiencias en la ejecución de inversiones públicas que retrasan el desarrollo económico del distrito.",
+            "objective": "Promover el desarrollo económico sostenible del distrito mediante la formalización y fortalecimiento de las MYPE, la generación de empleo local, la capacitación laboral y digital de la población, el impulso al turismo sostenible, el fortalecimiento del comercio y los mercados locales, la atracción de inversiones privadas, la mejora de la infraestructura económica y productiva, el incremento de la recaudación municipal y la optimización de la ejecución de proyectos de inversión pública.",
+            "goal": "ormalizar y capacitar a 300 MYPE del distrito. Insertar laboralmente a 200 jóvenes por año mediante programas de intermediación laboral. Certificar a 1,500 personas en competencias digitales. Duplicar el flujo de visitantes en el circuito turístico oficial del distrito. Incrementar en 25% las ventas de los comercios adheridos a programas de promoción económica local. Remodelar 3 mercados principales del distrito. Incrementar en 20% la recaudación propia municipal. Alcanzar una ejecución anual del 90% del presupuesto de inversión pública.",
+            "indicator": "Número de MYPE formalizadas y capacitadas. Número de jóvenes insertados laboralmente mediante programas municipales. Número de personas certificadas en competencias digitales. Número de visitantes que participan en circuitos turísticos locales. Incremento porcentual de ventas en comercios adheridos a programas de promoción económica. Número de mercados modernizados. Incremento porcentual de la recaudación de tributos municipales. Porcentaje de ejecución del presupuesto destinado a inversión pública."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Expansión urbana descontrolada sobre áreas agrícolas y ecosistemas frágiles, ocupación de franjas marginales del río Lurín, pérdida de biodiversidad y contaminación ambiental que afectan la sostenibilidad del distrito.",
+            "objective": "Ordenar el uso del suelo, proteger las áreas agrícolas y ecológicas, recuperar las fajas marginales del río Lurín, conservar la biodiversidad y fortalecer la gestión ambiental para garantizar un desarrollo territorial sostenible.",
+            "goal": "Conservar el 100% de las zonas agropecuarias y de protección definidas en el ordenamiento territorial, recuperar y proteger 3 km de la faja marginal del río Lurín y crear 2 Áreas de Conservación Local que protejan al menos 100 hectáreas de ecosistemas nativos.",
+            "indicator": "Hectáreas de suelo agropecuario y de protección conservadas; kilómetros de fajas marginales recuperadas; hectáreas de ecosistemas bajo conservación municipal."
+          },
+          {
+            "problem": "Expansión urbana descontrolada sobre áreas agrícolas y ecosistemas de protección, ocupación de fajas marginales del río Lurín y quebradas, pérdida progresiva de biodiversidad y especies nativas, riesgos de inundación y vulnerabilidad territorial, incremento de superficies pavimentadas que generan islas de calor, contaminación ambiental, deterioro de recursos naturales y falta de una gestión integral que garantice el desarrollo sostenible del territorio.",
+            "objective": "Ordenar el uso sostenible del territorio mediante la protección de las áreas agrícolas y ecológicas, la recuperación de las fajas marginales del río Lurín, la conservación de la biodiversidad y los ecosistemas nativos, la mitigación de riesgos ambientales y climáticos, la ampliación de áreas verdes y corredores ecológicos, el fortalecimiento de la gestión ambiental local y la promoción de una cultura de protección ambiental que garantice el equilibrio entre crecimiento urbano, actividad económica y conservación de los recursos naturales.",
+            "goal": "Conservar el 100% de las zonas agropecuarias y ecológicas definidas en el ordenamiento territorial; recuperar y proteger 3 kilómetros de la faja marginal del río Lurín; crear 2 Áreas de Conservación Local que protejan al menos 100 hectáreas de ecosistemas nativos; implementar corredores verdes para mitigar el efecto de isla de calor y garantizar que las áreas urbanas priorizadas incorporen infraestructura verde y criterios de sostenibilidad ambiental.",
+            "indicator": "Hectáreas de suelo agropecuario y ecológico conservadas; kilómetros de fajas marginales recuperadas y protegidas; hectáreas de ecosistemas bajo conservación municipal; porcentaje de áreas verdes implementadas en zonas urbanas; número de áreas de conservación local creadas; reducción de riesgos ambientales y cumplimiento de instrumentos de gestión ambiental."
+          },
+          {
+            "problem": "Expansión urbana descontrolada sobre áreas agrícolas y ecosistemas frágiles, ocupación de franjas marginales del río Lurín, pérdida de biodiversidad y contaminación ambiental que afectan la sostenibilidad del distrito.",
+            "objective": "Ordenar el uso del suelo, proteger las áreas agrícolas y ecológicas, recuperar las fajas marginales del río Lurín, conservar la biodiversidad y fortalecer la gestión ambiental para garantizar un desarrollo territorial sostenible.",
+            "goal": "Conservar el 100% de las zonas agropecuarias y de protección definidas en el ordenamiento territorial, recuperar y proteger 3 km de la faja marginal del río Lurín y crear 2 Áreas de Conservación Local que protejan al menos 100 hectáreas de ecosistemas nativos.",
+            "indicator": "Hectáreas de suelo agropecuario y de protección conservadas; kilómetros de fajas marginales recuperadas; hectáreas de ecosistemas bajo conservación municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficiente sistema de seguimiento y evaluación de metas institucionales. Limitado acceso ciudadano a la información pública y escasa transparencia de la gestión municipal. Participación ciudadana poco incidente en la toma de decisiones municipales. Trámites burocráticos y procesos administrativos lentos Infraestructura tecnológica obsoleta y sistemas municipales no integrados. Débil coordinación con el gobierno nacional, regional y otras instituciones. Escasa articulación con universidades, sociedad civil y sector privado. Baja capacitación y motivación del personal municipal. Débil cultura de servicio al ciudadano en la atención municipal.",
+            "objective": "Implementar un tablero de control municipal para monitorear la gestión y los resultados en tiempo real. Implementar una política de gobierno abierto y datos abiertos mediante un portal único de transparencia. Fortalecer los mecanismos de rendición de cuentas, audiencias públicas y participación vecinal. Digitalizar los servicios municipales mediante una ventanilla única virtual. Modernizar la infraestructura tecnológica e implementar un sistema integrado de gestión municipal (ERP). Establecer mesas técnicas permanentes y alianzas estratégicas para proyectos conjuntos. Crear un Consejo de Desarrollo Local Público-Privado-Académico. Implementar un plan de desarrollo de carrera e incentivos por desempeño. Capacitar y certificar al personal en estándares de atención y calidad de servicio.",
+            "goal": "Monitorear el 100% de los indicadores estratégicos institucionales. Publicar 50 conjuntos de datos de alta demanda ciudadana. Incorporar aportes ciudadanos en al menos 5 decisiones municipales por año. Digitalizar el 80% de los trámites municipales de mayor demanda. Integrar el 70% de los sistemas críticos de la municipalidad. Ejecutar 3 proyectos de impacto regional o nacional por año. Implementar 4 iniciativas anuales concertadas. Incrementar en 25 puntos el índice de satisfacción laboral. Certificar al 100% del personal de atención al público.",
+            "indicator": "Porcentaje de indicadores estratégicos monitoreados. Número de conjuntos de datos publicados en formato abierto. Número de decisiones municipales modificadas por participación ciudadana. Porcentaje de trámites que pueden realizarse completamente en línea. Porcentaje de sistemas administrativos integrados. Número de proyectos ejecutados mediante cooperación interinstitucional. Número de iniciativas desarrolladas con participación multisectorial. Índice de satisfacción laboral del personal. Porcentaje de personal certificado en atención al ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ZNCDX8MXqlwARdVcT9Rn7eFYghXKIQ4-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZNCDX8MXqlwARdVcT9Rn7eFYghXKIQ4-",
+      "sha256": "dba49518b094c33915bd9d571b457e4a306466383a70aae29da78f95f9174794",
+      "accessedAt": "2026-10-02T22:59:26.215Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026013074",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026013074",
+      "sha256": "e7a837ab92f452065d28b847d6d79871746476f74591329626695dec971fb1d6",
+      "accessedAt": "2026-10-02T22:59:26.917Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

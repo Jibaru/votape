@@ -1,0 +1,288 @@
+{
+  "id": "r5knKcTGc3ZdSI9xih9uGNMdN3HZ6dg1",
+  "slug": "yehude-simon-munaro",
+  "electionId": "erm-2026",
+  "name": "Yehude Simon Munaro",
+  "givenNames": "Yehude",
+  "surnames": "Simon Munaro",
+  "age": 79,
+  "gender": "Masculino",
+  "party": {
+    "id": 2982,
+    "name": "COALICION TRANSFORMADORA TIERRA VERDE"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:17.722Z",
+      "sourceId": "jne-hv-r5knKcTGc3ZdSI9xih9uGNMdN3HZ6dg1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD ALAS PERUANAS",
+        "program": "LICENCIADO EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PEDRO RUIZ GALLO",
+        "program": "MEDICO VETERINARIO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1973"
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PEDRO RUIZ GALLO",
+        "program": "ESTUDIANTE",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CARLOS III DE MADRID",
+        "program": "GESTION Y ANALISIS DE POLITICAS PUBLICAS",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2009"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "CONGRESISTA",
+      "from": "2011",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "GOBERNADOR REGIONAL",
+      "party": "PARTIDO MOVIMIENTO HUMANISTA PERUANO",
+      "from": "2007",
+      "to": "2010"
+    },
+    {
+      "office": "CONGRESISTA DE LA REPÚBLICA",
+      "party": "ALIANZA POR EL GRAN CAMBIO",
+      "from": "2011",
+      "to": "2016"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "COMISIÓN POLÍTICA NACIONAL",
+      "party": "PARTIDO HUMANISTA PERUANO P.H.P",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO HUMANISTA PERUANO P.H.P",
+      "from": "2023",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+      "year": "2023"
+    },
+    {
+      "party": "ALIANZA POR EL GRAN CAMBIO",
+      "year": "2011"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 61200,
+        "public": 61200,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 222138.83,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "SIN VALOR ACTUAL - CARRO",
+        "value": 5000
+      },
+      {
+        "type": "CARRO",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "TENGO PROCESO DE INVESTIGACION - PROYECTO OLMOS"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1f6994ec-6766-4a61-ae10-08afe4bb718f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/18a7d1ea-4278-4840-821f-dc6b9927ff85.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Vulnerabilidad alimentaria y sanitaria en sectores de extrema pobreza, con un sistema de programas sociales que presenta filtraciones de usuarios, subcobertura en periferias y debilidades logísticas.",
+            "objective": "Mitigar la vulnerabilidad alimentaria y de salud en los sectores de pobreza extrema, promoviendo la autonomía económica de las familias.",
+            "goal": "Reducir la prevalencia de anemia a menos del 22.0%. Alcanzar que el 90% de los locales de apoyo alimentario cuenten con equipamiento e infraestructura óptima.",
+            "indicator": "Prevalencia de anemia en niños de 6 a 35 meses en zonas vulnerables. Porcentaje de locales de apoyo alimentario con equipamiento e infraestructura óptima."
+          },
+          {
+            "problem": "Crecimiento urbano desarticulado impulsado por el tráfico de tierras y la ocupación informal de zonas de alta vulnerabilidad, expandiendo la huella urbana sin provisión de servicios básicos.",
+            "objective": "Planificar el crecimiento territorial de la provincia, reduciendo la vulnerabilidad social y revalorizando los activos históricos y culturales.",
+            "goal": "Alcanzar el 75% de distritos con catastro urbano actualizado y articulado para el año 2030.",
+            "indicator": "Porcentaje de distritos de Lima con catastro urbano actualizado y articulado."
+          },
+          {
+            "problem": "Grave crisis de movilidad urbana caracterizada por la superposición de competencias institucionales, la masificación del transporte informal, la pérdida de horas-hombre y altos niveles de contaminación.",
+            "objective": "Reducir los tiempos de viaje urbano y la siniestralidad vial a través de una infraestructura inclusiva e intermodal.",
+            "goal": "Disminuir el tiempo promedio de traslado diario en transporte público a 1.4 horas para el año 2030.",
+            "indicator": "Tiempo promedio de traslado diario en transporte público (horas-hombre)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad administrativa y graves deficiencias en infraestructura sanitaria y seguridad en mercados de abastos y camales, representando un riesgo para la salud pública.",
+            "objective": "Garantizar la seguridad e inocuidad alimentaria de los productos que abastecen a la capital, ordenando la cadena de comercialización mayorista y minorista.",
+            "goal": "Lograr que el 85% de los mercados de abastos tradicionales cuenten con certificación sanitaria e ITSE. Clausurar el 100% de los camales clandestinos.",
+            "indicator": "Porcentaje de mercados de abastos tradicionales con certificación sanitaria e ITSE vigente. Número de camales clandestinos detectados y clausurados en la provincia."
+          },
+          {
+            "problem": "Proceso constante de tugurización, incendios y demoliciones ilegales en el patrimonio arquitectónico y monumental, bloqueando la estructuración de corredores turísticos integrados y seguros.",
+            "objective": "Revalorizar los activos históricos y culturales para impulsar el turismo local y dinamizar la economía de las micro y pequeñas empresas.",
+            "goal": "Alcanzar la recuperación y puesta en valor de 120 monumentos históricos para el año 2030.",
+            "indicator": "Número de monumentos históricos catalogados, recuperados y puestos en valor comercial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Fragmentación del circuito de recolección de residuos sólidos debido a asimetrías financieras entre distritos y la capacidad límite de los rellenos sanitarios formales.",
+            "objective": "Transicionar la provincia hacia un modelo de economía circular urbana, garantizando la equidad en el ornato y la calidad ambiental del aire.",
+            "goal": "Alcanzar el 20.0% de residuos sólidos municipales valorizados y reciclados en origen para el año 2030.",
+            "indicator": "Porcentaje de residuos sólidos municipales valorizados y reciclados en origen."
+          },
+          {
+            "problem": "Alta vulnerabilidad de la ciudad ante riesgos sísmicos y fenómenos climáticos, agravada por la autoconstrucción de viviendas en suelos inestables y la falta de sistemas de alerta temprana.",
+            "objective": "Elevar los niveles de resiliencia física de la metrópoli frente a eventos sísmicos de gran magnitud y contingencias climáticas extremas.",
+            "goal": "Lograr que el 60% de las viviendas vulnerables en laderas estén protegidas mediante obras de mitigación estructural para el año 2030.",
+            "indicator": "Porcentaje de viviendas vulnerables protegidas en laderas mediante obras de mitigación estructural."
+          },
+          {
+            "problem": "Profunda desigualdad ambiental intraurbana, con un promedio de áreas verdes por habitante (3.5 m²) muy por debajo del parámetro recomendado por la OMS (9 m²).",
+            "objective": "Garantizar la equidad en el ornato y la calidad ambiental del aire, fortaleciendo la limpieza pública y el manejo de las áreas verdes.",
+            "goal": "Incrementar el índice de áreas verdes por habitante a 6.5 m² en los distritos de la periferia metropolitana para el año 2030.",
+            "indicator": "Índice de áreas verdes por habitante en distritos de la periferia metropolitana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Inconductas funcionales recurrentes en los procesos de contratación pública, obras y fiscalización, lo cual debilita la capacidad operativa y destruye la confianza ciudadana.",
+            "objective": "Elevar los estándares de integridad, digitalización e interoperabilidad de la administración pública metropolitana para erradicar la inconducta funcional.",
+            "goal": "Ubicar a la provincia en el tercio inferior del índice de corrupción a nivel nacional. Digitalizar el 95% de los trámites de cara al ciudadano.",
+            "indicator": "Índice de Corrupción e Inconducta Funcional (INCO - CGR). Porcentaje de trámites digitalizados de cara al ciudadano."
+          },
+          {
+            "problem": "Crisis multidimensional de seguridad, caracterizada por la diversificación de economías criminales y la fragmentación de los sistemas de videovigilancia, reduciendo la eficacia en la disuasión del delito.",
+            "objective": "Reducir los niveles de victimización y desarticular los mercados delictivos en la provincia mediante la unificación tecnológica y operativa del territorio.",
+            "goal": "Reducir la tasa de victimización al 18.0%. Integrar el 100% de las cámaras distritales a la central municipal.",
+            "indicator": "Tasa de victimización en Lima Metropolitana. Porcentaje de cámaras distritales integradas a la central de la Municipalidad Metropolitana de Lima."
+          },
+          {
+            "problem": "Ausencia de un control ciudadano efectivo e irreversible sobre la ejecución del presupuesto público metropolitano, lo que facilita la opacidad y la mala gestión de los recursos.",
+            "objective": "Restaurar de manera irreversible el control ciudadano sobre la ejecución del presupuesto público metropolitano.",
+            "goal": "Alcanzar el 100% de la ejecución presupuestal de inversiones auditada bajo control ciudadano para el año 2030.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversiones auditado bajo control ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-penal-138562",
+      "category": "criminal_sentence",
+      "summary": "Sentencia penal declarada: APOLOGIA AL TERRORISMO",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "date": "1993-04-05",
+      "details": {
+        "materia": "APOLOGIA AL TERRORISMO",
+        "fallo": "20 AÑOS",
+        "modalidad": "EFECTIVA",
+        "cumplimiento": "PENA CUMPLIDA",
+        "juzgado": "NO ESPECIFICA",
+        "expediente": "01-93",
+        "comentario": "FUE INDULTADO EL 03 DE DICIEMBRE DEL 2000 POR FALTA DE PRUEBAS POR COMISION ADHOC PARA CASO DE TERRORISMO CREADO POR DECRETO LEY 26655 POR GOBIERNO DE ALBERTO FUJIMORI"
+      },
+      "quote": "APOLOGIA AL TERRORISMO · 20 AÑOS · EFECTIVA · PENA CUMPLIDA",
+      "sourceIds": [
+        "jne-hv-r5knKcTGc3ZdSI9xih9uGNMdN3HZ6dg1"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-r5knKcTGc3ZdSI9xih9uGNMdN3HZ6dg1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/r5knKcTGc3ZdSI9xih9uGNMdN3HZ6dg1",
+      "sha256": "ec082184ad24c722b9b3bf043bddff3d91509824bb457cf3addf00a7b4749395",
+      "accessedAt": "2026-10-02T22:49:17.722Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022326",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022326",
+      "sha256": "5f00288208a232df7881d2d3a3f51d452f774dbf238ee8410a4d7bf066d4ef02",
+      "accessedAt": "2026-10-02T22:49:18.230Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

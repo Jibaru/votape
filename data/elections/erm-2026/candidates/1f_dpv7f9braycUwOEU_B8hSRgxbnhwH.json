@@ -1,0 +1,185 @@
+{
+  "id": "1f_dpv7f9braycUwOEU_B8hSRgxbnhwH",
+  "slug": "jose-dalton-li-bravo",
+  "electionId": "erm-2026",
+  "name": "Jose Dalton Li Bravo",
+  "givenNames": "Jose Dalton",
+  "surnames": "Li Bravo",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:51.979Z",
+      "sourceId": "jne-hv-1f_dpv7f9braycUwOEU_B8hSRgxbnhwH"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "Municipalidad distrital de Breña",
+      "role": "Alcalde",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "Tracto Camión",
+        "value": 35000
+      },
+      {
+        "type": "Volquete",
+        "value": 25000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/47335823-44e9-4803-a5e8-2a3635ab5faf.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1c6a8d78-9f09-4e69-be45-b7903046fa29.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Desorden en el transporte y falta de orden vial que generan pérdida de tiempo, estrés y afectan la dignidad de los transeúntes y conductores en el distrito.",
+            "objective": "Ordenar y mejorar la movilidad urbana en el distrito, promoviendo la educación vial, aplicando las normas de tránsito y coordinando con la Municipalidad Metropolitana de Lima para el reordenamiento del transporte.",
+            "goal": "Señalizar 15 vías principales al 2030. Poner en funcionamiento 8 paraderos al 2030. Ejecutar un mínimo de 4 campañas de educación vial por año.",
+            "indicator": "Número de vías principales con señalización mejorada. Número de paraderos de transporte reorganizados. Número de campañas de educación vial ejecutadas."
+          },
+          {
+            "problem": "Insuficiencia de espacios socioculturales, deportivos y formativos para el desarrollo de la población, lo cual genera consecuencias negativas como la desintegración familiar, el sedentarismo y la drogadicción.",
+            "objective": "Crear y fortalecer espacios socioculturales, deportivos y de desarrollo humano inclusivos que brinden oportunidades reales de crecimiento a jóvenes, adultos mayores, mujeres y personas con discapacidad del distrito.",
+            "goal": "Realizar un mínimo de 10 actividades anuales al 2030. Beneficiar a un mínimo de 300 personas por programa al 2030. Inscribir a 100 jóvenes en la Academia Pre-Universitaria al finalizar el período. Atender a 200 adultos mayores por año al 2030.",
+            "indicator": "Número de actividades culturales y deportivas realizadas por año. Número de beneficiarios por programa. Número de jóvenes inscritos en la Academia Pre-Universitaria Municipal. Número de adultos mayores atendidos en programas municipales."
+          },
+          {
+            "problem": "Elevada inseguridad ciudadana que afecta la vida diaria de los vecinos del distrito, caracterizada por la falta de equipamiento tecnológico y una inadecuada articulación entre el serenazgo, las organizaciones vecinales y la Policía Nacional.",
+            "objective": "Fortalecer el sistema integral de seguridad ciudadana del distrito, articulando el serenazgo, las organizaciones vecinales y la Policía Nacional del Perú, con apoyo tecnológico de videovigilancia y respuesta oportuna.",
+            "goal": "Instalar 20 cámaras al 2030. Alcanzar un 50% de percepción de mejora en seguridad al 2030. Realizar un mínimo de 24 operativos anuales. Activar 8 juntas vecinales al 2030. Capacitar al 100% del personal de serenazgo al 2030.",
+            "indicator": "Número de cámaras de videovigilancia instaladas. Porcentaje de vecinos que perciben mejora en la seguridad ciudadana. Número de operativos de seguridad realizados. Número de juntas vecinales de autodefensa activas. Porcentaje del personal de serenazgo con capacitación certificada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja recaudación de arbitrios debido a la desconfianza de los vecinos en la gestión municipal, lo que limita la capacidad de inversión del distrito.",
+            "objective": "Mejorar la educación tributaria y optimizar el sistema de cobranzas municipales, generando confianza ciudadana mediante la demostración de resultados concretos y la ejecución efectiva del presupuesto.",
+            "goal": "Lograr un incremento acumulado del 15% en la recaudación tributaria al 2030 respecto a la línea base 2027. Realizar un mínimo de 2 campañas de educación tributaria por año. Gestionar S/. 2 millones en recursos adicionales al 2030.",
+            "indicator": "Porcentaje de incremento acumulado en recaudación tributaria. Número de campañas de educación tributaria realizadas. Monto de recursos adicionales gestionados ante el Gobierno Central."
+          },
+          {
+            "problem": "Ineficiente ejecución de proyectos de inversión pública, donde las obras se inician pero no se concluyen, debido a la falta de capacidad técnica, supervisión y rendición de cuentas.",
+            "objective": "Conformar un equipo técnico de alto nivel para la formulación, ejecución y supervisión de proyectos de inversión pública, garantizando el cumplimiento de plazos, la calidad técnica y la transparencia en la ejecución.",
+            "goal": "Ejecutar el 70% de las obras dentro del plazo programado al 2030. Ejecutar S/. 8 millones en inversión pública durante el período. Capacitar al 100% del equipo técnico municipal en Invierte.pe al 2030.",
+            "indicator": "Porcentaje de obras ejecutadas dentro del plazo programado. Monto de inversión pública ejecutada durante el período. Porcentaje del equipo técnico municipal con capacitación vigente en Invierte.pe."
+          },
+          {
+            "problem": "Falta de apoyo, certificación y alianzas para los emprendedores y negocios locales, limitando su competitividad y desarrollo económico en el distrito.",
+            "objective": "Articular alianzas con el sector privado y la cooperación internacional, e impulsar el emprendimiento y la competitividad de las micro, pequeñas y medianas empresas del distrito.",
+            "goal": "Suscribir 5 convenios activos con el sector privado al 2030. Certificar 30 establecimientos comerciales con el sello «Calidad Breña» al 2030. Realizar un mínimo de 2 ferias laborales y eventos empresariales por año.",
+            "indicator": "Número de convenios activos suscritos con el sector privado. Número de establecimientos comerciales con sello «Calidad Breña». Número de ferias laborales y eventos empresariales realizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasez y descuido de los parques y áreas verdes en el distrito, con un índice de área verde por habitante muy por debajo de lo recomendado.",
+            "objective": "Incrementar, mantener y mejorar las áreas verdes del distrito, promoviendo un entorno saludable y el embellecimiento del ornato de Breña.",
+            "goal": "Alcanzar 1,5 metros cuadrados de área verde por habitante al 2030. Renovar o crear 5 parques durante el período de gobierno.",
+            "indicator": "Metros cuadrados de área verde por habitante. Número de parques renovados o creados durante el período."
+          },
+          {
+            "problem": "Baja cultura ambiental en la población, lo que resulta en prácticas inadecuadas de manejo de residuos y contaminación, afectando la salud y el entorno del barrio.",
+            "objective": "Organizar programas de capacitación y concientización ambiental entre los vecinos, estudiantes y visitantes del distrito, formando promotores ambientales que lideren el cambio desde sus propios barrios.",
+            "goal": "Realizar 6 talleres anuales de educación ambiental al 2030. Formar 15 promotores ambientales activos al 2030. Instalar 80 tachos de basura en puntos estratégicos al 2030.",
+            "indicator": "Número de talleres de educación ambiental realizados por año. Número de promotores ambientales formados. Número de tachos de basura instalados en el distrito."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos en la vía pública, cobertura insuficiente del servicio de recolección y ausencia de un programa de segregación, afectando la calidad de vida de los vecinos.",
+            "objective": "Modernizar el sistema de limpieza pública e implementar la cultura de segregación de residuos sólidos, promoviendo la participación vecinal y aplicando la normativa municipal con firmeza.",
+            "goal": "Incorporar 300 hogares al Programa de Segregación en la Fuente al 2030. Alcanzar una cobertura de limpieza pública del 85% en las vías del distrito al 2030. Instalar 50 contenedores en puntos estratégicos al 2030.",
+            "indicator": "Número de hogares incorporados al Programa de Segregación en la Fuente. Porcentaje de vías del distrito con cobertura de limpieza pública. Número de contenedores instalados en puntos estratégicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficiente atención al ciudadano en las instalaciones municipales, caracterizada por procedimientos ineficientes, falta de personalización y barreras de accesibilidad para personas con discapacidad y adultos mayores.",
+            "objective": "Modernizar las instalaciones municipales para brindar una atención personalizada, eficiente e inclusiva a todos los vecinos de Breña.",
+            "goal": "Habilitar 3 módulos operativos de atención al 2030. Lograr un 60% de satisfacción de los vecinos con la atención municipal al 2030. Habilitar el 100% de los accesos al local municipal con rampas al 2030.",
+            "indicator": "Número de módulos de atención al vecino habilitados. Porcentaje de vecinos satisfechos con la atención municipal. Porcentaje de accesos al local municipal con rampas habilitadas."
+          },
+          {
+            "problem": "Pérdida de confianza ciudadana en la municipalidad debido a debilidades históricas en transparencia, ética pública y calidad del servicio, fomentando la percepción de corrupción.",
+            "objective": "Consolidar la imagen institucional de la Municipalidad de Breña a través de la ética pública, la lucha anticorrupción, la formación permanente en valores y la implementación de estándares internacionales de calidad.",
+            "goal": "Capacitar al 100% del personal directivo en ética y anticorrupción al 2030. Implementar la certificación ISO 9001 en un área piloto al 2030. Publicar el 100% de los procesos disciplinarios resueltos en el portal de transparencia al 2030.",
+            "indicator": "Porcentaje del personal directivo capacitado en ética y anticorrupción. Certificación ISO 9001 implementada en un área piloto. Porcentaje de procesos disciplinarios resueltos y publicados."
+          },
+          {
+            "problem": "Infraestructura tecnológica municipal obsoleta que genera sobrecostos, pérdida de tiempo para los ciudadanos y baja eficiencia en la gestión de los servicios.",
+            "objective": "Actualizar e implementar una infraestructura tecnológica innovadora que optimice los servicios municipales, reduzca los tiempos de respuesta al ciudadano y lleve más servicios al entorno digital.",
+            "goal": "Disponer de 5 servicios municipales en línea al 2030. Reducir en un 30% el tiempo promedio de atención al ciudadano al 2030. Instalar GPS en el 100% de los vehículos de serenazgo y limpieza pública al 2030.",
+            "indicator": "Número de servicios municipales disponibles en línea. Porcentaje de reducción en el tiempo promedio de atención al ciudadano. Porcentaje de vehículos de serenazgo y limpieza pública con GPS instalado."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-1f_dpv7f9braycUwOEU_B8hSRgxbnhwH",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1f_dpv7f9braycUwOEU_B8hSRgxbnhwH",
+      "sha256": "b9f585b6f16ab3f5380aeaf0f1a6f39a193c9fccc5ebf248c4b76e97f8270f93",
+      "accessedAt": "2026-10-02T22:51:51.979Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021169",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021169",
+      "sha256": "17dd487a07d2f33df6ddedefd02ea0c19f9a9f1fe0dbdf219f35e83906af6f4a",
+      "accessedAt": "2026-10-02T22:51:52.502Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN",
+  "slug": "ricardo-santiago-vasquez-laguna",
+  "electionId": "erm-2026",
+  "name": "Ricardo Santiago Vasquez Laguna",
+  "givenNames": "Ricardo Santiago",
+  "surnames": "Vasquez Laguna",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:13.612Z",
+      "sourceId": "jne-hv-QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada \"San Juan Bautista\"",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada \"San Juan Bautista\"",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "DERECHO PROCESAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "CENTRO DE ESTUDIOS NACIONALES - CAEN",
+        "program": "GESTION MUNICIPAL",
+        "completed": true,
+        "degree": "DIPLOMADO",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "DOCTORADO EN DERECHO",
+        "completed": true,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESOR",
+      "from": "2025",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "ACCION POPULAR",
+      "year": "2014"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 34726.22,
+        "public": 34726.22,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 44690
+      },
+      {
+        "type": "AUTO",
+        "value": 20000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESTUDIO JURIDICO VASQUEZ LAGUNA SAC",
+        "type": "ACCIONES",
+        "quantity": 9000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/03860011-6a7a-4596-b1c4-aa54147ca007.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5b2480de-0b30-4b16-8974-837ca0d0039e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana y violencia contra la mujer",
+            "objective": "Coadyuvar a prevenir y contrarrestar",
+            "goal": "Reducir las incidencias de delitos y faltas",
+            "indicator": "incidencia de delitos"
+          },
+          {
+            "problem": "Mototaxis Informales",
+            "objective": "Establecer órganos de control",
+            "goal": "Reducir Informalidad",
+            "indicator": "Registros de mototaxistas"
+          },
+          {
+            "problem": "Abandono de los espacios deportivos",
+            "objective": "Recuperación, mantenimiento y acondicionamiento de los espacios.",
+            "goal": "Aumentar los espacios deportivos",
+            "indicator": "numero de espacios"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades para los jóvenes del distrito.",
+            "objective": "Coadyuvar con la formación técnica de los jóvenes del distrito de chorrillos",
+            "goal": "Gestionar convenios con institutos y universidades",
+            "indicator": "Gestionar"
+          },
+          {
+            "problem": "Comercio Informal",
+            "objective": "Promover la formalización",
+            "goal": "Disminuir comercio informal",
+            "indicator": "fiscalizar"
+          },
+          {
+            "problem": "Falta de promoción de Turismo",
+            "objective": "Implementar un circuito turístico",
+            "goal": "Promover el turismo",
+            "indicator": "Circuitos turisticos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación del medio ambiente",
+            "objective": "Implementar políticas locales medio ambientales",
+            "goal": "Ejecutar las políticas medio ambientalistas",
+            "indicator": "Numero de políticas implementadas"
+          },
+          {
+            "problem": "Pesimo servicio de recojo de residuos solidos",
+            "objective": "Mejorar programa de servicio de recolección de residuos solidos",
+            "goal": "Mejorar ejecución de programa",
+            "indicator": "Ejecutar programa"
+          },
+          {
+            "problem": "Falta de limpieza publica",
+            "objective": "Implementar procesos de inversión del servicio de limpieza publica",
+            "goal": "Mejorar servicio de limpieza",
+            "indicator": "Proyectos de inversión"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de implementación de procesos innovadores",
+            "objective": "Implementar procesos eficientes",
+            "goal": "Ejecutar las practicas implementada s",
+            "indicator": "Numero de buenas practicas"
+          },
+          {
+            "problem": "Falta de portal de transparencia en pagina web",
+            "objective": "Generar mecanismos de accesibilidad y transparencia de la información",
+            "goal": "diseñar portal web de fácil consulta",
+            "indicator": "Numero de mecanismos"
+          },
+          {
+            "problem": "Falta de plataformas eficientes y modernas",
+            "objective": "Brindar un servicio eficiente y eficaz",
+            "goal": "Ampliar el servicio de atención virtual",
+            "indicator": "N° ° de Atenciones virtuales"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN",
+      "sha256": "4382ce8dff67d57a2cb75de87e23b1c7568c712f6b83085da4cd73b7804ef03c",
+      "accessedAt": "2026-10-02T22:54:13.612Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015028",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015028",
+      "sha256": "094f8a145f18857255675e8ab9007cebefea611724da24dd42824f17592b76de",
+      "accessedAt": "2026-10-02T22:54:14.127Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

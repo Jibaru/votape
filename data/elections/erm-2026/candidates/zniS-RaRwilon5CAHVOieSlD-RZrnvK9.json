@@ -1,0 +1,175 @@
+{
+  "id": "zniS-RaRwilon5CAHVOieSlD-RZrnvK9",
+  "slug": "ignacio-jorge-sebastian-tavara-arroyo",
+  "electionId": "erm-2026",
+  "name": "Ignacio Jorge Sebastian Tavara Arroyo",
+  "givenNames": "Ignacio Jorge Sebastian",
+  "surnames": "Tavara Arroyo",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:35.154Z",
+      "sourceId": "jne-hv-zniS-RaRwilon5CAHVOieSlD-RZrnvK9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "PONTIFICIA UNIVERSIDAD CATOLICA DEL PERÚ",
+        "program": "BACHILLER EN SOCIOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "CONSULTOR TEMAS SOCIALES",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "MINISTERIO DE ENERGIA Y MINAS",
+      "role": "ESPECIALISTA SOCIAL",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "PETROTAL SRL",
+      "role": "COORDINADOR DE GESTION SOCIAL",
+      "from": "2019",
+      "to": "2024"
+    },
+    {
+      "employer": "MINERA LAS BAMBAS",
+      "role": "ESPECIALISTA EN RIESGOS SOCIALES",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 75500,
+        "public": 0,
+        "private": 75500
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "SECCION ESPECIAL DE PREDIOS RURALES",
+        "value": 4800,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "TUVE UN AUTO CON PLACA ARQ-001 PERO ESTE FUE VENDIDO Y YA CUENTA CON OTRO DUEÑO EN SUNARP"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/cdc5a4cb-00f0-4ff2-a643-36da691eb355.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7d87583b-a2d5-4976-bbe5-a91d299d012b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Brechas críticas de infraestructura básica y saneamiento, con un 25% de la población sin conexión domiciliaria de agua y alcantarillado, y un déficit de pavimentación vial superior al 40% en la periferia.",
+            "objective": "Reducir en un 25% el déficit de infraestructura vial, peatonal y de servicios básicos en los asentamientos humanos, promoviendo una movilidad urbana fluida y accesible.",
+            "goal": "Al 2031, lograr 40 kilómetros de vías asfaltadas y construir 270 unidades entre escaleras y muros de contención.",
+            "indicator": "Kilómetros de vías internas y colectoras pavimentadas. Número de escaleras con iluminación solar y muros de contención construidos en laderas."
+          },
+          {
+            "problem": "Alta vulnerabilidad alimentaria y de salud pública, evidenciada por un índice de anemia del 41.2% en niños menores de 36 meses y la operación de más de 180 ollas comunes con recursos deficitarios.",
+            "objective": "Garantizar la protección social, erradicar la desnutrición crónica y reducir a la mitad los niveles de anemia infantil al 2031, optimizando los recursos alimentarios comunitarios.",
+            "goal": "Al 2031, reducir la tasa de anemia infantil al 16.0% y alcanzar el 100% de ollas comunes y comedores equipados y formalizados.",
+            "indicator": "Tasa de anemia infantil en niños de 6 a 36 meses. Porcentaje de ollas comunes y comedores equipados y formalizados con subsidio."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada informalidad económica y subempleo, donde más del 78% de las unidades comerciales y de servicios operan en la informalidad, y el comercio ambulatorio satura los nodos de transporte sin un plan técnico.",
+            "objective": "Incrementar en un 40% la formalización empresarial de las micro y pequeñas empresas (MYPE) y potenciar la generación de empleo joven digno a nivel local.",
+            "goal": "Al 2031, lograr que el 100% de los trámites de licencias para comercios de bajo y medio riesgo se emitan vía web.",
+            "indicator": "Porcentaje de trámites de licencias comerciales emitidos vía web en un plazo máximo de 24 horas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Existencia de pasivos ambientales y un alto riesgo de desastres, manifestados en la contaminación crítica del río Chillón por desmonte y la autoconstrucción en laderas con riesgo sísmico y de huaicos.",
+            "objective": "Asegurar la protección de los ecosistemas, recuperar la cuenca del río Chillón, incrementar las áreas verdes por habitante y mitigar la vulnerabilidad ante desastres de la población en laderas.",
+            "goal": "Al 2031, haber sembrado 15,000 árboles de especies nativas en el distrito.",
+            "indicator": "Número de árboles sembrados en el proyecto 'Cinturón Verde de Carabayllo' y la ribera del río Chillón."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana desbordada, con un incremento del 45% en denuncias por extorsión y robos, un déficit crítico de efectivos de serenazgo y más de la mitad de las cámaras de videovigilancia inoperativas.",
+            "objective": "Reducir en un 35% la victimización delictiva y la percepción de inseguridad mediante la modernización tecnológica del serenazgo, la interoperabilidad con la PNP y el empoderamiento de las Juntas Vecinales.",
+            "goal": "Al 2031, contar con 720 cámaras de videovigilancia operativas y 800 agentes de serenazgo en servicio activo.",
+            "indicator": "Número de cámaras de videovigilancia interconectadas e inteligentes operativas. Número de efectivos de serenazgo vecinal en servicio activo."
+          },
+          {
+            "problem": "Opacidad e ineficiencia institucional, con una percepción de corrupción del 85% en trámites y la carencia de portales de transparencia con datos abiertos actualizados y mecanismos de rendición de cuentas.",
+            "objective": "Lograr el 100% de cumplimiento en los estándares de transparencia gubernamental y digitalizar los trámites municipales para desterrar los focos de corrupción y agilizar la atención ciudadana.",
+            "goal": "Al 2031, alcanzar y mantener el 100% de cumplimiento permanente del Portal de Transparencia.",
+            "indicator": "Nivel de cumplimiento del Portal de Transparencia Estándar según la Ley N° 27806."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zniS-RaRwilon5CAHVOieSlD-RZrnvK9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zniS-RaRwilon5CAHVOieSlD-RZrnvK9",
+      "sha256": "52ac233cf0e6f41ad8b6fb54ab02f0389398d1430511cd27d1cc2293eba8daf8",
+      "accessedAt": "2026-10-02T22:52:35.154Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015451",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015451",
+      "sha256": "6ba15f61922962a25517978d7344043a40af73168cf34fe12fda0ea5015a77c6",
+      "accessedAt": "2026-10-02T22:52:35.641Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

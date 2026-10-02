@@ -1,0 +1,305 @@
+{
+  "id": "Yh20TYqNaoa8_dRrc8vyh1PNPVqWD5so",
+  "slug": "maria-perla-espinoza-aquino",
+  "electionId": "erm-2026",
+  "name": "Maria Perla Espinoza Aquino",
+  "givenNames": "Maria Perla",
+  "surnames": "Espinoza Aquino",
+  "age": 49,
+  "gender": "Femenino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140110",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:21.080Z",
+      "sourceId": "jne-hv-Yh20TYqNaoa8_dRrc8vyh1PNPVqWD5so"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2003"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Pedro Ruiz Gallo",
+        "program": "BACHILLER EN ECONOMIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD DE LIMA",
+        "program": "PROGRAMA ESPECIAL DE GESTION DE CONTRATACIONES CON EL ESTADO",
+        "completed": true,
+        "degree": null,
+        "year": "2018"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "GOBIERNO REGIONAL DEL CALLAO",
+      "role": "GERENTE REGIONAL DE DESARROLLO",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PACHACAMAC",
+      "role": "GERENTE DE TURISMO Y DESARROLLO ECONOMICO",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "GOBIERNO REGIONAL DE ANCASH",
+      "role": "GERENTE DE DESARROLLO SOCIAL",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITSL DE BELLAVISTA",
+      "role": "GERENTE DE SERVICIOS SOCIALES",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CINEGUILLA",
+      "role": "GERENTE DE DESARROLLO SOCIAL",
+      "from": "2019",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "VIVA LA MOLINA",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "VIVA LA MOLINA",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "position": "TESORERO SUPLENTE",
+      "party": "VIVA LA MOLINA",
+      "from": "2018",
+      "to": "2019"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "VIVA LA MOLINA",
+      "year": "2019"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 215604,
+        "public": 215604,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 402000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "Terreno - Lote de 115.65 mt2",
+        "value": 118650,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 123580,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Marca Renault Modelo Koleos Color Blanco Universal Año 2023.",
+        "value": 80000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/0e2dcf15-6c45-45ee-b359-76604771e27b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/bc36d71a-c555-4bcb-baab-e8f211956a2a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de titulación predial en zonas altas, enfoque asistencialista en servicios para poblaciones vulnerables, deterioro de espacios deportivos y abandono de la fauna urbana.",
+            "objective": "Promover la inclusión social y la seguridad jurídica mediante el saneamiento físico-legal de predios, la descentralización de programas sociales, la recuperación de espacios públicos y el control sanitario de la fauna urbana.",
+            "goal": "Entregar 1,000 títulos de propiedad gratuitamente al 2030 y recuperar el 100% de las losas barriales con iluminación y techo solar al 2030.",
+            "indicator": "Número de predios formalizados, porcentaje de población vulnerable integrada a programas productivos, número de losas deportivas recuperadas y número de mascotas esterilizadas y registradas."
+          },
+          {
+            "problem": "Postración técnica y operativa del sistema de salud local, con infraestructura paralizada, desabastecimiento crónico en postas del MINSA y centralización de los servicios de Molisalud.",
+            "objective": "Reestructurar el modelo de atención médica distrital mediante el destrabe de la infraestructura física, la optimización logística de recursos biomédicos y la descentralización de los servicios de salud municipal.",
+            "goal": "Al 2029, el 100% de la Posta de Musa estará construida y equipada, y el 100% de las postas del MINSA estarán repotenciadas.",
+            "indicator": "Porcentaje de avance físico de la obra del Puesto de Salud de Musa, porcentaje de establecimientos de primer nivel repotenciados y número de campañas itinerantes ejecutadas."
+          },
+          {
+            "problem": "Aislamiento institucional de las escuelas públicas, descuido de sus áreas verdes perimetrales y nula preparación de la comunidad escolar en primeros auxilios y respuesta ante sismos.",
+            "objective": "Fortalecer el entorno educativo y las capacidades de resiliencia escolar mediante la articulación con instituciones públicas, el mantenimiento de sus perímetros y la capacitación en gestión del riesgo de desastres.",
+            "goal": "Integrar al 100% de los colegios públicos a las actividades municipales para el 2030 y realizar 4 simulacros y talleres de primeros auxilios al año por colegio.",
+            "indicator": "Estadística porcentual de colegios integrados a torneos municipales, porcentaje de entornos escolares recuperados y número de simulacros y talleres de primeros auxilios ejecutados."
+          },
+          {
+            "problem": "Colapso tecnológico y logístico en seguridad ciudadana, con videovigilancia obsoleta, flota vehicular insuficiente, alta rotación de personal y avance de extorsiones en zonas fronterizas.",
+            "objective": "Modernizar la tecnología y logística de seguridad, dignificar la labor del serenazgo para retener talento y asumir el liderazgo del CODISEC contra el crimen organizado.",
+            "goal": "Alcanzar el 100% de la red con fibra óptica y analítica facial al 2030, y aumentar la flota a 35 camionetas y reparar el 100% de los drones al 2028.",
+            "indicator": "Porcentaje de cámaras de videovigilancia modernizadas, número de unidades vehiculares y drones operativos, y tasa de rotación anual del personal de serenazgo."
+          },
+          {
+            "problem": "Saturación vial crítica en los accesos del distrito, falta de soluciones de ingeniería de tránsito moderna, carencia de conectividad intermodal y riesgo geológico por caída de rocas.",
+            "objective": "Optimizar la movilidad distrital aplicando ingeniería de tránsito avanzada, mitigando el riesgo geológico, estructurando corredores de interconexión intermodal y regulando la demanda de transporte institucional.",
+            "goal": "Reducir en un 30% el tiempo de viaje al 2029, estabilizar el 100% de los taludes del cerro Centinela al 2029 y construir 15 km de nuevas ciclovías al 2030.",
+            "indicator": "Tiempo promedio de desplazamiento, porcentaje de avance físico en obras de protección geológica, kilómetros de ciclovías construidas y número de corredores de integración intermodal viabilizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Concentración de servicios modernos en el eje bajo del distrito, forzando largos viajes de abastecimiento que colapsan las vías y afectan la residencialidad.",
+            "objective": "Descentralizar el comercio vecinal, flexibilizando la zonificación de forma regulada para acercar los servicios básicos a la periferia.",
+            "goal": "Habilitar corredores comerciales vecinales periféricos al 2028 y reducir en un 20% el flujo vehicular por compras internas al 2030.",
+            "indicator": "Estadística de nuevos establecimientos de servicios esenciales en sectores periféricos y porcentaje de reducción de viajes internos para abastecimiento."
+          },
+          {
+            "problem": "Trámites lentos para licencias, fiscalización punitiva que frena la formalización y rezago tecnológico en los mercados de abastos.",
+            "objective": "Digitalizar y simplificar el aparato municipal, orientando la fiscalización hacia la formalización y la digitalización comercial.",
+            "goal": "Emitir licencias en un máximo de 168 horas al 2028 y lograr que el 80% de los comercios usen billeteras digitales al 2029.",
+            "indicator": "Tiempo promedio de emisión de licencias de funcionamiento y número de comerciantes que utilizan herramientas de comercio electrónico."
+          },
+          {
+            "problem": "Nula promoción de activos naturales y culturales como el trekking, las lomas y los circuitos ecuestres, y falta de alianzas privadas para generar empleo.",
+            "objective": "Posicionar al distrito como un polo gastronómico y ecoturístico metropolitano mediante alianzas estratégico-privadas a costo cero para el municipio.",
+            "goal": "Incrementar en un 40% el flujo de ecoturismo regulado al 2029 e implementar 3 circuitos turísticos bajo el modelo APP al 2028.",
+            "indicator": "Tasa de incremento de empleo local generado y número de proyectos bajo la modalidad de Asociación Público-Privada (APP) activos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alto gasto corriente en riego por camión cisterna o agua potable y desatención hídrica asimétrica en parques de zonas altas y periferias.",
+            "objective": "Optimizar el gasto corriente municipal mediante la ecoeficiencia hídrica, la infraestructura de tratamiento local y la tecnificación del regadío masivo.",
+            "goal": "Reducir en un 30% el costo de riego al 2029 y migrar el 60% de los parques principales a riego tecnificado al 2030.",
+            "indicator": "Porcentaje de reducción del gasto corriente destinado al riego y metros cuadrados de áreas verdes migradas al sistema de riego tecnificado."
+          },
+          {
+            "problem": "Caída de ramas enfermas que amenazan la seguridad vecinal, estrés térmico por alta radiación y falta de árboles nativos de bajo consumo hídrico.",
+            "objective": "Implementar un modelo de silvicultura urbana preventiva y forestación con especies nativas xerófitas para generar sombra sin dañar los pavimentos.",
+            "goal": "Diagnosticar el 100% del arbolado urbano al 2028 y plantar 5,000 especies nativas de bajo consumo hídrico al 2030.",
+            "indicator": "Porcentaje de avance del inventario fitosanitario del arbolado, número de nuevos árboles de especies nativas plantados y reducción de incidencias por caídas de ramas."
+          },
+          {
+            "problem": "Abandono, falta de luz y subutilización del sendero verde de la Av. Separadora Industrial, convirtiéndose en un foco de delincuencia y drogas.",
+            "objective": "Recuperar y rehabilitar ambientalmente los espacios públicos fronterizos mediante urbanismo preventivo, iluminación solar e integración social.",
+            "goal": "Recuperar el 100% del sendero verde de la Av. Separadora Industrial al 2028 e instalar la totalidad de la iluminación solar para el 2028.",
+            "indicator": "Metros lineales de sendero verde recuperado, número de luminarias solares instaladas y reducción porcentual de incidencias delictivas."
+          },
+          {
+            "problem": "Esquema de recojo de residuos costoso, baja segregación vecinal, desperdicio orgánico en mercados y arrojo clandestino de desmonte en laderas.",
+            "objective": "Transitar formalmente hacia la economía circular, valorizando los residuos orgánicos y aplicando fiscalización tecnológica contra el vertido informal.",
+            "goal": "Incrementar a un 40% la segregación vecinal en la fuente al 2029 y alcanzar cero puntos críticos de arrojo de desmonte en laderas al 2028.",
+            "indicator": "Toneladas métricas anuales de residuos sólidos aprovechables, volumen de compost producido mensualmente y número de puntos críticos de arrojo de desmonte erradicados."
+          },
+          {
+            "problem": "Presión urbana e invasiones informales latentes sobre las Lomas de La Molina y el Parque Ecológico por falta de límites físicos y planes de manejo.",
+            "objective": "Proteger los pulmones verdes y la biodiversidad distrital mediante una delimitación física estricta, planes de manejo actualizados y convenios científicos.",
+            "goal": "Delimitar físicamente el 100% de las zonas de amortiguamiento al 2028 y lograr un 0% de invasiones en áreas protegidas.",
+            "indicator": "Porcentaje de perímetro de ecosistemas frágiles delimitado, plan de manejo ambiental actualizado y aprobado, y porcentaje de conservación de la cobertura vegetal estacional."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Portal de Transparencia meramente formal, falta de control interactivo ciudadano en gastos y obras, y riesgo de corrupción por falta de canales seguros de denuncia.",
+            "objective": "Implementar un modelo de integridad y gobierno abierto mediante la visualización de datos en tiempo real y canales anónimos blindados de denuncia.",
+            "goal": "Alcanzar el 100% de cumplimiento en portales de transparencia al 2028 y lograr cero denuncias archivadas sin investigación técnica.",
+            "indicator": "Puntaje de cumplimiento del Portal de Transparencia, número de ciudadanos usuarios de herramientas digitales de fiscalización y tiempo promedio de atención a denuncias."
+          },
+          {
+            "problem": "Trámites presenciales lentos en el TUPA, duplicidad de requisitos y centralismo de ventanilla que obliga a viajar a la sede principal desde la periferia.",
+            "objective": "Modernizar la gestión pública con una política integral de \"Cero Papel\", la simplificación del TUPA y la descentralización de servicios en los barrios.",
+            "goal": "Digitalizar el 100% de los trámites del TUPA al 2028 y reducir a la mitad el tiempo de espera en licencias y expedientes al 2029.",
+            "indicator": "Porcentaje de trámites gestionados de forma 100% digital, tiempo promedio de resolución de expedientes y número de atenciones en ventanillas descentralizadas."
+          },
+          {
+            "problem": "Gasto corriente elevado en consultorías superfluas, duplicidad de gerencias y alta morosidad predial por catastro desactualizado y pocos incentivos.",
+            "objective": "Aplicar austeridad fiscal y gestión por resultados, sincerar el catastro urbano y diseñar estrategias de incentivos para el contribuyente puntual.",
+            "goal": "Reducir el 20% del gasto de consultorías y duplicidades al 2028 y actualizar el 100% del catastro distrital al 2029.",
+            "indicator": "Porcentaje de reducción del gasto corriente improductivo, porcentaje de avance en la actualización tecnológica de la base catastral y tasa de reducción de la morosidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Yh20TYqNaoa8_dRrc8vyh1PNPVqWD5so",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Yh20TYqNaoa8_dRrc8vyh1PNPVqWD5so",
+      "sha256": "0cb7f390fa78c3c5ac645418b5d65ee086cff24da999b610ac083af9be989a6a",
+      "accessedAt": "2026-10-02T22:57:21.080Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021036",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021036",
+      "sha256": "67de89fbe325264a68d563119907713a9a547409c2fbd0d9dd1f049f376e950a",
+      "accessedAt": "2026-10-02T22:57:21.562Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

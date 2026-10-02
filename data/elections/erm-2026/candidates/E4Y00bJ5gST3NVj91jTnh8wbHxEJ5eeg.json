@@ -1,0 +1,185 @@
+{
+  "id": "E4Y00bJ5gST3NVj91jTnh8wbHxEJ5eeg",
+  "slug": "oscar-enrique-aliaga-abanto",
+  "electionId": "erm-2026",
+  "name": "Oscar Enrique Aliaga Abanto",
+  "givenNames": "Oscar Enrique",
+  "surnames": "Aliaga Abanto",
+  "age": 44,
+  "gender": "Masculino",
+  "party": {
+    "id": 2956,
+    "name": "PARTIDO PAIS PARA TODOS"
+  },
+  "jurisdictionId": "140102",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:13.614Z",
+      "sourceId": "jne-hv-E4Y00bJ5gST3NVj91jTnh8wbHxEJ5eeg"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "PINTURAS WORQUINSA PERU EIRL",
+      "role": "GERENTE GENERAL",
+      "from": "2009",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PODEMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 45000,
+        "public": 27000,
+        "private": 18000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "BLANCO STATION",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1298fde9-8b75-4fbf-93a8-100b4012c940.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ee69f208-7a6a-4033-87ec-4654013ef298.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta prevalencia de anemia infantil, existencia de hogares vulnerables e insuficiencia en la atención médica primaria debido a que la expansión urbana sobrepasa la capacidad operativa del sector salud.",
+            "objective": "Mitigar la anemia infantil, la vulnerabilidad socioeconómica y las brechas de salud a través de una intervención comunitaria articulada entre el gobierno local y el Ministerio de Salud (MINSA).",
+            "goal": "Fortalecer la atención médica, establecer una red de soporte para hogares vulnerables y desarrollar programas de educación y vigilancia comunitaria para reducir la anemia y mejorar el acceso a la salud.",
+            "indicator": "Número de brigadas de salud semanales en zonas periféricas, módulos de telemedicina comunitaria instalados, padrón nominal unificado de beneficiarios de programas sociales y sistema de alerta temprana para el abastecimiento de micronutrientes."
+          },
+          {
+            "problem": "Deficiente cobertura de servicios básicos como agua potable y alcantarillado, y una alta irregularidad en la tenencia de tierras, lo que limita el desarrollo integral del distrito.",
+            "objective": "Resolver la problemática del saneamiento de predios, infraestructura y servicios básicos mediante la titulación masiva, la descolmatación de redes y la ejecución de megaproyectos de agua y alcantarillado.",
+            "goal": "Garantizar la seguridad jurídica de los predios, cerrar las brechas de saneamiento en zonas vulnerables e impulsar proyectos de inversión pública para mejorar la infraestructura básica en todo el distrito.",
+            "indicator": "Número de lotes formalizados a través de COFOPRI, porcentaje de avance en la ejecución del proyecto \"Esquema Integral Villas de Ancón\" y actualización del catastro distrital."
+          },
+          {
+            "problem": "Inseguridad ciudadana persistente, a pesar del incremento de personal de serenazgo y la adquisición de equipamiento, debido a la gran extensión territorial y el crecimiento poblacional.",
+            "objective": "Mejorar la seguridad ciudadana mediante la articulación tecnológica, la prevención social y el patrullaje estratégico, consolidando la central de videovigilancia y fortaleciendo las rondas mixtas.",
+            "goal": "Reducir el tiempo de respuesta ante emergencias y disminuir los índices delictivos a través de la modernización tecnológica, el patrullaje integrado y la recuperación de espacios públicos.",
+            "indicator": "Ampliación de la red de cámaras con reconocimiento facial, implementación de botones de pánico y aplicaciones móviles, instalación de GPS en unidades de serenazgo y número de Juntas Vecinales de Seguridad Ciudadana (JVSC) reactivadas."
+          },
+          {
+            "problem": "Desafíos en la cobertura e infraestructura del sector educativo, que enfrenta problemas de deserción escolar y la necesidad de mejorar los locales y servicios básicos en zonas de reciente crecimiento urbano.",
+            "objective": "Mejorar la calidad de la educación en Ancón, cerrando la brecha de infraestructura, creando aulas tecnológicas y combatiendo la deserción escolar para incrementar el acceso de los estudiantes a la educación superior.",
+            "goal": "Garantizar ambientes escolares seguros y equipados, reducir el abandono escolar mediante seguimiento psicológico y talleres, y fomentar el cuidado del patrimonio cultural y ambiental del distrito.",
+            "indicator": "Número de colegios reparados, implementación de aulas digitales con acceso a internet, creación de bibliotecas virtuales y número de talleres de arte, deportes y oficios implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada tasa de subempleo que supera el 70% y un alto grado de informalidad laboral, lo que se traduce en trabajos sin beneficios sociales, dependencia de empleos lejanos y falta de cobertura ante el desempleo.",
+            "objective": "Mitigar el desempleo mediante el impulso a megaproyectos y la zona logística, el apoyo a emprendedores y MYPES, y la promoción del empleo joven y la capacitación técnica.",
+            "goal": "Crear miles de empleos directos y nuevos negocios a nivel local, combinando grandes inversiones con apoyo directo a los vecinos para mejorar sus oportunidades económicas.",
+            "indicator": "Número de empresas atraídas por la cercanía al Puerto de Chancay, creación de una \"ventanilla única\" para la formalización de negocios, número de cursos técnicos gratuitos ofrecidos y creación de una bolsa de trabajo municipal."
+          },
+          {
+            "problem": "Baja cobertura y calidad en servicios públicos básicos debido a un limitado presupuesto municipal, lo que genera un déficit que contrasta con el auge de la inversión privada y los megaproyectos en el distrito.",
+            "objective": "Promover la inversión pública y privada de manera estratégica para potenciar el crecimiento del distrito y mejorar la calidad de vida de sus habitantes, preparándolo para la llegada de nuevas industrias.",
+            "goal": "Convertir a Ancón en un centro logístico clave, atrayendo más de 1,200 millones de dólares en inversión y generando más de 120,000 empleos a través del Parque Industrial de Ancón (PIA) y otros proyectos estratégicos.",
+            "indicator": "Porcentaje de avance en la construcción y ampliación de vías, aseguramiento de servicios básicos en todos los barrios, ampliación de comisarías y construcción de nuevos centros de salud modernos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Retos constantes en la limpieza pública, el recojo de residuos sólidos y el mantenimiento de áreas verdes, especialmente en los asentamientos humanos y zonas periféricas, con puntos críticos de acumulación de desmonte y basura.",
+            "objective": "Mejorar la gestión de la limpieza pública, el recojo de residuos y las áreas verdes, organizando el servicio con rutas inteligentes, implementando puntos de reciclaje, reutilizando residuos orgánicos y aplicando riego tecnificado.",
+            "goal": "Optimizar el servicio de recojo de residuos sólidos, fomentar el reciclaje, mantener las áreas verdes con un uso eficiente del agua y asegurar la limpieza de los espacios públicos, incluyendo las playas.",
+            "indicator": "Implementación de rutas optimizadas mediante sistemas SIG, publicación de cronogramas fijos de recojo, instalación de sistemas de riego por goteo o aspersores y ejecución de campañas de limpieza de playas."
+          },
+          {
+            "problem": "Calidad del transporte público baja y cobertura insuficiente, con dependencia de rutas tradicionales con unidades antiguas, alta informalidad y tiempos de viaje excesivos hacia el centro de Lima.",
+            "objective": "Realizar una mejora progresiva del transporte, impulsando la expansión del transporte masivo y regional, mejorando la conectividad interna y local, y desarrollando una infraestructura vial segura y sostenible.",
+            "goal": "Conectar el distrito con el centro de la ciudad de manera rápida y segura, reducir la dependencia del transporte informal y fomentar una movilidad sostenible y activa para los residentes.",
+            "indicator": "Grado de apoyo a los proyectos de extensión del Metro de Lima y el Ferrocarril Lima-Barranca, creación de un sistema de buses alimentadores para sectores alejados, formalización de mototaxis para rutas de \"última milla\" y construcción de ciclovías seguras."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Cobertura y calidad desigual de la infraestructura en el distrito, donde las zonas urbanas tradicionales cuentan con servicios básicos, mientras que los asentamientos periféricos sufren de redes viales sin asfaltar y acceso limitado a servicios.",
+            "objective": "Impulsar cinco megaproyectos estratégicos, tanto públicos como privados, para convertir el distrito en un polo de desarrollo, cerrando las brechas de infraestructura en servicios básicos, comercio, recreación y vivienda.",
+            "goal": "Transformar el distrito en un polo de desarrollo integral a través de la ejecución de megaproyectos que garanticen el acceso a agua potable, empleo, recreación y vivienda digna para la comunidad.",
+            "indicator": "Nivel de avance en la implementación de la planta desaladora, construcción del Parque Industrial de Ancón, ampliación del Estadio José Balta, construcción del nuevo centro de entretenimiento y desarrollo del proyecto de vivienda social Ciudad Bicentenario."
+          },
+          {
+            "problem": "Dificultades de los ciudadanos para acceder a la información pública de forma rápida y comprensible, debido a la falta de actualización de los portales, el uso de lenguaje técnico en los reportes y las demoras en las respuestas a solicitudes.",
+            "objective": "Mejorar la transparencia y el acceso a la información mediante la implementación de un portal web más rápido, la apertura de canales digitales para solicitudes y la realización de cabildos abiertos en los barrios.",
+            "goal": "Acercar la gestión municipal al vecino de forma sencilla y transparente, modernizando el portal institucional, digitalizando las solicitudes y fomentando la participación vecinal directa en la fiscalización del gobierno local.",
+            "indicator": "Frecuencia de actualización diaria del portal de transparencia, implementación de un sistema digital para trámites en línea, número de cabildos abiertos realizados por sector y reducción en los plazos de entrega de información."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-E4Y00bJ5gST3NVj91jTnh8wbHxEJ5eeg",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/E4Y00bJ5gST3NVj91jTnh8wbHxEJ5eeg",
+      "sha256": "ed3c14504341db73abd512a654e046342c3fa4e149bf79722d9652824754c456",
+      "accessedAt": "2026-10-02T22:50:13.614Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011423",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011423",
+      "sha256": "352f6dbbc22fd3030176cdcbc447ce3e699326bc091cf34a11dcd3f1b5584985",
+      "accessedAt": "2026-10-02T22:50:14.131Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

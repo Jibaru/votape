@@ -1,0 +1,195 @@
+{
+  "id": "NhWPzeIOf88vytqRKz849dZ9xcgN4yew",
+  "slug": "luis-cesar-navarro-maldonado",
+  "electionId": "erm-2026",
+  "name": "Luis Cesar Navarro Maldonado",
+  "givenNames": "Luis Cesar",
+  "surnames": "Navarro Maldonado",
+  "age": 39,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:44.948Z",
+      "sourceId": "jne-hv-NhWPzeIOf88vytqRKz849dZ9xcgN4yew"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "universidad alas peruanas",
+        "program": "titulado en ingeniería ambiental",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "posgrado",
+        "institution": "eucin business school",
+        "program": "gestión publica",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "municipalidad distrital de santa rosa",
+      "role": "subgerente de medio ambiente y limpieza publica",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "sec. general sectorial 31R SMP",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 46370.28,
+        "public": 46370.28,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "servicios de tecnologias ambientales sac",
+        "type": "PARTICIPACIONES",
+        "quantity": 2,
+        "value": 500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/cd47b544-2cfa-4058-843e-d443c80886ab.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/976228f4-8fef-46f7-9016-04d4e1a0af3f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1.Reducir significativamente la incidencia delictiva y mejorar la percepción de seguridad ciudadana.",
+            "objective": ".Reducir significativamente la incidencia delictiva y mejorar la percepción de seguridad ciudadana.",
+            "goal": "1.100% de cobertura de videovigilancia en zonas críticas. Implementación de Centro Integrado de Seguridad, Reducción del 30% de delitos patrimoniales, Incremento del 50% de patrullaje integrado.",
+            "indicator": ".Numero de solicitudes atendidas con eficacia/numero de solicitudes recepcionadas"
+          },
+          {
+            "problem": "2 Falta de promocion de Desarrollo Humano e Inclusion Social.",
+            "objective": "Mejorar el bienestar de niños, jóvenes, mujeres, adultos mayores y personas con discapacidad",
+            "goal": "2. 100% cobertura de programas para adultos mayores. 10 nuevas bibliotecas digitales. 10 Centros Integrales Comunitarios, 50 espacios deportivos recuperados.",
+            "indicator": "Numero de solicitudes atendidas con eficacia/ número de solicitudes recepcionadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de Innovación Empresarial.",
+            "objective": "Promover la innovación Empresarial.",
+            "goal": "4 centros de innovación Empresarial.",
+            "indicator": "Numeros de centros empresariales aperturados"
+          },
+          {
+            "problem": ".Falta de promoción Empresarial",
+            "objective": "Fortalecer la mediana y pequeña empresa en el Distrito.",
+            "goal": "5,000 MYPES formalizadas.",
+            "indicator": ".Número de licencias de funcionamiento generadas."
+          },
+          {
+            "problem": "Falta de Empleo en el Distrito",
+            "objective": "Fortalecer la falta de empleo en el Distrito",
+            "goal": "5,000 nuevos empleos",
+            "indicator": "Numero de puestos de trabajo generados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de áreas verdes en el distrito de San Martin de Porres.",
+            "objective": "Promover a gran escala las áreas verdes en todo el distrito de San Martin de Porres.",
+            "goal": "Implementación del sistema de riego en todo los sectores del distrito de San Martin de Porres.",
+            "indicator": "Aumento de las áreas verdes por habitante en base a los indicadores de la OMS( organización mundial de la salud)"
+          },
+          {
+            "problem": "Falta de arborización en el Distrito",
+            "objective": "Promover la Arborización",
+            "goal": "SMP verde 2030",
+            "indicator": "Aumento de los m2 de áreas verdes."
+          },
+          {
+            "problem": "Falta de promoción del reciclaje",
+            "objective": "Promover el reciclaje en el Distrito.",
+            "goal": ".Planta de reciclaje en el Distrito.",
+            "indicator": "Toneladas de reciclaje recogidos."
+          },
+          {
+            "problem": "Mal manejo de los residuos sólidos en el Distrito.",
+            "objective": "Convertir a SMP en el Distrito más limpio de Lima Norte",
+            "goal": "100% de cobertura de limpieza pública",
+            "indicator": "Toneladas de residuos solidos recogidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Transformacion digital y gobierno abierto.",
+            "objective": "Modernizar integralmente la administración municipal.",
+            "goal": "Portal de transparencia en tiempo real",
+            "indicator": ".Numero de atenciones inmediatas"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-NhWPzeIOf88vytqRKz849dZ9xcgN4yew",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/NhWPzeIOf88vytqRKz849dZ9xcgN4yew",
+      "sha256": "a59beec4897228e79525189001cbe9d81acc38bb1bea0d87c2b98ff442b940d8",
+      "accessedAt": "2026-10-02T23:04:44.948Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019883",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019883",
+      "sha256": "0ad48e1e2d414ff39712c0f3c927f598ce39b7369130584213bb90798cc939c5",
+      "accessedAt": "2026-10-02T23:04:45.453Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

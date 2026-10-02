@@ -1,0 +1,397 @@
+{
+  "id": "4Fjv3BYb4wqMJJKKGmx0VmGTHSFSRcgb",
+  "slug": "jorge-humberto-olaechea-reyes",
+  "electionId": "erm-2026",
+  "name": "Jorge Humberto Olaechea Reyes",
+  "givenNames": "Jorge Humberto",
+  "surnames": "Olaechea Reyes",
+  "age": 48,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:24.711Z",
+      "sourceId": "jne-hv-4Fjv3BYb4wqMJJKKGmx0VmGTHSFSRcgb"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Hermilio Valdizán de Huánuco",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PACHACAMAC",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES",
+      "role": "SUB GERENTE DE PARTICIPACIÓN VECINAL",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PACHACAMAC",
+      "role": "GERENTE DE DESARROLLO HUMANO",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUNTA HERMOSA",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIN",
+      "role": "SECRETARIO GENERAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2020"
+    },
+    {
+      "party": "ACCION POPULAR",
+      "year": "2012"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 136965,
+        "public": 136965,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "ADJUNTO SOLICITUD DE LICENCIA SIN GOCE DE HABER DE FECHA DE PRESENTACIÓN 02-06-2026, CON NÚMERO DE EXPEDIENTE 7947."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b1ff5a82-72d5-4eee-b364-0583f3da312e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8c160455-e7af-4c69-9635-c5dcf1097b32.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana en el distrito de Cieneguilla.",
+            "objective": "Fortalecer la seguridad ciudadana en el distrito.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Carencia de un enfoque en salud preventiva para la población.",
+            "objective": "Implementar y promover la salud preventiva en la comunidad.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Existencia de espacios públicos deteriorados o abandonados.",
+            "objective": "Realizar la recuperación de los espacios públicos del distrito.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Ausencia de oferta de educación superior técnica en el distrito.",
+            "objective": "Gestionar la creación e implementación de un Instituto Tecnológico en Punta Hermosa.",
+            "goal": "Un proyecto de Instituto Tecnológico gestionado.",
+            "indicator": "Gestiones realizadas ante MINEDU y entidades competentes."
+          },
+          {
+            "problem": "Necesidades de mejoramiento de las infraestructuras educativas.",
+            "objective": "Gestionar la modernización de la infraestructura educativa del distrito.",
+            "goal": "El 100% de instituciones educativas priorizadas con gestión de mejoramiento presentada.",
+            "indicator": "Gestiones realizadas ante MINEDU."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana y limitada cobertura de vigilancia.",
+            "objective": "Implementar Centros de Monitoreo y Videovigilancia Sectoriales y fortalecer el Serenazgo Municipal.",
+            "goal": "Reducción del 20% en la tasa de delitos denunciados.",
+            "indicator": "Tasa de delitos denunciados. N.º de cámaras instaladas. N.º de vehículos de patrullaje."
+          },
+          {
+            "problem": "Deficiente atención de salud en el distrito.",
+            "objective": "Gestionar un Centro de Salud con atención 24 horas y fortalecer la atención médica.",
+            "goal": "Un proyecto de Centro de Salud gestionado y una ambulancia municipal operativa.",
+            "indicator": "Gestiones realizadas y servicios implementados."
+          },
+          {
+            "problem": "Limitada atención materno infantil.",
+            "objective": "Gestionar la creación de un Centro Materno Infantil.",
+            "goal": "Un proyecto de Centro Materno Infantil gestionado ante las entidades competentes.",
+            "indicator": "Proyecto gestionado."
+          },
+          {
+            "problem": "Limitadas oportunidades para niños y jóvenes.",
+            "objective": "Fortalecer programas deportivos, culturales y educativos.",
+            "goal": "Ocho talleres deportivos y seis talleres culturales permanentes.",
+            "indicator": "Número de talleres implementados."
+          },
+          {
+            "problem": "Déficit de espacios públicos, recreativos y culturales.",
+            "objective": "Implementar el Programa “Cieneguilla Ciudad Jardín” mediante la recuperación de parques y espacios públicos.",
+            "goal": "Recuperar 10 parques.",
+            "indicator": "N.º de parques recuperados. m² recuperados. N.º de actividades culturales."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y programas sociales.",
+            "objective": "Fortalecer la atención preventiva mediante campañas médicas descentralizadas y convenios institucionales.",
+            "goal": "Realizar 30 campañas médicas.",
+            "indicator": "N.º de campañas médicas. N.º de beneficiarios."
+          },
+          {
+            "problem": "Necesidad de fortalecer la seguridad ciudadana.",
+            "objective": "Fortalecer la seguridad ciudadana mediante acciones preventivas, patrullaje integrado y sistemas de videovigilancia.",
+            "goal": "Incrementar la cobertura de vigilancia y patrullaje municipal durante la gestión.",
+            "indicator": "Acciones y equipamiento implementado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasa inversión privada.",
+            "objective": "Promover inversiones para el desarrollo local.",
+            "goal": "Cuatro iniciativas de promoción de inversión durante la gestión.",
+            "indicator": "Iniciativas de promoción ejecutadas."
+          },
+          {
+            "problem": "Bajo desarrollo turístico.",
+            "objective": "Fortalecer la actividad turística local.",
+            "goal": "Cuatro eventos turísticos anuales.",
+            "indicator": "Eventos turísticos promovidos."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo.",
+            "objective": "Implementar mecanismos de promoción del empleo.",
+            "goal": "Doce actividades de empleo por año.",
+            "indicator": "Ferias y convocatorias realizadas."
+          },
+          {
+            "problem": "Falta de soporte y fomento para los emprendedores locales.",
+            "objective": "Brindar apoyo a los emprendedores del distrito para fortalecer la economía local.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Deficiencias en infraestructura vial y accesibilidad.",
+            "objective": "Ejecutar programas de mantenimiento vial y construcción de infraestructura peatonal segura.",
+            "goal": "Rehabilitar 50 km de vías.",
+            "indicator": "Km de vías rehabilitadas. Metros lineales de veredas construidas."
+          },
+          {
+            "problem": "Escaso apoyo a emprendedores, productores y MYPES locales.",
+            "objective": "Implementar el programa “Emprende Cieneguilla\" con capacitación y formalización empresarial.",
+            "goal": "Capacitar y formalizar 1000 negocios.",
+            "indicator": "N.º de emprendedores capacitados. N.º de negocios formalizados."
+          },
+          {
+            "problem": "Limitado desarrollo turístico y baja permanencia de visitantes.",
+            "objective": "Promover el turismo sostenible mediante corredores turísticos, gastronómicos y culturales.",
+            "goal": "Incrementar en un 40% el número de visitantes y establecimientos formalizados.",
+            "indicator": "N.º de visitantes. N.º de establecimientos formalizados."
+          },
+          {
+            "problem": "Infraestructura vial deficiente que limita la conectividad y el desarrollo.",
+            "objective": "Mejorar la infraestructura vial del distrito de Cieneguilla.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Desarrollo turístico no sostenible que no aprovecha el potencial del distrito.",
+            "objective": "Impulsar el turismo sostenible como eje de desarrollo económico.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de los residuos sólidos en el distrito.",
+            "objective": "Implementar una gestión integral y eficiente de los residuos.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Deterioro y contaminación del río Lurín a su paso por el distrito.",
+            "objective": "Ejecutar acciones para la recuperación del río Lurín.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos y limitado reciclaje.",
+            "objective": "Modernizar la gestión de residuos sólidos mediante programas de segregación y reciclaje.",
+            "goal": "Alcanzar el 100% de cobertura de recolección.",
+            "indicator": "Cobertura de recolección. N.º de puntos ecológicos implementados."
+          },
+          {
+            "problem": "Deterioro ambiental y contaminación del río Lurín.",
+            "objective": "Recuperar y proteger el ecosistema del río Lurín mediante programas de conservación.",
+            "goal": "Realizar 4 campañas de limpieza y recuperación de la ribera.",
+            "indicator": "N.º de jornadas de limpieza. Metros de ribera recuperados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y arborización urbana.",
+            "objective": "Implementar el Programa “Cieneguilla Verde”.",
+            "goal": "Incrementar en un 30% las áreas verdes recuperadas.",
+            "indicator": "m² de áreas verdes recuperadas. N.º de árboles plantados."
+          },
+          {
+            "problem": "Contaminación de playas y espacios públicos.",
+            "objective": "Ejecutar campañas permanentes de limpieza.",
+            "goal": "Doce campañas por año.",
+            "indicator": "Número de campañas realizadas."
+          },
+          {
+            "problem": "Débil cultura ambiental.",
+            "objective": "Promover la educación ambiental.",
+            "goal": "Veinticuatro actividades ambientales durante la gestión.",
+            "indicator": "Actividades educativas realizadas."
+          },
+          {
+            "problem": "Necesidad de proteger áreas verdes.",
+            "objective": "Fortalecer programas de conservación ambiental.",
+            "goal": "El 100% de áreas verdes incorporadas en programas de conservación.",
+            "indicator": "Programas implementados."
+          },
+          {
+            "problem": "Déficit de áreas verdes para el esparcimiento y la mejora ambiental.",
+            "objective": "Ampliar las áreas verdes en el distrito.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficiente atención al ciudadano.",
+            "objective": "Mejorar la calidad del servicio municipal.",
+            "goal": "Dos capacitaciones anuales.",
+            "indicator": "Personal capacitado."
+          },
+          {
+            "problem": "Escasa participación ciudadana en la toma de decisiones.",
+            "objective": "Promover mecanismos permanentes de participación vecinal.",
+            "goal": "Realizar 12 audiencias públicas.",
+            "indicator": "N.º de audiencias públicas. N.º de organizaciones participantes."
+          },
+          {
+            "problem": "Necesidad de modernizar la gestión municipal.",
+            "objective": "Actualizar los instrumentos de gestión.",
+            "goal": "El 100% de instrumentos actualizados.",
+            "indicator": "Instrumentos actualizados."
+          },
+          {
+            "problem": "Trámites municipales lentos y excesivamente presenciales.",
+            "objective": "Implementar el Gobierno Digital Municipal.",
+            "goal": "Digitalizar al 80% los trámites municipales.",
+            "indicator": "% de trámites digitalizados. Nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Riesgos de corrupción y baja transparencia.",
+            "objective": "Fortalecer la transparencia y el control interno.",
+            "goal": "Dos audiencias públicas por año y publicación periódica de informes.",
+            "indicator": "Audiencias e informes públicos realizados."
+          },
+          {
+            "problem": "Limitada transparencia en la gestión y el uso de los recursos públicos.",
+            "objective": "Fomentar la transparencia a través de un portal, audiencias públicas e informes anuales.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Brecha digital en los servicios y la gestión municipal.",
+            "objective": "Implementar un gobierno digital para modernizar la administración pública.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Desconfianza ciudadana y limitada transparencia institucional.",
+            "objective": "Fortalecer la transparencia mediante un Portal de Gobierno Abierto.",
+            "goal": "Transmitir al 100% las sesiones y publicar la totalidad de informes.",
+            "indicator": "% de sesiones transmitidas. N.º de informes publicados."
+          },
+          {
+            "problem": "Bajos niveles de participación ciudadana en los asuntos públicos.",
+            "objective": "Promover la participación ciudadana mediante la publicación de avances y comités de vigilancia.",
+            "goal": "No se especifica.",
+            "indicator": "No se especifica."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-4Fjv3BYb4wqMJJKKGmx0VmGTHSFSRcgb",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/4Fjv3BYb4wqMJJKKGmx0VmGTHSFSRcgb",
+      "sha256": "53823d28b0e03e8d222913ca5338102c6d89cc38cea7883f00e729b9d977b20f",
+      "accessedAt": "2026-10-02T23:01:24.711Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022403",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022403",
+      "sha256": "939cd53a025ed246b80403bd58c570f01151de0989a7f88d81bceda4ed3d2d9f",
+      "accessedAt": "2026-10-02T23:01:25.186Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

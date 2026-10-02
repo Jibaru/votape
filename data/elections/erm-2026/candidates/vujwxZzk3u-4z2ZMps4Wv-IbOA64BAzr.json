@@ -1,0 +1,264 @@
+{
+  "id": "vujwxZzk3u-4z2ZMps4Wv-IbOA64BAzr",
+  "slug": "jose-juan-rodriguez-cardenas",
+  "electionId": "erm-2026",
+  "name": "Jose Juan Rodriguez Cardenas",
+  "givenNames": "Jose Juan",
+  "surnames": "Rodriguez Cardenas",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 2933,
+    "name": "LIBERTAD POPULAR"
+  },
+  "jurisdictionId": "140125",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:27.211Z",
+      "sourceId": "jne-hv-vujwxZzk3u-4z2ZMps4Wv-IbOA64BAzr"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "ARQUITECTO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "BACHILLER EN ARQUITECTURA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1998"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "arquitecto independiente",
+      "role": "arquitecto",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "ministerio de cultura",
+      "role": "director de patrimonio historico inmueble",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "municipalidad de Barranco",
+      "role": "Alcalde",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "CONSILIO URBANISMO HUMANO SAC",
+      "role": "PROYECTISTA",
+      "from": "2015",
+      "to": "2018"
+    },
+    {
+      "employer": "SOCIEDAD DE BENEFICIENCIA DE LIMA METROPOLITANA",
+      "role": "GERENTE GENERAL",
+      "from": "2013",
+      "to": "2014"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "SIEMPRE UNIDOS",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "PRESIDENTE",
+      "party": "DECISION BARRANCO",
+      "from": "2017",
+      "to": "2018"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "DECISION BARRANCO",
+      "from": "2017",
+      "to": "2018"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "DECISION BARRANCO",
+      "year": "2015"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 25670,
+        "public": 0,
+        "private": 25670
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 162963.31,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA VW-SAVEIRO",
+        "value": 30100
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONSILIO HUMANISMO URBANO SAC",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d4d7d9b6-8473-4926-ad65-b18b7ecd1479.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cbbc828a-e522-49c8-aef3-90e0f9697ea5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de barreras urbanas para personas con discapacidad.",
+            "objective": "Adecuación de espacios públicos bajo criterios de accesibilidad universal.",
+            "goal": "100% locales municipales y 100% de parques.",
+            "indicator": "Numero de espacios intervenidos."
+          },
+          {
+            "problem": "Limitada oferta de servicios especializados para adultos mayores.",
+            "objective": "Ampliación de los servicios del Centro Integral del Adulto Mayor (CIAM).",
+            "goal": "Duplicar la oferta ofrecida en el 2026.",
+            "indicator": "Numero de talleres y programas ofrecidos."
+          },
+          {
+            "problem": "Insuficientes programas preventivos dirigidos a niños y adolescentes.",
+            "objective": "Escuelas municipales deportivas y artísticas.",
+            "goal": "Duplicar la oferta ofrecida en el 2026.",
+            "indicator": "Numero de talleres y programas ofrecidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada formalización económica.",
+            "objective": "Agilizar emisión de licencias.",
+            "goal": "24 horas para emisión de licencias de funcionamiento.",
+            "indicator": "Licencias emitidas."
+          },
+          {
+            "problem": "Débil apoyo municipal al emprendimiento local.",
+            "objective": "Centro de Innovación para industrias creativas.",
+            "goal": "Porcentaje de los artesanos que operan en el distrito.",
+            "indicator": "Numero de artesanos capacitados."
+          },
+          {
+            "problem": "Baja articulación entre turismo cultura y actividad económica.",
+            "objective": "Plan Integral de Turismo Sostenible.",
+            "goal": "Encuestas trimestrales.",
+            "indicator": "Incremento del tiempo que permanece un turista en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Desarrollo urbano y movilidad.",
+            "objective": "Plan de Desarrollo Urbano y de Movilidad para el distrito.",
+            "goal": "Implementación del plan de acuerdo con las metas trazadas para el corto plazo.",
+            "indicator": "Documentos elaborados."
+          },
+          {
+            "problem": "Medio ambiente y resiliencia.",
+            "objective": "Incremento de la cobertura vegetal urbana.",
+            "goal": "Duplicar el número de árboles en el distrito.",
+            "indicator": "Número de árboles sembrados."
+          },
+          {
+            "problem": "Acceso de los vecinos a las playas del distrito.",
+            "objective": "Mejoramiento de accesos a playas. Activación cultural y recreativa del borde costero.",
+            "goal": "Recuperar el 100% de los accesos peatonales y duplicar la oferta ofrecida en el 2026.",
+            "indicator": "Espacios intervenidos y número de actividades realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos con alto componente manual.",
+            "objective": "Digitalización progresiva de los principales trámites municipales.",
+            "goal": "100% trámites en línea.",
+            "indicator": "Numero de tramites digitalizados."
+          },
+          {
+            "problem": "Déficit de plataformas digitales integradas para atención ciudadana.",
+            "objective": "Implementación de módulos de tramite documentario en línea descentralizados.",
+            "goal": "06 módulos instalados.",
+            "indicator": "Numero de plataformas instaladas y número de expedientes ingresados."
+          },
+          {
+            "problem": "Necesidad de fortalecer la planificación y gestión basada en resultados.",
+            "objective": "Implementación de un sistema de metas por cada gerencia municipal.",
+            "goal": "100% metas cumplidas.",
+            "indicator": "Evaluación trimestral de metas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vujwxZzk3u-4z2ZMps4Wv-IbOA64BAzr",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vujwxZzk3u-4z2ZMps4Wv-IbOA64BAzr",
+      "sha256": "cdbb3a4c64ba5cde072201dfce38d06a9d1f8bdd84ca3c740a3af60bc0788f28",
+      "accessedAt": "2026-10-02T22:51:27.211Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015909",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015909",
+      "sha256": "93c244ded7c4a012ff05c0776b788656022fb17e6b2ea26f2b1b714035c32d31",
+      "accessedAt": "2026-10-02T22:51:27.703Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

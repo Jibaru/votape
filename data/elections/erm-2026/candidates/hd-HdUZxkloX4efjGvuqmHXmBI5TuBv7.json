@@ -1,0 +1,287 @@
+{
+  "id": "hd-HdUZxkloX4efjGvuqmHXmBI5TuBv7",
+  "slug": "homero-raul-diaz-delgado",
+  "electionId": "erm-2026",
+  "name": "Homero Raul Diaz Delgado",
+  "givenNames": "Homero Raul",
+  "surnames": "Diaz Delgado",
+  "age": 44,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "TACHADO",
+  "statusHistory": [
+    {
+      "status": "TACHADO",
+      "observedAt": "2026-10-02T23:06:38.974Z",
+      "sourceId": "jne-hv-hd-HdUZxkloX4efjGvuqmHXmBI5TuBv7"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "GILDA LILIANA BALLIVIAN ROSADO",
+        "program": "PROFESIONAL TÉCNICO EN ELECTRÓNICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS E INFORMATICA -UPCI",
+        "program": "INGENIERO DE SISTEMAS E INFORMATICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "cad construcciones eirl",
+      "role": "gerente general",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "JH BUSINESS SA",
+      "role": "GERENTE GENERAL",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "JEFE DE LA OFICINA GENERAL TRANSFORMACION DIGITAL",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "SUB GERENTE DE MANTENIMIENTO VIAL Y ORNATO",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE CHORRILLOS",
+      "role": "LOCADOR DE SERVICIO",
+      "from": "2023",
+      "to": "2024"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARIO GENERAL",
+      "party": "CONFIANZA PERU VILLA EL SALVADOR",
+      "from": "2014",
+      "to": "2014"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "CONFIANZA PERU VILLA EL SALVADOR",
+      "from": "2014",
+      "to": "2014"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2019"
+    },
+    {
+      "party": "ACCION POPULAR",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 944719,
+        "public": 61680,
+        "private": 883039
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "automóvil",
+        "value": 45000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "JH BUSINESS SA",
+        "type": "ACCIONES",
+        "quantity": 75000,
+        "value": 1
+      },
+      {
+        "company": "CAD CONSTRUCCIONES EIRL",
+        "type": "ACCIONES",
+        "quantity": 50000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ba735d3f-9b74-4fc4-a941-e18a5ca97ac9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1e62451d-3bd7-419a-807e-9abd637f3d2e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Exclusión y falta de infraestructura adecuada para personas con discapacidad, afectando su educación, inclusión laboral y tránsito peatonal.",
+            "objective": "Gestionar el incremento de la oferta de educación básica especial pública, acondicionar los accesos peatonales y promover la inclusión laboral para personas con discapacidad.",
+            "goal": "Incremento del 100% de matrícula escolar de personas con algún tipo de discapacidad. Acondicionamiento de accesos peatonales en el 100% de grupos residenciales. Mejoramiento de 200 fuentes de empleo y generación de 100 nuevas fuentes de empleo para personas con algún tipo de discapacidad.",
+            "indicator": "Porcentaje de incremento de la matrícula escolar de personas con algún tipo de discapacidad. Porcentaje de acondicionamiento de accesos peatonales. Número de empleos generados para personas con discapacidad."
+          },
+          {
+            "problem": "Aumento de la pobreza extrema y existencia de comedores y ollas comunes sin reconocimiento ni subsidio estatal.",
+            "objective": "Reconocer e incluir a los comedores y Ollas Comunes en el Programa de Apoyo Alimentario y gestionar la ampliación de la transferencia del presupuesto para su abastecimiento.",
+            "goal": "Reconocimiento y subsidio del 100% de nuevos comedores y ollas comunes. 100% de entrega oportuna de alimentos a los comedores, pacientes de TBC y comités del Vaso de Leche.",
+            "indicator": "Porcentaje de comedores y ollas comunes reconocidas e integrada al subsidio estatal. Porcentaje de cumplimiento de entrega oportuna de alimentos."
+          },
+          {
+            "problem": "Altos índices de delincuencia y percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Reducir en forma significativa la victimización por persona e incrementar la sensación de seguridad ciudadana en toda la población del distrito de Villa El Salvador.",
+            "goal": "Reducir la victimización por persona en 10%. Reducir la sensación de victimización en 30%.",
+            "indicator": "Número de víctimas / total de la población mayor de 14 años en el último año. Número de personas mayor de 14 años con sensación de inseguridad / total de la población mayor de 14 años."
+          },
+          {
+            "problem": "Insuficientes espacios públicos accesibles, seguros y equipados para la población adulta mayor.",
+            "objective": "Reducir la brecha en servicios de atención especializada e incrementar en forma significativa los espacios públicos accesibles para la población adulta mayor.",
+            "goal": "Creación de cinco Centros Integrales de Atención al Adulto Mayor en convenio con las asociaciones de adultos mayores. Equipamiento y reverdecimiento de 50 parques centrales.",
+            "indicator": "Número de Centros Integrales de Atención al Adulto Mayor. Equipar y reverdecer los parques centrales de los grupos residenciales."
+          },
+          {
+            "problem": "Incremento de la informalidad y sobreoferta en el servicio de transporte de pasajeros en vehículos no motorizados.",
+            "objective": "Ordenar el servicio de transporte de pasajeros en vehículos no motorizados de acuerdo al estudio de demanda y oferta del servicio.",
+            "goal": "Formalizar el 100% de vehículos de transporte de pasajeros en vehículos no motorizados informales. Reducción en 50% de accidentes de tránsito causados por vehículos menores. Eliminación del 100% del uso de mototaxis autorizados para robos y asaltos.",
+            "indicator": "Porcentaje de vehículos 'mototaxis' autorizados por la Municipalidad. Reducción de accidentes de tránsito causado por vehículos menores. Eliminación del uso de mototaxis para robos y asaltos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Pérdida de empleo formal en el Parque Industrial y la zona urbana.",
+            "objective": "Promover el fortalecimiento e innovación tecnológica del Parque Industrial.",
+            "goal": "Promover la realización de dos ferias anuales en el Parque Industrial. Promover la capacitación de 200 empresarios.",
+            "indicator": "Número de ferias de promoción del Parque Industrial. Número de empresarios capacitados."
+          },
+          {
+            "problem": "Aumento del subempleo y del comercio ambulatorio en la etapa Post COVID-19.",
+            "objective": "Formalizar a los comerciantes ambulantes y ordenar el comercio ambulatorio.",
+            "goal": "Formalizar al 30% de los comerciantes ambulantes. Reubicación del 30% de mercados informales. Capacitar a 2000 comerciantes.",
+            "indicator": "Número de mercados informales reubicados. Número de comerciantes capacitados."
+          },
+          {
+            "problem": "Baja competitividad de los mercados de abastos cooperativos y asociativos.",
+            "objective": "Mejorar la competitividad de los mercados formales.",
+            "goal": "Modernizar del 50% de mercados cooperativos y asociativos.",
+            "indicator": "Número de proyectos de modernización de mercados. Número de licencias de funcionamiento de mercados."
+          },
+          {
+            "problem": "Incremento del desempleo en la población juvenil del distrito.",
+            "objective": "Generar nuevas oportunidades de empleo para los jóvenes.",
+            "goal": "Colocar a 4000 jóvenes en puestos de trabajo formales. Capacitar a 8000 jóvenes en habilidades para la empleabilidad.",
+            "indicator": "Número de jóvenes colocados en puestos de trabajo. Número de jóvenes capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alto déficit en el servicio de recojo domiciliario de desechos sólidos y abandono del programa de reciclaje.",
+            "objective": "Mejorar en forma sostenida el servicio municipal de recojo domiciliario de residuos sólidos.",
+            "goal": "Mejora del servicio de recojo domiciliario de residuos sólidos, según rutas, con una frecuencia diaria para todos los sectores. Lograr que el 50% de los hogares introduzcan el hábito de la reducción y reciclaje de desechos sólidos domiciliarios.",
+            "indicator": "Frecuencia por semana del servicio de recojo domiciliario de residuos sólidos, según rutas. Porcentaje de hogares que contribuyen a la reducción y reciclaje de desechos sólidos."
+          },
+          {
+            "problem": "Pérdida de árboles y áreas verdes en las alamedas y parques del distrito.",
+            "objective": "Recuperar los parques de los grupos residenciales con financiamiento del Presupuesto Participativo.",
+            "goal": "Recuperar los espacios en todos los parques. Sembrar 10,000 árboles.",
+            "indicator": "Número de alamedas y parques recuperados. Número de árboles plantados."
+          },
+          {
+            "problem": "Contaminación del suelo por excrementos de canes debido a la alta población canina y la ausencia de una política de control poblacional.",
+            "objective": "Reducir en forma significativa la población canina en los hogares, el número de canes sin dueño y la contaminación de espacios públicos por sus desechos.",
+            "goal": "Esterilizar 20,000 canes y 4,000 gatos con hogar. Instalación de 500 tachos de desechos y excrementos de canes en espacios públicos.",
+            "indicator": "Porcentaje de hogares con al menos un can y/o un gato. Número de tachos de depósitos de excremento de canes instalados en las alamedas y parques."
+          },
+          {
+            "problem": "Incremento de la contaminación sonora en la zona urbana.",
+            "objective": "Reducir la contaminación sonora en la zona urbana por debajo de los límites permitidos.",
+            "goal": "Atender el 100% de las quejas de los ciudadanos por contaminación sonora.",
+            "indicator": "Número de inspecciones y sanciones por contaminación sonora al año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incapacidad institucional para atender los servicios municipales con calidad y eficacia.",
+            "objective": "Mejorar la capacidad institucional de la Municipalidad.",
+            "goal": "Aprobación satisfactoria, por parte de los usuarios, de los servicios municipales de limpieza pública, Serenazgo y mantenimiento de áreas verdes.",
+            "indicator": "Satisfacción de los usuarios de los servicios municipales: limpieza pública, serenazgo y mantenimiento de áreas verdes."
+          },
+          {
+            "problem": "Existencia de servidores de gerencias y subgerencias que no son competentes en sus funciones.",
+            "objective": "Contar con servidores competentes en sus funciones a cargo.",
+            "goal": "90 % de servidores competentes en sus funciones.",
+            "indicator": "Porcentaje de servidores competentes en sus funciones."
+          },
+          {
+            "problem": "Corrupción en la contratación de obras públicas y en la adquisición de alimentos para programas sociales.",
+            "objective": "Contratar obras en forma transparente y sin corrupción, y eliminar la corrupción en la adquisición de los alimentos para los Comedores y Vaso de Leche.",
+            "goal": "100% de procesos de contratación de obras y adquisición de alimentos con participación concurrente de la Contraloría General de la República y el Comité de Vigilancia del Presupuesto Participativo y comité de Gestión respectivamente.",
+            "indicator": "Porcentaje de procesos de contrataciones transparentes y con fiscalización. Porcentaje de adquisición de alimentos para los comedores y programa de Vaso de Leche sin corrupción."
+          },
+          {
+            "problem": "Abandono del Presupuesto Participativo por Resultados (PPxR) en las últimas gestiones municipales.",
+            "objective": "Recuperar el PPxR como mecanismo de ejecución de obras con participación y transparencia.",
+            "goal": "Asignación de no menos de 10 millones de soles anuales al PPxR. Cumplimiento del 100% de las obras aprobadas.",
+            "indicator": "Incremento porcentual del monto anual asignado al PPxR. Cumplimiento de los acuerdos del PPxR."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-hd-HdUZxkloX4efjGvuqmHXmBI5TuBv7",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/hd-HdUZxkloX4efjGvuqmHXmBI5TuBv7",
+      "sha256": "1b2e6552dd6992c2e8231fef2066c32329a839555087ffd52faa617cb89b6de6",
+      "accessedAt": "2026-10-02T23:06:38.974Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026013006",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026013006",
+      "sha256": "bfd6456220941e98e004110e6192cf7b4ff4bdecd98559e007529cd9dcfa5f29",
+      "accessedAt": "2026-10-02T23:06:39.514Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "p9p9IZBZsZaQC8l1JDOEiZPKW8ojUgla",
+  "slug": "segundo-marcos-de-la-cruz-vega",
+  "electionId": "erm-2026",
+  "name": "Segundo Marcos De La Cruz Vega",
+  "givenNames": "Segundo Marcos",
+  "surnames": "De La Cruz Vega",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:54.490Z",
+      "sourceId": "jne-hv-p9p9IZBZsZaQC8l1JDOEiZPKW8ojUgla"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IPM",
+        "program": "Marketing Empresarial",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "GOBERNA ESCUELA DE INTELIGENCIA Y ESTRATEGIA",
+        "program": "ASESOR EN INTELIGENCIA OPERATIVA POLICIAL Y SEGURIDAD CIUDADANA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "Administracion Negocios Internacionales",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Cisco Systems Peru S.A",
+      "role": "Manager new Technologies",
+      "from": "2008",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "MILITANTE",
+      "party": "PARTIDO POLÍTICO PROGRESEMOS",
+      "from": "2024",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 50000,
+        "public": 0,
+        "private": 50000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 33000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 33000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 33000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "camioneta",
+        "value": 77000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INCOMEX TRADING SAC",
+        "type": "PARTICIPACIONES",
+        "quantity": 99.9,
+        "value": 0
+      }
+    ]
+  },
+  "additionalInfo": [
+    "SE ESTA EJECUTANDO UNA TRANSFERENCIA DE INMUEBLE (PARTIDA REGISTRAL N° 11896585) EN MERITO A UNA CESION DE DERECHOS Y ACCIONES CELEBRADA EN ABRIL 2026. SE ESTA REGULARIZANDO UNA TRANSFERENCIA DE INMUEBLE (PARTIDA REGISTRAL N° 47316049) DEBIDO A CESION DE DERECHOS Y ACCIONES."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/544ebba7-6ba1-4b6e-8dbd-286d16924c28.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7f555ac7-d779-4d91-ae02-46bbce329549.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deterioro de la infraestructura vial, incluyendo pistas y veredas, que genera congestión vehicular y afecta la transitabilidad en el distrito.",
+            "objective": "Implementar un sistema moderno de mantenimiento vial basado en tecnología, geolocalización y atención rápida para optimizar recursos y mejorar la transitabilidad.",
+            "goal": "Reparar los baches reportados en un plazo máximo de 48 horas.",
+            "indicator": "Tiempo promedio de atención de incidencias viales."
+          },
+          {
+            "problem": "Insuficientes servicios de salud preventiva y atención comunitaria, especialmente para poblaciones vulnerables como los adultos mayores.",
+            "objective": "Fortalecer la atención preventiva y la salud comunitaria mediante la implementación de un Hospital Municipal y programas específicos para el adulto mayor.",
+            "goal": "Crear puntos de atención preventiva para el adulto mayor en diferentes sectores del distrito y establecer un Hospital Municipal.",
+            "indicator": "Número de atenciones preventivas realizadas a la comunidad."
+          },
+          {
+            "problem": "Limitadas oportunidades de formación académica, técnica y de inserción laboral para la juventud del distrito.",
+            "objective": "Promover el desarrollo integral de los jóvenes a través de programas educativos y de fomento del primer empleo.",
+            "goal": "Implementar la Academia Preuniversitaria Municipal, la Academia Técnica Municipal y el programa \"Primer Empleo\".",
+            "indicator": "Número de jóvenes beneficiados por los programas municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Persisten desafíos vinculados al empleo juvenil, la informalidad económica y la falta de fortalecimiento del emprendimiento local.",
+            "objective": "Fortalecer el emprendimiento, la formalización y la generación de empleo a través de programas de apoyo y promoción económica.",
+            "goal": "Crear el Centro Municipal del Emprendedor, la Bolsa Laboral Digital y el Marketplace Municipal.",
+            "indicator": "Número de emprendimientos formalizados y tasa de empleo juvenil."
+          },
+          {
+            "problem": "Desorden del comercio ambulatorio y del transporte público menor, lo que genera informalidad y afecta la movilidad local.",
+            "objective": "Promover el empadronamiento, ordenamiento y formalización progresiva del comercio ambulatorio y del transporte público seguro.",
+            "goal": "Empadronar a los transportistas y comerciantes, y formalizar progresivamente el comercio ambulatorio en espacios autorizados.",
+            "indicator": "Porcentaje de comerciantes y transportistas empadronados y capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Creciente demanda de áreas verdes y espacios públicos, junto con deficiencias en los sistemas de limpieza pública y recolección de residuos.",
+            "objective": "Promover una política integral de recuperación ambiental, mejora de espacios públicos y fortalecimiento de la limpieza en el distrito.",
+            "goal": "Recuperar integralmente los parques, implementar un programa de arborización urbana y optimizar las rutas de recolección de residuos.",
+            "indicator": "Porcentaje de puntos críticos de residuos eliminados y hectáreas de áreas verdes recuperadas."
+          },
+          {
+            "problem": "Inexistencia de espacios especializados y servicios municipales para el bienestar de las mascotas y la promoción de la tenencia responsable.",
+            "objective": "Implementar infraestructura y servicios dedicados al cuidado de las mascotas y a la educación sobre su tenencia responsable.",
+            "goal": "Construir un Parque Canino Metropolitano acompañado de una Veterinaria Municipal que ofrezca servicios básicos, de vacunación y esterilización.",
+            "indicator": "Número de campañas de esterilización y vacunación realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia e inseguridad ciudadana que constituyen una de las principales preocupaciones de los vecinos.",
+            "objective": "Implementar una estrategia integral de seguridad ciudadana basada en el uso de tecnología, inteligencia operativa y prevención del delito.",
+            "goal": "Implementar progresivamente hasta 1,500 cámaras inteligentes y crear un Centro de Seguridad Inteligente de Lima Norte.",
+            "indicator": "Índice delictivo del distrito y tiempo de respuesta ante emergencias."
+          },
+          {
+            "problem": "Percepción de una gestión municipal poco moderna, transparente y con escasa participación ciudadana en la toma de decisiones.",
+            "objective": "Modernizar integralmente la gestión municipal, promoviendo una cultura de transparencia, acceso a la información y participación ciudadana.",
+            "goal": "Implementar el Catastro Digital, el Portal de Transparencia Vecinal y realizar Audiencias Públicas de Rendición de Cuentas semestrales.",
+            "indicator": "Porcentaje de trámites administrativos digitalizados."
+          },
+          {
+            "problem": "Ausencia de mecanismos efectivos para la vigilancia y el control social por parte de la ciudadanía sobre la gestión municipal.",
+            "objective": "Impulsar una gestión de puertas abiertas, fortaleciendo la transparencia y la confianza ciudadana a través de la supervisión vecinal.",
+            "goal": "Crear el Observatorio Vecinal de Los Olivos como un espacio permanente de participación para supervisar la gestión municipal.",
+            "indicator": "Número de informes de supervisión emitidos por el observatorio."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-p9p9IZBZsZaQC8l1JDOEiZPKW8ojUgla",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/p9p9IZBZsZaQC8l1JDOEiZPKW8ojUgla",
+      "sha256": "8c10d27d978c52edc3cbc2da22f21bf276c8b3d795bf21da901aa826b49eaa0b",
+      "accessedAt": "2026-10-02T22:58:54.490Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020965",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020965",
+      "sha256": "0111c2a44785d5150a2be7d4432158c9342a3ca34e4869c477e6db39e0fd2df5",
+      "accessedAt": "2026-10-02T22:58:55.058Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

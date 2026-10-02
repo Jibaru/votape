@@ -1,0 +1,222 @@
+{
+  "id": "L1QPCyU5yp-SagHwc_LXujKoqqirUNfC",
+  "slug": "jorge-alexander-ardiles-quin",
+  "electionId": "erm-2026",
+  "name": "Jorge Alexander Ardiles Quin",
+  "givenNames": "Jorge Alexander",
+  "surnames": "Ardiles Quin",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140116",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:21.036Z",
+      "sourceId": "jne-hv-L1QPCyU5yp-SagHwc_LXujKoqqirUNfC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "BACHILLER EN ADMINISTRACIÓN Y GERENCIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "TRANSPORTES 77 S.A.",
+      "role": "COORDINADOR DE TRANSPORTE",
+      "from": "2009",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "MOVIMIENTO REGIONAL O DEPARTAMENTAL CONTIGO CIUDADANO",
+      "year": "2018"
+    },
+    {
+      "party": "PARTIDO POLÍTICO CAMBIO RADICAL",
+      "year": "2012"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 217843,
+        "public": 0,
+        "private": 217843
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 31001.15,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO",
+        "value": 4525.21,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "NEGRO, JAC, REFINE",
+        "value": 85553.1
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3a7eabb1-284f-4ecd-8965-57ed2b924303.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3823070b-f190-4090-9e09-d63b291f744f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Red distrital de salud con infraestructura insuficiente, cobertura preventiva muy baja y ausencia de ambulancias suficientes.",
+            "objective": "Elaborar expedientes técnicos para modernizar y construir centros y puestos de salud; dotar de ambulancias y equipamiento; articular con DIRIS Lima Sur y MINSA.",
+            "goal": "Cinco expedientes técnicos de puestos de salud elaborados al 2028. Dos ambulancias adicionales operativas al 2028. Aumento de 30% en cobertura preventiva al 2030. Tiempo de respuesta a emergencias menor a 10 minutos.",
+            "indicator": "Número de expedientes técnicos elaborados. Número de ambulancias operativas. Cobertura de atención preventiva. Tiempo de respuesta a emergencias."
+          },
+          {
+            "problem": "Seguridad ciudadana con alta incidencia de sicariato, extorsión y tráfico de terrenos, especialmente en Manchay; respuesta institucional fragmentada y ciudadanía que no participa orgánicamente en la solución.",
+            "objective": "Elaborar e implementar un Plan Concertado de Seguridad Ciudadana Distrital alineado a la Política Nacional Multisectorial de Seguridad Ciudadana al 2030; incrementar el número de Comités Distritales de Seguridad Ciudadana (CODISEC) y de juntas vecinales activas por sector.",
+            "goal": "Una junta vecinal por sector operando y articulada al CODISEC al 2028. Reducción de 25% de la tasa de victimización al 2030 respecto de la línea base 2025. Plan Distrital aprobado por Ordenanza en el primer año de gestión.",
+            "indicator": "Número de juntas vecinales operando por sector y articuladas al CODISEC. Número de sesiones del CODISEC por año. Tasa de victimización distrital (ENAPRES-INEI). Número de denuncias por extorsión y sicariato registradas."
+          },
+          {
+            "problem": "Infraestructura educativa con brechas, baja capacitación docente, débil articulación con la educación superior técnica, y PRONOEI y Cuna Más con locales precarios.",
+            "objective": "Mejorar espacios educativos, capacitación docente y acceso a educación superior; integrar a la comunidad educativa; priorizar educación inclusiva.",
+            "goal": "Inclusión de PRONOEI y Cuna Más en presupuesto participativo. Dos capacitaciones anuales para docentes. Veinte centros de reforzamiento escolar abiertos al 2030. Diez becas integrales universitarias al año. Un centro de atención para niñez con discapacidad y habilidades diferentes.",
+            "indicator": "Número de instituciones educativas mejoradas. Número de docentes capacitados. Número de becas otorgadas. Número de centros de reforzamiento."
+          },
+          {
+            "problem": "Grupos vulnerables como DEMUNA, OMAPED y CIAM con servicios limitados y oficinas con escasa proyección territorial.",
+            "objective": "Brindar mejores ambientes y calidad humana en estas oficinas; formar promotores sociales; articular con MIDIS y MIMP.",
+            "goal": "Setenta y cinco promotores sociales capacitados anualmente. Centro de atención integral para grupos vulnerables creado al 2028. Convenios con MIDIS y MIMP suscritos en el primer año.",
+            "indicator": "Número de promotores sociales formados por año. Número de servicios ampliados. Centro Integral de Atención operativo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio informal desorganizado, sin articulación con el mercado formal y comercial.",
+            "objective": "Establecer mesas de trabajo con los involucrados, firmar actas de compromiso y ordenanzas, y realizar un acompañamiento continuo al emprendedor, empresario y gremio durante la formalización.",
+            "goal": "El 60% de los nuevos formalizados integrados a gremios al 2030.",
+            "indicator": "Porcentaje de informales que se integran a gremios. Número de ordenanzas aprobadas. Número de mesas de trabajo realizadas."
+          },
+          {
+            "problem": "Desconocimiento de la base de datos empresarial y comercial del distrito, tanto formal como informal, y rentas municipales subdimensionadas.",
+            "objective": "Realizar el empadronamiento general de empresas, gremios e informales; sincerar la cadena productiva y comercial; y digitalizar y sistematizar la base de datos.",
+            "goal": "El 80% de empresas o negocios formales empadronados al 2030. El 100% de informales empadronados y ubicados al 2030. El 80% de emprendedores empadronados al 2030.",
+            "indicator": "Porcentaje de empresas formales empadronadas. Porcentaje de informales empadronados. Número de gremios reconocidos."
+          },
+          {
+            "problem": "Carencia de fuentes de trabajo en el distrito, bajo nivel de ingresos en sectores como Manchay y alta dependencia laboral con el resto de Lima.",
+            "objective": "Aprovechar el potencial turístico, arqueológico, gastronómico y recreacional para generar empleo; articular con programas sociales del gobierno central y firmar convenios con MINCETUR y agencias de turismo.",
+            "goal": "Plan Integral de Turismo y Desarrollo Recreacional aprobado al 2028. Parque del Río Verde creado y operativo al 2030. Parque de Aventura y Recreación implementado. Articulación con Trabaja Perú, Foncodes y Mejoramiento Integral de Barrios.",
+            "indicator": "Número de convenios firmados con MINCETUR/agencias. Número de programas sociales articulados (Trabaja Perú, Foncodes, Mejoramiento Integral de Barrios). Número de visitantes anuales al distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Zonas de alto riesgo en el distrito por construcciones precarias, ocupación de laderas en Manchay y exposición al desborde del río Lurín.",
+            "objective": "Desarrollar e implementar un Plan Distrital de Gestión del Riesgo de Desastres con sistema de alerta temprana y simulacros, articulado con CENEPRED, INDECI y la Mancomunidad de Lima Sur.",
+            "goal": "El 60% de la población distrital sensibilizada al 2030. El 100% de centros comerciales empadronados capacitados al 2030. Cuatro simulacros anuales por zona desde el primer año.",
+            "indicator": "Plan de Riesgo aprobado. Porcentaje de población sensibilizada. Número de centros comerciales capacitados. Número de simulacros realizados."
+          },
+          {
+            "problem": "Acumulación de basura en espacios públicos, atención insuficiente del recojo y Plan Integral de Gestión Ambiental de Residuos Sólidos (PIGARS) desactualizado.",
+            "objective": "Desarrollar e implementar un Plan Integral de Gestión Ambiental de Residuos Sólidos (PIGARS) actualizado, con segregación en origen y participación ciudadana, y evaluar la concesión del servicio.",
+            "goal": "El 50% de áreas verdes bien conservadas al 2030. El 40% de calles y parques limpios y bien conservados al 2030. PIGARS aprobado y publicado en el primer año. Concesión del servicio de recojo evaluada y, de ser viable, ejecutada.",
+            "indicator": "Porcentaje de áreas verdes bien conservadas. Porcentaje de calles y parques limpios. Porcentaje de viviendas con segregación en origen."
+          },
+          {
+            "problem": "Cantidad significativa de animales domésticos en abandono y vía pública, y ausencia de un albergue municipal.",
+            "objective": "Concientizar sobre crianza responsable, fomentar la esterilización, establecer convenios con veterinarias y rescatistas, y realizar campañas de adopción.",
+            "goal": "Albergue municipal para animales en abandono creado al 2029. Dos campañas de esterilización masiva al año. Disminución del 80% de animales en abandono al 2030. El 70% de animales rescatados adoptados.",
+            "indicator": "Número de campañas de esterilización por año. Número de animales adoptados. Albergue municipal operativo."
+          },
+          {
+            "problem": "Brecha de agua potable y saneamiento en sectores informales de Manchay y zonas rurales, con abastecimiento persistente por cisterna.",
+            "objective": "Acelerar las obras del Esquema José Gálvez-Villa Alejandro y articularse con el Megaproyecto Obras de Cabecera-Ramal Sur, mediante mesas técnicas mensuales con MVCS, SEDAPAL y dirigentes vecinales.",
+            "goal": "Apoyar el cumplimiento de las 12,526 conexiones de agua potable y 2,604 de alcantarillado del Esquema José Gálvez-Villa Alejandro al 2030. Doce mesas técnicas anuales con MVCS y SEDAPAL desde el primer año.",
+            "indicator": "Porcentaje de avance de obras PASLC en el distrito. Número de nuevas conexiones domiciliarias. Número de mesas técnicas por año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Caos institucional y desorden organizacional, con personal sin mística de servicio al ciudadano y documentos de gestión desactualizados.",
+            "objective": "Implementar la reorganización institucional municipal y la planificación estratégica, incluyendo la evaluación y reubicación de personal y la suscripción de Cartas de Compromiso.",
+            "goal": "El 80% de documentos de gestión actualizados al 2030. El 80% del personal evaluado y con Carta de Compromiso al 2030. ROF, MOF y CAP actualizados en el primer año.",
+            "indicator": "Porcentaje de documentos de gestión actualizados. Porcentaje de personal evaluado. Porcentaje de personal con Carta de Compromiso suscrita."
+          },
+          {
+            "problem": "Corrupción generalizada en la entidad, con obras y proyectos paralizados y baja ejecución del Plan Estratégico Institucional.",
+            "objective": "Mejorar el sistema web institucional con aplicativos para gestión de personal, recursos, metas, obras y proyectos, y aprovechar la cooperación técnica internacional para el fortalecimiento institucional.",
+            "goal": "El 60% de aplicativos implementados y actualizados al 2030. El 60% de base de datos negativos de funcionarios y sanciones registrados. El 80% de central de riesgo de proveedores registrado. El 60% de cumplimiento de metas y avance de obras registrado y publicado.",
+            "indicator": "Porcentaje de aplicativos implementados. Porcentaje de base de datos negativos de funcionarios registrados. Porcentaje de central de riesgo de proveedores. Porcentaje de cumplimiento de metas y avance de obras registrado."
+          },
+          {
+            "problem": "Impunidad y desinterés de las autoridades de otros sectores hacia la gestión municipal, y ausencia de un sistema de transparencia digital robusto.",
+            "objective": "Suscribir convenios con el Ministerio Público, la Contraloría General de la República y empresas de telecomunicaciones; implementar un Sistema de Transparencia Digital municipal accesible al ciudadano.",
+            "goal": "El 80% de procesos y organización municipal registrados en el Sistema de Transparencia Digital al 2030. El 80% de base de datos negativos compartida con el MP, Contraloría y Mancomunidad. El 80% de telecomunicaciones internas supervisadas.",
+            "indicator": "Porcentaje de procesos y organización registrados en el sistema. Porcentaje de base de datos negativos compartida. Porcentaje de telecomunicaciones internas supervisadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-L1QPCyU5yp-SagHwc_LXujKoqqirUNfC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/L1QPCyU5yp-SagHwc_LXujKoqqirUNfC",
+      "sha256": "05d6599fbb143b18cd473068ee59ca84c24186518ace3a9034d1da7af9b6ef48",
+      "accessedAt": "2026-10-02T23:00:21.036Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021986",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021986",
+      "sha256": "ce5292f9dc89c726266e13c1b71a72d4fe1bae3df2bf3259a4ed304ba8bce43a",
+      "accessedAt": "2026-10-02T23:00:21.552Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

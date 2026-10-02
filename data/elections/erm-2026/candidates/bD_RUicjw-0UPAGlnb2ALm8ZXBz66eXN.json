@@ -1,0 +1,325 @@
+{
+  "id": "bD_RUicjw-0UPAGlnb2ALm8ZXBz66eXN",
+  "slug": "oswaldo-hernan-vargas-cuellar",
+  "electionId": "erm-2026",
+  "name": "Oswaldo Hernan Vargas Cuellar",
+  "givenNames": "Oswaldo Hernan",
+  "surnames": "Vargas Cuellar",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:24.531Z",
+      "sourceId": "jne-hv-bD_RUicjw-0UPAGlnb2ALm8ZXBz66eXN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+        "program": "INGENIERO QUIMICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2004"
+      },
+      {
+        "level": "posgrado",
+        "institution": "ESCUELA DE GERENCIA CONTINENTAL",
+        "program": "MAESTRIA EN ADMINISTRACION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACION ENRIQUE GUZMAN Y VALLE",
+        "program": "MAESTRIA EN DOCENCIA UNIVERSITARIA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+        "program": "DOCTORADO EN GOBIERNO Y POLITICAS PUBLICAS",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+        "program": "MAESTRIA EN CIENCIAS CON MENCION EN PROYECTOS DE INVERSION",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIGANCHO",
+      "role": "ALCALDE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "SEDAPAL",
+      "role": "JEFE DEL EQUIPO DE ADMINISTRACION",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "SERV AGUA POTAB Y ALCANT DE LIMA-SEDAPAL",
+      "role": "JEFE DE EQUIPO DE INVESTIGACIÓN INNOVACIÓN Y NORMALIZACIÓN",
+      "from": "2017",
+      "to": "2018"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESOR 1",
+      "from": "2012",
+      "to": "2012"
+    },
+    {
+      "employer": "GOBIERNO REGIONAL DE LIMA",
+      "role": "ASESOR DE LA GERENCIA GENERAL Y GERENTE REGIONAL DE INFRAESTRUCTURA",
+      "from": "2008",
+      "to": "2009"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "JUNTOS POR EL PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU POSIBLE",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 171000,
+        "public": 171000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 59618.33,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO",
+        "value": 5760,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESYSTEL SAC",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 2500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/863489f9-35ea-4dec-bd76-703d652b1c29.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f102100e-1931-4bca-bd82-8c9a61688d43.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "La inseguridad y el crimen organizado vulneran la ejecución de obras civiles, generando extorsiones, paralizaciones y sobrecostos.",
+            "objective": "Fortalecer la seguridad ciudadana en la ejecución de obras civiles a través de la articulación con la PNP, serenazgo, videovigilancia y drones, para asegurar que las obras se desarrollen sin la interferencia de organizaciones criminales.",
+            "goal": "Eliminar las bandas criminales vinculadas a obras civiles, lograr que el 100% de las obras públicas y privadas cuenten con un plan de seguridad integral y reducir a cero las extorsiones en obras priorizadas al 2030.",
+            "indicator": "Porcentaje de obras civiles con incidencias delictivas registradas; número de convenios operativos con la PNP y juntas vecinales; número de cámaras y drones desplegados en las zonas de obra."
+          },
+          {
+            "problem": "Inseguridad ciudadana crítica, evidenciada por un incremento del 50% en extorsiones y una percepción de inseguridad del 85% en los distritos.",
+            "objective": "Implementar un modelo de seguridad predictiva y preventiva, con patrullaje integrado e inteligente, en articulación con la Policía Nacional del Perú y las juntas vecinales.",
+            "goal": "Reducir a la mitad las extorsiones y homicidios; lograr una cobertura del 100% de cámaras inteligentes con reconocimiento facial integrado en puntos críticos y organizar 5,000 nuevas juntas vecinales.",
+            "indicator": "Tasa de extorsiones y homicidios por cada 100 mil habitantes; porcentaje de delitos resueltos con soporte de analítica de video e inteligencia artificial."
+          },
+          {
+            "problem": "Más de 800 mil limeños carecen de acceso a agua potable y se registran pérdidas en la red de distribución superiores al 35%.",
+            "objective": "Cerrar la brecha de acceso al agua potable mediante la instalación de sensores IoT y la implementación de un sistema de gestión inteligente de presiones.",
+            "goal": "Alcanzar el 98% de cobertura de agua potable metropolitana; reducir las pérdidas al 20% mediante 50,000 sensores de caudal; y detectar fugas en menos de 24 horas.",
+            "indicator": "Porcentaje de población con acceso a la red pública de agua potable; porcentaje de reducción de pérdidas de agua; tiempo de detección de fugas."
+          },
+          {
+            "problem": "Déficit habitacional, tugurización estructural en el centro de la ciudad y alta vulnerabilidad ante huaicos, inundaciones y sismos.",
+            "objective": "Desarrollar programas de vivienda social, renovación urbana y gestión integral del riesgo de desastres.",
+            "goal": "Beneficiar a 10,000 familias con nuevas viviendas; recuperar 50 predios tugurizados; y equipar los 43 distritos con Sistemas de Alerta Temprana operativos y entrenar 500 brigadas comunitarias.",
+            "indicator": "Número de nuevas soluciones habitacionales construidas; cantidad de distritos dotados de Sistemas de Alerta Temprana (SAT)."
+          },
+          {
+            "problem": "Incremento de la delincuencia juvenil, déficit de infraestructura deportiva de alto rendimiento y ausencia de estadios internacionales descentralizados.",
+            "objective": "Desarrollar la Red Metropolitana de Estadios y Complejos Deportivos de Alto Rendimiento mediante la construcción de estadios de nivel internacional, complementados con infraestructura deportiva, hotelera y de transporte.",
+            "goal": "Construir 4 Estadios Metropolitanos de nivel equivalente al Estadio Nacional, con capacidad superior a 40,000 espectadores y certificación internacional; implementar 4 Villas Deportivas Metropolitanas; y captar al menos 10 eventos deportivos internacionales.",
+            "indicator": "Número de estadios internacionales construidos; capacidad total instalada para eventos deportivos; número de eventos internacionales realizados; porcentaje de avance de infraestructura homologada por federaciones internacionales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Rezagos de Lima frente a otras ciudades latinoamericanas en innovación juvenil, desarrollo tecnológico y formación en competencias digitales.",
+            "objective": "Implementar la Red Metropolitana de Innovación y Tecnología para formar a jóvenes en inteligencia artificial, programación, robótica, ciberseguridad y emprendimiento digital, fortaleciendo el ecosistema de innovación local.",
+            "goal": "Crear 8 Centros Tecnológicos e de innovación (dos por cada zona de Lima); capacitar a 500,000 jóvenes en competencias digitales; e incubar y acelerar 10,000 emprendimientos tecnológicos para el 2030.",
+            "indicator": "Número de centros tecnológicos e de innovación implementados; número de jóvenes capacitados y certificados; número de emprendimientos tecnológicos incubados; porcentaje de inserción laboral de los beneficiarios."
+          },
+          {
+            "problem": "Alta congestión vehicular con tiempos de viaje promedio que superan los 90 minutos en hora punta.",
+            "objective": "Implementar el plan de Movilidad Inteligente Urbana, utilizando semáforos adaptativos y articulando el sistema integrado de transporte.",
+            "goal": "Reducir el tiempo de viaje en un 30%; instalar 1,000 semáforos adaptativos; desplegar una aplicación de movilidad integrada con sistema de pago único; y poner en operación el tren Lima-Chosica con 60,000 pasajeros diarios.",
+            "indicator": "Tiempo promedio de traslado en hora punta; porcentaje de la red de semáforos controlada centralizadamente por IA; implementación de nuevos sistemas y rutas de transporte."
+          },
+          {
+            "problem": "Subutilización turística y recreativa del eje Costa Verde y del Centro Histórico de Lima.",
+            "objective": "Consolidar a Lima como un Destino Turístico Inteligente, incorporando conectividad, guiado digital y realidad aumentada para competir con otras ciudades principales del mundo.",
+            "goal": "Duplicar el número de turistas que pernoctan; habilitar 50 puntos de interés turístico con Wi-Fi masivo gratuito y recorridos interactivos con realidad aumentada.",
+            "indicator": "Flujo y número de pernoctaciones de turistas nacionales y extranjeros; número de usuarios activos de la aplicación corporativa."
+          },
+          {
+            "problem": "Baja integración logística entre el nuevo Puerto de Chancay, Lima Este y el Callao.",
+            "objective": "Implementar la Plataforma Logística Chancay - Chosica - Callao como un centro de conexión (Hub) multimodal.",
+            "goal": "Convertir a Lima Este en un nodo logístico multimodal, generando 50,000 empleos indirectos; establecer al menos un parque industrial por cada cono de la ciudad; y lograr que el 30% de la carga del Puerto de Chancay utilice el tren Lima-Chosica para el 2030.",
+            "indicator": "Volumen de carga gestionada por el hub; número de empresas instaladas en los parques industriales; empleos generados; porcentaje de carga que se moviliza en tren."
+          },
+          {
+            "problem": "La informalidad laboral alcanza el 71.2%, afectando a más de 4.4 millones de trabajadores en Lima Metropolitana.",
+            "objective": "Simplificar y agilizar la formalización a través de la Ventanilla Única Digital Metropolitana e implementar el programa de inserción laboral \"Mi Chamba 4.0\" para jóvenes.",
+            "goal": "Reducir la informalidad laboral al 50%; permitir la formalización de MYPES en 24 horas; digitalizar el 80% de los trámites económicos; e insertar a 500,000 jóvenes en el mercado laboral a través del programa \"Mi Chamba 4.0\".",
+            "indicator": "Tasa de empleo informal; tiempo promedio para registrar una MYPE en línea; cantidad de jóvenes insertados en el mercado laboral mediante el programa \"Mi Chamba 4.0\"."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Baja tasa de reciclaje, manejo ineficiente de residuos sólidos y proliferación de botaderos informales.",
+            "objective": "Desarrollar el programa de Economía Circular Metropolitana, enfocado en la valorización integral de los residuos.",
+            "goal": "Duplicar la tasa actual de reciclaje en la ciudad y garantizar que el 100% de los mercados de abasto cuenten con sistemas de gestión de residuos.",
+            "indicator": "Tasa porcentual de reciclaje formal; volumen en toneladas de residuos sólidos valorizados mensualmente."
+          },
+          {
+            "problem": "Presencia de pasivos ambientales mineros (PAM) y degradación de las lomas costeras, que afectan suelos, aguas y biodiversidad.",
+            "objective": "Desarrollar un Programa Metropolitano para la Recuperación de Pasivos Mineros Urbanos y la Restauración de Lomas Costeras como ecosistemas estratégicos.",
+            "goal": "Remediar el 100% de los PAM críticos priorizados y recuperar al menos 5,000 hectáreas de lomas costeras, con 30 brigadas comunitarias capacitadas y cero incendios no controlados para el 2030.",
+            "indicator": "Número de PAM identificados y remediados; hectáreas de lomas recuperadas; número de brigadas comunitarias activas."
+          },
+          {
+            "problem": "Déficit crítico de áreas verdes, con solo 3.1 m² por habitante, cifra muy inferior al estándar mínimo de 9 m² recomendado por la OMS.",
+            "objective": "Implementar a gran escala techos verdes inteligentes, andenes productivos periurbanos y programas de arborización masiva.",
+            "goal": "Alcanzar 7 m² de área verde por habitante; automatizar techos verdes en 100 edificios públicos; y plantar 10 millones de árboles en la metrópoli.",
+            "indicator": "Metros cuadrados de área verde efectiva por habitante; número total de árboles plantados y consolidados."
+          },
+          {
+            "problem": "Deficiente calidad del aire, con niveles de material particulado PM2.5 que superan el doble de los límites tolerables para la salud.",
+            "objective": "Desplegar una red de monitoreo ciudadano ambiental y habilitar corredores verdes, así como sensores ambientales de bajo costo.",
+            "goal": "Reducir los niveles de PM2.5 a valores seguros, inferiores a 50 µg/m³; instalar 500 sensores ciudadanos en instituciones educativas y parques públicos.",
+            "indicator": "Concentración promedio anual de PM2.5; número total de sensores ciudadanos instalados."
+          },
+          {
+            "problem": "Estrés hídrico estructural, dependencia de lluvias estacionales y retraso en la ejecución de proyectos estratégicos para nuevas fuentes de agua.",
+            "objective": "Implementar una gestión inteligente y resiliente del recurso hídrico, que incluya el monitoreo de cuencas y la habilitación de fuentes alternativas.",
+            "goal": "Asegurar 20.31 m³/s adicionales para el 2040, garantizando la ejecución de 4 proyectos clave (desalinizadora, reúso, aguas subterráneas) y la automatización del 100% de las captaciones del Rímac para el 2030.",
+            "indicator": "Caudal adicional asegurado (m³/s); porcentaje de puntos de captación monitoreados con telemetría en tiempo real."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja capacidad de gestión y ejecución de proyectos metropolitanos, con retrasos en su formulación, aprobación y ejecución, además de una limitada articulación entre dependencias.",
+            "objective": "Implementar una Oficina Metropolitana de Gestión de Proyectos (PMO) con personal calificado para optimizar la planificación, ejecución y seguimiento de inversiones, e implementar la plataforma \"Lima Investment\".",
+            "goal": "Superar el 95% de ejecución presupuestal anual; monitorear el 100% de los proyectos estratégicos; reducir en 40% el tiempo de ejecución de proyectos; y lograr que al menos el 80% de los proyectos culminen en los plazos establecidos.",
+            "indicator": "Porcentaje de ejecución presupuestal anual; número de proyectos estratégicos monitoreados por la PMO; tiempo promedio de ejecución de proyectos de inversión; porcentaje de proyectos culminados en el plazo programado."
+          },
+          {
+            "problem": "Burocracia ineficiente, focos de corrupción, procesos opacos y un gasto administrativo que absorbe el 47% del presupuesto anual.",
+            "objective": "Realizar una migración integral hacia un \"Gobierno Sin Papeles\" y efectuar compras de bienes de manera transparente mediante tecnología Blockchain.",
+            "goal": "Digitalizar el 100% de los trámites administrativos municipales; ejecutar el 100% de las contrataciones mayores a S/ 500,000 sobre una plataforma Blockchain anticorrupción; y reducir el gasto administrativo al 35%.",
+            "indicator": "Porcentaje de trámites TUPA totalmente digitalizados; porcentaje de procesos de licitación pública auditados en Blockchain."
+          },
+          {
+            "problem": "Descoordinación estructural entre la Municipalidad Metropolitana de Lima, los 43 distritos y el gobierno central, lo que resulta en obras paralizadas y tiempos de ejecución de hasta 14.5 años.",
+            "objective": "Desplegar una Plataforma Colaborativa de Gestión de Proyectos de Inversión Pública que abarque a todos los distritos de Lima Metropolitana.",
+            "goal": "Reducir el tiempo promedio de ejecución de obras de 14.5 a solo 4 años en toda la metrópoli, mediante la implementación de un software único de inversiones interconectado con el MEF y los 43 distritos.",
+            "indicator": "Tiempo promedio desde la etapa de perfil técnico hasta la operación de un proyecto; número de proyectos con seguimiento público."
+          },
+          {
+            "problem": "Débil control ciudadano, desconfianza generalizada y ausencia de mecanismos vinculantes para la rendición de cuentas.",
+            "objective": "Institucionalizar mecanismos avanzados de democracia digital y gobernanza participativa vinculante.",
+            "goal": "Consolidar 1 millón de usuarios en la plataforma oficial y asignar obligatoriamente el 10% del presupuesto de inversión municipal a través de procesos de presupuesto participativo digital vinculante.",
+            "indicator": "Número de usuarios registrados y activos en la plataforma oficial; porcentaje del presupuesto de inversión determinado por voto vecinal."
+          },
+          {
+            "problem": "Baja participación de los jóvenes en la toma de decisiones municipales y desconfianza hacia las instituciones públicas.",
+            "objective": "Implementar el programa \"Lima Decide Joven\", una plataforma de participación y votación electrónica segura para que los jóvenes opinen y voten sobre proyectos, ordenanzas y decisiones estratégicas.",
+            "goal": "Registrar a 1 millón de jóvenes en la plataforma; someter a consulta digital el 70% de las ordenanzas y decisiones estratégicas; y lograr la participación anual de al menos 500 mil jóvenes en procesos de votación electrónica para el 2030.",
+            "indicator": "Número de jóvenes registrados en la plataforma; porcentaje de participación en consultas digitales; número de proyectos sometidos a consulta juvenil; nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Falta de preparación ciudadana ante desastres como sismos, tsunamis y huaicos.",
+            "objective": "Implementar el Plan Metropolitano de Preparación y Respuesta ante Emergencias, que incluye protocolos de evacuación y simulacros exigibles.",
+            "goal": "Lograr que el 100% de los distritos cuenten con rutas de evacuación señalizadas; realizar 2 simulacros obligatorios por manzana al año; y capacitar a 1 millón de limeños en primeros auxilios.",
+            "indicator": "Número de distritos con protocolos de evacuación validados; número de simulacros vecinales realizados; cantidad de ciudadanos capacitados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-bD_RUicjw-0UPAGlnb2ALm8ZXBz66eXN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bD_RUicjw-0UPAGlnb2ALm8ZXBz66eXN",
+      "sha256": "85a794851e71d02cc10ddeded9f3eb089fbc92ea3edf174d602cea15795b5e76",
+      "accessedAt": "2026-10-02T22:49:24.531Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021139",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021139",
+      "sha256": "df07a9a770f6f17c1ad8f1a2899a428fa4793ba060bcd551c659327fb0a112cc",
+      "accessedAt": "2026-10-02T22:49:25.020Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

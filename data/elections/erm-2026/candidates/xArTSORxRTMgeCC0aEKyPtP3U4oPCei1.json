@@ -1,0 +1,256 @@
+{
+  "id": "xArTSORxRTMgeCC0aEKyPtP3U4oPCei1",
+  "slug": "rufino-enciso-rios",
+  "electionId": "erm-2026",
+  "name": "Rufino Enciso Rios",
+  "givenNames": "Rufino",
+  "surnames": "Enciso Rios",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140123",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:24.794Z",
+      "sourceId": "jne-hv-xArTSORxRTMgeCC0aEKyPtP3U4oPCei1"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "LICENCIADO EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1993"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+        "program": "BACHILLER EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1992"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "IE. 7079 HECTOR PRETRELL",
+      "role": "PROFESOR CULTURA Y DEPORTE",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN BARTOLO",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "I.E. 7099 HECTOR PRETRELL",
+      "role": "PROFESOR CULTURA Y DEPORTE",
+      "from": "1995",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "GESTION TRANSPARENTE SAN BARTOLINA",
+      "from": "2006",
+      "to": "2007"
+    },
+    {
+      "position": "APODERADO",
+      "party": "GESTION TRANSPARENTE SAN BARTOLINA",
+      "from": "2006",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PARTIDO NACIONALISTA PERUANO",
+      "year": "2014"
+    },
+    {
+      "party": "PERU POSIBLE",
+      "year": "2011"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 86200,
+        "public": 46200,
+        "private": 40000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 143706.7,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO",
+        "value": 54251,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CALDINA VERDE PETROLERO",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e36392b1-3857-49e2-8eea-bba8fbcf10f8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cb811ffc-940a-434a-83fc-42dc6360936d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Escasez de espacios recreativos y de participación comunitaria",
+            "objective": "Recuperar, ampliar y modernizar la infraestructura deportiva, cultural y recreativa del distrito.",
+            "goal": "• Recuperar y rehabilitar el 100% de los espacios recreativos y culturales del distrito.",
+            "indicator": "• Cantidad de espacios públicos y recreativos rehabilitados."
+          },
+          {
+            "problem": "Inseguridad ciudadana",
+            "objective": "Fortalecer la seguridad ciudadana mediante patrullaje inteligente, monitoreo digital y articulación multisectorial.",
+            "goal": "• Disminuir la percepción de inseguridad en 30%. • implementación al 100% del programa \"San Bartolo Seguro 24 Horas\".",
+            "indicator": "• Porcentaje de reducción de la percepción de inseguridad. • Nivel de cobertura del patrullaje."
+          },
+          {
+            "problem": "Deficiente prevención en salud y atención a poblaciones vulnerables",
+            "objective": "Promover la salud preventiva, fortalecer la inclusión social y potenciar la atención al adulto mayor y personas con discapacidad",
+            "goal": "• Incrementar en 40% la cobertura de atención de los programas sociales, el CIAM y la OMAPED.",
+            "indicator": "• Número de campañas preventivas anuales. • Porcentaje de usuarios atendidos en CIAM y OMAPED."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasa promoción laboral y falta de incentivos al emprendimiento",
+            "objective": "Impulsar el empleo local, la formalización laboral y el fortalecimiento del turismo deportivo y gastronómico.",
+            "goal": "• Aumentar el empleo formal en el distrito en un 25%.",
+            "indicator": "• Tasa de empleo formal en el distrito. • Número de MYPEs locales capacitadas."
+          },
+          {
+            "problem": "Desarticulación y falta de desarrollo de actividades productivas tradicionales",
+            "objective": "Fortalecer y modernizar la actividad pesquera artesanal y el desarrollo comercial local.",
+            "goal": "• Lograr el 100% de cobertura en la promoción permanente y asistencia técnica para la pesca artesanal.",
+            "indicator": "• Número de pescadores artesanales beneficiados con programas de promoción."
+          },
+          {
+            "problem": "Estacionalidad y nula promoción turística",
+            "objective": "Consolidar a San Bartolo como destino turístico sostenible y activo todo el año, complementando las playas con experiencias de ecoturismo y naturaleza (Lomas de Cicasos).",
+            "goal": "• Incrementar el flujo turístico distrital en un 40% mediante el Programa \"San Bartolo Todo el Año\". • Crear al 100% la Ruta Ecoturística de las Lomas de Cicasos.",
+            "indicator": "• Número de visitantes anuales en temporada baja. • Número de rutas ecoturísticas operativas."
+          },
+          {
+            "problem": "Estacionalidad y nula promoción turística",
+            "objective": "Consolidar a San Bartolo como destino turístico sostenible y activo todo el año, complementando las playas con experiencias de ecoturismo y naturaleza (Lomas de Cicasos).",
+            "goal": "• Incrementar el flujo turístico distrital en un 40% mediante el Programa \"San Bartolo Todo el Año\". • Crear al 100% la Ruta Ecoturística de las Lomas de Cicasos",
+            "indicator": "• Número de visitantes anuales en temporada baja. • Número de rutas ecoturísticas operativas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad y falta de protección de los ecosistemas locales (Lomas)",
+            "objective": "Proteger y poner en valor los recursos naturales del distrito, regulando el impacto urbano sobre los ecosistemas vulnerables.",
+            "goal": "• Asegurar que el 100% de las nuevas obras cuenten con licencia ambiental. • Puesta en valor integral del ecosistema de las Lomas de Cicasos.",
+            "indicator": "• Porcentaje de nuevas obras con certificación/licencia ambiental. • Superficie protegida y recuperada de lomas"
+          },
+          {
+            "problem": "Baja cultura ambiental y falta de valorización de residuos",
+            "objective": "Fortalecer la gestión ambiental a través del reciclaje masivo y programas permanentes de educación ambiental.",
+            "goal": "• Reciclar el 60% de los residuos sólidos del distrito. • Implementar el programa \"Guardianes de las Lomas de Cicasos\" en colegios y organizaciones.",
+            "indicator": "• Volumen de residuos sólidos reciclados. • Número de instituciones y vecinos sensibilizados."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos y contaminación en playas",
+            "objective": "Implementar una gestión integral de residuos, limpieza costera y el mantenimiento del ornato público.",
+            "goal": "• Reducir la contaminación en playas en un 50% mediante el programa \"San Bartolo Limpio Todo el Año\".",
+            "indicator": "• Índice de calidad ambiental costera. • Frecuencia y cobertura del servicio de recojo"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Pérdida de confianza vecinal y baja participación ciudadana",
+            "objective": "Promover la transparencia, optimizar la rendición de cuentas y mejorar los mecanismos de participación vecinal.",
+            "goal": "• Realizar de forma obligatoria 4 audiencias públicas anuales. • Fortalecer al 100% los mecanismos de presupuesto participativo.",
+            "indicator": "• Número de audiencias públicas realizadas al año. • Nivel de ejecución del presupuesto participativo."
+          },
+          {
+            "problem": "Burocracia e inoperatividad de los sistemas de control de gestión",
+            "objective": "Modernizar la administración municipal a través de la digitalización de servicios y reactivar el Órgano de Control Interno (OCI).",
+            "goal": "• Lograr la digitalización progresiva de los servicios municipales. • Auditar el 100% de los procesos administrativos anualmente con apoyo de la Contraloría.",
+            "indicator": "• Porcentaje de trámites municipales digitalizados. • Informes de auditoría emitidos por el OCI."
+          },
+          {
+            "problem": "Inadecuada optimización y rendición del gasto municipal",
+            "objective": "Optimizar la gestión presupuestal y garantizar el acceso ciudadano a la información pública.",
+            "goal": "• Alcanzar una ejecución presupuestal óptima del 95% anual.",
+            "indicator": "• Nivel de ejecución presupuestal anual."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-xArTSORxRTMgeCC0aEKyPtP3U4oPCei1",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/xArTSORxRTMgeCC0aEKyPtP3U4oPCei1",
+      "sha256": "a0f90adf5bd0fdfccec0cd3b653961be522ecca34b27336f19bbe4c5bd1efb8f",
+      "accessedAt": "2026-10-02T23:02:24.794Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015090",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015090",
+      "sha256": "ef32e93c25bc2d82b08dd98d0cb967bdd86495b6e18d29ef5441375df0dbfa07",
+      "accessedAt": "2026-10-02T23:02:25.362Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

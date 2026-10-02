@@ -1,0 +1,233 @@
+{
+  "id": "DDbvAAIeU1HiniUBAbCpD3JYV5RFSTBq",
+  "slug": "carlos-alberto-vargas-vera",
+  "electionId": "erm-2026",
+  "name": "Carlos Alberto Vargas Vera",
+  "givenNames": "Carlos Alberto",
+  "surnames": "Vargas Vera",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:59.994Z",
+      "sourceId": "jne-hv-DDbvAAIeU1HiniUBAbCpD3JYV5RFSTBq"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ETEMHI",
+        "program": "TECNICO EN MANTENIMIENTO DE CENTRALES HIDROELECTRICAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "TURBINAS HIDRAULICAS SAC",
+      "role": "GERENTE",
+      "from": "2021",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2024"
+    },
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 58270,
+        "public": 0,
+        "private": 58270
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 500000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "ESCARABAJO MARRON CLARO",
+        "value": 3000
+      },
+      {
+        "type": "CAMIONETA BLANCO",
+        "value": 50000
+      },
+      {
+        "type": "HONDA ROJO",
+        "value": 2000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "TURBINAS HIDRAULICAS SAC",
+        "type": "ACCIONES",
+        "quantity": 17250,
+        "value": 17250
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/39e4f72f-1a14-4320-8eaa-945c60716c10.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/10179aa3-4649-4de9-a760-125252df5e83.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "PRESENCIA DE DESNUTRICION CRONICA INFANTIL",
+            "objective": "Promover programas alimentarios para niños",
+            "goal": "Contribución a la reducción de la desnutrición crónica infantil en un rango del 20% al 30%",
+            "indicator": "No se cuenta con información distrital, pero en Lima Metropolitana, la desnutrición infantil urbana oscila entre 7% y 8.6%,"
+          },
+          {
+            "problem": "ALTA INCIDENCIA DE LA DELINCUENCIA",
+            "objective": "Mejoramiento del Plan de seguridad ciudadana para reducir la delincuencia con una estrecha coordinación con la PNP Incremento y equipamiento del cuerpo de serenos. Dotación integral de cámaras en el distrito. Construcción de local para un Puesto Policial, en la parte baja del distrito",
+            "goal": "Reducción de delincuencia en un rango del 40% al 50%",
+            "indicator": "Los datos oficiales del INEI revelan que la tasa de victimización a nivel urbano nacional aumentó del 18,2% en 2025 al 27,1% en años recientes, marcando una tendencia al alza."
+          },
+          {
+            "problem": "FALTA DE IDENTIDAD CULTURAL",
+            "objective": "Programas de recuperación de la identidad cultural",
+            "goal": "Fortalecimiento cultural a la población en un rango del 10% al 20%",
+            "indicator": "Históricamente, en Lima y el país, cerca de un 75% de los ciudadanos asiste o accede a bienes y servicios artísticos y culturales al menos una vez al año"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": ".Alta comercialización ambulatoria",
+            "objective": "Asistencia técnica para formalización y definición de espacios para ventas ambulatorias",
+            "goal": "Formalización y definición de espacios para venta ambulatoria 10%",
+            "indicator": "Nivel ambulatorio 20%"
+          },
+          {
+            "problem": "Venta de Productos agropecuarios sin transformación",
+            "objective": "potenciar la agroindustria",
+            "goal": "Procesamiento en 5 establecimientos de la zona 15%",
+            "indicator": "Procesamiento de productos agropecuarios en un 20%"
+          },
+          {
+            "problem": "Presencia de intermediarios",
+            "objective": "Definición de espacios y horarios para feriantes",
+            "goal": "Reducción de costos en 5%",
+            "indicator": "baja de precios principales en 10%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Débil conocimiento y responsabilidad ambiental",
+            "objective": "Mejora en la sensibilización, recojo y tratamiento de los residuos solidos",
+            "goal": "Mejora en la recolección de residuos sólidos en 40 %",
+            "indicator": "Porcentaje en la recolección de residuos sólidos en 50 %"
+          },
+          {
+            "problem": "Indiscriminada crianza de animales como perros, gatos, gallinas.",
+            "objective": "Implementar supervisión y capacitación para la crianza de animales.",
+            "goal": "Conformación de supervisores/capacitad ores 15%",
+            "indicator": "mejora de la crianza y condiciones de cuidado en un 20%"
+          },
+          {
+            "problem": "Baja forestación en todo el distrito",
+            "objective": "Producción de plantones Agroforestales en parques y jardines",
+            "goal": "Instalación de 5,000 platones agroforestales",
+            "indicator": "reposición forestal en un 30%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "POCA VOCACION DE SERVICIO",
+            "objective": "Sensibilización en sistemas administrativos",
+            "goal": "Mejora en la gestión administrativa en 50 %",
+            "indicator": "Sistema administrativo con mejoras de actualización en 10% anuales"
+          },
+          {
+            "problem": "FALTA DE EQUIPAMIENTO DE LA MUNICIPALIDAD",
+            "objective": "Equipamiento institucional en áreas prioritarias de atención al ciudadano. Dar inicio a la descentralización de los servicios municipales en favor de la población de la zona baja de Chosica",
+            "goal": "Mejora en la atención en 50%",
+            "indicator": "Verificación de equipamiento en un 60% creación de oficinas descentralizadas"
+          },
+          {
+            "problem": "3.Presencia de corrupción",
+            "objective": "Crear la ventana virtual para transparentar las adquisiciones y las demás actividades de la gestión municipal.",
+            "goal": "Bajar la corrupción hasta un 15% respecto al indicador",
+            "indicator": "Se estima un 20% de mejora"
+          },
+          {
+            "problem": "NECESARIA ATENCION Y EJECUCION DE LOS PROYECTOS DE INFRAESTRUCTURA",
+            "objective": "p Priorizar proyectos, continuar y concluir los iniciados por la gestión anterior e impulsar nuevos como: estacionamientos, teleférico (desarrollo turístico). Gestionar ante la Municipalidad Prov. De Lima el recapeo de la Av. Cajamarquilla y la ampliación de dos carriles por lado (ida y retorno) de la Av. Las Torres",
+            "goal": "Ejecución de proyectos inconclusos 50% Nuevos proyectos 100%",
+            "indicator": "Evaluación en un 50% de avance"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-DDbvAAIeU1HiniUBAbCpD3JYV5RFSTBq",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DDbvAAIeU1HiniUBAbCpD3JYV5RFSTBq",
+      "sha256": "b27263afbb907cc6091495120c4082e9939a4c77b0b56bb15f3ede191c7f4832",
+      "accessedAt": "2026-10-02T22:58:59.994Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016115",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016115",
+      "sha256": "bf905ea91c020426ab7a79fabe782c5e7669e49eebf2caff70bbf1e71f7ac597",
+      "accessedAt": "2026-10-02T22:59:00.532Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

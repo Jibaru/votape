@@ -1,0 +1,329 @@
+{
+  "id": "LpagczpvKfnBBl73YnHpz3FKWs9WBKq2",
+  "slug": "carlomagno-chacon-gomez",
+  "electionId": "erm-2026",
+  "name": "Carlomagno Chacon Gomez",
+  "givenNames": "Carlomagno",
+  "surnames": "Chacon Gomez",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140124",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:45.044Z",
+      "sourceId": "jne-hv-LpagczpvKfnBBl73YnHpz3FKWs9WBKq2"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "USMP",
+        "program": "TITULO DE ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "USMP",
+        "program": "MAESTRIA EN CIENCIAS PENALES",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINJUS",
+      "role": "ASESOR DE ALTA DIRECCION",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "ESTUDIO CHACON ABOGADOS",
+      "role": "GERENTE GENERAL",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "employer": "ABOGADO",
+      "role": "ABOGADO",
+      "from": "2009",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE MAGDALENA DEL MAR",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "VICESECRETARIO NACIONAL DE CAPACITACION",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "position": "SECRETARIO GENERAL DEPARTAMENTAL DE LIMA",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2021",
+      "to": "2023"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 110935.19,
+        "public": 0,
+        "private": 110935.19
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 6118.15,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 138384.7,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 6118.15,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 71336,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 15342,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO",
+        "value": 92880
+      },
+      {
+        "type": "SUV",
+        "value": 86000
+      },
+      {
+        "type": "MOTO",
+        "value": 60200
+      },
+      {
+        "type": "AUTO",
+        "value": 34400
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CHACON Y CRIADO CONSULTORES",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1000
+      },
+      {
+        "company": "INVERSIONES MESTIZO SAC",
+        "type": "ACCIONES",
+        "quantity": 250,
+        "value": 1000
+      },
+      {
+        "company": "INVERSIONES CHAMAANG SAC",
+        "type": "ACCIONES",
+        "quantity": 270,
+        "value": 1000
+      },
+      {
+        "company": "GENCO SAC",
+        "type": "ACCIONES",
+        "quantity": 3000,
+        "value": 10000
+      },
+      {
+        "company": "CHICHARRON POPULAR SAC",
+        "type": "ACCIONES",
+        "quantity": 300,
+        "value": 900
+      },
+      {
+        "company": "TEDIGO SAC",
+        "type": "ACCIONES",
+        "quantity": 612,
+        "value": 1800
+      },
+      {
+        "company": "CEBICHE DE LOS SANTOS SAC",
+        "type": "ACCIONES",
+        "quantity": 250,
+        "value": 1000
+      },
+      {
+        "company": "ESTUDIO CHACON",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1000
+      },
+      {
+        "company": "GENCO INMOBILIARIA SAC",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7705bbab-2dfe-4ffb-bf25-2e8278086eb6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e6a80aa3-fdf9-454f-aef3-6fd70cde5a7d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de incidencias delictivas y vulnerabilidad debido a un déficit de personal de serenazgo, patrullaje limitado y falta de tecnología analítica frente a la comunidad vecinal y a una población flotante diaria de más de 800 mil personas.",
+            "objective": "• Implementar un sistema de seguridad preventiva inteligente e interoperable, incrementando el capital humano (serenos) para el patrullaje a pie y flota vehicular para resguardar los principales accesos y salidas del distrito. • Lograr la mayor eficiencia en el uso de la infraestructura existente para la Seguridad Ciudadana (nuevo edificio en construcción y módulos de serenazgo), así como reforzar el equipamiento del sereno de patrullaje.",
+            "goal": "• 100% de cobertura del territorio distrital monitoreado con cámaras de video vigilancia con sistema de Inteligencia Artificial. ¿ • 1,500 efectivos de serenazgo equipados en funciones en los 5 sectores, asegurando el patrullaje a pie. ¿ • 200 efectivos policiales para el patrullaje integrado.",
+            "indicator": "• Porcentaje de cobertura del sistema de videovigilancia: Cámaras y sistema con analítica de Inteligencia Artificial – IA (reconocimiento facial y de placas y detección de actividades sospechosas). • Número total de efectivos de serenazgo contratados, equipados y operativos para el patrullaje a pie y vehicular. ¿• Cantidad de efectivos de la PNP asignados al patrullaje integrado extraordinario."
+          },
+          {
+            "problem": "Déficit de infraestructura recreativa, deportiva e inclusiva, limitando la masificación del deporte y el desarrollo saludable de niños, jóvenes, adultos y adultos mayores, sumado al deterioro de la capa asfáltica vial y la falta de espacios públicos integrados, limitando el desarrollo saludable y la movilidad segura de los vecinos.",
+            "objective": "• Desarrollar y descentralizar complejos deportivos municipales multifuncionales e inclusivos. • Ejecutar un programa integral de mantenimiento urbano de pistas e implementar conectores viales sostenibles orientados a la recreación y la salud.",
+            "goal": "• 01 Polideportivo, 01 Piscina y 01 Gimnasio Municipal construido, implementado y operativo para atención de los Sectores 4 y 5. • 100% de rehabilitación de las pistas locales deterioradas, mediante el programa “Bache Cero”. • 100% de intersecciones viales locales con rampas de acceso, senderos podotáctiles y juegos inclusivos instalados. • 01 \"Corredor Saludable\" implementado",
+            "indicator": "• Cantidad de infraestructura nueva construida e implementada en los sectores con menor oferta de espacios para la práctica deportiva. • Porcentaje de la red vial local con asfalto y veredas rehabilitadas. • Número de \"Corredores Saludables\" creados en el distrito."
+          },
+          {
+            "problem": "Insuficiente cobertura de servicios de salud preventiva materno infantil y de servicios integrales para el Adulto Mayor y personas con discapacidad, sumado a la necesidad de reimplementar el servicio educativo inicial público de la \"Cuna Jardín\" Municipal para niños de 3 a 5 años.",
+            "objective": "• Ampliar la red de Centros de Encuentro Vecinal (CEV), optimizar la capacidad operativa del Centro Médico Municipal ubicado en Corpac y los servicios del nuevo local de OMAPED y, asimismo, incrementar la flota de ambulancias para el auxilio médico rápido. • Mejorar el servicio de atención veterinaria. • Re implementar la Cuna Jardín Municipal, garantizando un servicio educativo inicial de alta calidad.",
+            "goal": "• 01 nuevo Centro de Encuentro Vecinal - CEV para el Sector 3 y retorno del CEV en Residencial Santa Cruz. • 02 nuevas ambulancias médicas adquiridas con servicio las 24 horas y 01 ambulancia para la Veterinaria Municipal para atención de emergencias de las mascotas de nuestros vecinos las 24 horas. • 100% de servicios y especialidades médicas activas en Corpac. • 100% de servicios en el nuevo local de OMAPED. • 01 \"Cuna Jardín\" Municipal re implementada modernizada y en funcionamiento al 100%.",
+            "indicator": "• Número de Centros de Encuentro Vecinal creados en el Sector 3 y zonas residenciales. • Número de ambulancias municipales incorporadas para atención de emergencias. • Porcentaje de operatividad del Centro Médico Municipal de Corpac. • Porcentaje de operatividad de los servicios para personas con discapacidad del nuevo local de OMAPED • Porcentaje de ejecución de la re implementación y funcionamiento de la Cuna Jardín Municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Vulneración de los parámetros urbanísticos de alturas, zonificación y densidades por el otorgamiento de licencias a proyectos inmobiliarios inadecuados.",
+            "objective": "Defensa irrestricta de la residencialidad del distrito mediante herramientas legales sólidas y una eficiente de fiscalización municipal.",
+            "goal": "• 100% de licencias de construcción aprobadas para proyectos inmobiliarios que respeten los parámetros del distrito. • 100% de reorganización del servicio de fiscalización municipal.",
+            "indicator": "• Porcentaje de licencias emitidas que respeten el plan de desarrollo urbano local. •Reorganización del servicio municipal de Fiscalización y Control municipal."
+          },
+          {
+            "problem": "Presencia de comercio informal ambulatorio en zonas de gran afluencia de personas que perjudica el comercio formal distrital y ocasiona desorden.",
+            "objective": "• Implementar un sistema de fiscalización con el apoyo de la video vigilancia con inteligencia artificial y vigilancia área con la potenciación del escuadrón de drones.",
+            "goal": "• 100% de incremento en las intervenciones de fiscalización para erradicar el comercio informal ambulatorio. • 2 drones nuevos, para la fiscalización aérea del territorio. • 100% de integración del sistema de videovigilancia con inteligencia artificial a la fiscalización del distrito.",
+            "indicator": "• Porcentaje de intervenciones a comerciantes informales ambulatorios. • Incremento de escuadrón de drones para la fiscalización aérea y un mejor control del territorio distrital. • Nivel de integración de la fiscalización con el uso de la video vigilancia"
+          },
+          {
+            "problem": "Falta de espacios adaptados para la innovación tecnológica emprendedora e informalidad en el mobiliario de los comerciantes autorizados en la vía pública (canillitas, lustrabotas, fruteros, golosineros, etc.)",
+            "objective": "Fomentar el desarrollo empresarial joven, la innovación tecnológica colaborativa y la optimización del comercio autorizado en espacios públicos mediante la mejora de su infraestructura.",
+            "goal": "• 01 HUB de Innovación Tecnológica y 01 Coworking Municipal creados e implementados. • 100% del mobiliario renovado y homogeneizado para el comercio autorizado en la vía pública (canillitas, lustrabotas fruteros, golosineros, etc.)",
+            "indicator": "• Cantidad de espacios municipales públicos creados: HUB de innovación tecnológica y Coworking. • Porcentaje de mobiliario renovado para comerciantes regulados en la vía pública."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Elevados niveles de contaminación ambiental y emisión de gases de efecto invernadero generados por el alto tránsito vehicular distrital y de la población flotante del distrito.",
+            "objective": "Mejorar el sistema de transporte municipal público “Expreso San Isidro” con cero emisiones y promover el uso de energías limpias y reciclaje.",
+            "goal": "• 02 buses 100% eléctricos adquiridos para ampliar el servicio “Expreso San Isidro” y extender su horario hasta las 9:00 pm. • 100% de pasos peatonales y ciclovías críticas equipadas con sensores e iluminación LED inteligente de energía solar. • 20% de incremento de vecinos y comercios incluidos en el programa de reciclaje municipal. • 04 estaciones inteligentes fijas de monitoreo del aire en Javier Prado, Paseo de la República, Arequipa y Aramburú.",
+            "indicator": "• Cantidad de buses eléctricos nuevos adquiridos para la red del Expreso San Isidro. • Porcentaje de ciclovías y pasos peatonales inteligentes alimentados por energía solar. • Porcentaje de incremento de vecinos y comercios incluidos en el programa de reciclaje municipal. • Estaciones de monitoreo de calidad del aire fijas instaladas."
+          },
+          {
+            "problem": "Contaminación sonora excesiva ocasionada por el caos en el tránsito vehicular en centro financiero, entornos escolares y ejes viales principales, así como la ocasionada por edificaciones privadas.",
+            "objective": "Mitigar el impacto acústico y optimizar la fluidez vehicular mediante una fiscalización eficiente, la sincronización de tecnologías viales y el control estricto del ruido urbano.",
+            "goal": "• Reducción del 40% de quejas por congestión vehicular e incidencias de contaminación sonora en la zona comercial del centro financiero, los ejes Dos de Mayo, Conquistadores, Camino Real, Javier Prado, Av. Arequipa, Rivera Navarrete y Canaval y Moreyra, así como, las de ruidos ocasionados por las edificaciones privadas. • 100% de los semáforos sincronizados y aplicación de Planes de Manejo de Tránsito Preventivo en horas punta.",
+            "indicator": "• Porcentaje de reducción de quejas por ruidos molestos en centro financiero, ejes viales principales y por las ocasionados por edificaciones privadas. • Porcentaje de reducción de quejas por congestión vehicular en ejes principales. • Porcentaje de intersecciones críticas con semáforos sincronizados coordinados con la Policía de Tránsito."
+          },
+          {
+            "problem": "Déficit de cobertura vegetal y alta exposición al efecto de isla de calor urbano en los ejes comerciales y financieros de alto tránsito (Rivera Navarrete, Canaval y Moreyra, Paseo de la República) y desperdicio de agua potable para el mantenimiento y riego de los 1´231,567.21 m² de áreas verdes distritales.",
+            "objective": "Ejecutar programas de expansión del área verde, arborización urbana y tratamiento paisajístico integral sostenible en zonas comerciales críticas y parques emblemáticos del distrito, así como tecnificación del riego de parques mediante la reutilización de aguas residuales tratadas.",
+            "goal": "• 03 corredores verdes e infraestructuras peatonales sostenibles que conecten vías importantes del distrito. • 100% de intervención y reforestación de las áreas afectadas por la exposición al calor urbano. • 100% del Bosque El Olivar y parques principales regados exclusivamente con sistemas tecnificados y aguas tratadas.",
+            "indicator": "• Número de corredores verdes y rutas peatonales sostenibles implementadas. • Porcentaje de mantenimiento y expansión vegetal en áreas comerciales seleccionadas. • Porcentaje de áreas verdes masivas regadas con sistemas de riego tecnificado y aguas recicladas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Excesiva carga burocrática (\"fricción\") que genera lentitud en los trámites tributarios y otros trámites de licenciamiento para vecinos y empresas comerciales del distrito.",
+            "objective": "• Rediseñar la administración tributaria y administrativa local bajo un enfoque proactivo y digital de \"Cero Papel\", automatizando procesos e incentivando la formalización inmediata mediante tramites en línea.",
+            "goal": "• 100% de las liquidaciones anuales prellenadas de manera predictiva y enviadas al vecino contribuyente para aprobación en un solo clic. • 01 Billetera Digital Municipal creada centralizando los estados de cuenta, recibos y licencias empresariales. • 50% de incremento de trámites administrativos en línea.",
+            "indicator": "• Porcentaje de formularios de Impuesto Predial y Arbitrios prellenados. • Número de herramientas móviles de centralización tributaria vecinal operativas. • Porcentaje de trámites administrativos en línea."
+          },
+          {
+            "problem": "Ineficiencia en la gestión del gasto público, agravada por la falta de transparencia y baja participación vecinal.",
+            "objective": "Implementar una plataforma de datos abiertos que democratice el acceso a la información sobre el gasto de recursos y empodere la participación del vecino con la información adecuada.",
+            "goal": "• 01 Dashboard Interactivo Público (Open Data Map) operativo para rastrear la inversión en seguridad ciudadana, limpieza pública y mantenimiento de áreas verdes en tiempo real. • 50% de incremento en la participación vecinal en los procesos de presupuesto participativo y elecciones de Juntas Vecinales.",
+            "indicator": "• Plataforma digital utilizada para publicar la ejecución del gasto en tiempo real. • Porcentaje de vecinos participantes en los procesos de presupuesto participativo y elecciones de Juntas Vecinales."
+          },
+          {
+            "problem": "Distanciamiento de la autoridad municipal del ciudadano.",
+            "objective": "Institucionalizar canales de democracia directa y comunicación abierta con el alcalde.",
+            "goal": "• Mínimo 02 audiencias de atención vecinal presencial al mes a través de la institucionalización del programa \"Tu Alcalde te escucha\".",
+            "indicator": "• Frecuencia mensual de audiencias de atención directa vecinal lideradas por el Alcalde."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-LpagczpvKfnBBl73YnHpz3FKWs9WBKq2",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/LpagczpvKfnBBl73YnHpz3FKWs9WBKq2",
+      "sha256": "2090f07f10e9742cbc155fe74f66b936285b30316c44c5c603da944dc23393df",
+      "accessedAt": "2026-10-02T23:02:45.044Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012848",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012848",
+      "sha256": "7e9f491404402b1e92da61ffffd10e9462a521b0f3c4d6c54a00f153dbdbe0df",
+      "accessedAt": "2026-10-02T23:02:45.608Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "WyD0hYvT5rPVR28wX7zV7B3FjH-tXqjw",
+  "slug": "victor-hugo-bazan-pastor",
+  "electionId": "erm-2026",
+  "name": "Victor Hugo Bazan Pastor",
+  "givenNames": "Victor Hugo",
+  "surnames": "Bazan Pastor",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140124",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:04.219Z",
+      "sourceId": "jne-hv-WyD0hYvT5rPVR28wX7zV7B3FjH-tXqjw"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD SAN IGNACIO DE LOYOLA S.A.",
+        "program": "LICENCIADO EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.A.",
+        "program": "BACHILLER EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD SAN MARTIN DE PORRES",
+        "program": "MAESTRIA EN GOBIERNO Y GESTIÓN PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACIÓN MPS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "FRANQUICIAS PERUANAS MP SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2016",
+      "to": "2025"
+    },
+    {
+      "employer": "FRANQUICIAS MARIA PASTOR SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2016",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO NACIONAL DE COMUNICACIÓN, NUEVAS TECNOLOGÍAS Y PARTICIPACIÓN CIUDADANA",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2021",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 271356,
+        "public": 0,
+        "private": 271356
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 47484.04,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 240639.07,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "LIBRO DE ASENTAMIENTOS HUMANOS",
+        "value": 28280,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CHELO VERDE SAC",
+        "type": "ACCIONES",
+        "quantity": 51008,
+        "value": 51008
+      },
+      {
+        "company": "SEMAFE CONSTRUCTORA SAC",
+        "type": "ACCIONES",
+        "quantity": 3500,
+        "value": 3500
+      },
+      {
+        "company": "CORPORACIÓN MPS SAC",
+        "type": "ACCIONES",
+        "quantity": 1,
+        "value": 1
+      },
+      {
+        "company": "FRANQUICIAS MARIA PASTOR SAC",
+        "type": "ACCIONES",
+        "quantity": 28000,
+        "value": 28000
+      },
+      {
+        "company": "MP BUSINESS SAC",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 2500
+      },
+      {
+        "company": "INVERSIONES PESCA PERU SAC",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 2500
+      },
+      {
+        "company": "V&M FRANQUICIAS PERUANAS EIRL",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      },
+      {
+        "company": "CORPORACIÓN VTR SAC",
+        "type": "ACCIONES",
+        "quantity": 30000,
+        "value": 30000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3194cacc-160a-4b2f-b6fe-016b74cb7df4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b5ad123a-4a8d-4aef-8d16-816cecb896a6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Crecimiento urbano y necesidad de preservar la identidad residencial del distrito.",
+            "objective": "Proteger la residencialidad, el orden urbano y el patrimonio ambiental e histórico de San Isidro.",
+            "goal": "1. Preservar integralmente el Bosque El Olivar y las zonas tradicionales del distrito. 2. Implementar el Observatorio Urbano Municipal. 3. Mantener altos niveles de calidad urbana y residencial en el distrito.",
+            "indicator": "1. Número de áreas patrimoniales y ambientales preservadas. 2. Número de Observatorios Urbanos implementados y operativos. 3. Porcentaje de satisfacción vecinal sobre el entorno urbano."
+          },
+          {
+            "problem": "Mayor presencia de mascotas y necesidad de fortalecer el bienestar animal.",
+            "objective": "Consolidar un distrito Pet Friendly y fortalecer la salud veterinaria municipal.",
+            "goal": "1. Modernizar la Veterinaria Municipal. 2. Realizar al menos 20 campañas distritales de bienestar animal durante la gestión. 3. Implementar nuevos espacios para mascotas y bebederos Pet friendly.",
+            "indicator": "1. Número de mejoras implementadas en la Veterinaria Municipal. 2. Número de campañas de bienestar animal realizadas. 3. Número de espacios y bebederos Pet friendly"
+          },
+          {
+            "problem": "Creciente demanda de programas para adultos mayores, personas con discapacidad y familias.",
+            "objective": "Promover el bienestar integral y la inclusión social.",
+            "goal": "1. Implementar Casas del Vecino en los 5 sectores del distrito. 2. Ampliar la atención integral al adulto mayor y personas con discapacidad.",
+            "indicator": "1. Número de Casas del Vecino implementadas. 2. Número de beneficiarios de programas para adultos mayores y personas con discapacidad."
+          },
+          {
+            "problem": "Nuevas necesidades de bienestar, salud y atención a la población en todas las etapas de la vida.",
+            "objective": "Fortalecer los servicios de salud, deporte y desarrollo humano, promoviendo una mejor calidad de vida.",
+            "goal": "1. Implementar el programa Médico Municipal en Casa. 2. Construir y poner en funcionamiento 2 Policlínicos Municipales. 3. Construir 3 Polideportivos Verticales.",
+            "indicator": "1. Número de vecinos beneficiados con el programa Médico Municipal en Casa. 2. Número de Policlínicos Municipales implementados. 3. Número de Polideportivos Verticales construidos y operativos."
+          },
+          {
+            "problem": "Necesidad de preservar la tranquilidad, la convivencia ciudadana y la calidad del entorno urbano frente a las nuevas dinámicas metropolitanas.",
+            "objective": "Fortalecer la tranquilidad y convivencia ciudadana mediante seguridad preventiva, tecnología y capacidad de respuesta.",
+            "goal": "1. Alcanzar el 100% de cobertura del distrito con videovigilancia inteligente. 2. Implementar y mantener operativo un Centro Inteligente de Seguridad las 24 horas. 3. Reducir progresivamente los delitos patrimoniales en el distrito.",
+            "indicator": "1. Porcentaje del distrito cubierto con videovigilancia inteligente. 2. Número de Centros Inteligentes de Seguridad implementados y operativos. 3. Porcentaje de reducción de delitos patrimoniales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de contar con nueva infraestructura cultural, turística y de servicios que fortalezca el posicionamiento internacional del distrito.",
+            "objective": "Desarrollar proyectos emblemáticos que consoliden a San Isidro como referente urbano y cultural de América Latina.",
+            "goal": "1. Construir el Gran Complejo Cultural Municipal. 2. Construir un Auditorio para 2,000 personas. 3. Implementar el Teatro Municipal y la Casa de la Música. 4. Desarrollar una agenda cultural internacional permanente.",
+            "indicator": "1. Número de proyectos emblemáticos ejecutados. 2. Metros cuadrados de nueva infraestructura cultural. 3. Número de eventos internacionales realizados."
+          },
+          {
+            "problem": "Necesidad de fortalecer la competitividad y consolidar el liderazgo económico y financiero del distrito.",
+            "objective": "Impulsar un ecosistema de innovación, emprendimiento y desarrollo económico sostenible.",
+            "goal": "1. Implementar la Academia Municipal de Innovación. 2. Capacitar a más de 8,000 vecinos durante la gestión. 3. Implementar Becas San Isidro Global y convenios internacionales.",
+            "indicator": "1. Número de programas de innovación implementados. 2. Número de vecinos capacitados. 3. Convenios con universidades y organismos internacionales."
+          },
+          {
+            "problem": "Necesidad de mejorar la movilidad y la experiencia urbana mediante infraestructura moderna e inteligente.",
+            "objective": "Modernizar la infraestructura urbana y optimizar la movilidad sostenible.",
+            "goal": "1. Implementar estacionamientos inteligentes. 2. Modernizar la red semafórica del distrito. 3. Replantear e integrar las ciclovías con distritos vecinos. 4. Implementar nuevos circuitos peatonales y senderos saludables.",
+            "indicator": "1. Número de estacionamientos inteligentes implementados. 2. Número de intersecciones con semaforización inteligente. 3. Kilómetros de ciclovías mejoradas e integradas."
+          },
+          {
+            "problem": "Necesidad de aprovechar el potencial de la Costa Verde como espacio de integración urbana, recreación y turismo.",
+            "objective": "Recuperar e integrar la Costa Verde como un nuevo ícono urbano y turístico del distrito.",
+            "goal": "1. Implementar el Parque Costero San Isidro. 2. Construir miradores y andenes paisajísticos. 3. Desarrollar espacios inmersivos y culturales. 4. Integrar ciclovías y circuitos peatonales saludables.",
+            "indicator": "1. Metros cuadrados recuperados del borde costero. 2. Número de nuevos espacios recreativos y culturales. 3. Número de visitantes."
+          },
+          {
+            "problem": "Necesidad de modernizar los servicios municipales y adecuarlos a los estándares internacionales de una ciudad inteligente.",
+            "objective": "Convertir a San Isidro en la primera Smart City integral del Perú mediante innovación, tecnología y gobierno digital.",
+            "goal": "1. Digitalizar más del 80% de los trámites municipales. 2. Implementar la App Vecino San Isidro con servicios integrados. 3. Implementar el Gemelo Digital del Distrito. 4. Implementar IA en la atención y gestión municipal.",
+            "indicator": "1. Porcentaje de trámites digitalizados. 2. Número de servicios integrados en la App Vecino San Isidro. 3. Implementación del Gemelo Digital del Distrito. 4. Número de sistemas con Inteligencia Artificial implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de recuperar e integrar ambientalmente la Costa Verde como espacio de naturaleza y recreación.",
+            "objective": "Recuperar el borde costero y convertirlo en un nuevo ícono ambiental y paisajístico del distrito.",
+            "goal": "1. Implementar el Parque Costero San Isidro. 2. Construir miradores, andenes paisajísticos y circuitos peatonales saludables. 3. Integrar la Costa Verde con ciclovías, áreas recreativas y espacios culturales.",
+            "indicator": "1. Metros cuadrados recuperados del borde costero. 2. Número de miradores y espacios públicos implementados. 3. Número de visitantes a los nuevos espacios ambientales."
+          },
+          {
+            "problem": "Necesidad de optimizar el uso del agua y fortalecer la sostenibilidad hídrica del distrito.",
+            "objective": "Implementar sistemas innovadores para el aprovechamiento eficiente y sostenible del recurso hídrico.",
+            "goal": "1. Construir dos Plantas de Tratamiento de Aguas Residuales (PTAR). 2. Incrementar progresivamente la reutilización del agua tratada. 3. Implementar sensores inteligentes de humedad en parques y áreas verdes.",
+            "indicator": "1. Número de PTAR implementadas. 2. Porcentaje de agua reutilizada para riego. 3. Número de sensores de humedad instalados."
+          },
+          {
+            "problem": "Necesidad de fortalecer la sostenibilidad ambiental y preservar el liderazgo de San Isidro como distrito verde frente a los efectos del cambio climático.",
+            "objective": "Consolidar un modelo de ciudad verde, sostenible y resiliente mediante infraestructura ambiental moderna y gestión eficiente de los recursos naturales.",
+            "goal": "1. Plantar 100,000 árboles y especies ornamentales durante la gestión. 2. Incrementar las áreas verdes del distrito. 3. Implementar riego inteligente en parques y jardines.",
+            "indicator": "1. Número de árboles y especies ornamentales plantadas. 2. Metros cuadrados de áreas verdes por habitante. 3. Número de parques con sistema de riego inteligente"
+          },
+          {
+            "problem": "Necesidad de fortalecer la gestión de residuos y promover una cultura ambiental responsable.",
+            "objective": "Impulsar un modelo de economía circular y gestión sostenible de residuos sólidos.",
+            "goal": "1. Implementar el Programa Basura Cero. 2. Instalar biodigestores para el aprovechamiento de residuos orgánicos. 3. Incrementar la participación ciudadana en programas de reciclaje y educación ambiental.",
+            "indicator": "1. Toneladas de residuos reciclados. 2. Número de biodigestores implementados. 3. Número de hogares incorporados a programas ambientales."
+          },
+          {
+            "problem": "Necesidad de incorporar energías limpias e infraestructura resiliente frente al cambio climático.",
+            "objective": "Promover infraestructura sostenible, eficiente y resiliente.",
+            "goal": "1. Incorporar paneles solares en infraestructura municipal. 2. Modernizar la iluminación pública con tecnología LED eficiente. 3. Implementar proyectos de infraestructura resiliente y sostenible.",
+            "indicator": "1. Número de edificios municipales con energía solar. 2. Número de proyectos de infraestructura resiliente ejecutados. 3. Reducción del consumo energético municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de optimizar la coordinación de los servicios municipales y la respuesta frente a emergencias.",
+            "objective": "Integrar la gestión municipal mediante un Centro Inteligente de Operaciones Urbanas.",
+            "goal": "1. Implementar el Centro Inteligente de Operaciones Urbanas. 2. Integrar seguridad, tránsito, emergencias y servicios municipales. 3. Mejorar progresivamente los tiempos de atención y respuesta.",
+            "indicator": "1. Tiempo de respuesta ante emergencias. 2. Número de sistemas integrados. 3. Número de incidencias atendidas digitalmente."
+          },
+          {
+            "problem": "Necesidad de contar con información integrada y herramientas tecnológicas para la toma de decisiones.",
+            "objective": "Incorporar tecnología e inteligencia artificial en la gestión del distrito.",
+            "goal": "1. Implementar el Gemelo Digital de San Isidro. 2. Implementar Big Data Municipal. 3. Incorporar Inteligencia Artificial en los principales servicios municipales.",
+            "indicator": "1. Implementación del Gemelo Digital. 2. Número de sistemas con Inteligencia Artificial. 3. Número de bases de datos integradas."
+          },
+          {
+            "problem": "Necesidad de fortalecer la transparencia y la confianza ciudadana en la gestión pública.",
+            "objective": "Consolidar un gobierno abierto, transparente y participativo.",
+            "goal": "1. Publicar información de obras, presupuesto y contratos en tiempo real. 2. Implementar Gobierno Abierto y datos abiertos. 3. Fortalecer la participación ciudadana y rendición de cuentas.",
+            "indicator": "1. Número de plataformas de transparencia implementadas. 2. Número de procesos publicados en tiempo real. 3. Índice de satisfacción vecinal."
+          },
+          {
+            "problem": "Necesidad de fortalecer la identidad digital y simplificar el acceso a los servicios municipales.",
+            "objective": "Modernizar la relación entre la municipalidad y los vecinos mediante servicios digitales integrados.",
+            "goal": "3. Facilitar el acceso integral a los servicios municipales desde cualquier dispositivo.",
+            "indicator": "1. Número de usuarios registrados. 2. Número de servicios integrados en la App Vecino San Isidro. 3. Número de trámites realizados digitalmente."
+          },
+          {
+            "problem": "Necesidad de modernizar la gestión municipal y adecuarla a los estándares internacionales de una ciudad inteligente.",
+            "objective": "Implementar una gestión municipal moderna, digital, innovadora y centrada en el vecino.",
+            "goal": "trámites municipales. 2. Implementar una Plataforma Única de Servicios Municipales. 3. Incrementar la satisfacción vecinal respecto a los servicios municipales.",
+            "indicator": "1. Porcentaje de trámites digitalizados. 2. Número de servicios disponibles en línea. 3. Nivel de satisfacción de los vecinos con los servicios municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-WyD0hYvT5rPVR28wX7zV7B3FjH-tXqjw",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/WyD0hYvT5rPVR28wX7zV7B3FjH-tXqjw",
+      "sha256": "66a6cf7b26baeb90f064cc41ac232ad31d4b9103570edfb90688855887141a0b",
+      "accessedAt": "2026-10-02T23:03:04.219Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015099",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015099",
+      "sha256": "faddff2a0f7747951092aaf2419151b370965245c2d3e5cfd8b2a89d999f8241",
+      "accessedAt": "2026-10-02T23:03:04.838Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

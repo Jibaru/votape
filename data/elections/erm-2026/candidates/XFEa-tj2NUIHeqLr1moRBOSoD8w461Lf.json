@@ -1,0 +1,267 @@
+{
+  "id": "XFEa-tj2NUIHeqLr1moRBOSoD8w461Lf",
+  "slug": "giuliano-fabrizio-bacigalupo-padilla",
+  "electionId": "erm-2026",
+  "name": "Giuliano Fabrizio Bacigalupo Padilla",
+  "givenNames": "Giuliano Fabrizio",
+  "surnames": "Bacigalupo Padilla",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:10.321Z",
+      "sourceId": "jne-hv-XFEa-tj2NUIHeqLr1moRBOSoD8w461Lf"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "INSTITUTO COLUMBIA",
+        "program": "ADMINISTRACION Y GERENCIA HOTELERA INTERNACIONAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILAZO DE LA VEGA",
+        "program": "NEGOCIOS INTERNACIONALES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PANZOTTO",
+      "role": "CHEF EJECUTIVO",
+      "from": "2000",
+      "to": "2026"
+    },
+    {
+      "employer": "BFB INVERSIONES SAC",
+      "role": "CEO",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "SOLUCIONES MINERALES SAC",
+      "role": "CEO",
+      "from": "2011",
+      "to": "2026"
+    },
+    {
+      "employer": "fondo de aseguramiento en salud de la policía nacional del Perú - SALUDPOL",
+      "role": "Asistente administrativo",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "BACI SAC",
+      "role": "GERENTE",
+      "from": "2013",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DE CHORRILLOS",
+      "party": "PARTIDO POLÍTICO PARTIDO APRISTA PERUANO",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 11250,
+        "public": 0,
+        "private": 11250
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "BACI SAC",
+        "type": "ACCIONES",
+        "quantity": 9500,
+        "value": 1
+      },
+      {
+        "company": "GLOBAL LAKSHMI SAC",
+        "type": "ACCIONES",
+        "quantity": 4000,
+        "value": 1
+      },
+      {
+        "company": "SOLUCIONES MINERALES SAC",
+        "type": "ACCIONES",
+        "quantity": 6600,
+        "value": 1
+      },
+      {
+        "company": "BFB INVERSIONES SAC",
+        "type": "ACCIONES",
+        "quantity": 2400,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6452cc5d-6cdf-47cd-95d3-ff5e0b3879e6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/66214a83-4c16-4ab7-b254-1af2e0b16b32.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia de servicios básicos en algunos asentamientos humanos del distrito.",
+            "objective": "Facilitar a los pobladores la obtención de constancias de posesión y gestionar la instalación de alumbrado, agua y desagüe.",
+            "goal": "Lograr que el 100% de los habitantes de estas zonas cuenten con constancias de posesión, electricidad y alumbrado público.",
+            "indicator": "Porcentaje de habitantes de asentamientos humanos con constancias de posesión y acceso a servicios básicos."
+          },
+          {
+            "problem": "Inexistencia de una respuesta adecuada ante desastres naturales en el distrito.",
+            "objective": "Implementar búnkeres en diferentes zonas del distrito, capacitar a todo el personal municipal y crear un centro de adiestramiento de canes.",
+            "goal": "Implementar 12 búnkeres subterráneos totalmente equipados y capacitar al 100% del personal para atender una emergencia ante un desastre o fuerza mayor.",
+            "indicator": "Número de búnkeres subterráneos implementados y porcentaje de personal municipal capacitado."
+          },
+          {
+            "problem": "Los servicios de salud son escasos y la respuesta ante una emergencia es deficiente.",
+            "objective": "Equipar el centro de salud de respuesta rápida, adquirir vehículos motorizados e implementar una central de emergencias.",
+            "goal": "Adquirir 5 moto ambulancias, 1 ambulancia, 5 equipos RCP, 1 sala de emergencia totalmente equipada para operaciones, 1 médico cirujano, 1 traumatólogo y 1 médico general las 24 horas.",
+            "indicator": "Número de equipamiento médico y logístico adquirido y personal de salud contratado."
+          },
+          {
+            "problem": "La población de Chorrillos se encuentra desprotegida ante cualquier emergencia de seguridad.",
+            "objective": "Crear la central de emergencia de Chorrillos, capacitar al personal y dotar de unidades motorizadas, así como equipar al personal de emergencias.",
+            "goal": "Establecer 1 puesto de monitoreo de emergencias, 1 centro de capacitación al personal municipal, adquirir 10 cuatrimotos, 4 camionetas y reducir la delincuencia en un 80%.",
+            "indicator": "Porcentaje de reducción de la delincuencia y número de equipamiento logístico adquirido."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Poca o nula infraestructura para el tránsito de peatones.",
+            "objective": "Construir vías adecuadas para el tránsito de peatones en el distrito.",
+            "goal": "Construir 20 km de pistas y veredas, además de señalizar el 100% de las calles.",
+            "indicator": "Kilómetros de pistas y veredas construidas y porcentaje de calles señalizadas."
+          },
+          {
+            "problem": "Los locales comerciales ocupan veredas y bloquean el tránsito de las personas.",
+            "objective": "Fiscalizar los locales comerciales que invadan la vía pública para garantizar el libre tránsito.",
+            "goal": "Lograr que el 100% de los locales tengan prohibido ocupar la vía pública sin autorización.",
+            "indicator": "Porcentaje de locales comerciales que cumplen con la normativa de no ocupar la vía pública."
+          },
+          {
+            "problem": "Falta de oportunidades de empleo en el distrito.",
+            "objective": "Promover la inversión de empresas, incentivar el turismo durante todo el año, brindar facilidades y promover la contratación de vecinos en el municipio, empresas privadas y obras públicas.",
+            "goal": "Disminuir en un 50% la tasa de desempleo del distrito, aumentar en un 200% el turismo y que el personal municipal sea en un 80% vecinos del distrito.",
+            "indicator": "Tasa de desempleo y porcentaje de incremento de la actividad turística."
+          },
+          {
+            "problem": "Baja recaudación de impuestos municipales.",
+            "objective": "Incentivar al vecino a regularizar sus impuestos mediante beneficios y adquirir equipos de papeleta electrónica.",
+            "goal": "Aumentar la recaudación en un 50% y que el 100% de las papeletas se emitan con el sistema electrónico.",
+            "indicator": "Porcentaje de incremento en la recaudación y porcentaje de implementación del sistema de papeleta electrónica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito cuenta con insuficientes vías para desplazarse en bicicletas.",
+            "objective": "Implementar un circuito de ciclovías que conecten el distrito para fomentar el transporte sostenible.",
+            "goal": "Construir y señalizar 50 km de ciclovías.",
+            "indicator": "Kilómetros de ciclovías construidas y señalizadas."
+          },
+          {
+            "problem": "Falta de una planta de tratamiento de aguas residuales.",
+            "objective": "Construir una planta de tratamiento de aguas servidas moderna para mejorar la gestión hídrica.",
+            "goal": "Construir una planta de tratamiento con capacidad de 20,000 m³ o más.",
+            "indicator": "Capacidad de tratamiento de aguas residuales de la planta construida."
+          },
+          {
+            "problem": "Inexistencia de árboles que capten el dióxido de carbono emitido por los vehículos.",
+            "objective": "Plantar árboles que puedan captar la mayor cantidad de CO2 para mejorar la calidad del aire.",
+            "goal": "Plantar 10,000 árboles de la variedad Pawlonia o similar, que sean captadores de CO2.",
+            "indicator": "Número de árboles plantados en el distrito."
+          },
+          {
+            "problem": "Los vecinos de algunos asentamientos humanos no cuentan con colectores de desechos.",
+            "objective": "Implementar un servicio colector de desechos eficiente para todo el distrito de Chorrillos.",
+            "goal": "Lograr que el 100% de los vecinos de Chorrillos cuente con el servicio de recojo de desechos diario y techo limpio cada 3 meses.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo de desechos en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Las sesiones del concejo municipal no cuentan con la participación de la prensa y los vecinos.",
+            "objective": "Crear un salón de prensa contiguo al salón de sesiones para que todas las sesiones puedan ser públicas y transparentes.",
+            "goal": "El 100% de las sesiones del concejo serán públicas.",
+            "indicator": "Porcentaje de sesiones del concejo realizadas de manera pública."
+          },
+          {
+            "problem": "La página web institucional no muestra información detallada sobre los proyectos, plazos, costos y beneficiarios.",
+            "objective": "Modernizar la página web institucional para una mayor transparencia y una adecuada fiscalización ciudadana.",
+            "goal": "El 100% de las obras serán publicadas para una fiscalización ciudadana.",
+            "indicator": "Porcentaje de obras públicas con información completa publicada en la página web institucional."
+          },
+          {
+            "problem": "El personal del municipio trabaja en un ambiente laboral bajo presión.",
+            "objective": "Promover el trabajo en el domicilio para los trabajadores del municipio, con el fin de mejorar las condiciones laborales.",
+            "goal": "El 50% del personal de oficina trabajará desde casa.",
+            "indicator": "Porcentaje del personal de oficina que realiza trabajo desde casa."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-XFEa-tj2NUIHeqLr1moRBOSoD8w461Lf",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/XFEa-tj2NUIHeqLr1moRBOSoD8w461Lf",
+      "sha256": "dce0a8bf6774e2135052f3baa9e53d3e180d5858df8ec78b0f12c0a6165791be",
+      "accessedAt": "2026-10-02T22:54:10.321Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021681",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021681",
+      "sha256": "b7d6772d58a6793122fb99e0748ce9760984c6a4b5c632df0f3119d82d43054e",
+      "accessedAt": "2026-10-02T22:54:10.811Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

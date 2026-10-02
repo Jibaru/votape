@@ -1,0 +1,384 @@
+{
+  "id": "aX4IQJT8g4fNNYFS2-ToqTXEvnJAo8XM",
+  "slug": "david-elias-alegria-liberato",
+  "electionId": "erm-2026",
+  "name": "David Elias Alegria Liberato",
+  "givenNames": "David Elias",
+  "surnames": "Alegria Liberato",
+  "age": 41,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:19.712Z",
+      "sourceId": "jne-hv-aX4IQJT8g4fNNYFS2-ToqTXEvnJAo8XM"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.A.",
+        "program": "BACHILLER EN ADMINISTRACION DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "TITULO PROFESIONAL DE INGENIERO DE PETROLEO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2013"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "BACHILLER EN CIENCIAS CON MENCION EN INGENIERIA DE PETROLEO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SERVICIO AGUA POTABLE Y ALCANTARILLADO DE LIMA - SEDAPAL",
+      "role": "OPERADOR ESPECIALIZADO EN MANTENIMIENTO DE REDES",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "CONSORCIO EDUCATIVO JUAN ESPINOZA MEDRANO EL APOSTOL S.A.C.",
+      "role": "ADMINISTRADOR",
+      "from": "2009",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2014"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 225500,
+        "public": 105500,
+        "private": 120000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 28000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 30548.48,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 15000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA PICKUP 4X2 NISSAN",
+        "value": 50000
+      },
+      {
+        "type": "CAMION HYUNDAI BLANCO",
+        "value": 70000
+      },
+      {
+        "type": "MARCA NISSAN MODELO URBAN COLOR BLANCO AÑO 2017",
+        "value": 80000
+      },
+      {
+        "type": "MOTOTAXI AZUL",
+        "value": 600
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SOCIEDAD ANONIMA CONSORCIO EDUCATIVO JUAN ESPINOZA MEDRANO EL APOSTOL SAC - CEJESMA SAC",
+        "type": "ACCIONES",
+        "quantity": 13750,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/adb8472d-e8da-4b24-b350-fe885ddb8421.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/68a9b852-f0b2-427e-b69d-41d18b3b306e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia en delitos patrimoniales y violencia familiar que afectan la seguridad ciudadana del distrito.",
+            "objective": "Descentralizar el centro de monitoreo de seguridad ciudadana en cada una de las cinco zonas del distrito, interconectado a la Central de Serenazgo y de la Policía Nacional, para atender de manera inmediata las incidencias delictivas y emergencias. Además, se busca reforzar el patrullaje integrado, implementar cámaras con reconocimiento facial y drones.",
+            "goal": "Optimizar la gestión de seguridad ciudadana con herramientas tecnológicas, logrando una rápida respuesta e intervención. Se instalarán entre 200 y 250 nuevas cámaras y se realizarán 700 horas de vuelo mensuales con drones. Se espera reducir los índices delictivos y de violencia en un 80%.",
+            "indicator": "Número de cámaras con inteligencia artificial, horas de vuelo mensuales de drones y tiempo de respuesta ante las emergencias."
+          },
+          {
+            "problem": "Desvinculación de la población con el municipio para enfrentar coordinadamente la inseguridad ciudadana.",
+            "objective": "Promover la creación de nuevas juntas vecinales y fortalecer las existentes para combatir la delincuencia en coordinación con la Policía Nacional y el Serenazgo. Implementar redes institucionales de protección para prevenir la violencia contra la mujer y los integrantes del grupo familiar.",
+            "goal": "Incrementar en un 20% el número de juntas vecinales activas y reconocidas. Lograr que el 100% de las juntas activas participen en patrullajes mixtos mensuales y capacitar al 80% de sus coordinadores. Alcanzar el 100% de atención integral a las víctimas de violencia familiar.",
+            "indicator": "Porcentaje de incremento de juntas vecinales activas y reconocidas; número de operativos comunitarios coordinados; porcentaje de víctimas de violencia familiar que reciben atención oportuna e integral."
+          },
+          {
+            "problem": "Falta de interés en gestionar los problemas generados por las mascotas.",
+            "objective": "Construir la Clínica Veterinaria e implementar la Veterinaria Móvil para atención de salud, desparasitación, esterilización y vacunas; crear un albergue temporal para animales en abandono; y registrar y empadronar a los animales en coordinación con el Colegio Médico Veterinario del Perú.",
+            "goal": "Implementar una cultura de protección y salud para los animales, evitando el abandono, maltrato y explotación de los mismos, y cuidar la salud pública.",
+            "indicator": "Porcentaje de avance de obra de la Clínica Veterinaria; número de atenciones veterinarias mensuales; porcentaje de cobertura de esterilización; tasa de empadronamiento animal; índice de adopción y reinserción; reducción de denuncias por maltrato; disminución de animales en estado de abandono."
+          },
+          {
+            "problem": "Abandono y deficiencia en los servicios de salud en el distrito.",
+            "objective": "Repotenciar la clínica municipal, construir el velatorio municipal, implementar programas para adultos mayores (CIAM), crear el centro de salud mental, adquirir una ambulancia tipo II, construir un centro médico en la urb. Santa Rosa de Quives e implementar el programa nutricional \"La Vaca Mecánica\".",
+            "goal": "Salvaguardar la vida de la población santanitiense con atención 100% efectiva, lograr ser un distrito líder en salud, mejorar la condición nutricional de las personas atendidas y crear un sistema de salud pública con respuestas rápidas, constituyendo un distrito inclusivo.",
+            "indicator": "Tasa de prevalencia de anemia infantil; tasa de incidencia de tuberculosis; índice de satisfacción del usuario; capacidad de atención de emergencias 24/7; tiempo promedio de respuesta de la ambulancia; número de beneficiarios del complemento nutricional."
+          },
+          {
+            "problem": "Falta de oportunidades para los vecinos del distrito para tener acceso a la educación técnica y universitaria.",
+            "objective": "Fortalecer la academia municipal preuniversitaria, crear un instituto municipal de formación técnica, un programa municipal de becas y el programa \"Jóvenes Milenian\" para la inserción laboral.",
+            "goal": "Lograr que al menos el 35% de los estudiantes matriculados alcancen una vacante en educación superior. Certificar a 500 jóvenes y adultos en competencias técnicas. Asignar un mínimo de 50 becas anuales. Insertar laboralmente al 60% de los jóvenes participantes del programa con el MTPE. Beneficiar a 2,500 vecinos al año.",
+            "indicator": "Porcentaje de alumnos egresados de la academia que ingresan a educación superior; número de ciudadanos certificados en carreras técnicas; porcentaje de becas asignadas; tasa de inserción laboral formal de jóvenes."
+          },
+          {
+            "problem": "Desvinculación de la población con el municipio para enfrentar coordinadamente la inseguridad ciudadana.",
+            "objective": "Promover la creación de nuevas juntas vecinales y fortalecer las existentes para combatir la delincuencia y el crimen organizado, en coordinación con la Policía Nacional del Perú y el Serenazgo. Implementar redes institucionales de protección para prevenir la violencia contra la mujer.",
+            "goal": "Incrementar en un 20% el número de juntas vecinales activas y reconocidas. Lograr que el 100% de las juntas vecinales activas participen en patrullajes mixtos. Capacitar al 80% de los miembros de las juntas en prevención del delito. Alcanzar el 100% de atención integral a víctimas de violencia familiar.",
+            "indicator": "Porcentaje de incremento de juntas vecinales activas y reconocidas; número de operativos comunitarios coordinados; porcentaje de vecinos capacitados en seguridad ciudadana; porcentaje de víctimas de violencia familiar que reciben atención oportuna e integral por la red institucional."
+          },
+          {
+            "problem": "Alta incidencia en delitos patrimoniales y violencia familiar que afectan la seguridad ciudadana del distrito.",
+            "objective": "Descentralizar el centro de monitoreo de seguridad ciudadana en cada una de las cinco zonas del distrito, interconectado con la Central de Serenazgo y la Policía Nacional, para atender de manera inmediata las incidencias delictivas y emergencias.",
+            "goal": "Optimizar la gestión de seguridad ciudadana con herramientas tecnológicas e interconexión con centrales y bases de datos nacionales, implementando entre 200 y 250 nuevas cámaras de videovigilancia, y realizando 700 horas de vuelo mensuales con drones. Reducir los índices delictivos y de violencia contra la mujer en un 80%.",
+            "indicator": "Incremento en el número de cámaras con inteligencia artificial, horas de vuelo mensuales de drones y el tiempo de respuesta ante las emergencias."
+          },
+          {
+            "problem": "Abandono y deficiencia en los servicios de salud en el distrito.",
+            "objective": "Repotenciar la clínica municipal, construir un velatorio municipal, implementar programas para adultos mayores en el CIAM, crear un centro de salud mental, adquirir una ambulancia tipo II, y construir un centro médico en la urbanización Santa Rosa de Quives.",
+            "goal": "Salvaguardar la vida de la población garantizando una atención 100% efectiva. Lograr que el distrito sea líder en salud. Crear un sistema de salud pública con respuestas rápidas y un distrito inclusivo.",
+            "indicator": "Cobertura de atención en la clínica municipal, número de programas y talleres para adultos mayores, número de pacientes atendidos en el centro de salud mental, y tiempo de respuesta de la ambulancia municipal."
+          },
+          {
+            "problem": "Falta de oportunidades para los vecinos del distrito para tener acceso a la educación técnica y universitaria.",
+            "objective": "Fortalecer la academia municipal preuniversitaria, crear un instituto municipal de formación técnica, un programa municipal de becas y el programa “Jóvenes Milenian” para la inserción laboral de jóvenes mayores de 15 años.",
+            "goal": "Lograr que al menos el 35% de los estudiantes de la academia municipal ingresen a la educación superior. Certificar a 500 jóvenes y adultos en competencias técnicas anualmente. Asignar un mínimo de 50 becas anuales. Insertar al 60% de los jóvenes participantes en el mercado laboral formal.",
+            "indicator": "Porcentaje de alumnos que ingresan a educación superior, número de ciudadanos certificados en carreras técnicas, porcentaje de becas gestionadas y asignadas, y tasa de inserción laboral formal de los jóvenes capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto nivel de comercio informal en el distrito debido a problemas económicos.",
+            "objective": "Crear la panadería municipal \"Pan y Chamba\", continuar con los mercados itinerantes, dinamizar el emprendimiento vecinal en espacios abiertos, generar rutas gastronómicas, gestionar la renovación de mobiliario para programas sociales y peatonalizar calles para activar el comercio.",
+            "goal": "Elevar el nivel económico de la población más vulnerable, brindar mejores oportunidades a la población con menores recursos económicos y fortalecer las capacidades de los vecinos en el ámbito laboral, preferentemente en el sector informal.",
+            "indicator": "Tasa de tránsito a la formalidad de comerciantes informales; número de emprendedores locales capacitados; índice de dinamismo comercial en zonas peatonalizadas; volumen de producción de la panadería municipal; porcentaje de cobertura del complemento alimentario."
+          },
+          {
+            "problem": "Falta de oportunidades para los vecinos emprendedores e inversión privada.",
+            "objective": "Fomentar la participación de empresas privadas, facilitar la formalidad de las actividades económicas, articular con entidades públicas y privadas para capacitar a la población PYME, e impulsar la creación de zonas comerciales en el entorno de las estaciones del tren eléctrico.",
+            "goal": "Incrementar y facilitar la creación de nuevas empresas formales en el distrito, elevar el nivel económico de los vecinos y fortalecer sus capacidades en el ámbito laboral y empresarial mediante la activación del instituto municipal.",
+            "indicator": "Tiempo promedio de emisión de licencias de funcionamiento; tasa de crecimiento de empresas formales (PYMES); porcentaje de planes de negocio viabilizados; índice de densidad empresarial en zonas de influencia del Metro; monto de inversión privada ejecutada mediante Obras por Impuestos (OxI) o APP."
+          },
+          {
+            "problem": "Falta de oportunidades para los vecinos emprendedores e inversión privada.",
+            "objective": "Fomentar la participación de empresas privadas, facilitar la formalidad de las actividades económicas, articular con entidades de fomento a PYMES y aprovechar el funcionamiento del tren eléctrico para crear nuevas zonas comerciales.",
+            "goal": "Incrementar y facilitar la creación de nuevas empresas formales en el distrito. Elevar el nivel económico de los vecinos. Fortalecer y capacitar a los vecinos en el ámbito laboral y empresarial. Impulsar nuevas empresas PYMES entorno al Tren Eléctrico.",
+            "indicator": "Número de nuevas empresas formales creadas, número de licencias de funcionamiento emitidas, número de capacitaciones a PYMES y número de nuevos negocios en el entorno de las estaciones del tren eléctrico."
+          },
+          {
+            "problem": "Falta de apoyo a la innovación de los vecinos santanitenses.",
+            "objective": "Crear un área de soporte para emprendedores, implementar talleres de tecnología, inclusión financiera y marketing digital, así como patrocinar y difundir ferias de innovaciones y emprendimientos.",
+            "goal": "Fomentar iniciativas innovadoras en la comunidad. Fortalecer el conocimiento de la población en oportunidades y capacidades para el manejo de emprendimientos innovadores. Facilitar y articular espacios para la presentación de las innovaciones.",
+            "indicator": "Número de emprendedores asesorados, número de talleres de innovación realizados y número de ferias de innovación organizadas."
+          },
+          {
+            "problem": "Falta de apoyo a la innovación de los vecinos santanitenses.",
+            "objective": "Crear un área de soporte para emprendedores que brinde asesoría para la innovación, implementar talleres de tecnología e inclusión financiera, y patrocinar ferias de innovaciones y emprendimientos.",
+            "goal": "Fomentar iniciativas innovadoras de la comunidad, fortalecer el conocimiento de la población en oportunidades y capacidades para el manejo de emprendimientos, y facilitar espacios para la presentación de las innovaciones de los vecinos.",
+            "indicator": "Número de proyectos de innovación asesorados; tasa de conversión de ideas a prototipos o negocios; índice de difusión de proyectos locales; tasa de adopción de herramientas digitales; número de vecinos certificados en competencias del futuro; volumen de transacciones en ferias de innovación."
+          },
+          {
+            "problem": "Alto nivel de comercio informal en el distrito debido a problemas económicos.",
+            "objective": "Crear la panadería municipal “Pan y Chamba”, continuar con los mercados itinerantes, dinamizar el emprendimiento vecinal, generar rutas gastronómicas y peatonalizar calles para activar los comercios.",
+            "goal": "Elevar el nivel económico de la población más vulnerable del distrito. Brindar mejores oportunidades a la población con menores recursos económicos. Fortalecer y capacitar a los vecinos para desarrollar sus capacidades en el ámbito laboral, preferentemente en el sector informal.",
+            "indicator": "Número de mercados itinerantes gestionados, número de emprendedores participantes en ferias, número de beneficiarios de programas alimentarios y de panadería municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de incentivos por parte de las autoridades municipales para que los vecinos contribuyan al desarrollo de una ciudad verde.",
+            "objective": "Otorgar el beneficio tributario de descuento en arbitrios por edificaciones sostenibles, en las cuales los predios cuenten con áreas verdes en techos o en la parte frontal.",
+            "goal": "Concientizar a los vecinos para promover y mantener un ambiente adecuado de vegetación natural que permita el desarrollo de las personas con una calidad de vida urbana saludable y lejos de la contaminación.",
+            "indicator": "Tasa de predios acogidos al beneficio verde; metros cuadrados de infraestructura verde privada; índice de densidad verde por sector; costo fiscal del incentivo verde; tasa de reducción de morosidad tributaria."
+          },
+          {
+            "problem": "El mantenimiento de áreas verdes es ineficiente por el uso de la técnica de regado tradicional, que genera charcos de agua, deteriora el pavimento y deja secas partes del área verde.",
+            "objective": "Implementar el riego tecnificado como técnica moderna y efectiva para el riego de las áreas verdes, permitiendo la eficiencia en el uso del agua y una mantención efectiva.",
+            "goal": "Convertir Santa Anita en el primer distrito ecológico con la mayor área verde por habitante y modernizar la técnica de mantenimiento de estas áreas.",
+            "indicator": "Porcentaje de áreas verdes distritales con riego tecnificado; índice de ecoeficiencia en el consumo de agua; índice de conservación paisajística; metros cuadrados de área verde por habitante; porcentaje de predios acogidos al beneficio tributario por edificaciones sostenibles."
+          },
+          {
+            "problem": "Mantenimiento ineficiente de áreas verdes debido al uso de técnicas de regado tradicional.",
+            "objective": "Implementar el riego tecnificado como técnica moderna y efectiva para el riego de las áreas verdes, permitiendo eficiencia en el uso del agua y una mejor mantención.",
+            "goal": "Convertir a Santa Anita en el primer distrito ecológico con mayor área verde por habitante y modernizar la técnica de mantenimiento de estas áreas.",
+            "indicator": "Porcentaje de áreas verdes con riego tecnificado y metros cúbicos de agua ahorrados en el riego."
+          },
+          {
+            "problem": "Falta de veredas, cruces peatonales y paraderos inclusivos, limitando el libre tránsito y la accesibilidad.",
+            "objective": "Ejecutar paraderos y veredas peatonales inclusivos con especificaciones técnicas adecuadas, mediante el desarrollo de un plan de accesibilidad que contemple el estudio de puntos de conflicto y la elaboración de nuevos proyectos.",
+            "goal": "Implementar rutas de tránsito peatonal accesibles que permitan a cualquier persona interactuar sin dificultades, en condiciones de comodidad, seguridad, igualdad y autonomía.",
+            "indicator": "Kilómetros de veredas accesibles construidas o remodeladas, número de paraderos inclusivos implementados y porcentaje de ejecución del plan de accesibilidad."
+          },
+          {
+            "problem": "La mayoría de zonas se encuentran físicamente consolidadas pero los predios no cuentan con saneamiento físico legal, lo que hace al distrito poco atractivo para la inversión privada.",
+            "objective": "Impulsar el ordenamiento territorial mediante cambios de zonificación que permitan construcciones sostenibles, promover beneficios de regularización de edificaciones sin licencia y concluir con las licencias de habilitación urbana.",
+            "goal": "Convertir el distrito en una ciudad moderna que capte inversión privada y revalorice los predios, cambiando la imagen arquitectónica de las calles con construcciones modernas y zonificaciones ordenadas.",
+            "indicator": "Porcentaje de superficie distrital actualizada con nueva zonificación; tasa de licencias de habilitación urbana emitidas; número de sectores con planes específicos de ordenamiento aprobados; porcentaje de edificaciones regularizadas mediante amnistías; incremento del valor arancelario y comercial del metro cuadrado."
+          },
+          {
+            "problem": "Contaminación ambiental y visual por la acumulación de basura en avenidas y parques, convirtiéndose en un foco infeccioso que atenta contra la salud pública.",
+            "objective": "Implementar una planta de reciclaje de gran capacidad, incentivando su uso con los vecinos para mantener el orden y la limpieza de las áreas públicas, sincerar y reducir la tasa de arbitrios, y generar puestos de trabajo.",
+            "goal": "Mantener las calles, vías y parques libres de basura, promoviendo una cultura de orden y limpieza, y solucionando el problema de la contaminación ambiental y la mala imagen distrital para crear un ambiente paisajístico de calidad de vida.",
+            "indicator": "Volumen de residuos sólidos valorizados; tasa de participación vecinal en segregación; empleos verdes locales generados; porcentaje de reducción en la tasa de arbitrios; reducción de puntos críticos de acumulación de basura; índice de calidad del paisaje urbano."
+          },
+          {
+            "problem": "La mayoría de los predios no cuentan con saneamiento físico legal, lo cual desincentiva la inversión privada.",
+            "objective": "Impulsar el ordenamiento territorial mediante propuestas de cambios de zonificación, promover la regularización de edificaciones sin licencia y concluir con las licencias de habilitación urbana.",
+            "goal": "Convertir el distrito en una ciudad moderna que permita captar inversión privada y revalorizar los predios, cambiando la imagen arquitectónica de las calles con construcciones modernas y zonificaciones ordenadas.",
+            "indicator": "Porcentaje de predios con saneamiento físico legal, número de licencias de habilitación urbana concluidas y propuestas de cambio de zonificación aprobadas."
+          },
+          {
+            "problem": "Contaminación ambiental y visual por la acumulación de basura en avenidas y parques, convirtiéndose en un foco infeccioso.",
+            "objective": "Implementar una planta de reciclaje de gran capacidad para incentivar su uso entre los vecinos, manteniendo el orden y la limpieza de las áreas públicas.",
+            "goal": "Mantener las calles, vías y parques libres de basura, promoviendo una cultura de orden y limpieza, y dejando las áreas públicas saludables para su transitabilidad.",
+            "indicator": "Toneladas de residuos sólidos reciclados, sinceramiento y reducción de la tasa de arbitrios y número de puestos de trabajo generados en la planta de reciclaje."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de implementación de más políticas de desarrollo en la gestión municipal, así como el respaldo hacia el respeto del ambiente y el desarrollo sostenible.",
+            "objective": "Implementar la plataforma de Gobierno Electrónico para la gestión municipal.",
+            "goal": "Desarrollar una gestión con tecnología avanzada y moderna.",
+            "indicator": "Porcentaje de servicios y trámites municipales digitalizados; tasa de disponibilidad de la plataforma de Gobierno Electrónico; porcentaje de reducción en el consumo de papel; huella de carbono institucional evitada por digitalización; tasa de uso de la plataforma digital por los vecinos."
+          },
+          {
+            "problem": "Inexistencia de un estudio riguroso sobre cómo optimizar, formalizar y automatizar los procesos internos, generando percepción de corrupción.",
+            "objective": "Optimizar, formalizar y automatizar cada uno de los procesos internos, logrando que la población tenga acceso transparente a los servicios públicos.",
+            "goal": "Institucionalizar la evaluación de la gestión por resultados, la planificación estratégica, la rendición de cuentas y la transparencia para garantizar una gestión adecuada.",
+            "indicator": "Porcentaje de procesos internos automatizados e índice de percepción de la transparencia en la gestión municipal."
+          },
+          {
+            "problem": "Los objetivos de la gestión no recogen necesariamente las demandas de la población.",
+            "objective": "Constituir un municipio moderno orientado al ciudadano, eficiente, descentralizado e inclusivo.",
+            "goal": "Asegurar que todos los vecinos tengan igualdad de oportunidades en el acceso a sus servicios y brindar servicios de calidad en la cantidad necesaria para satisfacer sus necesidades.",
+            "indicator": "Nivel de satisfacción ciudadana con los servicios municipales y número de mecanismos de participación ciudadana efectivos."
+          },
+          {
+            "problem": "Desarticulación del sistema administrativo, que es complejo, engorroso y de difícil cumplimiento.",
+            "objective": "Identificar y eliminar requisitos, exigencias y formalidades innecesarias en los procedimientos administrativos para reducir los tiempos de espera.",
+            "goal": "Dar priorización a las acciones de simplificación administrativa, considerando los procedimientos de alta demanda y prioridad para la población que impactan en múltiples actividades económicas.",
+            "indicator": "Reducción del tiempo promedio de los trámites administrativos y número de requisitos eliminados o simplificados en los procedimientos."
+          },
+          {
+            "problem": "La definición de objetivos del municipio no recoge necesariamente las demandas de la población.",
+            "objective": "Ser un municipio moderno orientado al ciudadano, eficiente, descentralizado e inclusivo.",
+            "goal": "Asegurar que todos los vecinos tengan igualdad de oportunidades en el acceso a sus servicios y en la elección de sus opciones de vida, brindando servicios de calidad en la cantidad necesaria para satisfacer sus necesidades.",
+            "indicator": "Porcentaje de proyectos de inversión pública orientados a demandas ciudadanas; índice de representatividad territorial; tasa de atención y resolución de reclamos ciudadanos; número de atenciones en agencias descentralizadas; frecuencia de audiencias públicas de rendición de cuentas."
+          },
+          {
+            "problem": "No se estudia de manera rigurosa cómo optimizar, formalizar y automatizar los procesos internos, siendo la institución vista con un alto índice de corrupción.",
+            "objective": "Optimizar, formalizar y automatizar cada uno de los procesos internos, logrando que la población tenga acceso a servicios públicos transparentes.",
+            "goal": "Institucionalizar la evaluación de la gestión por resultados, la planificación estratégica y concertada, la rendición pública y periódica de cuentas, y la transparencia.",
+            "indicator": "Porcentaje de procesos internos simplificados y automatizados; tiempo promedio de ciclo de los trámites críticos; tasa de interoperabilidad institucional; índice de Transparencia Activa; porcentaje de ejecución del Plan de Integridad y Lucha contra la Corrupción."
+          },
+          {
+            "problem": "La desarticulación del sistema administrativo, además de ser complejo, es engorroso y de difícil cumplimiento.",
+            "objective": "Identificar y eliminar requisitos, exigencias y formalidades innecesarias en los procedimientos administrativos y reducir los tiempos de espera.",
+            "goal": "Dar priorización a las acciones de simplificación administrativa, tomando en cuenta procedimientos de alta demanda y de prioridad para la población que impactan en múltiples actividades económicas.",
+            "indicator": "Porcentaje de requisitos eliminados del TUPA; tasa de reducción de procedimientos administrativos complejos; número de barreras burocráticas declaradas ilegales; porcentaje de reducción en el tiempo de espera del trámite; tasa de cumplimiento de plazos de ley."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-aX4IQJT8g4fNNYFS2-ToqTXEvnJAo8XM",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/aX4IQJT8g4fNNYFS2-ToqTXEvnJAo8XM",
+      "sha256": "fc99785472677dbc5e263c5bfc13fa11938e19560bfa53166daf27afdabc9772",
+      "accessedAt": "2026-10-02T23:05:19.712Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017288",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017288",
+      "sha256": "6ea9de51dad5fb956bc15cbf1757d6d4c2e5eaf7cd287d3463243fd06b531edc",
+      "accessedAt": "2026-10-02T23:05:20.230Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

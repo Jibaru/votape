@@ -1,0 +1,320 @@
+{
+  "id": "9Xq8TEUYisj06lcZhTJ_c-b6QVyzBVd_",
+  "slug": "sabina-alarcon-solis",
+  "electionId": "erm-2026",
+  "name": "Sabina Alarcon Solis",
+  "givenNames": "Sabina",
+  "surnames": "Alarcon Solis",
+  "age": 58,
+  "gender": "Femenino",
+  "party": {
+    "id": 3036,
+    "name": "ALIANZA REGIONAL POR EL PERU"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:21.079Z",
+      "sourceId": "jne-hv-9Xq8TEUYisj06lcZhTJ_c-b6QVyzBVd_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "INCA GARCILASO DE LA VEGA",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "TRANSPORTES ALARCON HNOS S.A.C",
+      "role": "GERENTE GENERAL",
+      "from": "2018",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "FUERZA POPULAR",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "TODOS POR EL PERU",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 132000,
+        "public": 0,
+        "private": 132000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "COMERCIAL",
+        "value": 45000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "INMUEBLE VIVIENDA",
+        "value": 280000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "COMERCIAL",
+        "value": 75000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "COMERCIAL",
+        "value": 480000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "DISCASOL SRL",
+        "type": "ACCIONES",
+        "quantity": 300,
+        "value": 50
+      },
+      {
+        "company": "GRUPO SMAF SAC",
+        "type": "ACCIONES",
+        "quantity": 7500,
+        "value": 1
+      },
+      {
+        "company": "DISTRIBUIDORA ALARCON HNOS",
+        "type": "ACCIONES",
+        "quantity": 14990,
+        "value": 1
+      },
+      {
+        "company": "ALARCON S.A.",
+        "type": "ACCIONES",
+        "quantity": 6000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c687f301-f286-4e5c-851c-17e9dfb96ba7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/418b3895-dd93-4468-91a6-718ed266ddf6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevados índices de anemia y desnutrición crónica infantil en los asentamientos humanos y zonas vulnerables del distrito.",
+            "objective": "Crear un padrón nominal digitalizado para georreferenciar a niños menores de 3 años y gestantes, articulando con las Ollas Comunes y Vasos de Leche la entrega mensual de alimentos fortificados con hierro, acompañado de un monitoreo médico preventivo a domicilio.",
+            "goal": "Reducir la anemia infantil en el distrito del índice actual estimado a menos del 18%.",
+            "indicator": "Tasa de prevalencia de anemia en niños menores de 36 meses en el distrito."
+          },
+          {
+            "problem": "Falta de espacios públicos idóneos para el arte, deporte y recreación, exponiendo a la juventud a la delincuencia, pandillaje y consumo de drogas.",
+            "objective": "Recuperar terrenos baldíos y losas deportivas abandonadas para transformarlos en Complejos de Integración Social (CIS) y poner en funcionamiento la Casa de la Juventud con escuelas de música, danza, teatro y talleres de robótica y programación.",
+            "goal": "Lograr que 40,000 jóvenes participen activamente de las escuelas municipales permanentes, alejándolos de entornos de riesgo.",
+            "indicator": "Número de niños, adolescentes y jóvenes inscritos activamente en los programas deportivos y culturales municipales."
+          },
+          {
+            "problem": "Falta de articulación orgánica entre los vecinos organizados, el Serenazgo municipal y la Policía Nacional del Perú (PNP).",
+            "objective": "Reorganizar las juntas vecinales equipándolas con alarmas comunales interconectadas a la central de monitoreo, pulsadores inalámbricos de emergencia y capacitación en técnicas preventivas de disuasión del delito.",
+            "goal": "Instalar y activar 800 sistemas de alarmas inteligentes vecinales completamente operativas en el distrito.",
+            "indicator": "Número de Comités Vecinales de Seguridad integrados a la plataforma tecnológica municipal."
+          },
+          {
+            "problem": "Centrales de monitoreo no interconectadas, cámaras inoperativas y falta de respuesta rápida ante el crimen organizado, robos al paso y extorsión.",
+            "objective": "Implementar un sistema de videovigilancia con inteligencia artificial y patrullaje integrado, instalando una red de 1000 cámaras de alta definición interconectadas, GPS municipal y recuperando puestos de auxilio rápido.",
+            "goal": "Cobertura del 100% de los puntos críticos del distrito y reducción del 45% en los índices de robos al paso.",
+            "indicator": "Porcentaje de delitos comunes capturados y reportados en tiempo real por la central municipal."
+          },
+          {
+            "problem": "Altas cifras de violencia familiar y de género a nivel de Lima Metropolitana registradas históricamente en el distrito.",
+            "objective": "Implementar un Centro de Refugio Temporal (CRT) denominado \"Casa de la mujer\", que brinde protección física, asesoría legal obligatoria, soporte psicológico de urgencia y talleres de independencia económica para mujeres e hijos víctimas de violencia.",
+            "goal": "Lograr el 100% de atención inmediata y seguimiento legal a los casos reportados, erradicando los rebrotes de agresión en los hogares asistidos.",
+            "indicator": "Porcentaje de denuncias de violencia familiar atendidas y canalizadas con medidas de protección eficaces por la municipalidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ausencia de un terminal pesquero adecuado, lo que genera pérdida de frescura del producto, bajos estándares de higiene y dificultades logísticas.",
+            "objective": "Construir un terminal pesquero moderno, equipado con infraestructura para la recepción, almacenamiento, distribución y comercialización de productos pesqueros, que cumpla con estándares sanitarios y ambientales.",
+            "goal": "Alcanzar que el 80% del comercio pesquero en San Juan de Lurigancho se realice a través del terminal pesquero construido, con certificación sanitaria y operatividad plena.",
+            "indicator": "Porcentaje de productos pesqueros comercializados a través del terminal pesquero con estándares sanitarios certificados."
+          },
+          {
+            "problem": "Extorsiones, cobro de cupos y préstamos \"gota a gota\" que afectan la economía de bodegueros, transportistas y microempresarios.",
+            "objective": "Crear la Unidad de Inteligencia y Enlace Económico Municipal, un canal anónimo y blindado que conecte a los comerciantes afectados con la PNP y el Ministerio Público, ofreciendo asesoría legal de urgencia.",
+            "goal": "Proteger el 100% de las asociaciones de comerciantes formales registradas, reduciendo drásticamente el impacto de las redes extorsivas en la economía local.",
+            "indicator": "Número de comercios locales protegidos y denuncias canalizadas con éxito y captura de bandas."
+          },
+          {
+            "problem": "Alta tasa de mortalidad de nuevos emprendimientos debido a la falta de conocimientos en gestión financiera, marketing y comercio electrónico.",
+            "objective": "Crear la Incubadora Municipal de Empresas, brindando asesoría gratuita especializada en modelos de negocio digitales, exportación de servicios, pasarelas de pago virtuales y contabilidad moderna para jóvenes emprendedores.",
+            "goal": "Capacitar y graduar a 5,000 MYPES locales, logrando una tasa de supervivencia comercial mayor al 80%.",
+            "indicator": "Tasa de supervivencia de las MYPES asesoradas tras superar los 12 meses de operación."
+          },
+          {
+            "problem": "Trámites lentos, inspecciones burocráticas y cuellos de botella administrativos que impulsan a los pequeños comerciantes a la informalidad.",
+            "objective": "Implementar una plataforma en línea automatizada para la emisión de Licencias de Funcionamiento definitivas en 24 horas para negocios de nivel de riesgo bajo y medio, cruzando datos con SUNAT y SUNARP.",
+            "goal": "Reducir el trámite a menos de 24 horas virtuales y formalizar de manera ágil a 15,000 nuevos establecimientos comerciales.",
+            "indicator": "Tiempo promedio de emisión de licencias y porcentaje de nuevos negocios que inician formalmente."
+          },
+          {
+            "problem": "Brechas de género en el acceso a capital de trabajo formal, lo que empuja a las madres emprendedoras a préstamos informales de usura.",
+            "objective": "Crear el fondo de aval municipal \"MYPE Mujer\" mediante convenios de garantía recíproca con cajas municipales y entidades financieras, permitiendo a las mujeres líderes de negocios acceder a créditos con tasas preferenciales.",
+            "goal": "Beneficiar directamente a 6,000 mujeres emprendedoras del distrito con financiamiento seguro.",
+            "indicator": "Número de microempresarias que acceden a créditos financieros formales bajo el respaldo del programa municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Dependencia de camiones cisterna con agua cara y de baja calidad en las laderas, y colapsos constantes de tuberías matrices en el eje central del distrito.",
+            "objective": "Crear una unidad técnica especializada para agilizar y viabilizar la inversión en saneamiento, implementar piletas públicas tecnificadas y gestionar la construcción de nuevos reservorios.",
+            "goal": "Reducir en un 60% la brecha de viviendas sin conexión a red pública en los sectores de laderas.",
+            "indicator": "Porcentaje de brecha de acceso a agua potable reducida."
+          },
+          {
+            "problem": "Acumulación crítica de residuos sólidos en avenidas principales y falta de una infraestructura logística para un transporte eficiente a los rellenos sanitarios.",
+            "objective": "Implementar una gestión sostenible de residuos sólidos mediante reingeniería logística, instalación de contenedores soterrados y la construcción de una planta de valorización.",
+            "goal": "Brindar el servicio de recolección de residuos sólidos de manera mixta, 60% por administración directa, proyectando su progresiva implementación.",
+            "indicator": "Toneladas de residuos sólidos manejados adecuadamente y de manera sostenible."
+          },
+          {
+            "problem": "Déficit de áreas verdes, suelos erosionados e ineficiencia en el riego, con dependencia crítica de camiones cisterna que utilizan agua potable.",
+            "objective": "Incrementar las áreas verdes mediante la construcción de plantas de tratamiento de aguas residuales para riego tecnificado, habilitación de pozos tubulares y forestación masiva de cerros con especies xerófitas.",
+            "goal": "Incrementar el índice de áreas verdes de 1.8 m² a 4.5 m² por habitante.",
+            "indicator": "Metros cuadrados de área verde nueva por habitante."
+          },
+          {
+            "problem": "Alto riesgo de derrumbes y deslizamientos de viviendas construidas sobre pircas inestables en los asentamientos humanos.",
+            "objective": "Ejecutar masivamente muros de contención estructurales y barreras dinámicas en zonas críticas, priorizando los sectores con mayor pendiente y densidad poblacional.",
+            "goal": "Construir 150 muros de contención de alta ingeniería en las comunas más vulnerables.",
+            "indicator": "Número de muros de contención entregados y certificados por Defensa Civil."
+          },
+          {
+            "problem": "Falta de fiscalización ante el arrojo de desmonte, quema de basura y maltrato de áreas verdes.",
+            "objective": "Crear un cuerpo de inspectores ambientales (Eco-Serenazgo) para patrullar, sancionar delitos ambientales y educar a la población en la correcta disposición de residuos.",
+            "goal": "Reducir en un 80% el arrojo de desmonte en la vía pública mediante vigilancia y fotomultas.",
+            "indicator": "Reducción de denuncias por arrojo clandestino de desmonte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Modelo burocrático fragmentado con procesos manuales duplicados, resistencia al cambio tecnológico y sistemas informáticos aislados, limitando la capacidad de respuesta a los ciudadanos.",
+            "objective": "Institucionalizar el Gobierno Electrónico Municipal a todo nivel, mediante un Plan de Gobierno Digital, la migración a la plataforma de interoperabilidad del Estado (PIDE) y el uso obligatorio de la firma y el expediente electrónico.",
+            "goal": "Alcanzar el 100% de los trámites municipales digitalizados e interoperables, reducir el gasto en papel a cero y ubicar a la municipalidad en el primer puesto del Índice de Madurez de Gobierno Digital en Lima Este.",
+            "indicator": "Porcentaje de procedimientos del TUPA completamente automatizados e institucionalizados en la plataforma digital e Índice de Madurez de Gobierno Digital (IMGD) emitido por la PCM para el distrito."
+          },
+          {
+            "problem": "Burocracia lenta, expedientes físicos que se extravían en los archivos y ventanas que favorecen la corrupción y el cobro de tramitadores.",
+            "objective": "Implementar el Sistema de Gestión Documental Digital Integrado para que el 100% de los trámites vecinales se inicien, firmen y supervisen de forma virtual con códigos QR de seguimiento.",
+            "goal": "Reducir los tiempos de trámite en un 70% y lograr que el 90% de los procedimientos ordinarios sean 100% digitales.",
+            "indicator": "Tiempo promedio de resolución de expedientes administrativos y porcentaje de digitalización."
+          },
+          {
+            "problem": "Falta de transparencia en la ejecución del presupuesto municipal y contratos de obras públicas que despiertan sospechas de corrupción.",
+            "objective": "Lanzar una plataforma digital de libre acceso donde se publique de forma interactiva, diaria y amigable cada sol gastado por la municipalidad, incluyendo órdenes de compra, planillas, contratos y avances de obra.",
+            "goal": "Posicionar a San Juan de Lurigancho entre los 3 distritos más transparentes y con mejor acceso a la información pública a nivel nacional.",
+            "indicator": "Posición del distrito en el Índice de Transparencia de Portales Municipales."
+          },
+          {
+            "problem": "Sub-recaudación tributaria debido a un catastro desactualizado, con predios registrados como terrenos vacíos que en realidad son edificaciones, generando injusticia fiscal.",
+            "objective": "Ejecutar un barrido catastral integral utilizando drones de alta precisión para actualizar la base de datos inmobiliaria del distrito, permitiendo cobrar arbitrios e impuestos de manera justa y equitativa.",
+            "goal": "Actualizar el 100% del catastro urbano de San Juan de Lurigancho.",
+            "indicator": "Porcentaje del territorio distrital catastrado y actualizado tecnológicamente."
+          },
+          {
+            "problem": "Centralismo fiscal por parte de la Municipalidad Metropolitana de Lima, con recursos per cápita insuficientes y decisiones macro supeditadas a la burocracia de la capital.",
+            "objective": "Alcanzar la autonomía política y fiscal del distrito mediante la formulación de un expediente técnico para su conversión en provincia, el impulso de una iniciativa legislativa y la gestión de un pliego presupuestal autónomo.",
+            "goal": "Lograr la constitución e instalación de la provincia autónoma y un incremento de más del 200% en el presupuesto consolidado.",
+            "indicator": "Publicación de la Ley de creación de la Provincia de San Juan de Lurigancho."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-144084",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: VIOLENCIA FAMILIAR",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "VIOLENCIA FAMILIAR",
+        "juzgado": "JUZGADO DE FAMILIA",
+        "expediente": "2010-0-1801-JR FT 13",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "VIOLENCIA FAMILIAR",
+      "sourceIds": [
+        "jne-hv-9Xq8TEUYisj06lcZhTJ_c-b6QVyzBVd_"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-9Xq8TEUYisj06lcZhTJ_c-b6QVyzBVd_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/9Xq8TEUYisj06lcZhTJ_c-b6QVyzBVd_",
+      "sha256": "c709c4cfe892e417fdc7c26b486b89f880bad86c8a18788fc7fbf52589a46f2f",
+      "accessedAt": "2026-10-02T23:03:21.079Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022857",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022857",
+      "sha256": "69536d7e8196de69e1972bffb093ea07f7419c9b56d87e2eb9951cd226aa8fde",
+      "accessedAt": "2026-10-02T23:03:21.608Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "GXCr2RooqOORM_L0IcY8dF5sEGrNptxX",
+  "slug": "jose-luis-hurtado-apaico",
+  "electionId": "erm-2026",
+  "name": "Jose Luis Hurtado Apaico",
+  "givenNames": "Jose Luis",
+  "surnames": "Hurtado Apaico",
+  "age": 38,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:59.722Z",
+      "sourceId": "jne-hv-GXCr2RooqOORM_L0IcY8dF5sEGrNptxX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PROTEQSA S.A.C.",
+      "role": "ASESORIA JURIDICA",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 63777,
+        "public": 3777,
+        "private": 60000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MOTO",
+        "value": 21279
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8088d6fa-e1b1-498b-905b-7e77fc039721.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/68d1812e-925c-47bd-8095-ed4fd8ca3a92.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de becas para jóvenes de bajos recursos.",
+            "objective": "Gestionar becas educativas para promover oportunidades de formación.",
+            "goal": "2,000 becas otorgadas.",
+            "indicator": "Número de becas otorgadas."
+          },
+          {
+            "problem": "Bajo rendimiento escolar entre los estudiantes del distrito.",
+            "objective": "Implementar el programa 'Ate Aprende' para ofrecer reforzamiento educativo.",
+            "goal": "20,000 estudiantes beneficiados.",
+            "indicator": "Número de estudiantes beneficiados."
+          },
+          {
+            "problem": "Falta de atención a adultos mayores en el distrito.",
+            "objective": "Crear la Casa del Adulto Mayor para brindar atención integral.",
+            "goal": "15,000 adultos mayores atendidos.",
+            "indicator": "Número de adultos mayores atendidos."
+          },
+          {
+            "problem": "Falta de apoyo a personas con discapacidad.",
+            "objective": "Fortalecer la Oficina Municipal de Atención a las Personas con Discapacidad (OMAPED).",
+            "goal": "5,000 personas atendidas.",
+            "indicator": "Número de personas con discapacidad atendidas."
+          },
+          {
+            "problem": "Falta de apoyo integral a las mujeres del distrito.",
+            "objective": "Crear el Centro Integral de la Mujer.",
+            "goal": "10,000 mujeres atendidas.",
+            "indicator": "Número de mujeres atendidas."
+          },
+          {
+            "problem": "Insuficientes espacios para la práctica deportiva de niños y jóvenes.",
+            "objective": "Implementar escuelas deportivas municipales para fomentar el deporte.",
+            "goal": "25,000 niños y jóvenes participantes.",
+            "indicator": "Número de niños y jóvenes participantes en las escuelas deportivas."
+          },
+          {
+            "problem": "Déficit de acceso a servicios de salud preventiva.",
+            "objective": "Realizar campañas médicas trimestrales para la prevención de enfermedades.",
+            "goal": "100,000 atenciones preventivas.",
+            "indicator": "Número de atenciones preventivas realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de acceso de emprendedores locales a las compras públicas.",
+            "objective": "Crear el programa 'Ate Proveedor del Estado' para capacitar a emprendedores.",
+            "goal": "5,000 emprendedores capacitados.",
+            "indicator": "Número de emprendedores capacitados."
+          },
+          {
+            "problem": "Altos índices de desempleo en la población local.",
+            "objective": "Promover la generación de empleo a través de programas municipales.",
+            "goal": "50,000 empleos generados.",
+            "indicator": "Número de empleos generados."
+          },
+          {
+            "problem": "Alta informalidad en los negocios del distrito.",
+            "objective": "Implementar un programa de formalización de negocios.",
+            "goal": "15,000 negocios formalizados.",
+            "indicator": "Número de negocios formalizados."
+          },
+          {
+            "problem": "Falta de apoyo técnico y de gestión para las MYPES.",
+            "objective": "Establecer un Centro de Desarrollo Empresarial para brindar asesoría.",
+            "goal": "10,000 empresas asesoradas.",
+            "indicator": "Número de empresas asesoradas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante en el distrito.",
+            "objective": "Implementar un programa de arborización masiva.",
+            "goal": "50,000 árboles sembrados.",
+            "indicator": "Número de árboles sembrados."
+          },
+          {
+            "problem": "Uso ineficiente del agua para el riego de parques y jardines.",
+            "objective": "Implementar un sistema de riego tecnificado en áreas verdes estratégicas.",
+            "goal": "100% de las áreas verdes priorizadas con riego tecnificado.",
+            "indicator": "Porcentaje de áreas verdes con riego tecnificado."
+          },
+          {
+            "problem": "Gestión inadecuada de los residuos sólidos urbanos.",
+            "objective": "Instalar contenedores inteligentes para optimizar la recolección.",
+            "goal": "500 contenedores instalados.",
+            "indicator": "Número de contenedores instalados."
+          },
+          {
+            "problem": "Baja tasa de reciclaje de residuos sólidos en el distrito.",
+            "objective": "Desarrollar un programa de reciclaje con incentivos para los vecinos.",
+            "goal": "Incremento del 15% en la tasa de reciclaje.",
+            "indicator": "Porcentaje de incremento en la tasa de reciclaje."
+          },
+          {
+            "problem": "Falta de ciclovías seguras para promover el transporte sostenible.",
+            "objective": "Implementar una red de ciclovías seguras e interconectadas.",
+            "goal": "20 km de ciclovías implementados.",
+            "indicator": "Número de kilómetros de ciclovías implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Elevada percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Implementar el centro de comando y control 'C5 Ate Seguro'.",
+            "goal": "2,000 cámaras instaladas.",
+            "indicator": "Número de cámaras con inteligencia artificial instaladas."
+          },
+          {
+            "problem": "Congestión vehicular en las principales arterias del distrito.",
+            "objective": "Implementar el sistema de semaforización 'Ola Verde'.",
+            "goal": "150 intersecciones modernizadas.",
+            "indicator": "Número de intersecciones modernizadas."
+          },
+          {
+            "problem": "Desorden en el servicio de transporte menor (mototaxis).",
+            "objective": "Ejecutar un plan de formalización del servicio de mototaxis.",
+            "goal": "100% de mototaxis formalizados.",
+            "indicator": "Porcentaje de mototaxis formalizados."
+          },
+          {
+            "problem": "Excesiva burocracia y trámites presenciales en la municipalidad.",
+            "objective": "Implementar la 'Municipalidad Digital' para virtualizar los servicios.",
+            "goal": "80% de trámites digitalizados.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Desconfianza y distanciamiento entre los vecinos y la gestión municipal.",
+            "objective": "Institucionalizar el programa 'Tu Alcalde Te Escucha' para el diálogo directo.",
+            "goal": "48 audiencias públicas realizadas.",
+            "indicator": "Número de audiencias públicas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-GXCr2RooqOORM_L0IcY8dF5sEGrNptxX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/GXCr2RooqOORM_L0IcY8dF5sEGrNptxX",
+      "sha256": "8b29f8740192e52afdaa7ccd5419d351c58d8c957dd2b627ea1679afbe3adb45",
+      "accessedAt": "2026-10-02T22:50:59.722Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020553",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020553",
+      "sha256": "5ffe621c9ee692baa28e226f9a08ff5da3435fa5b6e0697e3501596b9e1c1168",
+      "accessedAt": "2026-10-02T22:51:00.237Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

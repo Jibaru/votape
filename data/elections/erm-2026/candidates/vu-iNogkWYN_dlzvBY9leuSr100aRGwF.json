@@ -1,0 +1,220 @@
+{
+  "id": "vu-iNogkWYN_dlzvBY9leuSr100aRGwF",
+  "slug": "miguel-angel-malma-valverde",
+  "electionId": "erm-2026",
+  "name": "Miguel Angel Malma Valverde",
+  "givenNames": "Miguel Angel",
+  "surnames": "Malma Valverde",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:45.912Z",
+      "sourceId": "jne-hv-vu-iNogkWYN_dlzvBY9leuSr100aRGwF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "SENATI",
+        "program": "MECANICA DIESEL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "PLANCHADOR PINTOR AUTOMOTRIZ",
+      "from": "2020",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 30000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/0c86efda-68af-495e-8c63-040e8a897d3f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4c7f008b-30f4-4e70-8b42-604da4f35860.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de oportunidades para jóvenes",
+            "objective": "Implementar academias deportivas, talleres y programas juveniles",
+            "goal": "Recuperar espacios deportivos y ampliar talleres gratuitos",
+            "indicator": "Número de talleres y jóvenes beneficiados"
+          },
+          {
+            "problem": "Falta de apoyo social y atención preventiva",
+            "objective": "Desarrollar campañas médicas, apoyo social y programas comunitarios",
+            "goal": "Realizar campañas permanentes en todo el distrito",
+            "indicator": "Número de campañas y beneficiarios"
+          },
+          {
+            "problem": "Inseguridad ciudadana y aumento de robos",
+            "objective": "Implementar el Plan “Ate Seguro Inteligente” con cámaras, serenazgo y patrullaje integrado",
+            "goal": "Instalar 300 cámaras y reducir delitos en zonas críticas",
+            "indicator": "Número de cámaras instaladas, patrullaje y operativos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Acumulación de basura y contaminación",
+            "objective": "Implementar el programa “Ate Verde y Limpio”",
+            "goal": "Mejorar limpieza pública en todo el distrito",
+            "indicator": "Reducción de puntos críticos de basura"
+          },
+          {
+            "problem": "Falta de empleo y oportunidades económicas",
+            "objective": "Crear programas de empleo, capacitación y emprendimiento",
+            "goal": "Implementar ferias laborales y bolsa de trabajo municipal",
+            "indicator": "Número de ferias y personas capacitadas"
+          },
+          {
+            "problem": "Comercio informal y desordenado",
+            "objective": "Reordenar el comercio y fortalecer mercados",
+            "goal": "Recuperar espacios públicos y mejorar formalización",
+            "indicator": "Número de operativos y comerciantes formalizados"
+          },
+          {
+            "problem": "Congestión vehicular y desorden vial",
+            "objective": "Mejorar señalización y ordenamiento del tránsito",
+            "goal": "Implementar señalización y orden vial distrital",
+            "indicator": "Reducción de congestión y accidentes"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Baja cultura ambiental",
+            "objective": "Desarrollar campañas de educación ambiental y reciclaje",
+            "goal": "Fortalecer programas ambientales vecinales",
+            "indicator": "Número de campañas realizadas"
+          },
+          {
+            "problem": "Falta de áreas verdes y parques deteriorados",
+            "objective": "Recuperar parques y ejecutar arborización distrital",
+            "goal": "Incrementar áreas verdes y recuperar espacios públicos",
+            "indicator": "Número de parques recuperados y árboles sembrados"
+          },
+          {
+            "problem": "Acumulación de basura y contaminación",
+            "objective": "Implementar el programa “Ate Verde y Limpio”",
+            "goal": "Mejorar limpieza pública en todo el distrito",
+            "indicator": "Reducción de puntos críticos de basura"
+          },
+          {
+            "problem": "Desconfianza en la municipalidad",
+            "objective": "Implementar mecanismos de transparencia y fiscalización ciudadana",
+            "goal": "Publicar periódicamente gastos y obras municipales",
+            "indicator": "Informes públicos y audiencias realizadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de empleo y oportunidades económicas",
+            "objective": "Crear programas de empleo, capacitación y emprendimiento",
+            "goal": "Implementar ferias laborales y bolsa de trabajo municipal",
+            "indicator": "Número de ferias y personas capacitadas"
+          },
+          {
+            "problem": "Desconfianza en la municipalidad",
+            "objective": "Implementar mecanismos de transparencia y fiscalización ciudadana",
+            "goal": "Publicar periódicamente gastos y obras municipales",
+            "indicator": "Informes públicos y audiencias realizadas"
+          },
+          {
+            "problem": "Comercio informal y desordenado",
+            "objective": "Reordenar el comercio y fortalecer mercados",
+            "goal": "Recuperar espacios públicos y mejorar formalización",
+            "indicator": "Número de operativos y comerciantes formalizados"
+          },
+          {
+            "problem": "Congestión vehicular y desorden vial",
+            "objective": "Mejorar señalización y ordenamiento del tránsito",
+            "goal": "Implementar señalización y orden vial distrital",
+            "indicator": "Reducción de congestión y accidentes"
+          },
+          {
+            "problem": "Poca participación ciudadana",
+            "objective": "Fortalecer la participación vecinal y audiencias públicas",
+            "goal": "Implementar mesas vecinales descentralizadas",
+            "indicator": "Número de reuniones y vecinos participantes"
+          },
+          {
+            "problem": "Lentitud y burocracia municipal",
+            "objective": "Modernizar y digitalizar los servicios municipales",
+            "goal": "Reducir tiempos de atención y digitalizar trámites",
+            "indicator": "Tiempo de atención al vecino"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vu-iNogkWYN_dlzvBY9leuSr100aRGwF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vu-iNogkWYN_dlzvBY9leuSr100aRGwF",
+      "sha256": "81c6d3e1ea55a161dd275a7bbb8d0aee56f7eeaf69101668459eb53bfde68551",
+      "accessedAt": "2026-10-02T22:50:45.912Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019628",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019628",
+      "sha256": "28428d6dc96266ed4d62bcd1883b72d160d51b9b27e5510f9936e56de760844f",
+      "accessedAt": "2026-10-02T22:50:46.482Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

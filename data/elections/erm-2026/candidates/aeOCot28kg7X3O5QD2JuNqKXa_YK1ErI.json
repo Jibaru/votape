@@ -1,0 +1,285 @@
+{
+  "id": "aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI",
+  "slug": "jose-luis-nole-palomino",
+  "electionId": "erm-2026",
+  "name": "Jose Luis Nole Palomino",
+  "givenNames": "Jose Luis",
+  "surnames": "Nole Palomino",
+  "age": 52,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:28.524Z",
+      "sourceId": "jne-hv-aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "APECC",
+        "program": "CURSO DE FORMACIÓN Y CAPACITACIÓN DE CONCILIACIÓN EXTRA JUDICIAL",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDUSTRIA NOLCA SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "INV. Y REPREST. ANGGIE SAC",
+      "role": "EMPRESARIO",
+      "from": "2005",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "TRIBUNAL NACIONAL ELECTORAL - MIEMBRO TITULAR",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2023",
+      "to": "2024"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2024"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 558000,
+        "public": 378000,
+        "private": 180000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "PUESTOS",
+        "value": 690000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 320000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA TOYOTA",
+        "value": 80000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5178a0e9-68ff-49d8-8b17-0c58bcb666f9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5ff37d7d-45c4-4901-b2e6-0155a402293a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1. Falta de actividades deportivas, recreativas y de esparcimiento para la niñez, juventud y adultos mayores en el distrito.",
+            "objective": "1. Implementar e incrementar las actividades deportivas, recreativas y de esparcimiento para las niñas, niños, adolescentes, jóvenes y adultos mayores.",
+            "goal": "1. Incremento de un 50% en las actividades deportivas, recreativas y de esparcimiento.",
+            "indicator": "1. Número de actividades implementadas fomentando el deporte, la recreación y el esparcimiento."
+          },
+          {
+            "problem": "2. Alta percepción de la inseguridad ciudadana en el distrito.",
+            "objective": "2. Implementar el patrullaje municipal integrado con drones de última generación por sectores, ejecutándose operativos de alto impacto, instalándose más de 200 cámaras de video vigilancia con Inteligencia Artificial (IA).",
+            "goal": "2. Reducción de un 60% de la percepción de la inseguridad ciudadana en el distrito.",
+            "indicator": "2. Número de denuncias en la Comisaria y/o comunicación a la Central de Video Vigilancia."
+          },
+          {
+            "problem": "6. Falta de empleo para la población en especial para la juventud capacitada y/o con estudios técnicos y universitarios.",
+            "objective": "6. Coordinar y convocar a las empresas del distrito a las Ferias Laborales Municipales.",
+            "goal": "6. Incremento de un 30% de pobladores en especial jóvenes trabajando en empresas del distrito.",
+            "indicator": "6. Número de empresas participantes en las Ferias Laborales Municipales."
+          },
+          {
+            "problem": "4. Falta de Implementación de los servicios y programas sociales sostenibles (DEMUNA, OMAPED, CIAM Vaso de Leche, Programa de Complementación Alimentaria y Ollas Comunes) y de trabajo articulado con las Organizaciones Sociales de Base.",
+            "objective": "4. Implementar los servicios y programas sociales de manera articulada con las Organizaciones Sociales de Base.",
+            "goal": "4. Incremento de un 50% en los servicios sociales y la implementación de los programas sociales de manera sostenible.",
+            "indicator": "4. Numero de servicios y programas sociales implementados en coordinación y articulación con las Organizaciones Sociales de Base."
+          },
+          {
+            "problem": "3. Falta de presencia del servicio de Serenazgo.",
+            "objective": "3. Incrementar la cantidad de serenos a 250 efectivos para fortalecer y potenciar las cantidades de motos y camionetas para el patrullaje integrado.",
+            "goal": "3. Incremento de la presencia del servicio de Serenazgo en un 90% en el distrito.",
+            "indicator": "3. Número de patrullaje a pie, en motos y camionetas."
+          },
+          {
+            "problem": "5. Falta de gestión para la ejecución de obras de infraestructura.",
+            "objective": "5. Gestionar ante las Entidades y/o Sectores competentes (Ministerios) que cuenta con mayores recursos la ejecución de obras de Infraestructura para mejorar el servicio público local.",
+            "goal": "5. Incremento de un 50% en la gestión para la ejecución de obras de infraestructura.",
+            "indicator": "5. Número de gestiones, visitas y oficios Institucionales dirigidos a las entidades y/o sectores (Ministerios)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "3. Falta de promoción y desarrollo de los puntos turísticos, gastronómicos y arqueológicos en el distrito.",
+            "objective": "3. Promover y crear los circuitos turísticos, gastronómicos y de visita de los centros arqueológicos.",
+            "goal": "3. Incremento de un 30% en la actividad turística, gastronómica y de visita arqueológica en el distrito.",
+            "indicator": "3. Número de circuitos turísticos, gastronómicos y arqueológicos potenciales en el distrito."
+          },
+          {
+            "problem": "4. Falta de orden del transporte en Vehículos Menores (mototaxis).",
+            "objective": "4. Actualizar el Plan regulador del transporte en vehículos menores (mototaxis), implementándose programas de capacitación gratuita a los conductores con apoyo de la Policía Nacional de Tránsito y realizándose revisiones técnicas a los vehículos menores de manera periódica.",
+            "goal": "4. Ordenar y formalizar el transporte de vehículos menores (mototaxis) en un 95%.",
+            "indicator": "4. Número de vehículos menores (mototaxis) formalizadas con conductores capacitados y revisiones técnicas actualizadas."
+          },
+          {
+            "problem": "2. Incremento de la morosidad tributaria por la falta de pago de los impuestos y arbitrios municipales de manera oportuna.",
+            "objective": "2. Aprobar y comunicar los beneficios tributarios municipales para su recaudación oportuna",
+            "goal": "2. Incremento de un 20% de la recaudación tributaria con respecto a la morosidad por deudas de años anteriores.",
+            "indicator": "2. Número de Ordenanzas que aprueban los beneficios tributarios municipales."
+          },
+          {
+            "problem": "1. Falta de conocimiento de los procedimientos y requisitos para la formalización de las (PYME)s y (MYPE)s.",
+            "objective": "1. Capacitar y orientar a los nuevos emprendimientos y comercios informales que generan una mayor oferta de trabajo y fuentes de ingreso.",
+            "goal": "1. Incremento de un 30% respecto a la apertura de nuevas actividades productivas, comerciales y de servicios de manera formal.",
+            "indicator": "1. Número de emisión de Licencias de Funcionamiento."
+          },
+          {
+            "problem": "6. Falta de Maquinarias y Equipamiento para la Construcción y Mantenimiento de las Pistas y Veredas en el distrito.",
+            "objective": "6. Implementar la Modalidad de Ejecución por Administración Directa de las Obras de Pistas y Veredas.",
+            "goal": "6. Incremento de un 80% en la Ejecución de Obras de Pistas y Veredas por Administración Directa",
+            "indicator": "6. Número de Obras de Pistas y Veredas ejecutadas por Administración Directa"
+          },
+          {
+            "problem": "5. Falta de Financiamiento para la ejecución de Proyectos de Inversión Viables y con Expedientes Técnicos aprobados.",
+            "objective": "5. Gestionar ante los diversos sectores (Ministerios) del Gobierno Nacional, la transferencia de recursos presupuestarios y/o financieros para la ejecución de Proyectos de Inversión.",
+            "goal": "5. Incremento de un 30% en la ejecución de Proyectos de Inversión, gestionados por la entidad.",
+            "indicator": "5. Número de Proyectos de Inversión ejecutados con el financiamiento de recursos por parte de los Sectores (Ministerios) del Gobierno Nacional, gestionados por la entidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1. Falta de prevención y mitigación de riesgos de naturaleza humana y generados por el cambio climático.",
+            "objective": "1. Gestionar Campañas de Prevención a través de la planificación y capacitación de simulacros ante eventuales sismos y fenómenos climáticos, así como Ejecutar Acciones de Mitigación de Riesgos en zonas vulnerables.",
+            "goal": "1. Incremento de la capacitación y preparación al 80% del Personal municipal y Voluntario convocado.",
+            "indicator": "1. Número de Brigadas capacitadas y preparadas para la Prevención y Mitigación de Riesgos."
+          },
+          {
+            "problem": "2. Falta de un Sistema Integral de Gestión Ambiental: (barrido de calles, recojo, segregación y disposición final de residuos sólidos, mantenimiento de áreas verdes, aguas para riego, polución, etc.).",
+            "objective": "2. Implementar un Sistema tecnificado para el barrido de espacios públicos, riego mediante cisternas y tecnificado para las áreas verdes y el control del recojo, segregación y disposición final de residuos sólidos.",
+            "goal": "2. Incremento de un 80% de personas beneficiadas y metros cuadrados de áreas verdes y espacios públicos limpios y recuperados.",
+            "indicator": "2. Número de Personas beneficiadas y metros cuadrados de áreas verdes y espacios públicos limpios y recuperados."
+          },
+          {
+            "problem": "3. Falta de existencia del Catastro Municipal.",
+            "objective": "3. Implementar el Catastro Municipal mediante un Convenio con (COFOPRI).",
+            "goal": "3. Incremento de un 80% de predios en el Inventario físico y digital del mobiliario urbano del distrito.",
+            "indicator": "3. Número de predios en el Inventario físico y digital del mobiliario urbano y del entorno físico legal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1. Falta de implementación y capacitación de gestión innovadora en el bienestar del capital humano de la entidad.",
+            "objective": "1. Implementar y capacitar a todo el personal municipal (administrativo y operativo) respecto a realizar una gestión innovadora acorde a las necesidades y realidades del distrito.",
+            "goal": "1. Incremento de hasta un 90% de atenciones y servicios públicos de calidad.",
+            "indicator": "1. Número de personas capacitadas y preparadas para brindar una atención y servicio público amable y de calidad respectivamente."
+          },
+          {
+            "problem": "2. Falta de comunicación interna y externa en la entidad para llegar con un mensaje real y asertivo a la población.",
+            "objective": "2. Dinamizar los canales de comunicación interna y externa, llegando a la población con un mensaje oportuno.",
+            "goal": "2. Incremento de hasta un 90% de vecinos debida y oportunamente comunicados respecto a todas las actividades que realice la gestión municipal.",
+            "indicator": "2. Número de pobladores satisfechos con la comunicación oportuna de los temas de interés público."
+          },
+          {
+            "problem": "3. Falta de una política de cultura de planificación, procesos y resultados en la gestión municipal.",
+            "objective": "3. Implementar y promover la planificación, procesos, resultados y el fortalecimiento de capacidades en todos los niveles de la gestión municipal.",
+            "goal": "3. Incremento de hasta un 100% de servidores públicos capacitados en todos los niveles de la gestión municipal.",
+            "indicator": "3. Número de servidores públicos capacitados en la planificación, gestión por procesos y resultados en la entidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18062",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Declaración Jurada De Ingresos De Bienes Y Rentas",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-08-20",
+      "details": {
+        "rubro": "DECLARACIÓN JURADA DE INGRESOS DE BIENES Y RENTAS",
+        "resolucion": "RESOLUCIÓN N.° 00380-2026-JEE-LIE1/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RESOLUCIÓN N.° 00380-2026-JEE-LIE1/JNE",
+      "sourceIds": [
+        "jne-hv-aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI",
+      "sha256": "5ae0046a9209e5b4f225950e48340a016054f54dfa5b9df8bad6cdf7f4db6915",
+      "accessedAt": "2026-10-02T23:05:28.524Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014389",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014389",
+      "sha256": "d646c70825bbf90be5f9f5922157b80e7776e9fb07ab0c3596ff6612186bddd2",
+      "accessedAt": "2026-10-02T23:05:29.016Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

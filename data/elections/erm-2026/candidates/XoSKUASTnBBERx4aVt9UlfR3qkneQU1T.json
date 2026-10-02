@@ -1,0 +1,278 @@
+{
+  "id": "XoSKUASTnBBERx4aVt9UlfR3qkneQU1T",
+  "slug": "alfredo-javier-mujica-pastrana",
+  "electionId": "erm-2026",
+  "name": "Alfredo Javier Mujica Pastrana",
+  "givenNames": "Alfredo Javier",
+  "surnames": "Mujica Pastrana",
+  "age": 32,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:06.034Z",
+      "sourceId": "jne-hv-XoSKUASTnBBERx4aVt9UlfR3qkneQU1T"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "certus",
+        "program": "administracion y negocios internacionales",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "Licenciado en Administración de Empresas",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2020"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "municipalidad distrital de lurigancho",
+      "role": "GERENTE DE EDUCACION Y DESARROLLO HUMANO",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIGANCHO",
+      "role": "SUBGERENTE DE EDUCACION, CULTURA, DEPORTE Y JUVENTUD",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "municipalidad distrital de lurigancho",
+      "role": "sub gerente de salud publica y programas sociales",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "municipalidad distrital de lurigancho",
+      "role": "sub gerente de participacion vecinal",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "municipalidad distrital de lurigancho",
+      "role": "sub gerente de participacion ciudadana",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO JUNTOS POR EL PERU",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 108000,
+        "public": 108000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 89775.5,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "cuatrimoto azul",
+        "value": 3000
+      },
+      {
+        "type": "camioneta chevrolet mecanica",
+        "value": 73060.9
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "b-learning sac",
+        "type": "ACCIONES",
+        "quantity": 3000,
+        "value": 1
+      },
+      {
+        "company": "buho company sac",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d12af8d3-7d47-4144-b19c-4d4c8ceb06d0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5cfc2109-707d-4c94-a2c8-c32d94d6859a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia de inseguridad ciudadana y limitada capacidad operativa del sistema de serenazgo.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la mejora de la cobertura operativa, la prevención y la participación vecinal.",
+            "goal": "Mantener operativos al menos el 90% de los recursos asignados al servicio (vehículos, cámaras, radios y personal operativo.",
+            "indicator": "Porcentaje de cobertura efectiva del servicio de serenazgo en el distrito."
+          },
+          {
+            "problem": "Problemas de salud pública asociados a la anemia infantil (20.7%) y atención a poblaciones vulnerables.",
+            "objective": "Promover el bienestar social y la protección de la población vulnerable mediante acciones articuladas de prevención y atención.",
+            "goal": "Reducir la prevalencia de anemia infantil en al menos 10 puntos porcentuales respecto a la línea base.",
+            "indicator": "Prevalencia de anemia en niños menores de 36 meses."
+          },
+          {
+            "problem": "Persistencia de brechas en el acceso a servicios básicos y saneamiento.",
+            "objective": "Ampliar la cobertura y calidad de los servicios básicos para mejorar las condiciones de vida de la población.",
+            "goal": "Incrementar la cobertura de alcantarillado hasta alcanzar el 75% de las viviendas del distrito.",
+            "indicator": "Porcentaje de viviendas con acceso a alcantarillado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades de empleo para jóvenes y mujeres.",
+            "objective": "Promover la empleabilidad y el fortalecimiento de capacidades para la inserción laboral.",
+            "goal": "Capacitar a por lo menos 5,000 jóvenes y emprendedores del distrito.",
+            "indicator": "Número de personas capacitadas para el empleo y el emprendimiento."
+          },
+          {
+            "problem": "Predominio de la informalidad y baja productividad empresarial.",
+            "objective": "Impulsar la formalización y competitividad de las actividades económicas locales.",
+            "goal": "Incrementar la formalización empresarial hasta alcanzar el 50% de los establecimientos económicos.",
+            "indicator": "Porcentaje de establecimientos económicos formalizados en el distrito."
+          },
+          {
+            "problem": "Incumplimiento generalizado de normas de tránsito y limitada cultura vial.",
+            "objective": "Fortalecer las capacidades de los conductores mediante educación y sensibilización.",
+            "goal": "Capacitar gratuitamente a por lo menos 5,000 conductores en normas de tránsito y primeros auxilios.",
+            "indicator": "Número de conductores capacitados."
+          },
+          {
+            "problem": "Predominio del transporte menor informal y desordenado que genera conflictos viales.",
+            "objective": "Ordenar y formalizar progresivamente el transporte menor.",
+            "goal": "Empadronar digitalmente al 100% de mototaxistas formales mediante códigos QR y chalecos QR.",
+            "indicator": "Número de mototaxistas incorporados al Empadronamiento Distrital Único de Mototaxis (EDUM)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La población aún presenta limitadas capacidades para actuar frente a emergencias y desastres.",
+            "objective": "Fortalecer la preparación y respuesta de la población mediante capacitación, organización comunitaria y sistemas de alerta temprana.",
+            "goal": "Implementar y poner en funcionamiento sistemas de alerta en quebradas y zonas críticas del distrito.",
+            "indicator": "Número de Sistemas de Alerta Temprana implementados y operativos."
+          },
+          {
+            "problem": "Deterioro ambiental.",
+            "objective": "Promover la recuperación ambiental",
+            "goal": "Implementar programas de recuperación ambiental.",
+            "indicator": "Número de programas y/o campañas de recuperación ambiental implementados."
+          },
+          {
+            "problem": "Alta vulnerabilidad frente a huaicos y sismos debido al crecimiento urbano desordenado, la ocupación de zonas de riesgo y la limitada integración de la gestión del riesgo en la planificación territorial.",
+            "objective": "Reducir el riesgo de desastres fortaleciendo la planificación territorial y promoviendo un desarrollo urbano seguro y ordenado.",
+            "goal": "Intervenir 5 zonas de alto riesgo identificadas en el distrito.",
+            "indicator": "Número de acciones ejecutadas del Plan de Prevención y Reducción del Riesgo de Desastres."
+          },
+          {
+            "problem": "Insuficiente infraestructura de protección frente a eventos extremos.",
+            "objective": "Implementar infraestructura de mitigación para proteger a la población vulnerable.",
+            "goal": "Construir y/o reforzar defensas ribereñas, muros de contención y obras de protección en 19 puntos críticos del distrito.",
+            "indicator": "Número de puntos críticos intervenidos con obras de protección y reducción del riesgo."
+          },
+          {
+            "problem": "Incremento de residuos sólidos y baja valorización de residuos.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos y promover el reciclaje.",
+            "goal": "Incrementar en 25% los alcances del programa de segregación y recolección selectiva.",
+            "indicator": "Porcentaje de incremento de hogares incorporados al Programa de Segregación en la Fuente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza ciudadana respecto al uso de los recursos públicos.",
+            "objective": "Fortalecer la transparencia y el gobierno abierto.",
+            "goal": "Implementar la plataforma \"Datos Abiertos de Lurigancho-Chosica\", publicando en tiempo real la ejecución presupuestal municipal.",
+            "indicator": "Número de plataformas de datos abiertos implementadas."
+          },
+          {
+            "problem": "Limitada articulación institucional y comunitaria para la seguridad ciudadana.",
+            "objective": "Fortalecer la cooperación interinstitucional y la participación vecinal.",
+            "goal": "Implementar al menos 10 mecanismos de cooperación con organizaciones vecinales e instituciones públicas y privadas.",
+            "indicator": "Número de convenios y mecanismos de cooperación implementados."
+          },
+          {
+            "problem": "Escasos mecanismos desconcentrados de rendición de cuentas.",
+            "objective": "Promover la participación ciudadana y la vigilancia social.",
+            "goal": "Fortalecer las agencias municipales de Jicamarca y Carapongo, ampliando la prestación de servicios municipales desconcentrados.",
+            "indicator": "Número de audiencias públicas desconcentradas realizadas por año."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-XoSKUASTnBBERx4aVt9UlfR3qkneQU1T",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/XoSKUASTnBBERx4aVt9UlfR3qkneQU1T",
+      "sha256": "b1731397249d10444fe8b77fa471c6a43c288ce39ec1e3a41ddcd9bb71ab99a2",
+      "accessedAt": "2026-10-02T22:59:06.034Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019062",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019062",
+      "sha256": "692aad7c7ccc72203b5f2ed9f8851036f6819cacbf7d49f8ab5e41ab1c066e27",
+      "accessedAt": "2026-10-02T22:59:06.514Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

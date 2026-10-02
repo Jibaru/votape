@@ -1,0 +1,270 @@
+{
+  "id": "nVfCV9_SpkZG_QIox2Mt1C15i1n_GCxX",
+  "slug": "victor-modesto-salcedo-rios",
+  "electionId": "erm-2026",
+  "name": "Victor Modesto Salcedo Rios",
+  "givenNames": "Victor Modesto",
+  "surnames": "Salcedo Rios",
+  "age": 74,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:48.526Z",
+      "sourceId": "jne-hv-nVfCV9_SpkZG_QIox2Mt1C15i1n_GCxX"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1988"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN ECONOMIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1987"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "MAESTRO EN ECONOMIA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "DIRECCION REGIONAL DE EDUCACION DE LIMA METROPOLITANA",
+      "role": "DOCENTE",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "UNIVERSIDAD CESAR VALLEJO",
+      "role": "DOCENTE",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE EL AGUSTINO",
+      "role": "ALCALDE",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "UNIVERSIDAD INCA GARCILASO DE LA VEGA ASOCIACION CIVIL EN LIQUIDACION",
+      "role": "DOCENTE",
+      "from": "2016",
+      "to": "2018"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESOR",
+      "from": "2016",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30394.08,
+        "public": 10215.78,
+        "private": 20178.3
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 88271.86,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA HABITACION",
+        "value": 73999.54,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 8536.47,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VEHICULO PARTICULAR TOYOTA YARIS AÑO MODELO 2008 COLOR NEGRO",
+        "value": 10230
+      },
+      {
+        "type": "VEHICULO PARTICULAR (CATEGORIA M), TOYOTA RUSH 2021 ROJO",
+        "value": 72939.9
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Respecto al rubro “Otros Ingresos Anuales”, declaro haber consignado el monto de S/ 893.00, correspondiente a mi pensión."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/10f3fa4d-b1d5-4aee-a9f2-5f95b2e83c8e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3ebdf7b5-762b-4374-b3f1-2fe23cfda00f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de problemas de salud pública como la anemia infantil, enfermedades respiratorias, salud mental y violencia familiar, junto con dificultades en el acceso oportuno a servicios preventivos.",
+            "objective": "Promover una población saludable mediante programas preventivos y servicios municipales complementarios.",
+            "goal": "Reducir la anemia infantil en un 30% y realizar 25,000 atenciones psicológicas para el año 2030.",
+            "indicator": "Tasa de anemia infantil y número de atenciones psicológicas."
+          },
+          {
+            "problem": "La inseguridad ciudadana, manifestada en delitos contra el patrimonio, microcomercialización de drogas y pandillaje juvenil, afecta la convivencia y el desarrollo económico del distrito, agravada por una limitada capacidad operativa del serenazgo y un déficit en videovigilancia.",
+            "objective": "Garantizar la seguridad ciudadana mediante una gestión preventiva, tecnológica y participativa.",
+            "goal": "Reducir en un 40% los delitos de mayor incidencia e incrementar en un 100% la cobertura de videovigilancia para el año 2030.",
+            "indicator": "Porcentaje de reducción de delitos de mayor incidencia y porcentaje de cobertura de videovigilancia."
+          },
+          {
+            "problem": "La educación enfrenta desafíos significativos relacionados con la infraestructura educativa, el acceso a la tecnología, la comprensión lectora, el razonamiento matemático y las oportunidades de capacitación para los jóvenes.",
+            "objective": "Contribuir al fortalecimiento educativo mediante programas complementarios que mejoren las oportunidades de aprendizaje y desarrollo integral.",
+            "goal": "Beneficiar a 10,000 estudiantes y otorgar 2,000 becas municipales para el año 2030.",
+            "indicator": "Número de estudiantes beneficiados y número de becas municipales otorgadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades laborales para jóvenes, mujeres y la población económicamente activa, lo que contribuye al desempleo juvenil.",
+            "objective": "Generar oportunidades laborales para jóvenes, mujeres y población económicamente activa.",
+            "goal": "Lograr la colocación laboral de 20,000 vecinos y establecer 500 convenios empresariales para el año 2030.",
+            "indicator": "Número de vecinos colocados laboralmente y número de convenios empresariales firmados."
+          },
+          {
+            "problem": "Alta informalidad comercial y laboral, acompañada de un escaso acceso al financiamiento para microempresas y una débil capacitación empresarial.",
+            "objective": "Fortalecer la competitividad de las micro y pequeñas empresas (MYPES).",
+            "goal": "Fortalecer 8,000 MYPES y digitalizar 2,000 negocios para el año 2030.",
+            "indicator": "Número de MYPES fortalecidas y número de negocios digitalizados."
+          },
+          {
+            "problem": "Déficit de innovación y transformación digital en el sector económico local, lo que limita la competitividad de los negocios.",
+            "objective": "Incorporar tecnologías digitales al desarrollo económico local.",
+            "goal": "Alcanzar el 70% de trámites digitalizados y capacitar a 5,000 emprendedores en herramientas digitales para el año 2030.",
+            "indicator": "Porcentaje de trámites digitalizados y número de emprendedores capacitados digitalmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes, contaminación ambiental y deterioro de espacios públicos, lo que afecta la calidad de vida y el bienestar de la población.",
+            "objective": "Incrementar significativamente las áreas verdes y mejorar la calidad ambiental del distrito.",
+            "goal": "Plantar 50,000 árboles e incrementar en un 40% las áreas verdes para el año 2030.",
+            "indicator": "Número de árboles plantados y porcentaje de incremento de áreas verdes."
+          },
+          {
+            "problem": "Manejo inadecuado de residuos sólidos, acumulación de desmonte y una escasa cultura de segregación y reciclaje en la población.",
+            "objective": "Implementar una gestión moderna y sostenible de los residuos sólidos, y promover la reutilización de materiales para fortalecer la economía circular.",
+            "goal": "Alcanzar el 100% de cobertura de recolección y aumentar la tasa de reciclaje al 40% para el año 2030.",
+            "indicator": "Porcentaje de cobertura de recolección y tasa de reciclaje distrital."
+          },
+          {
+            "problem": "Vulnerabilidad del distrito frente a emergencias y desastres naturales, como movimientos de masa, sismos e incendios urbanos, asociados al crecimiento urbano y al cambio climático.",
+            "objective": "Reducir la vulnerabilidad frente a emergencias y desastres naturales, y preparar al distrito ante los efectos del cambio climático.",
+            "goal": "Lograr la cobertura integral de prevención y la reducción de riesgos en todas las zonas vulnerables del distrito.",
+            "indicator": "Cobertura de prevención y reducción de riesgos en zonas vulnerables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Excesiva burocracia administrativa, lentitud en la atención de trámites y una limitada digitalización de los servicios municipales.",
+            "objective": "Modernizar integralmente la gestión municipal mediante el uso de tecnologías digitales, el fortalecimiento institucional y la gestión por resultados.",
+            "goal": "Digitalizar el 90% de los trámites municipales y reducir en un 70% los tiempos de atención para el año 2030.",
+            "indicator": "Porcentaje de trámites digitalizados y porcentaje de reducción en tiempos de atención."
+          },
+          {
+            "problem": "Insuficiente transparencia de la información pública y una alta percepción ciudadana de corrupción en la gestión municipal.",
+            "objective": "Garantizar una gestión íntegra, transparente y libre de corrupción.",
+            "goal": "Alcanzar el 100% de la información pública disponible digitalmente y el 100% en el índice de transparencia institucional para el año 2030.",
+            "indicator": "Porcentaje de información pública disponible digitalmente e índice de transparencia institucional."
+          },
+          {
+            "problem": "Limitados espacios permanentes de participación vecinal y baja utilización de herramientas tecnológicas para la gestión pública participativa.",
+            "objective": "Fortalecer la participación activa de los vecinos en la toma de decisiones municipales.",
+            "goal": "Incrementar la participación ciudadana al 80% para el año 2030.",
+            "indicator": "Porcentaje de participación ciudadana en los procesos municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-nVfCV9_SpkZG_QIox2Mt1C15i1n_GCxX",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/nVfCV9_SpkZG_QIox2Mt1C15i1n_GCxX",
+      "sha256": "5a4385ce56da4985f3a85ad06c8378bdb9b39a5a0361efe98ece175c1016368b",
+      "accessedAt": "2026-10-02T22:55:48.526Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022917",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022917",
+      "sha256": "0e7ec6325999cd20c8150f486f97fc40a7b87e7c0abcd67d09a6dfc428027f37",
+      "accessedAt": "2026-10-02T22:55:49.033Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt",
+  "slug": "peter-omar-jaime-cori",
+  "electionId": "erm-2026",
+  "name": "Peter Omar Jaime Cori",
+  "givenNames": "Peter Omar",
+  "surnames": "Jaime Cori",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:02.297Z",
+      "sourceId": "jne-hv-M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CONTINENTAL",
+        "program": "DERECHO ADMINISTRATIVO ECONOMICO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ABOGADO INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CHACLACAYO",
+      "role": "GERENTE DE ASESORIA JURIDICA",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASESOR",
+      "from": "2023",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CHOSICA",
+      "role": "ASESOR DE GERENCIA MUNICIPAL",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "INMOBILIARIA MBVO SAC",
+      "role": "ASESOR",
+      "from": "2019",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "COORDINADOR DISTRITAL",
+      "party": "PARTIDO POLÍTICO RENOVACION POPULAR",
+      "from": "2025",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 83957.86,
+        "public": 10728.93,
+        "private": 73228.93
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ESTUDIO JURIDICO JAIME & GAGLIARDI ABOGADOS Y ASOCIADOS SAC",
+        "type": "ACCIONES",
+        "quantity": 7000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b34e29c9-c69f-446c-a0d9-78b9b6e9f006.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/12bcae2d-1f5f-46f0-a5d4-434448c20980.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia y una elevada percepción de inseguridad ciudadana que afecta la convivencia en el distrito.",
+            "objective": "Reducir la inseguridad ciudadana, involucrando activamente a la ciudadanía en una estrategia conjunta con la Policía Nacional y la Municipalidad, y eliminar las actividades que propician la ilegalidad.",
+            "goal": "Reducir la inseguridad ciudadana en el distrito en un 70%.",
+            "indicator": "Porcentaje de reducción de la inseguridad ciudadana distrital."
+          },
+          {
+            "problem": "Infraestructura de salud insuficiente para cubrir la demanda de la población, junto con la prevalencia de desnutrición, tuberculosis y problemas de salud mental.",
+            "objective": "Mejorar las condiciones sanitarias y de infraestructura de los establecimientos de salud, y reducir los índices de desnutrición infantil, fortaleciendo la atención a los adultos mayores.",
+            "goal": "Implementar la farmacia municipal, gestionar la construcción y mantenimiento de centros de salud, y crear un programa de salud geriátrica.",
+            "indicator": "Índice de desnutrición infantil y número de establecimientos de salud refaccionados o construidos."
+          },
+          {
+            "problem": "Insuficiente infraestructura y oferta de actividades para la educación, cultura, deporte y recreación, evidenciado en el abandono escolar y la carencia de espacios adecuados.",
+            "objective": "Fomentar el desarrollo de actividades culturales, incrementar la cantidad de espacios deportivos y recreativos, y dotar de conocimientos técnicos a los jóvenes para su inserción laboral.",
+            "goal": "Construir complejos y villas deportivas, un centro cultural, e implementar programas como \"Becados\" y \"Mil Oficios\" en las escuelas secundarias.",
+            "indicator": "Número de nuevos complejos deportivos y culturales construidos, y tasa de participación en programas educativos y culturales."
+          },
+          {
+            "problem": "Transporte público desordenado, con alta informalidad de vehículos menores como los mototaxis y falta de fiscalización.",
+            "objective": "Recuperar el principio de autoridad, erradicar la informalidad en el transporte, transparentar el proceso de obtención de licencias y recuperar la confianza de las empresas formales.",
+            "goal": "Instalar una mesa de trabajo para el transporte público, fiscalizar y erradicar vehículos informales, y revisar las licencias y autorizaciones de nuevas unidades de transporte.",
+            "indicator": "Número de vehículos menores informales erradicados y porcentaje de cumplimiento de la ordenanza de transporte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada informalidad comercial y existencia de comercio ambulatorio no residente que genera desorden en el distrito.",
+            "objective": "Promover la formalización del comercio, erradicar el comercio ambulatorio no residente y crear oportunidades laborales mediante la articulación con el sector empresarial y otras autoridades.",
+            "goal": "Promover la formalización del comercio informal en un 30% y erradicar el comercio ambulatorio no residente en el distrito.",
+            "indicator": "Porcentaje de formalización del comercio informal."
+          },
+          {
+            "problem": "Baja tasa de actividad económica y escasa incorporación laboral de personas con habilidades diferentes y de la tercera edad.",
+            "objective": "Fomentar la incorporación de personas con habilidades diferentes y de la tercera edad en la Población Económicamente Activa (PEA) y fortalecer sus capacidades.",
+            "goal": "Suscribir convenios con centros técnicos y universidades, y crear programas de beneficios tributarios para empresas que incorporen en sus planillas a dichos grupos poblacionales.",
+            "indicator": "Tasa de actividad de personas con habilidades diferentes y de la tercera edad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de los residuos sólidos, con frecuencias de recojo irregulares que generan focos de contaminación y atentan contra la salud pública.",
+            "objective": "Reducir la generación de residuos sólidos, implementar una cultura de reciclaje en la comunidad y liderar la gestión ecoamigable de residuos en la mancomunidad de Lima Norte.",
+            "goal": "Reducir en un 35% los residuos sólidos e implementar un sistema de reciclaje a nivel distrital.",
+            "indicator": "Porcentaje de reducción de residuos sólidos."
+          },
+          {
+            "problem": "Cantidad reducida de áreas verdes por habitante, muy por debajo de los estándares recomendados, y falta de sistemas de riego adecuados para su sostenibilidad.",
+            "objective": "Incrementar las áreas verdes, implementar sistemas de riego tecnificado y pozos subterráneos, y fomentar una cultura de cuidado ambiental en los vecinos para convertir al distrito en un modelo ecoamigable.",
+            "goal": "Incrementar en un 30% las nuevas áreas verdes en el distrito.",
+            "indicator": "Porcentaje de incremento de nuevas áreas verdes en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja gobernabilidad democrática, deslegitimación de la autoridad municipal y escasa participación de la ciudadanía en la toma de decisiones del gobierno local.",
+            "objective": "Articular a la sociedad civil para su participación activa en la toma de decisiones, acercar la gestión municipal a la ciudadanía e impulsar la creación de organizaciones vecinales.",
+            "goal": "Incrementar el monto asignado para el presupuesto participativo y realizar sesiones de concejo descentralizadas en coordinación con la sociedad civil.",
+            "indicator": "Nivel de ejecución del presupuesto participativo y número de sesiones de concejo descentralizadas."
+          },
+          {
+            "problem": "Servicios administrativos municipales ineficientes, no modernizados y centralizados, lo que genera malestar y desconfianza en la población.",
+            "objective": "Reestructurar la administración municipal bajo principios de eficiencia y austeridad, implementando políticas de acercamiento, celeridad y eficacia en los servicios brindados por la municipalidad.",
+            "goal": "Implementar una plataforma de servicios en línea, instalar un centro de Mejor Atención al Ciudadano (MAC), descentralizar los servicios administrativos y reestructurar los órganos municipales.",
+            "indicator": "Porcentaje de servicios municipales disponibles en línea y tiempo promedio de atención de reclamos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt",
+      "sha256": "d27b980a727ea7dfb2973c82f4d62e10287399d86d29befa1a299cc92646de38",
+      "accessedAt": "2026-10-02T23:05:02.297Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020003",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020003",
+      "sha256": "52d63d4aa932b281a818673bf164c916373dbbd896cdea73afb1464faa0e8b0f",
+      "accessedAt": "2026-10-02T23:05:02.836Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

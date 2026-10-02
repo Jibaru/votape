@@ -1,0 +1,258 @@
+{
+  "id": "SaZ69_IyxzapZs5Hwny0p0hxzgnfPozF",
+  "slug": "johan-fritz-chavez-sifuentes",
+  "electionId": "erm-2026",
+  "name": "Johan Fritz Chavez Sifuentes",
+  "givenNames": "Johan Fritz",
+  "surnames": "Chavez Sifuentes",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140114",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:39.347Z",
+      "sourceId": "jne-hv-SaZ69_IyxzapZs5Hwny0p0hxzgnfPozF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "LICENCIADO EN CIENCIAS DE LA COMUNICACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN CIENCIAS DE LA COMUNICACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "RED SATELITAL DE TELECOMUNICACIONES S.A.C",
+      "role": "DIRECTOR DE CONTENIDOS",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "INFOMARKET S.A",
+      "role": "JEFE DE COMUNICACIONES",
+      "from": "2018",
+      "to": "2020"
+    },
+    {
+      "employer": "PROFESIONAL CLEANING S.A",
+      "role": "JEFE DE MARKETING",
+      "from": "2015",
+      "to": "2017"
+    },
+    {
+      "employer": "COOPSOL MINERIA Y PETROLEO S.A",
+      "role": "JEFE DE MARKETING",
+      "from": "2014",
+      "to": "2015"
+    },
+    {
+      "employer": "CONSEJO NACIONAL DE LA MAGISTRATURA",
+      "role": "JEFE DE COMUNICACIONES",
+      "from": "2014",
+      "to": "2014"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2010"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30420,
+        "public": 30420,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SUMADCO S.A.C",
+        "type": "ACCIONES",
+        "quantity": 1020,
+        "value": 10200
+      },
+      {
+        "company": "CAMBIFY S.A.C",
+        "type": "ACCIONES",
+        "quantity": 5047,
+        "value": 5047
+      },
+      {
+        "company": "GRUPO UMANS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 6000,
+        "value": 60000
+      },
+      {
+        "company": "MAGDALENA CITY S.A.C",
+        "type": "ACCIONES",
+        "quantity": 2400,
+        "value": 2400
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3b6142f8-22af-48d4-8888-481bcf85b32a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cfbfed9c-e66f-492d-891d-740bb0b7a4f7.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Déficit de atención primaria y adultos mayores.",
+            "objective": "UBAP Magdalena y fortalecimiento del adulto mayor (Ejes 2 y 9).",
+            "goal": "10,000 asegurados y 2 Casas del Adulto Mayor.",
+            "indicator": "Asegurados atendidos, consultas, casas del adulto mayor."
+          },
+          {
+            "problem": "Inseguridad ciudadana, hurtos y robos.",
+            "objective": "Fortalecer la seguridad ciudadana (Eje 1).",
+            "goal": "-40% delitos, 90% cámaras, respuesta <5 min.",
+            "indicator": "Denuncias, cámaras operativas, tiempo respuesta."
+          },
+          {
+            "problem": "Escasas oportunidades para jóvenes.",
+            "objective": "Magdalena Emprende Joven y becas (Eje 10).",
+            "goal": "120 emprendimientos, 200 becas, 1,000 beneficiarios.",
+            "indicator": "Jóvenes beneficiados, becas, emprendimientos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasa digitalización comercial.",
+            "objective": "Implementar Compra Magdalena (Eje 3).",
+            "goal": "600 negocios y 900 comerciantes capacitados.",
+            "indicator": "Negocios afiliados, capacitaciones."
+          },
+          {
+            "problem": "Alta informalidad comercial.",
+            "objective": "Formalización y competitividad empresarial (Eje 3).",
+            "goal": "+35% licencias vigentes.",
+            "indicator": "Licencias activas."
+          },
+          {
+            "problem": "Débil articulación económica local.",
+            "objective": "Fortalecer Mercado de Magdalena y ferias (Eje 3).",
+            "goal": "16 ferias económicas anuales.",
+            "indicator": "Ferias realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro del espacio público.",
+            "objective": "Programa integral de limpieza y recuperación (Eje 5).",
+            "goal": "100% eliminados.",
+            "indicator": "Microbasurales eliminados."
+          },
+          {
+            "problem": "Déficit de áreas verdes.",
+            "objective": "Ampliar áreas verdes (Ejes 5 y 6).",
+            "goal": "6,000 m² recuperados.",
+            "indicator": "m² recuperados."
+          },
+          {
+            "problem": "Vulnerabilidad ante aniegos.",
+            "objective": "Fortalecer drenaje y resiliencia urbana (Eje 5).",
+            "goal": "100% de puntos críticos intervenidos.",
+            "indicator": "Puntos críticos intervenidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Movilidad urbana congestionada.",
+            "objective": "Mejorar movilidad urbana (Eje 4).",
+            "goal": "Intervención de principales nodos.",
+            "indicator": "Intersecciones intervenidas."
+          },
+          {
+            "problem": "Baja participación ciudadana.",
+            "objective": "Fortalecer juntas vecinales (Eje 7).",
+            "goal": "90% de juntas activas.",
+            "indicator": "Juntas activas."
+          },
+          {
+            "problem": "Modernización insuficiente.",
+            "objective": "Gobierno digital y transparencia (Eje 8).",
+            "goal": "95% ejecución, 80% trámites digitalizados.",
+            "indicator": "Ejecución presupuestal y trámites digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-SaZ69_IyxzapZs5Hwny0p0hxzgnfPozF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/SaZ69_IyxzapZs5Hwny0p0hxzgnfPozF",
+      "sha256": "5a670c996aefe16f0f05e4f16b92f88348eefb9e27b29a0f69220c9b35e5405f",
+      "accessedAt": "2026-10-02T22:59:39.347Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018533",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018533",
+      "sha256": "3338dadb5212aad9e4700b324144b8e085453efc22a7b8a73914fedadd54b1c8",
+      "accessedAt": "2026-10-02T22:59:39.818Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

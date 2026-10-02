@@ -1,0 +1,216 @@
+{
+  "id": "J9MG_XEc7_x0t-gNT7eqPrz0BGG4NnHK",
+  "slug": "michael-alonso-tineo-mendoza",
+  "electionId": "erm-2026",
+  "name": "Michael Alonso Tineo Mendoza",
+  "givenNames": "Michael Alonso",
+  "surnames": "Tineo Mendoza",
+  "age": 31,
+  "gender": "Masculino",
+  "party": {
+    "id": 2924,
+    "name": "PERU MODERNO"
+  },
+  "jurisdictionId": "140105",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:04.009Z",
+      "sourceId": "jne-hv-J9MG_XEc7_x0t-gNT7eqPrz0BGG4NnHK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "C.T.A. SENATI",
+        "program": "TÉCNICO TECNOLOGÍAS AMBIENTALES.",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PROSEGURIDAD",
+      "role": "AVP",
+      "from": "2022",
+      "to": "2025"
+    },
+    {
+      "employer": "RECAUDACION Y CONTACTO RECSA S.A.C.",
+      "role": "ASESOR FINANCIERO",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "RECAUDACION Y CONTACTO RECSA S.A.C.",
+      "role": "ASESOR FINANCIERO",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "ISOLUCIONES INTEGRALES S.A.C.",
+      "role": "EJECUTIVO DE COBRANZAS",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "GRUPO MARBATT GESTIÓN DE CAPITALES.",
+      "role": "EJECUTIVO DE COBRANZA",
+      "from": "2021",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DISTRITAL GENERAL DE CARABAYLLO.",
+      "party": "PARTIDO POLÍTICO PERU MODERNO",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 28800,
+        "public": 0,
+        "private": 28800
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/960f384d-d9c4-40d6-b206-aceb940521ee.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5466674f-562b-4b22-8f5c-30ab62212817.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia de infraestructura educativa moderna, segura y de calidad, así como una limitada oferta de programas de formación complementaria para los estudiantes.",
+            "objective": "Garantizar una educación de calidad a través de la construcción de nuevos colegios emblemáticos, la mejora de la infraestructura existente y la implementación de programas de seguridad y desarrollo de habilidades.",
+            "goal": "Construir un colegio emblemático en cada uno de los 11 sectores de Carabayllo. Evaluar y gestionar las mejoras necesarias en todos los colegios públicos. Implementar el programa \"Escuela Segura\" y alianzas para impartir cursos complementarios.",
+            "indicator": "Número de colegios emblemáticos construidos. Porcentaje de colegios públicos con infraestructura y mobiliario mejorados. Número de programas de seguridad y cursos complementarios implementados."
+          },
+          {
+            "problem": "Infraestructura de salud precaria y acceso limitado a servicios médicos, incluyendo la falta de un hospital de alta complejidad y centros especializados.",
+            "objective": "Mejorar integralmente la infraestructura y el acceso a los servicios de salud mediante la construcción de un hospital emblemático, el fortalecimiento de la red de atención primaria y la creación de centros especializados.",
+            "goal": "Construir un Hospital Emblemático con todas las áreas de atención médica. Gestionar la mejora, reparación o reconstrucción de la infraestructura de cada centro de salud existente. Construir una Clínica Municipal especializada en la lucha contra el cáncer.",
+            "indicator": "Número de hospitales y clínicas especializadas construidas. Porcentaje de centros de salud existentes mejorados y equipados. Número de programas de salud preventiva implementados."
+          },
+          {
+            "problem": "Falta de espacios y programas de apoyo para el desarrollo integral y la protección de poblaciones vulnerables como mujeres, jóvenes, adultos mayores y personas con discapacidad.",
+            "objective": "Crear y potenciar espacios e instituciones dedicadas a brindar apoyo, refugio, capacitación y oportunidades a los sectores más vulnerables de la población.",
+            "goal": "Construir el \"Palacio de la Mujer\" como centro de refugio y apoyo integral, y el \"Palacio de la Juventud\" para el desarrollo físico y cultural. Crear una oficina de trabajo para Personas Con Discapacidad (PCD) y potenciar los CIAM con infraestructura y talleres especializados.",
+            "indicator": "Construcción de centros integrales para mujeres y jóvenes. Creación de una oficina de trabajo para personas con discapacidad. Número de Centros de Adulto Mayor (CIAM) con infraestructura y talleres mejorados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Sectores productivos estratégicos como la agricultura, ganadería y turismo se encuentran desaprovechados, con bajos niveles de formalización, tecnología e inversión.",
+            "objective": "Impulsar y modernizar los sectores productivos clave del distrito, implementando una reforma agraria local, formalizando a los productores y desarrollando el potencial turístico.",
+            "goal": "Habilitar tierras para la agricultura asignando una media de 5 hectáreas por agricultor. Formalizar y apoyar a los ganaderos con tecnología y habilitación de tierras. Impulsar el sector turístico mediante la formalización de lugares recreativos y la promoción de la \"Marca Carabayllo\".",
+            "indicator": "Número de hectáreas de tierra habilitadas por agricultor. Porcentaje de ganaderos formalizados y apoyados con tecnología. Incremento en el número de visitantes a zonas turísticas del distrito."
+          },
+          {
+            "problem": "Alta informalidad comercial, trabas burocráticas y falta de acceso a financiamiento y asesoría para los comerciantes, PYMES y emprendedores locales.",
+            "objective": "Promover la formalización y el desarrollo del comercio local mediante la simplificación de trámites, la eliminación de barreras burocráticas y la creación de instrumentos de apoyo financiero y técnico.",
+            "goal": "Implementar el programa \"Licencia a Cero Costo\" durante el primer año de gestión. Agilizar la entrega de licencias y eliminar multas y clausuras abusivas. Crear la Caja Municipal de Carabayllo para ofrecer productos financieros accesibles.",
+            "indicator": "Tasa de formalización de negocios. Tiempo promedio para la obtención de licencias. Creación y operatividad de la Caja Municipal. Número de comerciantes beneficiados con asesoría."
+          },
+          {
+            "problem": "Limitada capacidad del distrito para atraer grandes inversiones y generar empleo formal a gran escala, lo que perpetúa la dependencia del autoempleo y la informalidad.",
+            "objective": "Crear polos de desarrollo económico mediante la implementación de un parque industrial y una zona económica especial para atraer grandes empresas con incentivos tributarios y de inversión.",
+            "goal": "Crear un parque industrial en las zonas altas de Carabayllo, exonerando de arbitrios a empresas que empleen un 70% de trabajadores locales. Gestionar la creación de una Zona Económica Especial para atraer empresas de los sectores tecnológico, farmacéutico y textil.",
+            "indicator": "Número de empresas instaladas en el parque industrial. Porcentaje de empleo formal generado por nuevas empresas. Creación y aprobación de la Zona Económica Especial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Manejo deficiente de los residuos sólidos, caracterizado por un recojo ineficaz, acumulación de basura en puntos críticos y la ausencia de un sistema de tratamiento y valorización.",
+            "objective": "Implementar un sistema integral de gestión de residuos sólidos que incluya la optimización del recojo, la segregación en la fuente y la construcción de infraestructura para el reciclaje, compostaje y generación de biogás.",
+            "goal": "Diseñar un plan de rutas eficiente y adquirir 20 camiones compactadores y 25 motos furgones. Construir una planta de compostaje, una planta de biogás y una planta de reciclaje para el tratamiento industrial de los residuos.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo de basura. Número de contenedores estratégicos instalados. Toneladas de residuos orgánicos e inorgánicos procesados y valorizados."
+          },
+          {
+            "problem": "Contaminación del río Chillón y degradación de ecosistemas frágiles como las Lomas de Primavera, amenazados por el tráfico de terrenos y la falta de acciones de protección y fiscalización.",
+            "objective": "Ejecutar un plan de recuperación y protección de los principales ecosistemas del distrito, mediante la descontaminación del río Chillón y la conservación de las Lomas de Primavera.",
+            "goal": "Realizar la descontaminación, reforestación y fiscalización estricta del río Chillón, creando un parque lineal a lo largo de sus riberas. Declarar las Lomas de Carabayllo como zona de conservación prioritaria para frenar el tráfico de terrenos e impulsar su reforestación.",
+            "indicator": "Creación de un parque lineal a lo largo del río Chillón. Declaración oficial de las Lomas como zona de conservación prioritaria. Hectáreas reforestadas en las Lomas de Primavera."
+          },
+          {
+            "problem": "Déficit de áreas verdes urbanas y falta de una política de reforestación masiva para mejorar la calidad del aire, el paisaje urbano y el bienestar de la población.",
+            "objective": "Incrementar significativamente la cobertura vegetal del distrito a través de un programa masivo de arborización y la potenciación de la capacidad de producción del vivero municipal.",
+            "goal": "Implementar el \"Proyecto 2 Millones de Árboles\" para reforestar zonas urbanas, parques, riberas del río Chillón y las Lomas de Primavera. Potenciar el vivero municipal para producir los árboles necesarios para la reforestación.",
+            "indicator": "Número de árboles plantados. Superficie de nuevas áreas verdes creadas. Capacidad de producción anual de árboles del vivero municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Elevados índices de criminalidad, extorsión y sicariato, con una capacidad de respuesta institucional insuficiente por parte del serenazgo y las entidades policiales.",
+            "objective": "Fortalecer drásticamente la seguridad ciudadana a través de la reestructuración del serenazgo, la construcción de infraestructura, la adquisición de equipamiento moderno y el uso intensivo de tecnología.",
+            "goal": "Construir y equipar 6 nuevas bases de serenazgo. Incrementar la flota a 60 carros patrulla y 60 motos. Instalar cámaras con inteligencia artificial, drones de alta autonomía y crear un Escuadrón Antiextorsión.",
+            "indicator": "Número de bases de serenazgo construidas y operativas. Número de cámaras con inteligencia artificial y drones en funcionamiento. Cantidad de patrulleros y motos adquiridos. Reducción de la tasa de delincuencia."
+          },
+          {
+            "problem": "Gestión municipal percibida como ineficiente y corrupta, con una excesiva burocracia que obstaculiza los trámites ciudadanos y un organigrama desactualizado.",
+            "objective": "Modernizar y transparentar la gestión municipal mediante una reestructuración organizacional, la eliminación de la corrupción y la digitalización completa de los servicios y trámites.",
+            "goal": "Reestructurar el organigrama municipal para reducir gerencias y agencias ineficientes. Eliminar toda posible planilla de trabajadores fantasma. Implementar una política de \"Cero Trámites\" mediante una aplicación municipal única y una mesa de partes digital 24/7.",
+            "indicator": "Reducción del gasto burocrático. Porcentaje de trámites y servicios disponibles en línea. Tiempo promedio de respuesta a solicitudes ciudadanas. Nivel de satisfacción ciudadana con los servicios municipales."
+          },
+          {
+            "problem": "Débil participación de las organizaciones vecinales y la ciudadanía en la toma de decisiones, planificación y fiscalización de la gestión municipal.",
+            "objective": "Institucionalizar y fortalecer los mecanismos de participación ciudadana para asegurar que las organizaciones vecinales sean actores clave en las decisiones, proyectos y resolución de problemas del distrito.",
+            "goal": "Establecer reuniones mensuales de trabajo directo con los presidentes de todas las organizaciones vecinales. Organizar un Congreso Distrital cada mes para concertar proyectos. Incentivar a los líderes vecinales con capacitación y facilidades logísticas.",
+            "indicator": "Número de reuniones mensuales con presidentes de organizaciones vecinales. Frecuencia de los Congresos Distritales realizados. Creación y número de propuestas del Concejo Municipal Joven."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-J9MG_XEc7_x0t-gNT7eqPrz0BGG4NnHK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/J9MG_XEc7_x0t-gNT7eqPrz0BGG4NnHK",
+      "sha256": "e50124eeca28de76ec4a0124836db91c18d41c0d138d425c5ad8ad22b50e8f7f",
+      "accessedAt": "2026-10-02T22:53:04.009Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014647",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014647",
+      "sha256": "21cf36006a965520ed1c427170fc5e01ac18d4bdc9deed8d797823b6c097b344",
+      "accessedAt": "2026-10-02T22:53:04.802Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

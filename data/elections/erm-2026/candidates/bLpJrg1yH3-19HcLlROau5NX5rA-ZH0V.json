@@ -1,0 +1,213 @@
+{
+  "id": "bLpJrg1yH3-19HcLlROau5NX5rA-ZH0V",
+  "slug": "heisen-odorico-herrera-conopuma",
+  "electionId": "erm-2026",
+  "name": "Heisen Odorico Herrera Conopuma",
+  "givenNames": "Heisen Odorico",
+  "surnames": "Herrera Conopuma",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 3028,
+    "name": "ALIANZA ELECTORAL VENCEREMOS"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:17.733Z",
+      "sourceId": "jne-hv-bLpJrg1yH3-19HcLlROau5NX5rA-ZH0V"
+    }
+  ],
+  "education": {
+    "basic": null,
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLITICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 520000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CONOTEC CORP SAC",
+        "type": "ACCIONES",
+        "quantity": 3,
+        "value": 100
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2cb3f974-5231-4a87-aa28-b40a9acf6b2e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/71c10944-de8e-4db5-841a-89bbc41db5d2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la delincuencia organizada y alta percepción de inseguridad ciudadana que afecta la convivencia y el desarrollo económico.",
+            "objective": "Implementar un sistema de monitoreo con inteligencia artificial, fortalecer las juntas vecinales y prevenir conductas de riesgo para mejorar la seguridad.",
+            "goal": "Generar un entorno seguro que propicie el crecimiento de los negocios y la inversión en el distrito.",
+            "indicator": "Disminución de la percepción de inseguridad en la población del distrito."
+          },
+          {
+            "problem": "Limitadas oportunidades de desarrollo educativo, laboral y personal para los jóvenes del distrito, lo que incrementa su vulnerabilidad.",
+            "objective": "Fortalecer la educación, el emprendimiento y el deporte como pilares para el desarrollo integral de la juventud.",
+            "goal": "Formar jóvenes emprendedores, incrementar el acceso a la educación superior y promover nuevos talentos deportivos.",
+            "indicator": "Reducción del número de jóvenes que no estudian ni trabajan (ninis) y de la participación de jóvenes en organizaciones criminales."
+          },
+          {
+            "problem": "Insuficiente promoción de una política cultural sostenida y carencia de espacios adecuados para el desarrollo artístico y comunitario.",
+            "objective": "Construir espacios culturales y fomentar el desarrollo de eventos sociales y culturales que fortalezcan la identidad local.",
+            "goal": "Impulsar la formación y visibilidad de nuevos jóvenes artistas en el distrito.",
+            "indicator": "Posicionamiento de San Juan de Lurigancho como un distrito de referencia en la organización de eventos culturales."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad y a medicamentos asequibles, especialmente para adultos mayores y familias en pobreza extrema.",
+            "objective": "Descentralizar los servicios de salud mediante la implementación de farmacias municipales en las zonas altas del distrito y la creación de la casa del adulto mayor.",
+            "goal": "Construir ocho farmacias municipales autogestionadas para el año 2030.",
+            "indicator": "Reducción de la brecha de acceso a la salud para adultos mayores y familias en situación de pobreza extrema."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana que afecta directamente a las MYPES y trabajadores independientes a través de la extorsión y el cobro de cupos.",
+            "objective": "Implementar medidas de protección para las micro y pequeñas empresas (MYPES) y los trabajadores independientes.",
+            "goal": "Fomentar la construcción de nuevos proyectos comerciales y empresariales en San Juan de Lurigancho.",
+            "indicator": "Incremento de la inversión privada y comercial en el distrito."
+          },
+          {
+            "problem": "Elevados niveles de informalidad en el comercio y los emprendimientos, obstaculizados por barreras burocráticas y administrativas.",
+            "objective": "Reducir la burocracia, formar mesas de diálogo con los actores económicos y fortalecer a las micro y pequeñas empresas (MYPES).",
+            "goal": "Alcanzar un nivel de informalidad del 40% al finalizar el periodo de gestión.",
+            "indicator": "Reducción anual del 10% en la tasa de informalidad del distrito."
+          },
+          {
+            "problem": "Insuficiente acceso a capacitación técnica de calidad para la población joven, limitando su inserción en el mercado laboral formal.",
+            "objective": "Mejorar la calificación de la mano de obra técnica local a través de programas de formación y certificación de competencias.",
+            "goal": "Disminuir la tasa de desempleo en San Juan de Lurigancho.",
+            "indicator": "Reducción de las brechas laborales en el sector juvenil del distrito."
+          },
+          {
+            "problem": "Subaprovechamiento del patrimonio histórico y cultural como recurso para dinamizar la economía local y el turismo.",
+            "objective": "Brindar apoyo a los sectores productivos existentes, a los emprendedores independientes y fortalecer el turismo en el distrito.",
+            "goal": "Lograr que los centros históricos del distrito sean revalorados y reconocidos en el circuito turístico de Lima.",
+            "indicator": "Aumento del número de visitantes turísticos en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión inadecuada de los residuos sólidos, lo que genera focos de contaminación y afecta la salud pública y el ornato.",
+            "objective": "Implementar un sistema de compostaje urbano y construir plantas de compostaje para la valorización de residuos orgánicos.",
+            "goal": "Reducir en un 70% el residuo sólido producido en San Juan de Lurigancho.",
+            "indicator": "Aumento del volumen de reciclaje y reducción de la cantidad de residuos sólidos en espacios públicos."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante, lo que contribuye a la contaminación del aire y a la formación de islas de calor urbano.",
+            "objective": "Recuperar el espacio del parque 5 de Canto Grande para consolidarlo como un pulmón verde para el distrito.",
+            "goal": "Mejorar significativamente la calidad del aire en el distrito.",
+            "indicator": "Reducción de los niveles de contaminación del aire en el distrito."
+          },
+          {
+            "problem": "Falta de un sistema de mantenimiento sostenible para los espacios públicos, lo que ocasiona su progresivo deterioro.",
+            "objective": "Crear un cuerpo de guardias especializado en el mantenimiento y cuidado de las áreas verdes del distrito.",
+            "goal": "Convertir a San Juan de Lurigancho en un distrito de referencia en la gestión de áreas verdes.",
+            "indicator": "Incremento de la cantidad de parques y de la variedad de flora y fauna en San Juan de Lurigancho."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de prácticas de corrupción en la gestión pública que debilitan la confianza ciudadana y afectan la transparencia institucional.",
+            "objective": "Fomentar acciones participativas con los vecinos, realizar balances de gestión transparentes y fortalecer la rendición de cuentas.",
+            "goal": "Lograr un nivel de aprobación de la gestión municipal por encima del 60%.",
+            "indicator": "Aumento del nivel de confianza de los vecinos en la gestión municipal."
+          },
+          {
+            "problem": "Excesiva burocracia y altos costos en los trámites de formalización que desincentivan el desarrollo de las actividades empresariales.",
+            "objective": "Reducir los costos y simplificar los trámites asociados a la formalización de empresas y comercios.",
+            "goal": "Incrementar el número de micro y pequeñas empresas (MYPES) formales en el distrito.",
+            "indicator": "Reducción de la informalidad en los sectores económicos del distrito."
+          },
+          {
+            "problem": "Uso de medidas coercitivas y abuso de autoridad por parte de la policía municipal en los procesos de fiscalización.",
+            "objective": "Erradicar el abuso de la policía municipal y crear mesas de diálogo permanentes con los actores económicos y sociales.",
+            "goal": "Promover una mayor inversión propia de los vecinos y contribuir a la reducción de la pobreza.",
+            "indicator": "Aumento de la participación de los emprendedores en los espacios de diálogo y fortalecimiento de su capacidad económica."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-bLpJrg1yH3-19HcLlROau5NX5rA-ZH0V",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bLpJrg1yH3-19HcLlROau5NX5rA-ZH0V",
+      "sha256": "7ec7b76e35e301a773c25aac0e6b021bbb8f577953831cc77bacb7b19b58d019",
+      "accessedAt": "2026-10-02T23:03:17.733Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031479",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031479",
+      "sha256": "70d26d1a936ca92a4f3547e917f1a1ace2f4f1554b5b7cd111de0b0a51e5a56f",
+      "accessedAt": "2026-10-02T23:03:18.303Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

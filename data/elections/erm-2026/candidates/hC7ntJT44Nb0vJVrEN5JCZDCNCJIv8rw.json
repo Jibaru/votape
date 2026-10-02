@@ -1,0 +1,245 @@
+{
+  "id": "hC7ntJT44Nb0vJVrEN5JCZDCNCJIv8rw",
+  "slug": "elizabeth-maria-del-rosario-leon-chinchay",
+  "electionId": "erm-2026",
+  "name": "Elizabeth Maria Del Rosario Leon Chinchay",
+  "givenNames": "Elizabeth Maria Del Rosario",
+  "surnames": "Leon Chinchay",
+  "age": 60,
+  "gender": "Femenino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:34.469Z",
+      "sourceId": "jne-hv-hC7ntJT44Nb0vJVrEN5JCZDCNCJIv8rw"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "CENTRO DE ALTOS NACIONALES - CAEN",
+        "program": "IV DIPLOMADO ESPECIAL EN GRD",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "TITULO PROFESIONAL DE INGENIERO CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional de Ingeniería",
+        "program": "BACHILLER EN CIENCIAS CON MENCION EN INGENIERIA CIVIL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1992"
+      },
+      {
+        "level": "posgrado",
+        "institution": "CENTRO DE ALTOS NACIONALES- CAEN",
+        "program": "MAGISTER GESTION DEL RIESGO DE DESASTRES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "ESCUELA SUPERIOR DE GUERRA DEL EJERCITO",
+        "program": "DOCTORADO EN POLITICAS PUBLICAS Y GESTION INTEGRADA DEL RIESGO DE DESASTRES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "E.L. ASESORES Y CONSULTORES EIRL",
+      "role": "INGENIERA CIVIL",
+      "from": "2011",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "from": "2020",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "SECRETARIO NACIONAL DE ECONOMÍA",
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "from": "2023",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 113270,
+        "public": 4008,
+        "private": 109262
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 44938.55,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "E.L. ASESORES Y CONSULTORES",
+        "type": "PARTICIPACIONES",
+        "quantity": 100,
+        "value": 9820
+      }
+    ]
+  },
+  "additionalInfo": [
+    "UNA CAMIONETA HILUX DE PLACA BZC-800 DEL AÑO 2024 VALORIZADO EN 45500 DOLARES CON PARTIDA REGISTRAL 55187109 CON TITULAR A NOMBRE DE LA EMPRESA E.L. ASESORES Y CONSULTORES EIRL"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f2854d99-9e4c-4370-b9ca-8d8944fe700a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f14cf613-aa7d-4daa-927e-1a42a2f74d75.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevados niveles de inseguridad ciudadana en los distritos de Lima, identificada como la principal preocupación por una vasta mayoría de la población.",
+            "objective": "Reducir los niveles de inseguridad ciudadana mediante la planificación de metas contra la victimización, la identificación y tipificación de delitos recurrentes para acciones preventivas, y el fortalecimiento de los mecanismos de seguimiento y monitoreo del plan de prevención.",
+            "goal": "Generar resultados positivos en la reducción de los indicadores de inseguridad ciudadana y mejorar la calidad de vida en la ciudad a través de un enfoque basado en prevención, tecnología e inteligencia territorial.",
+            "indicator": "Tasa de percepción de inseguridad y tasa de victimización delictiva."
+          },
+          {
+            "problem": "Acceso limitado de la población a servicios de salud y carencia de medicamentos a costo social, evidenciando una cobertura insuficiente para las necesidades de los habitantes.",
+            "objective": "Modernizar y ampliar la cobertura del sistema de salud municipal (SISOL), integrándolo al sistema nacional, implementando servicios de salud mental y programas de atención virtual, y estableciendo un programa de medicamentos a costo social.",
+            "goal": "Satisfacer la demanda del servicio de atención de la salud, complementando la atención primaria con especialidades, horarios extendidos y mayor capacidad de atención para cubrir las necesidades de la población.",
+            "indicator": "Porcentaje de la población que reporta tener acceso a servicios de atención de salud y número de atenciones realizadas en la red municipal."
+          },
+          {
+            "problem": "Congestión vehicular y deficiente movilidad urbana que afectan la calidad de vida de la población, generando tiempos de desplazamiento excesivos y pérdidas económicas.",
+            "objective": "Impulsar una transformación integral del sistema de movilidad metropolitana, priorizando el transporte público masivo, la movilidad sostenible, la gestión inteligente del tránsito y la seguridad vial.",
+            "goal": "Mejorar la accesibilidad de los ciudadanos a los servicios y oportunidades, reduciendo la necesidad de desplazamientos extensos y fomentando el uso de modos de transporte de menor costo social, económico y ambiental.",
+            "indicator": "Nivel de congestión promedio, tiempo perdido en horas punta y velocidad promedio de circulación vehicular."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Insuficiente infraestructura económica y comercial para el desarrollo de la actividad productiva, afectando la competitividad y la formalización del comercio.",
+            "objective": "Implementar una Red Metropolitana de Corredores Comerciales y Productivos, desarrollar un sistema de mercados modernos y seguros, y promover la formalización progresiva del comercio ambulatorio.",
+            "goal": "Modernizar la infraestructura comercial de la ciudad, creando espacios públicos para la actividad económica que combinen modernidad, seguridad y competitividad, e impulsando clústeres económicos especializados por territorio.",
+            "indicator": "Número de mercados modernizados y kilómetros de corredores comerciales implementados."
+          },
+          {
+            "problem": "Alto nivel de desempleo y subempleo en jóvenes y adultos, con una proporción significativa de la población ocupada en actividades informales sin acceso a protección social.",
+            "objective": "Fortalecer la empleabilidad, especialmente la juvenil, mediante la articulación de capacitación técnica, certificación de competencias, y la creación de centros de formación para el trabajo en coordinación con sectores productivos estratégicos.",
+            "goal": "Mejorar las oportunidades de acceso al mercado laboral formal para jóvenes y adultos, promoviendo la inserción laboral de poblaciones vulnerables y el desarrollo de habilidades digitales.",
+            "indicator": "Tasa de desempleo y subempleo en Lima Metropolitana, con desagregación por edad y género."
+          },
+          {
+            "problem": "Limitado apoyo a los emprendimientos, MYPES y economía local, enfrentando dificultades en el acceso a financiamiento, capacitación, transformación digital y formalización.",
+            "objective": "Fortalecer el ecosistema empresarial mediante un programa metropolitano que brinde asesoría técnica, legal y comercial, y el desarrollo de incubadoras y aceleradoras de negocios orientadas a la innovación.",
+            "goal": "Impulsar el desarrollo de emprendimientos y MYPES a través de la simplificación de procedimientos municipales, la implementación de programas de transformación digital y la conexión con nuevos mercados.",
+            "indicator": "Número de MYPES formalizadas anualmente y porcentaje de emprendimientos con acceso a programas de capacitación y financiamiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Recurrencia y severidad de los desastres asociados a fenómenos naturales, con una elevada vulnerabilidad de la población y la infraestructura debido a la ocupación de zonas de riesgo.",
+            "objective": "Fortalecer la Gestión del Riesgo de Desastres mediante acciones preventivas como el mantenimiento de cauces de ríos, la protección de fajas marginales y el desarrollo de un programa de reforzamiento sísmico de infraestructura crítica.",
+            "goal": "Reducir la vulnerabilidad de la población y proteger la infraestructura crítica, fortaleciendo la capacidad de respuesta ante emergencias mediante la implementación de un Observatorio Metropolitano de Riesgos y la mejora del equipamiento.",
+            "indicator": "Número de puntos críticos de inundación y erosión fluvial intervenidos y porcentaje de avance del Programa Metropolitano de Reforzamiento Sísmico."
+          },
+          {
+            "problem": "Incremento de la contaminación ambiental del aire, visual y auditiva, y un déficit en la implementación y mantenimiento de áreas verdes por falta de sistemas de riego eficientes.",
+            "objective": "Disminuir la contaminación ambiental mediante la instalación de microplantas de tratamiento de aguas servidas para el riego de áreas verdes, la implementación de sistemas de riego tecnificado y la realización de campañas de arborización.",
+            "goal": "Reducir los índices de contaminación y aumentar la cobertura de áreas verdes en la metrópoli, asegurando su sostenibilidad hídrica y mejorando la calidad ambiental para los ciudadanos.",
+            "indicator": "Niveles de contaminación del aire, visual y auditiva medidos contra una línea base ambiental, y hectáreas de nuevas áreas verdes implementadas con riego tecnificado."
+          },
+          {
+            "problem": "Inadecuada gestión integral de los residuos sólidos y limitada infraestructura para su disposición final, con un bajo porcentaje de reciclaje y una alta proporción de residuos dispuestos en botaderos informales.",
+            "objective": "Implementar un modelo de gestión de residuos sólidos basado en la economía circular, realizando la reingeniería de los rellenos sanitarios y ejecutando un plan de segregación en la fuente con participación vecinal.",
+            "goal": "Transformar el modelo de gestión de residuos hacia uno que genere valor agregado, optimizando la operación de los rellenos sanitarios y aumentando significativamente el porcentaje de residuos reciclados a nivel metropolitano.",
+            "indicator": "Porcentaje de residuos sólidos municipales dispuestos en rellenos sanitarios y tasa de reciclaje de residuos reaprovechables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de procesos judiciales y arbitrales que representan una carga significativa para la gestión municipal, derivados de controversias en contratos de concesión y otros actos administrativos.",
+            "objective": "Fortalecer la seguridad jurídica de la gestión municipal mediante la creación de una comisión de gestión de controversias, la realización de auditorías preventivas y la implementación de mecanismos de solución temprana de conflictos.",
+            "goal": "Prevenir y gestionar eficientemente las controversias legales y contractuales para reducir las contingencias económicas, proteger los intereses de la ciudad y atraer inversión privada.",
+            "indicator": "Número de litigios y arbitrajes iniciados contra la municipalidad y monto de las contingencias financieras asociadas."
+          },
+          {
+            "problem": "Limitada orientación de la gestión municipal hacia resultados y la generación de valor público, priorizando procedimientos administrativos sobre el impacto tangible en la calidad de vida.",
+            "objective": "Implementar un modelo de Gestión por Resultados que vincule la planificación estratégica, el presupuesto y la evaluación del desempeño, estableciendo indicadores de impacto y sistemas de monitoreo en tiempo real.",
+            "goal": "Orientar la acción municipal hacia el cumplimiento de objetivos estratégicos y metas verificables que respondan a las necesidades de la población, mejorando la toma de decisiones basada en evidencia y la rendición de cuentas.",
+            "indicator": "Porcentaje del presupuesto asignado vinculado a indicadores de desempeño y número de programas estratégicos con metas anuales verificables."
+          },
+          {
+            "problem": "Limitados mecanismos de transparencia, acceso a la información y control ciudadano, lo que dificulta el control social de la gestión y afecta la confianza en las instituciones públicas.",
+            "objective": "Fortalecer los mecanismos de gobierno abierto y participación ciudadana, publicando resultados de auditorías, digitalizando el seguimiento de procesos judiciales y garantizando el acceso a información completa y en formatos abiertos.",
+            "goal": "Garantizar el acceso oportuno, comprensible y completo a la información pública para fortalecer el control social, mejorar la confianza en la gestión municipal y fomentar una mayor participación ciudadana.",
+            "indicator": "Nivel de cumplimiento de la normativa de transparencia y acceso a la información pública, y número de mecanismos de participación ciudadana implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-hC7ntJT44Nb0vJVrEN5JCZDCNCJIv8rw",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/hC7ntJT44Nb0vJVrEN5JCZDCNCJIv8rw",
+      "sha256": "e998656aa97a7f7cab6fdd6781c1a088b8002b51818f71be8e45b6fe1f53febf",
+      "accessedAt": "2026-10-02T22:49:34.469Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016550",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016550",
+      "sha256": "1a9d2745dfced9b56d84c2d4deaedc91a5227e15423ce8c6e1ebc2db45fdfc99",
+      "accessedAt": "2026-10-02T22:49:34.951Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

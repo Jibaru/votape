@@ -1,0 +1,234 @@
+{
+  "id": "xiV01eBJyYd7NvWLGyXSLCXlafldSne_",
+  "slug": "martin-jose-palomino-cordova",
+  "electionId": "erm-2026",
+  "name": "Martin Jose Palomino Cordova",
+  "givenNames": "Martin Jose",
+  "surnames": "Palomino Cordova",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:12.249Z",
+      "sourceId": "jne-hv-xiV01eBJyYd7NvWLGyXSLCXlafldSne_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ANDRE VESALIO",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILASO DE LA VEGA",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "JR ZAVALETA CONSULTING S.A.",
+      "role": "CONSULTOR EN GESTIÓN DE PROYECTOS",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "INSTITUTO PERUANO DEL DEPORTE (IPD) – XX JUEGOS BOLIVARIANOS",
+      "role": "COORDINADOR DE SEGURIDAD Y RELACIONES COMUNITARIAS",
+      "from": "2025",
+      "to": "2025"
+    },
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "COORDINADOR DE LA GERENCIA DE SEGURIDAD CIUDADANA Y VIAL",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "PLATAFORMA NACIONAL DE GREMIOS MIPYMES – SNI",
+      "role": "COORDINADOR DE GREMIOS EMPRESARIALES",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "ALMACENES CENTRAL HUACHIPA",
+      "role": "JEFE DE SEGURIDAD INTEGRAL",
+      "from": "2020",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATA VERDE",
+      "year": "2024"
+    },
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 44974,
+        "public": 0,
+        "private": 44974
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "COORPORACION MEDICA ALEMANA PERU S.A.C",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 5000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b3599745-49f5-4fa1-a943-947a8de0d9b5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c8bd16f4-d2f9-483f-a331-6902e62329d0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos niveles de inseguridad ciudadana, alta percepción de riesgo y sensación permanente de inseguridad en la población.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la modernización de los procesos de despacho vehicular y el despliegue de infraestructura tecnológica interoperable.",
+            "goal": "1. Reducción progresiva del tiempo de respuesta del Serenazgo a menos de 10 minutos en zonas consolidadas y menos de 15 minutos en laderas periféricas al 2030. 2. Lograr el 100% de la infraestructura tecnológica de videovigilancia nueva implementada y técnicamente apta para la interconexión automática con Lima Metropolitana.",
+            "indicator": "1. Tiempo promedio de respuesta de las unidades del Serenazgo ante alertas del ciudadano. 2. Porcentaje de cámaras y pórticos distritales implementados con protocolos de interoperabilidad (APIs abiertas) para la integración provincial."
+          },
+          {
+            "problem": "Insuficiente acceso a servicios preventivos de salud, rehabilitación y limitada cobertura de programas para personas con discapacidad y población vulnerable.",
+            "objective": "Convertir al distrito en referente de salud preventiva, rehabilitación e inclusión social integral mediante infraestructura especializada y alianzas estratégicas institucionales.",
+            "goal": "1. Alcanzar las 20,000 terapias gratuitas de fisioterapia acumuladas al 2030. 2. Lograr el despliegue progresivo de hasta 3 ambulancias municipales integradas a la red de atención del SAMU local para el año 2030. 3. Entrega progresiva de hasta 800 prótesis dentales focalizadas. 4. Lograr la inserción formal de 200 personas con discapacidad en el mercado laboral.",
+            "indicator": "1. Número acumulado de terapias de rehabilitación física brindadas en los centros municipales. 2. Porcentaje de la flota de ambulancias de respuesta rápida adquirida y operativa. 3. Cantidad de prótesis dentales entregadas a adultos mayores vulnerables. 4. Número de personas con discapacidad insertadas en puestos laborales."
+          },
+          {
+            "problem": "Débil protección social para familias vulnerables, déficit de servicios de atención a la primera infancia y escaso acceso a espacios seguros de deporte y recreación.",
+            "objective": "Fortalecer el bienestar social, la protección integral de la primera infancia y el desarrollo humano inclusivo mediante infraestructura recreativa y programas de asistencia comunitaria.",
+            "goal": "1. Lograr la implementación física de hasta 5 centros de desarrollo infantil al 2030. 2. Recuperación progresiva de hasta 30 lozas deportivas comunales. 3. 100% de implementación operativa del Centro de Asistencia Municipal para la Mujer.",
+            "indicator": "1. Número de Centros de Desarrollo Infantil municipales implementados. 2. Cantidad de lozas deportivas y espacios recreativos recuperados con tecnologías ecoeficientes. 3. Porcentaje de implementación de la plataforma de asistencia y protección a la mujer en situación de vulnerabilidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad económica, barreras administrativas y trabas burocráticas para formalizar pequeños negocios.",
+            "objective": "Promover la formalización empresarial acelerada en el distrito mediante la simplificación administrativa radical y la reingeniería digital de procesos.",
+            "goal": "1. Reducción del tiempo de entrega de licencias de funcionamiento a un máximo de 24 horas hábiles. 2. Lograr la formalización progresiva de hasta 4,000 nuevos establecimientos comerciales de emprendedores locales al 2030.",
+            "indicator": "1. Tiempo promedio de obtención de licencias de funcionamiento comerciales para giros de bajo y mediano riesgo. 2. Número acumulado de micro y pequeñas empresas (Mypes) formalizadas a través de las plataformas digitales municipales."
+          },
+          {
+            "problem": "Limitadas oportunidades de crecimiento empresarial, bajo nivel de desarrollo emprendedor y falta de oportunidades de empleo local.",
+            "objective": "Impulsar el desarrollo empresarial, el empleo local formal y la transformación tecnológica de las Mypes mediante plataformas de intermediación inteligente y alianzas estratégicas sectoriales.",
+            "goal": "1. Lograr que hasta 5,000 comerciantes y emprendedores locales sean capacitados en herramientas digitales avanzadas al 2030. 2. Lograr la colocación efectiva de hasta 3,000 ciudadanos en puestos de trabajo formales mediante la plataforma de intermediación de la Bolsa Laboral Inteligente distrital al 2030.",
+            "indicator": "1. Número acumulado de microempresarios y comerciantes locales capacitados en herramientas de IA aplicada y economía digital. 2. Cantidad de puestos de trabajo formales cubiertos de manera efectiva a través de la Bolsa Laboral Inteligente municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos, problemas de limpieza pública y contaminación urbana.",
+            "objective": "Optimizar la gestión integral de residuos sólidos y el ornato público mediante la modernización de los procesos de recolección, el control tecnológico del servicio y la participación ciudadana.",
+            "goal": "1. Alcanzar hasta un 98% de cobertura y cumplimiento operativo en las rutas de recolección distrital al 2030. 2. Lograr la erradicación y recuperación sostenible de hasta el 90% de los puntos críticos de acumulación informal de residuos detectados en el distrito al 2030.",
+            "indicator": "1. Porcentaje de cobertura y cumplimiento efectivo de las rutas de recolección de residuos sólidos programadas en el distrito. 2. Número de puntos críticos de acumulación informal de residuos (botaderos) erradicados y recuperados en el distrito."
+          },
+          {
+            "problem": "Deterioro de espacios públicos, insuficiente mantenimiento de áreas verdes e infraestructura pública deteriorada o en riesgo.",
+            "objective": "Recuperar sostenidamente el entorno urbano, incrementar los espacios públicos verdes y agilizar la formulación de infraestructura para la mitigación de riesgos en el distrito.",
+            "goal": "1. Incorporación progresiva de hasta 50,000 metros cuadrados de áreas verdes recuperadas y arborizadas al 2030. 2. Viabilizar un portafolio de hasta 15 expedientes técnicos prioritarios para laderas críticas de Pamplona Alta al 2030. 3. Lograr el 100% de cobertura en las inspecciones técnicas de seguridad preventiva programadas.",
+            "indicator": "1. Metros cuadrados de áreas verdes urbanas recuperadas y optimizadas de forma sostenible. 2. Número acumulado de expedientes técnicos de inversión viabilizados bajo el sistema Invierte.pe. 3. Porcentaje de establecimientos públicos con inspecciones técnicas de seguridad preventiva ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Municipalidad burocrática, lenta y con procesos institucionales ineficientes.",
+            "objective": "Modernizar integralmente la gestión del talento humano en la corporación municipal, adoptando los principios de meritocracia, idoneidad y el tránsito metodológico ordenado al régimen del Servicio Civil (SERVIR).",
+            "goal": "1. Lograr el 100% de cumplimiento de las fases de tránsito y la aprobación final del Cuadro de Puestos de la Entidad (CPE) ante SERVIR al 2030. 2. Garantizar que el 100% de los funcionarios de confianza y directivos designados cuenten con perfiles de idoneidad técnica auditados y verificados.",
+            "indicator": "1. Porcentaje de instrumentos metodológicos de gestión (Mapeos, MPP, CPE) aprobados y validados formalmente por SERVIR. 2. Porcentaje de funcionarios de confianza y directivos que cumplen con los perfiles de idoneidad legal exigidos por la Ley Nº 31419."
+          },
+          {
+            "problem": "Bajo nivel de digitalización de servicios públicos, débil transparencia y limitados mecanismos de participación ciudadana.",
+            "objective": "Desarrollar e implementar el ecosistema de Gobierno Digital y Simplificación Administrativa para erradicar la burocracia, eliminar la corrupción e interconectar al ciudadano con el municipio.",
+            "goal": "1. Lograr la migración y digitalización del 80% de los procedimientos administrativos de alta demanda del TUPA al 2030. 2. Implementar el 100% de los tableros de control de datos abiertos para proyectos de inversión pública desde el primer año de gestión.",
+            "indicator": "1. Porcentaje de procedimientos administrativos del TUPA municipal digitalizados y simplificados. 2. Nivel de participación ciudadana digital registrada en los procesos del Presupuesto Participativo local."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-18999",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Declaración Jurada De Ingresos De Bienes Y Rentas",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-23",
+      "details": {
+        "rubro": "DECLARACIÓN JURADA DE INGRESOS DE BIENES Y RENTAS",
+        "resolucion": "RES.00909-2026-JEE-LIS1/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RES.00909-2026-JEE-LIS1/JNE",
+      "sourceIds": [
+        "jne-hv-xiV01eBJyYd7NvWLGyXSLCXlafldSne_"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-xiV01eBJyYd7NvWLGyXSLCXlafldSne_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/xiV01eBJyYd7NvWLGyXSLCXlafldSne_",
+      "sha256": "618c83f10b027a6a9e1da9f0b11658ac292dc8b50c231cfd3736e38c4b335fed",
+      "accessedAt": "2026-10-02T23:04:12.249Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031243",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031243",
+      "sha256": "c12c675a59f62dd34d0b6460a79f795b36b57c3980e8fb1949e7f1e67317f57a",
+      "accessedAt": "2026-10-02T23:04:12.732Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": "ZR1tyaefxcPjRN5-XIcd1yCCndRWeeI8",
+  "slug": "jenny-leila-romero-chaucayanqui",
+  "electionId": "erm-2026",
+  "name": "Jenny Leila Romero Chaucayanqui",
+  "givenNames": "Jenny Leila",
+  "surnames": "Romero Chaucayanqui",
+  "age": 37,
+  "gender": "Femenino",
+  "party": {
+    "id": 3001,
+    "name": "PARTIDO POLITICO PUEBLO CONSCIENTE"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:36.705Z",
+      "sourceId": "jne-hv-ZR1tyaefxcPjRN5-XIcd1yCCndRWeeI8"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "PUCP",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "posgrado",
+        "institution": "PUCP",
+        "program": "DERECHO PUBLICO Y BUEN GOBIERNO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "RESTAURANTE",
+      "role": "ADMINISTRADORA",
+      "from": "2019",
+      "to": "2026"
+    },
+    {
+      "employer": "EDITORIAL ECONOMIA Y FINANZAS",
+      "role": "ABOGADO",
+      "from": "2017",
+      "to": "2019"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 13560,
+        "public": 0,
+        "private": 13560
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "HYUNDAI",
+        "value": 20000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "HOTELES TAMBOMARCA SAC",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 100
+      },
+      {
+        "company": "ALTO ROMERO PERU SAC",
+        "type": "ACCIONES",
+        "quantity": 450,
+        "value": 450
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2c28f3a3-b110-4d00-b4f6-9030a641b198.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6965eebd-420e-41c6-b68b-b194990996a1.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta tasa de anemia infantil (28%) y desnutrición crónica en niños menores de cinco años.",
+            "objective": "Implementar un programa municipal de prevención y control de la anemia en coordinación con el MINSA y el MIDIS, a través de los programas Cuna Más y Qali Warma.",
+            "goal": "Reducir la tasa de anemia infantil al 18% para el año 2030.",
+            "indicator": "Tasa de anemia infantil (%) y número de niños menores de cinco años con suplementación completa."
+          },
+          {
+            "problem": "Déficit de formación técnica y superior en el distrito, lo que ocasiona una fuga de talento joven.",
+            "objective": "Gestionar la creación de un Centro de Capacitación Técnica municipal y establecer convenios con universidades para la apertura de filiales o programas presenciales.",
+            "goal": "Lograr dos o más convenios activos para el año 2028 y matricular a 150 o más jóvenes para el año 2030.",
+            "indicator": "Número de convenios activos y número de jóvenes matriculados en formación técnica o superior."
+          },
+          {
+            "problem": "Jóvenes de quinto de secundaria sin orientación vocacional ni acompañamiento para la admisión universitaria.",
+            "objective": "Implementar un programa anual de asesoría vocacional y acompañamiento en procesos de admisión universitaria y becas.",
+            "goal": "Atender al 90% o más de los estudiantes de quinto de secundaria para el año 2029 y realizar dos o más talleres por año desde 2027.",
+            "indicator": "Porcentaje de estudiantes de quinto de secundaria atendidos y número de talleres realizados."
+          },
+          {
+            "problem": "Capacidad resolutiva limitada del establecimiento de salud, con derivaciones constantes a hospitales o servicios de salud de distritos aledaños.",
+            "objective": "Gestionar ante el MINSA y la DIRIS Lima Sur la categorización del puesto de salud a Centro de Salud I-4 y la ampliación de servicios especializados básicos.",
+            "goal": "Lograr que el establecimiento sea categorizado como I-3 para el año 2029 y disponer de al menos tres especialidades (pediatría, ginecología, odontología) para el año 2030.",
+            "indicator": "Categoría del establecimiento de salud y número de especialidades disponibles."
+          },
+          {
+            "problem": "Ausencia de un sistema de videovigilancia integrado, lo que resulta en una respuesta tardía ante incidentes.",
+            "objective": "Crear e implementar centros de videovigilancia integrados con tecnología de Inteligencia Artificial LPR (License Plate Recognition) y cámaras PTZ (Pan, Tilt, Zoom) en puntos críticos del distrito.",
+            "goal": "Contar con 30 o más cámaras activas para el año 2028 y un tiempo de respuesta menor o igual a 8 minutos para el año 2029.",
+            "indicator": "Número de cámaras operativas y tiempo promedio de respuesta del serenazgo en minutos."
+          },
+          {
+            "problem": "Ollas comunes sin reconocimiento jurídico ni soporte institucional, generando inseguridad alimentaria en hogares vulnerables.",
+            "objective": "Reconocer jurídicamente las ollas comunes e implementar un programa de apoyo con canastas, equipamiento y capacitación en nutrición.",
+            "goal": "Reconocer el 100% de las ollas comunes existentes para el año 2027 y atender a 200 o más familias por mes para el año 2029.",
+            "indicator": "Número de ollas comunes reconocidas y número de familias beneficiarias por mes."
+          },
+          {
+            "problem": "Déficit de infraestructura deportiva y escasa práctica de actividad física regular en la población.",
+            "objective": "Implementar un programa municipal de actividad física (Escuelas Deportivas Municipales) y rehabilitar las losas deportivas existentes.",
+            "goal": "Rehabilitar tres o más losas para el año 2028 e inscribir a 300 o más personas en las Escuelas Deportivas para el año 2029.",
+            "indicator": "Número de losas deportivas rehabilitadas y número de inscritos en Escuelas Deportivas Municipales."
+          },
+          {
+            "problem": "El 60% de las vías distritales son trochas carrozables en mal estado, generando desconexión entre la zona alta y baja.",
+            "objective": "Ejecutar la compactación y el afirmado de trochas carrozables distritales priorizadas, a través del presupuesto participativo y obras por impuestos.",
+            "goal": "Mejorar 8 km o más de vías para el año 2030 y ejecutar dos o más proyectos viales por obras por impuestos para el año 2029.",
+            "indicator": "Kilómetros de vías mejoradas y número de proyectos viales por obras por impuestos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Potencial turístico desarticulado y sin un circuito formal que integre playas, lomas y sitios arqueológicos.",
+            "objective": "Implementar un circuito turístico integrado que conecte lomas, playas y sitios arqueológicos, con ciclovías, señalética y materiales de difusión.",
+            "goal": "Inaugurar el circuito para el año 2028, construir 5 km o más de ciclovías para el año 2029, señalizar tres o más sitios para el año 2030 y lograr un crecimiento de visitantes del 30% o más para el año 2030 en comparación con 2027.",
+            "indicator": "Número de visitantes registrados en el circuito, kilómetros de ciclovías del circuito y número de sitios señalizados."
+          },
+          {
+            "problem": "Morosidad tributaria superior al 55%, lo que resulta en recursos municipales insuficientes para la inversión.",
+            "objective": "Implementar un bono tributario y un programa de amnistía e incentivo al pago, además de modernizar el sistema de recaudación municipal.",
+            "goal": "Reducir la morosidad a un 35% o menos para el año 2030 e incrementar la recaudación en un 30% o más para el año 2030.",
+            "indicator": "Porcentaje de morosidad predial y monto de recaudación adicional (S/) respecto al año 2026."
+          },
+          {
+            "problem": "Alta informalidad laboral superior al 70%, con emprendedores sin asistencia técnica ni acceso a financiamiento.",
+            "objective": "Implementar un Centro de Emprendimiento y Formalización Municipal que ofrezca asesoría gratuita en registros, tributación y acceso a financiamiento.",
+            "goal": "Formalizar 100 o más comercios para el año 2029 y asesorar a 80 o más emprendedores por año desde 2027.",
+            "indicator": "Número de comercios formalizados y número de emprendedores asesorados por año."
+          },
+          {
+            "problem": "Predios en zonas de expansión urbana sin saneamiento físico-legal y ordenanzas que obstaculizan el desarrollo formal.",
+            "objective": "Impulsar el saneamiento físico-legal en coordinación con COFOPRI, así como revisar y derogar las ordenanzas restrictivas al desarrollo.",
+            "goal": "Gestionar 300 o más títulos para el año 2030 y revisar el 100% de las ordenanzas restrictivas para el año 2028.",
+            "indicator": "Número de predios con título gestionado y número de ordenanzas revisadas."
+          },
+          {
+            "problem": "Catastro urbano desactualizado, lo que impide una base territorial para la planificación y el acceso a transferencias del MVCS.",
+            "objective": "Implementar y actualizar el catastro urbano digital en convenio con el MVCS y entidades especializadas.",
+            "goal": "Catastrar el 80% o más de los predios para el año 2030 y tener el sistema catastral en línea operativo para el año 2028.",
+            "indicator": "Porcentaje de predios catastrados y operatividad del sistema catastral en línea."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de pozos subterráneos y riesgo de sobreexplotación del acuífero local.",
+            "objective": "Recuperar y monitorear los pozos subterráneos en coordinación con la ANA, e implementar un sistema de alerta de niveles freáticos.",
+            "goal": "Contar con cinco o más pozos con monitoreo semestral para el año 2028 y el 100% de los pozos identificados con estado conocido para el año 2029.",
+            "indicator": "Número de pozos recuperados y monitoreados, y frecuencia de monitoreo (veces/año)."
+          },
+          {
+            "problem": "Déficit de áreas verdes (menos de 2 m²/habitante) y degradación de la franja marginal de la quebrada Malache.",
+            "objective": "Ejecutar un programa de reforestación y arborización de áreas verdes, incluyendo la forestación de la franja marginal de la quebrada Malache.",
+            "goal": "Alcanzar 4 m²/hab. o más de área verde para el año 2030 y plantar 2,000 o más árboles con una tasa de supervivencia del 70% o superior.",
+            "indicator": "Metros cuadrados por habitante de área verde, número de árboles plantados y tasa de supervivencia al año."
+          },
+          {
+            "problem": "Ausencia de una planta de tratamiento de aguas residuales, lo que resulta en dos playas con calidad de agua 'no apta' en temporada alta.",
+            "objective": "Gestionar ante el MVCS y SEDAPAL la construcción de una planta de tratamiento de aguas residuales.",
+            "goal": "Firmar un convenio con MVCS/SEDAPAL para el año 2028, iniciar las obras en 2029 y lograr que el 100% de las playas tengan agua apta para el año 2030.",
+            "indicator": "Convenio firmado, porcentaje de aguas residuales tratadas y calidad del agua en playas (apta/no apta)."
+          },
+          {
+            "problem": "Segregación en origen menor al 5%, escasa cultura de reciclaje y puntos críticos de acumulación de residuos.",
+            "objective": "Implementar un programa de educación ambiental y segregación en origen con puntos de acopio diferenciado en todo el distrito.",
+            "goal": "Lograr que el 40% o más de los hogares realicen segregación en origen para el año 2030 e instalar 10 o más puntos de acopio para el año 2028.",
+            "indicator": "Porcentaje de hogares con segregación en origen, número de puntos de acopio instalados y toneladas de residuos segregados por año."
+          },
+          {
+            "problem": "Cobertura incompleta del servicio de recojo de residuos en zonas altas y existencia de puntos críticos de acumulación.",
+            "objective": "Ampliar la cobertura del servicio de limpieza pública a las zonas altas y erradicar los puntos críticos de acumulación con operativos periódicos.",
+            "goal": "Alcanzar el 100% de cobertura de recojo para el año 2028 y erradicar el 80% de los puntos críticos para el año 2029.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo y número de puntos críticos erradicados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja participación en el presupuesto participativo (menor al 5%) y un Consejo de Coordinación Local Distrital (CCLD) sin quorum suficiente.",
+            "objective": "Revitalizar el presupuesto participativo con una metodología accesible (asambleas zonales, consulta digital) y fortalecer el CCLD.",
+            "goal": "Lograr una participación del 15% o más en el presupuesto participativo para el año 2030 y que el CCLD realice cuatro o más sesiones anuales desde 2027.",
+            "indicator": "Porcentaje de población participante en el presupuesto participativo y número de sesiones del CCLD por año."
+          },
+          {
+            "problem": "Portal de transparencia con información incompleta y escasa rendición de cuentas intermedia.",
+            "objective": "Implementar audiencias públicas semestrales de rendición de cuentas y actualizar el portal de transparencia según los estándares de la PCM.",
+            "goal": "Realizar dos o más audiencias por año desde 2027 y mantener el portal con el 100% de los campos obligatorios actualizados para el año 2027.",
+            "indicator": "Número de audiencias públicas por año y porcentaje de información del portal actualizada según el estándar PCM."
+          },
+          {
+            "problem": "Trámites municipales 100% presenciales y sin interoperabilidad con las plataformas del Estado.",
+            "objective": "Implementar una plataforma de trámites y pagos municipales en línea que sea interoperable con la PIDE (PCM) y la Plataforma Digital Única del Estado.",
+            "goal": "Disponer de 10 o más trámites en línea para el año 2028 y que el 30% o más de los pagos se realicen por canal digital para el año 2029.",
+            "indicator": "Número de trámites disponibles en línea y porcentaje de pagos municipales realizados por canal digital."
+          },
+          {
+            "problem": "Inexistencia de un sistema de información geográfica (SIG) para la gestión territorial y de un tablero de indicadores de gestión.",
+            "objective": "Implementar un SIG municipal y un tablero digital público de indicadores de gestión (dashboard) actualizado trimestralmente.",
+            "goal": "Tener el SIG operativo para el año 2027 y un dashboard con el 100% de los indicadores del Plan de Gobierno para el año 2028.",
+            "indicator": "Operatividad del SIG municipal y número de indicadores del Plan de Gobierno monitoreados en el dashboard."
+          },
+          {
+            "problem": "Procesos internos manuales y personal municipal sin capacitación en herramientas digitales.",
+            "objective": "Implementar un programa de capacitación en gobierno digital para funcionarios municipales y modernizar los sistemas de gestión interna.",
+            "goal": "Capacitar al 100% de los funcionarios con cargo directivo para el año 2027 y digitalizar cinco o más procesos internos clave para el año 2028.",
+            "indicator": "Número de funcionarios capacitados en herramientas digitales y número de procesos internos digitalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ZR1tyaefxcPjRN5-XIcd1yCCndRWeeI8",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZR1tyaefxcPjRN5-XIcd1yCCndRWeeI8",
+      "sha256": "94c8610fa7ede51a49b921a427a884e61bdaa4cd80b2da949d758922cbb8b014",
+      "accessedAt": "2026-10-02T23:01:36.705Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021097",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021097",
+      "sha256": "9eec26d0a5de1bc6dbd811252ac502954e0984610555b58ad4ee0e655194d514",
+      "accessedAt": "2026-10-02T23:01:37.189Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

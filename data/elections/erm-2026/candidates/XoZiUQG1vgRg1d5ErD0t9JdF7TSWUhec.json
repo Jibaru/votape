@@ -1,0 +1,211 @@
+{
+  "id": "XoZiUQG1vgRg1d5ErD0t9JdF7TSWUhec",
+  "slug": "luis-andres-eustaquio-sanchez",
+  "electionId": "erm-2026",
+  "name": "Luis Andres Eustaquio Sanchez",
+  "givenNames": "Luis Andres",
+  "surnames": "Eustaquio Sanchez",
+  "age": 23,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:04.096Z",
+      "sourceId": "jne-hv-XoZiUQG1vgRg1d5ErD0t9JdF7TSWUhec"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD TECNOLÓGICA LATINOAMERICANA EN LÍNEA",
+        "program": "TÍTULO DE LICENCIATURA EN PSICOLOGÍA ORGANIZACIONAL (GRADO DE BACHILLER Y TÍTULO PROFESIONAL)",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2025"
+      },
+      {
+        "level": "posgrado",
+        "institution": "INSTITUTO SUPERIOR DE ESTUDIOS PSICOLÓGICOS",
+        "program": "MAESTRÍA EN PSICOLOGÍA CLÍNICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACION EDUCATIVA ANDRE VESALIO S.A.C",
+      "role": "PSICOLOGO",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 18000,
+        "public": 0,
+        "private": 18000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/29fca097-032b-458d-933e-d1560fddb091.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/929d67b5-ffc0-4082-b767-67ed29d43c19.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado número de establecimientos de salud e infraestructura deteriorada para atender a más de 435,000 habitantes.",
+            "objective": "Mejorar integralmente las postas médicas existentes, construir un Mega Centro de Salud Municipal y continuar la construcción del Hospital Municipal.",
+            "goal": "Construir un Mega Centro de Salud Municipal y gestionar la continuación de la construcción del Hospital Municipal para ampliar la cobertura sanitaria.",
+            "indicator": "Número de establecimientos de salud construidos o mejorados. Porcentaje de ampliación de la capacidad de atención en la red de salud."
+          },
+          {
+            "problem": "Persistente violencia contra la mujer y falta de atención integral a las víctimas en el distrito.",
+            "objective": "Crear la Casa de la Mujer de Puente Piedra para brindar defensa legal gratuita, acompañamiento psicológico y talleres psicoeducativos de prevención.",
+            "goal": "Habilitar espacios dentro del Palacio de la Cultura para el funcionamiento de la Casa de la Mujer, atendiendo a víctimas de violencia.",
+            "indicator": "Número de mujeres atendidas en la Casa de la Mujer. Número de talleres de prevención realizados en escuelas."
+          },
+          {
+            "problem": "Carencia de pavimentación, veredas, escaleras y muros de contención en gran parte de los 17 sectores del distrito.",
+            "objective": "Ejecutar un programa de pavimentación masiva, construcción de escaleras, muros de contención y veredas, priorizando zonas históricamente desatendidas.",
+            "goal": "Realizar la pavimentación masiva en los 17 sectores del distrito, en convenio con la UNI y la UNMSM.",
+            "indicator": "Kilómetros de vías pavimentadas. Número de escaleras y muros de contención construidos. Porcentaje de sectores beneficiados."
+          },
+          {
+            "problem": "Limitado acceso a la educación superior por factores económicos y una infraestructura deteriorada en los colegios públicos.",
+            "objective": "Facilitar el acceso a educación superior mediante convenios para becas, crear un Instituto Tecnológico Municipal con talleres de oficios e implementar bibliotecas con internet.",
+            "goal": "Crear el Instituto Tecnológico Municipal y establecer convenios que otorguen becas y facilidades académicas a los jóvenes del distrito.",
+            "indicator": "Número de convenios firmados con universidades e institutos. Número de jóvenes inscritos en el Instituto Tecnológico Municipal. Número de bibliotecas implementadas."
+          },
+          {
+            "problem": "La inseguridad alimentaria y nutricional afecta a familias en extrema pobreza y a niños en colegios estatales.",
+            "objective": "Crear el Comedor Popular Municipal e implementar el programa \"Desayuno Municipal\" para niños en situación de vulnerabilidad nutricional.",
+            "goal": "Implementar un comedor municipal y un programa de desayunos para atender a la población en situación de extrema pobreza y vulnerabilidad.",
+            "indicator": "Número de familias atendidas en el Comedor Popular Municipal. Número de niños beneficiados con el programa de desayuno."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El caos vehicular y la informalidad del transporte menor, con mototaxistas operando sin SOAT, placa ni licencia, generan inseguridad y congestión.",
+            "objective": "Formalizar y empadronar de manera obligatoria a los mototaxistas, exigiendo SOAT, placa y número de identificación visible, y desarrollar una aplicación móvil de transporte.",
+            "goal": "Lograr que ninguna unidad de mototaxi opere al margen de la ley, mediante un empadronamiento obligatorio con plazos definidos.",
+            "indicator": "Porcentaje de mototaxistas empadronados y formalizados. Número de descargas y viajes realizados a través de la aplicación móvil."
+          },
+          {
+            "problem": "La informalidad domina el tejido económico local, con la mayoría de pequeños emprendedores operando sin licencias, capacitación ni acceso a crédito formal.",
+            "objective": "Formalizar a los comerciantes ambulantes mediante cronogramas de regularización, crear un programa de crédito municipal y desarrollar programas de alfabetización productiva.",
+            "goal": "Implementar un programa de crédito municipal en convenio con entidades financieras locales y un cronograma de regularización para comerciantes.",
+            "indicator": "Número de comerciantes formalizados. Monto total de créditos otorgados a pequeños emprendedores. Número de personas capacitadas en talleres productivos."
+          },
+          {
+            "problem": "Falta de fomento a la inversión privada y escasa asesoría a jóvenes emprendedores para la formación de micro y pequeñas empresas (MYPES).",
+            "objective": "Fomentar la inversión privada simplificando trámites de licencias y proporcionar asesoría a jóvenes emprendedores para la formación de MYPES y la generación de empleo.",
+            "goal": "Simplificar los trámites para la obtención de licencias y crear un programa de asesoría para la formalización de MYPES, atrayendo inversión al distrito.",
+            "indicator": "Número de nuevas licencias de funcionamiento emitidas. Número de MYPES creadas con asesoría municipal. Tasa de crecimiento del empleo formal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de residuos sólidos debido a un deficiente servicio de recojo, convirtiendo calles y espacios públicos en botaderos informales.",
+            "objective": "Ampliar la flota de recojo de residuos con horarios fijos por sector y desarrollar un programa de educación ambiental en colegios y medios locales.",
+            "goal": "Garantizar la cobertura del servicio de recojo de residuos sólidos en los 17 sectores del distrito.",
+            "indicator": "Porcentaje de cobertura del servicio de recojo de residuos. Frecuencia del recojo por sector. Número de campañas de educación ambiental realizadas."
+          },
+          {
+            "problem": "Escasez de áreas verdes en sectores periféricos y contaminación del Río Chillón.",
+            "objective": "Implementar el programa \"Puente Piedra Verde\" para la siembra masiva de árboles y plantas, y establecer un Vivero Municipal para la producción sostenida de plantas y reforestación.",
+            "goal": "Establecer un Vivero Municipal cerca del Río Chillón para la producción de plantas ornamentales y de reforestación.",
+            "indicator": "Número de árboles y plantas sembrados. Hectáreas de riberas del río reforestadas. Capacidad de producción anual del Vivero Municipal."
+          },
+          {
+            "problem": "Uso de agroquímicos sin control ni fiscalización municipal en zonas agrícolas, representando un riesgo directo para la salud y el medio ambiente.",
+            "objective": "Establecer convenios con SENASA, MINAM y DIGESA para el control y fiscalización del uso de agroquímicos, y promover técnicas de cultivo sin agroquímicos.",
+            "goal": "Aprobar una ordenanza municipal que regule, fiscalice y sancione el uso indebido de agroquímicos en las áreas de cultivo del distrito.",
+            "indicator": "Número de operativos de fiscalización realizados. Número de agricultores capacitados en agricultura limpia. Aprobación de la ordenanza municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Profunda desconfianza ciudadana hacia la municipalidad, resultado de años de gestiones opacas, contratos irregulares y recursos mal utilizados.",
+            "objective": "Implementar un portal de transparencia municipal, realizar rendiciones de cuentas públicas semestrales y crear la Contraloría Ciudadana para fiscalizar obras.",
+            "goal": "Realizar una rendición de cuentas pública semestral con participación abierta de los vecinos en cada zona del distrito.",
+            "indicator": "Nivel de ejecución presupuestal publicado en tiempo real. Número de asambleas de rendición de cuentas realizadas. Número de comités de Contraloría Ciudadana activos."
+          },
+          {
+            "problem": "La inseguridad es la principal preocupación ciudadana, con un servicio de Serenazgo centralizado y sin cobertura efectiva en sectores alejados.",
+            "objective": "Descentralizar el patrullaje del Serenazgo a los 17 sectores, equiparlos con armas no letales autorizadas e implementar una central de videovigilancia con reconocimiento facial.",
+            "goal": "Establecer un sistema de patrullaje motorizado permanente en los 17 sectores del distrito, con presencia efectiva durante el día y la noche.",
+            "indicator": "Tiempo de respuesta del Serenazgo ante emergencias. Reducción de la tasa de victimización. Número de cámaras de videovigilancia operativas."
+          },
+          {
+            "problem": "Contratación de personal municipal basada en favoritismo y no en criterios de mérito y capacidad, lo que afecta la calidad del servicio público.",
+            "objective": "Realizar la contratación de personal municipal estrictamente por mérito y capacidad, a través de procesos de selección transparentes y concursos públicos obligatorios.",
+            "goal": "Eliminar el favoritismo y las contrataciones a dedo, garantizando que todo el personal sea seleccionado por mérito a través de concursos públicos.",
+            "indicator": "Porcentaje de personal contratado mediante concurso público. Número de gerencias con personal técnico idóneo."
+          },
+          {
+            "problem": "Falta de modernización y transformación digital en la gestión municipal, lo que dificulta trámites, fomenta la corrupción y aleja al municipio del ciudadano.",
+            "objective": "Desarrollar una aplicación móvil municipal, digitalizar trámites como licencias y pagos, y publicar información de gastos y contratos en un portal web de transparencia.",
+            "goal": "Desarrollar la App Municipal \"Puente Piedra Conectado\" para trámites en línea, denuncias ciudadanas, seguimiento de obras y alertas de emergencia.",
+            "indicator": "Número de trámites disponibles en línea. Porcentaje de reducción del tiempo para realizar trámites. Nivel de satisfacción ciudadana con los servicios digitales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-XoZiUQG1vgRg1d5ErD0t9JdF7TSWUhec",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/XoZiUQG1vgRg1d5ErD0t9JdF7TSWUhec",
+      "sha256": "90d32316c575fdfc7fc06d186b91c06d078908f451524379b6f3be15c079247e",
+      "accessedAt": "2026-10-02T23:01:04.096Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015566",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015566",
+      "sha256": "2c5cd4c36337d5c5b1178fcacd378e3f56d79450df13e00e9ecc13904bc514b6",
+      "accessedAt": "2026-10-02T23:01:04.579Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

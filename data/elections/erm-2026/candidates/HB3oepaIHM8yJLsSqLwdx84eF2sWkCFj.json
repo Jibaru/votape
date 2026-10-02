@@ -1,0 +1,340 @@
+{
+  "id": "HB3oepaIHM8yJLsSqLwdx84eF2sWkCFj",
+  "slug": "hector-joaquin-alejandro-bustamante",
+  "electionId": "erm-2026",
+  "name": "Hector Joaquin Alejandro Bustamante",
+  "givenNames": "Hector Joaquin",
+  "surnames": "Alejandro Bustamante",
+  "age": 35,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:23.204Z",
+      "sourceId": "jne-hv-HB3oepaIHM8yJLsSqLwdx84eF2sWkCFj"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional del Callao",
+        "program": "INGENIERO INDUSTRIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional del Callao",
+        "program": "BACHILLER EN INGENIERIA INDUSTRIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "HECTOR JOAQUIN ALEJANDRO BUSTAMENTE",
+      "role": "ADMINISTRADOR DE BIENES",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    },
+    {
+      "party": "PERU MODERNO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 540538,
+        "public": 0,
+        "private": 540538
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10307,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10316,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19195,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 6131,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10488,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 622,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 6049,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 5674,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES ALEBUS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 6880,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5ef05785-1916-4bbe-8713-1784f5e4e750.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7bbbd109-52b1-4a07-a1b8-870bce7fa80c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Existencia de alto índice de robo, asalto, agresión con armas y otras actividades delictivas.",
+            "objective": "Ampliación y mejoramiento del servicio de Seguridad Ciudadana, priorizando puntos críticos. A través del incremento del número de serenos existentes; asimismo, se hará uso de Tecnologías de la información y la comunicación (TICs) e inteligencia artificial para el reconocimiento facial de los delincuentes.",
+            "goal": "Incrementar el número de serenos existentes para cumplir con las demandas de la población.",
+            "indicator": "Número de serenos activos existentes"
+          },
+          {
+            "problem": "Deficiente promoción del deporte e insuficientes espacios de recreación y para practicar deportes.",
+            "objective": "Promover el deporte a todo nivel como una forma de integrar a la familia y llenar los tiempos libres de los jóvenes y de la familia con la construcción de polideportivos convencionales y especializados.",
+            "goal": "Construcción de polideportivos convencionales (fútbol, vóley y básquet), polideportivos para personas con habilidades especiales, polideportivo de patinaje, polideportivo para artes marciales (karate, taekwondo, judo y otros), así como para ajedrez y similares.",
+            "indicator": "Número de polideportivos y parques"
+          },
+          {
+            "problem": "Funcionamiento de infraestructura deportiva en estado inadecuado.",
+            "objective": "En el primer año de gestión se realizará el mantenimiento general y relanzamiento de todos los polideportivos existentes del distrito.",
+            "goal": "Antes de terminar el primer año de gestión, el 100% de los polideportivos existentes estarán en estado adecuado.",
+            "indicator": "% de polideportivos en estado adecuado"
+          },
+          {
+            "problem": "Inexistencia de espacios para la difusión de las manifestaciones culturales.",
+            "objective": "Crear el parque de la Danza.",
+            "goal": "Creación del parque de la danza.",
+            "indicator": "Número de parques de la danza"
+          },
+          {
+            "problem": "Muchos jóvenes no están debidamente preparados para los exámenes de admisión a centros de educación superior y universitaria.",
+            "objective": "Implementar academias Municipales Pre-Universitarias a costo social.",
+            "goal": "Implementar academias municipales en distintas zonas del distrito.",
+            "indicator": "N° de academias implementadas"
+          },
+          {
+            "problem": "Miles de ciudadanos no cuentan con acceso a agua potable y alcantarillado.",
+            "objective": "Liderar y gestionar la elaboración de expedientes técnicos y ejecución de obras de agua potable y alcantarillado.",
+            "goal": "Menos del 3% de la población con acceso a agua potable y alcantarillado.",
+            "indicator": "% de ciudadanos sin acceso a agua potable"
+          },
+          {
+            "problem": "Cientos de vecinos no cuentan con accesos adecuados a sus asentamientos humanos.",
+            "objective": "Construcción de escaleras.",
+            "goal": "Creación de escaleras en asentamientos humanos.",
+            "indicator": "Número de escaleras"
+          },
+          {
+            "problem": "Miles de ciudadanos no cuentan con el ingreso económico suficiente para velar y/o enterrar a sus difuntos.",
+            "objective": "Creación del Velatorio Municipal.",
+            "goal": "Creación del Velatorio Municipal antes del 2030.",
+            "indicator": "Infraestructura"
+          },
+          {
+            "problem": "Insuficientes espacios para la juventud y su desarrollo vocacional.",
+            "objective": "Implementación de la casa de la juventud.",
+            "goal": "Implementación de la casa de la juventud.",
+            "indicator": "Infraestructura"
+          },
+          {
+            "problem": "Las postas médicas del distrito cuentan con infraestructura precaria e insuficiente.",
+            "objective": "Gestionar la construcción y/o mejoramiento de la infraestructura de todos los centros de salud de atención primaria.",
+            "goal": "El 100% de la infraestructura de los centros de salud de atención primaria en óptimas condiciones.",
+            "indicator": "% de Infraestructura"
+          },
+          {
+            "problem": "Insuficiente infraestructura educativa para la población del distrito.",
+            "objective": "Creación y mejoramiento de la infraestructura educativa.",
+            "goal": "Mantenimiento de las infraestructuras educativas.",
+            "indicator": "Infraestructura"
+          },
+          {
+            "problem": "Existencia de peligros geológicos, con más de 100 movimientos de masa registrados en el año 2020.",
+            "objective": "Creación de muros de contención.",
+            "goal": "Creación de muros de contención.",
+            "indicator": "Número de muros de construcción implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Incremento de negocios en la informalidad.",
+            "objective": "Promover la formalización progresiva de los emprendedores a través de facilidades que otorgará la Municipalidad.",
+            "goal": "Identificar la totalidad de los informales e incorporar no menos del 20% al campo formal.",
+            "indicator": "% de emprendedores formalizados"
+          },
+          {
+            "problem": "Alto porcentaje de ciudadanos desempleados.",
+            "objective": "Creación del Centro de Capacitación y entrenamiento Empresarial de SAN JUAN DE LURIGANCHO.",
+            "goal": "Lograr capacitación al menos al 25% de ciudadanos desempleados del distrito.",
+            "indicator": "% de emprendedores capacitados"
+          },
+          {
+            "problem": "Cientos de comerciantes diariamente salen a otros distritos de la capital a buscar productos marinos.",
+            "objective": "Gestionar la creación del Terminal Pesquero a través de inversión pública-privada.",
+            "goal": "Gestionar la creación de un terminal pesquero antes del año 2030.",
+            "indicator": "Infraestructura"
+          },
+          {
+            "problem": "Dificultades en el otorgamiento de Licencias de Funcionamiento.",
+            "objective": "Flexibilizar normas para otorgar Licencias de Funcionamiento.",
+            "goal": "Otorgar Licencias en 24 horas a los pequeños negocios, cuando cumpla en adjuntar requisitos previstos en el TUPA.",
+            "indicator": "Horas de trámite de licencia de funcionamiento"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente servicio de recolección de residuos sólidos municipales; cobertura actual es igual al 97%.",
+            "objective": "Implementar un proyecto de inversión pública para la ampliación y mejoramiento del servicio de recolección de residuos sólidos municipales.",
+            "goal": "Ampliar al 100% la cobertura adecuada del servicio de recolección de residuos sólidos municipales.",
+            "indicator": "% de población que recibe un servicio de recolección de residuos sólidos de forma adecuada."
+          },
+          {
+            "problem": "El manejo de los residuos sólidos no está regulado ni reglamentado a nivel local.",
+            "objective": "Formular una ordenanza que regula la gestión integral de los residuos sólidos en el distrito de San Juan de Lurigancho, acorde con la normativa nacional e internacional.",
+            "goal": "Aprobar en el primer año una ordenanza que regula la gestión integral de los residuos sólidos en el distrito de San Juan de Lurigancho.",
+            "indicator": "Número de ordenanzas actualizadas en materia de residuos sólidos."
+          },
+          {
+            "problem": "Insuficiente servicio de barrido de calles y limpieza de espacios públicos; cobertura actual menor al 30%.",
+            "objective": "Mejorar la calidad y ampliar la cobertura del servicio de barrido de calles y limpieza de espacios públicos, a través de la adquisición de equipamiento estratégico.",
+            "goal": "Ampliar al 60% la cobertura adecuada del servicio de barrido de calles y limpieza de espacios públicos.",
+            "indicator": "% de cobertura del servicio"
+          },
+          {
+            "problem": "Deficiente e insuficiente valorización de residuos sólidos municipales; actualmente menor al 3% de los residuos sólidos se valorizan.",
+            "objective": "Implementar una planta de valorización de residuos sólidos municipales, considerando los altos estándares y la tecnología moderna para la industrialización de los residuos sólidos.",
+            "goal": "Valorizar el 15% de residuos sólidos generados.",
+            "indicator": "% de residuos sólidos valorizados."
+          },
+          {
+            "problem": "Insuficientes áreas verdes para la población del distrito de San Juan de Lurigancho.",
+            "objective": "Incrementar las áreas verdes de la jurisdicción a través de la reforestación denominada 'Eco Verde', y a través de la implementación de plantas de tratamiento de aguas residuales para el riego.",
+            "goal": "Mejorar las áreas verdes.",
+            "indicator": "m2 de áreas verdes por habitante"
+          },
+          {
+            "problem": "Descontrolada contaminación sonora en distintos sectores de la jurisdicción.",
+            "objective": "Implementar una eficiente fiscalización ambiental para el control sonoro.",
+            "goal": "Reducir al mínimo el porcentaje de insatisfacción de la población respecto al nivel de ruido.",
+            "indicator": "% de población insatisfecho con el nivel de ruido."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de corrupción generalizada en la Municipalidad de San Juan de Lurigancho.",
+            "objective": "Erradicar todo tipo de corrupción de la Municipalidad de San Juan de Lurigancho.",
+            "goal": "Desde el primer año de gestión, lograr cero corrupciones aplicando medidas drásticas al personal que se preste a estos hechos delincuenciales.",
+            "indicator": "Casos de corrupción."
+          },
+          {
+            "problem": "Falta de capacitación adecuada en el personal administrativo de la Municipalidad de San Juan de Lurigancho.",
+            "objective": "Capacitar adecuadamente a todo el personal de la Municipalidad de San Juan de Lurigancho, para brindar un óptimo servicio al administrado.",
+            "goal": "Al segundo año de gestión, el 100% del personal deberá haber sido capacitado necesariamente para asumir sus funciones.",
+            "indicator": "% de servidores capacitados."
+          },
+          {
+            "problem": "Instrumentos de gestión municipal desactualizados y deficientes.",
+            "objective": "Actualizar los instrumentos de gestión municipal (ROF, CAP, MOF, POI, TUPA y otros).",
+            "goal": "Actualizar el 100% de los instrumentos de gestión.",
+            "indicator": "% de instrumentos de gestión actualizados"
+          },
+          {
+            "problem": "Falta de transparencia de la gestión municipal.",
+            "objective": "Transmitir en los medios oficiales de la Entidad las sesiones del Concejo Municipal.",
+            "goal": "Transmitir el 100% de las sesiones del Concejo Municipal.",
+            "indicator": "% de Sesiones transmitidas."
+          },
+          {
+            "problem": "Baja eficacia de la gestión municipal.",
+            "objective": "Implementar el gobierno digital o electrónico integral.",
+            "goal": "Que el ciudadano obtenga el acceso a los servicios de manera inmediata, a través de la consolidación de un estado abierto y transparente.",
+            "indicator": "% de alcance"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-HB3oepaIHM8yJLsSqLwdx84eF2sWkCFj",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/HB3oepaIHM8yJLsSqLwdx84eF2sWkCFj",
+      "sha256": "fd88d5fc4830b99fa7cce66b83f3ec056aacd5ab814c4e276f217dc1e9a7870c",
+      "accessedAt": "2026-10-02T23:03:23.204Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026011723",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026011723",
+      "sha256": "98e8f4647fa4df1f1514858ff18dfb3cd1ea3f00f41df8829223ba2edb81bf88",
+      "accessedAt": "2026-10-02T23:03:23.694Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

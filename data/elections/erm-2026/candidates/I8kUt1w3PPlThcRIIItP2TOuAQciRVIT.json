@@ -1,0 +1,230 @@
+{
+  "id": "I8kUt1w3PPlThcRIIItP2TOuAQciRVIT",
+  "slug": "gardo-antonio-gomez-jimenez",
+  "electionId": "erm-2026",
+  "name": "Gardo Antonio Gomez Jimenez",
+  "givenNames": "Gardo Antonio",
+  "surnames": "Gomez Jimenez",
+  "age": 60,
+  "gender": "Masculino",
+  "party": {
+    "id": 2985,
+    "name": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:09.534Z",
+      "sourceId": "jne-hv-I8kUt1w3PPlThcRIIItP2TOuAQciRVIT"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Escuela de Oficiales de la Fuerza Aérea del Perú",
+        "program": "BACHILLER EN CIENCIAS DE LA ADMINISTRACION AEROESPACIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2009"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Esc. Sup. de Guerra Aérea - ESFAP",
+        "program": "Adm. en Ciencias Aeroesp.",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINDEF - Fuerza Aerea del Perú",
+      "role": "Coronel (R)",
+      "from": "1989",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "FUNDADOR",
+      "party": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+      "from": "2023",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "SECRETARÍA NACIONAL DE ORGANIZACIÓN",
+      "party": "PARTIDO POLITICO INTEGRIDAD DEMOCRATICA",
+      "from": "2023",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 101560,
+        "public": 101560,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "VIVIENDA",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DEPART.",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VW ESC.",
+        "value": 15000
+      },
+      {
+        "type": "CHEVROLET",
+        "value": 35000
+      },
+      {
+        "type": "HONDA",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/7f2502cc-7985-4b0f-b5c8-dda2d01982bf.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/9768daf3-de2e-46f4-8f37-0bd34de1a26e.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Fragmentación y saturación en el acceso al primer nivel de atención de salud médica para familias residentes en sectores vulnerables.",
+            "objective": "Construir e implementar centros de salud municipales de atención primaria descentralizada denominados \"Clínica de la Familia\".",
+            "goal": "Al 2030, se implementa y pone en funcionamiento 1 red descentralizada de Clínicas de la Familia en los sectores de mayor demanda.",
+            "indicator": "Número de policlínicos municipales \"Clínica de la Familia\" operativos bajo convenios con MINSA/ESSALUD."
+          },
+          {
+            "problem": "Alta incidencia de delitos patrimoniales, robos al paso y extorsión por venta informal de chips telefónicos en puntos críticos del distrito.",
+            "objective": "Implementar el plan \"Surco Seguro por Cuadrantes\" articulando Serenazgo, PNP y patrullaje integrado con soporte aéreo de drones.",
+            "goal": "Al 2030, el 100% de los cuadrantes operativos del distrito cuentan con patrullaje integrado dinámico y vigilancia aérea coordinada con la PNP.",
+            "indicator": "Porcentaje de cuadrantes urbanos del distrito vigilados con patrullaje integrado y soporte tecnológico de drones."
+          },
+          {
+            "problem": "Existencia de barreras físicas e infraestructura vial urbana inadecuada para el libre tránsito de personas con discapacidad y adultos mayores.",
+            "objective": "Ejecutar un plan distrital de adecuación de vías públicas y espacios comunes para garantizar la accesibilidad universal.",
+            "goal": "Al 2030, el 100% de las veredas y accesos a espacios públicos del distrito cuentan con infraestructura de accesibilidad universal libre de barreras.",
+            "indicator": "Porcentaje de rampas, cruces peatonales y accesos principales de plazas públicas adecuados técnicamente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Estrangulamiento de los flujos de tránsito interdistrital en intersecciones mayores por falta de infraestructura vial segregada.",
+            "objective": "Gestionar y cofinanciar con la MML y el Gobierno Central la construcción de pasos a desnivel (by-passes) en Angamos y Benavides.",
+            "goal": "Al 2030, se concreta la gestión y el inicio de obra de 2 nuevos corredores rápidos con pasos a desnivel en los ejes de Av. Angamos y Av. Benavides.",
+            "indicator": "Número de corredores viales rápidos con intercambios o pasos a desnivel de escala mayor gestionados e intervenidos."
+          },
+          {
+            "problem": "Congestión vehicular extrema y prolongados tiempos de viaje en avenidas principales debido a la falta de semaforización coordinada.",
+            "objective": "Implementar un sistema automatizado de Semáforos Inteligentes programados bajo el diseño dinámico de \"Ola Verde\".",
+            "goal": "Al 2030, el 100% de los ejes viales críticos (Caminos del Inca, Velasco Astete, Benavides) operan con sincronización inteligente en Ola Verde.",
+            "indicator": "Porcentaje de avenidas principales metropolitanas del distrito interconectadas con semáforos inteligentes centralizados."
+          },
+          {
+            "problem": "Informalidad, desorden y riesgos de seguridad asociados al servicio de transporte en vehículos menores (mototaxis) en sectores residenciales.",
+            "objective": "Regular mediante empadronamiento digital y sustituir progresivamente unidades menores por transporte colectivo de alta calidad.",
+            "goal": "Al 2030, el 100% de mototaxis están formalizadas digitalmente y se han activado unidades colectivas en 3 sectores piloto (1, 2 y 7).",
+            "indicator": "Porcentaje de sectores del distrito con planes piloto de movilidad interna y unidades de transporte colectivo reguladas operando."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alto costo presupuestal y desperdicio ambiental debido al riego de áreas verdes con agua potable mediante camiones cisterna privados contratados.",
+            "objective": "Desarrollar el Programa Yakunchik para tecnificar el riego de parques al 100% utilizando aguas de canales y plantas de tratamiento.",
+            "goal": "Al 2030, el 100% de los parques del distrito se irrigan con agua tratada residual o de canales, logrando reducir a 0% la contratación de cisternas privadas.",
+            "indicator": "Porcentaje de parques del distrito irrigados con sistemas tecnificados (aspersión/goteo) empleando agua no potable tratada."
+          },
+          {
+            "problem": "Inundaciones viales por aniegos y falta de infraestructura urbana apta para la escorrentía superficial de lluvias dentro del territorio urbano.",
+            "objective": "Diseñar e instalar un Sistema Inteligente de Drenaje Urbano y Gestión Hídrica combinando pavimentos permeables e infraestructura verde.",
+            "goal": "Al 2030, se erradican los aniegos viales mediante la instalación de sistemas de drenaje inteligente en el 100% de los puntos críticos mapeados.",
+            "indicator": "Número de puntos críticos de acumulación de escorrentías viales intervenidos con sistemas de drenaje inteligente urbano."
+          },
+          {
+            "problem": "Puntos críticos de acumulación de residuos, malos olores en condominios y baja tasa de valorización en la planta industrial de reciclaje.",
+            "objective": "Implementar sistemas de contenedores soterrados por sectores y tecnologías de refrigeración por gas ozono (O3) en multifamiliares.",
+            "goal": "Al 2030, se logra la instalación de contenedores soterrados e inyección de gas ozono en el 100% de los sectores urbanos definidos.",
+            "indicator": "Porcentaje de la red de disposición de residuos modernizada con contenedores soterrados y sistemas limpios de ozono."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitación de los espacios de participación ciudadana a plazos burocráticos mínimos y desvío de los fondos del Presupuesto Participativo.",
+            "objective": "Institucionalizar mesas subsectoriales extendidas mensuales con los presidentes de las juntas comunales y garantizar la ejecución de proyectos ganadores.",
+            "goal": "Al 2030, se alcanza el 100% de ejecución real de los proyectos del Presupuesto Participativo, prohibiendo por norma el desvío de sus fondos.",
+            "indicator": "Porcentaje de proyectos ganadores del Presupuesto Participativo ejecutados con expediente técnico aprobado en el año fiscal."
+          },
+          {
+            "problem": "Desactualización institucional y tecnológica en la Gestión del Riesgo de Desastres frente a amenazas estructurales y sísmicas.",
+            "objective": "Crear la Gerencia de Defensa Civil y GRD, desplegando el Gemelo Digital, un SIG-GRD y un Observatorio de Riesgos con sensores IoT.",
+            "goal": "Al 2030, el 100% del ecosistema Smart GRD (Gemelo Digital, SIG-GRD, Observatorio de Riesgos y red de sensores estructurales) se encuentra operativo.",
+            "indicator": "Porcentaje de avance e implementación de las herramientas de tecnología analítica y modelamiento territorial para GRD."
+          },
+          {
+            "problem": "Otorgamiento de licencias de edificación y aprobaciones urbanas sin evaluar de forma vinculante los peligros y mapas de vulnerabilidad.",
+            "objective": "Incorporar de forma obligatoria los resultados de los estudios ADR y EVAR en las licencias, habilitaciones y proyectos públicos.",
+            "goal": "Al 2030, el 100% de los procesos de planificación, licencias e inversiones públicas del distrito incorporan de manera vinculante los análisis de riesgo.",
+            "indicator": "Porcentaje de licencias de edificación, proyectos públicos y habilitaciones urbanas que se emiten contando con la validación de ADR/EVAR."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-I8kUt1w3PPlThcRIIItP2TOuAQciRVIT",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/I8kUt1w3PPlThcRIIItP2TOuAQciRVIT",
+      "sha256": "5b78be8735a95df8ac3303fa255397be3a9a2565849e38ad2c75f63dbabe9b35",
+      "accessedAt": "2026-10-02T23:06:09.534Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022018",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022018",
+      "sha256": "280112f328bf94781f788b01bb9259960a6a81a146977c878431dd29069500d2",
+      "accessedAt": "2026-10-02T23:06:10.064Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

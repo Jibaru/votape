@@ -1,0 +1,236 @@
+{
+  "id": "e0jEe-ssOPBX-EcDWhHYpvNrNRgw-vtZ",
+  "slug": "rique-danny-aguilar-quispe",
+  "electionId": "erm-2026",
+  "name": "Rique Danny Aguilar Quispe",
+  "givenNames": "Rique Danny",
+  "surnames": "Aguilar Quispe",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:26.480Z",
+      "sourceId": "jne-hv-e0jEe-ssOPBX-EcDWhHYpvNrNRgw-vtZ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DEL CALLAO",
+        "program": "LICENCIADO EN ADMINISTRACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CERTUS",
+      "role": "DOCENTE",
+      "from": "2018",
+      "to": "2026"
+    },
+    {
+      "employer": "COOPERATIVA DE SERVICIOS MULTIPLES Y ASISTENCIAS COOPCREAS",
+      "role": "GERENTE",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE POZUSO",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "MINISTERIO DE ECONOMIA Y FINANZAS",
+      "role": "ANALISTA DE ASESORIA TECNICA",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "POLICIA NACIONAL DEL PERU",
+      "role": "PRESTADOR DE SERVICIO EN CONTROL",
+      "from": "2021",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU MODERNO",
+      "year": "2026"
+    },
+    {
+      "party": "PARTIDO NACIONALISTA PERUANO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 82250.18,
+        "public": 31700,
+        "private": 50550.18
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ddfab76f-b017-475b-b628-4c6bffb95228.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cb86097e-6cf0-440f-8341-d1be9fb454f0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la inseguridad ciudadana y baja ejecución presupuestal en la materia, que ha caído al 31%.",
+            "objective": "Reducir la inseguridad ciudadana, instalando un centro de monitoreo con 100 cámaras y garantizando una ejecución presupuestal superior al 85% en seguridad.",
+            "goal": "Reducir los robos en un 30% al año 2028.",
+            "indicator": "Reducción de robos (denuncias)."
+          },
+          {
+            "problem": "Programas sociales con ejecución desplomada en 2026, afectando a adultos mayores (12%), niños (21%) y la lucha contra la anemia (28%).",
+            "objective": "Reducir la anemia infantil en un 10% al año 2029, reactivar el CIAM y el CODAM para adultos mayores.",
+            "goal": "Reducir la anemia en niños en un 10% en 2 años.",
+            "indicator": "Porcentaje de niños de 6 a 35 meses con anemia."
+          },
+          {
+            "problem": "Las personas con discapacidad son invisibles para la municipalidad, con una OMAPED inactiva y sin presupuesto.",
+            "objective": "Fortalecer la OMAPED para atender a las personas con discapacidad, asignando presupuesto y personal capacitado.",
+            "goal": "Lograr que la OMAPED se encuentre activa y funcionando.",
+            "indicator": "OMAPED con presupuesto y personal."
+          },
+          {
+            "problem": "Servicio de agua potable deficiente, con baja presión, horarios restringidos y una deuda municipal superior a S/ 40 millones.",
+            "objective": "Constituir la EPS Comunal 'Aguas de Chaclacayo' y ampliar la cobertura de agua potable de calidad.",
+            "goal": "Ampliar la cobertura de agua potable con calidad del 89% al 95% al año 2029.",
+            "indicator": "Cobertura de agua potable con calidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El presupuesto para turismo es prácticamente inexistente, no hay señalización turística ni servicios organizados.",
+            "objective": "Lanzar la 'Ruta del Qhapaq' para incrementar el número de visitantes al distrito.",
+            "goal": "Incrementar en un 50% los visitantes al distrito.",
+            "indicator": "Visitantes al distrito (incremento)."
+          },
+          {
+            "problem": "Los emprendedores locales enfrentan barreras burocráticas para formalizarse y no se articulan con programas nacionales de apoyo.",
+            "objective": "Implementar la Ventanilla Única del Emprendedor para otorgar licencias de funcionamiento en 48 horas.",
+            "goal": "Otorgar 100 licencias acumuladas para el año 2028.",
+            "indicator": "Licencias otorgadas en 48h (acumulado)."
+          },
+          {
+            "problem": "Desarticulación con los programas nacionales de apoyo a las MYPE como ProInnóvate, PAE-MYPE, entre otros.",
+            "objective": "Articular con los programas del MEF y PRODUCE para captar fondos para MYPE.",
+            "goal": "Captar S/ 1 millón de fondos acumulados para el año 2030.",
+            "indicator": "Fondos ProInnóvate captados (acumulado)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Quebradas Huascarán y Cuadro se encuentran sin limpieza anual, lo que provocó huaycos en 2017 y 2024.",
+            "objective": "Implementar un sistema de alerta temprana y limpiar anualmente las quebradas Huascarán y Cuadro antes del 30 de noviembre.",
+            "goal": "Limpiar anualmente 2 quebradas (Huascarán y Cuadro).",
+            "indicator": "Quebradas limpiadas anualmente."
+          },
+          {
+            "problem": "Manejo deficiente de residuos sólidos, cuyo gasto se duplicó en tres años sin mejora en el servicio.",
+            "objective": "Implementar un Plan de Rutas con GPS para el monitoreo de los camiones de basura y construir una planta de compostaje.",
+            "goal": "Optimizar el servicio, ofreciendo una mejor prestación con el mismo o menor costo.",
+            "indicator": "Gasto en residuos sólidos."
+          },
+          {
+            "problem": "El alumbrado público es deficiente, existiendo calles en oscuridad total que propician la delincuencia.",
+            "objective": "Recuperar el alumbrado público en el 100% de las calles al año 2027, mediante la reparación o reemplazo con tecnología LED.",
+            "goal": "Alcanzar el 100% de calles con alumbrado público funcionando.",
+            "indicator": "Porcentaje de calles con alumbrado público funcionando."
+          },
+          {
+            "problem": "Saturación de cables aéreos en las calles, los cuales en su mayoría se encuentran en desuso y generan riesgo.",
+            "objective": "Aprobar una ordenanza que obligue a las empresas a retirar cables en desuso en 90 días.",
+            "goal": "Lograr el 0% de calles con cables retirados para el año 2028.",
+            "indicator": "Porcentaje de calles con saturación de cables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El distrito no recibe el máximo del Plan de Incentivos, habiendo perdido más de 1.6 millones de soles por incapacidad de gestión.",
+            "objective": "Alcanzar el nivel máximo del Plan de Incentivos Municipales (PI) al año 2028.",
+            "goal": "Obtener S/ 2 millones anuales por el Plan de Incentivos para el 2028.",
+            "indicator": "Ingresos por Plan de Incentivos."
+          },
+          {
+            "problem": "La ejecución presupuestal es inconsistente, con un promedio histórico de aproximadamente 75%.",
+            "objective": "Mejorar la ejecución presupuestal en todas las gerencias de la municipalidad.",
+            "goal": "Alcanzar una ejecución presupuestal anual superior al 90%.",
+            "indicator": "Porcentaje de ejecución presupuestal."
+          },
+          {
+            "problem": "El 40% del gasto histórico se encuentra en el código 'SIN PRODUCTO' sin un respaldo claro.",
+            "objective": "Reducir el uso del código presupuestal 3999999 a menos del 10% del gasto total, con cada registro debidamente respaldado.",
+            "goal": "Menos del 10% del gasto con respaldo documentario.",
+            "indicator": "Uso del código 3999999."
+          },
+          {
+            "problem": "Limitada transparencia y acceso a la información pública, con un portal de transparencia que funciona como un adorno.",
+            "objective": "Fortalecer la transparencia y la participación ciudadana, publicando todos los contratos y permitiendo veedurías ciudadanas.",
+            "goal": "Realizar la actualización semanal del portal de transparencia.",
+            "indicator": "Portal de Transparencia Activa."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-e0jEe-ssOPBX-EcDWhHYpvNrNRgw-vtZ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/e0jEe-ssOPBX-EcDWhHYpvNrNRgw-vtZ",
+      "sha256": "6d87b19399b3b4362ae8dc994642ac1a98dc8497e9cfcfdaecab4c2b909df81d",
+      "accessedAt": "2026-10-02T22:53:26.480Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023041",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023041",
+      "sha256": "300f132efd1ecc1c4f78a9206c8eda6fb0705151d6a38d4764ab441d19c2dc37",
+      "accessedAt": "2026-10-02T22:53:26.959Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

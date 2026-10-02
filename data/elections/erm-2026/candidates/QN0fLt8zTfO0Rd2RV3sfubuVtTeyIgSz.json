@@ -1,0 +1,244 @@
+{
+  "id": "QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz",
+  "slug": "jose-ruben-delgado-heredia",
+  "electionId": "erm-2026",
+  "name": "Jose Ruben Delgado Heredia",
+  "givenNames": "Jose Ruben",
+  "surnames": "Delgado Heredia",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 2924,
+    "name": "PERU MODERNO"
+  },
+  "jurisdictionId": "140121",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:52.080Z",
+      "sourceId": "jne-hv-QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ANDRE VESALIO",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias e Informática S.A.C.",
+        "program": "Bachiller en Derecho",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Empresa de Transporte Turismo El Marquez SA",
+      "role": "Gerente General",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Asociación del AA.HH. Programa Municipal de Vivienda Costa Azul",
+      "role": "Secretario General",
+      "from": "2011",
+      "to": "2019"
+    },
+    {
+      "employer": "Empresa Múltiples Solimar Sociedad Anónima Cerrada",
+      "role": "Gerente General",
+      "from": "2009",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "REPRESENTANTE LEGAL",
+      "party": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+      "from": "2009",
+      "to": "2011"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+      "from": "2009",
+      "to": "2011"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "LISTA INDEPENDIENTE MODERNICEMOS PUNTA NEGRA",
+      "year": "2011"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 23160,
+        "public": 0,
+        "private": 23160
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "Casa",
+        "value": 22335.9,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Partida Registral N° 53314812",
+        "value": 28000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Múltiples Solimar S.A.C",
+        "type": "ACCIONES",
+        "quantity": 999,
+        "value": 49950
+      },
+      {
+        "company": "Transporte Turismo El Marquez S.A",
+        "type": "ACCIONES",
+        "quantity": 49571,
+        "value": 247855
+      },
+      {
+        "company": "E.T.T.M. Novedades Miramar S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 999,
+        "value": 49950
+      },
+      {
+        "company": "El Trono del Ave S.A.C",
+        "type": "ACCIONES",
+        "quantity": 25000,
+        "value": 250000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "EL INGRESO ECONÓMICO DECLARADO DEL AÑO 2025 PROVENIENTE DEL SECTOR PRIVADO ES POR REPRESENTAR EN EL CARGO DE GERENTE EN LA EMPRESA DE TRANSPORTE TURISMO EL MARQUEZ S.A"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/636514ef-1b82-4f2a-9e7d-5c64acca9230.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b214737e-bcd6-4cd3-8b94-f4ee50f417f0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Existen problemas generales de satisfacción del derecho a la salud y desnutrición, generalizados en poblaciones marginales.",
+            "objective": "Desplegar una política de desarrollo humano integral que permita mejorar el nivel económico de las familias y garantizar la satisfacción de las necesidades primarias (salud, educación y protección social). La estrategia priorizará el abastecimiento ininterrumpido de programas alimentarios y la creación de infraestructura de servicios básicos mediante convenios interinstitucionales.",
+            "goal": "Implementar y construir los locales de los Comedores Populares y del Vaso de Leche, así como ejecutar los procesos de contratación pública para el Programa de Complementación Alimentaria y el Programa del Vaso de Leche. Gestionar la implementación de sedes educativas superiores, una Farmacia Municipal y la creación de la \"Casa de la Mujer y el Adulto Mayor\". Recategorizar el Centro de Salud y gestionar la creación de un Centro Cultural.",
+            "indicator": "Porcentaje de ejecución presupuestal del Programa de Vaso de Leche y PCA; Número de convenios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "La actividad turística genera un impacto positivo solo en temporada de verano, ocasionando escasez de empleo en otras temporadas y ausencia de actividades económicas permanentes.",
+            "objective": "Fomentar el desarrollo económico local impulsando la micro y pequeña empresa y consolidando un turismo sostenido durante todo el año.",
+            "goal": "Elaborar el perfil y expediente técnico para obras en las playas Punta Rocas, La Pocita y Santa Rosa. Mejorar e implementar un mercado municipal de abastos. Dictar cursos productivos y de formación de empresas. Impulsar la pesca artesanal y a las asociaciones de emprendedores del distrito.",
+            "indicator": "Número de expedientes técnicos turísticos aprobados; Cantidad de MYPES locales formalizadas; Tasa de empleo local sostenido anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito se caracteriza por la falta de áreas verdes y la contaminación de agua, aire y suelo con mayor incidencia en zonas carentes de servicios básicos (agua y alcantarillado).",
+            "objective": "Garantizar el saneamiento básico, el ordenamiento territorial y la preservación del ecosistema marino y urbano del distrito.",
+            "goal": "Gestionar ante SEDAPAL la elaboración del expediente técnico para la ampliación de redes de agua, instalación de conexiones domiciliarias y alcantarillado. Brindar un mejor servicio de limpieza pública mediante la adquisición de contenedores de basura. Comprometer a la comunidad con actividades de reciclaje y gestionar la ejecución de un programa integral de pavimentación.",
+            "indicator": "Porcentaje de viviendas con acceso a red pública de agua y alcantarillado; Toneladas de residuos sólidos recolectados y reciclados; Metros cuadrados de áreas verdes recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La municipalidad tiene limitaciones de funciones en la formulación de expedientes técnicos que generan gastos innecesarios.",
+            "objective": "Generar una gestión municipal dinámica, transparente e independiente, mediante la formulación eficiente de proyectos y el fomento de la participación vecinal.",
+            "goal": "Adicionar dentro del reglamento de organización y funciones (ROF) la función de \"Formular y/o elaborar expedientes técnicos\". Elaborar el Plan de Desarrollo Local Concertado de Punta Negra con aportes de la sociedad civil. Gestionar convenios con organismos y entidades estatales para brindar asistencia técnica en el saneamiento físico-legal de los vecinos del distrito.",
+            "indicator": "Número de proyectos de inversión declarados viables, Porcentaje de cumplimiento del Plan de Desarrollo Local Concertado y Número de títulos de propiedad formalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-139374",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "2º Juzgado de Paz Letrado Familia Civil de Villa El Salvador",
+        "expediente": "00281-2015-0-3004-JP-FC-02",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz",
+      "sha256": "144ee0d73906ea5d4939af3f9c0ab14fdba4965d226f612e3e60b2a51dd55eb6",
+      "accessedAt": "2026-10-02T23:01:52.080Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026014650",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026014650",
+      "sha256": "ec53dcc26e2eba562dd896fdacd94161b42ab4a759723088062830c0a46cf76a",
+      "accessedAt": "2026-10-02T23:01:52.552Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

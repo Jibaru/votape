@@ -1,0 +1,380 @@
+{
+  "id": "9q2BJr5Rt9dTpt8vN7c-olxzqSF8pGBg",
+  "slug": "nerio-wilson-sanchez-quiroz",
+  "electionId": "erm-2026",
+  "name": "Nerio Wilson Sanchez Quiroz",
+  "givenNames": "Nerio Wilson",
+  "surnames": "Sanchez Quiroz",
+  "age": 79,
+  "gender": "Masculino",
+  "party": {
+    "id": 2924,
+    "name": "PERU MODERNO"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:23.153Z",
+      "sourceId": "jne-hv-9q2BJr5Rt9dTpt8vN7c-olxzqSF8pGBg"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD FEDERICO VILLAREAL",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1998"
+      },
+      {
+        "level": "universitaria",
+        "institution": "INKA GARCILASO DE LA VEGA",
+        "program": "LICENCIADO EN PSICOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1982"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONSULTOR LEGAL",
+      "role": "ABOGADO",
+      "from": "1999",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ACCION POPULAR",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO NACIONALISTA PERUANO",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 110748,
+        "public": 110748,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 4300,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 5,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 4300,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/240c468e-c18a-4850-aa2c-ba6a520c7933.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fe2002fa-860b-45b9-bf3c-533d2db1c356.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Desnutrición aguda y crónica infantil.",
+            "objective": "Erradicar la desnutrición infantil en el distrito.",
+            "goal": "Reducir la desnutrición crónica a menos del 5%.",
+            "indicator": "Tasa de desnutrición crónica en niños menores de 5 años."
+          },
+          {
+            "problem": "Baja calidad de la educación.",
+            "objective": "Mejorar la calidad educativa y recuperar los valores ciudadanos.",
+            "goal": "Lograr que el 80% de los colegios alcancen un nivel de logro satisfactorio.",
+            "indicator": "Porcentaje de colegios con nivel de logro satisfactorio; índice de valores ciudadanos."
+          },
+          {
+            "problem": "Presencia de poblaciones en situación vulnerable de riesgo y abandono moral y familiar.",
+            "objective": "Proteger a grupos vulnerables con programas de prevención y contención.",
+            "goal": "Atender a 20,000 personas vulnerables.",
+            "indicator": "Número de personas atendidas en programas de protección social."
+          },
+          {
+            "problem": "Porcentaje considerable de población en situación de pobreza.",
+            "objective": "Reducir la pobreza y promover el desarrollo social inclusivo.",
+            "goal": "Lograr que 10,000 hogares superen la situación de pobreza.",
+            "indicator": "Número de hogares que superan la situación de pobreza; cobertura de programas sociales."
+          },
+          {
+            "problem": "Alta sensación de inseguridad en la población.",
+            "objective": "Aumentar la percepción de seguridad de los habitantes de Comas.",
+            "goal": "Alcanzar un 75% de percepción de seguridad positiva.",
+            "indicator": "Porcentaje de población que se siente segura en su barrio."
+          },
+          {
+            "problem": "Inseguridad ciudadana que desalienta el desarrollo económico.",
+            "objective": "Garantizar seguridad ciudadana integral con participación vecinal.",
+            "goal": "Reducir los delitos en un 40%; contar con 50 comités activos y 2 casetas por zona.",
+            "indicator": "Tasa de delitos; número de comités de seguridad activos; cobertura de serenazgo."
+          },
+          {
+            "problem": "Baja calidad de las viviendas.",
+            "objective": "Construir viviendas seguras con apoyo municipal.",
+            "goal": "Construir 2,000 viviendas nuevas y certificar 3,000.",
+            "indicator": "Viviendas nuevas; certificaciones de seguridad."
+          },
+          {
+            "problem": "Bajo nivel de identidad distrital y local entre los jóvenes.",
+            "objective": "Fortalecer la identidad y el orgullo de ser comeño, especialmente en los jóvenes.",
+            "goal": "Lograr que el 70% de los jóvenes posean una identidad distrital fortalecida.",
+            "indicator": "Porcentaje de jóvenes que identifican valores de Comas; participación en actividades culturales."
+          },
+          {
+            "problem": "Crisis de valores y principios morales en la población.",
+            "objective": "Recuperar valores y principios morales en la población comeña.",
+            "goal": "Implementar programas de valores en el 100% de los colegios y zonales.",
+            "indicator": "Número de programas de formación en valores implementados; índice de percepción ciudadana."
+          },
+          {
+            "problem": "Desorden urbano por informalidad en cerros y Zonal 14.",
+            "objective": "Regularizar la tenencia de la tierra y ordenar el territorio para una vivienda digna.",
+            "goal": "Regularizar 500 hectáreas y contar con un Plan de Desarrollo Urbano vigente.",
+            "indicator": "Hectáreas regularizadas; Plan de Desarrollo Urbano aprobado."
+          },
+          {
+            "problem": "Alto riesgo en zonas de desastres naturales.",
+            "objective": "Proteger a las familias comeñas del riesgo de desastres.",
+            "goal": "Realizar 20 obras de mitigación y reubicar a 1,000 familias.",
+            "indicator": "Obras de mitigación; familias reubicadas."
+          },
+          {
+            "problem": "Hacinamiento en Pueblos Jóvenes.",
+            "objective": "Mejorar las viviendas y reducir el hacinamiento.",
+            "goal": "Mejorar 5,000 viviendas y reducir el hacinamiento en un 25%.",
+            "indicator": "Viviendas mejoradas; índice de hacinamiento."
+          },
+          {
+            "problem": "Presencia de discriminación, violencia familiar y sexual.",
+            "objective": "Promover una Comas inclusiva, sin violencia ni discriminación.",
+            "goal": "Reducir en un 50% los casos de violencia y atender el 100% de las denuncias.",
+            "indicator": "Número de casos de violencia atendidos; porcentaje de reducción de denuncias."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio informal en desorden.",
+            "objective": "Ordenar el comercio informal, dignificando al trabajador ambulante.",
+            "goal": "Construir 5 mercados nuevos y reubicar a 3,000 comerciantes en espacios dignos.",
+            "indicator": "Número de mercados construidos o asociaciones formalizadas; comerciantes reubicados."
+          },
+          {
+            "problem": "Insuficiente promoción de emprendimientos económicos.",
+            "objective": "Impulsar el emprendimiento local con acceso a crédito y asesoría.",
+            "goal": "Formalizar 2,000 MYPES y otorgar S/ 10 millones en créditos.",
+            "indicator": "Número de MYPES formalizadas; monto de créditos de la Caja Municipal de Ahorro y Crédito."
+          },
+          {
+            "problem": "Desocupación entre jóvenes y mujeres.",
+            "objective": "Generar oportunidades de empleo inclusivo para jóvenes y mujeres.",
+            "goal": "Reducir la desocupación juvenil en un 35% e insertar laboralmente a 3,000 mujeres.",
+            "indicator": "Tasa de desocupación juvenil y femenina; número de mujeres y jóvenes empleados."
+          },
+          {
+            "problem": "Alto índice de subempleo.",
+            "objective": "Reducir el subempleo promoviendo el trabajo digno y formal.",
+            "goal": "Reducir el subempleo en un 30% respecto al año 2026.",
+            "indicator": "Tasa de subempleo en el distrito."
+          },
+          {
+            "problem": "Zona industrial no integrada a la economía del distrito.",
+            "objective": "Integrar la zona industrial al desarrollo económico local, generando empleo.",
+            "goal": "Firmar 50 convenios y generar 5,000 empleos formales.",
+            "indicator": "Número de convenios con empresas de Pro Industrial y Chacra Cerro; empleos generados."
+          },
+          {
+            "problem": "Mano de obra poco calificada para el trabajo.",
+            "objective": "Capacitar y certificar a los comeños para acceder a empleos de calidad.",
+            "goal": "Capacitar y certificar a 15,000 personas.",
+            "indicator": "Número de personas capacitadas y certificadas técnicamente."
+          },
+          {
+            "problem": "Invasión de espacios urbanos por comercio ambulante.",
+            "objective": "Ordenar el comercio recuperando los espacios públicos.",
+            "goal": "Recuperar 50,000 m², intervenir 30 plazas y reubicar a 3,000 comerciantes.",
+            "indicator": "Metros cuadrados recuperados; plazas intervenidas; comerciantes reubicados."
+          },
+          {
+            "problem": "Deterioro de las pistas en el distrito.",
+            "objective": "Rehabilitar vías para el comercio y la movilidad productiva.",
+            "goal": "Rehabilitar 200 km de pistas y lograr que el 90% de las vías estén en buen estado.",
+            "indicator": "Kilómetros de pistas rehabilitadas; porcentaje de vías en buen estado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Incremento de la contaminación del aire.",
+            "objective": "Mejorar la calidad del aire con fiscalización y plantación de árboles.",
+            "goal": "Reducir la contaminación en un 25% y plantar 100,000 árboles.",
+            "indicator": "Índice de calidad del aire; número de árboles plantados."
+          },
+          {
+            "problem": "Falta de ciclovías para la movilidad sostenible.",
+            "objective": "Implementar la movilidad sostenible conectando los zonales.",
+            "goal": "Implementar 50 km de ciclovías, conectar 9 zonales y reducir las emisiones en un 15%.",
+            "indicator": "Kilómetros de ciclovías; conexión entre zonales; reducción de emisiones."
+          },
+          {
+            "problem": "Invasión y tráfico de terrenos en las Lomas de Collique.",
+            "objective": "Proteger las Lomas de Collique como patrimonio natural del distrito.",
+            "goal": "Desalojar el 100% de las invasiones y atender el 100% de las denuncias.",
+            "indicator": "Hectáreas recuperadas de invasiones; número de denuncias por tráfico de terrenos atendidas."
+          },
+          {
+            "problem": "Contaminación del Río Chillón.",
+            "objective": "Descontaminar y proteger el Río Chillón a su paso por Comas.",
+            "goal": "Mejorar la calidad del agua a un nivel aceptable y recuperar 5 km de ribera.",
+            "indicator": "Índice de calidad del agua del río; kilómetros de ribera recuperada."
+          },
+          {
+            "problem": "Invasión o desaprovechamiento de espacios públicos.",
+            "objective": "Recuperar y mantener todos los espacios públicos del distrito.",
+            "goal": "Recuperar y mantener 100 espacios públicos.",
+            "indicator": "Número de espacios públicos recuperados y mantenidos."
+          },
+          {
+            "problem": "Sistema de recolección de residuos sólidos deficiente.",
+            "objective": "Modernizar la recolección de residuos con cobertura universal.",
+            "goal": "Alcanzar el 95% de cobertura en recolección y reciclar el 30% de los residuos.",
+            "indicator": "Porcentaje de hogares con recolección regular; toneladas de residuos reciclados."
+          },
+          {
+            "problem": "Bajo nivel de educación ambiental y climática.",
+            "objective": "Formar ciudadanos ambientalmente responsables.",
+            "goal": "Implementar programas en el 100% de las escuelas y lograr un 60% de conciencia ambiental en la población.",
+            "indicator": "Número de escuelas con programa ambiental; porcentaje de población con conciencia ambiental."
+          },
+          {
+            "problem": "Bajo nivel de áreas verdes por habitante.",
+            "objective": "Aumentar las áreas verdes y recuperar espacios naturales.",
+            "goal": "Alcanzar 4 m² de área verde por habitante y proteger 200 hectáreas de Lomas.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante; hectáreas de Lomas de Collique protegidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Inadecuado manejo de los mecanismos de participación.",
+            "objective": "Fortalecer la participación ciudadana real y vinculante.",
+            "goal": "Realizar 9 presupuestos participativos (uno por zonal) y 100 asambleas anuales.",
+            "indicator": "Número de presupuestos participativos; asambleas zonales realizadas."
+          },
+          {
+            "problem": "Alto índice de morosidad tributaria.",
+            "objective": "Reducir la morosidad tributaria con facilidades y fiscalización.",
+            "goal": "Lograr un 85% de recaudación oportuna y reducir la morosidad en un 40%.",
+            "indicator": "Porcentaje de recaudación oportuna; reducción de morosidad."
+          },
+          {
+            "problem": "Poca identificación de los contribuyentes con la Municipalidad.",
+            "objective": "Acercar la Municipalidad al ciudadano, generando confianza.",
+            "goal": "Alcanzar un 70% de confianza ciudadana y un 30% de participación en programas.",
+            "indicator": "Índice de confianza ciudadana en la municipalidad; participación en programas municipales."
+          },
+          {
+            "problem": "Falta de conciencia en el cumplimiento de las normas municipales.",
+            "objective": "Promover la cultura de cumplimiento de normas y deberes ciudadanos.",
+            "goal": "Realizar 20 campañas anuales y lograr un 50% de incremento en el cumplimiento.",
+            "indicator": "Número de campañas de sensibilización; porcentaje de cumplimiento de normas."
+          },
+          {
+            "problem": "Inadecuadas coordinaciones entre entidades e instituciones.",
+            "objective": "Fortalecer la articulación interinstitucional para una mejor atención.",
+            "goal": "Alcanzar 30 convenios activos y establecer 10 mesas de coordinación permanentes.",
+            "indicator": "Número de convenios interinstitucionales; mesas de coordinación activas."
+          },
+          {
+            "problem": "Falta de financiamiento para la capacitación municipal.",
+            "objective": "Capacitar permanentemente al personal municipal para un mejor servicio.",
+            "goal": "Capacitar al 100% del personal, con una dedicación de 40 horas al año por servidor.",
+            "indicator": "Número de servidores capacitados; horas de capacitación anual."
+          },
+          {
+            "problem": "Insuficientes recursos municipales para atender las demandas.",
+            "objective": "Aumentar los recursos municipales con eficiencia recaudatoria.",
+            "goal": "Aumentar los recursos en un 30% y alcanzar un 95% de ejecución presupuestal.",
+            "indicator": "Recursos municipales ejecutados; índice de ejecución presupuestal."
+          },
+          {
+            "problem": "Planes zonales y distritales estratégicos de desarrollo insuficientes.",
+            "objective": "Implementar el Plan de Desarrollo Concertado con indicadores claros.",
+            "goal": "Lograr un Plan aprobado y vigente, y cumplir el 80% de las metas.",
+            "indicator": "Plan de Desarrollo actualizado; porcentaje de metas del plan cumplidas."
+          },
+          {
+            "problem": "Falta de credibilidad en las dirigencias de las organizaciones sociales.",
+            "objective": "Fortalecer las organizaciones sociales con transparencia y capacitación.",
+            "goal": "Fortalecer 200 organizaciones y alcanzar un 60% de confianza en sus dirigencias.",
+            "indicator": "Número de organizaciones capacitadas y fiscalizadas; índice de confianza en las dirigencias."
+          },
+          {
+            "problem": "Municipalidad sin modernización ni calidad de servicio.",
+            "objective": "Modernizar la gestión municipal con un enfoque de ciudadanía.",
+            "goal": "Digitalizar el 100% de los trámites y alcanzar un 80% de satisfacción ciudadana.",
+            "indicator": "Número de trámites digitalizados; índice de satisfacción del ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-9q2BJr5Rt9dTpt8vN7c-olxzqSF8pGBg",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/9q2BJr5Rt9dTpt8vN7c-olxzqSF8pGBg",
+      "sha256": "706d13a91b7d5d95a5a595d956b3562b53690099d6c96b3aaf6b4f7739bac185",
+      "accessedAt": "2026-10-02T22:55:23.153Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015194",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015194",
+      "sha256": "3f4729471ff5fb7b9383d2efddba5b1f6681fcfd97b14f07a42e3b5ef1730bc8",
+      "accessedAt": "2026-10-02T22:55:23.652Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

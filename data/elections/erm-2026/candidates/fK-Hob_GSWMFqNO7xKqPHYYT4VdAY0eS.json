@@ -1,0 +1,201 @@
+{
+  "id": "fK-Hob_GSWMFqNO7xKqPHYYT4VdAY0eS",
+  "slug": "ricardo-herminio-bejarano-fernandez",
+  "electionId": "erm-2026",
+  "name": "Ricardo Herminio Bejarano Fernandez",
+  "givenNames": "Ricardo Herminio",
+  "surnames": "Bejarano Fernandez",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2898,
+    "name": "FE EN EL PERU"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:05.447Z",
+      "sourceId": "jne-hv-fK-Hob_GSWMFqNO7xKqPHYYT4VdAY0eS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "Centro de Estudios Hemisféricos de Defensa William J. Perry",
+        "program": "CURSO DE DIRECCION ESTRATEGICA PARA LA DEFENSA Y ADMINISTRACION DE CRISIS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Juan Bautista S.A.C.",
+        "program": "CONTADOR PÚBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2016"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN CIENCIAS FINANCIERAS Y CONTABLES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2004"
+      },
+      {
+        "level": "posgrado",
+        "institution": "CENTRO DE ALTOS ESTUDIOS NACIONALES",
+        "program": "DESARROLLO Y DEFENSA NACIONAL",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2006"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "RICARDOS Y MAS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2020",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "APODERADO",
+      "party": "UNIDAD CHORRILLANA",
+      "from": "2016",
+      "to": "2019"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "UNIDAD CHORRILLANA",
+      "from": "2016",
+      "to": "2019"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PACTO NACIONAL",
+      "year": "2025"
+    },
+    {
+      "party": "UNIDAD CHORRILLANA",
+      "year": "2019"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "AUTOMOVIL",
+        "value": 30000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "RICARDOS Y MAS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 98,
+        "value": 9700
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c83c3867-f29e-4184-a5f4-ac30c1043f2b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fa1eab82-8a36-4068-bb5f-b84a9ba48732.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "IDENTIDAD PANDILLAJE ADULTO MAYOR",
+            "objective": "CAMPAÑAS SOCIALES PROGRAMAS DISCIPLINARIAS EJECUCION DE PROGRAMAS",
+            "goal": "LLEGAR AL 60% LLEGAR AL 60% LLEGAR AL 60%",
+            "indicator": "10% A 50% 15% AL 60% 20% AL 60%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "RECAUDACION TURISMO OBRAS POR IMPUESTO",
+            "objective": "ACTIVAR PROMOVER EJECUCION DE OBRAS",
+            "goal": "LLEGAR AL 60% LLEGAR AL 100% LLEGAR AL 50%",
+            "indicator": "5% AL 60% 10% AL 100% 5% AL 50%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "CONTAMINACION PANTANOS DE VILLA PLAYA",
+            "objective": "IMPACTO AMBIENTAL RECUPERACION LIMPIEZA",
+            "goal": "LLEGAR AL 30% LLEGAR AL 100% LLEGAR AL 90%",
+            "indicator": "10% AL 30% 0% AL 100% 10% AL 90%"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "RECAUDACION TURISMO OBRAS POR IMPUESTO",
+            "objective": "ACTIVAR PROMOVER EJECUCION DE OBRAS",
+            "goal": "LLEGAR AL 60% LLEGAR AL 100% LLEGAR AL 50%",
+            "indicator": "5% AL 60% 10% AL 100% 5% AL 50%"
+          },
+          {
+            "problem": "ATENCION PUBLICA DIGITALIZACION ESTABILIDAD",
+            "objective": "MEJORA DEL SERVICIO MODERNIZACION CONFIANZA CIVICA",
+            "goal": "LLEGAR AL 100% LLEGAR AL 80% LLEGAR AL 90%",
+            "indicator": "15%AL 100% 10% AL 80% 39% AL 90%"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-fK-Hob_GSWMFqNO7xKqPHYYT4VdAY0eS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/fK-Hob_GSWMFqNO7xKqPHYYT4VdAY0eS",
+      "sha256": "6c97cba817af203c200ce9ebe929ee2280af8490e60b47a5a908ac3f6a251d47",
+      "accessedAt": "2026-10-02T22:54:05.447Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015367",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015367",
+      "sha256": "1f50ff19e6d3d50448fb9bcf37ca818361b4d88a85f024be0b53350bc15774a3",
+      "accessedAt": "2026-10-02T22:54:05.931Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

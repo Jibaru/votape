@@ -1,0 +1,400 @@
+{
+  "id": "ZAACcUhXbgpjBVXLKO6RIbPaY7I0Fc92",
+  "slug": "paulo-anibal-casas-pinedo",
+  "electionId": "erm-2026",
+  "name": "Paulo Anibal Casas Pinedo",
+  "givenNames": "Paulo Anibal",
+  "surnames": "Casas Pinedo",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:10.494Z",
+      "sourceId": "jne-hv-ZAACcUhXbgpjBVXLKO6RIbPaY7I0Fc92"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "FUTEC FPF",
+        "program": "Director Técnico de Futbol",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Martin de Porres",
+        "program": "Lic. Educacion Ciencias Sociales y Comunicacion",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Martin de Porres",
+        "program": "Bachiller en Educacion",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "I.E. 5077 Jose Faustino Sanchez Carrion",
+      "role": "Docente",
+      "from": "2018",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42600,
+        "public": 42600,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 183521,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bf76fd37-aed8-4d14-b0a9-500c07a4f2f7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4017a07b-9ae6-41bf-b00b-a160efc9fffe.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios de salud integrales y asequibles para la población, especialmente en lo que respecta a la atención primaria y la disponibilidad de medicamentos.",
+            "objective": "Mejorar el acceso a la salud mediante la repotenciación del sistema de posta médica municipal, la creación de una \"Farmacia del pueblo\" con precios cómodos, el desarrollo de campañas de salud preventiva y la implementación de una \"Red de Salud Comunal\".",
+            "goal": "Realizar dos campañas de \"Salud Preventiva\" por año para visitar a la población, asegurar el acceso a servicios de salud en las 18 zonas del distrito y crear una farmacia con medicinas a precios accesibles.",
+            "indicator": "Número de campañas de salud preventiva realizadas anualmente. Porcentaje de cobertura de la Red de Salud Comunal en las zonas del distrito. Número de beneficiarios de la farmacia municipal."
+          },
+          {
+            "problem": "Insuficiente oferta de programas e infraestructura para el desarrollo educativo, cultural y deportivo, limitando las oportunidades de crecimiento para niños, jóvenes y adultos.",
+            "objective": "Fomentar el desarrollo integral a través de programas de becas municipales como \"Talenbecas\" y \"Beca Master 100\", la creación del Teatro Municipal, la instauración de \"Olimpiadas deportivas y culturales\" y la construcción del Polideportivo Municipal.",
+            "goal": "Implementar programas de becas para estudiantes destacados, construir un Polideportivo Municipal para 25,000 personas y realizar anualmente las \"Olimpiadas deportivas y culturales\" para promover el deporte, la cultura y el conocimiento.",
+            "indicator": "Número de becas de estudios superiores y técnicos otorgadas. Cantidad de infraestructuras deportivas y culturales construidas o remodeladas. Frecuencia de realización de las olimpiadas anuales."
+          },
+          {
+            "problem": "Atención deficiente y desprotección de las poblaciones vulnerables, como niños, adolescentes, adultos mayores y mujeres víctimas de violencia, careciendo de espacios y servicios especializados.",
+            "objective": "Fortalecer la protección de la población vulnerable mediante la descentralización de la DEMUNA, la construcción e implementación de la casa del adulto mayor y la creación de una línea de atención telefónica de emergencia para mujeres.",
+            "goal": "Fortalecer y proyectar descentralizadamente la DEMUNA para responder adecuadamente a las denuncias, construir una casa para el adulto mayor que atienda sus necesidades y crear una línea telefónica de emergencia para casos de violencia contra la mujer.",
+            "indicator": "Nivel de descentralización y cobertura de la DEMUNA en los sectores del distrito. Número de adultos mayores beneficiados por la casa del adulto mayor. Implementación y operatividad de la línea de emergencia."
+          },
+          {
+            "problem": "Situación de vulnerabilidad de la población, incluyendo violencia familiar, desprotección del adulto mayor y falta de inclusión de personas con discapacidad.",
+            "objective": "Fortalecer y descentralizar la DEMUNA, construir e implementar la casa del adulto mayor, crear una línea de atención de emergencia para la mujer y repotenciar la OMAPED para promover la inserción social y económica.",
+            "goal": "Fortalecer los servicios de atención a la población vulnerable, llegando a los 18 sectores del distrito y generando políticas de inclusión y protección.",
+            "indicator": "Número de atenciones en la DEMUNA y OMAPED. / Creación y funcionamiento de la casa del adulto mayor."
+          },
+          {
+            "problem": "Carencia de una oferta educativa superior pública y de programas de apoyo para el desarrollo académico y cultural de los jóvenes.",
+            "objective": "Impulsar la creación de una universidad pública, implementar programas de becas municipales como 'Talenbecas' y 'Beca Master 100', y promover actividades culturales y deportivas como las 'Olimpiadas deportivas y culturales'.",
+            "goal": "Implementar programas de becas para estudiantes destacados, crear el fondo municipal para la 'Excelencia Deportiva y cultural' y potenciar el 'Instituto Técnico Superior de Puente Piedra'.",
+            "indicator": "Número de becas otorgadas. / Número de eventos culturales y deportivos realizados."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad y problemáticas específicas como la alta prevalencia de anemia.",
+            "objective": "Mejorar el acceso a los servicios de salud mediante la creación de una 'Farmacia del pueblo', el desarrollo de campañas de 'Salud Preventiva' y la implementación de un programa nutricional para combatir la anemia.",
+            "goal": "Repotenciar la red de salud comunal, crear un programa municipal nutricional y brindar información oportuna sobre salud preventiva en las 18 zonas del distrito.",
+            "indicator": "Número de campañas de salud realizadas. / Porcentaje de reducción de la tasa de anemia en la población infantil."
+          },
+          {
+            "problem": "Altos índices de inseguridad ciudadana y una elevada percepción de insatisfacción por parte de la población.",
+            "objective": "Implementar estrategias de seguridad ciudadana que involucren a las instituciones policiales, fiscalía y municipalidad para disminuir los casos de delincuencia, y reforzar la tecnología de videovigilancia y los puestos de auxilio rápido.",
+            "goal": "Reducir la tasa de delitos contra el patrimonio del 12.6% al 7.6% y los homicidios del 5.4% al 3.8% para el 2027, y mejorar la percepción de seguridad ciudadana.",
+            "indicator": "Tasa de denuncias por hechos delictivos. / Porcentaje de percepción de inseguridad en la población."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad y prevalencia de problemas de salud pública como la anemia y la desnutrición crónica infantil.",
+            "objective": "Fortalecer el sistema de salud local mediante la creación de una \"Farmacia del pueblo\", el desarrollo de campañas de salud preventiva, la implementación de un programa nutricional para combatir la anemia y la repotenciación de la red de salud comunal.",
+            "goal": "Disminuir significativamente los casos de anemia y desnutrición crónica infantil y asegurar el acceso a servicios de salud para la población en las dieciocho zonas del distrito.",
+            "indicator": "Tasa de anemia en niños menores de tres años y cobertura de atención en los establecimientos de salud."
+          },
+          {
+            "problem": "Altos índices de delincuencia y una elevada percepción de inseguridad ciudadana que afecta la calidad de vida de los habitantes del distrito.",
+            "objective": "Implementar y repotenciar estrategias integrales de seguridad ciudadana, incluyendo la modernización de centros de monitoreo, adquisición de vehículos, instalación de alarmas vecinales y el fortalecimiento de los puestos de auxilio rápido para reducir los índices delictivos.",
+            "goal": "Reducir la tasa de homicidios al 3.8% y el porcentaje de víctimas de robo de vehículos al 0.4% hacia el final del periodo de gobierno.",
+            "indicator": "Tasa de homicidios y porcentaje de víctimas de robo de vehículos."
+          },
+          {
+            "problem": "Déficit en el acceso a servicios básicos como agua potable y saneamiento, afectando a un porcentaje significativo de la población del distrito.",
+            "objective": "Ampliar la cobertura de los servicios básicos de saneamiento, priorizando las zonas con mayores carencias y gestionando proyectos de infraestructura para el abastecimiento de agua y tratamiento de aguas residuales.",
+            "goal": "Incrementar la cobertura de agua potable y saneamiento en el distrito, reduciendo la brecha de acceso a servicios básicos para el año 2030.",
+            "indicator": "Porcentaje de viviendas con acceso a agua por red pública y servicio de alcantarillado."
+          },
+          {
+            "problem": "Insuficiente oferta educativa pública de nivel superior y escasa promoción de actividades culturales y deportivas para el desarrollo integral de la juventud.",
+            "objective": "Impulsar la creación de una universidad pública, implementar programas de becas como \"Talenbecas\", crear un Teatro Municipal, organizar olimpiadas deportivas y culturales, y promover talleres de creación literaria y artística.",
+            "goal": "Reducir el índice de deserción escolar y aumentar la participación de la juventud en programas de formación superior, cultural y deportiva.",
+            "indicator": "Tasa de deserción escolar y número de jóvenes beneficiados por programas educativos y culturales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Predominio del comercio ambulatorio y la informalidad económica, lo que genera desorden urbano y baja competitividad.",
+            "objective": "Promover la formalización de los comerciantes ambulantes y las micro y pequeñas empresas (MYPES) a través de un plan de reordenamiento, simplificación de licencias y creación de convenios financieros.",
+            "goal": "Implementar el 'Plan de Reordenamiento del Comercio Ambulatorio' y simplificar los procesos de solicitud de licencia de funcionamiento para PYMES.",
+            "indicator": "Número de comerciantes formalizados. / Número de licencias de funcionamiento emitidas."
+          },
+          {
+            "problem": "Elevada informalidad del comercio ambulatorio que genera desorden urbano, caos vehicular y una competencia desleal que afecta la competitividad de los negocios formales.",
+            "objective": "Promover la formalización y el ordenamiento del comercio mediante la implementación de un \"Plan de Reordenamiento del Comercio Ambulatorio\" y la organización de los comerciantes a través del programa \"Emprendedores respetuosos y formalizados\".",
+            "goal": "Disminuir la ocupación de espacios públicos, promoviendo la formalización de los comerciantes ambulantes para mejorar las condiciones del ornato, urbanismo, limpieza pública y transitabilidad de las calles del distrito.",
+            "indicator": "Porcentaje de reducción de la ocupación de espacios públicos por comercio informal. Número de comerciantes ambulantes formalizados. Grado de mejora en las condiciones de ornato y transitabilidad."
+          },
+          {
+            "problem": "Limitadas oportunidades de inserción laboral para jóvenes y adultos, y carencia de un sistema articulado que facilite el acceso a un empleo digno y estable.",
+            "objective": "Facilitar la inserción laboral mediante la gestión de prácticas preprofesionales, la creación de un \"Centro de Coordinación de Prácticas Pre-profesionales\" y el fomento de \"Ferias Laborales descentralizadas\" en coordinación con el Ministerio de Trabajo.",
+            "goal": "Implementar espacios de encuentro entre la oferta y la demanda laboral, como ferias descentralizadas, que ofrezcan oportunidades de empleo digno y brinden asesorías gratuitas para mejorar la empleabilidad de los ciudadanos.",
+            "indicator": "Número de convenios establecidos para prácticas preprofesionales. Cantidad de jóvenes y adultos que acceden a un empleo a través de las ferias laborales. Número de ferias laborales realizadas en el distrito."
+          },
+          {
+            "problem": "Baja competitividad y desarrollo de las micro y pequeñas empresas (MYPES) debido a la complejidad de los trámites de formalización y el limitado acceso a financiamiento y asistencia técnica.",
+            "objective": "Impulsar el crecimiento de las MYPES simplificando los procesos para la obtención de licencias de funcionamiento, promoviendo \"Convenios Financieros\" con la banca, desarrollando un \"Centro de apoyo al Emprendedor Puentepedrino\" y fomentando la educación financiera.",
+            "goal": "Simplificar los procesos de solicitud de licencia de funcionamiento, impulsar la creación de convenios con entidades financieras y desarrollar un centro de apoyo para brindar asesoría y capacitación a los emprendedores del distrito.",
+            "indicator": "Reducción en el tiempo de tramitación de licencias de funcionamiento. Número de convenios financieros suscritos en beneficio de las MYPES. Cantidad de emprendedores que reciben asistencia técnica y empresarial."
+          },
+          {
+            "problem": "Falta de desarrollo del potencial turístico del distrito, incluyendo la articulación de restaurantes, centros de esparcimiento y sitios arqueológicos.",
+            "objective": "Fomentar el desarrollo turístico mediante la creación de un circuito que articule la oferta local y la capacitación de los colaboradores de locales turísticos en temas de atención al cliente.",
+            "goal": "Crear un circuito turístico y fomentar la capacitación para profesionalizar los servicios, garantizando su excelencia y competitividad.",
+            "indicator": "Creación del circuito turístico. / Número de personas capacitadas en servicios turísticos."
+          },
+          {
+            "problem": "Baja capacidad y competitividad de las micro y pequeñas empresas (MYPES) para su articulación en la economía distrital.",
+            "objective": "Potenciar los emprendimientos locales a través de asesoría y capacitación, mediante la creación de un 'Centro de apoyo al Emprendedor Puentepedrino' y talleres de educación financiera.",
+            "goal": "Implementar un centro de apoyo para emprendedores y desarrollar talleres de educación financiera a nivel local a través de la Academia Municipal.",
+            "indicator": "Número de emprendedores capacitados. / Creación y funcionamiento del centro de apoyo al emprendedor."
+          },
+          {
+            "problem": "Crecimiento del comercio ambulatorio informal que genera desorden, caos vehicular y competencia desleal, afectando el orden urbano y la competitividad local.",
+            "objective": "Implementar un plan de reordenamiento del comercio ambulatorio que promueva la formalización de los comerciantes, mejore las condiciones del ornato y garantice la transitabilidad de las calles a través del programa \"Emprendedores respetuosos y formalizados\".",
+            "goal": "Reducir la ocupación informal de los espacios públicos e incrementar el número de comerciantes formalizados en el distrito.",
+            "indicator": "Número de comerciantes ambulantes formalizados y recuperados para el comercio formal."
+          },
+          {
+            "problem": "Baja capacidad y competitividad de las micro y pequeñas empresas (MYPES) debido a la falta de apoyo técnico, capacitación y acceso a financiamiento.",
+            "objective": "Potenciar el desarrollo de las MYPES a través de la creación de un \"Centro de apoyo al Emprendedor Puentepedrino\", la promoción de convenios financieros, la implementación de talleres de educación financiera y la creación de una plataforma de asistencia técnica.",
+            "goal": "Aumentar la creación y formalización de MYPES, mejorando su productividad y facilitando su acceso a nuevos mercados y fuentes de financiamiento.",
+            "indicator": "Número de micro y pequeñas empresas creadas y formalizadas anualmente."
+          },
+          {
+            "problem": "Desaprovechamiento del potencial turístico del distrito por la falta de una oferta articulada que integre los recursos culturales, gastronómicos y naturales.",
+            "objective": "Crear y fomentar un circuito turístico que articule restaurantes, centros de esparcimiento y sitios arqueológicos, además de capacitar a los prestadores de servicios turísticos para mejorar la calidad de la atención.",
+            "goal": "Establecer y consolidar un circuito turístico competitivo que incremente el flujo de visitantes y genere nuevas oportunidades de empleo e inversión en el distrito.",
+            "indicator": "Número de visitantes anuales al circuito turístico y nivel de satisfacción de los turistas."
+          },
+          {
+            "problem": "Insuficiente inserción laboral y falta de oportunidades de empleo digno para jóvenes y adultos del distrito.",
+            "objective": "Estimular el sector comercial-productivo y promover la inserción laboral mediante la gestión de prácticas preprofesionales y la organización de ferias laborales descentralizadas en coordinación con el Ministerio de Trabajo.",
+            "goal": "Fomentar 'Ferias Laborales descentralizadas' y crear un centro para coordinar prácticas pre-profesionales, promoviendo la empleabilidad de los residentes.",
+            "indicator": "Número de ferias laborales realizadas. / Creación del 'Centro de Coordinación de Prácticas Pre-profesionales'."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crisis de vivienda y crecimiento desordenado, con un 52.53% de centros urbanos sin saneamiento físico legal.",
+            "objective": "Fortalecer la 'Gerencia de Formalización de la Propiedad' para realizar el proceso de titulación y saneamiento físico legal de centros urbanos, y apoyar la construcción formal de viviendas.",
+            "goal": "Fortalecer las gestiones para el saneamiento físico legal y apoyar técnicamente los procedimientos para la regularización de edificaciones.",
+            "indicator": "Número de centros urbanos saneados. / Número de familias beneficiadas con programas de vivienda."
+          },
+          {
+            "problem": "Sectores del distrito sin saneamiento físico, lo que conlleva un deficiente abastecimiento de agua y tratamiento de aguas residuales.",
+            "objective": "Ampliar la cobertura de saneamiento básico y promover el uso de tecnologías para optimizar el uso del agua, como la implementación de 'Agua Sólida' para el riego de áreas verdes.",
+            "goal": "Implementar la utilización de 'Agua Sólida' para reducir hasta en un 80% el consumo de agua en el riego de áreas verdes y promover la creación de pozos de tratamiento de aguas servidas.",
+            "indicator": "Porcentaje de reducción del consumo de agua en riego. / Cobertura de servicios de agua y saneamiento."
+          },
+          {
+            "problem": "Deficiente servicio de limpieza pública y contaminación ambiental por la acumulación de residuos sólidos en puntos críticos.",
+            "objective": "Mejorar la gestión de residuos sólidos mediante la instalación de 'Contenedores Ecológicos', la optimización de rutas de recolección y el desarrollo de campañas de concientización y tratamiento de residuos.",
+            "goal": "Instalar contenedores ecológicos en lugares estratégicos y desarrollar talleres sobre el tratamiento de residuos sólidos para recicladores y vecinos.",
+            "indicator": "Número de contenedores instalados. / Toneladas de residuos sólidos recolectados y valorizados."
+          },
+          {
+            "problem": "Altos niveles de contaminación del aire, degradación de cuerpos de agua como el río Chillón y un notorio déficit de áreas verdes por habitante.",
+            "objective": "Implementar un programa de reforestación y ampliación de áreas verdes, promover el tratamiento de material orgánico a través del proyecto \"Compos\", optimizar el riego con tecnologías como \"Agua Sólida\" y crear pozos de tratamiento de aguas servidas.",
+            "goal": "Reducir los niveles de contaminación atmosférica para cumplir con los estándares de calidad ambiental y aumentar significativamente la superficie de áreas verdes en el distrito.",
+            "indicator": "Índice de calidad del aire (PM2.5) y metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Deficiente gestión de los residuos sólidos y carencia de un sistema de limpieza pública eficiente, lo que provoca la acumulación de basura y la contaminación del entorno.",
+            "objective": "Modernizar el servicio de limpieza pública mediante la creación de la plataforma \"Puente Piedra Moderno, ordenado y limpio\", la instalación de contenedores ecológicos, la optimización de rutas de recolección y el fomento de programas de reciclaje.",
+            "goal": "Alcanzar la recolección de 720 toneladas de residuos valorizados para el año 2025 y lograr una cobertura total y eficiente del servicio de limpieza pública en el distrito.",
+            "indicator": "Toneladas de residuos sólidos valorizados y porcentaje de cobertura del servicio de limpieza."
+          },
+          {
+            "problem": "Falta de un programa de reforestación y ampliación de áreas verdes de manera sostenible en el distrito.",
+            "objective": "Fortalecer el programa de reforestación y ampliación de áreas verdes con árboles, implementando principalmente áreas verdes en el entorno de las instituciones educativas.",
+            "goal": "Implementar un programa de reforestación sostenible en el distrito, mejorando las condiciones ambientales y estéticas de los centros de estudio.",
+            "indicator": "Número de árboles plantados. / Metros cuadrados de nuevas áreas verdes."
+          },
+          {
+            "problem": "Escasez de áreas verdes y uso ineficiente de los recursos hídricos para su mantenimiento, lo que afecta la calidad ambiental y estética del distrito.",
+            "objective": "Incrementar y mejorar las áreas verdes mediante la implementación de tecnologías como el \"Agua Sólida\" para optimizar el riego, el fortalecimiento de programas de reforestación y la creación de pozos de tratamiento de aguas servidas para riego.",
+            "goal": "Reducir hasta en un 80% el consumo de agua para riego, fortalecer el programa de reforestación y ampliación de áreas verdes de manera sostenible, y promover la creación de dos pozos de tratamiento de aguas servidas.",
+            "indicator": "Porcentaje de reducción del consumo de agua para el riego de áreas verdes. Número de árboles plantados en el marco del programa de reforestación. Número de pozos de tratamiento de aguas residuales construidos."
+          },
+          {
+            "problem": "Deterioro del ornato y el ambiente urbano debido a la inadecuada limpieza de calles, la disposición de desmonte en lugares no autorizados y la presencia de grafitis.",
+            "objective": "Implementar la plataforma “Puente Piedra Moderno, ordenado y limpio” para centralizar y atender las solicitudes de servicios de los ciudadanos, mejorando la capacidad de respuesta del municipio ante los problemas urbanos.",
+            "goal": "Crear una plataforma centralizada (vía telefónica, WhatsApp o web) que permita a los ciudadanos reportar problemas y a la municipalidad planificar obras y mejorar el tiempo de respuesta ante los problemas que se presentan en el distrito.",
+            "indicator": "Tiempo promedio de respuesta a las solicitudes ciudadanas. Nivel de satisfacción de los vecinos con la limpieza y el orden del distrito. Reducción de la cantidad de desmonte y grafitis en la vía pública."
+          },
+          {
+            "problem": "Gestión de residuos sólidos ineficiente, caracterizada por la existencia de puntos críticos de acumulación de basura en la vía pública y una baja tasa de segregación en la fuente.",
+            "objective": "Mejorar la gestión de residuos sólidos a través de la instalación de \"Contenedores Ecológicos\" en lugares estratégicos, el desarrollo de talleres sobre tratamiento de residuos para recicladores y la reorganización de las rutas de recolección.",
+            "goal": "Eliminar los puntos críticos de acumulación de residuos sólidos mediante la instalación progresiva de contenedores, y desarrollar talleres para informar a los vecinos sobre la importancia de la segregación en la fuente.",
+            "indicator": "Número de contenedores ecológicos instalados. Cantidad de talleres de capacitación realizados. Porcentaje de eliminación de puntos críticos de acumulación de residuos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Riesgo latente de actos de corrupción y falta de ética en la administración pública, lo que menoscaba la confianza de la ciudadanía y el correcto uso de los recursos.",
+            "objective": "Fortalecer la integridad y la ética en la gestión municipal mediante la aplicación del “Código de Ética del Servidor Público”, el potenciamiento del órgano de control interno y la denuncia frontal de cualquier acto de corrupción.",
+            "goal": "Aplicar pertinentemente el “Código de Ética del Servidor Público” como referente formal e institucional de la conducta profesional, y ser una gestión frontal contra los actos de corrupción, venga de donde venga.",
+            "indicator": "Número de auditorías y acciones de control realizadas. Implementación de canales de denuncia para actos de corrupción. Número de funcionarios capacitados en materia de ética y lucha contra la corrupción."
+          },
+          {
+            "problem": "Riesgos de corrupción y falta de transparencia en el manejo de los recursos públicos, afectando la confianza de la ciudadanía en la institución municipal.",
+            "objective": "Garantizar una gestión transparente y honesta mediante la aplicación rigurosa del Código de Ética del Servidor Público, el fortalecimiento del órgano de control interno y la difusión periódica de rendiciones de cuentas a la ciudadanía.",
+            "goal": "Lograr una gestión de \"puertas abiertas\" con total transparencia en el uso de los recursos y cero tolerancia a la corrupción.",
+            "indicator": "Índice de Transparencia Municipal y número de acciones de control y fiscalización ejecutadas."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la planificación, gestión y fiscalización de las políticas públicas locales, debilitando la gobernabilidad democrática.",
+            "objective": "Fortalecer la participación ciudadana mediante la realización de talleres de formación en liderazgo, la capacitación a vecinos para la elaboración de proyectos y el impulso a espacios de diálogo como los cabildos abiertos y las mesas de concertación.",
+            "goal": "Incrementar la participación vecinal en los procesos de presupuesto participativo y en los mecanismos de fiscalización de la gestión municipal.",
+            "indicator": "Número de mesas de concertación y cabildos abiertos realizados anualmente."
+          },
+          {
+            "problem": "Excesiva burocracia y lentitud en los trámites municipales, lo que genera insatisfacción en la ciudadanía y obstaculiza la formalización de actividades económicas.",
+            "objective": "Optimizar la gestión municipal a través de la simplificación y celeridad de los trámites, la repotenciación de la mesa de partes virtual y la creación de un área de asesoría y orientación al ciudadano para mejorar la eficiencia del servicio.",
+            "goal": "Reducir el tiempo de atención de los principales trámites a un máximo de tres minutos y mejorar la percepción de eficiencia en la gestión municipal.",
+            "indicator": "Tiempo promedio de atención en trámites documentarios y nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Inexistencia de un Sistema de Información Catastral actualizado, lo que impide un ordenamiento adecuado del espacio geográfico y la planificación.",
+            "objective": "Actualizar e implementar un nuevo catastro de inmuebles y demográfico local para contar con una base de datos que permita la toma de decisiones y la coordinación interinstitucional.",
+            "goal": "Implementar un nuevo CATASTRO de inmuebles y demográfico local para conocer la realidad tangible del distrito y desarrollar proyectos.",
+            "indicator": "Porcentaje de avance en la implementación del nuevo catastro."
+          },
+          {
+            "problem": "Procesos administrativos burocráticos y lentos que dificultan la realización de trámites por parte de los ciudadanos y afectan la eficiencia de la gestión municipal.",
+            "objective": "Optimizar la gestión municipal a través de la simplificación y celeridad de los trámites, la repotenciación de la \"Mesa de parte virtual\" y la creación de un \"Área de asesoría y orientación al ciudadano\" para agilizar la atención.",
+            "goal": "Mejorar la eficiencia, pertinencia y utilidad de los trámites municipales, contribuyendo con los vecinos del distrito, y reducir el tiempo de atención a no más de 3 minutos a través de la capacitación semestral \"El ciudadano primero\".",
+            "indicator": "Reducción del tiempo promedio de atención en ventanilla. Incremento del porcentaje de trámites realizados de manera virtual. Nivel de satisfacción ciudadana con la atención y los servicios municipales."
+          },
+          {
+            "problem": "Excesiva burocracia y lentitud en los trámites municipales, lo que afecta la eficiencia en la atención al ciudadano y la formalización.",
+            "objective": "Optimizar el servicio y la funcionalidad de los trámites municipales a través de la simplificación, celeridad y el uso de tecnología, como la repotenciación de la 'Mesa de parte virtual'.",
+            "goal": "Implementar medidas de simplificación administrativa y de austeridad, y mejorar la calidad y tiempo de atención a través de capacitación y tecnología.",
+            "indicator": "Tiempo promedio de atención de trámites. / Nivel de operatividad de la mesa de partes virtual."
+          },
+          {
+            "problem": "Desorden territorial por la falta de demarcación definitiva de límites con distritos colindantes como Carabayllo y Ancón.",
+            "objective": "Impulsar y coordinar una adecuada y justa demarcación territorial para sanear los límites jurisdiccionales pendientes, lo que permitirá atraer orden, seguridad y desarrollo.",
+            "goal": "Fortalecer las gestiones para el saneamiento físico legal de los límites del distrito, que actualmente se encuentran pendientes en un 60%.",
+            "indicator": "Porcentaje de límites territoriales saneados."
+          },
+          {
+            "problem": "Limitada participación ciudadana en los procesos de gestión municipal y falta de mecanismos para la fiscalización y transparencia.",
+            "objective": "Alinear las políticas públicas al Plan de Desarrollo Concertado, desarrollar el PDC 2023-2030 con participación social y capacitar a los vecinos en la elaboración de perfiles de proyectos.",
+            "goal": "Desarrollar el PDC 2023-2030 con participación de todos los frentes sociales y capacitar a los vecinos en procesos y gestión municipal.",
+            "indicator": "Número de talleres de formación política y liderazgo realizados. / Nivel de ejecución del Plan de Desarrollo Concertado."
+          },
+          {
+            "problem": "Limitada participación de la ciudadanía en la toma de decisiones y en la fiscalización de la gestión municipal, así como una insuficiente transparencia en los actos de gobierno.",
+            "objective": "Fomentar una cultura de participación y transparencia, desarrollando talleres de formación política y liderazgo, difundiendo las acciones de la gestión a través de Cabildos Abiertos y Mesas de Concertación, y rindiendo cuentas a la ciudadanía.",
+            "goal": "Lograr la participación ciudadana organizada en los asuntos del distrito, e informar a los vecinos sobre los avances y logros de la gestión de turno por áreas, utilizando espacios como los Cabildos Abiertos y Mesas de Concertación.",
+            "indicator": "Número de talleres de formación ciudadana y liderazgo realizados. Frecuencia de la realización de cabildos abiertos y mesas de concertación. Publicación periódica de informes de rendición de cuentas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-141794",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "Primer Juzgado de Paz de Puente Piedra",
+        "expediente": "5624-2016",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-ZAACcUhXbgpjBVXLKO6RIbPaY7I0Fc92"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-ZAACcUhXbgpjBVXLKO6RIbPaY7I0Fc92",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZAACcUhXbgpjBVXLKO6RIbPaY7I0Fc92",
+      "sha256": "17ae7666da65db15ff6361d16222637cbfe5c0b33a78b99ff36285725bdbe78d",
+      "accessedAt": "2026-10-02T23:01:10.494Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019828",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019828",
+      "sha256": "a7d7fa4d7bdc87a7dcad71404fc3278d65a5ec34521d0c2372914da7e96b2828",
+      "accessedAt": "2026-10-02T23:01:10.994Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

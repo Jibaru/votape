@@ -1,0 +1,105 @@
+{
+  "id": "140127",
+  "name": "San Miguel",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "5QAnMDLpuV1zE7QIUy0yNKoLh5H5fZI0",
+      "name": "Juan Jose Guevara Bonilla",
+      "party": {
+        "id": 4,
+        "name": "ACCION POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42069,
+      "expediente": "ERM.2026019129"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "RENUNCIA",
+      "listId": 45289,
+      "expediente": "ERM.2026012756"
+    },
+    {
+      "candidateId": "kQqrg112RcE8o75yD8utyTm4BIgUS8TI",
+      "name": "Santiago Nicolas Barreda Arias",
+      "party": {
+        "id": 2930,
+        "name": "PARTIDO APRISTA PERUANO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48786,
+      "expediente": "ERM.2026019015"
+    },
+    {
+      "candidateId": "E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG",
+      "name": "Michael Alberto Paredes Torres",
+      "party": {
+        "id": 2961,
+        "name": "PARTIDO DEL BUEN GOBIERNO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49903,
+      "expediente": "ERM.2026016353"
+    },
+    {
+      "candidateId": "8arJCmxIFRiGeW4SMvrj5rml3ai7XduN",
+      "name": "Carolina Mannucci Arambulo",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42933,
+      "expediente": "ERM.2026016018"
+    },
+    {
+      "candidateId": "MUn8JcQ86hVJTDtifOhfoOL-PUJwzjz7",
+      "name": "Jorge Luis Moreno Moran",
+      "party": {
+        "id": 2924,
+        "name": "PERU MODERNO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47576,
+      "expediente": "ERM.2026014674"
+    },
+    {
+      "candidateId": "IQqTR88mQPNYt5MsFuXLeZNJov8Q3NXo",
+      "name": "Napoleon Roberto Martinez Merizalde Huatuco",
+      "party": {
+        "id": 2967,
+        "name": "PROGRESEMOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50174,
+      "expediente": "ERM.2026021164"
+    },
+    {
+      "candidateId": "1tGQPRLRA0UcWhmZS9-xxvrI1z6GdBDT",
+      "name": "Marcos Enrique Cabrera Porras",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52530,
+      "expediente": "ERM.2026020925"
+    }
+  ]
+}

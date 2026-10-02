@@ -1,0 +1,273 @@
+{
+  "id": "140142",
+  "name": "Los Olivos",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF",
+      "name": "Franco Enrique Cortez Gutierrez",
+      "party": {
+        "id": 4,
+        "name": "ACCION POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42082,
+      "expediente": "ERM.2026022115"
+    },
+    {
+      "candidateId": "qV8vU4IB-Gj7mNS8gq5Sl6BP1EFFoD7b",
+      "name": "Lucio Hernan Cabello Morales",
+      "party": {
+        "id": 2980,
+        "name": "AHORA NACION - AN"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50933,
+      "expediente": "ERM.2026017976"
+    },
+    {
+      "candidateId": "Cj1bb4Nd2zCk7BoV3dnn9JVy7HpJMZzS",
+      "name": "Jose Anibal Lopez Gonzales",
+      "party": {
+        "id": 1257,
+        "name": "ALIANZA PARA EL PROGRESO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44252,
+      "expediente": "ERM.2026022980"
+    },
+    {
+      "candidateId": "KiXAR8g24MYgdg_ndZJjoDnaZ5hjVh05",
+      "name": "Felipe Baldomero Castillo Alfaro",
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 45304,
+      "expediente": "ERM.2026019809"
+    },
+    {
+      "candidateId": "zDhi0xtd7xkstAc4ZiA-vznLHMnpz8MT",
+      "name": "Jorge Luis Salinas Paredes",
+      "party": {
+        "id": 2982,
+        "name": "COALICION TRANSFORMADORA TIERRA VERDE"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 51151,
+      "expediente": "ERM.2026023255"
+    },
+    {
+      "candidateId": "LFV7k9Bz060Um_eQHmxqg9wbsQUBHA_t",
+      "name": "Tony Elbert Rojas Espinoza",
+      "party": {
+        "id": 3046,
+        "name": "COOPERACION, VERDAD Y HONRADEZ"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52799,
+      "expediente": "ERM.2026021559"
+    },
+    {
+      "candidateId": "f1qqKvF0Onot0SryIWwvC8Nsw3vZUD74",
+      "name": "Fernando Lurjo Sudario Cespedes",
+      "party": {
+        "id": 2898,
+        "name": "FE EN EL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47262,
+      "expediente": "ERM.2026018425"
+    },
+    {
+      "candidateId": "EbNMht7q62YaUdnTeERKX2AV2uZixcDW",
+      "name": "Julian Ramos Mendez",
+      "party": {
+        "id": 1366,
+        "name": "FUERZA POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44857,
+      "expediente": "ERM.2026031157"
+    },
+    {
+      "candidateId": "eyyXlSMQZWu6QiNRSoeR6WU79_OoUwjI",
+      "name": "Heidelberger Willians Davis Suyon Diaz",
+      "party": {
+        "id": 1264,
+        "name": "JUNTOS POR EL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44706,
+      "expediente": "ERM.2026018225"
+    },
+    {
+      "candidateId": "aLtV4yGF9KulRK6uStT1Euy65eq7KgEc",
+      "name": "Angel Solis Vergaray",
+      "party": {
+        "id": 2933,
+        "name": "LIBERTAD POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49115,
+      "expediente": "ERM.2026019038"
+    },
+    {
+      "candidateId": "zphhyYsKG-tb4gT6fhlMJ_vBfK0jB2g4",
+      "name": "Wilder Leoncio Torpoco Huayta",
+      "party": {
+        "id": 2941,
+        "name": "PARTIDO CIVICO OBRAS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49209,
+      "expediente": "ERM.2026019620"
+    },
+    {
+      "candidateId": "GY5SGyzb1gvkfg5WvUco59be8hskeHc-",
+      "name": "Denner Guillermo Romaldo Noblejas",
+      "party": {
+        "id": 2961,
+        "name": "PARTIDO DEL BUEN GOBIERNO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49908,
+      "expediente": "ERM.2026020669"
+    },
+    {
+      "candidateId": "wZSfRarzl5M7PikCA1kBDPDde8C826QK",
+      "name": "Gabriela Huamani Aliaga",
+      "party": {
+        "id": 2895,
+        "name": "PARTIDO DEMOCRATA VERDE"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47164,
+      "expediente": "ERM.2026013894"
+    },
+    {
+      "candidateId": "cBFGizJvVHJ2dWo7uBOrNkJGtck4KC1x",
+      "name": "Erick Melchor Torres",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42947,
+      "expediente": "ERM.2026015207"
+    },
+    {
+      "candidateId": "ZNDF4rf0WMYWdz2EE-5O-77l7OuYDoX3",
+      "name": "Ricardo Luis Grados Guevara",
+      "party": {
+        "id": 2857,
+        "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46746,
+      "expediente": "ERM.2026021227"
+    },
+    {
+      "candidateId": "Qtwc4KaYWAjRkd8g6AZF-dUpURSGcf4h",
+      "name": "Maria Rosario Silvestre Vilchez",
+      "party": {
+        "id": 2218,
+        "name": "PARTIDO POLITICO NACIONAL PERU LIBRE"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 45487,
+      "expediente": "ERM.2026021130"
+    },
+    {
+      "candidateId": "yWExubHHaUWyUalvnTW3c-xyJfC0JNqQ",
+      "name": "Arturo Alejandro Cutipa Camac",
+      "party": {
+        "id": 2921,
+        "name": "PARTIDO POLITICO PRIN"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47512,
+      "expediente": "ERM.2026010805"
+    },
+    {
+      "candidateId": "RobUv7O1dnITbqj4ZjKiEvWz9Rf92EYt",
+      "name": "Miguel Eduardo Figueroa Suarez",
+      "party": {
+        "id": 2943,
+        "name": "PARTIDO POPULAR CRISTIANO - PPC"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49339,
+      "expediente": "ERM.2026021329"
+    },
+    {
+      "candidateId": "mcymK_qeI-ydfwr3lq-ZAQzoS2hgmtpN",
+      "name": "Jose Gilberto Oliva Chuman",
+      "party": {
+        "id": 2935,
+        "name": "PARTIDO SICREO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 49125,
+      "expediente": "ERM.2026013206"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "RENUNCIA",
+      "listId": 46337,
+      "expediente": "ERM.2026016144"
+    },
+    {
+      "candidateId": "p9p9IZBZsZaQC8l1JDOEiZPKW8ojUgla",
+      "name": "Segundo Marcos De La Cruz Vega",
+      "party": {
+        "id": 2967,
+        "name": "PROGRESEMOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50179,
+      "expediente": "ERM.2026020965"
+    },
+    {
+      "candidateId": "9_iDJmBJDYRq5DffvFs3xfK9qHO7L1a7",
+      "name": "Luis Sigfredo Milla Soto",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52544,
+      "expediente": "ERM.2026018145"
+    }
+  ]
+}

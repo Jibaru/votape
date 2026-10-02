@@ -1,0 +1,319 @@
+{
+  "id": "cmQ-OPG3Gkbt2kmll5-pvb4-0Q3jVebd",
+  "slug": "oswaldo-americo-salazar-quispe",
+  "electionId": "erm-2026",
+  "name": "Oswaldo Americo Salazar Quispe",
+  "givenNames": "Oswaldo Americo",
+  "surnames": "Salazar Quispe",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:39.493Z",
+      "sourceId": "jne-hv-cmQ-OPG3Gkbt2kmll5-pvb4-0Q3jVebd"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ABOGADO INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2019",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "year": "2022"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 27000,
+        "public": 0,
+        "private": 27000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO LINEAL COLOR NEGRO",
+        "value": 1000
+      },
+      {
+        "type": "MOTO LINEAL COLOR AZUL",
+        "value": 500
+      },
+      {
+        "type": "BLANCO NISSAN",
+        "value": 3000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "TODOS LOS VEHICULOS QUE REGISTRA SUNARP HAN SIDO VENDIDOS CON CONTRATO PRIVADO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8828a9fe-ac9a-4615-9a97-b9a07d09613f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c1a63dab-9650-4270-8d37-d4332319083d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana.",
+            "objective": "Fortalecer la seguridad mediante tecnología, patrullaje integrado y prevención.",
+            "goal": "Reducir delitos en 50%.",
+            "indicator": "Reducción de delitos denunciados."
+          },
+          {
+            "problem": "Falta de orden, seguridad y falta de iluminación adecuada en el malecón mayor de Pucusana.",
+            "objective": "Cero consumos de licor, drogas y prostitución en los espacios públicos del malecón mayor de iluminación en el malecón.",
+            "goal": "Reducir un 70% este mal que daña el turismo y las buenas costumbres de los vecinos.",
+            "indicator": "Liberar los espacios públicos donde hoy se concentran esta problemática."
+          },
+          {
+            "problem": "Escasa movilidad urbana y ordenamiento vial.",
+            "objective": "Crear nuevas zonas de estacionamientos y paraderos que faciliten la movilidad nocturna.",
+            "goal": "Facilitar el transporte nocturno ante cualquier emergencia de salud o denuncias policiales, así como urgencias.",
+            "indicator": "Existencia de asociaciones de mototaxistas y taxistas particulares."
+          },
+          {
+            "problem": "Escasas actividades culturales en el malecón de Pucusana.",
+            "objective": "Convocar a las distintas instituciones del distrito a participar en las actividades culturales.",
+            "goal": "Crear un ambiente participativo con el apoyo de los negocios privados para su desarrollo constante.",
+            "indicator": "Existencia de instituciones culturales de danzas y cantantes de distintos géneros que no son convocados para participar en el malecón."
+          },
+          {
+            "problem": "Falta de mejora en la infraestructura de los centros de salud del distrito y falta de atención para algunas pruebas.",
+            "objective": "Modernizar los centros de salud gestionando con el MINSA y gestionar con la Municipalidad de Lima la creación de un Hospital Solidario en el distrito.",
+            "goal": "Agilizar las atenciones y el desarrollo de análisis de las distintas enfermedades que aquejan a la población.",
+            "indicator": "Índice de pobladores con dificultades para acceder a servicios de salud por razones de infraestructura o falta de medicamentos."
+          },
+          {
+            "problem": "Violencia contra la mujer y los integrantes del grupo familiar.",
+            "objective": "Realizar charlas informativas dirigidas tanto en las reuniones de las distintas asociaciones como en los centros de estudio de primaria y secundaria.",
+            "goal": "Fortalecer la DEMUNA con profesionales que puedan asesorar inmediatamente a la víctima tanto en el aspecto legal como en el emocional.",
+            "indicator": "Cantidad de denuncias en la comisaría por estos hechos."
+          },
+          {
+            "problem": "Falta de profesionales del distrito para que ocupen cargos importantes en la comuna.",
+            "objective": "Convocar a los profesionales del distrito para que puedan desarrollar las labores de trabajo en cada campo municipal.",
+            "goal": "Aumentar a un 70% de profesionales del distrito para que laboren en la comuna.",
+            "indicator": "Número de profesionales que laboran en la municipalidad distrital."
+          },
+          {
+            "problem": "Escaso desarrollo en la implementación de saneamiento físico legal de los predios urbanos y rurales.",
+            "objective": "Seguir convocando a las autoridades de COFOPRI y de la MPL para las mesas de trabajo con la población e invitar a especialistas para la asesoría de la prescripción privada.",
+            "goal": "Aumentar significativamente la titulación en un 30%.",
+            "indicator": "Porcentaje de vivienda sin sanear."
+          },
+          {
+            "problem": "Falta de talleres e insumos para los adultos mayores (CIAM).",
+            "objective": "Brindar entretenimiento a los adultos mayores con talleres de baile, manualidades, repostería, etc.",
+            "goal": "Realizar un convenio con la Municipalidad de Lima para promover el bienestar físico, social y emocional de los vecinos de la tercera edad.",
+            "indicator": "Población adulto mayor organizada."
+          },
+          {
+            "problem": "Falta de academias preuniversitarias en el distrito.",
+            "objective": "Gestionar con la Universidad Nacional de Ingeniería para que sus alumnos dicten clases de matemática y física los sábados y domingos.",
+            "goal": "Generar un aumento del 30% más de estudiantes que puedan acceder a la educación superior.",
+            "indicator": "Población estudiantil que no sabe qué hacer después que culmina la educación secundaria."
+          },
+          {
+            "problem": "Limitado acceso a programas sociales para la población vulnerable.",
+            "objective": "Mejorar la atención social y programas de apoyo (comedores y ollitas comunes).",
+            "goal": "Incrementar cobertura en 50%.",
+            "indicator": "Beneficiarios atendidos."
+          },
+          {
+            "problem": "Deficiencia en servicios deportivos y culturales.",
+            "objective": "Recuperar y ampliar espacios deportivos y culturales.",
+            "goal": "Aumentar en un 70% los espacios recuperados con gestión y apoyo de la empresa privada y otras instituciones.",
+            "indicator": "Jóvenes que carecen de espacios deportivos o no pueden costear algunos que funcionan como negocios particulares."
+          },
+          {
+            "problem": "Desorden en la playa de Pucusana, donde se consume licor y se perturba a los negocios de comida.",
+            "objective": "Fiscalizar que los negocios donde venden licor cumplan un horario establecido bajo ordenanza municipal.",
+            "goal": "Disminuir potencialmente el desorden y el caos en la principal playa de Pucusana.",
+            "indicator": "Fomentar la tranquilidad de los turistas y seguridad de los negocios para el mejor desarrollo económico."
+          },
+          {
+            "problem": "Falta de cámaras de seguridad.",
+            "objective": "Aumento significativo de cámaras de seguridad e interconexión de las cámaras de los negocios y vecinos con una central de monitoreo las 24 horas del día.",
+            "goal": "Reducir mediante persuasión de vigilancia constante un 50% la delincuencia.",
+            "indicator": "Persuadir al delincuente a la menor acción inadecuada y activar inmediatamente el plan cerco."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de polos económicos de desarrollo como zonas industriales (Parque Industrial).",
+            "objective": "Gestionar con la Municipalidad de Lima la creación de un parque industrial.",
+            "goal": "Generar inversión de capital privado y la generación de empleo masivo.",
+            "indicator": "Empresas privadas convocadas para su participación."
+          },
+          {
+            "problem": "Falta de un mirador turístico.",
+            "objective": "Implementación de un mirador turístico.",
+            "goal": "Promedio de ejecución en dos años.",
+            "indicator": "Creación del estudio técnico para su implementación."
+          },
+          {
+            "problem": "Débil apoyo al sector pesquero.",
+            "objective": "Fortalecer la pesca artesanal y su comercialización con la invitación de medios digitales y tiktokers para promocionar la pesca artesanal.",
+            "goal": "1,000 beneficiarios.",
+            "indicator": "Pescadores beneficiados."
+          },
+          {
+            "problem": "Falta de inversión privada.",
+            "objective": "Fomentar la inversión privada dando facilidades de licencia para su pronto funcionamiento.",
+            "goal": "Creación de más puestos de trabajo para profesionales y no profesionales.",
+            "indicator": "Empresas cercanas al distrito que invierten su capital en Pucusana."
+          },
+          {
+            "problem": "Dependencia económica de actividades estacionales y baja promoción turística.",
+            "objective": "Diversificar la economía local y posicionar a Pucusana como destino turístico permanente.",
+            "goal": "300 emprendimientos e incrementar el turismo en 60%.",
+            "indicator": "Nuevos emprendimientos formalizados y número de visitantes."
+          },
+          {
+            "problem": "Falta de promoción de las playas y lugares turísticos del distrito y balneario de Pucusana.",
+            "objective": "Dar a conocer las playas del distrito como Ninfas, La Isla, playas menores, Yesera, La Honda, Pelícanos, La Tiza, El Boquerón, la casa barco, el rostro de Cristo y la Isla Galápagos.",
+            "goal": "Incrementar el ingreso diario económico de la población de pescadores artesanales y negocios culinarios del balneario en un 50%.",
+            "indicator": "Incremento de turistas para paseos en botes y consumo en restaurantes del distrito, a través de plataformas virtuales."
+          },
+          {
+            "problem": "Falta de promoción al turismo nocturno.",
+            "objective": "Incentivar mediante plataformas virtuales el turismo nocturno en el malecón.",
+            "goal": "Un claro desarrollo del 30% al finalizar la gestión.",
+            "indicator": "Coordinación con la empresa privada para su fomento y posterior ejecución."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Riesgo ante fenómenos climáticos y escasez de áreas verdes.",
+            "objective": "Fortalecer la gestión del riesgo de desastres e incrementar espacios públicos verdes (parques y jardines) en áreas destinadas para ello.",
+            "goal": "100% de zonas críticas intervenidas e incrementar en 30%.",
+            "indicator": "Planes implementados y metros cuadrados de áreas verdes."
+          },
+          {
+            "problem": "Desmonte en las calles y en las principales avenidas.",
+            "objective": "Gestionar con la Municipalidad de Lima el apoyo con maquinaria pesada.",
+            "goal": "Liberar las áreas en un 50% para implementar más vegetación.",
+            "indicator": "Retirar más de 200 toneladas de desmonte al año."
+          },
+          {
+            "problem": "Contaminación de playas y litoral.",
+            "objective": "Mejorar la gestión ambiental y de residuos sólidos.",
+            "goal": "Incrementar reciclaje en 70%.",
+            "indicator": "Toneladas recicladas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja confianza en la gestión pública.",
+            "objective": "Fortalecer la transparencia y participación ciudadana.",
+            "goal": "Audiencias permanentes.",
+            "indicator": "Audiencias realizadas."
+          },
+          {
+            "problem": "Trámites lentos y burocráticos.",
+            "objective": "Modernizar la gestión municipal.",
+            "goal": "Reducir en 50%.",
+            "indicator": "Tiempo promedio de atención."
+          },
+          {
+            "problem": "Limitada participación vecinal.",
+            "objective": "Impulsar el presupuesto participativo y la vigilancia ciudadana.",
+            "goal": "Incrementar en 100% la participación.",
+            "indicator": "Organizaciones participantes."
+          },
+          {
+            "problem": "Deficiente rendición de cuentas y balance de gestión.",
+            "objective": "Generar transparencia a través de audiencias públicas de plebiscito.",
+            "goal": "Transparencia Institucional.",
+            "indicator": "Confianza generada en el vecino."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cmQ-OPG3Gkbt2kmll5-pvb4-0Q3jVebd",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cmQ-OPG3Gkbt2kmll5-pvb4-0Q3jVebd",
+      "sha256": "1185af7235d286e96acbe2502b685123cb97f96eb2d550e2dedc2f20dbb148d6",
+      "accessedAt": "2026-10-02T23:00:39.493Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016432",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016432",
+      "sha256": "cda82d28879f07b90311be861a40b4346ec757877b85c1ccaa624e390995b0e1",
+      "accessedAt": "2026-10-02T23:00:40.002Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

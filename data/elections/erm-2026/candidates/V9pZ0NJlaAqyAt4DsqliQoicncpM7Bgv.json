@@ -1,0 +1,262 @@
+{
+  "id": "V9pZ0NJlaAqyAt4DsqliQoicncpM7Bgv",
+  "slug": "javier-victor-revilla-belisario",
+  "electionId": "erm-2026",
+  "name": "Javier Victor Revilla Belisario",
+  "givenNames": "Javier Victor",
+  "surnames": "Revilla Belisario",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:57.713Z",
+      "sourceId": "jne-hv-V9pZ0NJlaAqyAt4DsqliQoicncpM7Bgv"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Inca Garcilaso de la Vega",
+        "program": "Titulo Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Revilla Abogados",
+      "role": "Abogado",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 15600,
+        "public": 0,
+        "private": 15600
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "color plata",
+        "value": 58000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8e3e030d-b90d-48dc-8198-72ec04ac0c3d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/59c33d60-9ced-4a98-bceb-ca8bfd00c554.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevados índices de inseguridad ciudadana, delincuencia, drogadicción, violencia familiar y prostitución, exacerbados por la baja frecuencia de patrullaje policial y de serenazgo.",
+            "objective": "Contrarrestar el incremento de la inseguridad ciudadana mediante un trabajo coordinado y organizado entre la Municipalidad, la Policía Nacional, los vecinos y aliados estratégicos.",
+            "goal": "Reducir los índices de inseguridad y liberar a la población de la extorsión y marginación, logrando un distrito con un alto índice de seguridad ciudadana.",
+            "indicator": "Tasa de victimización delictiva. Frecuencia de patrullaje integrado. Número de denuncias por violencia familiar."
+          },
+          {
+            "problem": "Falta de apoyo y monitoreo a programas sociales y carencia de alternativas para poblaciones vulnerables como mujeres maltratadas, adolescentes, niños desamparados, personas con discapacidad y adultos mayores.",
+            "objective": "Promover la inclusión social de los sectores vulnerables, prevenir la violencia familiar y mejorar la calidad de vida de las personas en situación de pobreza y pobreza extrema.",
+            "goal": "Ejecutar actividades de promoción del desarrollo integral de los sectores vulnerables, fomentando su integración plena en la vida comunitaria para disminuir las situaciones de vulnerabilidad y riesgo social.",
+            "indicator": "Porcentaje de la población en situación de pobreza. Cobertura de programas de apoyo social. Tasa de embarazo adolescente."
+          },
+          {
+            "problem": "Carencia de programas culturales con participación masiva, deserción escolar y falta de infraestructura y equipamiento adecuado en centros educativos y de salud.",
+            "objective": "Mejorar la infraestructura y equipamiento de los centros de salud y educativos, y ampliar la oferta cultural y deportiva para cubrir la demanda poblacional.",
+            "goal": "Implementar la \"CASA DE LA JUVENTUD RIMENSE\", la \"MESA EDUCATIVA\", el \"BANCO DE PROYECTOS DEL RÍMAC\" y el programa \"MANTENIENDO NUESTROS LABORATORIOS RIMENSES\".",
+            "indicator": "Tasa de deserción escolar. Número de programas culturales y deportivos implementados. Nivel de equipamiento de centros educativos."
+          },
+          {
+            "problem": "Crecimiento de la deserción escolar, alta tasa de población sin seguro de salud, aumento de embarazos adolescentes y una considerable tasa de mortalidad infantil.",
+            "objective": "Promover la inclusión social de los sectores vulnerables, mejorando la calidad de vida de las personas en situación de pobreza a través de la protección de sus derechos y el acceso a servicios básicos.",
+            "goal": "Mejorar el acceso y la calidad de los servicios de educación y salud, con especial énfasis en la protección de niños, adolescentes y jóvenes en situación de vulnerabilidad.",
+            "indicator": "Tasa de deserción escolar. Porcentaje de la población afiliada a un seguro de salud. Tasa de embarazo adolescente."
+          },
+          {
+            "problem": "Elevado incremento de robos, asaltos, delincuencia, drogadicción y prostitución, derivado de la baja frecuencia de patrullaje policial y de serenazgo en las calles del distrito.",
+            "objective": "Implementar un sistema de seguridad ciudadana integral con la participación coordinada de la municipalidad, los vecinos y la Policía Nacional para contrarrestar el incremento de la inseguridad.",
+            "goal": "Reducir significativamente los índices de delincuencia y criminalidad en el distrito, mejorando la percepción de seguridad de los ciudadanos.",
+            "indicator": "Tasa de victimización delictiva. Frecuencia de patrullajes integrados. Tiempo de respuesta del serenazgo."
+          },
+          {
+            "problem": "Falta de apoyo y alternativas de solución en formación y trabajo para mujeres maltratadas, adolescentes y niños desamparados, así como la carencia de programas culturales con participación vecinal.",
+            "objective": "Ejecutar actividades de promoción del desarrollo integral de los sectores vulnerables, fomentando su integración en la vida comunitaria para disminuir las situaciones de riesgo social y preservar sus capacidades para alcanzar el desarrollo.",
+            "goal": "Establecer mecanismos y programas permanentes que garanticen el apoyo, la formación y la protección de los derechos de mujeres, niños, adolescentes y adultos mayores.",
+            "indicator": "Número de programas de apoyo social y cultural implementados. Cantidad de beneficiarios atendidos en programas para poblaciones vulnerables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desaprovechamiento del potencial turístico del distrito, a pesar de contar con un centro histórico y monumentos de la época virreinal.",
+            "objective": "Construir un modelo turístico de la ciudad que, sobre el eje del centro histórico, identifique y desarrolle circuitos de diferentes propósitos turísticos.",
+            "goal": "Organizar \"RECORRIDOS TURÍSTICOS TEMÁTICOS\", rehabilitar la Alameda de los Descalzos y la \"PLAZA DE ACHO\", y gestionar la recuperación del Centro Histórico.",
+            "indicator": "Número de visitantes y turistas anuales. Cantidad de circuitos turísticos operativos. Inversión en infraestructura turística."
+          },
+          {
+            "problem": "Comercio informal desordenado y falta de asociatividad en el sector productivo, lo que dificulta la formalización y el crecimiento de los negocios locales.",
+            "objective": "Fomentar la asociatividad mediante la creación de una Cámara de Comercio del Rímac y promover el diálogo entre la municipalidad y el sector productivo a través de una Mesa Emprendedora.",
+            "goal": "Integrar al comercio informal en la economía formal mediante programas de apoyo, capacitación y creación de espacios para la promoción de sus productos.",
+            "indicator": "Porcentaje de comercios informales formalizados. Número de empresas afiliadas a gremios empresariales. Cantidad de ferias para emprendedores realizadas."
+          },
+          {
+            "problem": "Empleabilidad precaria, subempleo y alta informalidad comercial, sin un adecuado apoyo para la formalización de negocios.",
+            "objective": "Fomentar un distrito productivo e industrial, competitivo en el mercado nacional e internacional, implementando programas de desarrollo para las PYMES y microempresas.",
+            "goal": "Crear la \"CÁMARA DE COMERCIO DEL RIMAC\", institucionalizar la \"MESA EMPRENDEDORA\" y promover el programa \"TRABAJANDO RIMAC\" como bolsa de trabajo municipal.",
+            "indicator": "Tasa de empleo formal. Número de empresas formalizadas. Porcentaje de participación de las PYMES en la economía local."
+          },
+          {
+            "problem": "Congestión vehicular, proliferación de transporte informal como mototaxis, y paraderos informales que generan inseguridad, contaminación y pérdida de tiempo.",
+            "objective": "Realizar una total reorganización y rediseño del transporte, la movilidad y las comunicaciones para mitigar los resultados negativos de la gestión actual.",
+            "goal": "Promover y construir las \"CICLO VÍAS RIMENSES\" en las principales arterias viales y mejorar la señalización y estado de las pistas.",
+            "indicator": "Tiempo promedio de desplazamiento en vías principales. Número de unidades de transporte informal. Cantidad de paraderos formales implementados."
+          },
+          {
+            "problem": "Falta de aprovechamiento del potencial turístico del distrito, a pesar de contar con monumentos históricos, lo que limita la generación de ingresos y el desarrollo local.",
+            "objective": "Construir un modelo turístico para la ciudad que, sobre el eje del centro histórico, identifique y desarrolle circuitos turísticos, garantizando una infraestructura de calidad y revalorizando el patrimonio.",
+            "goal": "Posicionar al Rímac como un destino turístico competitivo, integrando su patrimonio cultural y natural en una oferta atractiva que genere desarrollo económico sostenible.",
+            "indicator": "Número de visitantes y turistas anuales. Cantidad de circuitos turísticos operativos. Inversión pública y privada en infraestructura turística."
+          },
+          {
+            "problem": "Existencia de empleabilidad precaria, subempleo para profesionales y técnicos, y una alta tasa de informalidad laboral en el distrito.",
+            "objective": "Crear y fortalecer un crecimiento económico sostenido que garantice el bienestar, implementando programas de desarrollo para micro y pequeñas empresas y fomentando un distrito productivo y competitivo.",
+            "goal": "Incrementar las oportunidades de empleo digno y formal, y promover el emprendimiento a través de programas de capacitación y una bolsa de trabajo municipal.",
+            "indicator": "Tasa de empleo formal. Número de nuevas microempresas formalizadas. Tasa de subempleo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión y mala recolección de residuos sólidos, los cuales son arrojados en la vía pública y en la ribera del río Rímac, generando un creciente deterioro ambiental.",
+            "objective": "Implementar un sistema de recojo adecuado de los residuos que evite su disposición en formas poco saludables e inseguras, mitigando el impacto en el ambiente y la salud de las personas.",
+            "goal": "Lograr una gestión integral y eficiente de los residuos sólidos en todo el distrito, eliminando los puntos de acumulación de basura y promoviendo una cultura de reciclaje.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos sólidos. Toneladas de residuos sólidos reciclados. Nivel de limpieza en vías públicas y riberas del río."
+          },
+          {
+            "problem": "Incremento de la contaminación ambiental en sus ámbitos sonoro, visual, del aire y del suelo, además de una constante exposición a contaminantes atmosféricos por la mala disposición del transporte público.",
+            "objective": "Reducir la contaminación ambiental mediante la reorganización del transporte, el control de emisiones y la fiscalización de fuentes de ruido y contaminación visual.",
+            "goal": "Mejorar la calidad ambiental del distrito, reduciendo los niveles de contaminación del aire y sonora para proteger la salud y el bienestar de la población.",
+            "indicator": "Índice de calidad del aire (ICA). Niveles de presión sonora en decibeles (dB) en zonas críticas. Cantidad de operativos de fiscalización ambiental."
+          },
+          {
+            "problem": "Existencia de espacios de áreas verdes reducidos, en mal estado por falta de mantenimiento o inexistentes, lo que afecta la calidad de vida y el ornato del distrito.",
+            "objective": "Aumentar la presencia de áreas verdes para aprovechar sus efectos positivos en la conservación del medio ambiente, la oxigenación de la ciudad y el embellecimiento paisajístico del distrito.",
+            "goal": "Incrementar y garantizar el mantenimiento adecuado de las áreas verdes, parques y jardines, para mejorar la calidad ambiental y paisajística del Rímac.",
+            "indicator": "Metros cuadrados de área verde por habitante. Número de parques y jardines creados o recuperados. Presupuesto asignado al mantenimiento de áreas verdes."
+          },
+          {
+            "problem": "Inadecuada gestión y recolección de residuos sólidos, con una inexistente clasificación en los hogares y disposición frecuente en la vía pública y la ribera del río Rímac.",
+            "objective": "Implementar un sistema de recojo adecuado de residuos que incentive la clasificación y disposición final segura, mitigando el impacto en el ambiente y la salud.",
+            "goal": "Lograr que la población disponga sus residuos de formas saludables y seguras, superando la mala costumbre, la poca información y la falta de cultura ambiental.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos. Toneladas de residuos sólidos reciclados. Número de puntos de acopio para reciclaje."
+          },
+          {
+            "problem": "Incremento de la contaminación ambiental en los ámbitos sonoro, visual, del aire y del suelo, y contaminación de las aguas del río Rímac por la disposición de residuos domiciliarios e industriales.",
+            "objective": "Reducir el deterioro ambiental generado por la contaminación del aire, agua y suelo, a través de una gestión integral que proteja los recursos naturales del distrito.",
+            "goal": "Mitigar la contaminación atmosférica, la contaminación de las aguas del río Rímac y la degradación de los suelos para mejorar la calidad de vida de los habitantes.",
+            "indicator": "Índice de calidad del aire. Nivel de contaminación del agua del río Rímac. Niveles de ruido en zonas urbanas."
+          },
+          {
+            "problem": "Existencia de espacios de áreas verdes reducidos, en mal estado por falta de mantenimiento o simplemente inexistentes.",
+            "objective": "Conservar y ampliar las áreas verdes del distrito para contribuir a la oxigenación de la ciudad, reducir partículas contaminantes y embellecer paisajísticamente el entorno.",
+            "goal": "Asegurar la presencia de áreas verdes con efectos positivos para la conservación del medio ambiente y la armonización de las estructuras físicas del distrito.",
+            "indicator": "Metros cuadrados de área verde por habitante. Presupuesto asignado al mantenimiento de parques y jardines."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Insuficientes acciones para fomentar la participación ciudadana organizada en los asuntos públicos, y una escasa o nula articulación entre las autoridades y la comunidad.",
+            "objective": "Fortalecer la institucionalidad municipal como parte de un proceso de reestructuración democrática, aplicando un sistema de planificación basado en los principios de participación ciudadana y de organizaciones vecinales.",
+            "goal": "Garantizar la participación activa y vinculante de los vecinos y sus organizaciones en la planificación, toma de decisiones y fiscalización de la gestión municipal.",
+            "indicator": "Número de espacios de concertación y participación vecinal activos. Porcentaje del presupuesto participativo ejecutado anualmente. Nivel de satisfacción ciudadana con los canales de participación."
+          },
+          {
+            "problem": "Falta de transparencia, clientelismo político y procesos de contratación dirigidos que generan desconfianza de los vecinos hacia las instituciones, corrupción en los servidores y pérdida de credibilidad.",
+            "objective": "Gestionar la administración de los recursos del distrito de manera honesta, ágil, eficaz, eficiente y con transparencia, desarrollando obras de impacto para el desarrollo local.",
+            "goal": "Establecer una gestión municipal transparente y eficiente, que rinda cuentas a la ciudadanía y erradique las prácticas de corrupción, recuperando la confianza institucional.",
+            "indicator": "Índice de percepción de la corrupción. Porcentaje de ejecución del presupuesto de inversión. Número de denuncias por corrupción investigadas."
+          },
+          {
+            "problem": "Ineficiencia en los servicios municipales y cobros excesivos de arbitrios, lo que genera malestar en la población y una severa inconformidad con los servicios que reciben de la municipalidad.",
+            "objective": "Mejorar los servicios que brinda la municipalidad implementando planes estratégicos que resuelvan los problemas y reorganizando el área de rentas para una recaudación sin excesos ni abusos.",
+            "goal": "Modernizar la administración municipal para brindar servicios públicos de calidad, eficientes y con un costo justo, mejorando la relación entre la municipalidad y los ciudadanos.",
+            "indicator": "Nivel de satisfacción del usuario con los servicios municipales. Tiempo promedio de atención de trámites. Tasa de morosidad en el pago de arbitrios."
+          },
+          {
+            "problem": "Falta de transparencia, clientelismo político, corrupción en la gestión de trámites y procesos de contratación, lo que genera desconfianza y pérdida de credibilidad en la institución.",
+            "objective": "Fortalecer la institucionalidad municipal como parte de un proceso de reestructuración democrática, logrando una administración honesta, ágil, eficaz, eficiente y transparente.",
+            "goal": "Desempeñar una gestión municipal que demuestre idoneidad, transparencia y honradez en el manejo de los recursos, desarrollando obras de impacto y trascendencia.",
+            "indicator": "Índice de percepción de la corrupción. Porcentaje de ejecución del presupuesto de inversión. Número de procesos de contratación observados."
+          },
+          {
+            "problem": "Ineficiencia en los servicios municipales, cobros excesivos de arbitrios y una gestión desordenada que genera malestar e inconformidad en los vecinos.",
+            "objective": "Gestionar adecuadamente los recursos del distrito para mejorar la calidad de los servicios, promoviendo una reducción de los arbitrios municipales en función de las necesidades y posibilidades de los vecinos.",
+            "goal": "Realizar una reorganización administrativa del Área de Rentas e implementar programas informáticos que faciliten la recaudación y fiscalización tributaria sin excesos ni abusos.",
+            "indicator": "Nivel de satisfacción ciudadana con los servicios municipales. Tasa de morosidad en el pago de arbitrios. Tiempo promedio de atención de trámites."
+          },
+          {
+            "problem": "Insuficientes acciones para fomentar la participación ciudadana, escasa articulación con las organizaciones de base y poca voluntad municipal para la concertación y comunicación con los vecinos.",
+            "objective": "Fomentar la participación vecinal y ciudadana en los asuntos públicos, aplicando un sistema de planificación basado en la coordinación y concertación con la sociedad civil.",
+            "goal": "Establecer una gestión municipal regida por los principios de la participación ciudadana y de las organizaciones vecinales, con acciones de concertación con instituciones privadas y la sociedad civil.",
+            "indicator": "Número de cabildos abiertos o audiencias públicas realizadas. Cantidad de organizaciones vecinales activas. Porcentaje del presupuesto asignado a proyectos participativos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-V9pZ0NJlaAqyAt4DsqliQoicncpM7Bgv",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/V9pZ0NJlaAqyAt4DsqliQoicncpM7Bgv",
+      "sha256": "f33783f2d39bbd5672f8c16fe9be6db0ba83687920340db41330a96b829917dd",
+      "accessedAt": "2026-10-02T23:01:57.713Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017626",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017626",
+      "sha256": "e91d633c5cbe98a13959b80244496e2deebfb2b17a17aef7c4b5304a489f6c75",
+      "accessedAt": "2026-10-02T23:01:58.205Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

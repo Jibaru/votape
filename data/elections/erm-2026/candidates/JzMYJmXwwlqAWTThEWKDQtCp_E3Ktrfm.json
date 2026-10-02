@@ -1,0 +1,284 @@
+{
+  "id": "JzMYJmXwwlqAWTThEWKDQtCp_E3Ktrfm",
+  "slug": "william-ronald-salazar-mateo",
+  "electionId": "erm-2026",
+  "name": "William Ronald Salazar Mateo",
+  "givenNames": "William Ronald",
+  "surnames": "Salazar Mateo",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140139",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:46.114Z",
+      "sourceId": "jne-hv-JzMYJmXwwlqAWTThEWKDQtCp_E3Ktrfm"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IPAE",
+        "program": "ADMINISTRACION",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad ESAN",
+        "program": "BACHILLER EN ADMINISTRACIÓN CON MENCIÓN EN DIRECCIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UCAL",
+        "program": "ADMINISTRACION",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA VICTORIA",
+      "role": "SERVICIO DE COORDINACION DE EVENTOS",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA VICTORIA",
+      "role": "ASISTENCIA EN SEGURIDAD Y RIESGOS OPERACIONALES",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "EDUCACION VIAL SAN JUDAS TADEO SAC",
+      "role": "ASISTENCIA EN SEGURIDAD Y RIESGOS OPERACIONALES",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA VICTORIA",
+      "role": "ESPECIALISTA EN REDES",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LA VICTORIA",
+      "role": "ASISTENCIA DE RIESGOS Y OPERACIONES DE LA ALTA DIRECCION",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DE PRENSA Y PROPAGANDA",
+      "party": "RENOVACION Y PROGRESO EN CIENEGUILLA",
+      "from": "2010",
+      "to": "2010"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "RENOVACION Y PROGRESO EN CIENEGUILLA",
+      "from": "2010",
+      "to": "2010"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 73558,
+        "public": 72000,
+        "private": 1558
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "TERRENO",
+        "value": 10324.3,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MOTO LINEAL",
+        "value": 7000
+      },
+      {
+        "type": "JEEP",
+        "value": 37000
+      },
+      {
+        "type": "CAMIONETA SUV",
+        "value": 120000
+      },
+      {
+        "type": "CAMIONETA SUV",
+        "value": 50000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SEET LATINOAMERICA SAC",
+        "type": "ACCIONES",
+        "quantity": 70000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/51d27ba5-eef1-4a03-931d-79bf1e47ade4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1216b284-8911-4f45-bf0f-5608f27dcd51.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad, especialmente en zonas periféricas del distrito.",
+            "objective": "Mejorar el acceso equitativo a servicios de salud mediante la implementación del programa “Vecinos Saludables”, el fortalecimiento y descentralización de la infraestructura sanitaria, y la promoción de la salud mental.",
+            "goal": "Implementar un establecimiento tipo Hospital de la Solidaridad. Fortalecer los centros de salud existentes mediante convenios. Construir nuevos establecimientos en zonas como el Primer Sector y Río Seco.",
+            "indicator": "Número de establecimientos de salud implementados o fortalecidos. Porcentaje de cobertura de atención médica en el distrito."
+          },
+          {
+            "problem": "Brechas en la calidad de la infraestructura educativa y limitado acceso a la educación técnica y superior.",
+            "objective": "Impulsar el programa “Educación con Oportunidades para Todos” para mejorar la infraestructura educativa, promover el acceso a educación técnica y superior, y fortalecer las capacidades de estudiantes y docentes.",
+            "goal": "Fortalecer el instituto tecnológico, gestionar programas de becas municipales y academias preuniversitarias, e implementar aulas digitales. Promover la inclusión educativa para niños con habilidades diferentes y la alfabetización de adultos.",
+            "indicator": "Porcentaje de infraestructura educativa mejorada. Número de becas municipales otorgadas. Tasa de acceso a educación superior."
+          },
+          {
+            "problem": "Insuficiente infraestructura deportiva y recreativa para fomentar la salud física y la integración social.",
+            "objective": "Fomentar la construcción y mejoramiento de la infraestructura deportiva y espacios recreativos, promoviendo la práctica de diversas disciplinas y la implementación de programas deportivos comunitarios.",
+            "goal": "Construir y mejorar estadios, losas deportivas y espacios recreativos. Implementar programas deportivos comunitarios para prevenir conductas de riesgo en niños y jóvenes.",
+            "indicator": "Número de infraestructuras deportivas y recreativas construidas o mejoradas. Tasa de participación en programas deportivos."
+          },
+          {
+            "problem": "Deficiencias en la conectividad vial y movilidad urbana dentro del distrito y con el resto de Lima Metropolitana.",
+            "objective": "Mejorar la infraestructura vial y la movilidad para garantizar la conectividad, accesibilidad y calidad de vida de la población.",
+            "goal": "Gestionar el mejoramiento y ampliación de los cuatro carriles y vías de acceso al distrito, incluyendo la construcción de vías auxiliares y ciclovías en coordinación con la Municipalidad Metropolitana de Lima.",
+            "indicator": "Kilómetros de vías mejoradas y ampliadas. Reducción del tiempo de viaje."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitada diversificación económica y baja generación de empleo formal en el distrito.",
+            "objective": "Potenciar las actividades productivas como el turismo, el comercio y el emprendimiento local para promover la generación de empleo y el crecimiento sostenible.",
+            "goal": "Fomentar la formalización y mejora de los servicios turísticos mediante capacitación y certificación. Promover ferias gastronómicas, culturales y artesanales, y establecer convenios para posicionar al distrito a nivel regional y nacional.",
+            "indicator": "Tasa de crecimiento del empleo formal. Número de nuevos emprendimientos formalizados."
+          },
+          {
+            "problem": "Potencial turístico, ecológico y cultural del distrito insuficientemente desarrollado y promocionado.",
+            "objective": "Consolidar a Cieneguilla como un destino turístico ecológico y cultural, mediante la puesta en valor de sus recursos y la creación de una marca local.",
+            "goal": "Poner en valor recursos históricos como el Qhapaq Ñan y sitios arqueológicos. Crear rutas turísticas integradas, promover la \"Marca Cieneguilla\" y desarrollar herramientas digitales para facilitar la experiencia del visitante.",
+            "indicator": "Incremento del número de turistas anuales. Número de rutas turísticas implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad de la población frente a riesgos naturales como huaicos, inundaciones y activación de quebradas.",
+            "objective": "Fortalecer las acciones de prevención y gestión del riesgo de desastres para proteger a la población y reducir la exposición a peligros naturales.",
+            "goal": "Implementar un plan integral de gestión del riesgo de desastres, incluyendo la mitigación de riesgos y la preparación para la respuesta a emergencias.",
+            "indicator": "Número de sistemas de alerta temprana implementados. Porcentaje de población capacitada en prevención de desastres."
+          },
+          {
+            "problem": "Gestión inadecuada de los residuos sólidos que afecta la calidad ambiental y el bienestar de los vecinos.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos, promoviendo la segregación en la fuente, el reciclaje y la economía circular.",
+            "goal": "Implementar programas de segregación en la fuente, instalar puntos limpios, adquirir maquinaria moderna y crear plantas de reciclaje y compostaje. Impulsar el aprovechamiento de residuos orgánicos para el vivero municipal.",
+            "indicator": "Porcentaje de residuos sólidos reaprovechados. Cobertura del servicio de recojo de residuos sólidos."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y ocupación informal del territorio que genera presión sobre áreas naturales.",
+            "objective": "Impulsar el ordenamiento territorial mediante la planificación urbana, la formalización de predios y la regulación del crecimiento para evitar la expansión desordenada.",
+            "goal": "Elaborar y ejecutar planes de desarrollo urbano y ordenamiento territorial. Formalizar predios y regular el crecimiento urbano para proteger las áreas de valor ecológico y paisajístico.",
+            "indicator": "Porcentaje del territorio distrital con zonificación y planificación aprobada. Número de hectáreas de áreas naturales protegidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitaciones en la capacidad de gestión pública, planificación y ejecución de proyectos municipales.",
+            "objective": "Mejorar la eficiencia y calidad en la gestión pública, orientándola al uso eficiente de los recursos y priorizando inversiones de alto impacto en la calidad de vida de la población.",
+            "goal": "Fortalecer las capacidades del personal municipal, mejorar los procesos administrativos e implementar sistemas de gestión de calidad. Articular con entidades públicas y privadas para la ejecución de proyectos.",
+            "indicator": "Porcentaje de ejecución del presupuesto de inversión pública. Índice de percepción de la calidad de los servicios públicos."
+          },
+          {
+            "problem": "Sistema de seguridad ciudadana insuficiente para responder eficazmente a las actividades delictivas.",
+            "objective": "Fortalecer el sistema de seguridad ciudadana mediante una estrategia integral basada en la prevención, el uso de tecnología y el trabajo articulado con la Policía Nacional.",
+            "goal": "Implementar un modelo de seguridad inteligente con cámaras de videovigilancia, drones y alarmas vecinales. Crear una Escuela de Serenazgo y promover el patrullaje integrado. Desarrollar planes operativos como el \"Plan Cerco\" y el \"Plan Telaraña\".",
+            "indicator": "Tasa de criminalidad y delincuencia en el distrito. Tiempo promedio de respuesta del serenazgo."
+          },
+          {
+            "problem": "Insuficientes mecanismos de participación ciudadana, transparencia y rendición de cuentas en la gestión municipal.",
+            "objective": "Promover una gestión participativa y transparente, garantizando el acceso a la información pública y fortaleciendo la confianza de la ciudadanía.",
+            "goal": "Impulsar mecanismos como el presupuesto participativo y audiencias públicas. Implementar plataformas digitales para la transparencia y promover la vigilancia ciudadana. Posicionar a la municipalidad como referente en buenas prácticas.",
+            "indicator": "Número de audiencias públicas de rendición de cuentas realizadas. Nivel de implementación de portales de transparencia."
+          },
+          {
+            "problem": "Escasa modernización de la gestión municipal y limitada incorporación de tecnologías digitales en los servicios públicos.",
+            "objective": "Impulsar la modernización y el gobierno digital para optimizar procesos, reducir tiempos de atención y mejorar la calidad de los servicios a la ciudadanía.",
+            "goal": "Implementar un modelo de gobierno digital que incluya la automatización de trámites y el uso de aplicativos móviles. Capacitar a la población en el uso de herramientas digitales para una gestión más ágil y eficiente.",
+            "indicator": "Porcentaje de trámites administrativos digitalizados. Número de ciudadanos que utilizan servicios en línea."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-JzMYJmXwwlqAWTThEWKDQtCp_E3Ktrfm",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/JzMYJmXwwlqAWTThEWKDQtCp_E3Ktrfm",
+      "sha256": "592f940ae11722798856beecda68cd68c81666f2df0ef9ad60ff671d33cc68f4",
+      "accessedAt": "2026-10-02T22:54:46.114Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016690",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016690",
+      "sha256": "828de3ca53defa9275a85ca610f65ead45da573966bb8cd2bc5eacf1c34768aa",
+      "accessedAt": "2026-10-02T22:54:46.911Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

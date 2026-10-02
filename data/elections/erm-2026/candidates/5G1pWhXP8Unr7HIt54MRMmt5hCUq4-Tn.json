@@ -1,0 +1,294 @@
+{
+  "id": "5G1pWhXP8Unr7HIt54MRMmt5hCUq4-Tn",
+  "slug": "betty-fani-fernandez-gallarday",
+  "electionId": "erm-2026",
+  "name": "Betty Fani Fernandez Gallarday",
+  "givenNames": "Betty Fani",
+  "surnames": "Fernandez Gallarday",
+  "age": 62,
+  "gender": "Femenino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:06.030Z",
+      "sourceId": "jne-hv-5G1pWhXP8Unr7HIt54MRMmt5hCUq4-Tn"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ECONOMISTA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN ECONOMIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSITAT DE VALÈNCIA",
+        "program": "TÍTULO DE MÁSTER UNIVERSITARIO EN COOPERACIÓN AL DESARROLLO (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2014"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "Universidad Complutense de Madrid-Escuela Diplomática de España",
+        "program": "Master en Estudios Internacionales",
+        "completed": true,
+        "degree": "Magister",
+        "year": "2004"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "FIIAPP - MADRID-ESPAÑA.",
+        "program": "Master en Estudios Políticos Aplicados",
+        "completed": true,
+        "degree": "Magister",
+        "year": "2003"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "Universitat de València",
+        "program": "Doctorado en Cooperación al Desarrollo",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Universidad Nacional Mayor de San Marcos",
+      "role": "Catedrática en Posgrado y Pregrado",
+      "from": "2021",
+      "to": "2025"
+    },
+    {
+      "employer": "Autoridad Nacional del Agua",
+      "role": "Consultora en Cooperación Internacional",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "Seguro Social del Perú",
+      "role": "Servicio Profesional Especializado en Economía",
+      "from": "2018",
+      "to": "2022"
+    },
+    {
+      "employer": "Congreso de la República del Perú",
+      "role": "Profesional en el Departamento de Investigación Parlamentaria",
+      "from": "2013",
+      "to": "2016"
+    },
+    {
+      "employer": "Presidencia del Consejo de Ministros",
+      "role": "Jefa de la Secretaria de Coordinación Interinstitucional",
+      "from": "2005",
+      "to": "2006"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARÍA NACIONAL DE RELACIONES INTERNACIONALES",
+      "party": "PERU POSIBLE",
+      "from": "2014",
+      "to": "2017"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 8650,
+        "public": 8650,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 95140.58,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 5508.24,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Asociación de Damas San Juan Bautista de Pallasca",
+        "type": "PARTICIPACIONES",
+        "quantity": 1,
+        "value": 1
+      },
+      {
+        "company": "Institución Educativa, Conocimiento, Habilidad y Actitud S.A.C",
+        "type": "ACCIONES",
+        "quantity": 5000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9de45a7e-5705-4069-a68c-f2b054e878a4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/886b7ae6-6d1a-40b0-a4ba-b411707c36c3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Las familias trabajadoras, especialmente madres profesionales y familias monoparentales, carecen de servicios de cuidado infantil accesibles y con horarios extendidos, lo que puede generar deserción laboral.",
+            "objective": "Implementar un sistema innovador de Cunas Municipales para niños y niñas de 1 a 3 años, brindando atención integral, cuidado y estimulación temprana en horario extendido.",
+            "goal": "Beneficiar durante el primer año a 200 niños de 1 a 3 años, implementar dos Cunas Municipales Piloto y alcanzar una cobertura inicial de 200 familias trabajadoras.",
+            "indicator": "Número de niños beneficiados. Cobertura de familias trabajadoras. Nivel de satisfacción de los padres."
+          },
+          {
+            "problem": "Falta de asistencia y atención permanente para adultos mayores, especialmente aquellos en situación de vulnerabilidad o que viven solos, lo que afecta su calidad de vida y seguridad.",
+            "objective": "Mejorar la calidad de vida de los adultos mayores, permitiéndoles permanecer en su hogar con asistencia y atención permanente a través de un servicio de teleasistencia sociosanitaria.",
+            "goal": "Beneficiar inicialmente a 500 adultos mayores de 70 años, reducir en un 25% el tiempo de respuesta ante emergencias y alcanzar un nivel de satisfacción ciudadana superior al 90%.",
+            "indicator": "Tiempo de respuesta ante emergencias médicas y domésticas. Nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Acceso limitado de los vecinos a servicios de salud de calidad debido a barreras económicas, lo que dificulta una cultura de prevención y atención médica oportuna.",
+            "objective": "Facilitar el acceso de los vecinos a servicios de salud de calidad a costos preferenciales mediante convenios interinstitucionales con clínicas privadas, promoviendo la responsabilidad social empresarial.",
+            "goal": "Beneficiar durante el primer año a 20,000 vecinos, suscribir convenios con al menos 10 clínicas y centros médicos, y facilitar el acceso a servicios de salud con descuentos de hasta el 30%.",
+            "indicator": "Número de vecinos beneficiados. Número de convenios suscritos con clínicas. Porcentaje de descuento en servicios de salud."
+          },
+          {
+            "problem": "Oportunidades limitadas de acceso a una educación de calidad en todos los niveles para los vecinos del distrito, afectando el desarrollo del capital humano y la igualdad de oportunidades.",
+            "objective": "Ampliar las oportunidades de acceso a una educación de calidad, promover la igualdad de oportunidades y fortalecer el desarrollo del capital humano del distrito mediante convenios con instituciones educativas.",
+            "goal": "Beneficiar a 5,000 estudiantes y familias en el primer año, suscribir convenios con al menos 10 universidades y 20 colegios, y gestionar al menos 100 becas nacionales e internacionales.",
+            "indicator": "Número de estudiantes y familias beneficiadas. Número de convenios con universidades y colegios. Número de becas gestionadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Los emprendimientos locales enfrentan dificultades para su formalización, crecimiento y consolidación debido a la falta de una estrategia integral de promoción, capacitación, financiamiento y acompañamiento.",
+            "objective": "Fortalecer los emprendimientos, impulsar la formalización, generar empleo y consolidar a Santiago de Surco como un distrito líder en innovación y desarrollo económico local.",
+            "goal": "Beneficiar a 5,000 emprendedores en el primer año, capacitar a más de 5,000 emprendedores e incubar al menos 200 nuevos emprendimientos innovadores durante el primer año.",
+            "indicator": "Número de emprendedores beneficiados. Número de nuevos emprendimientos innovadores incubados. Tasa de formalización de negocios."
+          },
+          {
+            "problem": "Falta de una identidad de marca consolidada para el distrito que promueva su potencial turístico, gastronómico, empresarial y cultural, limitando la dinamización de la economía local.",
+            "objective": "Implementar el Programa Piloto \"MARCA SURCO\" para posicionar a Santiago de Surco como un distrito innovador, competitivo y cultural, fortaleciendo su identidad e impulsando la economía local.",
+            "goal": "Beneficiar durante el primer año a 10,000 emprendedores y vecinos, incorporar al menos 1,000 empresas al programa y alcanzar un nivel de satisfacción ciudadana superior al 90%.",
+            "indicator": "Número de emprendedores y empresas incorporadas al programa. Flujo de visitantes y consumo de servicios locales. Nivel de reconocimiento y satisfacción ciudadana."
+          },
+          {
+            "problem": "El distrito no aprovecha su potencial para convertirse en un centro de innovación, conocimiento y desarrollo tecnológico, careciendo de un ecosistema articulado entre gobierno, academia y empresas.",
+            "objective": "Transformar a Santiago de Surco en el principal distrito de innovación, conocimiento, emprendimiento y desarrollo tecnológico del Perú, mediante la articulación de la triple hélice de innovación.",
+            "goal": "Crear el primer Distrito de Innovación Municipal del Perú, atraer al menos 100 empresas de base tecnológica e incubar y acelerar más de 300 emprendimientos innovadores.",
+            "indicator": "Número de empresas de base tecnológica atraídas. Número de emprendimientos innovadores incubados y acelerados. Número de empleos de alto valor agregado generados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Emisiones de gases de efecto invernadero y falta de inversiones sostenibles que contribuyen al cambio climático, sin un sistema de incentivos que promueva prácticas amigables con el ambiente.",
+            "objective": "Implementar un programa de descarbonización mediante un sistema de incentivos tributarios y reconocimientos ambientales para reducir progresivamente las emisiones de gases de efecto invernadero y promover inversiones sostenibles.",
+            "goal": "Beneficiar a 20,000 vecinos y empresas en el primer año, reducir progresivamente la huella de carbono del distrito e incorporar al menos 500 empresas y 5,000 viviendas al programa de incentivos.",
+            "indicator": "Reducción de la huella de carbono del distrito. Número de empresas y viviendas incorporadas al programa de incentivos verdes. Nivel de adopción de tecnologías limpias."
+          },
+          {
+            "problem": "Alta dependencia de energías convencionales y desaprovechamiento del potencial de las energías renovables, como la solar, para reducir emisiones de carbono y costos energéticos en el distrito.",
+            "objective": "Impulsar el uso de energías renovables mediante la promoción de la instalación de paneles solares en viviendas, comercios e instituciones, con el fin de reducir las emisiones de carbono.",
+            "goal": "Beneficiar a 5,000 viviendas, empresas e instituciones en el primer año, e incorporar al menos 1,000 viviendas y establecimientos al programa de incentivos para la instalación de paneles solares.",
+            "indicator": "Número de viviendas y establecimientos con paneles solares instalados. Reducción del consumo de energía convencional. Disminución de emisiones de gases de efecto invernadero."
+          },
+          {
+            "problem": "Insuficiente participación ciudadana en la arborización, recuperación de áreas verdes y conservación ambiental, lo que afecta la calidad de vida, la resiliencia climática y la cobertura vegetal del distrito.",
+            "objective": "Promover la participación activa de los vecinos, empresas e instituciones en la arborización, recuperación de áreas verdes y conservación ambiental para mejorar la calidad de vida y fortalecer la resiliencia climática.",
+            "goal": "Beneficiar a 20,000 vecinos, empresas e instituciones en el primer año, sembrar y recuperar más de 10,000 árboles y especies ornamentales, e incorporar a más de 5,000 viviendas e instituciones al programa de incentivos.",
+            "indicator": "Número de árboles y especies ornamentales sembradas y recuperadas. Incremento de la cobertura de áreas verdes. Número de viviendas e instituciones participantes en el programa."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de barreras económicas, tecnológicas y geográficas que dificultan el cumplimiento de las obligaciones tributarias y administrativas de los vecinos, especialmente para sectores vulnerables.",
+            "objective": "Implementar mecanismos de pago flexibles, digitales y presenciales que faciliten el cumplimiento de las obligaciones tributarias y administrativas, promoviendo la inclusión financiera y la cultura tributaria.",
+            "goal": "Beneficiar a 100,000 vecinos y contribuyentes en el primer año, incrementar la inclusión financiera y los niveles de recaudación, y posicionar a Surco como el primer distrito con un sistema integral de pagos inclusivos.",
+            "indicator": "Tasa de inclusión financiera. Niveles de recaudación municipal. Tiempos de atención y costos administrativos. Nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Falta de acceso en tiempo real a la información sobre las actividades, compromisos y avances de la gestión municipal, lo que debilita la transparencia, la participación ciudadana y la confianza en las instituciones.",
+            "objective": "Implementar una plataforma de gobierno abierto y rendición de cuentas que permita a los vecinos conocer en tiempo real las actividades oficiales, reuniones, compromisos y avances de los proyectos municipales.",
+            "goal": "Publicar el 100% de las agendas institucionales y actividades oficiales, incrementar los niveles de transparencia y acceso a la información, y alcanzar un nivel de satisfacción ciudadana superior al 90%.",
+            "indicator": "Porcentaje de publicación de agendas institucionales. Nivel de transparencia y acceso a la información pública. Nivel de participación ciudadana y confianza en la gestión."
+          },
+          {
+            "problem": "La gestión pública municipal opera con un modelo tradicional, con limitada transparencia, participación ciudadana y colaboración, lo que genera desconfianza y aleja a los ciudadanos de la toma de decisiones.",
+            "objective": "Implementar un modelo de gestión pública basado en la transparencia, la participación ciudadana, la colaboración y la innovación para fortalecer la confianza de los vecinos y mejorar la calidad de los servicios municipales.",
+            "goal": "Implementar la primera plataforma integral de Gobierno Abierto a nivel municipal en el Perú, publicar el 100% de la información de gestión de manera accesible y posicionar a Surco como un referente nacional en gobierno abierto.",
+            "indicator": "Publicación del 100% de la información de gestión y presupuesto. Nivel de participación ciudadana en la formulación de políticas públicas. Nivel de confianza ciudadana en la gestión pública."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-5G1pWhXP8Unr7HIt54MRMmt5hCUq4-Tn",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/5G1pWhXP8Unr7HIt54MRMmt5hCUq4-Tn",
+      "sha256": "abdbb317d0084c4a416dd693f3f02f8f8f1f8539c0b0c1ee1ce43546040ba70d",
+      "accessedAt": "2026-10-02T23:06:06.030Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020666",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020666",
+      "sha256": "caddc9b862a53cfa80bda20cd4518bfdecc10efba0cb2b69d13856f4964ce47c",
+      "accessedAt": "2026-10-02T23:06:06.516Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

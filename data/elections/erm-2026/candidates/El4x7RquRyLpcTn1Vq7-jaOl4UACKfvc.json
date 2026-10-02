@@ -1,0 +1,176 @@
+{
+  "id": "El4x7RquRyLpcTn1Vq7-jaOl4UACKfvc",
+  "slug": "mel-ian-vilcahuaman-medrano",
+  "electionId": "erm-2026",
+  "name": "Mel Ian Vilcahuaman Medrano",
+  "givenNames": "Mel Ian",
+  "surnames": "Vilcahuaman Medrano",
+  "age": 26,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:02.962Z",
+      "sourceId": "jne-hv-El4x7RquRyLpcTn1Vq7-jaOl4UACKfvc"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "SISE",
+        "program": "COMUNICACIÓN AUDIOVISUAL",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISRITAL DE ATE",
+      "role": "FUNCIONARIO",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 14068,
+        "public": 14068,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 30000
+      },
+      {
+        "type": "MOTO",
+        "value": 3000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e331a345-f616-4485-848a-38ae349fb0d5.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/be95a7b2-d3dd-4937-8adf-a893ba6ddda6.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana que afecta la calidad de vida, limita el desarrollo económico y genera temor en la población.",
+            "objective": "Fortalecer la seguridad ciudadana y la convivencia vecinal mediante acciones preventivas, el uso de tecnología, el fortalecimiento del Serenazgo municipal y la participación activa de las juntas vecinales.",
+            "goal": "Reducir los factores de riesgo asociados a la violencia y delincuencia, y recuperar los espacios públicos para convertirlos en puntos seguros para la comunidad.",
+            "indicator": "Implementación de una Central Integrada de Seguridad Ciudadana, incremento del sistema de videovigilancia y ejecución de patrullaje integrado entre Serenazgo y la Policía Nacional."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud mental y comunitaria, evidenciado en problemas de estrés, ansiedad, violencia familiar y falta de oportunidades en la población.",
+            "objective": "Mejorar la calidad de vida de los vecinos de Ate mediante el fortalecimiento de programas sociales, atención a poblaciones vulnerables y promoción de la salud preventiva.",
+            "goal": "Garantizar el bienestar físico y emocional de los vecinos a través de la atención preventiva, el acompañamiento psicológico y la promoción de estilos de vida saludables.",
+            "indicator": "Creación y puesta en funcionamiento del Centro Municipal de Orientación Psicológica, y número de campañas de salud mental comunitaria dirigidas a la población."
+          },
+          {
+            "problem": "Existencia de brechas educativas y falta de oportunidades laborales para la juventud, incluyendo deserción escolar y dificultades de acceso a educación superior y herramientas digitales.",
+            "objective": "Mejorar la calidad de vida de los vecinos de Ate mediante el apoyo a la educación, la cultura y el deporte, generando oportunidades para el desarrollo integral de niños y jóvenes.",
+            "goal": "Fortalecer las capacidades de los jóvenes, reducir las brechas educativas y facilitar su acceso al mercado laboral mediante programas de formación y articulación con el sector empresarial.",
+            "indicator": "Implementación del programa \"Jóvenes Ateños con Futuro\", número de talleres de capacitación técnica y creación de una bolsa laboral municipal para la inserción laboral juvenil."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Dificultades para el desarrollo de las Micro y Pequeñas Empresas (MYPES), caracterizadas por la informalidad, el limitado acceso a capacitación y la falta de asesoramiento técnico.",
+            "objective": "Promover el desarrollo económico local y la generación de oportunidades mediante el fortalecimiento de las micro y pequeñas empresas, la formalización de emprendimientos y la capacitación laboral.",
+            "goal": "Consolidar una economía distrital dinámica e inclusiva, fortaleciendo el tejido empresarial local y generando mayores oportunidades de empleo para los ciudadanos.",
+            "indicator": "Creación del programa \"Ate Emprende\", número de MYPES capacitadas y formalizadas, y realización de ferias productivas y comerciales para la promoción de productos locales."
+          },
+          {
+            "problem": "Persistencia del comercio informal y falta de ordenamiento en las actividades comerciales, lo que genera desorden y limita el desarrollo económico sostenible del distrito.",
+            "objective": "Impulsar un Ate con mayores oportunidades, promoviendo la formalización económica y programas de capacitación para jóvenes y trabajadores.",
+            "goal": "Ordenar las actividades comerciales y promover la formalización para mejorar el entorno de negocios y contribuir al desarrollo económico del distrito.",
+            "indicator": "Implementación de programas de formalización empresarial y número de asesorías brindadas para la formalización de negocios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, déficit de áreas verdes y de espacios públicos adecuados para la recreación y el esparcimiento de los vecinos.",
+            "objective": "Construir un distrito ambientalmente sostenible y ordenado mediante una adecuada gestión de residuos sólidos, la recuperación de áreas verdes y la promoción de la educación ambiental.",
+            "goal": "Mejorar la limpieza pública y la gestión integral de residuos sólidos, así como recuperar y mantener los parques, jardines y áreas verdes del distrito.",
+            "indicator": "Implementación de campañas permanentes de reciclaje y segregación de residuos, y número de programas de educación ambiental en colegios y comunidades."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado que conlleva a la ocupación de zonas vulnerables y a una planificación deficiente de la movilidad y la infraestructura pública.",
+            "objective": "Mejorar la planificación ordenada de la movilidad, la infraestructura y la calidad del espacio público para garantizar un desarrollo urbano sostenible.",
+            "goal": "Lograr un desarrollo urbano ordenado y seguro que mejore la movilidad, la infraestructura y la calidad del espacio público en beneficio de todos los vecinos.",
+            "indicator": "Ejecución de proyectos de mejoramiento de pistas y veredas, recuperación de vías principales y gestión de obras de prevención en zonas vulnerables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la gestión municipal para que sea más moderna, transparente, eficiente y cercana a las necesidades de la ciudadanía.",
+            "objective": "Fortalecer una municipalidad moderna, transparente y eficiente, garantizando el uso responsable de los recursos públicos, la rendición de cuentas y la digitalización de servicios.",
+            "goal": "Consolidar un modelo de gestión municipal abierto, moderno y cercano a los vecinos, caracterizado por la transparencia, la eficiencia y la participación ciudadana.",
+            "indicator": "Implementación de mecanismos digitales para la mejora de la atención ciudadana y realización de rendiciones de cuentas periódicas a los vecinos."
+          },
+          {
+            "problem": "Limitada participación de la ciudadanía en el desarrollo del distrito y en los mecanismos de vigilancia y control de la gestión municipal.",
+            "objective": "Promover la participación activa de los ciudadanos en el desarrollo del distrito, fortaleciendo los mecanismos de organización vecinal, presupuesto participativo y vigilancia ciudadana.",
+            "goal": "Garantizar una gestión municipal transparente y democrática, con una ciudadanía activa que participa en la planificación, fiscalización y evaluación de las políticas públicas locales.",
+            "indicator": "Número de juntas vecinales fortalecidas, implementación de procesos de presupuesto participativo y creación de comités ciudadanos de vigilancia de proyectos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-El4x7RquRyLpcTn1Vq7-jaOl4UACKfvc",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/El4x7RquRyLpcTn1Vq7-jaOl4UACKfvc",
+      "sha256": "84a1c9dd2d61748662e9e1f5503b3eb53b92f82396e60bdf283b6b67d5672c54",
+      "accessedAt": "2026-10-02T22:51:02.962Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020862",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020862",
+      "sha256": "be9cf372a2781ad9acabc184f8f39e78456ac02acd4686b0ee065c6b3a5fda2c",
+      "accessedAt": "2026-10-02T22:51:03.497Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

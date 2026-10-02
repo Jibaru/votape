@@ -1,0 +1,228 @@
+{
+  "id": "exbJ-pCcx29Xb4doLJ1mac8l2i59Fkx_",
+  "slug": "samuel-horacio-guerrero-castillo",
+  "electionId": "erm-2026",
+  "name": "Samuel Horacio Guerrero Castillo",
+  "givenNames": "Samuel Horacio",
+  "surnames": "Guerrero Castillo",
+  "age": 45,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:09.811Z",
+      "sourceId": "jne-hv-exbJ-pCcx29Xb4doLJ1mac8l2i59Fkx_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2007",
+      "to": "2026"
+    },
+    {
+      "employer": "ESTUDIO JURIDICO GARCIA TORRES",
+      "role": "ASISTENTE",
+      "from": "2006",
+      "to": "2006"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 0,
+        "private": 42000
+      },
+      {
+        "year": "2025",
+        "total": 42000,
+        "public": 0,
+        "private": 42000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2d39bb64-03bc-448b-9292-7e51f80c6663.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/9b557c3c-e20a-4c39-b031-bc466e678274.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de una buena educación para los niños y su infraestructura.",
+            "objective": "Lograr una educación de calidad para los niños, niñas y adolescentes, mediante la gestión para la creación de nuevas instituciones educativas, la elaboración de una cartera de proyectos para mejorar el acceso y la calidad, y el impulso a la capacitación docente.",
+            "goal": "Gestionar el presupuesto correspondiente ante entidades públicas y privadas, y firmar convenios para la capacitación de docentes durante el primer año de gestión.",
+            "indicator": "400 docentes capacitados para mejorar el logro de aprendizajes de los niños y niñas de las instituciones públicas."
+          },
+          {
+            "problem": "Falta de una buena atención de salud a los ciudadanos del distrito y su infraestructura.",
+            "objective": "Garantizar salud de calidad para todos a través de la gestión para la construcción del nuevo Hospital Sergio Bernales, la implementación de un sistema de vigilancia contra la desnutrición y anemia, y la creación de una cartera de proyectos de inversión pública en salud.",
+            "goal": "Gestionar el financiamiento para la implementación y mejora de las postas locales, trabajar coordinadamente con la dirección de salud y empoderar las postas para una atención rápida y efectiva.",
+            "indicator": "Beneficiar a 100,000 pobladores con servicios de salud optimizados, implementar un sistema de vigilancia que beneficie a 20,000 niños, y crear una cartera anual con 20 proyectos de inversión pública en salud."
+          },
+          {
+            "problem": "Falta de seguridad distrital y caos urbano.",
+            "objective": "Lograr un distrito con orden y seguridad mediante un sistema de protección local contra la violencia familiar, la apertura de casas de refugio, el fortalecimiento de la seguridad ciudadana con participación vecinal y el mejoramiento del equipo de serenazgo.",
+            "goal": "Contribuir a la reducción progresiva de los índices de inseguridad en los dos primeros años, mejorar el servicio en un 50% al final del primer año y articular y liderar las acciones de manera eficaz en un periodo de un año.",
+            "indicator": "Implementar un sistema de protección que beneficie a 200,000 personas, operar 4 casas de refugio, y tener un sistema de seguridad ciudadana funcionando con participación de juntas vecinales para beneficiar a 200,000 pobladores."
+          },
+          {
+            "problem": "Falta de oportunidades para los jóvenes y de apoyo al deporte.",
+            "objective": "Convertir a Comas en un distrito de oportunidades de educación superior para jóvenes, creando el programa 'Emprende Joven', academias de preparación preuniversitaria, escuelas de fútbol, y construyendo el Palacio de la Juventud y polideportivos.",
+            "goal": "Al término de la gestión, haber aportado a la educación y deporte del 70% de los jóvenes comeños mediante la gestión de financiamiento y convenios con instituciones públicas y privadas.",
+            "indicator": "Un programa 'Emprende Joven' funcionando, una academia municipal beneficiando a egresados de secundaria, y un programa de escuelas de fútbol incentivando el deporte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de apoyo social humano y oportunidad económica distrital.",
+            "objective": "Promover el empleo digno a través de la creación del programa municipal de promoción del empleo 'Jóvenes al Progreso' y el funcionamiento de la bolsa laboral municipal.",
+            "goal": "Realizar convenios con entidades públicas y privadas para generar espacios laborales y gestionar el financiamiento ante las entidades respectivas.",
+            "indicator": "Un programa municipal 'Jóvenes al Progreso' implementado en beneficio de los jóvenes y una bolsa laboral que coloca a 3,000 adolescentes y jóvenes en puestos de trabajo."
+          },
+          {
+            "problem": "Falta de apoyo e incentivo a las medianas y pequeñas empresas.",
+            "objective": "Fomentar empresas formalizadas y autosostenibles mediante la creación del programa 'Mi Empresa' y la creación de cadenas productivas con promoción de productos en mercados locales.",
+            "goal": "Establecer convenios con entidades públicas y privadas para generar espacios laborales y gestionar el financiamiento necesario.",
+            "indicator": "Un programa 'Mi Empresa' que beneficia a 15,000 pequeñas y medianas empresas, y un programa 'De la Chacra a tu Cocina' que incentiva la compra de productos locales."
+          },
+          {
+            "problem": "Cobro indebido y abusivo de arbitrios y tributos.",
+            "objective": "Establecer un distrito de cobros justos y necesarios mediante la creación de un sistema de cobro justo y adecuado a la realidad y al servicio prestado.",
+            "goal": "Al término de la gestión, contar con una recaudación sincerada y correspondiente a la realidad de los vecinos.",
+            "indicator": "Cobro proporcional de acuerdo a la contraprestación de servicios, suspensión temporal del cobro de multas y cobranzas coactivas para un debido proceso de revisión y sinceramiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Falta de oportunidad de viviendas dignas, irrespeto al medio ambiente y construcciones inadecuadas.",
+            "objective": "Promover comunidades con viviendas dignas y adecuadas para vivir mejor, a través del programa municipal 'Vivienda Digna y Saludable' y la gestión de programas sociales de vivienda.",
+            "goal": "Gestionar el financiamiento del presupuesto y realizar convenios con instituciones estatales, privadas y consorcios habitacionales.",
+            "indicator": "Un programa municipal que beneficia a 30,000 viviendas en zonas vulnerables y la gestión de 4 programas sociales que benefician a 30,000 viviendas."
+          },
+          {
+            "problem": "Falta de espacios recreativos y vías de acceso adecuadas.",
+            "objective": "Lograr un distrito con espacios recreativos y vías de acceso adecuadas a través del programa 'Chamba para mi Pueblo' y la ejecución de obras de asfaltado y veredas.",
+            "goal": "Aprobación de presupuesto mediante concejo municipal para el programa 'Chamba para mi Pueblo' y la gestión de financiamiento y convenios para becas y capacitaciones.",
+            "indicator": "Un programa municipal que beneficia a 100,000 pobladores y la cobertura del 50% de las necesidades de obras de asfaltado."
+          },
+          {
+            "problem": "Falta de infraestructura digna y moderna en el distrito.",
+            "objective": "Dotar al distrito de infraestructura digna y moderna para la población, creando una cartera de proyectos para mejorar la infraestructura y una concretera municipal.",
+            "goal": "Gestionar el financiamiento ante entidades públicas, privadas y de cooperación internacional.",
+            "indicator": "Elaboración de dos carteras de proyectos para mejorar la infraestructura del distrito y la optimización de recursos del FONCOMUN."
+          },
+          {
+            "problem": "Recojo ineficiente de los residuos sólidos.",
+            "objective": "Lograr un distrito limpio y saludable con un adecuado sistema de recojo de residuos sólidos y limpieza pública.",
+            "goal": "Al término de la gestión, contar con una flota propia para el recojo de residuos sólidos y tener un distrito limpio y saludable.",
+            "indicator": "Mejora del servicio de recojo de residuos sólidos con horarios establecidos y supervisión vecinal, y la revisión de contratos para asegurar un costo justo y real."
+          },
+          {
+            "problem": "Falta de áreas verdes en el distrito.",
+            "objective": "Tener un distrito con parques y jardines de calidad mediante el diseño y ejecución de obras de mejoramiento y construcción, y la recuperación y mantenimiento de áreas verdes.",
+            "goal": "Recuperación del 25% de las áreas verdes en el primer año de gestión y la gestión de financiamiento ante entidades públicas, privadas y de cooperación internacional.",
+            "indicator": "50% de mejoramiento y construcción de parques y jardines cubiertas, y la recuperación de áreas verdes con riego tecnificado y participación vecinal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Un gobierno rodeado de corrupción.",
+            "objective": "Prevenir la corrupción mediante la creación de un sistema de consulta semestral sobre el desempeño de los funcionarios y servidores públicos a la ciudadanía.",
+            "goal": "Al terminar los 4 años, culminar siendo una gestión transparente y sin corrupción, recuperando los valores de todos los vecinos.",
+            "indicator": "Un sistema de consulta semestral funcionando con la participación de la ciudadanía, logrando que 60,000 ciudadanos se registren y participen."
+          },
+          {
+            "problem": "Gobierno indiferente y con falta de transparencia.",
+            "objective": "Establecer un buen gobierno y transparencia mediante la creación de un sistema de rendición de cuentas a la ciudadanía y el fortalecimiento de la participación de la sociedad civil en la gestión municipal.",
+            "goal": "Al culminar los 4 años de gestión, contar con el 50% de los vecinos participando activamente con las autoridades, a través de convenios y capacitación de funcionarios.",
+            "indicator": "Un sistema de rendición de cuentas funcionando con herramientas informáticas, informando a 50,000 ciudadanos, y la participación de 1,000 organizaciones de la sociedad en la gestión."
+          },
+          {
+            "problem": "Una gestión desarticulada, nada moderna y ni de gestión.",
+            "objective": "Lograr una gestión moderna y articulada a las políticas nacionales y regionales, implementando un sistema de planificación local, un modelo de optimización de servicios y una gestión activa de recursos.",
+            "goal": "Gestionar activamente el financiamiento y apoyo de entidades públicas, privadas y de cooperación para modernizar Comas, con aprobación de presupuesto por el concejo municipal priorizando las necesidades vecinales.",
+            "indicator": "Un sistema de planificación local funcionando y articulado, cuatro modelos de optimización de servicios implementados, y la gestión de 15 millones de soles para ser invertidos en el distrito."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-exbJ-pCcx29Xb4doLJ1mac8l2i59Fkx_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/exbJ-pCcx29Xb4doLJ1mac8l2i59Fkx_",
+      "sha256": "ef93831d75adb785ef88add4289eb9309a8bfb9de6daa873e56162886c6be108",
+      "accessedAt": "2026-10-02T22:55:09.811Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032498",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032498",
+      "sha256": "da0807f8e8d977121f8b8609f13f9ab9aea7f5dbd1e891c120124aa509808e28",
+      "accessedAt": "2026-10-02T22:55:10.339Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "wRgnWurv4BRh1lSb4h3jGFEqmeUJcIO-",
+  "slug": "pierre-orlando-apian-castillo",
+  "electionId": "erm-2026",
+  "name": "Pierre Orlando Apian Castillo",
+  "givenNames": "Pierre Orlando",
+  "surnames": "Apian Castillo",
+  "age": 34,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:02.912Z",
+      "sourceId": "jne-hv-wRgnWurv4BRh1lSb4h3jGFEqmeUJcIO-"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "BACHILLER EN INGENIERÍA DE SISTEMAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "INGENIERO DE SISTEMAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE CENTRO POBLADO SANTA MARIA DE HUACHIPA",
+      "role": "GERENTE DE ADMINISTRACION TRIBUTARIA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES",
+      "role": "SUPERVISOR",
+      "from": "2022",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 62470,
+        "public": 62470,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MOTO LINEAL ITALIKA",
+        "value": 4599
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e188edc4-209a-4bae-b821-f7faccad8055.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7b80d6ee-9a24-4cb0-ab34-41effc2f5083.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Elevado índice de inseguridad ciudadana, con alta incidencia de asaltos, hurtos y actividades de organizaciones criminales.",
+            "objective": "Fortalecer y reestructurar el Comité Distrital de Seguridad Ciudadana (CODISEC) para ejecutar planes integrados de seguridad, en concordancia con el Plan Nacional de Seguridad Ciudadana, e incrementar el número de serenos y vehículos motorizados.",
+            "goal": "Reducir a menos del 50% la percepción de inseguridad, disminuir en un 50% los índices de victimización y reducir entre un 20% y 30% los delitos en zonas intervenidas.",
+            "indicator": "Tasa de victimización distrital, número de delitos de robo y hurto denunciados, percepción de inseguridad ciudadana y número de espacios públicos recuperados."
+          },
+          {
+            "problem": "Falta de tecnología en cámaras de seguridad e implementación de acciones rápidas de Serenazgo o PNP.",
+            "objective": "Implementar tecnología de videovigilancia con identificación facial, usar plataformas digitales para reportes en tiempo real y modernizar el equipamiento del Serenazgo con GPS y comunicación.",
+            "goal": "Cumplir con el Plan de Incentivos del Ministerio de Economía y Finanzas, implementar progresivamente sistemas de videovigilancia y optimizar la capacidad de respuesta tecnológica del Serenazgo.",
+            "indicator": "Número de cámaras de videovigilancia instaladas, cobertura de videovigilancia en zonas críticas, número de botones de pánico operativos y tiempo de respuesta ante alertas digitales."
+          },
+          {
+            "problem": "Abandono y deserción escolar, junto con riesgos latentes de conductas perjudiciales en la población estudiantil.",
+            "objective": "Fortalecer los mecanismos de prevención, reinserción y acompañamiento educativo para garantizar la continuidad escolar y el desarrollo integral de los estudiantes en situación de vulnerabilidad.",
+            "goal": "Reducir significativamente la deserción escolar, recuperar e incorporar estudiantes en situación de abandono y fortalecer la articulación con instituciones educativas para la reinserción escolar.",
+            "indicator": "Tasa de deserción escolar en el distrito, número de estudiantes reincorporados al sistema educativo y nivel de participación en programas de reinserción escolar."
+          },
+          {
+            "problem": "Insuficiencia en atenciones médicas y falta de infraestructura de salud pública.",
+            "objective": "Implementar programas de atención médica de cobertura inmediata en sectores vulnerables y fortalecer la capacidad operativa del sistema de salud local mediante la mejora de infraestructura, equipamiento y servicios.",
+            "goal": "Incrementar la cobertura de atención médica en sectores vulnerables, ejecutar programas de atención y tratamientos de cobertura inmediata y mejorar progresivamente la infraestructura de salud en el distrito.",
+            "indicator": "Número de atenciones médicas realizadas, cobertura de atención en población vulnerable, número de campañas médicas y número de establecimientos de salud intervenidos o mejorados."
+          },
+          {
+            "problem": "Débil prevención y alta incidencia de violencia familiar y de género.",
+            "objective": "Reducir la violencia familiar y de género en el distrito mediante políticas preventivas y el fortalecimiento de la igualdad de oportunidades entre hombres y mujeres.",
+            "goal": "Reducir progresivamente hasta en un 80% los casos de maltrato a la mujer e incrementar la cobertura de sensibilización en organizaciones sociales.",
+            "indicator": "Número de casos de violencia familiar y de género reportados y tasa de violencia contra la mujer."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja productividad y limitada competitividad del comercio local.",
+            "objective": "Incrementar la competitividad del comercio local mediante capacitación, innovación y articulación productiva, y fortalecer la vinculación entre el sector productivo, educativo y empresarial.",
+            "goal": "Incrementar en un 30% la productividad de MYPES y negocios locales, fortalecer la articulación entre oferta educativa y demanda productiva, e implementar cadenas productivas locales.",
+            "indicator": "Nivel de productividad de MYPES, número de comerciantes capacitados, incremento de ventas del comercio local y número de cadenas productivas implementadas."
+          },
+          {
+            "problem": "Alto desempleo y limitada generación de empleo formal en la población.",
+            "objective": "Promover la generación de empleo digno mediante la articulación con el sector privado y la promoción de inversiones, así como reducir el desempleo a través de programas de intermediación laboral.",
+            "goal": "Generar aproximadamente 2,000 empleos directos e indirectos, reducir la tasa de desempleo juvenil en al menos un 20% e incrementar la formalización del empleo en un 30%.",
+            "indicator": "Tasa de desempleo, número de empleos generados, número de personas insertadas laboralmente y nivel de empleo formal."
+          },
+          {
+            "problem": "Alta informalidad empresarial y limitada formalización de las unidades productivas en el distrito.",
+            "objective": "Promover la formalización progresiva de las MYPES mediante la simplificación de trámites, asistencia técnica y acompañamiento municipal, y fortalecer el desarrollo sostenible de las unidades productivas formales.",
+            "goal": "Incrementar la formalización de MYPES de manera progresiva, reducir la informalidad empresarial, facilitar la obtención de licencias de funcionamiento y fortalecer la cultura de formalización empresarial.",
+            "indicator": "Número de MYPES formalizadas, tasa de informalidad empresarial, número de licencias de funcionamiento otorgadas y nivel de acceso a servicios municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente cobertura del servicio de limpieza pública en el distrito.",
+            "objective": "Garantizar la cobertura total del servicio de limpieza pública en el distrito y optimizar la gestión operativa de residuos sólidos con un enfoque de eficiencia municipal.",
+            "goal": "Lograr el 100% de cobertura del servicio de recolección, ampliar el servicio a todas las organizaciones sociales y reducir los puntos críticos de acumulación de residuos en un 40%.",
+            "indicator": "Cobertura del servicio de limpieza, número de rutas de recolección operativas, nivel de satisfacción ciudadana y frecuencia de recojo de residuos."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y débil planificación territorial.",
+            "objective": "Fortalecer la planificación urbana mediante la actualización de instrumentos de gestión territorial y promover un crecimiento urbano ordenado, seguro y sostenible articulado al desarrollo metropolitano.",
+            "goal": "Actualizar el PDU del distrito en los primeros años de gestión, implementar el catastro municipal digital al 100% e incrementar la formalización del uso del suelo en un 40%.",
+            "indicator": "Porcentaje de actualización del Plan de Desarrollo Urbano (PDU), nivel de implementación de instrumentos de planificación y cobertura del catastro digital."
+          },
+          {
+            "problem": "Alta vulnerabilidad urbana frente a desastres naturales.",
+            "objective": "Reducir la vulnerabilidad del distrito mediante la ejecución de obras de mitigación y fortalecer la planificación territorial en zonas de riesgo.",
+            "goal": "Ejecutar obras de mitigación en zonas críticas, reducir la vulnerabilidad en zonas de alto riesgo e identificar y monitorear el 100% de zonas de riesgo.",
+            "indicator": "Número de zonas vulnerables identificadas, número de obras de mitigación ejecutadas y nivel de reducción de riesgo."
+          },
+          {
+            "problem": "Baja cultura de reciclaje y escasa segregación de residuos por parte de la ciudadanía.",
+            "objective": "Promover la segregación en la fuente y el reciclaje como práctica ciudadana, e implementar un modelo de economía circular en la gestión de residuos.",
+            "goal": "Incrementar la segregación y reciclaje en hogares intervenidos, instalar contenedores diferenciados en zonas estratégicas y ejecutar campañas anuales de educación ambiental.",
+            "indicator": "Porcentaje de hogares que segregan residuos, volumen de residuos reciclados y número de campañas ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta morosidad en el pago de los tributos municipales.",
+            "objective": "Incrementar la recaudación municipal mediante campañas de sensibilización tributaria y reducir la morosidad a través de mecanismos de incentivo y facilidades de pago.",
+            "goal": "Incrementar la recaudación voluntaria hasta un 80%, reducir la morosidad al 20% y fortalecer la cultura tributaria ciudadana.",
+            "indicator": "Tasa de morosidad tributaria, nivel de recaudación municipal y número de contribuyentes activos."
+          },
+          {
+            "problem": "Poca transferencia de recursos del Gobierno Central para el desarrollo del distrito.",
+            "objective": "Gestionar ante el Gobierno Central el incremento del FONCOMÚN para fortalecer la inversión pública y mejorar la capacidad de gestión de proyectos para asegurar mayores transferencias presupuestales.",
+            "goal": "Lograr el incremento del FONCOMÚN para el distrito, incrementar la inversión en servicios públicos esenciales y mejorar la ejecución de obras de impacto distrital.",
+            "indicator": "Monto anual de FONCOMÚN recibido, número de proyectos gestionados ante el Gobierno Central y nivel de ejecución de inversión pública."
+          },
+          {
+            "problem": "Débil control interno y riesgos de ineficiencia administrativa en la gestión municipal.",
+            "objective": "Fortalecer el control interno y la gestión por resultados en la municipalidad, así como reducir los riesgos de corrupción mediante sistemas de supervisión y ética pública.",
+            "goal": "Capacitar al 100% de los funcionarios en ética pública, reducir los riesgos de corrupción institucional e implementar sistemas de control interno digital.",
+            "indicator": "Número de auditorías internas realizadas, nivel de cumplimiento normativo, número de funcionarios capacitados e índice de eficiencia institucional."
+          },
+          {
+            "problem": "Limitada transparencia y débil acceso a la información pública por parte de la ciudadanía.",
+            "objective": "Garantizar la transparencia activa en la gestión municipal y fortalecer el acceso ciudadano a la información pública.",
+            "goal": "Publicar la información municipal de forma permanente, incrementar la participación ciudadana en la vigilancia municipal y reducir los riesgos de corrupción institucional.",
+            "indicator": "Nivel de transparencia institucional, número de reportes publicados, nivel de acceso a información pública y número de mecanismos de control ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-wRgnWurv4BRh1lSb4h3jGFEqmeUJcIO-",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/wRgnWurv4BRh1lSb4h3jGFEqmeUJcIO-",
+      "sha256": "889982dbee92b612d4e217dbbf0a87c0c3b97fd1ff23866f611f1f41117e3bec",
+      "accessedAt": "2026-10-02T22:55:02.912Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019468",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019468",
+      "sha256": "f4766d917550b1e7b4f747b83cbdeafe0cb407fed227fcb1c0441f7c0ef7b535",
+      "accessedAt": "2026-10-02T22:55:03.385Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

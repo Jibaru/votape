@@ -1,0 +1,289 @@
+{
+  "id": "SqJIl0N-nEoNyaYZ_c-ZvQMGH_-Kf3rc",
+  "slug": "bernardo-silva-beck",
+  "electionId": "erm-2026",
+  "name": "Bernardo Silva Beck",
+  "givenNames": "Bernardo",
+  "surnames": "Silva Beck",
+  "age": 39,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140113",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:28.170Z",
+      "sourceId": "jne-hv-SqJIl0N-nEoNyaYZ_c-ZvQMGH_-Kf3rc"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "LICENCIADO EN GEOGRAFÍA Y MEDIO AMBIENTE",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Pontificia Universidad Católica del Perú",
+        "program": "BACHILLER EN HUMANIDADES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2012"
+      },
+      {
+        "level": "posgrado",
+        "institution": "JAMES COOK UNIVERSITY",
+        "program": "MASTER OF SCIENCE MAJORING IN NATURAL RESOURCE MANAGEMENT",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2014"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INVERSIONES MAMACONA E.I.R.L",
+      "role": "TITULAR - GERENTE",
+      "from": "2021",
+      "to": "2026"
+    },
+    {
+      "employer": "BUENAVENTURA INGENIEROS S.A",
+      "role": "INGENIERO DE CONTROL DE PROYECTOS",
+      "from": "2012",
+      "to": "2013"
+    },
+    {
+      "employer": "ECOTREAT E.I.R.L",
+      "role": "ASISTENTE DE LABORATORIO Y ASISTENTE GENERAL",
+      "from": "2010",
+      "to": "2012"
+    },
+    {
+      "employer": "BUENAVENTURA INGENIEROS S.A.",
+      "role": "ASISTENTE INMOBILARIA",
+      "from": "2011",
+      "to": "2011"
+    },
+    {
+      "employer": "BUENAVENTURA INGENIEROS S.A. (BISA)",
+      "role": "PRACTICANTE DE MEDIO AMBIENTE",
+      "from": "2008",
+      "to": "2008"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "FE EN EL PERU",
+      "year": "2022"
+    },
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 166089.96,
+        "public": 0,
+        "private": 166089.96
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "INVERSIONES MAMACONA E.I.R.L",
+        "type": "PARTICIPACIONES",
+        "quantity": 100,
+        "value": 10000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6d35da8f-7616-456a-b71d-26f07d8683d9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/d022845e-c55c-4d11-a14a-d38b6e82c02b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Canales de regadío convertidos en focos de contaminación",
+            "objective": "Se propone canalización y/o entubado de canales.",
+            "goal": "Canalizar o entubar 3 km de canales prioritarios",
+            "indicator": "Km de canales canalizados o entubados"
+          },
+          {
+            "problem": "Casetas de serenazgo inoperativas",
+            "objective": "Reactivar y modernizar sistema de seguridad",
+            "goal": "100% de casetas existentes operativas.",
+            "indicator": "% casetas operativas"
+          },
+          {
+            "problem": "Bibliotecas insuficientes",
+            "objective": "Bibliotecas físicas y digitales",
+            "goal": "Modernizar o implementar 2 bibliotecas.",
+            "indicator": "Nº bibliotecas implementadas"
+          },
+          {
+            "problem": "Consumo de drogas",
+            "objective": "Programas preventivos y familiares",
+            "goal": "Ejecutar 20 campañas distritales de prevención.",
+            "indicator": "Nº beneficiarios; reducción de casos"
+          },
+          {
+            "problem": "Baja capacidad local para atender turismo",
+            "objective": "Capacitación turística",
+            "goal": "Capacitar 300 personas.",
+            "indicator": "Nº capacitados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ausencia de Caja Municipal o EDPYME local",
+            "objective": "Implementar mecanismos de financiamiento local",
+            "goal": "Implementar 1 mecanismo permanente",
+            "indicator": "Nº de mecanismos implementados"
+          },
+          {
+            "problem": "Déficit de servicios básicos para bañistas y turistas",
+            "objective": "Mejorar servicios turísticos básicos",
+            "goal": "Instalar 10 módulos de servicios",
+            "indicator": "Nº de módulos implementados"
+          },
+          {
+            "problem": "Débil aprovechamiento económico del patrimonio arqueológico y cultural",
+            "objective": "Poner en valor recursos culturales",
+            "goal": "Implementar 3 proyectos de puesta en valor",
+            "indicator": "Nº de proyectos ejecutados"
+          },
+          {
+            "problem": "Bajo aprovechamiento económico de la artesanía local",
+            "objective": "Fortalecer el desarrollo artesanal",
+            "goal": "Beneficiar a 200 artesanos",
+            "indicator": "Nº de artesanos beneficiados"
+          },
+          {
+            "problem": "Déficit de espacios para ferias gastronómicas y artesanales",
+            "objective": "Promover ferias económicas locales",
+            "goal": "Realizar 4 ferias por año",
+            "indicator": "Nº de ferias realizadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Congestión vehicular",
+            "objective": "Ordenamiento vial",
+            "goal": "Reducir tiempos promedio de viaje en 10%",
+            "indicator": "Tiempo promedio de viaje"
+          },
+          {
+            "problem": "Ausencia de gestión intermunicipal de cuenca",
+            "objective": "Mancomunidad Río Lurín",
+            "goal": "Constituir 1 mecanismo de coordinación interinstitucional.",
+            "indicator": "Convenios ejecutados"
+          },
+          {
+            "problem": "Canales de regadío contaminados",
+            "objective": "El documento señala que actualmente funcionan como \"canales de desagüe\".",
+            "goal": "Intervenir 10 puntos críticos de contaminación",
+            "indicator": "Nº de puntos críticos intervenidos"
+          },
+          {
+            "problem": "Canales de regadío convertidos en focos de contaminación",
+            "objective": "Canalizar y recuperar canales",
+            "goal": "Canalizar o entubar 3 km",
+            "indicator": "Km de canales intervenidos"
+          },
+          {
+            "problem": "Canales de regadío contaminados",
+            "objective": "Reducir contaminación hídrica",
+            "goal": "Intervenir 10 puntos críticos",
+            "indicator": "Nº de puntos críticos intervenidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja trazabilidad de procesos",
+            "objective": "Sistemas integrados tipo SAP",
+            "goal": "Digitalizar 70% de procesos internos prioritarios.",
+            "indicator": "% procesos digitalizados"
+          },
+          {
+            "problem": "Contratos ineficientes",
+            "objective": "Renegociación contractual",
+            "goal": "Generar ahorros de 5% mediante renegociaciones.",
+            "indicator": "Ahorro anual"
+          },
+          {
+            "problem": "Corrupción municipal",
+            "objective": "Auditoría integral y control",
+            "goal": "Realizar 1 auditoría integral anual",
+            "indicator": "Nº auditorías"
+          },
+          {
+            "problem": "Baja participación ciudadana en la gestión municipal",
+            "objective": "Fortalecer participación vecinal",
+            "goal": "Realizar 2 audiencias públicas y 5 reuniones descentralizadas por año",
+            "indicator": "Nº de espacios participativos"
+          },
+          {
+            "problem": "Concentración administrativa",
+            "objective": "Descentralización en cinco zonas",
+            "goal": "Implementar 5 agencias descentralizadas operativas.",
+            "indicator": "Nº agencias operativas"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-SqJIl0N-nEoNyaYZ_c-ZvQMGH_-Kf3rc",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/SqJIl0N-nEoNyaYZ_c-ZvQMGH_-Kf3rc",
+      "sha256": "9c6dd88542f945c9d809ad265908c87001d7d8913bdec5ed54bd5cb55c0c64fb",
+      "accessedAt": "2026-10-02T22:59:28.170Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015054",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015054",
+      "sha256": "caaed99c4b09b6ad0f0b260ffed4fcd181d67f66da5b710c3645decae3b371bd",
+      "accessedAt": "2026-10-02T22:59:28.641Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

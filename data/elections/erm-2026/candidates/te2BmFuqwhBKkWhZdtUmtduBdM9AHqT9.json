@@ -1,0 +1,279 @@
+{
+  "id": "te2BmFuqwhBKkWhZdtUmtduBdM9AHqT9",
+  "slug": "rigan-edward-valcarcel-salinas",
+  "electionId": "erm-2026",
+  "name": "Rigan Edward Valcárcel Salinas",
+  "givenNames": "Rigan Edward",
+  "surnames": "Valcárcel Salinas",
+  "age": 48,
+  "gender": "Masculino",
+  "party": {
+    "id": 2988,
+    "name": "VISION PERU"
+  },
+  "jurisdictionId": "140124",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:12.466Z",
+      "sourceId": "jne-hv-te2BmFuqwhBKkWhZdtUmtduBdM9AHqT9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "CAEN",
+        "program": "DIPLOMADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "BACHILLER EN INGENIERIA INDUSTRIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad ESAN",
+        "program": "MAGISTER EN FINANZAS",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACION OXI S.A.C.",
+      "role": "SERVICIO DE GESTION ADMINISTRATIVA",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "MONTE S.A.",
+      "role": "GERENTE COMERCIAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "JRM INVESTMENTS S.A.C",
+      "role": "ASESORIA EN GESTION ADMINISTRATIVA",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "EMPRESA MUNICIPAL SANTIAGO DE SURCO S.A.",
+      "role": "GERENTE GENERAL",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "MONTES S.A.C",
+      "role": "GERENTE COMERCIAL",
+      "from": "2009",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SUB SECRETARIO GENERAL NACIONAL",
+      "party": "VISION PERU",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "position": "DIRECTOR DE ECONOMÍA",
+      "party": "VISION PERU",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 105770,
+        "public": 0,
+        "private": 105770
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "DEPARTAMENTO",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "JMR INVESTMENTS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 6700,
+        "value": 6700
+      },
+      {
+        "company": "MONTES S.A.",
+        "type": "ACCIONES",
+        "quantity": 420,
+        "value": 42000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/136ede5e-df9d-43f8-a680-d5aa7fad4546.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/16805b7c-b600-4e1d-8378-16dcdbccca76.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de las ocurrencias delictivas en un 69% en el último año, a pesar de la alta recaudación por arbitrios de seguridad, lo que no se ha traducido en una reducción de los delitos.",
+            "objective": "Reducir las ocurrencias delictivas en un 40% al 2030 mediante la implementación de un modelo de seguridad predictiva basado en inteligencia artificial y Big Data.",
+            "goal": "Al 2030, lograr una reducción del 40% de las ocurrencias delictivas (menos de 527), un tiempo de respuesta menor a 4 minutos y una percepción de seguridad superior al 80%.",
+            "indicator": "Número total de ocurrencias delictivas anuales, tiempo promedio de respuesta de serenazgo en minutos e índice de percepción de seguridad ciudadana."
+          },
+          {
+            "problem": "Cobertura de servicios para adultos mayores inferior al 6% de la población objetivo, con atención limitada a días de semana y sin una plataforma digital de acceso remoto.",
+            "objective": "Alcanzar una cobertura del 40% de la población de 65 años o más con servicios gerontológicos integrados y digitalmente accesibles al 2030, posicionando a San Isidro como referente nacional de envejecimiento activo.",
+            "goal": "Al 2030, alcanzar una cobertura del 40% (5,440 personas) y lograr que el modelo de servicios sea certificado y publicado como buena práctica por CEPLAN.",
+            "indicator": "Porcentaje de personas de 65 años o más con servicio activo, número de adultos de 80 años o más con gestor de caso asignado y porcentaje de satisfacción con los servicios gerontológicos."
+          },
+          {
+            "problem": "Fricciones entre el uso comercial y residencial del espacio público debido a la alta población flotante, lo que genera una tensión normativa sostenida y conflictos vecinales.",
+            "objective": "Diseñar e implementar un modelo de gestión de espacios públicos que equilibre el uso corporativo y residencial del distrito, reduciendo los conflictos vecinales documentados en un 35% al 2030.",
+            "goal": "Al 2030, reducir en un 35% los conflictos, resolver el 70% de ellos por mediación y alcanzar una satisfacción con los espacios públicos superior al 80%.",
+            "indicator": "Número de conflictos vecinales formales registrados por año, porcentaje resuelto por mediación sin vía judicial e índice de satisfacción con los espacios públicos."
+          },
+          {
+            "problem": "Oferta de actividad física y recreativa no estructurada en programas orientados a la salud, sin cobertura programada por grupo etario ni métricas de impacto en la salud de la población.",
+            "objective": "Posicionar el deporte como herramienta de salud pública, ampliando la cobertura de los programas deportivos municipales a 20,000 usuarios anuales al 2030, con un enfoque preventivo en salud física, mental y social.",
+            "goal": "Al 2030, atender a 20,000 usuarios al año y lograr el reconocimiento de San Isidro como distrito de deporte como salud pública, con un modelo documentado como buena práctica replicable por CEPLAN.",
+            "indicator": "Número de usuarios atendidos anualmente en programas deportivos municipales, número de programas y sedes activas, y porcentaje de participantes que reportan mejora en su bienestar."
+          },
+          {
+            "problem": "Ausencia de un censo distrital de animales de compañía, un registro digital de tenencia y una normativa integral, lo que limita la gestión sanitaria de zoonosis y la convivencia en parques.",
+            "objective": "Posicionar a San Isidro como el primer distrito «Pet-Friendly inteligente» del Perú al 2030, con tenencia responsable formalizada, bienestar animal garantizado y espacios públicos de convivencia armónica.",
+            "goal": "Al 2030, registrar 12,000 o más mascotas con microchip, consolidar la red de zonas caninas y certificar a San Isidro como distrito modelo Pet-Friendly.",
+            "indicator": "Número de animales de compañía registrados en el RUAC, número de zonas caninas operativas y número de atenciones en jornadas gratuitas de esterilización y vacunación por año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevado número de incidencias de tránsito, intervenciones por mal estacionamiento y falta de un Plan de Movilidad Sostenible Distrital e infraestructura para la micromovilidad.",
+            "objective": "Reducir las incidencias viales en un 30% y el tiempo de desplazamiento interdistrital en un 20% al 2030, mediante un plan de movilidad multimodal sostenible.",
+            "goal": "Al 2030, reducir las incidencias viales en un 30%, consolidar una red ciclista integrada de aproximadamente 30 km y reducir el tiempo de desplazamiento en un 20%.",
+            "indicator": "Número de incidencias viales anuales, kilómetros de red ciclovial distrital protegida e integrada, y tiempo promedio de desplazamiento interdistrital."
+          },
+          {
+            "problem": "Alta tasa de cancelación de licencias de funcionamiento y ausencia de una plataforma de apoyo empresarial distrital que reduzca la burocracia y promueva la atracción de inversión corporativa.",
+            "objective": "Reducir el tiempo de obtención de licencias de funcionamiento a un máximo de 3 días hábiles al 2028 y posicionar a San Isidro como el distrito con mayor competitividad empresarial de Lima al 2030.",
+            "goal": "Al 2030, lograr que el 100% de las licencias sean digitales y que San Isidro se ubique en el top 3 del índice de competitividad empresarial de Lima.",
+            "indicator": "Tiempo promedio de obtención de licencia de funcionamiento en días hábiles y ratio de apertura/cierre de establecimientos."
+          },
+          {
+            "problem": "Carencia de una estrategia de diplomacia económica local y de posicionamiento internacional que transforme la presencia de embajadas y organismos internacionales en oportunidades de inversión y cooperación.",
+            "objective": "Generar al menos 5 convenios de cooperación técnica internacional activos y obtener S/ 15 millones en proyectos cofinanciados con organismos internacionales al 2030.",
+            "goal": "Para el período 2027-2030, lograr 5 convenios activos, S/ 15 millones en proyectos cofinanciados y consolidar un foro anual.",
+            "indicator": "Número de convenios de cooperación activos y monto en soles de proyectos cofinanciados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Generación de 46,718 toneladas anuales de residuos sólidos domiciliarios con una cobertura, escala de compostaje y tasa de valorización limitadas, careciendo de indicadores públicos de eficiencia ambiental.",
+            "objective": "Reducir en un 30% los residuos sólidos destinados a relleno sanitario al 2030 mediante la implementación de la economía circular a escala distrital.",
+            "goal": "Al 2030, reciclar 15,000 toneladas al año, lograr una reducción del 30% de residuos a relleno y certificar a San Isidro como distrito de Economía Circular.",
+            "indicator": "Toneladas de residuos reciclados o compostados por año, porcentaje de reducción de residuos a relleno sanitario y número de edificios con separación en origen."
+          },
+          {
+            "problem": "Gestión predominantemente manual del riego en más de 1.2 millones de metros cuadrados de áreas verdes, sin sensores de humedad, sistema de riego inteligente ni un plan de resiliencia hídrica y climática.",
+            "objective": "Reducir el consumo de agua de riego en áreas verdes en un 35% al 2030 mediante tecnología de riego inteligente y aprobar un Plan de Resiliencia Hídrica y Climática.",
+            "goal": "Al 2030, lograr una reducción del 35% en el consumo de agua, tener 600,000 m² (50% del total) con riego inteligente y haber plantado 1,500 árboles nativos.",
+            "indicator": "Porcentaje de reducción del consumo de agua de riego, metros cuadrados con sistema de riego inteligente y número de árboles plantados por año."
+          },
+          {
+            "problem": "Incentivos de edificación sostenible concentrados en obra nueva, sin un programa que impulse la eficiencia energética del parque edificado existente ni un plan de regeneración urbana integral.",
+            "objective": "Incorporar criterios de construcción sostenible en el 50% de las nuevas licencias al 2030 y fortalecer el marco normativo distrital, incorporando metas de eficiencia energética y regeneración urbana.",
+            "goal": "Al 2030, lograr que el 50% de las nuevas licencias cumplan con criterios sostenibles y existan más de 20 edificios certificados.",
+            "indicator": "Porcentaje de nuevas licencias con criterios sostenibles y número de edificios certificados con estándares como LEED/EDGE."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Operación de 28 aplicativos informáticos desconectados, sin una arquitectura de datos unificada ni ventanilla única digital, lo que contribuye a un desequilibrio fiscal.",
+            "objective": "Transformar la Municipalidad de San Isidro en la primera entidad local del Perú con arquitectura de gobierno digital unificada, cero papel y trámites 100% digitales al 2029.",
+            "goal": "Al 2030, alcanzar el 100% de trámites digitales (cero papeles) y un tiempo de resolución menor a 1 día hábil para el 70% de los procedimientos.",
+            "indicator": "Porcentaje de trámites municipales completados íntegramente en línea y tiempo promedio de resolución de trámites en días hábiles."
+          },
+          {
+            "problem": "Déficit estructural entre ingresos y egresos, junto con un crecimiento explosivo del gasto en personal, que comprometen la sostenibilidad fiscal y limitan la inversión pública al 13.7% del presupuesto.",
+            "objective": "Restablecer el equilibrio fiscal de la municipalidad al 2028 con una ratio de Inversión/Gasto Corriente mayor o igual al 25%, manteniendo la calidad de los servicios.",
+            "goal": "Al 2030, lograr un superávit operativo de al menos S/ 10 millones anuales y destinar un 25% o más del presupuesto a inversión.",
+            "indicator": "Ratio de egresos/ingresos propios y porcentaje del presupuesto destinado a inversión."
+          },
+          {
+            "problem": "Inexistencia de mecanismos de participación ciudadana en tiempo real y de rendición de cuentas sustentados en datos verificables, además de la carencia de un portal con datos abiertos estructurados.",
+            "objective": "Posicionar a San Isidro entre los 10 municipios más transparentes de América Latina según índices de gobierno abierto al 2030.",
+            "goal": "Al 2030, contar con más de 100 datasets públicos, posicionar a San Isidro en el ranking top 10 de gobierno abierto de Latinoamérica y alcanzar un 95% de satisfacción ciudadana en atención.",
+            "indicator": "Índice de Transparencia Municipal (ITM), número de datasets públicos activos y porcentaje de reclamos resueltos en un plazo de 5 días."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-te2BmFuqwhBKkWhZdtUmtduBdM9AHqT9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/te2BmFuqwhBKkWhZdtUmtduBdM9AHqT9",
+      "sha256": "1c803b1cff29d5ffef10291b3155f0727af300913a5448a08580b80ad13f3435",
+      "accessedAt": "2026-10-02T23:03:12.466Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016514",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016514",
+      "sha256": "0e1b24d1b6142806064218e078d551110d3b879bd851ddfb5d630d2028eb9f42",
+      "accessedAt": "2026-10-02T23:03:13.003Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "9eJj59CZhOVo3U9Ira5JHioEwucmRMy8",
+  "slug": "jose-ricardo-portugal-quiroz",
+  "electionId": "erm-2026",
+  "name": "Jose Ricardo Portugal Quiroz",
+  "givenNames": "Jose Ricardo",
+  "surnames": "Portugal Quiroz",
+  "age": 70,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:01.059Z",
+      "sourceId": "jne-hv-9eJj59CZhOVo3U9Ira5JHioEwucmRMy8"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "Economía",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Ferretería El Pato",
+      "role": "Administrador",
+      "from": "2001",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO MORADO",
+      "year": "2024"
+    },
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 32200,
+        "public": 0,
+        "private": 32200
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 136766.8,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2e472457-55a6-4da1-9a2c-ae71e4850d6e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/28ded2a5-e55e-4e5c-95a3-2587d035d064.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Constante presión delictiva e incremento de las tasas de criminalidad a nivel de Lima Metropolitana, que amenaza la tranquilidad, residencialidad y dinamismo económico del distrito, agravado por vulnerabilidades en el espacio público y brechas en la infraestructura de vigilancia.",
+            "objective": "Consolidar a Miraflores como un distrito seguro y ordenado mediante una gestión comunitaria y tecnológica articulada, optimizando la capacidad de respuesta frente al delito a través de la modernización de la infraestructura inteligente de seguridad ciudadana y la reducción de las brechas de vigilancia en las zonas críticas y fronteras territoriales.",
+            "goal": "Al año 2030, lograr el 100% de la iluminación del distrito, ejecución e interconexión operativa del sistema de los 5 nuevos módulos inteligentes y las 163 cámaras fijas planificadas, reduciendo el tiempo de respuesta ante emergencias ciudadanas a menos de 3 minutos y disminuyendo la percepción de inseguridad de los residentes a niveles históricos mínimos para el distrito.",
+            "indicator": "Porcentaje de victimización por hechos delictivos en el distrito de Miraflores. Tiempo promedio de respuesta del Serenazgo ante emergencias ciudadanas en minutos."
+          },
+          {
+            "problem": "Progresiva desarticulación y pérdida de representatividad comunitaria de la infraestructura pública de cultura y deporte, la cual no responde a las nuevas demandas de inclusión social, accesibilidad universal y cohesión del distrito, evidenciando deterioro técnico y obsolescencia.",
+            "objective": "Consolidar una política cultural inclusiva y descentralizada, modernizando los recintos culturales públicos y promoviendo el bienestar físico, la salud mental preventiva y la cohesión social mediante la renovación integral de la infraestructura deportiva municipal.",
+            "goal": "Al año 2030, lograr el 100% de la renovación, optimización y articulación operativa de la infraestructura cultural y deportiva planificada, incrementando en un 40% la tasa de participación comunitaria en las actividades programadas y asegurando la accesibilidad universal plena en todos los recintos e instalaciones del distrito.",
+            "indicator": "Porcentaje de ciudadanos de Miraflores que participan activamente en las redes de actividades y centros culturales públicos del distrito. Índice de accesibilidad universal y nivel de uso efectivo de los complejos deportivos municipales por parte de la población residente."
+          },
+          {
+            "problem": "Existencia de barreras técnico-estructurales de accesibilidad urbana y una oferta centralizada de servicios municipales que limitan la plena inclusión social, autonomía y bienestar integral de la población de adultos mayores.",
+            "objective": "Garantizar la protección prioritaria, la inclusión social y la calidad de vida de los adultos mayores en Miraflores, modernizando la infraestructura pública para asegurar la accesibilidad universal y descentralizando los servicios asistenciales, de salud preventiva y recreación comunitaria.",
+            "goal": "Al año 2030, lograr el 100% de la ejecución, equipamiento y adecuación física universal en los recintos y redes de atención al adulto mayor planificados, alcanzando una cobertura de atención integral y preventiva de base comunitaria que erradique por completo las barreras arquitectónicas institucionales en el distrito.",
+            "indicator": "Porcentaje de adultos mayores residentes del distrito en situación de vulnerabilidad o necesidad asistencial que acceden y reciben atención oportuna en la Red Descentralizada de Casas del Adulto Mayor y Servicios Integrales de Miraflores."
+          },
+          {
+            "problem": "Persistencia de brechas técnico-estructurales en la atención primaria preventiva y la atención oportuna de urgencias médicas para residentes y población flotante, con un déficit en la optimización y descentralización de la infraestructura física asistencial.",
+            "objective": "Garantizar el acceso equitativo y oportuno a servicios de salud integral y preventiva para la comunidad de Miraflores, mediante la modernización y descentralización de la infraestructura médica municipal, la optimización tecnológica de las unidades de respuesta rápida y el fortalecimiento de los programas de salud mental y atención prioritaria para poblaciones vulnerables.",
+            "goal": "Al año 2030, lograr el 100% de la ejecución, equipamiento y puesta en operatividad del sistema de centros médicos descentralizados y la red móvil de urgencias planificada, logrando reducir el tiempo de respuesta médica prehospitalaria a menos de 5 minutos y cubriendo de forma universal a la población vulnerable del distrito en programas de salud preventiva y mental.",
+            "indicator": "Porcentaje de la población vulnerable del distrito con acceso efectivo y oportuno a la Red de Asistencia Médica y Preventiva Municipal. Tiempo promedio de respuesta de las unidades de urgencias médicas municipales ante llamadas de emergencia en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Persistencia de métodos de inspección tradicionales para el control de la informalidad comercial que carecen de digitalización e integración técnica completa, lo que da pie a una predictibilidad legal limitada y a espacios de discrecionalidad, perpetuando el comercio informal ambulatorio.",
+            "objective": "Modernizar el sistema de fiscalización y control urbano de Miraflores, implementando herramientas tecnológicas auditables y erradicando la subjetividad procedimental mediante la articulación institucional, con la finalidad de asegurar un comercio local formalizado, predictivo, transparente y respetuoso de la residencialidad.",
+            "goal": "Al año 2030, lograr el 100% de los procesos de fiscalización del distrito bajo el sistema digital integrado, encriptado y auditado, reduciendo a cero las denuncias por arbitrariedad procedimental y erradicando el comercio informal en el espacio público.",
+            "indicator": "Porcentaje de procesos de fiscalización y actas de inspección comercial ejecutados bajo el sistema digital integrado y auditado con registro de videocámara corporal. Índice de reducción de la densidad del comercio ambulatorio informal detectado en las zonas críticas y ejes turísticos-comerciales del distrito."
+          },
+          {
+            "problem": "Persistencia de barreras burocráticas y falta de una infraestructura pública ágil y descentralizada que facilite la transición de las micro y pequeñas empresas (MYPE) de la informalidad a la formalidad, limitando su competitividad y sostenibilidad.",
+            "objective": "Impulsar un ecosistema económico local dinámico, competitivo y sostenible en Miraflores, modernizando la gestión municipal para erradicar las barreras burocráticas y agilizar de manera integral los procesos de formalización, digitalización y escalabilidad de los emprendimientos y MYPE del distrito.",
+            "goal": "Al año 2030, lograr el 100% de la automatización digital y simplificación de los procesos de licenciamiento y formalización comercial en el distrito, reduciendo los tiempos de tramitación municipal a un máximo de 24 horas e integrando de manera formal y competitiva a más de 3,000 nuevos microemprendimientos locales y juveniles.",
+            "indicator": "Porcentaje de nuevos emprendimientos y microempresas del distrito formalizados y capacitados con herramientas digitales a través de la Red Municipal de Apoyo Empresarial."
+          },
+          {
+            "problem": "Brecha existente entre las competencias profesionales de los jóvenes residentes y los requerimientos técnicos del mercado laboral, sumado a la falta de experiencia laboral previa y la ausencia de canales públicos de intermediación laboral.",
+            "objective": "Potenciar la inserción laboral competitiva y el desarrollo profesional de la juventud de Miraflores, modernizando los servicios municipales de intermediación y fortaleciendo las competencias técnicas requeridas para asegurar el acceso prioritario a empleos dignos y prácticas profesionales de calidad.",
+            "goal": "Al año 2030, lograr el 100% de la automatización e interconexión técnica de la Bolsa de Trabajo Municipal con las redes de contratación de las empresas aliadas, logrando insertar formalmente a más de 2,500 jóvenes en puestos profesionales o programas de prácticas cualificadas.",
+            "indicator": "Porcentaje de jóvenes residentes del distrito inscritos que consiguen insertarse exitosamente en el mercado laboral formal a través de las plataformas municipales. Número anual de convenios corporativos activos y validados que asignan plazas exclusivas de prácticas para los jóvenes de Miraflores."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Progresiva presión ambiental, contaminación sonora y efecto de isla de calor urbana causados por el intenso flujo del transporte automotor y la densificación inmobiliaria, lo cual amenaza la preservación de la infraestructura verde y la residencialidad.",
+            "objective": "Consolidar y expandir la infraestructura verde y los espacios públicos saludables de Miraflores, implementando tecnologías automatizadas de conservación ambiental y promoviendo la corresponsabilidad vecinal para fortalecer la biodiversidad urbana y la resiliencia frente al cambio climático.",
+            "goal": "Al año 2030, lograr el 100% de la automatización y tecnificación del riego en los parques y ejes viales planificados de Miraflores, asegurando que la totalidad del arbolado urbano se encuentre monitoreado digitalmente y consolidando una cobertura universal de infraestructura verde resiliente y saludable.",
+            "indicator": "Porcentaje de la superficie total de áreas verdes del distrito mantenida y optimizada mediante sistemas de riego automatizado con aguas tratadas. Índice de salud fitosanitaria y densidad de captura de carbono del arbolado urbano registrado y gestionado a través del Sistema Catastral Verde."
+          },
+          {
+            "problem": "La contaminación sonora, vinculada al intenso flujo de transporte y obras civiles, y la contaminación visual, por la proliferación desordenada de publicidad y cableado aéreo, producen un impacto negativo en la salud mental y el bienestar físico de los vecinos.",
+            "objective": "Mitigar de manera drástica la contaminación sonora y visual en el distrito de Miraflores, modernizando la fiscalización técnica ambiental e implementando estrategias integrales de ordenamiento del paisaje urbano para garantizar un entorno saludable, predecible y respetuoso de la tranquilidad ciudadana.",
+            "goal": "Al año 2030, lograr el 100% de los puntos críticos del distrito monitoreados digitalmente y bajo los límites normativos de ruido ambiental, erradicando el cableado aéreo en desuso en la totalidad de las avenidas principales de Miraflores y consolidando un modelo de gobernanza moderna.",
+            "indicator": "Porcentaje de puntos de monitoreo crítico en el distrito que registran niveles de presión sonora dentro de los Estándares de Calidad Ambiental (ECA) vigentes. Índice de reducción de elementos de publicidad exterior antirreglamentaria y porcentaje de kilómetros de vías principales libres de cableado aéreo obsoleto."
+          },
+          {
+            "problem": "Alta tasa de generación de desechos derivada de la densificación urbana y la población flotante, que sobrepasa la capacidad operativa de los sistemas de recolección tradicionales y tensiona la sostenibilidad ambiental de la comuna.",
+            "objective": "Transformar el sistema de limpieza pública de Miraflores hacia un modelo integral de economía circular y residuo cero, modernizando la infraestructura de valorización de desechos e institucionalizando la educación ambiental para mitigar los gases de efecto invernadero y proteger el entorno urbano.",
+            "goal": "Al año 2030, lograr que el 100% de los residuos sólidos aprovechables inorgánicos y orgánicos del distrito sean reciclados, valorizados y reinsertados en cadenas de economía circular, alcanzando la cobertura universal del programa de segregación en la fuente y consolidando a Miraflores como un modelo de gobernanza ecológica vanguardista y carbono neutral.",
+            "indicator": "Porcentaje de residuos sólidos municipales e industriales de tipo orgánico e inorgánico segregados, reciclados y valorizados correctamente sobre el total generado en el distrito. Porcentaje de predios residenciales y establecimientos comerciales incorporados formalmente y activos en la Red Distrital de Segregación en la Fuente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Persistencia de procesos administrativos tradicionales y estructuras burocráticas rígidas que limitan la capacidad de respuesta oportuna, frenando la modernización municipal. A esto se suma la falta de canales automatizados para la integridad y portales de transparencia pasivos que limitan la trazabilidad del gasto público.",
+            "objective": "Optimizar la capacidad operativa de la corporación municipal mediante la transformación digital y la simplificación de procesos administrativos. Consolidar una cultura de integridad pública y tolerancia cero a la corrupción. Fortalecer la transparencia proactiva y la rendición de cuentas mediante el empoderamiento ciudadano.",
+            "goal": "Lograr el 100% de los trámites y servicios municipales automatizados y libres de barreras burocráticas. Alcanzar el 100% de los procesos de fiscalización y compras públicas registrados bajo el sistema auditable de integridad. Consolidar el modelo de 'Estado Ciudadano' con participación universal de las juntas vecinales y colectivos juveniles en las decisiones de presupuesto participativo y auditoría social.",
+            "indicator": "Porcentaje de trámites y servicios municipales completamente digitalizados. Índice de cumplimiento de los estándares del Modelo de Integridad Pública de la PCM. Porcentaje de solicitudes de información y denuncias ciudadanas resueltas oportunamente y publicadas bajo el sistema de Código Único de Trazabilidad Pública."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-9eJj59CZhOVo3U9Ira5JHioEwucmRMy8",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/9eJj59CZhOVo3U9Ira5JHioEwucmRMy8",
+      "sha256": "172179221c3fa63b9856a5e2696f6409dcc9d67b5eeb9dbae5f2b4323a5f4ae7",
+      "accessedAt": "2026-10-02T23:00:01.059Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032302",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032302",
+      "sha256": "5c91b37355d37fe8929b54d376be2e457a6be45ab33fca1dd4167ed1e0fd8866",
+      "accessedAt": "2026-10-02T23:00:01.571Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

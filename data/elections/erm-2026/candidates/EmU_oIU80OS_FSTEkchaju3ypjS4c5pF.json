@@ -1,0 +1,288 @@
+{
+  "id": "EmU_oIU80OS_FSTEkchaju3ypjS4c5pF",
+  "slug": "raul-madueno-ortiz",
+  "electionId": "erm-2026",
+  "name": "Raul Madueño Ortiz",
+  "givenNames": "Raul",
+  "surnames": "Madueño Ortiz",
+  "age": 76,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140114",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:48.838Z",
+      "sourceId": "jne-hv-EmU_oIU80OS_FSTEkchaju3ypjS4c5pF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILAZO DE LA VEGA",
+        "program": "ADMINISTRACION DE EMPRESAS",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MADUEÑO IMPORTEX E.I.R.L.",
+      "role": "GERENTE GENERAL",
+      "from": "2013",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "TRIBUNAL NACIONAL DE ÉTICA - MIEMBRO ALTERNO",
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "from": "2023",
+      "to": "HASTA LA ACTUALIDAD"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 69000,
+        "public": 0,
+        "private": 69000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 37000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VAN GMC VANDURA 350 COLOR VERDE CALIDAD CHATARRA",
+        "value": 1000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "SUPERSTAR TOOLS S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 2700,
+        "value": 1
+      },
+      {
+        "company": "MADUEÑO IMPORTEX E.I.R.L.",
+        "type": "PARTICIPACIONES",
+        "quantity": 1000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "MADIBA EIRL 10,000 ACCIONES - VALOR NOMINAL I/. 1.00 - SIN MOVIMIENTO",
+    "COMERCIAL MADUEÑO S.A.C. 20 ACCIONES - VALOR NOMINAL S/. 1.00 - SIN MOVIMIENTO",
+    "INDUSTRIAL RAFIKA SRL 900 ACCIONES - VALOR NOMINAL S/. 1.00 - SIN MOVIMIENTO",
+    "SERVICIOS DE SEGURIDAD 1 ACCION - VALOR NOMINAL I/. 1.00 - SIN MOVIMIENTO"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/f348ea43-8b3c-4825-bf51-18738d045a3b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/93ba3fdf-f9ea-45e1-98a8-d8133be16125.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso de la población vulnerable a servicios preventivos de salud.",
+            "objective": "Ampliar la cobertura de programas de salud preventiva y atención comunitaria.",
+            "goal": "20,000 atenciones acumuladas al 2030.",
+            "indicator": "Número de beneficiarios atendidos en campañas de salud."
+          },
+          {
+            "problem": "Insuficiente acceso de los vecinos a programas culturales, educativos y de formación.",
+            "objective": "Fortalecer la oferta cultural, educativa y de formación para niños, jóvenes y adultos.",
+            "goal": "40 programas anuales al 2030.",
+            "indicator": "Número de programas y talleres implementados por año."
+          },
+          {
+            "problem": "Escasos espacios y programas permanentes para el deporte y la recreación.",
+            "objective": "Promover la actividad física y recreativa mediante infraestructura y programas deportivos inclusivos.",
+            "goal": "Incrementar en 50% la participación vecinal al 2030.",
+            "indicator": "Número de vecinos participantes en actividades deportivas municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Insuficiente apoyo a emprendedores y pequeñas empresas del distrito.",
+            "objective": "Impulsar el desarrollo empresarial mediante capacitación, asesoría y empleo local.",
+            "goal": "3,000 beneficiarios al 2030.",
+            "indicator": "Número de emprendedores y empresarios capacitados."
+          },
+          {
+            "problem": "Los mecanismos administrativos municipales no se adecuan plenamente al desarrollo comercial y generación de empleo.",
+            "objective": "Modernizar los procedimientos municipales para facilitar la inversión y el emprendimiento.",
+            "goal": "Licencias emitidas en máximo 24 horas.",
+            "indicator": "Tiempo promedio para emisión de licencias de funcionamiento."
+          },
+          {
+            "problem": "Insuficiente aprovechamiento del potencial turístico, gastronómico y comercial del distrito.",
+            "objective": "Posicionar a Magdalena como un destino turístico, gastronómico y comercial de Lima Metropolitana.",
+            "goal": "30 eventos turísticos anuales al 2030.",
+            "indicator": "Número de eventos y circuitos turísticos implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "La estructura urbana requiere modernización para un crecimiento ordenado y sostenible.",
+            "objective": "Promover la renovación urbana y la recuperación de espacios públicos.",
+            "goal": "Recuperar 50,000 m² al 2030.",
+            "indicator": "Metros cuadrados de espacios públicos recuperados."
+          },
+          {
+            "problem": "Congestión vehicular y problemas de movilidad urbana.",
+            "objective": "Mejorar la movilidad urbana mediante señalización y semaforización inteligente.",
+            "goal": "80% de intersecciones principales modernizadas.",
+            "indicator": "Intersecciones con semaforización inteligente implementada."
+          },
+          {
+            "problem": "Incremento de contaminación ambiental y reducción de áreas verdes.",
+            "objective": "Fortalecer la gestión ambiental y ampliar las áreas verdes del distrito.",
+            "goal": "Incrementar 25% las áreas verdes al 2030.",
+            "indicator": "Incremento porcentual de áreas verdes recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos municipales que requieren mayor modernización y digitalización.",
+            "objective": "Implementar un gobierno digital eficiente y accesible para los vecinos.",
+            "goal": "100% de trámites digitales al 2030.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Limitada participación ciudadana en la gestión municipal.",
+            "objective": "Fortalecer los mecanismos de participación y control ciudadano.",
+            "goal": "8 procesos participativos anuales.",
+            "indicator": "Número de procesos participativos realizados por año."
+          },
+          {
+            "problem": "Necesidad de fortalecer la transparencia y rendición de cuentas.",
+            "objective": "Garantizar una gestión transparente mediante información pública permanente.",
+            "goal": "2 rendiciones de cuentas por año.",
+            "indicator": "Publicaciones de rendición de cuentas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-141648",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "28° JUZGADO CIVIL",
+        "expediente": "27390-1999-0-1801-JR-CI-04",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-EmU_oIU80OS_FSTEkchaju3ypjS4c5pF"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-141646",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "3ER JUZGADO CONSTITUCIONAL",
+        "expediente": "01595-1999-0-1801-JR-CI-16",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-EmU_oIU80OS_FSTEkchaju3ypjS4c5pF"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-141647",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "37° JUZGADO CIVIL",
+        "expediente": "06463-1999-0-1801-JR-CI-04",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-EmU_oIU80OS_FSTEkchaju3ypjS4c5pF"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-EmU_oIU80OS_FSTEkchaju3ypjS4c5pF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/EmU_oIU80OS_FSTEkchaju3ypjS4c5pF",
+      "sha256": "33ab6b71991e36dae9186c7fc8120e438d900c276ac8b4464c75033f14223c8e",
+      "accessedAt": "2026-10-02T22:59:48.838Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021406",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021406",
+      "sha256": "3b21bc7c156dca35d36fc6e780e8ae02c15a24333c9da809445a1088bb07ff90",
+      "accessedAt": "2026-10-02T22:59:49.312Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

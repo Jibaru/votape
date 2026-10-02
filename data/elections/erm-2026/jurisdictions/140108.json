@@ -1,0 +1,189 @@
+{
+  "id": "140108",
+  "name": "Chorrillos",
+  "level": "distrital",
+  "parentId": "140100",
+  "electionId": "erm-2026",
+  "candidacies": [
+    {
+      "candidateId": "2sZJ_B6_-BC7n6FRkq-jpxaOkGi-xVuW",
+      "name": "Luis Alberto Jimenez Caichihua",
+      "party": {
+        "id": 4,
+        "name": "ACCION POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42055,
+      "expediente": "ERM.2026012883"
+    },
+    {
+      "candidateId": "zmw04ZECQEGOlSr47sVGsT36qDw5dpUp",
+      "name": "Henry Hernan Herrera Aleman",
+      "party": {
+        "id": 1257,
+        "name": "ALIANZA PARA EL PROGRESO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44218,
+      "expediente": "ERM.2026018907"
+    },
+    {
+      "candidateId": "1RQzrWHdTDgwdF_-HBJu4Arb6ia7W4-p",
+      "name": "Richard Cortez Melgarejo",
+      "party": {
+        "id": 2173,
+        "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 45270,
+      "expediente": "ERM.2026022978"
+    },
+    {
+      "candidateId": "fK-Hob_GSWMFqNO7xKqPHYYT4VdAY0eS",
+      "name": "Ricardo Herminio Bejarano Fernandez",
+      "party": {
+        "id": 2898,
+        "name": "FE EN EL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 47244,
+      "expediente": "ERM.2026015367"
+    },
+    {
+      "candidateId": "yi419OJctZW2LK78DpKIa6qE8p-DEpV_",
+      "name": "Maria Del Rosario Neyra Onofre",
+      "party": {
+        "id": 1366,
+        "name": "FUERZA POPULAR"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44843,
+      "expediente": "ERM.2026023091"
+    },
+    {
+      "candidateId": "V2d3RtoQcF83ifUMVHJlg_fABxRV2umG",
+      "name": "Josian Tatiana Calmet Leon",
+      "party": {
+        "id": 1264,
+        "name": "JUNTOS POR EL PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 44674,
+      "expediente": "ERM.2026022222"
+    },
+    {
+      "candidateId": "XFEa-tj2NUIHeqLr1moRBOSoD8w461Lf",
+      "name": "Giuliano Fabrizio Bacigalupo Padilla",
+      "party": {
+        "id": 2930,
+        "name": "PARTIDO APRISTA PERUANO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48775,
+      "expediente": "ERM.2026021681"
+    },
+    {
+      "candidateId": "pOCsAGSCai0iYPY92pkC4rKlhtlJ8K7m",
+      "name": "Luciano Tuñoque Mori",
+      "party": {
+        "id": 2867,
+        "name": "PARTIDO DEMOCRATA UNIDO PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46797,
+      "expediente": "ERM.2026021252"
+    },
+    {
+      "candidateId": "QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN",
+      "name": "Ricardo Santiago Vasquez Laguna",
+      "party": {
+        "id": 14,
+        "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 42914,
+      "expediente": "ERM.2026015028"
+    },
+    {
+      "candidateId": "G7yis5u3ONEtYRLiu7H5yTDjL_aThhPD",
+      "name": "Kruger Kelvin Vidal Quispe",
+      "party": {
+        "id": 2840,
+        "name": "PARTIDO MORADO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46604,
+      "expediente": "ERM.2026020763"
+    },
+    {
+      "candidateId": "oViN9cuNLvOaMHLD34gEbzWsUoQtdO4P",
+      "name": "Jorge Luis Chicata Moreno",
+      "party": {
+        "id": 2925,
+        "name": "PARTIDO POLITICO PERU PRIMERO"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 48294,
+      "expediente": "ERM.2026021313"
+    },
+    {
+      "candidateId": null,
+      "name": null,
+      "party": {
+        "id": 2943,
+        "name": "PARTIDO POPULAR CRISTIANO - PPC"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "EXCLUSION",
+      "listId": 49312,
+      "expediente": "ERM.2026021082"
+    },
+    {
+      "candidateId": "f9l9lnIx9O5g7_bu7kQGN_Agc3_ezXhz",
+      "name": "Jorge Ignacio Guzman Niño",
+      "party": {
+        "id": 2731,
+        "name": "PODEMOS PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 46309,
+      "expediente": "ERM.2026019614"
+    },
+    {
+      "candidateId": "HBiPcbQe4unyC-6RCR314QcBJ4O0mkMh",
+      "name": "Dionisio Navarro De La O",
+      "party": {
+        "id": 2967,
+        "name": "PROGRESEMOS"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 50164,
+      "expediente": "ERM.2026020893"
+    },
+    {
+      "candidateId": "VAUyPqk53xtvWaFTEsGjv49LZ-N1uXzE",
+      "name": "Roberto Carlos Pizarro Lopez",
+      "party": {
+        "id": 3040,
+        "name": "RENOVACION POPULAR PERU"
+      },
+      "office": "ALCALDE DISTRITAL",
+      "status": "INSCRITO",
+      "listId": 52511,
+      "expediente": "ERM.2026016354"
+    }
+  ]
+}

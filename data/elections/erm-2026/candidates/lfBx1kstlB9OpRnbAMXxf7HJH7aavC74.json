@@ -1,0 +1,215 @@
+{
+  "id": "lfBx1kstlB9OpRnbAMXxf7HJH7aavC74",
+  "slug": "ruben-daniel-bonilla-espinoza",
+  "electionId": "erm-2026",
+  "name": "Ruben Daniel Bonilla Espinoza",
+  "givenNames": "Ruben Daniel",
+  "surnames": "Bonilla Espinoza",
+  "age": 64,
+  "gender": "Masculino",
+  "party": {
+    "id": 3009,
+    "name": "FUERZA CIUDADANA"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:20.758Z",
+      "sourceId": "jne-hv-lfBx1kstlB9OpRnbAMXxf7HJH7aavC74"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "I.S.T.P. ALEJANDRO O´DEUSTUA",
+        "program": "CIENCIAS DE LA COMUNICACION",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Christian Broadcasting Network",
+      "role": "Productor",
+      "from": "2007",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 40000,
+        "public": 0,
+        "private": 40000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 230000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VOLKSWAGEN NEGRO",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "PAIDA S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 300,
+        "value": 1
+      },
+      {
+        "company": "ATAJO COM SOCIEDAD ANONIMA CERRADA",
+        "type": "ACCIONES",
+        "quantity": 1500,
+        "value": 1
+      },
+      {
+        "company": "INTERCUT MEDIA S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 9600,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/68cc35dd-2173-451b-9982-d334e0dbd1d2.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6749d797-7de4-442b-ac9f-6b3ffc52ff9c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deterioro de espacios públicos y limitada oferta recreativa y deportiva.",
+            "objective": "Recuperar y mejorar los espacios públicos para fortalecer la convivencia ciudadana y la integración social.",
+            "goal": "Recuperar parques metropolitanos, mejorar losas deportivas, implementar espacios recreativos, desarrollar programas culturales y deportivos, y mejorar el mobiliario urbano.",
+            "indicator": "Número de espacios públicos recuperados."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana y la delincuencia organizada.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la integración tecnológica, la prevención del delito y la coordinación permanente con la Policía Nacional del Perú.",
+            "goal": "Implementar un conjunto de acciones para la seguridad ciudadana, incluyendo la ampliación de la red de videovigilancia, el fortalecimiento del serenazgo, la implementación de centros de monitoreo, la recuperación de espacios públicos y el fortalecimiento de juntas vecinales.",
+            "indicator": "Número de acciones de seguridad ciudadana implementadas."
+          },
+          {
+            "problem": "Limitado acceso a programas sociales y atención de poblaciones vulnerables.",
+            "objective": "Fortalecer la inclusión social mediante programas de apoyo y protección a poblaciones vulnerables.",
+            "goal": "Fortalecer los programas sociales municipales, brindar atención integral a adultos mayores, implementar programas de apoyo para personas con discapacidad, promover la igualdad de oportunidades y fortalecer las organizaciones comunitarias.",
+            "indicator": "Número de beneficiarios atendidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Congestión vehicular y pérdida de productividad urbana.",
+            "objective": "Mejorar la movilidad urbana mediante infraestructura vial y gestión inteligente del tránsito.",
+            "goal": "Mejorar las vías metropolitanas, optimizar la semaforización, implementar una gestión inteligente del tránsito, desarrollar infraestructura complementaria e intervenir en puntos críticos de congestión.",
+            "indicator": "Número de intervenciones para mejorar la movilidad urbana."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo formal y emprendimiento.",
+            "objective": "Promover la inversión, el emprendimiento y el desarrollo económico local.",
+            "goal": "Realizar ferias laborales y empresariales, implementar programas de capacitación para emprendedores, simplificar trámites para negocios, promover inversiones y fortalecer los mercados locales.",
+            "indicator": "Número de emprendedores beneficiados."
+          },
+          {
+            "problem": "Comercio ambulatorio desordenado e informalidad económica.",
+            "objective": "Promover la formalización económica y el ordenamiento del comercio urbano.",
+            "goal": "Implementar programas de formalización comercial, reordenar los espacios públicos, ofrecer capacitación empresarial, promover mercados formales y brindar asistencia técnica a pequeños comerciantes.",
+            "indicator": "Número de comerciantes formalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental y deficiente gestión de residuos sólidos.",
+            "objective": "Fortalecer la gestión integral de residuos y promover una ciudad ambientalmente sostenible.",
+            "goal": "Optimizar los servicios de limpieza pública, ejecutar programas de reciclaje, impartir educación ambiental, implementar puntos de segregación y promover la economía circular.",
+            "indicator": "Número de acciones ambientales implementadas."
+          },
+          {
+            "problem": "Reducción de áreas verdes y deterioro del entorno urbano.",
+            "objective": "Incrementar la infraestructura verde y mejorar la calidad ambiental de la ciudad.",
+            "goal": "Realizar la arborización urbana, recuperar áreas verdes existentes, implementar nuevos espacios verdes, mantener los parques metropolitanos y desarrollar programas de sensibilización ambiental.",
+            "indicator": "Número de áreas verdes recuperadas o implementadas."
+          },
+          {
+            "problem": "Vulnerabilidad frente a desastres naturales y efectos del cambio climático.",
+            "objective": "Fortalecer la gestión del riesgo de desastres y la resiliencia urbana.",
+            "goal": "Identificar zonas vulnerables, ejecutar obras de prevención, implementar sistemas de alerta temprana, realizar simulacros metropolitanos y ofrecer capacitación ciudadana.",
+            "indicator": "Número de acciones preventivas ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada confianza ciudadana en la gestión municipal.",
+            "objective": "Fortalecer la transparencia y la rendición permanente de cuentas.",
+            "goal": "Asegurar la publicación permanente de información institucional, realizar audiencias públicas descentralizadas, emitir informes periódicos de gestión, fomentar la vigilancia ciudadana y fortalecer el control interno.",
+            "indicator": "Número de mecanismos de transparencia implementados."
+          },
+          {
+            "problem": "Escasa participación ciudadana en la toma de decisiones.",
+            "objective": "Promover la participación activa de la ciudadanía en la gestión municipal.",
+            "goal": "Implementar el presupuesto participativo, establecer mesas de diálogo vecinal, realizar consultas ciudadanas, crear plataformas digitales de participación y habilitar espacios permanentes de concertación.",
+            "indicator": "Número de espacios de participación ciudadana implementados."
+          },
+          {
+            "problem": "Necesidad de modernizar la administración municipal.",
+            "objective": "Modernizar la gestión pública mediante la digitalización y simplificación administrativa.",
+            "goal": "Digitalizar los trámites, implementar el gobierno electrónico, simplificar la administración, capacitar a los servidores municipales y aplicar la gestión por resultados.",
+            "indicator": "Porcentaje de procedimientos administrativos digitalizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-lfBx1kstlB9OpRnbAMXxf7HJH7aavC74",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/lfBx1kstlB9OpRnbAMXxf7HJH7aavC74",
+      "sha256": "5a5c25b6be49136b4c847e60033141bae4d66ae7d6828bf110c5e7f8f343371e",
+      "accessedAt": "2026-10-02T22:49:20.758Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023199",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023199",
+      "sha256": "93ccec855c71d28487773df920932fd50a025b00b1c6cc94ecfdc7ec23992947",
+      "accessedAt": "2026-10-02T22:49:21.284Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

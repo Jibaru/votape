@@ -1,0 +1,244 @@
+{
+  "id": "tcCRc5kNvEMeYnj_hgcU-ziqCYK8osym",
+  "slug": "edgard-hugo-limaylla-montalvo",
+  "electionId": "erm-2026",
+  "name": "Edgard Hugo Limaylla Montalvo",
+  "givenNames": "Edgard Hugo",
+  "surnames": "Limaylla Montalvo",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 1264,
+    "name": "JUNTOS POR EL PERU"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:30.182Z",
+      "sourceId": "jne-hv-tcCRc5kNvEMeYnj_hgcU-ziqCYK8osym"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "municipalidad distrital de independencia",
+      "role": "operario",
+      "from": "2019",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERU",
+      "year": "2024"
+    },
+    {
+      "party": "PARTIDO POLITICO PERU PRIMERO",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 28000,
+        "public": 28000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 427,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "auto nissan",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/23365047-a333-43db-bdc6-da4def085c91.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2e8c942f-0334-46da-ad83-7ef250e8c29a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Violencia familiar y de género.",
+            "objective": "Implementar programas de prevención, orientación psicológica y asistencia legal.",
+            "goal": "Reducir en 20% los casos reportados de violencia familiar y de género.",
+            "indicator": "Tasa de casos reportados de violencia familiar y de género."
+          },
+          {
+            "problem": "Deficiencias en la calidad educativa y acceso a oportunidades de formación.",
+            "objective": "Promover alianzas con instituciones educativas y programas de reforzamiento escolar.",
+            "goal": "Incrementar en 20% el rendimiento académico de estudiantes en instituciones priorizadas.",
+            "indicator": "Rendimiento académico de estudiantes en instituciones priorizadas."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y promoción de la salud.",
+            "objective": "Implementar campañas de salud, convenios con establecimientos de salud y programas de atención comunitaria.",
+            "goal": "Incrementar en 25% la cobertura de atención preventiva en la población vulnerable.",
+            "indicator": "Porcentaje de cobertura de atención preventiva en la población vulnerable."
+          },
+          {
+            "problem": "Inseguridad ciudadana y alta percepción de violencia en barrios y espacios públicos.",
+            "objective": "Fortalecer el serenazgo, la videovigilancia y los programas de prevención del delito con participación vecinal.",
+            "goal": "Reducir en 30% los delitos de mayor incidencia y aumentar en 40% la percepción de seguridad ciudadana.",
+            "indicator": "Tasa de delitos de mayor incidencia y porcentaje de percepción de seguridad ciudadana."
+          },
+          {
+            "problem": "Déficit de espacios recreativos, culturales y deportivos.",
+            "objective": "Construcción, recuperación y mantenimiento de parques, losas deportivas y centros culturales.",
+            "goal": "Incrementar en 30% los espacios públicos recreativos y deportivos.",
+            "indicator": "Porcentaje de incremento de espacios públicos recreativos y deportivos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escaso acceso al financiamiento para emprendedores y pequeños negocios.",
+            "objective": "Gestionar convenios con entidades financieras y programas de inclusión financiera.",
+            "goal": "Beneficiar a 5,000 emprendedores con acceso a financiamiento y educación financiera.",
+            "indicator": "Número de emprendedores con acceso a financiamiento y educación financiera."
+          },
+          {
+            "problem": "Baja competitividad de las micro y pequeñas empresas (MYPES).",
+            "objective": "Fortalecer la capacitación empresarial, innovación, transformación digital y acceso a mercados.",
+            "goal": "Incrementar en 30% la productividad de las MYPES beneficiarias.",
+            "indicator": "Nivel de productividad de las MYPES beneficiarias."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo formal, especialmente para jóvenes y mujeres.",
+            "objective": "Promover programas de capacitación laboral, certificación de competencias y bolsas de trabajo.",
+            "goal": "Incrementar en 25% el empleo formal en el distrito.",
+            "indicator": "Tasa de empleo formal en el distrito."
+          },
+          {
+            "problem": "Alta informalidad comercial y empresarial.",
+            "objective": "Implementar programas de formalización, simplificación administrativa y asistencia técnica a emprendedores.",
+            "goal": "Reducir la informalidad económica en 20%.",
+            "indicator": "Tasa de informalidad económica."
+          },
+          {
+            "problem": "Débil articulación de cadenas productivas y comerciales.",
+            "objective": "Promover alianzas estratégicas entre productores, comerciantes y empresas.",
+            "goal": "Consolidar al menos 5 cadenas productivas y comerciales prioritarias.",
+            "indicator": "Número de cadenas productivas y comerciales prioritarias consolidadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Inadecuada gestión de residuos sólidos y presencia de puntos críticos de acumulación de basura.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos y la limpieza pública.",
+            "goal": "Reducir en 80% los puntos críticos de acumulación de residuos sólidos al 2030.",
+            "indicator": "Número de puntos críticos de acumulación de residuos sólidos."
+          },
+          {
+            "problem": "Bajo nivel de segregación y reciclaje de residuos en hogares y comercios.",
+            "objective": "Promover la cultura ambiental y el reciclaje en la población.",
+            "goal": "Incrementar al 50% la participación de hogares en programas de segregación en la fuente y reciclaje.",
+            "indicator": "Porcentaje de participación de hogares en programas de segregación en la fuente y reciclaje."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante y deterioro de espacios públicos.",
+            "objective": "Incrementar y conservar las áreas verdes del distrito.",
+            "goal": "Aumentar en 20% la superficie de áreas verdes urbanas y mejorar su mantenimiento.",
+            "indicator": "Superficie de áreas verdes urbanas."
+          },
+          {
+            "problem": "Vulnerabilidad frente a riesgos climáticos y desastres naturales.",
+            "objective": "Fortalecer la gestión del riesgo de desastres y la adaptación al cambio climático.",
+            "goal": "Implementar planes de gestión de riesgos y adaptación climática en el 100% de zonas priorizadas.",
+            "indicator": "Porcentaje de zonas priorizadas con planes de gestión de riesgos y adaptación climática implementados."
+          },
+          {
+            "problem": "Contaminación del aire por emisiones vehiculares y actividades económicas.",
+            "objective": "Mejorar la calidad ambiental y reducir los niveles de contaminación atmosférica.",
+            "goal": "Reducir en 15% los niveles de contaminación atmosférica en zonas críticas del distrito.",
+            "indicator": "Niveles de contaminación atmosférica en zonas críticas del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada modernización de la gestión municipal y excesiva tramitología.",
+            "objective": "Modernizar la gestión pública municipal mediante la simplificación administrativa y la transformación digital.",
+            "goal": "Reducir en 50% los tiempos de atención de los principales trámites municipales al 2030.",
+            "indicator": "Tiempos de atención de los principales trámites municipales."
+          },
+          {
+            "problem": "Insuficiente transparencia y acceso a la información pública.",
+            "objective": "Fortalecer la transparencia, la rendición de cuentas y el gobierno abierto.",
+            "goal": "Alcanzar el 100% de cumplimiento de las obligaciones de transparencia institucional.",
+            "indicator": "Porcentaje de cumplimiento de las obligaciones de transparencia institucional."
+          },
+          {
+            "problem": "Débil participación ciudadana en la gestión del desarrollo local.",
+            "objective": "Promover la participación activa de la ciudadanía en la toma de decisiones.",
+            "goal": "Incrementar en 50% la participación vecinal en los espacios de concertación y presupuesto participativo.",
+            "indicator": "Porcentaje de participación vecinal en los espacios de concertación y presupuesto participativo."
+          },
+          {
+            "problem": "Limitada capacidad de recaudación tributaria municipal.",
+            "objective": "Fortalecer la gestión tributaria y financiera municipal.",
+            "goal": "Incrementar en 25% la recaudación de tributos municipales respecto al año 2026.",
+            "indicator": "Monto de recaudación de tributos municipales."
+          },
+          {
+            "problem": "Deficiente articulación entre la municipalidad y las instituciones públicas y privadas.",
+            "objective": "Mejorar la coordinación interinstitucional para la gestión del desarrollo local.",
+            "goal": "Suscribir y ejecutar al menos 30 convenios de cooperación interinstitucional.",
+            "indicator": "Número de convenios de cooperación interinstitucional suscritos y ejecutados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-tcCRc5kNvEMeYnj_hgcU-ziqCYK8osym",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/tcCRc5kNvEMeYnj_hgcU-ziqCYK8osym",
+      "sha256": "54e1283401f9f66dd9dd2adc2f131511484d9b39249ef6954f53c294a83b66b0",
+      "accessedAt": "2026-10-02T22:56:30.182Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026030998",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026030998",
+      "sha256": "c3295a01d3cf3d65d0df5fbaad3c93fcfd8aa9fc4091b58621fa5aab94e4d134",
+      "accessedAt": "2026-10-02T22:56:30.657Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

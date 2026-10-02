@@ -1,0 +1,215 @@
+{
+  "id": "VofNez5Ru8FbYDGaHBkc-44si2SpjLIT",
+  "slug": "wilber-jorge-ancco-mamani",
+  "electionId": "erm-2026",
+  "name": "Wilber Jorge Ancco Mamani",
+  "givenNames": "Wilber Jorge",
+  "surnames": "Ancco Mamani",
+  "age": 58,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140139",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:38.981Z",
+      "sourceId": "jne-hv-VofNez5Ru8FbYDGaHBkc-44si2SpjLIT"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "GRUPO SEVIC SAC",
+      "role": "FABRICACION DE MUEBLES",
+      "from": "2012",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATA UNIDO PERU",
+      "year": "2021"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 156737.47,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "NISSAN BAYALBF13SW2/98 - COLOR ROJO",
+        "value": 7500
+      },
+      {
+        "type": "TOYOTA COROLLA AE95L-CWMDU",
+        "value": 13000
+      },
+      {
+        "type": "CHEVROLET N400 - COLOR PLATA TWINKLING",
+        "value": 37000
+      },
+      {
+        "type": "GREAT WALL POER - COLOR AZUL",
+        "value": 79513
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GRUPO SEVIC SAC",
+        "type": "ACCIONES",
+        "quantity": 95,
+        "value": 0.5
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/79e141ac-67c2-4393-bcec-908e217e6022.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/dacd0684-b507-4a98-91d3-7a5767a202c5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva y programas sociales.",
+            "objective": "Fortalecer la atención preventiva mediante campañas médicas descentralizadas y convenios institucionales.",
+            "goal": "Realizar 30 campañas médicas.",
+            "indicator": "Número de campañas médicas. Número de beneficiarios."
+          },
+          {
+            "problem": "Incremento de la inseguridad ciudadana y limitada cobertura de vigilancia.",
+            "objective": "Implementar Centros de Monitoreo y Videovigilancia Sectoriales y fortalecer el Serenazgo Municipal.",
+            "goal": "Reducción del 20% en la tasa de delitos.",
+            "indicator": "Tasa de delitos denunciados. Número de cámaras instaladas. Número de vehículos de patrullaje."
+          },
+          {
+            "problem": "Déficit de espacios públicos, recreativos y culturales.",
+            "objective": "Implementar el Programa “Cieneguilla Ciudad Jardín” mediante la recuperación de parques y espacios públicos.",
+            "goal": "Recuperar 10 parques.",
+            "indicator": "Número de parques recuperados. Metros cuadrados recuperados. Número de actividades culturales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escaso apoyo a emprendedores, productores y MYPES locales.",
+            "objective": "Implementar el programa “Emprende Cieneguilla\" con capacitación y formalización empresarial.",
+            "goal": "Alcanzar 1000 negocios formalizados.",
+            "indicator": "Número de emprendedores capacitados. Número de negocios formalizados."
+          },
+          {
+            "problem": "Limitado desarrollo turístico y baja permanencia de visitantes.",
+            "objective": "Promover el turismo sostenible mediante corredores turísticos, gastronómicos y culturales.",
+            "goal": "Incrementar en un 40% el número de visitantes.",
+            "indicator": "Número de visitantes. Número de establecimientos formalizados."
+          },
+          {
+            "problem": "Deficiencias en infraestructura vial y accesibilidad.",
+            "objective": "Ejecutar programas de mantenimiento vial y construcción de infraestructura peatonal segura.",
+            "goal": "Rehabilitar 50 km de vías.",
+            "indicator": "Kilómetros de vías rehabilitadas. Metros lineales de veredas construidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de residuos sólidos y limitado reciclaje.",
+            "objective": "Modernizar la gestión de residuos sólidos mediante programas de segregación y reciclaje.",
+            "goal": "Alcanzar el 100% de cobertura en la recolección de residuos.",
+            "indicator": "Cobertura de recolección. Número de puntos ecológicos implementados."
+          },
+          {
+            "problem": "Deterioro ambiental y contaminación del río Lurín.",
+            "objective": "Recuperar y proteger el ecosistema del río Lurín mediante programas de conservación.",
+            "goal": "Ejecutar 4 campañas de limpieza y recuperación de la ribera.",
+            "indicator": "Número de jornadas de limpieza. Metros de ribera recuperados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y arborización urbana.",
+            "objective": "Implementar el Programa “Cieneguilla Verde”.",
+            "goal": "Incrementar en un 30% las áreas verdes recuperadas.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas. Número de árboles plantados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza ciudadana y limitada transparencia institucional.",
+            "objective": "Fortalecer la transparencia mediante un Portal de Gobierno Abierto.",
+            "goal": "Transmitir al 100% las sesiones y publicar los informes correspondientes.",
+            "indicator": "Porcentaje de sesiones transmitidas. Número de informes publicados."
+          },
+          {
+            "problem": "Trámites municipales lentos y excesivamente presenciales.",
+            "objective": "Implementar el Gobierno Digital Municipal.",
+            "goal": "Digitalizar al 80% los trámites municipales.",
+            "indicator": "Porcentaje de trámites digitalizados. Nivel de satisfacción ciudadana."
+          },
+          {
+            "problem": "Escasa participación ciudadana en la toma de decisiones.",
+            "objective": "Promover mecanismos permanentes de participación vecinal.",
+            "goal": "Realizar 12 audiencias públicas.",
+            "indicator": "Número de audiencias públicas. Número de organizaciones participantes."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-VofNez5Ru8FbYDGaHBkc-44si2SpjLIT",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/VofNez5Ru8FbYDGaHBkc-44si2SpjLIT",
+      "sha256": "971e168765001fa5805624fbb48f4f450080975f1001f062033cab52db0e5d4f",
+      "accessedAt": "2026-10-02T22:54:38.981Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022985",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022985",
+      "sha256": "a45ca33e16dcd8f7e2b575cc28904f7b461256705e2deee54d69c1c4999d7384",
+      "accessedAt": "2026-10-02T22:54:39.556Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

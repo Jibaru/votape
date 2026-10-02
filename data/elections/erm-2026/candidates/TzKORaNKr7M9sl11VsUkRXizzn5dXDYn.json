@@ -1,0 +1,204 @@
+{
+  "id": "TzKORaNKr7M9sl11VsUkRXizzn5dXDYn",
+  "slug": "ricardo-gil-espadin",
+  "electionId": "erm-2026",
+  "name": "Ricardo Gil Espadin",
+  "givenNames": "Ricardo",
+  "surnames": "Gil Espadin",
+  "age": 63,
+  "gender": "Masculino",
+  "party": {
+    "id": 1366,
+    "name": "FUERZA POPULAR"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:42.287Z",
+      "sourceId": "jne-hv-TzKORaNKr7M9sl11VsUkRXizzn5dXDYn"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana Los Andes",
+        "program": "Abogado",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2024"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana Los Andes",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "ABOGADO",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "ABR Contratistas Generales SAC",
+      "role": "TECNICO TELECOMUNICACIONES",
+      "from": "2015",
+      "to": "2015"
+    },
+    {
+      "employer": "ITETE PERU SAC",
+      "role": "Tecnico",
+      "from": "2011",
+      "to": "2013"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "VAMOS PERU",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 13000,
+        "public": 0,
+        "private": 13000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "PARTICIPA EN LAS ASOCIACIONES NO LUCRATIVAS, VPIS EL BICENTENARIO, HIJOS DE VILLA EL SALVADOR"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2845bd40-6cb6-47cc-99b8-740e05b98e90.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3b14efe6-9db7-4f29-a640-fda01622681d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia en el distrito.",
+            "objective": "Implementar un sistema de seguridad integrado.",
+            "goal": "Declarar en emergencia la seguridad ciudadana e implementarla de logística.",
+            "indicator": "De cada 10 personas 7 han sido asaltadas a nivel nacional."
+          },
+          {
+            "problem": "Baja participación de las juntas vecinales, reservistas y la Policía Nacional en la seguridad del distrito.",
+            "objective": "Disminuir la delincuencia a través de la participación ciudadana.",
+            "goal": "Tener mayor cantidad de juntas vecinales con participación de licenciados de las fuerzas armadas y PNP para disminuir la delincuencia de manera organizada.",
+            "indicator": "Incrementar las juntas vecinales en un 50%, con participación de licenciados de las fuerzas armadas y PNP."
+          },
+          {
+            "problem": "Deficiencias de los alumnos en matemáticas, letras y otras áreas, de acuerdo a la prueba Pisa.",
+            "objective": "Promover la calidad de los espacios educativos.",
+            "goal": "Promover bibliotecas itinerantes, apoyar las bibliotecas existentes y promover academias municipales.",
+            "indicator": "Incrementar la capacidad de aprendizaje en los alumnos de acuerdo a la prueba Pisa."
+          },
+          {
+            "problem": "Limitado acceso a la educación superior para personas de menores recursos económicos.",
+            "objective": "Tener jóvenes con educación para ser insertados en el espacio laboral.",
+            "goal": "Insertar un mayor número de jóvenes técnicamente preparados en las grandes empresas del distrito.",
+            "indicator": "25% de jóvenes hasta 22 años con un trabajo adecuado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de oportunidades de negocios y de empleos adecuados para los ciudadanos.",
+            "objective": "Promover negocios en nuestros ciudadanos del distrito.",
+            "goal": "Facilitar la emisión de licencias para nuevas iniciativas con soporte de capacitación y asistencia técnica.",
+            "indicator": "25% de nuevas iniciativas en zonas industriales y comerciales."
+          },
+          {
+            "problem": "Deficiente promoción y apoyo al desarrollo de las PYMES.",
+            "objective": "Obtener PYMES capacitadas y con asistencia técnica.",
+            "goal": "Lograr que las PYMES sean desarrolladas y con un nivel productivo y rentable.",
+            "indicator": "El 50% de las PYMES se han convertido en comercializadoras."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta contaminación ambiental y sonora en el distrito.",
+            "objective": "Generar mecanismos de educación, cultura, concientización y fiscalización para la disminución de la contaminación ambiental y sonora.",
+            "goal": "Llegar a mediano plazo a ser una comunidad saludable.",
+            "indicator": "Disminuir la contaminación ambiental en un 50%."
+          },
+          {
+            "problem": "Déficit de áreas verdes en el distrito.",
+            "objective": "Aumentar la cantidad de áreas verdes por metro cuadrado.",
+            "goal": "Recuperar el liderazgo de Villa el Salvador como distrito ecológico y ciudad saludable.",
+            "indicator": "50% de incremento de áreas verdes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia enraizada en el aparato estatal.",
+            "objective": "Hacer una institución ágil que permita al ciudadano ser atendido en forma oportuna.",
+            "goal": "Brindar atenciones oportunas a los servicios requeridos por los vecinos del distrito.",
+            "indicator": "50% de barreras burocráticas eliminadas en el aparato municipal."
+          },
+          {
+            "problem": "Altos índices de corrupción en las instituciones del Estado y presunción en la Municipalidad.",
+            "objective": "Lograr una institución libre de corrupción, contando con mecanismos de fiscalización y seguimiento.",
+            "goal": "Una gestión municipal libre de corrupción, con mecanismos claros y atención oportuna al ciudadano.",
+            "indicator": "Nivel de corrupción en la gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-TzKORaNKr7M9sl11VsUkRXizzn5dXDYn",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/TzKORaNKr7M9sl11VsUkRXizzn5dXDYn",
+      "sha256": "c4806230b584219b6379acb4f7a80934ff53f56be0bc01e9ebcc8678def769b4",
+      "accessedAt": "2026-10-02T23:06:42.287Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026033218",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026033218",
+      "sha256": "6ab62d218ad51dc79ad58fcf861672f95aa42917d37694d7d75631edb7f6322a",
+      "accessedAt": "2026-10-02T23:06:42.818Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

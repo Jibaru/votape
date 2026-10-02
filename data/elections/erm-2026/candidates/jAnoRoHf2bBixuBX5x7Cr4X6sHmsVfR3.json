@@ -1,0 +1,213 @@
+{
+  "id": "jAnoRoHf2bBixuBX5x7Cr4X6sHmsVfR3",
+  "slug": "ermelinda-lanazca-baltazar-de-taype",
+  "electionId": "erm-2026",
+  "name": "Ermelinda Lanazca Baltazar De Taype",
+  "givenNames": "Ermelinda",
+  "surnames": "Lanazca Baltazar De Taype",
+  "age": 39,
+  "gender": "Femenino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140139",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:40.615Z",
+      "sourceId": "jne-hv-jAnoRoHf2bBixuBX5x7Cr4X6sHmsVfR3"
+    }
+  ],
+  "education": {
+    "basic": null,
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ecbc3442-e16e-43bd-8db8-5ba2ae07486c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/acb0372a-9102-4133-a590-796126797124.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de analfabetismo y rezago educativo en población vulnerable.",
+            "objective": "Reducir el analfabetismo y promover la educación inclusiva y el aprendizaje a lo largo de la vida.",
+            "goal": "Reducir el analfabetismo de 5.8% a menos de 4%.",
+            "indicator": "Tasa de analfabetismo en población de 15 años a más."
+          },
+          {
+            "problem": "Deficiente infraestructura educativa, limitada conectividad digital y brechas de equipamiento escolar.",
+            "objective": "Mejorar las condiciones para el aprendizaje y el acceso a servicios educativos de calidad.",
+            "goal": "Intervenir al menos el 60% de instituciones educativas con mayores brechas.",
+            "indicator": "Porcentaje de instituciones educativas priorizadas intervenidas."
+          },
+          {
+            "problem": "Persistencia de anemia y desnutrición crónica infantil en sectores vulnerables del distrito.",
+            "objective": "Contribuir a la reducción de la anemia infantil y fortalecer el desarrollo infantil temprano mediante acciones articuladas con el sector salud.",
+            "goal": "Reducir la anemia infantil de 10.8% a menos de 5%.",
+            "indicator": "Porcentaje de niños y niñas de 6 a 35 meses con anemia."
+          },
+          {
+            "problem": "Limitado acceso de poblaciones vulnerables a programas sociales y servicios de protección.",
+            "objective": "Fortalecer la inclusión social y ampliar el acceso a servicios de protección para grupos vulnerables.",
+            "goal": "Incrementar en 50% la atención de población vulnerable.",
+            "indicator": "Número de beneficiarios incorporado a programas sociales."
+          },
+          {
+            "problem": "Incremento de la violencia familiar y de género.",
+            "objective": "Fortalecer la prevención y atención integral de la violencia contra mujeres y poblaciones vulnerables.",
+            "goal": "Incrementar en 50% la cobertura de atención integral.",
+            "indicator": "Número de personas atendidas mediante servicios especializados."
+          },
+          {
+            "problem": "Incremento de delitos contra el patrimonio, limitada iluminación pública y creciente percepción de inseguridad.",
+            "objective": "Fortalecer la seguridad ciudadana mediante acciones preventivas y articulación institucional.",
+            "goal": "Reducir en 20% la incidencia de delitos patrimoniales.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio por cada 10,000 habitantes."
+          },
+          {
+            "problem": "Persistentes brechas en el acceso a agua potable, alcantarillado y energía eléctrica en asentamientos humanos y zonas de expansión urbana.",
+            "objective": "Ampliar el acceso de la población a servicios básicos de calidad, priorizando los sectores con mayores niveles de vulnerabilidad.",
+            "goal": "Incrementar en 20 puntos porcentuales la cobertura de agua y saneamiento y alcanzar una cobertura de electrificación superior al 98% en el distrito.",
+            "indicator": "Porcentaje de viviendas con acceso a agua potable, alcantarillado y energía eléctrica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil articulación productiva y baja competitividad de los pequeños negocios locales.",
+            "objective": "Fortalecer las cadenas de valor y la competitividad de las micro y pequeñas empresas.",
+            "goal": "Fortalecer al menos 500 emprendimientos locales.",
+            "indicator": "Número de emprendimientos fortalecidos."
+          },
+          {
+            "problem": "Dependencia económica de actividades turísticas estacionales y limitada permanencia de visitantes.",
+            "objective": "Consolidar a Cieneguilla como destino turístico, gastronómico y cultural sostenible durante todo el año.",
+            "goal": "Incrementar en 50% el flujo turístico y duplicar la permanencia promedio de visitantes.",
+            "indicator": "Número anual de visitantes y permanencia promedio."
+          },
+          {
+            "problem": "Alta informalidad laboral y limitada generación de empleo local, especialmente para jóvenes y mujeres.",
+            "objective": "Promover la formalización económica y mejorar las oportunidades de empleo y autoempleo en el distrito.",
+            "goal": "Reducir la informalidad laboral en 15 puntos porcentuales.",
+            "indicator": "Porcentaje de trabajadores formalizados."
+          },
+          {
+            "problem": "Pérdida progresiva de suelo agrícola y limitada productividad de la actividad agropecuaria.",
+            "objective": "Impulsar el desarrollo agropecuario sostenible y la protección del valle productivo.",
+            "goal": "Proteger y mejorar 500 hectáreas de producción agrícola.",
+            "indicator": "Hectáreas agrícolas protegidas o tecnificadas."
+          },
+          {
+            "problem": "Deficiente infraestructura vial y logística que limita el desarrollo económico y turístico.",
+            "objective": "Mejorar la conectividad y competitividad territorial del distrito.",
+            "goal": "Mejorar 30 km de vías estratégicas y accesos turísticos.",
+            "indicator": "Kilómetros de vías mejoradas y accesos acondicionados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos y presencia de botaderos informales en zonas urbanas y rurales.",
+            "objective": "Mejorar la gestión integral de residuos sólidos y promover la economía circular.",
+            "goal": "Valorizar al menos el 25% de los residuos sólidos generados en el distrito.",
+            "indicator": "Porcentaje de residuos sólidos aprovechados o valorizados."
+          },
+          {
+            "problem": "Degradación de ecosistemas, pérdida de áreas agrícolas y expansión urbana desordenada sobre zonas de valor ambiental.",
+            "objective": "Proteger y conservar los ecosistemas estratégicos y el suelo agrícola del distrito.",
+            "goal": "Proteger al menos 1,000 hectáreas de ecosistemas y áreas agrícolas estratégicas.",
+            "indicator": "Hectáreas de ecosistemas y áreas agrícolas protegidas."
+          },
+          {
+            "problem": "Alta vulnerabilidad frente a huaicos, inundaciones y ocupación de zonas de riesgo no mitigable.",
+            "objective": "Reducir la vulnerabilidad de la población frente a desastres naturales y efectos del cambio climático.",
+            "goal": "Intervenir el 100% de quebradas y zonas críticas priorizadas.",
+            "indicator": "Número de obras y acciones de mitigación implementadas."
+          },
+          {
+            "problem": "Deterioro de la calidad ambiental de la cuenca del río Lurín por vertimientos, residuos e invasión de la faja marginal.",
+            "objective": "Recuperar y proteger los recursos hídricos y las riberas del río Lurín.",
+            "goal": "Recuperar y proteger 10 km de riberas del río Lurín.",
+            "indicator": "Kilómetros de faja marginal recuperados y protegidos."
+          },
+          {
+            "problem": "Déficit de áreas verdes urbanas y limitada adaptación al cambio climático.",
+            "objective": "Incrementar la infraestructura verde y fortalecer la resiliencia climática del distrito.",
+            "goal": "Incrementar de 3.3 m² a 6 m² de áreas verdes por habitante.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos lentos, limitada digitalización y baja accesibilidad a los servicios municipales, especialmente en zonas alejadas del distrito.",
+            "objective": "Modernizar la gestión municipal para brindar servicios más eficientes, transparentes y accesibles.",
+            "goal": "Digitalizar el 100% de los trámites prioritarios de atención al ciudadano.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          },
+          {
+            "problem": "Débil capacidad institucional para la formulación, gestión y ejecución de proyectos de inversión pública.",
+            "objective": "Fortalecer la capacidad técnica municipal para acelerar el cierre de brechas de infraestructura y servicios.",
+            "goal": "Alcanzar una ejecución anual superior al 90% de las inversiones programadas.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversiones."
+          },
+          {
+            "problem": "Alta dependencia de transferencias del Gobierno Nacional y limitada recaudación de ingresos propios.",
+            "objective": "Mejorar la sostenibilidad financiera y la capacidad de generación de recursos municipales.",
+            "goal": "Incrementar la recaudación municipal en 40% respecto a la línea base.",
+            "indicator": "Incremento de la recaudación por impuesto predial y arbitrios."
+          },
+          {
+            "problem": "Limitada participación ciudadana y débil articulación entre la municipalidad, organizaciones sociales y sector privado.",
+            "objective": "Fortalecer la gobernanza participativa y la concertación para el desarrollo local.",
+            "goal": "Incrementar en 50% la participación ciudadana en mecanismos de gobernanza local.",
+            "indicator": "Número de organizaciones participantes en espacios de concertación."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-jAnoRoHf2bBixuBX5x7Cr4X6sHmsVfR3",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/jAnoRoHf2bBixuBX5x7Cr4X6sHmsVfR3",
+      "sha256": "158524d62e7626583614de7ba859644344589636c392347fcb047b2e3a10f76a",
+      "accessedAt": "2026-10-02T22:54:40.615Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017030",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017030",
+      "sha256": "aed4e7927bc88d6f0404f0e100af6bf52133acf536cf54d3d93abf28effec60a",
+      "accessedAt": "2026-10-02T22:54:41.127Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

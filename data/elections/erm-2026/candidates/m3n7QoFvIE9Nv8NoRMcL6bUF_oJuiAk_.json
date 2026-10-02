@@ -1,0 +1,271 @@
+{
+  "id": "m3n7QoFvIE9Nv8NoRMcL6bUF_oJuiAk_",
+  "slug": "johnny-walter-auris-olivares",
+  "electionId": "erm-2026",
+  "name": "Johnny Walter Auris Olivares",
+  "givenNames": "Johnny Walter",
+  "surnames": "Auris Olivares",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2941,
+    "name": "PARTIDO CIVICO OBRAS"
+  },
+  "jurisdictionId": "140116",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:14.680Z",
+      "sourceId": "jne-hv-m3n7QoFvIE9Nv8NoRMcL6bUF_oJuiAk_"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "LICENCIADO EN EDUCACION SECUNDARIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "EN ADMINISTRACION DE LA EDUCACION",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2012"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "I.E. N°7102 SAN FRANCISCO DE ASIS",
+      "role": "DOCENTE (AUXILIAR DE EDUCACION)",
+      "from": "1998",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2024"
+    },
+    {
+      "party": "PODEMOS PERU",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 36000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bc2038c1-453a-4a0b-91cf-ae2c3c6aa88f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/68587603-bb7d-4899-82c8-0b4697fb7afd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos niveles de inseguridad ciudadana que afectan el bienestar de la población del distrito.",
+            "objective": "Fortalecer la seguridad ciudadana del distrito para disminuir los niveles de inseguridad y proteger el bienestar de la población.",
+            "goal": "Lograr un incremento sustancial en la percepción de seguridad y tranquilidad de los habitantes",
+            "indicator": "Índice de percepción de seguridad ciudadana de la población."
+          },
+          {
+            "problem": "Débil capacidad institucional municipal para la atención y protección de la población en situación de vulnerabilidad.",
+            "objective": "Fortalecer la capacidad institucional municipal orientada a la población vulnerable.",
+            "goal": "Alcanzar la aprobación y satisfacción total de la población respecto a los servicios de los centros de atención.",
+            "indicator": "Aceptación de Centros de Atención."
+          },
+          {
+            "problem": "Insuficiente protección de los derechos fundamentales de la infancia y la adolescencia en el distrito.",
+            "objective": "Fortalecer la protección de los derechos de la infancia y adolescencia mediante la ejecución del Plan Distrital de Acción por la Infancia y la Adolescencia.",
+            "goal": "Asegurar el desarrollo pleno y la protección integral de los derechos de la mayoría de niños y adolescentes",
+            "indicator": "Desarrollo de sus derechos."
+          },
+          {
+            "problem": "Baja participación de la población en actividades deportivas, culturales y recreativas a nivel distrital.",
+            "objective": "Promover la participación de las personas en actividades deportivas, culturales y recreativas a nivel distrital.",
+            "goal": "Conseguir que la mayor parte de la población del distrito se involucre de forma directa en las actividades.",
+            "indicator": "Participan directamente todos."
+          },
+          {
+            "problem": "Escasa participación ciudadana en los distintos espacios político-públicos del ámbito local.",
+            "objective": "Fomentar una mayor participación ciudadana en los distintos espacios político-públicos del ámbito local.",
+            "goal": "Lograr una participación mayoritaria y activa de la ciudadanía en los espacios políticos y públicos locales.",
+            "indicator": "Incremento de Participación Ciudadana."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil posicionamiento de la identidad territorial del distrito y sus atractivos turísticos y culturales.",
+            "objective": "Promover la identidad del distrito reconocida a nivel nacional e internacional promoviendo sus atractivos turísticos y culturales.",
+            "goal": "Lograr el reconocimiento pleno de la identidad y los atractivos turísticos del distrito a nivel nacional e internacional.",
+            "indicator": "Mayor cobertura y diferentes vías de comunicación para incremento del turismo."
+          },
+          {
+            "problem": "Inadecuada valorización y aprovechamiento de los recursos y potenciales turísticos del distrito para su desarrollo.",
+            "objective": "Promover la valorización y aprovechamiento sostenible de los recursos y potenciales turísticos del distrito para impulsar su desarrollo turístico.",
+            "goal": "Incrementar de manera sustancial la afluencia de visitantes anuales hacia los principales atractivos del distrito.",
+            "indicator": "Aumento del número de visitantes a lugares turísticos del distrito."
+          },
+          {
+            "problem": "Baja participación ciudadana en la consolidación de la identidad cultural y marca de la ciudad de Pachacámac.",
+            "objective": "Implementar una estrategia de comunicación para fomentar la participación ciudadana en la consolidación de la Identidad Pachacámac.",
+            "goal": "Lograr una colaboración activa y representativa de los vecinos en la consolidación de la marca ciudad",
+            "indicator": "Colaboración ciudadana en la consolidación de la marca ciudad."
+          },
+          {
+            "problem": "Carencia de una estrategia integral para el impulso del desarrollo socioeconómico del distrito.",
+            "objective": "Ejecutar una estrategia integral para impulsar el desarrollo socioeconómico del distrito.",
+            "goal": "Culminar de manera íntegra y efectiva la ejecución del plan estratégico para el desarrollo socioeconómico.",
+            "indicator": "Ejecutar una estrategia integral para impulsar el desarrollo socioeconómico del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Baja confianza y satisfacción ciudadana en la gestión municipal respecto al ordenamiento territorial.",
+            "objective": "Fortalecer la confianza, aceptación y satisfacción de la ciudadanía mediante una gestión municipal eficiente, transparente y orientada a resultados.",
+            "goal": "Lograr un ordenamiento territorial armónico y eficiente que eleve la confianza ciudadana.",
+            "indicator": "Nivel de ordenamiento territorial integral implementado"
+          },
+          {
+            "problem": "Inadecuada gestión de residuos sólidos y debilidad en la calidad ambiental que afectan el desarrollo territorial.",
+            "objective": "Promover la gestión sostenible de los recursos naturales y el fortalecimiento de la calidad ambiental para asegurar un desarrollo territorial equilibrado y sostenible.",
+            "goal": "Reducir de manera sustancial la contaminación promoviendo un desarrollo ecológico equilibrado.",
+            "indicator": "Disminución sostenida del índice de contaminación local."
+          },
+          {
+            "problem": "Insuficiente liderazgo en la gestión y ejecución de proyectos de inversión pública en el ámbito de Lima Metropolitana.",
+            "objective": "Liderar la gestión y ejecución de proyectos de inversión pública en el ámbito de Lima Metropolitana.",
+            "goal": "Alcanzar un alto reconocimiento y prestigio en el liderazgo de los proyectos de inversión.",
+            "indicator": "Nivel de valoración ciudadana de la gestión y los servicios municipales."
+          },
+          {
+            "problem": "Inadecuada gestión en el desarrollo de proyectos de infraestructura y en la conservación de los bienes públicos del distrito.",
+            "objective": "Garantizar el desarrollo de proyectos de infraestructura y la conservación de los bienes públicos del distrito.",
+            "goal": "Garantizar la óptima conservación de los bienes públicos con un respaldo mayoritario de la población.",
+            "indicator": "Grado de aprobación de la población respecto a la ejecución de proyectos de infraestructura."
+          },
+          {
+            "problem": "Infraestructura pública distrital con deficiencias en su implementación y mantenimiento.",
+            "objective": "Fortalecer la implementación de obras públicas y las acciones de mantenimiento para preservar y mejorar la infraestructura del distrito.",
+            "goal": "Conseguir la plena satisfacción y aprobación vecinal sobre el mantenimiento de la infraestructura.",
+            "indicator": "Grado de conformidad de la población con la infraestructura pública ejecutada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja eficiencia en la gestión de ingresos municipales debido a mecanismos de cobranza y recaudación débiles.",
+            "objective": "Fortalecer los mecanismos de cobranza y recaudación municipal para incrementar la eficiencia en la gestión de ingresos.",
+            "goal": "Lograr un aumento continuo y sostenible en la efectividad de los procesos de recaudación e ingresos fiscales locales.",
+            "indicator": "Incremento de los ingresos a la municipalidad."
+          },
+          {
+            "problem": "Portal web institucional desactualizado que no promueve la transparencia ni el acceso oportuno a la información pública.",
+            "objective": "Mantener actualizado el portal web institucional mediante la incorporación de nuevas funcionalidades y diseños accesibles, promoviendo la transparencia y el acceso oportuno a la información pública.",
+            "goal": "Garantizar la plena conformidad y confianza de los ciudadanos en la transparencia y acceso a la información del portal.",
+            "indicator": "Satisfacción del vecino."
+          },
+          {
+            "problem": "Infraestructura tecnológica municipal desactualizada que limita una atención integrada y moderna al ciudadano.",
+            "objective": "Modernizar y fortalecer la infraestructura tecnológica de la Municipalidad Distrital de Pachacámac mediante la implementación de una Plataforma Digital Integrada de Atención al Ciudadano.",
+            "goal": "Alcanzar un alto nivel de aprobación y conformidad de los ciudadanos con la nueva plataforma digital de atención.",
+            "indicator": "Satisfacción del vecino."
+          },
+          {
+            "problem": "Procesos de aprendizaje, recursos humanos, herramientas tecnológicas e infraestructura municipal no optimizados en beneficio de la población.",
+            "objective": "Optimizar los procesos de aprendizaje, los recursos humanos, las herramientas tecnológicas y la infraestructura en beneficio de la población.",
+            "goal": "Lograr una satisfacción mayoritaria y positiva por parte de los vecinos respecto a los servicios institucionales municipales.",
+            "indicator": "Satisfacción de los vecinos."
+          },
+          {
+            "problem": "Elevados gastos administrativos y costos operativos en la municipalidad que merman la eficiencia en el uso de los recursos institucionales.",
+            "objective": "Optimizar los gastos administrativos y los costos operativos de la Municipalidad Distrital de Pachacámac mediante la implementación de políticas de compras corporativas y el fortalecimiento de los procesos logísticos.",
+            "goal": "Conseguir una disminución sustancial y progresiva de los costos operativos y administrativos generales de la institución.",
+            "indicator": "Reducción de los gastos."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-19360",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Declaración Jurada De Ingresos De Bienes Y Rentas",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-28",
+      "details": {
+        "rubro": "DECLARACIÓN JURADA DE INGRESOS DE BIENES Y RENTAS",
+        "resolucion": "RES.01111-2026-JEE-LIS1/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RES.01111-2026-JEE-LIS1/JNE",
+      "sourceIds": [
+        "jne-hv-m3n7QoFvIE9Nv8NoRMcL6bUF_oJuiAk_"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-m3n7QoFvIE9Nv8NoRMcL6bUF_oJuiAk_",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/m3n7QoFvIE9Nv8NoRMcL6bUF_oJuiAk_",
+      "sha256": "15a22a33da4b8a12556d0feaa1ed98dc90cd75319aa584c96cef1f8d0e64b828",
+      "accessedAt": "2026-10-02T23:00:14.680Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019624",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019624",
+      "sha256": "21ac7b37973184cc1cea8fb506fe7012199091ecf86a24f473a4dfdfe529cfe5",
+      "accessedAt": "2026-10-02T23:00:15.626Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

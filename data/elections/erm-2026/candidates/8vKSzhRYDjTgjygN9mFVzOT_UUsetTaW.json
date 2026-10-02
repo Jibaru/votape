@@ -1,0 +1,254 @@
+{
+  "id": "8vKSzhRYDjTgjygN9mFVzOT_UUsetTaW",
+  "slug": "jessica-loren-alcantara-silva",
+  "electionId": "erm-2026",
+  "name": "Jessica Loren Alcantara Silva",
+  "givenNames": "Jessica Loren",
+  "surnames": "Alcantara Silva",
+  "age": 31,
+  "gender": "Femenino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140136",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:53.104Z",
+      "sourceId": "jne-hv-8vKSzhRYDjTgjygN9mFVzOT_UUsetTaW"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "BRITANICO",
+        "program": "INGLES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "CARRERA DE DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "ASISTENTE DE DESPACHO CONGRESAL",
+      "from": "2020",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 1300,
+        "public": 0,
+        "private": 1300
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "NEGRO VERDE AZUL-HONDA-NAVI",
+        "value": 2000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACION J&JM PERIU SAC",
+        "type": "ACCIONES",
+        "quantity": 9000,
+        "value": 9000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/784e9773-3fc3-4414-bffe-bd9c73868982.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5bb5ad01-edab-40e8-b34b-a19c85ec0ff2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "La tasa de deserción en secundaria es del 4.9%, uno de cada cinco jóvenes no concluye la educación básica, cerca de 7,400 adultos son analfabetos y los jóvenes NINI carecen de acceso a formación técnica gratuita.",
+            "objective": "Reducir la deserción escolar y ampliar las oportunidades educativas para jóvenes y adultos mayores, articulando con el MINEDU y la sociedad civil.",
+            "goal": "Reducir la tasa de deserción escolar en secundaria de 4.9% a menos de 3% y ampliar el acceso a oportunidades educativas para jóvenes y adultos del distrito para 2030.",
+            "indicator": "Tasa de deserción escolar en secundaria (%)."
+          },
+          {
+            "problem": "El 18.3% de niños de 6 a 35 meses padece anemia y el 28.6% de las gestantes también, con una atención insuficiente del programa Cuna Más y carencia de cobertura del primer nivel de salud en zonas de ladera.",
+            "objective": "Reducir la anemia en niños menores de 5 años a través de una estrategia territorial articulada con el sector salud, los programas sociales del Estado y las organizaciones comunitarias del distrito.",
+            "goal": "Reducir la anemia infantil de 18.3% a menos de 13%; tener nuevos módulos Cuna Más operativos; el programa “Ollas de Hierro” activo en las 7 zonas; y un módulo móvil cubriendo las zonas de ladera prioritarias para 2030.",
+            "indicator": "Prevalencia de anemia en niños de 6 a 35 meses (%)."
+          },
+          {
+            "problem": "La violencia psicológica alcanzó 4.50 denuncias por mil habitantes en 2022, el distrito registró 3 feminicidios en 2021 y solo 12 psicólogos atienden en establecimientos públicos, con una atención municipal insuficiente para personas con discapacidad y adultos mayores.",
+            "objective": "Reducir la violencia de género e intrafamiliar y fortalecer la atención de personas con discapacidad y adultos mayores, articulando con el gobierno nacional, el sector salud y la sociedad civil organizada.",
+            "goal": "Reducir en 20% las denuncias por violencia familiar y contar con al menos un espacio de atención a poblaciones vulnerables operativo en cada zona del distrito para 2030.",
+            "indicator": "Tasa de denuncias por violencia familiar por cada mil habitantes (%)."
+          },
+          {
+            "problem": "La inseguridad ciudadana es la principal preocupación de los vecinos, con un crecimiento sostenido de la extorsión a comerciantes, el avance del crimen organizado en zonas de ladera y la exclusión juvenil que alimenta el reclutamiento por bandas delictivas.",
+            "objective": "Reducir la incidencia delictiva en las zonas críticas combinando presencia efectiva del serenazgo, el comité distrital de seguridad ciudadana fortalecido y prevención social con la juventud en riesgo.",
+            "goal": "Reducir en 25% la tasa de denuncias por los delitos de mayor incidencia en el distrito respecto a la línea base del primer año de gestión para 2030.",
+            "indicator": "Tasa de denuncias por extorsión por cada mil habitantes (%)."
+          },
+          {
+            "problem": "El 12.6% de viviendas del distrito usa materiales precarios y el 14.6% de hogares vive en hacinamiento, concentrando los 47 asentamientos humanos sin habilitación formal el mayor déficit de titulación, servicios básicos y vivienda segura.",
+            "objective": "Mejorar las condiciones habitacionales de las familias en situación de precariedad, promoviendo la formalización predial, el acceso a servicios básicos y la construcción segura en los asentamientos humanos del distrito.",
+            "goal": "Incrementar en 30% el número de familias con acceso a titulación predial y mejoramiento de vivienda en los asentamientos humanos priorizados del distrito para 2030.",
+            "indicator": "Número de predios titulados en asentamientos humanos priorizado."
+          },
+          {
+            "problem": "El distrito carece de oferta cultural y deportiva descentralizada, con espacios públicos deteriorados y sin uso positivo en los sectores de ladera, lo que limita la cohesión comunitaria y la participación juvenil organizada.",
+            "objective": "Democratizar el acceso a la cultura, el arte y el deporte en las 7 zonas, recuperando espacios públicos y fortaleciendo la identidad distrital con énfasis en niños, jóvenes y organizaciones de base.",
+            "goal": "Incrementar en 40% la participación de niños, jóvenes y organizaciones en actividades culturales y deportivas del distrito para 2030.",
+            "indicator": "Número de niños y jóvenes participando en actividades culturales y deportivas organizadas por la municipalidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta vulnerabilidad laboral en las mujeres del distrito, evidenciada por una diferencia de casi 15 puntos porcentuales en la participación de la PEA y una alta precariedad en el sector informal.",
+            "objective": "Garantizar la participación plena de la mujer en el desarrollo económico local, potenciando su autonomía financiera y el acceso a empleos dignos y formales.",
+            "goal": "Beneficiar a 5,000 mujeres emprendedoras con capital semilla y asistencia técnica, para elevar la participación femenina en la PEA.",
+            "indicator": "Número de emprendimientos de mujeres que acceden a la estrategia Emprende Mujer."
+          },
+          {
+            "problem": "Alta informalidad laboral en el distrito, que se ubica en el puesto 8 en el ranking de Lima Metropolitana, con 168.6 mil trabajadores informales que no acceden a derechos laborales.",
+            "objective": "Reducir la informalidad laboral, mediante la formalización y capacitación de trabajadores independientes, las micro y pequeñas empresas que desenvuelven actividades en el distrito.",
+            "goal": "Reducir la informalidad laboral del distrito y formalizar activamente a más de 100 negocios.",
+            "indicator": "Número de trabajadores del distrito en condición de informalidad laboral que son formalizados."
+          },
+          {
+            "problem": "Bajo nivel de instrucción técnica y especialización en la fuerza laboral de San Juan de Miraflores, concentrándose la informalidad en adultos y jóvenes que solo cuentan con educación secundaria completa, restringiendo su inserción formal.",
+            "objective": "Elevar la competitividad del capital humano del distrito mediante el desarrollo de la ciencia tecnológica, la capacitación técnica y la reconversión laboral hacia sectores de mayor valor agregado.",
+            "goal": "Lograr que 8,000 jóvenes y adultos completen programas de reconversión laboral técnica e insertarlos en puestos laborales.",
+            "indicator": "Número de PEA joven y adulta de SJM con acceso a educación técnica u ocupacional."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito genera 299.5 toneladas de residuos diarios con solo 67.4% de disposición final adecuada, más de 85 puntos críticos de acumulación irregular y una flota de recolección con 8.4 años de antigüedad promedio.",
+            "objective": "Mejorar la gestión integral de residuos sólidos reduciendo los puntos críticos, incrementando la valorización de materiales reciclables y formalizando a los recicladores del distrito como actores de la economía circular.",
+            "goal": "Incrementar la valorización de residuos del 67.4% al 85% y eliminar el 70% de los puntos críticos de acumulación irregular en el distrito para el 2030.",
+            "indicator": "Porcentaje de residuos sólidos con disposición final adecuada y número de puntos críticos de acumulación irregular eliminados."
+          },
+          {
+            "problem": "Con solo 1.4 m² de área verde por habitante, el distrito se ubica muy por debajo del estándar recomendado, y los 43 parques existentes presentan mantenimiento deficiente.",
+            "objective": "Incrementar la cobertura de áreas verdes del distrito mediante arborización participativa en ladera, creación de parques de bolsillo en espacios recuperados y fortalecimiento del mantenimiento vecinal de los parques existentes.",
+            "goal": "Incrementar el índice de áreas verdes de 1.4 m²/hab. a 2.5 m²/hab. y alcanzar el 90% de parques con mantenimiento regular para el 2030.",
+            "indicator": "Índice de áreas verdes por habitante (m²/hab.) y porcentaje de parques con mantenimiento regular."
+          },
+          {
+            "problem": "La Loma Costera de Pamplona, reconocida como ecosistema frágil, enfrenta presión creciente por tráfico de terrenos, arrojo de desmonte y ocupaciones ilegales, y carece de un plan de gestión local.",
+            "objective": "Proteger y poner en valor la Loma Costera de Pamplona como ecosistema frágil, articulando su conservación con el desarrollo de un circuito ecoturístico comunitario que genere ingresos para los vecinos del entorno.",
+            "goal": "Loma Costera de Pamplona con plan de gestión local aprobado, circuito ecoturístico operativo con guías comunitarios certificados y cero nuevas ocupaciones ilegales registradas en el periodo para el 2030.",
+            "indicator": "Plan de gestión local de la Loma de Pamplona aprobado mediante ordenanza municipal."
+          },
+          {
+            "problem": "Más de un tercio del territorio distrital presenta peligro sísmico alto o muy alto y 9,400 viviendas se ubican en zonas de riesgo no mitigable, escenario agravado por el cambio climático.",
+            "objective": "Reducir la vulnerabilidad de la población ante desastres naturales y los efectos del cambio climático mediante infraestructura preventiva, vigilancia comunitaria y medidas de adaptación en los asentamientos humanos de mayor riesgo.",
+            "goal": "Reducir en 30% el número de familias en situación de riesgo no mitigable para el 2030.",
+            "indicator": "Número de familias en zonas de riesgo no mitigable intervenidas con infraestructura preventiva y número de asentamientos humanos con brigadas vecinales de gestión de riesgo activas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Estado crítico de insolvencia y condicionamiento legal, con un ratio de deuda del 151.0%, pasivos superiores a S/ 94 millones y una clasificación de incumplimiento fiscal 'Muy Grave' que restringe la autonomía local.",
+            "objective": "Desarrollar acuerdos de ajuste y responsabilidades fiscales para restablecer el equilibrio fiscal del municipio y recuperar la autonomía financiera.",
+            "goal": "Reducir el saldo de la Deuda Fiscal en un 90% del valor actual.",
+            "indicator": "Porcentaje de reducción de deuda."
+          },
+          {
+            "problem": "Vulnerabilidad financiera y subordinación a transferencias externas (48.41%), causada por una brecha de morosidad superior al 55% en zonas periféricas debido a la percepción de una deficiente contraprestación de servicios.",
+            "objective": "Incrementar la recaudación de ingresos propios (RDR e Impuestos) y reducir la morosidad en las zonas periféricas.",
+            "goal": "Aumentar el monto de recaudación de impuesto en más del 40%.",
+            "indicator": "Monto de recaudación."
+          },
+          {
+            "problem": "Riesgos de corrupción y faltas administrativas recurrentes en contrataciones de servicios críticos como residuos sólidos, mantenimiento vial y programas de apoyo alimentario, lo que genera desconfianza y limita el control social.",
+            "objective": "Reducir los riesgos de corrupción y faltas administrativas en los procesos de contratación, asegurando la transparencia absoluta y el control concurrente en la adquisición de bienes y servicios municipales.",
+            "goal": "Porcentaje de contrataciones que cuenten con control concurrente desde la etapa de convocatoria.",
+            "indicator": "Porcentaje de procesos de licitación pública ejecutado bajo la modalidad de control recurrente de la Contraloría."
+          },
+          {
+            "problem": "Limitado control social y debilitamiento de la gobernanza local debido a una rendición de cuentas que carece de formatos accesibles, lenguaje sencillo y espacios presenciales, generando desconfianza y desalentando la participación ciudadana.",
+            "objective": "Garantizar el acceso público, oportuno y comprensible a la información financiera y de gestión de la municipalidad, promoviendo el control social activo a través de mecanismos descentralizados y participativos de rendición de cuentas.",
+            "goal": "Lograr el desarrollo de cabildos abiertos en los siete sectores del distrito.",
+            "indicator": "Número de cabildos abiertos realizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-anotacion-19233",
+      "category": "marginal_note",
+      "summary": "Anotación marginal del JNE sobre: Formación Académica",
+      "evidence": "registro_oficial",
+      "legalStatus": "n/a",
+      "date": "2026-09-28",
+      "details": {
+        "rubro": "FORMACIÓN ACADÉMICA",
+        "resolucion": "RES.01049-2026-JEE-LIS1/JNE",
+        "nota": "Texto de la corrección omitido: puede repetir datos personales. Ver la fuente del JNE."
+      },
+      "quote": "RES.01049-2026-JEE-LIS1/JNE",
+      "sourceIds": [
+        "jne-hv-8vKSzhRYDjTgjygN9mFVzOT_UUsetTaW"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-8vKSzhRYDjTgjygN9mFVzOT_UUsetTaW",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/8vKSzhRYDjTgjygN9mFVzOT_UUsetTaW",
+      "sha256": "c7e885b000131ee39e8f5aea6a00688e49c5ce32eabe8b4795349c4355cf602d",
+      "accessedAt": "2026-10-02T23:03:53.104Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022930",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022930",
+      "sha256": "b63610507570cc7326b262192b2152152233fe847edc0f60304237f26613a274",
+      "accessedAt": "2026-10-02T23:03:53.589Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": "XVNEUj8CkX0-6Wa6FGPXSsK0G7Ha5cF9",
+  "slug": "maidy-marti-lopez-casimiro",
+  "electionId": "erm-2026",
+  "name": "Maidy Marti Lopez Casimiro",
+  "givenNames": "Maidy Marti",
+  "surnames": "Lopez Casimiro",
+  "age": 53,
+  "gender": "Femenino",
+  "party": {
+    "id": 2857,
+    "name": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:51.464Z",
+      "sourceId": "jne-hv-XVNEUj8CkX0-6Wa6FGPXSsK0G7Ha5cF9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INSTITUTO SUPERIOR TECNOLOGICO CIMAS",
+        "program": "SECRETARIADO EJECUTIVO COMPUTARIZADO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILASO DE LA VEGA",
+        "program": "TITULO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CESAR VALLEJO",
+        "program": "MAGISTER EN GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "3M CONSTRUCTORA S.A.C.",
+      "role": "ACCIONISTA",
+      "from": "2013",
+      "to": "2026"
+    },
+    {
+      "employer": "CORPORACION HABINSA EIRL",
+      "role": "GERENTE DE COMERCIALIZACION",
+      "from": "2022",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SANTO DOMINGO DE LOS OLLEROS",
+      "role": "GERENTE DE PLANEAMIENTO Y PRESUPUESTO",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DDE SANTO DOMINGO DE LOS OLLEROS",
+      "role": "ENCARGADA COMO SUB GERENTE DE CONTABILIDAD",
+      "from": "2021",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SANTO DOMINGO DE LOS OLLEROS",
+      "role": "GERENTE DE ADMINISTRACION Y FINANZAS",
+      "from": "2020",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 55000,
+        "public": 0,
+        "private": 55000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 78000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 58500,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "3M CONSTRUCTORA S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 90000,
+        "value": 90000
+      }
+    ]
+  },
+  "additionalInfo": [
+    "COMPRA DE LOCAL COMERCIAL EN TRAMITE NO REGISTRADO EN SUNARP"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4fcd33f9-96b2-4af3-8c9a-07eb47826d7d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c0fbc5b4-e008-401a-b2f9-ddf4734fe5cb.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Problemática del agua y desagüe.",
+            "objective": "Abastecer de agua potable en un plazo de cuatro años a los pueblos de Ate, mejorando la calidad de vida de los ciudadanos y cubriendo en un 80% de la población en su totalidad.",
+            "goal": "Octubre 2030",
+            "indicator": "Gestión de proyectos de inversión."
+          },
+          {
+            "problem": "Delincuencia y prostitución en el distrito.",
+            "objective": "Erradicar en un plazo de tres años la delincuencia y prostitución, mejorando el patrullaje integrado y profesionalizando al equipo de Serenazgo y Policía Nacional.",
+            "goal": "Diciembre 2029",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática del tráfico de terrenos.",
+            "objective": "Gestionar y entregar títulos de propiedad en un plan de gestión de títulos en un plazo de cuatro años a los ciudadanos del pueblo de Ate, cubriendo un 90% de la población del distrito.",
+            "goal": "Octubre 2030",
+            "indicator": "Gestión de convenio con COFOPRI para el saneamiento físico legal de propiedades."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Problemática de bandas de corrupción municipal.",
+            "objective": "Aplicar en el plazo de un año el código de ética y conducta de proveedores y funcionarios de la municipalidad de Ate, bajo investigación de inteligencia interna, con la ayuda de la Contraloría de la República del Perú.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática del comercio informal.",
+            "objective": "Formalizar en un plazo de dos años a todos los vendedores ambulantes y empresas privadas entregando licencias de funcionamiento y certificados ITSE para la mejora de los recursos económicos del distrito de Ate.",
+            "goal": "Diciembre 2028",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de falta de ferias de impulso empresarial \"de la chacra a la olla\".",
+            "objective": "Gestionar en el plazo de un año la implementación de proyectos sectoriales localizados en el distrito, haciendo partícipes a los empresarios agricultores del distrito de Ate y otros distritos para la venta y consumo de productos agropecuarios y naturales; beneficiando así a un 90% de la población de las siete zonas del distrito.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Problemática de la basura.",
+            "objective": "Gestionar en dos años proyectos de inversión local para el tratamiento e industrialización de la basura, beneficiando al 95% de la población en general del distrito de Ate.",
+            "goal": "Diciembre 2028",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de la contaminación ambiental.",
+            "objective": "Gestionar en cuatro años proyectos de inversión para el tratamiento y purificación del ambiente del distrito de Ate, redireccionando la basura y confinamiento en espacios adecuados conforme a normas ambientales, beneficiando al 95% de la población en general del distrito de Ate.",
+            "goal": "Diciembre 2030",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de la contaminación ambiental en parques y áreas verdes en el distrito de Ate.",
+            "objective": "Gestionar en cuatro años proyectos de inversión para el tratamiento y purificación del ambiente del distrito de Ate, redireccionando la basura en contenedores adecuados, amigables y de clasificación de los desechos sólidos, además de campañas de educación y reciclaje de acuerdo a normas ambientales, beneficiando al 95% de la población en general del distrito de Ate.",
+            "goal": "Diciembre 2030",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Problemática de la actualización de los instrumentos de gestión municipal.",
+            "objective": "Implementar en el plazo de un año el sistema integrado de gestión ISO 9001, en beneficio de los colaboradores de la municipalidad de Ate y de los ciudadanos, con la ayuda y dirección de terceros expertos en el tema de gestión municipal.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática de la modernización de sistemas integrados de gestión municipal digital.",
+            "objective": "Implementar en el plazo de un año el sistema integrado de gestión ISO 9001, en beneficio de los colaboradores de la municipalidad de Ate y de los ciudadanos, con la ayuda y dirección de terceros expertos en el tema de gestión municipal.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          },
+          {
+            "problem": "Problemática del servicio administrativo de atención al ciudadano.",
+            "objective": "Implementar en el plazo de un año el sistema integrado de gestión ISO 9001, en beneficio de los colaboradores de la municipalidad de Ate y de los ciudadanos, con la ayuda y dirección de terceros expertos en el tema de gestión municipal.",
+            "goal": "Diciembre 2027",
+            "indicator": "Aplicación de procedimientos bajo ordenanza municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-XVNEUj8CkX0-6Wa6FGPXSsK0G7Ha5cF9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/XVNEUj8CkX0-6Wa6FGPXSsK0G7Ha5cF9",
+      "sha256": "66cb3e5635c5ba76472aec02e537c4dd188659044c7e1b6f80d2057c3965818b",
+      "accessedAt": "2026-10-02T22:50:51.464Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022152",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022152",
+      "sha256": "84517696d555fedd71084791008b5510d9cd29fdc642eb43b7d34e699a478bb3",
+      "accessedAt": "2026-10-02T22:50:51.971Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

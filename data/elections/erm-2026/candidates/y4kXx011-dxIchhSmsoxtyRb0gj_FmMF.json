@@ -1,0 +1,269 @@
+{
+  "id": "y4kXx011-dxIchhSmsoxtyRb0gj_FmMF",
+  "slug": "joel-edmundo-miranda-villanueva",
+  "electionId": "erm-2026",
+  "name": "Joel Edmundo Miranda Villanueva",
+  "givenNames": "Joel Edmundo",
+  "surnames": "Miranda Villanueva",
+  "age": 73,
+  "gender": "Masculino",
+  "party": {
+    "id": 2979,
+    "name": "PARTIDO POLITICO ADP"
+  },
+  "jurisdictionId": "140140",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:39.431Z",
+      "sourceId": "jne-hv-y4kXx011-dxIchhSmsoxtyRb0gj_FmMF"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1984"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1983"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "OFICINA PARTICULAR DE ASESORIA LEGAL",
+      "role": "GERENTE",
+      "from": "2016",
+      "to": "2026"
+    },
+    {
+      "employer": "UNIVERSIDAD INCA GARCILASO DE LA VEGA",
+      "role": "DOCENTE EN LOS CURSOS DE DERECHO INDIVIDUAL, COLECTIVO Y PROCESAL LABORAL",
+      "from": "1997",
+      "to": "2017"
+    },
+    {
+      "employer": "GRUPO SIPESA",
+      "role": "GERENTE LEGAL",
+      "from": "1994",
+      "to": "2016"
+    },
+    {
+      "employer": "UNIVERSIDADPARTICULAR SAN MARTIN DE PORRES",
+      "role": "DOCENTE EN LOS CURSOS DE DERECHO INDIVIDUAL, COLECTIVO Y PORCESAL LABORAL",
+      "from": "1988",
+      "to": "1997"
+    },
+    {
+      "employer": "CLINICA SAN FELIPE S.A.",
+      "role": "ASESOR LEGAL Y GERENTE DE RECURSOS HUMANOS",
+      "from": "1988",
+      "to": "1993"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 222701,
+        "public": 0,
+        "private": 222701
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "INMUEBLE",
+        "value": 5000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 100000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 5000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 1335846,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 5000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 10000,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "INMUEBLE",
+        "value": 5000,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Audi – Q5",
+        "value": 200000
+      },
+      {
+        "type": "Honda - CRV",
+        "value": 80000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "EMPRESA CONSTRUCTORA E INMOBILIARIA SERENZZA S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 80,
+        "value": 2000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e3a2ec32-62f4-42ea-a78a-820b78758ab1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2da40228-8cf8-40a4-b317-9a3d1f93c472.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitada participación vecinal en la gestión local.",
+            "objective": "Implementar una plataforma digital de gobierno abierto y fortalecer las juntas vecinales sectoriales.",
+            "goal": "Alcanzar 20,000 usuarios registrados y fortalecer 100% de las juntas vecinales existentes al 2030.",
+            "indicator": "Número de vecinos registrados en la plataforma y número de juntas vecinales fortalecidas."
+          },
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana y delitos urbanos.",
+            "objective": "Implementar el programa de Seguridad Ciudadana Inteligente con videovigilancia, patrullaje integrado y participación vecinal.",
+            "goal": "Reducir en 30% los delitos reportados al 2030.",
+            "indicator": "Porcentaje de reducción de incidencias delictivas registradas."
+          },
+          {
+            "problem": "Necesidad de mejorar espacios públicos para convivencia y bienestar familiar.",
+            "objective": "Recuperar y modernizar parques y espacios públicos seguros e inclusivos.",
+            "goal": "Recuperar o mejorar 30 espacios públicos.",
+            "indicator": "Número de espacios públicos intervenidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer el ecosistema emprendedor local.",
+            "objective": "Promover programas de innovación, capacitación y emprendimiento.",
+            "goal": "Beneficiar a 2,000 emprendedores durante la gestión.",
+            "indicator": "Número de emprendedores beneficiados."
+          },
+          {
+            "problem": "Exceso de trámites y procedimientos municipales.",
+            "objective": "Implementar una plataforma única de trámites digitales y simplificación administrativa.",
+            "goal": "Digitalizar el 90% de los trámites municipales.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Limitada competitividad comercial y económica.",
+            "objective": "Impulsar la dinamización comercial y la inversión local responsable.",
+            "goal": "Ejecutar al menos 20 programas o ferias de promoción económica.",
+            "indicator": "Número de actividades de promoción económica realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental y sonora por congestión vehicular.",
+            "objective": "Implementar movilidad sostenible y semaforización inteligente.",
+            "goal": "Reducir en 20% los tiempos de congestión vehicular.",
+            "indicator": "Reducción de tiempos promedio de congestión."
+          },
+          {
+            "problem": "Necesidad de fortalecer la movilidad limpia.",
+            "objective": "Ampliar y modernizar la red de ciclovías seguras.",
+            "goal": "Incrementar en 20 km la infraestructura ciclista.",
+            "indicator": "Kilómetros de ciclovías implementadas o mejoradas."
+          },
+          {
+            "problem": "Necesidad de fortalecer la sostenibilidad ambiental.",
+            "objective": "Implementar programas de reciclaje, arborización y monitoreo ambiental.",
+            "goal": "Plantar 10,000 árboles e incrementar en 30% el reciclaje distrital.",
+            "indicator": "Número de árboles plantados y porcentaje de reciclaje."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos municipales lentos y burocráticos.",
+            "objective": "Implementar la Municipalidad Digital 24/7.",
+            "goal": "Reducir en 50% los tiempos de atención.",
+            "indicator": "Tiempo promedio de atención de trámites."
+          },
+          {
+            "problem": "Necesidad de fortalecer la transparencia pública.",
+            "objective": "Implementar sistemas de gobierno abierto y rendición de cuentas.",
+            "goal": "100% de información presupuestal publicada en línea.",
+            "indicator": "Número de plataformas de transparencia implementadas."
+          },
+          {
+            "problem": "Falta de integración tecnológica para la gestión urbana.",
+            "objective": "Implementar el programa \"San Borja Inteligente\" y el Centro Distrital de Innovación y Control Inteligente.",
+            "goal": "Implementar un centro de control integral y 5 sistemas inteligentes interoperables.",
+            "indicator": "Número de sistemas inteligentes implementados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-y4kXx011-dxIchhSmsoxtyRb0gj_FmMF",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/y4kXx011-dxIchhSmsoxtyRb0gj_FmMF",
+      "sha256": "eeb215def0c027e309c039f551eab81b2e59275e0e622095a6e0b4ee610936b3",
+      "accessedAt": "2026-10-02T23:02:39.431Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021980",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021980",
+      "sha256": "2cc5c27effe75f9745f21e0b89bfb31340d7775361fd214b9339d244eb3c2dfb",
+      "accessedAt": "2026-10-02T23:02:40.316Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

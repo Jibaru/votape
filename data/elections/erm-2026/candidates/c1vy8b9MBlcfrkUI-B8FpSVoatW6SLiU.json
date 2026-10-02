@@ -1,0 +1,243 @@
+{
+  "id": "c1vy8b9MBlcfrkUI-B8FpSVoatW6SLiU",
+  "slug": "rosa-lidia-corzo-saldarriaga",
+  "electionId": "erm-2026",
+  "name": "Rosa Lidia Corzo Saldarriaga",
+  "givenNames": "Rosa Lidia",
+  "surnames": "Corzo Saldarriaga",
+  "age": 55,
+  "gender": "Femenino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:19.798Z",
+      "sourceId": "jne-hv-c1vy8b9MBlcfrkUI-B8FpSVoatW6SLiU"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INSTITUTO SAN INACIO DE LOYOLA",
+        "program": "COMPUTACION Y SISTEMAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN CIENCIAS FINANCIERAS Y CONTABLES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2007"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "EL COLOSO SOCCER CLUB",
+      "role": "GERENTE GENERAL",
+      "from": "2013",
+      "to": "2015"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2023"
+    },
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 63482,
+        "public": 63482,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "BALNEARIOS - PROPIEDADES",
+        "value": 22000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 53528,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 124000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 17842,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "BALNEARIOS - PROPIEDADES",
+        "value": 22000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "EL ITEM VIII 39,780.00 CORRESPONDE A DIETA DE MI LABOR COMO REGIDORA Y 23,702.00 CORRESPONDE A UTILIDAD NRUS 2025"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/15098688-8dc7-4fea-b91d-afd85cb99f58.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/33df068e-f8d2-4e2b-8892-30cf0f46a78a.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Deterioro de la salud mental, incremento del consumo de drogas y debilitamiento de la convivencia familiar y comunitaria.",
+            "objective": "Promover la salud mental, fortalecer la familia y prevenir las adicciones entre niños, adolescentes y jóvenes.",
+            "goal": "- 100% de campañas programadas por cada trimestre realizadas. - 100% de talleres y actividades preventivas programadas trimestralmente realizadas. - 100% de actividades familiares programadas trimestralmente realizadas.",
+            "indicator": "- Número de campañas programadas realizadas por cada trimestre dirigidas a niños, adolescentes y adultos. - Número de talleres y actividades preventivas realizadas por cada trimestre. - Número de actividades de fortalecimiento de lazos familiares y mejora de la comunicación realizados trimestralmente"
+          },
+          {
+            "problem": "Alta vulnerabilidad social y déficit de atención a poblaciones en situación de riesgo.",
+            "objective": "Fortalecer la atención social e impulsar la inclusión y el desarrollo humano de la población vulnerable.",
+            "goal": "Culminado al 100% para junio 2027. - 100% de cursos programados por cada trimestre culminados. - 100% de actividades de salud programadas por cada trimestre realizadas.",
+            "indicator": "- Sectores con mayores niveles de vulnerabilidad de Comas identificados - Número de programas de capacitación laboral realizados trimestralmente en distintos temas. - Número de actividades de salud preventiva realizados trimestralmente en las distintas zonales del distrito."
+          },
+          {
+            "problem": "Insuficiente accesibilidad e inclusión de las personas con discapacidad.",
+            "objective": "Promover un distrito más inclusivo y fortalecer la articulación para mejorar sus oportunidades de desarrollo personal.",
+            "goal": "- Avance de 100% de obras programadas anualmente. - 100% de actividades familiares programadas trimestralmente realizadas. - 100% del número de intervenciones programadas trimestralmente realizadas.",
+            "indicator": "- Número de rampas y servicios de mejora de la transitabilidad de personas con discapacidad en el distrito implementadas. - Número de capacitaciones dirigidas a personas con discapacidad. - Número de intervenciones y acciones de inclusión ejecutadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Vulnerabilidad frente a lluvias intensas, huaicos e inundaciones.",
+            "objective": "Fortalecer las acciones de prevención y gestión del riesgo de desastres",
+            "goal": "- 100% del territorio en zonas altas evaluado al 2030. - 100% del territorio en las zonas bajas evaluado al 2030.",
+            "indicator": "- Porcentaje de territorio en las zonas altas del distrito evaluadas en base a riesgos ambientales. - Porcentaje de territorio en las zonas bajas del distrito evaluadas en base a riesgos ambientales"
+          },
+          {
+            "problem": "Riesgo de pérdida de ingresos municipales y necesidad de fortalecer la gestión tributaria.",
+            "objective": "Modernizar la administración tributaria y fortalecer la sostenibilidad financiera municipal.",
+            "goal": "- Implementación al 100% de herramientas tecnológicas de atención al contribuyente al 2030. - Actualización al 100% de la información catastral con georeferenciación en el distrito de Comas. - Programas anuales realizados al 100%",
+            "indicator": "-Implementación de herramientas tecnológicas para la atención al contribuyente. - Actualización catastral del distrito de Comas con georeferenciación. - Número de programas anuales para reducir el incremento de deudas tributarias a partir de distintos mecanismos."
+          },
+          {
+            "problem": "Limitada articulación entre la municipalidad y el sector empresarial y comercial.",
+            "objective": "Fortalecer la cooperación con empresas, comerciantes y emprendedores para impulsar el desarrollo económico local.",
+            "goal": "- Concejo Consultivo establecido al 100% con participación del empresariado local de Comas. - 50% de empresarios locales incorporados al Concejo Consultivo Empresarial al 2030. - 100% de acciones incluidas en el programa realizadas.",
+            "indicator": "- Establecimiento del Concejo Consultivo Empresarial de Comas. - Porcentaje de empresarios locales incorporados al Concejo Consultivo Empresarial. - Porcentaje de acciones incluidas en programa anual de trabajo conjunto realizadas."
+          },
+          {
+            "problem": "Deficiente transitabilidad y movilidad urbana que afecta la productividad y calidad de vida.",
+            "objective": "Mejorar la movilidad urbana y promover alternativas de transporte sostenible.",
+            "goal": "- 100% de obras iniciadas por Lima Metropolitana en Comas, culminadas dentro de los plazos previstos. - 100% del número de campañas programadas trimestralmente realizadas. - 100% de obras de infraestructura programadas anualmente, culminadas.",
+            "indicator": "- Número de obras de Lima Metropolitana en el distrito de Comas. gestionadas para su culminación. - Número de campañas para el respeto al peatón, ciclistas y vehículos motorizados, así como el cumplimiento de las leyes de tránsito. - Número de obras de infraestructura para bicicletas y otros medios de transporte"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de áreas verdes, contaminación ambiental y deficiente manejo de residuos sólidos.",
+            "objective": "Recuperar espacios públicos y fortalecer la gestión ambiental del distrito.",
+            "goal": "-100% de provisión de agua asegurada a fines del 2027. - Programa de mantenimiento de áreas verdes concluido al 100% incluyendo todos los parques del distrito. - 100% de áreas verdes recuperadas al 2030.",
+            "indicator": "- Aseguramiento de la provisión de agua para riego de los parques del distrito. - Elaboración del programa de mantenimiento de áreas verdes - Metros cuadrados de áreas verdes recuperadas y acciones ambientales implementadas."
+          },
+          {
+            "problem": "Incremento de la contaminación sonora y afectación a la calidad de vida",
+            "objective": "Fortalecer las acciones de fiscalización y control ambiental.",
+            "goal": "-Implementación del Observatorio ambiental Distrital al 100% a diciembre 2028. - Implementación del sistema de denuncias ambientales al 100% a fines del 2027. - Alianza con OEFA implementada al 100% a fines del 2027. - Alianza con MINAM implementada al 100% a fines del 2027.",
+            "indicator": "- Implementación del Observatorio ambiental Distrital. - Implementación del sistema de denuncias ambientales. - Alianza con OEFA implementada durante el 2027. - Alianza con MINAM implementada durante el 2027."
+          },
+          {
+            "problem": "Vulnerabilidad frente a lluvias intensas, huaicos e inundaciones.",
+            "objective": "Fortalecer las acciones de prevención y gestión del riesgo de desastres.",
+            "goal": "- 100% del territorio en zonas altas evaluado al 2030. - 100% del territorio en las zonas bajas evaluado al 2030. - Capacitaciones programadas en primeros auxilios realizadas al 100% - Obras programadas anualmente concluidas al 100%",
+            "indicator": "- Porcentaje de territorio en las zonas altas del distrito evaluadas en base a riesgos ambientales. - Porcentaje de territorio en las zonas bajas del distrito evaluadas en base a riesgos ambientales. - Número de capacitaciones en primeros auxilios programadas anualmente. - Número de obras de infraestructura identificada como necesaria, implementada para protección frente a riesgos de desastres."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Incremento de la inseguridad ciudadana y limitada articulación institucional",
+            "objective": "Fortalecer la seguridad ciudadana y mejorar la coordinación interinstitucional.",
+            "goal": "- 100% implementado al 2027 - Centro Inteligente de Monitoreo y Respuesta Rápida de Seguridad Ciudadana. - Avance programado cumplido al 100%, priorizando zonas con mayor incidencia delictiva, las 24 horas. - Reincorporación del 100% de unidades inoperativas de Seguridad Ciudadana. - 100% implementado – Botón de pánico municipal.",
+            "indicator": "- Implementación de herramientas para contar con un Centro Inteligente de Monitoreo y Respuesta Rápida de Seguridad Ciudadana. - Consolidación del patrullaje integrado priorizando zonas con mayor incidencia delictiva, las 24 horas. - Reincorporación de unidades de Seguridad Ciudadana inoperativas. - Implementación del botón de pánico municipa"
+          },
+          {
+            "problem": "Limitada participación ciudadana y necesidad de fortalecer el capital humano institucional.",
+            "objective": "Consolidar una cultura organizacional basada en la meritocracia, innovación y vocación de servicio, fortaleciendo las capacidades de los trabajadores municipales.",
+            "goal": "- 100% de ambientes municipales evaluados determinando riesgos, objetivos y responsabilidades: 100% al 2030. - Cumplimiento al 100% del programa anual de capacitación. - Digitalización del 100% de documentos al 2030.",
+            "indicator": "- Instalaciones municipales limpias, ordenadas y seguras. - Programa de capacitación del personal municipal para el desarrollo de habilidades. - Digitalización de la documentación municipal."
+          },
+          {
+            "problem": "Gestión municipal deficiente y limitada transparencia.",
+            "objective": "Modernizar la gestión pública y fortalecer la transparencia y la rendición de cuentas.",
+            "goal": "- Requerimiento de información por parte de los regidores regidores municipales atendido al 100% al 2027. - Requerimiento de información de transparencia por parte de los ciudadanos atendido al 100% al 2027. - Rendición de cuentas en espacios abiertos con participación masiva de la población del distrito realizadas al 100% al 2027. - Implementación del Sistema de denuncias confidenciales implementado al 100% al 2027.",
+            "indicator": "- Porcentaje de atención al requerimiento de información por parte de los regidores regidores municipales. - Porcentaje de atención al requerimiento de información de transparencia por parte de los ciudadanos. - Rendición de cuentas en espacios abiertos con participación masiva de la población del distrito. - Porcentaje de implementación del Sistema de denuncias confidenciales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-c1vy8b9MBlcfrkUI-B8FpSVoatW6SLiU",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/c1vy8b9MBlcfrkUI-B8FpSVoatW6SLiU",
+      "sha256": "3a9b846d7766c314f433f822a201638195899f144fb3b96729fac90c15e3aed9",
+      "accessedAt": "2026-10-02T22:55:19.798Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020095",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020095",
+      "sha256": "6f0e099e8a4414809583c3e0a4f9dfd695427090ef04a7e0c829a532fd2dc2a7",
+      "accessedAt": "2026-10-02T22:55:20.500Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

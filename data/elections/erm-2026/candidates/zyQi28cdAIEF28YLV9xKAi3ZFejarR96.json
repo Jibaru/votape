@@ -1,0 +1,236 @@
+{
+  "id": "zyQi28cdAIEF28YLV9xKAi3ZFejarR96",
+  "slug": "juan-alejandro-palma-aurazo",
+  "electionId": "erm-2026",
+  "name": "Juan Alejandro Palma Aurazo",
+  "givenNames": "Juan Alejandro",
+  "surnames": "Palma Aurazo",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:17.793Z",
+      "sourceId": "jne-hv-zyQi28cdAIEF28YLV9xKAi3ZFejarR96"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "LICENCIADO EN ADMINISTRACIÓN Y GERENCIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2019"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "BACHILLER EN ADMINISTRACIÓN Y GERENCIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2018"
+      },
+      {
+        "level": "posgrado",
+        "institution": "EUCIM BUSINESS SCHOOL",
+        "program": "GERENCIA PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INVERSIONES MANBOX S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    },
+    {
+      "party": "PROGRESEMOS",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 281112,
+        "public": 0,
+        "private": 281112
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 28000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GRUPO DE OPERACIONES ESTRATEGICAS SAC",
+        "type": "ACCIONES",
+        "quantity": 297000,
+        "value": 1
+      },
+      {
+        "company": "INVERSIONES MANBOX SAC",
+        "type": "ACCIONES",
+        "quantity": 148500,
+        "value": 1
+      },
+      {
+        "company": "MEGACCION ANIMACION DE EVENTOS EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 20000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "TRANSFERI LAS ACCIONES DE LA EMPRESA MERCAZUR SERVICIOS PUBLICITARIOS SAC. ESTA DE BAJA DE OFICIO DESDE EL 2014."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a8025758-16e4-4e19-baa2-148cf876a885.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e7cf4b92-7f5a-44fa-8a6a-9eecd9b0c9c3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de la inseguridad ciudadana que afecta la tranquilidad y calidad de vida de la población.",
+            "objective": "Fortalecer la seguridad ciudadana y la convivencia pacífica mediante el uso de tecnología, inteligencia territorial y participación vecinal.",
+            "goal": "Implementar un sistema de videovigilancia inteligente, drones, botón de pánico, patrullaje integrado y fortalecer las juntas vecinales para incrementar la percepción de seguridad.",
+            "indicator": "Implementación del programa “Surco Seguro 360°” y medición de la percepción de seguridad ciudadana."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud, con enfoque preventivo, para la ciudadanía.",
+            "objective": "Mejorar el acceso oportuno a los servicios de salud preventiva a través de la transformación digital.",
+            "goal": "Establecer un sistema de salud digital con telemedicina, telecentros, monitoreo preventivo e historia clínica digital.",
+            "indicator": "Implementación del programa “Médico Virtual Surcano” y cobertura de atención preventiva digital."
+          },
+          {
+            "problem": "Incremento sostenido de la población adulta mayor y sus demandas específicas de atención.",
+            "objective": "Promover un envejecimiento activo y saludable para la población adulta mayor del distrito.",
+            "goal": "Proveer servicios de teleasistencia, programas de actividad física, inclusión digital y atención psicológica para adultos mayores.",
+            "indicator": "Implementación del programa “Surco Adulto Mayor Activo” y cobertura de los programas."
+          },
+          {
+            "problem": "Existencia de brechas sociales, territoriales y riesgo de discriminación en el distrito.",
+            "objective": "Garantizar la igualdad de oportunidades para todos los vecinos y consolidar un distrito inclusivo.",
+            "goal": "Fomentar la accesibilidad universal e implementar programas para mujeres, jóvenes y personas con discapacidad.",
+            "indicator": "Implementación del programa “Surco Inclusivo” y cobertura de programas de inclusión social."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil fortalecimiento del emprendimiento y la competitividad local.",
+            "objective": "Impulsar la competitividad y el emprendimiento en el distrito a través de la innovación y la digitalización.",
+            "goal": "Crear una escuela de emprendedores, un marketplace local, ofrecer capacitación digital y facilitar la formalización.",
+            "indicator": "Implementación del programa “Surco Emprende Digital” y número de emprendedores beneficiados."
+          },
+          {
+            "problem": "Excesiva tramitología y costos administrativos que dificultan la actividad económica.",
+            "objective": "Facilitar la inversión y la actividad económica mediante la simplificación de los procesos administrativos.",
+            "goal": "Digitalizar los trámites con licencias en línea, expediente electrónico y simplificación administrativa para reducir los tiempos de atención.",
+            "indicator": "Implementación de la Ventanilla Única Empresarial y reducción del tiempo promedio de atención."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Altos niveles de congestión vehicular y dificultades en la movilidad urbana.",
+            "objective": "Mejorar la movilidad urbana y la accesibilidad territorial del distrito.",
+            "goal": "Implementar una gestión inteligente del tránsito, un plan de verano seguro y coordinar acciones con la MML y la ATU.",
+            "indicator": "Implementación del programa “Acceso Sur Seguro y Fluido 2030” y reducción del tiempo promedio de desplazamiento."
+          },
+          {
+            "problem": "Presión ambiental derivada del crecimiento urbano y los efectos del cambio climático.",
+            "objective": "Fortalecer la sostenibilidad urbana y mejorar la calidad ambiental del distrito.",
+            "goal": "Promover el riego tecnificado, la instalación de sensores ambientales, la economía circular y la creación de corredores verdes.",
+            "indicator": "Implementación del programa “Surco Verde Inteligente” y mejora de la calidad ambiental urbana."
+          },
+          {
+            "problem": "Contaminación atmosférica y deterioro de la calidad del aire y del paisaje urbano.",
+            "objective": "Mejorar la calidad ambiental y visual del distrito mediante soluciones innovadoras de descontaminación.",
+            "goal": "Desarrollar proyectos de murales ambientales, fachadas sostenibles y pinturas fotocatalíticas para mejorar la calidad del aire.",
+            "indicator": "Implementación del programa “Surco Respira” y monitoreo de contaminantes ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desarticulación y limitada coordinación entre los diferentes niveles de gobierno y actores territoriales.",
+            "objective": "Fortalecer la gobernanza territorial para mejorar la articulación y eficiencia de las intervenciones públicas.",
+            "goal": "Establecer un Consejo de Gobernanza Territorial, mesas de desarrollo y promover alianzas público-privadas.",
+            "indicator": "Implementación del modelo de Gobernanza Territorial Inteligente y creación de espacios de coordinación."
+          },
+          {
+            "problem": "Limitado uso de información y datos para la toma de decisiones en la gestión municipal.",
+            "objective": "Modernizar la gestión municipal para que esté basada en evidencia y datos.",
+            "goal": "Implementar un observatorio de calidad de vida, tableros de control, inteligencia artificial y alertas tempranas.",
+            "indicator": "Creación del Centro de Inteligencia Territorial y Ciencia de Datos, y sistemas de inteligencia implementados."
+          },
+          {
+            "problem": "Débil confianza ciudadana y necesidad de mayor transparencia en la gestión pública.",
+            "objective": "Fortalecer la transparencia y la rendición de cuentas para consolidar un gobierno abierto.",
+            "goal": "Realizar audiencias públicas, mantener un portal de datos abiertos y obras, y habilitar la rendición de cuentas digital.",
+            "indicator": "Implementación del programa “Gobierno Abierto Surcano” y grado de participación ciudadana y acceso a la información."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-zyQi28cdAIEF28YLV9xKAi3ZFejarR96",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/zyQi28cdAIEF28YLV9xKAi3ZFejarR96",
+      "sha256": "c73a48ca30dc29d8beb31c69fa05748d4aaa62faf04d60710e7352026f30e6e5",
+      "accessedAt": "2026-10-02T23:06:17.793Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017093",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017093",
+      "sha256": "ab44aaa049d404ae9b16f3511922bbb9e99d725a0ae28e2dd26ea36ad5b7dca4",
+      "accessedAt": "2026-10-02T23:06:18.279Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

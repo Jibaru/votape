@@ -1,0 +1,283 @@
+{
+  "id": "Ib0d6ash86nwoKVqgPg-PpLZQ854cWkK",
+  "slug": "manuel-milenco-espinoza-loarte",
+  "electionId": "erm-2026",
+  "name": "Manuel Milenco Espinoza Loarte",
+  "givenNames": "Manuel Milenco",
+  "surnames": "Espinoza Loarte",
+  "age": 47,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140125",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:51:35.517Z",
+      "sourceId": "jne-hv-Ib0d6ash86nwoKVqgPg-PpLZQ854cWkK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "LICENCIADO EN SOCIOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN CIENCIAS SOCIALES",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN SOCIOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Privada César Vallejo",
+        "program": "MAESTRO EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2017"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "EUCIM BUSINESS SCHOOL",
+        "program": "INNOVACIÓN PEDAGÓGICA Y GESTIÓN DE C. EDUCATIVOS",
+        "completed": true,
+        "degree": "MASTER",
+        "year": "2019"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE BARRANCO",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SURQUILLO",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2015",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SURQUILLO",
+      "role": "GERENTE DE SEGURIDAD CIUDADANA",
+      "from": "2014",
+      "to": "2015"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 160370.28,
+        "public": 160370.28,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "HYUNDAI-CRETA",
+        "value": 54400
+      },
+      {
+        "type": "HONDA-HRC",
+        "value": 51000
+      },
+      {
+        "type": "KIA-SOLUTO",
+        "value": 20400
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "EVOLUZIONE M & R S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 1
+      },
+      {
+        "company": "FAMILY FUN S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 16500,
+        "value": 1
+      },
+      {
+        "company": "CMM & CONSULTORES S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 2300,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "PERTENEZCO AL COLEGIO DE SOCIOLOGOS DEL PERÚ DESDE 2021 (CSP3958)",
+    "DIPLOMA ANTICORRUPCIÓN EN LA UNIVERSIDAD DE CATALUÑA EN EL AÑO 2020",
+    "DIPLOMA EN SIMPLIFICACIÓN ADMINISTRATIVA EN LA UNIVERSIDAD SAN MARTIN DE PORRES EN EL AÑO 2014"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e4144db1-9b07-4543-a761-a88a99ad6246.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/fa78d482-8b26-4384-94f8-fd6418f0dae5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Congestión vehicular severa en horas punta e insuficiente presencia de fiscalizadores de tránsito con capacidad de sanción efectiva.",
+            "objective": "Implementar fiscalizadores de tránsito con capacidad de sanción efectiva en las vías de mayor congestión. Articular con la Policía Nacional, Municipalidad de Lima, Ministerio de Transportes y Comunicaciones y la Autoridad de Transporte Urbano para desplegar operativos de ordenamiento vehicular en horas punta y zonas críticas.",
+            "goal": "Desplegar un cuerpo de fiscalizadores de tránsito y ejecutar operativos coordinados con entidades competentes para el ordenamiento vehicular en las zonas de mayor congestión del distrito.",
+            "indicator": "Número de fiscalizadores de tránsito implementados y número de operativos de ordenamiento vehicular realizados."
+          },
+          {
+            "problem": "Incremento de la delincuencia y escasa presencia de policía y serenazgo en calles y zonas vulnerables del distrito.",
+            "objective": "Ampliar la cobertura de serenazgo en los puntos críticos del distrito, garantizando presencia efectiva, patrullaje preventivo y atención oportuna durante las 24 horas. Fortalecer el sistema de videovigilancia integrado con la Policía Nacional del Perú, serenazgo y organizaciones vecinales.",
+            "goal": "Garantizar la presencia y patrullaje preventivo de serenazgo las 24 horas en puntos críticos, y fortalecer el sistema de videovigilancia integrado con la PNP para mejorar la seguridad ciudadana.",
+            "indicator": "Porcentaje de ampliación de la cobertura de serenazgo y número de cámaras de videovigilancia integradas."
+          },
+          {
+            "problem": "Ausencia de un consultorio médico municipal y necesidad de fortalecer la atención en salud pública y salud mental.",
+            "objective": "Crear un Policlínico Municipal para brindar atención primaria, preventiva y de orientación médica. Crear un centro bromatológico municipal para el control sanitario. Ampliar la cobertura de atención en salud mental comunitaria, priorizando la atención psicológica preventiva.",
+            "goal": "Establecer un Policlínico Municipal y un centro bromatológico, y ampliar la cobertura de servicios de salud mental comunitaria, con especial énfasis en la población vulnerable del distrito.",
+            "indicator": "Creación del Policlínico Municipal y del centro bromatológico, y porcentaje de ampliación de la cobertura en salud mental."
+          },
+          {
+            "problem": "Falta de espacios públicos deportivos y escaso apoyo municipal a personas en situación de vulnerabilidad.",
+            "objective": "Masificar y descentralizar la práctica del deporte y la recreación mediante programas itinerantes. Crear un complejo deportivo municipal en Playa Las Sombrillas. Fortalecer los espacios descentralizados del CIAM y OMAPED, y ampliar el apoyo municipal a personas en situación de vulnerabilidad.",
+            "goal": "Fomentar el deporte con programas descentralizados, construir un complejo deportivo y fortalecer los programas de apoyo a adultos mayores, personas con discapacidad y población vulnerable.",
+            "indicator": "Implementación de programas deportivos itinerantes, creación de un complejo deportivo municipal y fortalecimiento de los programas sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Falta de capacitaciones, bajo apoyo municipal a las mypes y emprendedores, y barreras de formalización que limitan su crecimiento.",
+            "objective": "Crear un Centro Municipal de Emprendimiento que brinde asesoría, capacitación, incubación de negocios y acompañamiento técnico. Facilitar la formalización de mypes mediante el acompañamiento municipal y la reducción de la burocracia.",
+            "goal": "Establecer un Centro Municipal de Emprendimiento para fortalecer las capacidades de los emprendedores locales y simplificar los procesos administrativos para facilitar la formalización de sus negocios.",
+            "indicator": "Creación e implementación del Centro Municipal de Emprendimiento y tasa de formalización de mypes en el distrito."
+          },
+          {
+            "problem": "Potencial desaprovechado del turismo cultural como motor económico para el distrito de Barranco.",
+            "objective": "Implementar la marca ciudad \"Barranco\" para promover el distrito como destino cultural y turístico. Lanzar el proyecto 'Pasaporte Barranco Cultural', un circuito turístico gamificado para incentivar la visita a puntos artísticos, patrimoniales y gastronómicos.",
+            "goal": "Posicionar a Barranco como un destino cultural y turístico a nivel nacional e internacional, articulando la oferta local a través de la marca ciudad y un circuito turístico integrado.",
+            "indicator": "Lanzamiento de la marca ciudad \"Barranco\" e implementación del proyecto 'Pasaporte Barranco Cultural'."
+          },
+          {
+            "problem": "Escaso flujo económico derivado de actividades culturales y de emprendimiento a lo largo del año.",
+            "objective": "Implementar una Red de Ferias Permanentes, fijando un calendario anual de ferias gastronómicas, artesanales, culturales y de innovación. Organizar ferias de emprendedores locales en espacios públicos del distrito.",
+            "goal": "Generar un flujo económico continuo durante todo el año mediante la implementación de una red de ferias permanentes con un calendario anual definido.",
+            "indicator": "Establecimiento de un calendario anual de ferias y número de ferias de emprendedores realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro de la infraestructura urbana, incluyendo pistas, veredas, espacios públicos y mobiliario.",
+            "objective": "Priorizar el mantenimiento y la rehabilitación de pistas, veredas y espacios públicos deteriorados en las nueve zonas del distrito. Asegurar la renovación y el mantenimiento periódico del mobiliario urbano como bancas, postes de luz y barandas.",
+            "goal": "Garantizar un desarrollo urbano homogéneo mediante la rehabilitación de la infraestructura y el mantenimiento del mobiliario en todas las zonas del distrito.",
+            "indicator": "Superficie de pistas y veredas rehabilitadas y porcentaje de mobiliario urbano con mantenimiento periódico."
+          },
+          {
+            "problem": "Riesgos para la salud pública asociados a plagas urbanas y tenencia irresponsable de mascotas.",
+            "objective": "Desarrollar un plan técnico de control y ahuyentamiento de plagas urbanas con métodos biológicos no crueles. Implementar el reglamento técnico para paseadores de animales y rehabilitar las áreas para canes en los parques del distrito.",
+            "goal": "Mitigar los riesgos a la salud pública mediante un control técnico de plagas y la promoción de una convivencia ordenada y saludable con las mascotas.",
+            "indicator": "Implementación del plan de control de plagas y del reglamento para paseadores de animales."
+          },
+          {
+            "problem": "Falta de protección de los ecosistemas litorales como los humedales costeros y el acantilado.",
+            "objective": "Declarar la intangibilidad ambiental y biológica de los humedales costeros de las playas Los Yuyos y Las Sombrillas. Arborizar la base del acantilado del litoral costero con la plantación masiva de 500 árboles nativos para crear una barrera forestal.",
+            "goal": "Proteger los humedales costeros mediante su declaratoria de intangibilidad y mitigar el impacto de la contaminación vehicular mediante la arborización del acantilado.",
+            "indicator": "Aprobación de la declaratoria de intangibilidad de los humedales y número de árboles nativos plantados en el acantilado."
+          },
+          {
+            "problem": "Gestión deficiente de los residuos sólidos, lo que genera acumulación en la vía pública y bajas tasas de reciclaje.",
+            "objective": "Mejorar el servicio de recolección de residuos sólidos estableciendo horarios definidos. Expandir la cobertura de segregación en la fuente mediante el programa RECICLA Barranco. Construir e implementar una planta piloto para el procesamiento de plásticos.",
+            "goal": "Optimizar la gestión integral de residuos sólidos a través de horarios de recolección definidos, la ampliación del reciclaje en la fuente y la implementación de infraestructura para la transformación de residuos.",
+            "indicator": "Establecimiento de horarios de recolección por tramos viales, porcentaje de expansión del programa de segregación y construcción de la planta piloto de reciclaje."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos lentos y burocráticos que afectan la atención al ciudadano y la gestión interna.",
+            "objective": "Digitalizar los principales procesos de atención al ciudadano y emisión de documentos. Implementar un sistema digital integrado para agilizar la evaluación y atención de expedientes. Reducir los tiempos de atención de trámites mediante la digitalización y simplificación administrativa.",
+            "goal": "Modernizar la gestión municipal mediante la digitalización y simplificación de los procesos administrativos para mejorar la eficiencia y la calidad de la atención al ciudadano.",
+            "indicator": "Porcentaje de trámites digitalizados y reducción del tiempo promedio de atención de expedientes."
+          },
+          {
+            "problem": "Débiles mecanismos de comunicación y participación de los vecinos en la gestión municipal.",
+            "objective": "Fortalecer la comunicación municipal a través de redes sociales, boletines y reuniones periódicas. Fortalecer los mecanismos de participación vecinal mediante talleres territoriales, audiencias y consultas digitales. Institucionalizar el Presupuesto Participativo Juvenil.",
+            "goal": "Establecer una comunicación fluida y permanente con la ciudadanía e implementar mecanismos efectivos de participación para involucrar a los vecinos en la toma de decisiones.",
+            "indicator": "Número de canales de comunicación activos y frecuencia de actividades de participación vecinal."
+          },
+          {
+            "problem": "Limitada transparencia en la gestión municipal y falta de acceso a la información por parte de los ciudadanos.",
+            "objective": "Publicar informes trimestrales de gestión municipal en portales digitales accesibles. Mantener actualizado el portal de transparencia de la entidad. Implementar la norma ISO 37001, Sistema de Gestión Antisoborno.",
+            "goal": "Fortalecer la transparencia y la lucha contra la corrupción mediante la publicación proactiva de información y la implementación de estándares internacionales de gestión antisoborno.",
+            "indicator": "Publicación periódica de informes de gestión y obtención de la certificación ISO 37001."
+          },
+          {
+            "problem": "Necesidad de incorporar tecnología e inteligencia artificial para optimizar la gestión pública y los servicios urbanos.",
+            "objective": "Implementar herramientas de inteligencia artificial para la gestión del tráfico, el monitoreo de espacios públicos y la toma de decisiones. Incorporar inteligencia artificial para optimizar la revisión documental, la gestión de expedientes y la seguridad ciudadana.",
+            "goal": "Transformar la municipalidad en un 'Municipio Inteligente' (Smart City) mediante el uso de tecnología e inteligencia artificial para mejorar la eficiencia de los servicios y la calidad de vida de los vecinos.",
+            "indicator": "Número de áreas de gestión que utilizan herramientas de inteligencia artificial."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Ib0d6ash86nwoKVqgPg-PpLZQ854cWkK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Ib0d6ash86nwoKVqgPg-PpLZQ854cWkK",
+      "sha256": "3de717211f816cb941ade1ac522fe2871237110c37017e19d111a82a4df6e7f1",
+      "accessedAt": "2026-10-02T22:51:35.517Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016726",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016726",
+      "sha256": "c4958ff0b230257b6e53af40b242da0c122368ef8d8ecec5e5b5bbd858762d96",
+      "accessedAt": "2026-10-02T22:51:35.995Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

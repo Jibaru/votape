@@ -1,0 +1,573 @@
+{
+  "id": "2sZJ_B6_-BC7n6FRkq-jpxaOkGi-xVuW",
+  "slug": "luis-alberto-jimenez-caichihua",
+  "electionId": "erm-2026",
+  "name": "Luis Alberto Jimenez Caichihua",
+  "givenNames": "Luis Alberto",
+  "surnames": "Jimenez Caichihua",
+  "age": 52,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:00.281Z",
+      "sourceId": "jne-hv-2sZJ_B6_-BC7n6FRkq-jpxaOkGi-xVuW"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INSTITUTO SUPERIOR TECNOLOGICO ANTENOR ORREGO ESPINOZA",
+        "program": "MECANICA AUTOMOTRIZ",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD INCA GARCILAZO DE LA VEGA",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD AUTONOMA DEL PERU",
+        "program": "MAESTRIA EN GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUNTA NEGRA",
+      "role": "SUB GERENTE DE REGISTRO RECAUDACION Y FISCALIZACION TRIBUTARIA",
+      "from": "2024",
+      "to": "2024"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CERRO AZUL",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE CERRO AZUL",
+      "role": "GERENTE DE DESARROLLO ECONOMICO, TURISMO Y PROMOCION DEL EMPLEO",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN MARTIN DE PORRES",
+      "role": "SUB GERENTE DE FISCALIZACION TRIBUTARIA",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SAN MARTIN DE PORRES",
+      "role": "SUB GERENTE DE SERVICIOS SOCIALES",
+      "from": "2022",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIA GENERAL DISTRITAL",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "position": "SECRETARIA DE DERECHOS HUMANOS Y DEFENSA DEL PATRIMONIO NACIONAL",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "year": "2015"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 50861,
+        "public": 0,
+        "private": 50861
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "TERRENO",
+        "value": 13504,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 68420.25,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "ACCIONES Y DERECHOS",
+        "value": 7146,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 9500,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "CASA",
+        "value": 49434.04,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 6641.55,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "TERRENO",
+        "value": 13176,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "operativo",
+        "value": 25000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "J&C CONSULTORIA CONSTRUCCION Y SERVICIOS EN GENERAL SAC",
+        "type": "ACCIONES",
+        "quantity": 50,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/78c283ca-5437-4cd4-9112-8956172ab3bc.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a387c027-6744-43ee-b7db-3e877e2308bb.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitaciones en el acceso oportuno a servicios de prevención y promoción de la salud, especialmente en los sectores más alejados del distrito, y una creciente demanda de atención en salud mental.",
+            "objective": "Promover la salud preventiva y el bienestar integral de la población mediante programas descentralizados de promoción de la salud, campañas médicas comunitarias y acciones coordinadas con las instituciones competentes del sector.",
+            "goal": "Implementar el Programa Municipal “Médicos en Acción” en todos los sectores del distrito.",
+            "indicator": "Cobertura del Programa Municipal “Médicos en Acción” en el distrito."
+          },
+          {
+            "problem": "La inseguridad ciudadana, caracterizada por el incremento de delitos, extorsiones, violencia, microcomercialización de drogas y otras modalidades delictivas, afecta la tranquilidad y calidad de vida de la población, sumado a limitaciones en infraestructura y tecnología para la prevención.",
+            "objective": "Fortalecer la seguridad ciudadana mediante una estrategia integral basada en la prevención, el uso de tecnología, la participación vecinal organizada y el trabajo coordinado entre las instituciones responsables de la seguridad pública.",
+            "goal": "Construir dos Centros Integrados de Seguridad y Control Municipal, implementar un sistema integral de seguridad con tecnología de última generación, y consolidar el patrullaje integrado durante las 24 horas del día.",
+            "indicator": "Tasa de victimización delictiva y nivel de percepción de seguridad en el distrito."
+          },
+          {
+            "problem": "La violencia contra las mujeres y los integrantes del grupo familiar constituye una de las principales problemáticas sociales, enfrentando las víctimas dificultades para acceder oportunamente a servicios de orientación, atención psicológica y asesoría legal.",
+            "objective": "Prevenir, atender y contribuir a reducir la violencia contra las mujeres y los integrantes del grupo familiar mediante acciones de prevención, orientación, protección, asistencia psicológica y articulación interinstitucional.",
+            "goal": "Capacitar al 100 % del personal operativo de Serenazgo en protocolos de atención frente a casos de violencia familiar y violencia contra la mujer.",
+            "indicator": "Porcentaje del personal operativo de Serenazgo capacitado en protocolos de atención frente a casos de violencia."
+          },
+          {
+            "problem": "La violencia contra las mujeres y los integrantes del grupo familiar persiste como una problemática social que afecta la convivencia y el bienestar, generando graves consecuencias para las víctimas y sus familias, quienes además enfrentan dificultades para acceder a servicios de apoyo.",
+            "objective": "Prevenir, atender y contribuir a la reducción de la violencia contra las mujeres y los integrantes del grupo familiar, mediante acciones de prevención, orientación, protección, asistencia psicológica y articulación interinstitucional.",
+            "goal": "Implementar el Programa Municipal “Acción Mujer” en todos los sectores, capacitar al 100% del personal de Serenazgo en protocolos de atención y consolidar una red distrital de prevención y atención de la violencia.",
+            "indicator": "Número de denuncias por violencia familiar y de género atendidas y porcentaje de víctimas que reciben atención integral."
+          },
+          {
+            "problem": "Existen limitaciones en el acceso oportuno a servicios de prevención y promoción de la salud, especialmente en los sectores más alejados, junto con una creciente demanda de atención en salud mental y servicios comunitarios.",
+            "objective": "Promover la salud preventiva y el bienestar integral de la población a través de programas descentralizados de promoción de la salud, campañas médicas comunitarias y acciones coordinadas con las instituciones competentes del sector.",
+            "goal": "Implementar el programa “Médicos en Acción” en todo el distrito, incrementar la cobertura de campañas preventivas y consolidar una red de cooperación institucional para ampliar el acceso a servicios de salud.",
+            "indicator": "Cobertura de servicios preventivos de salud y número de atenciones en salud mental comunitaria."
+          },
+          {
+            "problem": "La inseguridad alimentaria y los problemas nutricionales, como la anemia infantil y la malnutrición, continúan afectando a familias en situación de vulnerabilidad, quienes tienen un acceso limitado a una alimentación saludable y balanceada.",
+            "objective": "Promover una alimentación saludable y fortalecer la seguridad alimentaria de la población vulnerable mediante programas de educación nutricional, el fortalecimiento de organizaciones sociales de base y la articulación con instituciones públicas y privadas.",
+            "goal": "Brindar asistencia técnica al 100% de las ollas comunes y comedores populares registrados, reducir los factores asociados a la anemia y malnutrición, y fortalecer la seguridad alimentaria de las familias vulnerables.",
+            "indicator": "Tasa de anemia y desnutrición crónica infantil en el distrito."
+          },
+          {
+            "problem": "Insuficiente oferta de espacios seguros, educativos y recreativos para la atención integral de la niñez, especialmente en zonas con mayores índices de vulnerabilidad social.",
+            "objective": "Fortalecer el desarrollo integral de los niños mediante servicios de cuidado, recreación, educación complementaria y formación en valores.",
+            "goal": "Incrementar el acceso de los niños a espacios recreativos seguros. Fortalecer programas de desarrollo integral infantil. Promover una cultura de valores, convivencia y participación.",
+            "indicator": "Nivel de acceso de los niños a espacios recreativos seguros; número de programas de desarrollo integral infantil fortalecidos."
+          },
+          {
+            "problem": "Limitada oferta descentralizada de actividades culturales, artísticas y recreativas que permitan el acceso de todos los vecinos a expresiones culturales de calidad y contribuyan al fortalecimiento de la identidad local.",
+            "objective": "Promover el acceso democrático a la cultura, el arte, las tradiciones y las expresiones culturales, fortaleciendo la identidad chorrillana y fomentando la participación ciudadana.",
+            "goal": "Descentralizar las actividades culturales en todos los sectores del distrito. Incrementar la participación de niños, jóvenes, adultos y adultos mayores en programas culturales municipales. Posicionar la Marca Chorrillos como referente cultural, histórico y turístico a nivel nacional.",
+            "indicator": "Grado de descentralización de las actividades culturales; nivel de participación de la población en programas culturales; posicionamiento de la Marca Chorrillos."
+          },
+          {
+            "problem": "Barreras físicas, urbanísticas y sociales que limitan la plena participación de las personas con discapacidad, adultos mayores y personas con movilidad reducida en los espacios públicos y servicios municipales.",
+            "objective": "Convertir a Chorrillos en un distrito inclusivo, accesible y amigable para todas las personas, garantizando igualdad de oportunidades y el ejercicio pleno de sus derechos.",
+            "goal": "Incrementar progresivamente la accesibilidad en parques, avenidas y espacios públicos del distrito. Implementar parques inclusivos en distintos sectores de Chorrillos. Convertir a Chorrillos en un referente de inclusión y accesibilidad en Lima Metropolitana.",
+            "indicator": "Nivel de incremento de la accesibilidad en parques, avenidas y espacios públicos; número de parques inclusivos implementados."
+          },
+          {
+            "problem": "La inseguridad alimentaria y los problemas nutricionales continúan afectando a familias en situación de vulnerabilidad, persistiendo desafíos relacionados con la anemia infantil, la malnutrición y el acceso a una alimentación saludable.",
+            "objective": "Promover una alimentación saludable y fortalecer la seguridad alimentaria de la población vulnerable del distrito mediante programas de educación nutricional, fortalecimiento de organizaciones sociales de base y articulación con instituciones públicas y privadas.",
+            "goal": "Fortalecer y brindar asistencia técnica al 100% de las ollas comunes y comedores populares registrados en el distrito. Incrementar progresivamente el acceso de la población vulnerable a programas de alimentación saludable y capacitación nutricional.",
+            "indicator": "Porcentaje de ollas comunes y comedores populares registrados que reciben asistencia técnica; nivel de acceso de la población vulnerable a programas de alimentación saludable."
+          },
+          {
+            "problem": "Persisten limitaciones en el acceso oportuno a servicios de prevención y promoción de la salud, especialmente en los sectores más alejados del distrito, junto a una creciente demanda de atención en salud mental.",
+            "objective": "Promover la salud preventiva y el bienestar integral de la población mediante programas descentralizados de promoción de la salud, campañas médicas comunitarias y acciones coordinadas con las instituciones competentes del sector salud.",
+            "goal": "Implementar el Programa “Médicos en Acción” en todos los sectores del distrito. Incrementar progresivamente la cobertura de campañas preventivas y servicios comunitarios de salud. Fortalecer los servicios municipales de orientación psicológica y salud mental comunitaria.",
+            "indicator": "Cobertura de campañas preventivas y servicios comunitarios de salud; número de sectores del distrito con el Programa “Médicos en Acción” implementado."
+          },
+          {
+            "problem": "Incremento de la delincuencia en diversas modalidades, sumado a limitaciones en infraestructura, equipamiento y tecnología para la prevención del delito, lo cual afecta la tranquilidad y calidad de vida de la población.",
+            "objective": "Fortalecer la seguridad ciudadana mediante una estrategia integral basada en la prevención, el uso de tecnología, la participación vecinal organizada y el trabajo coordinado entre las instituciones responsables de la seguridad pública.",
+            "goal": "Lograr que el 90% de los ciudadanos chorrillanos accedan y sepan usar las nuevas tecnologías de información para la seguridad ciudadana.",
+            "indicator": "Porcentaje de ciudadanos que acceden y utilizan las nuevas tecnologías de información para la seguridad ciudadana."
+          },
+          {
+            "problem": "Incremento de situaciones asociadas al estrés, ansiedad, depresión y violencia familiar, que generan impactos negativos en la salud mental y la calidad de vida de las familias.",
+            "objective": "Promover la salud mental, el bienestar emocional y el fortalecimiento de las relaciones familiares mediante acciones preventivas, educativas y comunitarias orientadas al desarrollo integral de la población.",
+            "goal": "Implementar el Programa “Psicólogo de la Familia en Acción” en todos los sectores del distrito. Incrementar progresivamente la participación ciudadana en actividades de promoción de la salud mental. Fortalecer el acceso de la población a servicios de orientación psicológica comunitaria.",
+            "indicator": "Número de sectores del distrito con el Programa “Psicólogo de la Familia en Acción” implementado. Nivel de participación ciudadana en actividades de promoción de la salud mental."
+          },
+          {
+            "problem": "Inseguridad alimentaria y problemas nutricionales que afectan a familias en situación de vulnerabilidad, persistiendo desafíos relacionados con la anemia infantil, la malnutrición y el acceso a una alimentación saludable.",
+            "objective": "Promover una alimentación saludable y fortalecer la seguridad alimentaria de la población vulnerable del distrito mediante programas de educación nutricional, fortalecimiento de organizaciones sociales de base y articulación con instituciones públicas y privadas.",
+            "goal": "Fortalecer y brindar asistencia técnica al 100 % de las ollas comunes y comedores populares registrados en el distrito. Incrementar progresivamente el acceso de la población vulnerable a programas de alimentación saludable y capacitación nutricional.",
+            "indicator": "Porcentaje de ollas comunes y comedores populares registrados que reciben asistencia técnica. Acceso de la población vulnerable a programas de alimentación saludable."
+          },
+          {
+            "problem": "Limitaciones en el acceso oportuno a servicios de prevención y promoción de la salud, especialmente en los sectores más alejados del distrito, y una creciente demanda de atención en salud mental y servicios comunitarios.",
+            "objective": "Promover la salud preventiva y el bienestar integral de la población mediante programas descentralizados de promoción de la salud, campañas médicas comunitarias y acciones coordinadas con instituciones competentes del sector.",
+            "goal": "Implementar el Programa “Médicos en Acción” en todos los sectores del distrito. Incrementar progresivamente la cobertura de campañas preventivas y servicios comunitarios de salud. Acercar los servicios de promoción y prevención de la salud a las poblaciones más vulnerables.",
+            "indicator": "Número de sectores del distrito donde se implementa el Programa “Médicos en Acción”. Cobertura de campañas preventivas y servicios comunitarios de salud."
+          },
+          {
+            "problem": "Violencia contra las mujeres y los integrantes del grupo familiar, además de las dificultades que enfrentan las víctimas para acceder a servicios de orientación, atención psicológica, asesoría legal y mecanismos de protección.",
+            "objective": "Prevenir, atender y contribuir a la reducción de la violencia contra las mujeres y los integrantes del grupo familiar mediante acciones de prevención, orientación, protección, asistencia psicológica y articulación interinstitucional.",
+            "goal": "Capacitar al 100 % del personal operativo de Serenazgo en protocolos de atención frente a casos de violencia. Implementar el Programa Municipal “Acción Mujer” en todos los sectores del distrito. Consolidar una red distrital de prevención y atención de la violencia familiar y de género.",
+            "indicator": "Porcentaje del personal operativo de Serenazgo capacitado en protocolos de atención. Número de sectores del distrito donde se implementa el Programa Municipal 'Acción Mujer'."
+          },
+          {
+            "problem": "Incremento de la delincuencia y limitaciones en infraestructura, equipamiento y tecnología para la prevención del delito, que afectan la tranquilidad y calidad de vida de la población de Chorrillos.",
+            "objective": "Fortalecer la seguridad ciudadana mediante una estrategia integral basada en la prevención, el uso de tecnología, la participación vecinal organizada y el trabajo coordinado entre las instituciones responsables de la seguridad pública.",
+            "goal": "Construir dos modernas infraestructuras que funcionarán como Centros Integrados de Seguridad y Control Municipal. Renovar y ampliar la flota de patrullaje. Implementar cámaras corporales (bodycams) para el personal operativo de Serenazgo.",
+            "indicator": "Número de Centros Integrados de Seguridad y Control Municipal construidos. Porcentaje de renovación y ampliación de la flota de patrullaje. Porcentaje de cámaras corporales implementadas para el personal de Serenazgo."
+          },
+          {
+            "problem": "Limitada oferta de programas de preparación preuniversitaria y capacitación para jóvenes en sectores vulnerables, lo que reduce sus oportunidades de acceso a la educación superior y al empleo formal.",
+            "objective": "Promover el acceso a la educación superior, la formación técnica y el desarrollo de capacidades de los jóvenes chorrillanos, fortaleciendo sus competencias para contribuir al desarrollo sostenible del distrito.",
+            "goal": "Incrementar el acceso de jóvenes chorrillanos a estudios superiores y formación técnica, y reducir las brechas de acceso a herramientas digitales y educativas.",
+            "indicator": "Tasa de acceso de jóvenes chorrillanos a estudios superiores y formación técnica."
+          },
+          {
+            "problem": "La inseguridad alimentaria y problemas nutricionales, como la anemia y malnutrición infantil, afectan a familias en situación de vulnerabilidad, además de persistir desafíos en el acceso a una alimentación saludable.",
+            "objective": "Promover una alimentación saludable y fortalecer la seguridad alimentaria de la población vulnerable del distrito mediante programas de educación nutricional y fortalecimiento de organizaciones sociales de base.",
+            "goal": "Fortalecer y brindar asistencia técnica al 100 % de las ollas comunes y comedores populares registrados en el distrito.",
+            "indicator": "Porcentaje de ollas comunes y comedores populares registrados que reciben asistencia técnica."
+          },
+          {
+            "problem": "Incremento de delitos contra el patrimonio, extorsiones, violencia, microcomercialización de drogas y pandillaje, que afectan la tranquilidad y calidad de vida de la población.",
+            "objective": "Fortalecer la seguridad ciudadana mediante una estrategia integral basada en la prevención, el uso de tecnología, la participación vecinal organizada y el trabajo coordinado entre las instituciones responsables de la seguridad pública.",
+            "goal": "Capacitar al 100% del personal operativo de Serenazgo en protocolos de atención frente a casos de violencia. Implementar el Programa Municipal “Acción Mujer” en todos los sectores del distrito. Consolidar una red distrital de prevención y atención de la violencia familiar y de género.",
+            "indicator": "Porcentaje de personal de serenazgo capacitado; número de sectores con programas de prevención implementados; nivel de consolidación de la red distrital de prevención y atención de la violencia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Dificultades de los jóvenes para acceder a su primer empleo debido a la falta de experiencia laboral, capacitación especializada y oportunidades de inserción en el mercado laboral formal.",
+            "objective": "Promover la empleabilidad juvenil, el emprendimiento y la capacitación laboral mediante programas de formación, intermediación laboral y alianzas estratégicas con el sector público y privado.",
+            "goal": "Incrementar las oportunidades de empleo formal para jóvenes del distrito. Fortalecer la capacitación técnica y profesional de la población económicamente activa. Promover la creación de nuevos emprendimientos sostenibles.",
+            "indicator": "Número de oportunidades de empleo formal para jóvenes; nivel de capacitación técnica y profesional de la población económicamente activa."
+          },
+          {
+            "problem": "Los jóvenes enfrentan dificultades para acceder a su primer empleo formal debido a la falta de experiencia laboral, capacitación especializada y limitadas oportunidades de inserción en el mercado.",
+            "objective": "Promover la empleabilidad juvenil, el emprendimiento y la capacitación laboral mediante programas de formación, intermediación laboral y alianzas estratégicas con el sector público y privado.",
+            "goal": "Incrementar las oportunidades de empleo formal para jóvenes, fortalecer la capacitación técnica y profesional de la población económicamente activa y consolidar una red municipal de intermediación laboral.",
+            "indicator": "Tasa de empleo formal juvenil y número de jóvenes beneficiados por programas de capacitación e inserción laboral."
+          },
+          {
+            "problem": "Las micro y pequeñas empresas enfrentan dificultades relacionadas con la informalidad, acceso al financiamiento, gestión empresarial, transformación digital y sostenibilidad de sus actividades económicas.",
+            "objective": "Fortalecer la competitividad, formalización y sostenibilidad de las micro y pequeñas empresas del distrito mediante capacitación, asistencia técnica y promoción de oportunidades comerciales.",
+            "goal": "Incrementar el número de empresas formalizadas en el distrito. Reducir progresivamente la tasa de informalidad empresarial. Fortalecer la competitividad de las micro y pequeñas empresas.",
+            "indicator": "Número de empresas formalizadas en el distrito; tasa de informalidad empresarial; nivel de competitividad de las micro y pequeñas empresas."
+          },
+          {
+            "problem": "Dificultades de los jóvenes para acceder a su primer empleo formal debido a la falta de experiencia laboral, capacitación especializada y oportunidades de inserción en el mercado laboral.",
+            "objective": "Promover la empleabilidad juvenil, el emprendimiento y la capacitación laboral mediante programas de formación, intermediación laboral y alianzas estratégicas con el sector público y privado.",
+            "goal": "Incrementar las oportunidades de empleo formal para jóvenes del distrito y consolidar una red municipal de intermediación laboral y capacitación para el empleo.",
+            "indicator": "Número de oportunidades de empleo formal para jóvenes en el distrito."
+          },
+          {
+            "problem": "Las micro y pequeñas empresas (MYPE) afrontan dificultades relacionadas con la informalidad, el acceso limitado al financiamiento, una deficiente gestión empresarial y una lenta adopción de la transformación digital, lo que afecta su sostenibilidad.",
+            "objective": "Fortalecer la competitividad, formalización y sostenibilidad de las micro y pequeñas empresas del distrito a través de capacitación, asistencia técnica y promoción de oportunidades comerciales.",
+            "goal": "Incrementar el número de empresas formalizadas, reducir progresivamente la tasa de informalidad empresarial y fortalecer la competitividad de las MYPE para consolidar a Chorrillos como un distrito promotor del emprendimiento.",
+            "indicator": "Tasa de informalidad empresarial y número de empresas formalizadas en el distrito."
+          },
+          {
+            "problem": "Dificultades que enfrentan los jóvenes para acceder a su primer empleo debido a la falta de experiencia laboral, capacitación especializada y oportunidades de inserción en el mercado laboral formal.",
+            "objective": "Promover la empleabilidad juvenil, el emprendimiento y la capacitación laboral mediante programas de formación, intermediación laboral y alianzas estratégicas con el sector público y privado.",
+            "goal": "Incrementar las oportunidades de empleo formal para jóvenes del distrito. Fortalecer la capacitación técnica y profesional de la población económicamente activa. Promover la creación de nuevos emprendimientos sostenibles.",
+            "indicator": "Tasa de oportunidades de empleo formal para jóvenes. Nivel de capacitación técnica y profesional de la población económicamente activa."
+          },
+          {
+            "problem": "Dificultades de las micro y pequeñas empresas relacionadas con la informalidad, el acceso al financiamiento, la gestión empresarial, la transformación digital y la sostenibilidad de sus actividades económicas.",
+            "objective": "Fortalecer la competitividad, formalización y sostenibilidad de las micro y pequeñas empresas del distrito mediante capacitación, asistencia técnica y promoción de oportunidades comerciales.",
+            "goal": "Incrementar el número de empresas formalizadas en el distrito. Reducir progresivamente la tasa de informalidad empresarial. Fortalecer la competitividad de las micro y pequeñas empresas. Incrementar la participación de los emprendedores en actividades económicas y comerciales.",
+            "indicator": "Número de empresas formalizadas en el distrito. Tasa de informalidad empresarial. Nivel de competitividad de las micro y pequeñas empresas."
+          },
+          {
+            "problem": "Recursos turísticos con limitaciones en su promoción, señalización, conservación y articulación dentro de una oferta integral, desaprovechando el potencial económico local.",
+            "objective": "Posicionar a Chorrillos como uno de los principales destinos turísticos de Lima Metropolitana, promoviendo la conservación de su patrimonio y el desarrollo económico local.",
+            "goal": "Incrementar progresivamente el número de visitantes nacionales y extranjeros al distrito y generar nuevas oportunidades de empleo y emprendimiento vinculadas al turismo.",
+            "indicator": "Número de visitantes nacionales y extranjeros al distrito."
+          },
+          {
+            "problem": "Las micro y pequeñas empresas (MYPE) enfrentan dificultades relacionadas con la informalidad, el acceso al financiamiento, la gestión empresarial, la transformación digital y la sostenibilidad de sus actividades económicas.",
+            "objective": "Fortalecer la competitividad, formalización y sostenibilidad de las micro y pequeñas empresas del distrito mediante capacitación, asistencia técnica y promoción de oportunidades comerciales.",
+            "goal": "Incrementar el número de empresas formalizadas en el distrito y reducir progresivamente la tasa de informalidad empresarial.",
+            "indicator": "Número de empresas formalizadas en el distrito y tasa de informalidad empresarial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Ampliación de predios de asentamientos humanos hacia áreas intangibles del Morro Solar y zonas arqueológicas, además de descuido, falta de mantenimiento y contaminación ambiental.",
+            "objective": "Recuperar, proteger y poner en valor el patrimonio arqueológico, histórico, cultural, paisajístico y ecológico del Morro Solar y de las zonas arqueológicas del distrito.",
+            "goal": "Garantizar la protección y conservación del 100% del patrimonio arqueológico e histórico del distrito. Reducir en un 100% las invasiones y ocupaciones ilegales en áreas arqueológicas e intangibles. Incrementar en un 50% las visitas turísticas a los principales atractivos históricos y culturales.",
+            "indicator": "Porcentaje del patrimonio arqueológico e histórico protegido y conservado. Porcentaje de reducción de invasiones y ocupaciones ilegales. Incremento en el número de visitas turísticas."
+          },
+          {
+            "problem": "Contaminación ambiental por arrojo de desmontes, residuos sólidos y vertimientos ilegales en las zonas de amortiguamiento de los Pantanos de Villa, afectando la biodiversidad y el equilibrio ecológico del humedal.",
+            "objective": "Reducir la contaminación ambiental y fortalecer la protección, conservación y recuperación de los Pantanos de Villa mediante acciones de educación ambiental, fiscalización, monitoreo y participación ciudadana.",
+            "goal": "Reducir en un 80% la contaminación ambiental en las zonas de influencia de los Pantanos de Villa. Recuperar y reforestar las áreas degradadas. Capacitar al 70% de las instituciones educativas del distrito en educación ambiental.",
+            "indicator": "Porcentaje de reducción de la contaminación ambiental. Superficie de áreas degradadas recuperadas y reforestadas. Porcentaje de instituciones educativas capacitadas en educación ambiental."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado, expansión informal e insuficiente planificación territorial, lo que genera déficit de servicios básicos, inseguridad jurídica sobre la propiedad y ocupación de zonas de riesgo.",
+            "objective": "Promover un desarrollo urbano ordenado, sostenible e inclusivo que garantice el acceso a servicios básicos de calidad, vivienda digna, seguridad jurídica sobre la propiedad y protección del medio ambiente.",
+            "goal": "Actualizar y poner en ejecución los principales instrumentos de planificación urbana y territorial. Incrementar progresivamente la cobertura de servicios básicos. Impulsar programas de formalización y saneamiento físico-legal.",
+            "indicator": "Porcentaje de cobertura de servicios básicos en zonas con mayores necesidades. Número de familias beneficiadas con programas de formalización y saneamiento físico-legal."
+          },
+          {
+            "problem": "Congestión vehicular, deficiencias en la infraestructura vial, insuficiente conectividad urbana, escasez de ciclovías seguras y limitadas condiciones de accesibilidad para personas con discapacidad.",
+            "objective": "Mejorar la infraestructura vial y la movilidad urbana mediante la implementación de soluciones integrales de transporte, accesibilidad y seguridad vial.",
+            "goal": "Reducir progresivamente la congestión vehicular en las principales vías del distrito. Incrementar la accesibilidad peatonal y universal en espacios públicos. Modernizar la red de señalización y semaforización distrital.",
+            "indicator": "Nivel de congestión vehicular en las principales vías. Porcentaje de accesibilidad peatonal y universal en espacios públicos. Estado de la red de señalización y semaforización."
+          },
+          {
+            "problem": "Ampliación de predios hacia áreas intangibles del Morro Solar, descuido, falta de mantenimiento, contaminación ambiental y escasa promoción turística y cultural de la zona.",
+            "objective": "Recuperar, proteger y poner en valor el patrimonio arqueológico, histórico, cultural, paisajístico y ecológico del Morro Solar y de las zonas arqueológicas del distrito, fortaleciendo la identidad cultural y promoviendo el turismo sostenible.",
+            "goal": "Garantizar la protección y conservación del 100% del patrimonio arqueológico e histórico del distrito. Reducir en un 100% las invasiones y ocupaciones ilegales en áreas arqueológicas e intangibles. Incrementar en un 50% las visitas turísticas a los principales atractivos históricos y culturales de Chorrillos.",
+            "indicator": "Porcentaje de protección y conservación del patrimonio arqueológico e histórico; porcentaje de reducción de invasiones y ocupaciones ilegales; incremento de visitas turísticas."
+          },
+          {
+            "problem": "Contaminación ambiental por arrojo de desmontes, residuos sólidos, vertimientos ilegales y ocupación informal en las zonas de amortiguamiento de los Pantanos de Villa, afectando la biodiversidad.",
+            "objective": "Reducir la contaminación ambiental y fortalecer la protección, conservación y recuperación de los Pantanos de Villa mediante acciones de educación ambiental, fiscalización, monitoreo y participación ciudadana.",
+            "goal": "Reducir en un 80% la contaminación ambiental en las zonas de influencia de los Pantanos de Villa. Recuperar y reforestar las áreas degradadas identificadas en el humedal y su zona de amortiguamiento. Incrementar en un 50% las actividades de ecoturismo sostenible y educación ambiental en los Pantanos de Villa.",
+            "indicator": "Porcentaje de reducción de la contaminación ambiental en zonas de influencia; nivel de recuperación y reforestación de áreas degradadas; porcentaje de incremento de actividades de ecoturismo."
+          },
+          {
+            "problem": "Déficit de áreas verdes, escasa cultura ambiental, limitada participación ciudadana en la protección del medio ambiente y contaminación de espacios públicos.",
+            "objective": "Convertir a Chorrillos en un distrito ecológico, sostenible y resiliente al cambio climático, promoviendo la conservación de los recursos naturales, la educación ambiental y la economía circular.",
+            "goal": "Incrementar en un 30% las áreas verdes del distrito. Plantar y mantener al menos 50,000 árboles en todo el territorio distrital. Reducir en un 40% los residuos sólidos que llegan a disposición final mediante programas de segregación y reciclaje.",
+            "indicator": "Porcentaje de incremento de áreas verdes; cantidad de árboles plantados; porcentaje de reducción de residuos sólidos en disposición final."
+          },
+          {
+            "problem": "El crecimiento urbano desordenado, la expansión informal y la insuficiente planificación territorial generan déficit de servicios básicos, inseguridad jurídica sobre la propiedad y ocupación de zonas de riesgo.",
+            "objective": "Promover un desarrollo urbano ordenado, sostenible e inclusivo que garantice el acceso a servicios básicos de calidad, vivienda digna, seguridad jurídica sobre la propiedad y protección del medio ambiente.",
+            "goal": "Actualizar y poner en ejecución los principales instrumentos de planificación urbana y territorial del distrito. Incrementar progresivamente la cobertura de servicios básicos en las zonas con mayores necesidades. Impulsar programas de formalización y saneamiento físico-legal.",
+            "indicator": "Estado de actualización de los instrumentos de planificación urbana; cobertura de servicios básicos; número de familias beneficiadas con programas de formalización y saneamiento físico-legal."
+          },
+          {
+            "problem": "Congestión vehicular, deficiencias en la infraestructura vial, insuficiente conectividad urbana, escasez de ciclovías seguras y limitadas condiciones de accesibilidad para personas con discapacidad.",
+            "objective": "Mejorar la infraestructura vial y la movilidad urbana mediante la implementación de soluciones integrales de transporte, accesibilidad y seguridad vial.",
+            "goal": "Reducir progresivamente la congestión vehicular en las principales vías del distrito. Incrementar la accesibilidad peatonal y universal en espacios públicos. Modernizar la red de señalización y semaforización distrital.",
+            "indicator": "Nivel de congestión vehicular en las principales vías; grado de accesibilidad peatonal y universal; extensión de la red de señalización y semaforización."
+          },
+          {
+            "problem": "Déficit de áreas verdes, escasa cultura ambiental, contaminación de espacios públicos y efectos crecientes del cambio climático que afectan la calidad de vida de los vecinos.",
+            "objective": "Convertir a Chorrillos en un distrito ecológico, sostenible y resiliente al cambio climático, promoviendo la conservación de los recursos naturales, la educación ambiental y la economía circular.",
+            "goal": "Incrementar en un 30% las áreas verdes del distrito y reducir en un 40% los residuos sólidos que llegan a disposición final mediante programas de segregación y reciclaje.",
+            "indicator": "Porcentaje de incremento de áreas verdes y porcentaje de reducción de residuos sólidos en disposición final."
+          },
+          {
+            "problem": "Contaminación ambiental por arrojo de desmontes, residuos sólidos, vertimientos ilegales y ocupación informal en las zonas de amortiguamiento de los Pantanos de Villa, afectando la biodiversidad.",
+            "objective": "Reducir la contaminación ambiental y fortalecer la protección, conservación y recuperación de los Pantanos de Villa mediante acciones de educación ambiental, fiscalización, monitoreo y participación ciudadana.",
+            "goal": "Reducir en un 80% la contaminación ambiental en las zonas de influencia de los Pantanos de Villa.",
+            "indicator": "Porcentaje de reducción de la contaminación ambiental en las zonas de influencia de los Pantanos de Villa."
+          },
+          {
+            "problem": "La congestión vehicular, las deficiencias en la infraestructura vial, la insuficiente conectividad urbana y la escasez de ciclovías seguras limitan la movilidad y la accesibilidad, especialmente para personas con discapacidad.",
+            "objective": "Mejorar la infraestructura vial y la movilidad urbana mediante la implementación de soluciones integrales de transporte, accesibilidad y seguridad vial.",
+            "goal": "Reducir progresivamente la congestión vehicular en las vías principales, incrementar la accesibilidad peatonal universal, mejorar la conectividad vial y modernizar la red de señalización y semaforización distrital.",
+            "indicator": "Nivel de congestión vehicular y kilómetros de ciclovías seguras implementadas."
+          },
+          {
+            "problem": "El crecimiento urbano desordenado y la expansión informal generan un déficit de servicios básicos, inseguridad jurídica sobre la propiedad, ocupación de zonas de riesgo y un deterioro progresivo de la calidad de vida de la población.",
+            "objective": "Promover un desarrollo urbano ordenado, sostenible e inclusivo que garantice el acceso a servicios básicos de calidad, vivienda digna, seguridad jurídica sobre la propiedad y la protección del medio ambiente.",
+            "goal": "Actualizar y ejecutar los instrumentos de planificación urbana, incrementar la cobertura de servicios básicos en zonas con mayores necesidades e impulsar programas de formalización y saneamiento físico-legal.",
+            "indicator": "Porcentaje de la población con acceso a servicios básicos y número de familias beneficiadas con programas de saneamiento físico-legal."
+          },
+          {
+            "problem": "La contaminación ambiental por arrojo de desmontes, residuos sólidos y vertimientos ilegales, así como la ocupación informal, afectan la biodiversidad y el equilibrio ecológico del humedal de los Pantanos de Villa.",
+            "objective": "Reducir la contaminación ambiental y fortalecer la protección, conservación y recuperación de los Pantanos de Villa mediante acciones de educación ambiental, fiscalización, monitoreo y participación ciudadana.",
+            "goal": "Reducir en un 80% la contaminación ambiental en la zona de influencia de los Pantanos de Villa, recuperar y reforestar las áreas degradadas, e incrementar en un 50% las actividades de ecoturismo sostenible.",
+            "indicator": "Índice de calidad ambiental en las zonas de influencia del humedal y porcentaje de áreas degradadas recuperadas."
+          },
+          {
+            "problem": "Congestión vehicular, deficiencias en la infraestructura vial, insuficiente conectividad urbana, escasez de ciclovías seguras y limitadas condiciones de accesibilidad para personas con discapacidad.",
+            "objective": "Mejorar la infraestructura vial y la movilidad urbana mediante la implementación de soluciones integrales de transporte, accesibilidad y seguridad vial.",
+            "goal": "Reducir progresivamente la congestión vehicular en las principales vías del distrito e incrementar la accesibilidad peatonal y universal en espacios públicos.",
+            "indicator": "Nivel de congestión vehicular en las principales vías y nivel de accesibilidad peatonal y universal."
+          },
+          {
+            "problem": "Ampliación de predios sobre áreas intangibles del Morro Solar y zonas arqueológicas, sumado al descuido, contaminación ambiental y escasa promoción turística y cultural.",
+            "objective": "Recuperar, proteger y poner en valor el patrimonio arqueológico, histórico, cultural y paisajístico del Morro Solar y las zonas arqueológicas del distrito, fortaleciendo la identidad cultural.",
+            "goal": "Garantizar la protección y conservación del 100% del patrimonio arqueológico e histórico del distrito y reducir en un 100% las invasiones y ocupaciones ilegales en áreas arqueológicas e intangibles.",
+            "indicator": "Porcentaje de patrimonio arqueológico e histórico protegido y conservado."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La ciudadanía enfrenta trámites burocráticos, demoras en la atención, falta de acceso oportuno a la información pública y una escasa utilización de herramientas tecnológicas en la gestión de servicios municipales.",
+            "objective": "Modernizar la municipalidad mediante la transformación digital de los servicios, garantizando una atención rápida, transparente, eficiente y accesible para todos los ciudadanos.",
+            "goal": "Digitalizar el 100% de los trámites municipales prioritarios, reducir en un 70% los tiempos de atención y lograr que el 80% de los vecinos utilice servicios municipales digitales.",
+            "indicator": "Porcentaje de trámites municipales digitalizados y reducción del tiempo promedio de atención al ciudadano."
+          },
+          {
+            "problem": "El personal municipal presenta limitaciones en su capacitación y actualización profesional, y los procesos internos requieren ser optimizados para garantizar una atención eficiente y oportuna al ciudadano.",
+            "objective": "Contar con personal municipal altamente calificado y con procesos ágiles y eficientes que faciliten una atención de calidad al ciudadano.",
+            "goal": "Lograr que el 100% del personal municipal cumpla con los perfiles, competencias y requisitos exigidos para el desempeño de sus funciones.",
+            "indicator": "Porcentaje del personal municipal que cumple con los perfiles y competencias requeridos para sus funciones."
+          },
+          {
+            "problem": "Limitado acceso de la población a la información sobre la gestión municipal, la ejecución presupuestal y el avance de las obras públicas, generando desconfianza y reducida participación ciudadana.",
+            "objective": "Garantizar una gestión municipal transparente, participativa y accesible, promoviendo el control ciudadano y el acceso oportuno a la información pública.",
+            "goal": "Transparentar el 100% de la ejecución presupuestal y de los proyectos municipales. Lograr que el 80% de los vecinos conozca y utilice los mecanismos de acceso a la información pública. Incrementar en un 50% la participación ciudadana en los procesos de presupuesto participativo.",
+            "indicator": "Porcentaje de la ejecución presupuestal transparentada. Porcentaje de vecinos que conocen y utilizan los mecanismos de acceso a la información pública. Porcentaje de incremento de la participación ciudadana."
+          },
+          {
+            "problem": "Existencia de trámites burocráticos, demoras en la atención municipal, falta de acceso oportuno a la información pública y escasa utilización de herramientas tecnológicas para la gestión de servicios municipales.",
+            "objective": "Modernizar la Municipalidad de Chorrillos mediante la transformación digital de los servicios municipales, garantizando una atención rápida, transparente, eficiente y accesible para todos los ciudadanos.",
+            "goal": "Digitalizar el 100% de los trámites municipales prioritarios. Reducir en un 70% los tiempos de atención al ciudadano. Alcanzar que el 80% de los vecinos utilice servicios municipales digitales.",
+            "indicator": "Porcentaje de trámites municipales prioritarios digitalizados. Porcentaje de reducción en los tiempos de atención al ciudadano. Porcentaje de vecinos que utilizan servicios municipales digitales."
+          },
+          {
+            "problem": "El personal municipal presenta limitaciones en capacitación y actualización profesional, y los procesos internos requieren ser optimizados para garantizar una atención eficiente y oportuna.",
+            "objective": "Contar con personal municipal altamente calificado y con procesos ágiles y eficientes que faciliten una atención de calidad al ciudadano.",
+            "goal": "Lograr que el 100 % del personal municipal cumpla con los perfiles, competencias y requisitos exigidos para el desempeño de sus funciones.",
+            "indicator": "Porcentaje del personal municipal que cumple con los perfiles, competencias y requisitos exigidos para el desempeño de sus funciones."
+          },
+          {
+            "problem": "Limitado conocimiento por parte de los vecinos respecto de las funciones del Alcalde, los Regidores y los funcionarios municipales, así como de los acuerdos y decisiones adoptadas durante las sesiones del Concejo Municipal.",
+            "objective": "Garantizar la transparencia, el acceso a la información pública y la participación ciudadana mediante la difusión permanente de las actividades municipales y el fortalecimiento de los canales de comunicación directa.",
+            "goal": "Lograr que el 100% de las sesiones de Concejo Municipal sean transmitidas y archivadas digitalmente para libre acceso ciudadano. Alcanzar que el 80% de los vecinos conozca las funciones del Alcalde, Regidores y órganos municipales. Incrementar en un 50% la participación ciudadana en consultas, audiencias y mecanismos de participación vecinal.",
+            "indicator": "Porcentaje de sesiones del Concejo Municipal transmitidas y archivadas digitalmente; porcentaje de vecinos que conocen las funciones de las autoridades municipales; nivel de participación ciudadana en consultas y audiencias."
+          },
+          {
+            "problem": "Limitado acceso de la población a la información sobre la gestión municipal, la ejecución presupuestal y el avance de las obras públicas, lo que genera desconfianza y reduce la participación ciudadana.",
+            "objective": "Garantizar una gestión municipal transparente, participativa y accesible, promoviendo el control ciudadano y el acceso oportuno a la información pública.",
+            "goal": "Transparentar el 100% de la ejecución presupuestal y de los proyectos municipales. Lograr que el 80% de los vecinos conozca y utilice los mecanismos de acceso a la información pública. Incrementar en un 50% la participación ciudadana en los procesos de presupuesto participativo.",
+            "indicator": "Porcentaje de transparencia de la ejecución presupuestal; porcentaje de vecinos que conocen y utilizan mecanismos de acceso a la información pública; incremento de la participación ciudadana en presupuesto participativo."
+          },
+          {
+            "problem": "Los vecinos enfrentan trámites burocráticos, demoras en la atención municipal, falta de acceso oportuno a la información pública y escasa utilización de herramientas tecnológicas para la gestión de servicios municipales.",
+            "objective": "Modernizar la Municipalidad de Chorrillos mediante la transformación digital de los servicios municipales, garantizando una atención rápida, transparente, eficiente y accesible para todos los ciudadanos.",
+            "goal": "Digitalizar el 100% de los trámites municipales prioritarios. Reducir en 70% los tiempos de atención al ciudadano. Alcanzar que el 80% de los vecinos utilice servicios municipales digitales.",
+            "indicator": "Porcentaje de trámites municipales prioritarios digitalizados; porcentaje de reducción en los tiempos de atención al ciudadano; porcentaje de vecinos que utilizan servicios municipales digitales."
+          },
+          {
+            "problem": "El limitado acceso de la población a la información sobre la gestión municipal, la ejecución presupuestal y el avance de las obras públicas genera desconfianza y reduce la participación ciudadana en la toma de decisiones.",
+            "objective": "Garantizar una gestión municipal transparente, participativa y accesible, promoviendo el control ciudadano y el acceso oportuno a la información pública.",
+            "goal": "Transparentar el 100% de la ejecución presupuestal, lograr que el 80% de los vecinos conozca y utilice los mecanismos de acceso a la información, e incrementar en un 50% la participación ciudadana en el presupuesto participativo.",
+            "indicator": "Nivel de transparencia en la ejecución presupuestal y porcentaje de incremento en la participación ciudadana en procesos participativos."
+          },
+          {
+            "problem": "Limitado conocimiento de los vecinos sobre las funciones y decisiones del Concejo Municipal, lo que genera una menor participación ciudadana y limita los mecanismos de control vecinal sobre la gestión pública.",
+            "objective": "Garantizar la transparencia, el acceso a la información pública y la participación ciudadana mediante la difusión permanente de las actividades municipales y el fortalecimiento de los canales de comunicación.",
+            "goal": "Lograr que el 100% de las sesiones de Concejo Municipal sean transmitidas y archivadas digitalmente para libre acceso ciudadano, y alcanzar que el 80% de los vecinos conozca las funciones del Alcalde, Regidores y órganos municipales.",
+            "indicator": "Porcentaje de sesiones del Concejo Municipal transmitidas y archivadas digitalmente."
+          },
+          {
+            "problem": "Limitado acceso de la población a la información sobre la gestión municipal, la ejecución presupuestal y el avance de las obras públicas, lo que genera desconfianza y reduce la participación ciudadana.",
+            "objective": "Garantizar una gestión municipal transparente, participativa y accesible, promoviendo el control ciudadano y el acceso oportuno a la información pública.",
+            "goal": "Transparentar el 100% de la ejecución presupuestal y de los proyectos municipales, y lograr que el 80% de los vecinos conozca y utilice los mecanismos de acceso a la información pública.",
+            "indicator": "Porcentaje de la ejecución presupuestal y de proyectos municipales transparentada."
+          },
+          {
+            "problem": "Existencia de trámites burocráticos, demoras en la atención municipal, falta de acceso oportuno a la información pública y escasa utilización de herramientas tecnológicas para la gestión de servicios municipales.",
+            "objective": "Modernizar la Municipalidad de Chorrillos mediante la transformación digital de los servicios municipales, garantizando una atención rápida, transparente, eficiente y accesible para todos los ciudadanos.",
+            "goal": "Digitalizar el 100% de los trámites municipales prioritarios y reducir en 70% los tiempos de atención al ciudadano.",
+            "indicator": "Porcentaje de trámites municipales prioritarios digitalizados."
+          },
+          {
+            "problem": "El personal municipal presenta limitaciones en capacitación y actualización profesional para atender adecuadamente los requerimientos de los ciudadanos, y los procesos internos requieren ser optimizados.",
+            "objective": "Contar con personal municipal altamente calificado y con procesos ágiles y eficientes que faciliten una atención de calidad al ciudadano.",
+            "goal": "Lograr que el 100 % del personal municipal cumpla con los perfiles, competencias y requisitos exigidos para el desempeño de sus funciones.",
+            "indicator": "Porcentaje del personal municipal que cumple con los perfiles, competencias y requisitos exigidos."
+          },
+          {
+            "problem": "El personal municipal presenta limitaciones en capacitación y actualización profesional para atender adecuadamente los requerimientos de los ciudadanos, y los procesos internos requieren ser optimizados.",
+            "objective": "Contar con personal municipal altamente calificado y con procesos ágiles y eficientes que faciliten una atención de calidad al ciudadano.",
+            "goal": "Lograr que el 100% del personal municipal cumpla con los perfiles, competencias y requisitos exigidos para el desempeño de sus funciones.",
+            "indicator": "Porcentaje del personal municipal que cumple con los perfiles, competencias y requisitos exigidos para el desempeño de sus funciones."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-2sZJ_B6_-BC7n6FRkq-jpxaOkGi-xVuW",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/2sZJ_B6_-BC7n6FRkq-jpxaOkGi-xVuW",
+      "sha256": "85a5b1d4b03a1d74681817d41bc1f6c19b2e40c7247cd8257afa9b8cb22dbe8e",
+      "accessedAt": "2026-10-02T22:54:00.281Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012883",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012883",
+      "sha256": "d49fc48df295efb455a9e25f684fa8427cf13a3a8c83511a55a696b7e36997c7",
+      "accessedAt": "2026-10-02T22:54:00.863Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

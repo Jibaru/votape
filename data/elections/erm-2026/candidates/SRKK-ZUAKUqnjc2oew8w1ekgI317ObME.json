@@ -1,0 +1,271 @@
+{
+  "id": "SRKK-ZUAKUqnjc2oew8w1ekgI317ObME",
+  "slug": "daniel-ricardo-li-leon",
+  "electionId": "erm-2026",
+  "name": "Daniel Ricardo Li Leon",
+  "givenNames": "Daniel Ricardo",
+  "surnames": "Li Leon",
+  "age": 54,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:15.688Z",
+      "sourceId": "jne-hv-SRKK-ZUAKUqnjc2oew8w1ekgI317ObME"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "DULCERIA Y PARRILLAS LI EIRL",
+      "role": "COCINERO",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE JESÚS MARÍA",
+      "role": "REGIDOR DISTRITAL",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU PATRIA SEGURA",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "JESUS MARIA SIEMPRE",
+      "year": "2011"
+    },
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 13560,
+        "public": 0,
+        "private": 13560
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA NISSAN",
+        "value": 20000
+      },
+      {
+        "type": "CAMIONETA KIA",
+        "value": 20000
+      },
+      {
+        "type": "SUBARU IMPREZA - AUTO",
+        "value": 15000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5216f2e7-29ef-4a4d-9a36-546cc85a915a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1dd795e0-ba5a-4dab-838f-1f9f51605bd8.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura educativa en malas condiciones.",
+            "objective": "Gestionar la mejora de la infraestructura educativa pública mediante convenios, cooperación internacional y obras por impuestos, en coordinación con MINEDU-UGEL 03.",
+            "goal": "Mejorar el 40% de las instituciones educativas al 2030.",
+            "indicator": "% de instituciones educativas mejoradas"
+          },
+          {
+            "problem": "Número insuficiente de serenos y escasa capacitación del personal.",
+            "objective": "Incrementar el número total de serenos y capacitarlos en intervención preventiva, resolución de conflictos y atención al vecino.",
+            "goal": "Incrementar en un 50% el número de serenos y realizar 3 capacitaciones anuales al 2030.",
+            "indicator": "% de incremento y número de capacitaciones anuales."
+          },
+          {
+            "problem": "Incremento de los índices de inseguridad ciudadana en el distrito.",
+            "objective": "Reducir los niveles de inseguridad en el distrito.",
+            "goal": "Reducción de los índices de inseguridad en un 45% al 2030.",
+            "indicator": "% de reducción"
+          },
+          {
+            "problem": "Problemas de aprendizaje en estudiantes de nivel escolar primario y secundario.",
+            "objective": "Implementar programas municipales de refuerzo académico en comprensión lectora y razonamiento lógico-matemático para el nivel de educación primaria y secundaria.",
+            "goal": "Implementar 4 programas de refuerzo académico al 2030.",
+            "indicator": "Número de programas implementados en 4 años"
+          },
+          {
+            "problem": "Persistencia de casos de niños menores de 5 años con desnutrición y anemia.",
+            "objective": "Implementar programas integrales de prevención, control y seguimiento nutricional en niños, trabajando con familias, colegios y centros de salud para erradicar la anemia y la desnutrición.",
+            "goal": "Reducir en un 100% la desnutrición y anemia en 4 años al 2030.",
+            "indicator": "% de reducción de desnutrición y anemia en 4 años"
+          },
+          {
+            "problem": "El 14% de la población local no cuenta con ningún tipo de seguro de salud.",
+            "objective": "Impulsar que más vecinos cuenten con seguro de salud y fortalecer la articulación con los servicios públicos para mejorar el acceso a la atención primaria.",
+            "goal": "Incorporar al 50% de los vecinos sin seguro a algún tipo de aseguramiento de salud al 2030.",
+            "indicator": "% de vecinos incorporados a algún tipo de aseguramiento de salud en 4 años"
+          },
+          {
+            "problem": "Insuficiente atención médica integral a personas vulnerables del distrito.",
+            "objective": "Fortalecer el CIAM y la OMAPED para brindar atención integral, identificando al 100% de la población y desarrollando programas específicos para mejorar su calidad de vida.",
+            "goal": "Fortalecer 2 oficinas municipales en 4 años al 2030.",
+            "indicator": "Número de oficinas municipales fortalecidas en 4 años"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado y poco sostenible.",
+            "objective": "Implementar un Plan de Desarrollo Urbano Distrital para Jesús María para mejorar la calidad de vida y equilibrar crecimiento y servicios.",
+            "goal": "Implementar 1 plan de desarrollo urbano en 4 años al 2030.",
+            "indicator": "Número de planes de desarrollo urbano implementados en 4 años"
+          },
+          {
+            "problem": "Grupos de emprendedores aún en el ámbito de la informalidad.",
+            "objective": "Implementar programas de formalización y capacitación en gestión de negocios, herramientas digitales y acceso a mercados.",
+            "goal": "Formalizar al 50% de los emprendedores al 2030.",
+            "indicator": "% de emprendedores formalizados"
+          },
+          {
+            "problem": "Incremento desmedido del comercio ambulatorio.",
+            "objective": "Recuperar el orden en el espacio público regulando el comercio informal y promoviendo su integración progresiva a la formalidad.",
+            "goal": "Regular el 100% del comercio informal, promoviendo su integración a la formalidad en 4 años al 2030.",
+            "indicator": "% de comercio informal regulado promoviendo su integración progresiva a la formalidad en 4 años"
+          },
+          {
+            "problem": "Niveles de desempleo y empleo informal en el distrito.",
+            "objective": "Promover alianzas con el sector público y privado para generar empleo local, impulsar ferias laborales y fortalecer la empleabilidad de los vecinos.",
+            "goal": "Reducir en un 40% el desempleo y empleo informal en 4 años al 2030.",
+            "indicator": "% de desempleo y empleo informal reducido en 4 años"
+          },
+          {
+            "problem": "Poco impulso a los emprendedores y micro y pequeños empresarios.",
+            "objective": "Desarrollar programas de capacitación y ferias distritales descentralizadas dirigidas exclusivamente a los jesusmarianos.",
+            "goal": "Implementar 16 programas de capacitación y ferias distritales en 4 años al 2030.",
+            "indicator": "Número de programas de capacitación y ferias distritales implementadas en 4 años"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Bajos niveles de participación ciudadana en la gestión ambiental.",
+            "objective": "Incrementar los niveles de participación ciudadana en la gestión y cuidado del medio ambiente.",
+            "goal": "Lograr que el 50% de los vecinos participen activamente en la gestión ambiental al 2030.",
+            "indicator": "% de vecinos que participan activamente de la gestión y el cuidado del medio ambiente en 4 años"
+          },
+          {
+            "problem": "Altos niveles de contaminación visual, sonora y ambiental.",
+            "objective": "Reducir los niveles de contaminación visual, sonora y ambiental.",
+            "goal": "Implementar 20 normas, operativos y acciones de fiscalización en 4 años al 2030.",
+            "indicator": "Número de normas regulatorias, operativos y acciones de fiscalización implementadas en 4 años"
+          },
+          {
+            "problem": "Deficiente cuidado y gestión de los espacios verdes.",
+            "objective": "Implementar el programa corredores verdes, realizar un inventario de áreas verdes y cambiar el concepto de área verde por el de 'espacios verdes'.",
+            "goal": "Implementar 2 programas y realizar inventarios en 4 años al 2030.",
+            "indicator": "Número de programas implementados e inventarios realizados en 4 años"
+          },
+          {
+            "problem": "Equipos insuficientes y falta de maquinaria y tecnología para el servicio de limpieza pública.",
+            "objective": "Compra de nuevos equipos para el servicio de limpieza pública.",
+            "goal": "Adquirir 30 nuevos equipos en 4 años al 2030.",
+            "indicator": "Número de equipos adquiridos en 4 años"
+          },
+          {
+            "problem": "Alta presencia de animales en situación de abandono en espacios públicos, generando sobrepoblación y riesgos sanitarios.",
+            "objective": "Implementar un programa integral de gestión de animales urbanos que reduzca la sobrepoblación, promueva la tenencia responsable y minimice los riesgos sanitarios y ambientales en el distrito.",
+            "goal": "Reducción del 50% de la población de animales en abandono y esterilización de al menos el 70% de la población identificada en riesgo al 2030.",
+            "indicator": "% de reducción de animales en situación de abandono. Número de animales esterilizados anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Exceso de trámites, procesos burocráticos y tiempos de atención elevados.",
+            "objective": "Simplificar y digitalizar los procedimientos administrativos para mejorar la eficiencia.",
+            "goal": "Digitalizar el 80% de los trámites, reducir el 50% en tiempos de atención y optimizar el 100% del TUPA al 2030.",
+            "indicator": "% de trámites digitalizados, tiempo promedio de atención y número de procedimientos simplificados (TUPA)."
+          },
+          {
+            "problem": "Comunicación institucional ineficiente, unidireccional y poco transparente.",
+            "objective": "Implementar una política de comunicación moderna, bidireccional y en tiempo real.",
+            "goal": "Alcanzar el 70% de satisfacción ciudadana, responder el 95% de consultas y tener el 100% de canales activos y regulados al 2030.",
+            "indicator": "Nivel de satisfacción ciudadana en comunicación, % de consultas respondidas y alcance de canales digitales."
+          },
+          {
+            "problem": "Baja calidad en la atención al vecino y limitada orientación al ciudadano.",
+            "objective": "Colocar al vecino como eje central de la gestión municipal.",
+            "goal": "Lograr el 80% de satisfacción ciudadana, atender el 90% de reclamos en plazo y reducir el 60% de quejas al 2030.",
+            "indicator": "Índice de satisfacción del usuario, tiempo de respuesta a reclamos y número de quejas resueltas."
+          },
+          {
+            "problem": "Débil desarrollo de capacidades del personal y ausencia de meritocracia consolidada.",
+            "objective": "Fortalecer la gestión del talento humano basada en meritocracia y desempeño.",
+            "goal": "Capacitar anualmente al 100% del personal, evaluar al 100% por desempeño e implementar programas permanentes de formación al 2030.",
+            "indicator": "% de personal capacitado, evaluaciones de desempeño realizadas y número de programas de formación."
+          },
+          {
+            "problem": "Desconfianza ciudadana y limitada participación en la gestión municipal.",
+            "objective": "Fortalecer la transparencia, la participación y la rendición de cuentas.",
+            "goal": "Incrementar en un 40% la confianza ciudadana, activar el 100% de mecanismos participativos y realizar rendiciones de cuentas semestrales al 2030.",
+            "indicator": "Índice de confianza ciudadana, número de mecanismos participativos activos y número de rendiciones de cuentas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-SRKK-ZUAKUqnjc2oew8w1ekgI317ObME",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/SRKK-ZUAKUqnjc2oew8w1ekgI317ObME",
+      "sha256": "1c33a1797b17a1febe3cce776b6c24748a049e058e034943873356b620cae4ea",
+      "accessedAt": "2026-10-02T22:57:15.688Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016226",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016226",
+      "sha256": "69afe3a362a1d1d32f4a6fd21c87f98536789726cba88796d94e39f707d4da2c",
+      "accessedAt": "2026-10-02T22:57:16.367Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

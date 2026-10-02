@@ -1,0 +1,359 @@
+{
+  "id": "OW2qx8hBi0zopBZMDOl2LWNLHaHwNJ7J",
+  "slug": "luis-fernando-bueno-quino",
+  "electionId": "erm-2026",
+  "name": "Luis Fernando Bueno Quino",
+  "givenNames": "Luis Fernando",
+  "surnames": "Bueno Quino",
+  "age": 66,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140112",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:09.383Z",
+      "sourceId": "jne-hv-OW2qx8hBi0zopBZMDOl2LWNLHaHwNJ7J"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNE - ENRIQUE GUZMAN Y VALLE",
+        "program": "NINGUNA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIGANCHO",
+      "role": "ALCALDE",
+      "from": "2003",
+      "to": "2018"
+    },
+    {
+      "employer": "CONGRESO DE LA REPUBLICA",
+      "role": "CONGRESISTA",
+      "from": "2000",
+      "to": "2001"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIGANCHO",
+      "role": "ALCALDE",
+      "from": "1993",
+      "to": "2000"
+    },
+    {
+      "employer": "CAMARA DE DIPUTADOS",
+      "role": "DIPUTADO DE LA NACIÓN",
+      "from": "1990",
+      "to": "1992"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "CAMBIO RADICAL",
+      "from": "2011",
+      "to": "2014"
+    },
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "SOLIDARIDAD NACIONAL",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO GENERAL DEPARTAMENTO APURIMAC",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "1988",
+      "to": "1990"
+    },
+    {
+      "position": "SECRETARIO GENERAL DISTRITAL DE LURIGANCHO",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "1984",
+      "to": "1986"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 61800,
+        "public": 0,
+        "private": 61800
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 311119.01,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 20699.25,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "VIVIENDA",
+        "value": 66927.42,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "DEPARTAMENTO",
+        "value": 0,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "DEPARTAMENTO",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MAZDA CX30 AUTOMOVIL",
+        "value": 60000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/45beffa0-d62d-4364-a60e-cbbd70748573.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/70c62319-dddd-4a24-8614-d0877bc74c3d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de jóvenes que no estudian ni trabajan",
+            "objective": "Programa integral de empleabilidad y capacitación juvenil Centros juveniles de innovación y emprendimiento Programas de primer empleo y bolsa laboral juvenil",
+            "goal": "15,000 jóvenes capacitados 6 centros territoriales 8,000 jóvenes colocados",
+            "indicator": "Jóvenes capacitados técnica y laboralmente Centros juveniles implementados Jóvenes insertados laboralmente"
+          },
+          {
+            "problem": "Deterioro del tejido social y limitada convivencia comunitaria",
+            "objective": "Recuperación de espacios públicos y programas comunitarios Programas culturales y deportivos barriales Escuelas de liderazgo vecinal y convivencia ciudadana",
+            "goal": "100 espacios intervenidos 500 actividades anuales 10,000 ciudadanos capacitados",
+            "indicator": "Espacios comunitarios recuperados Actividades comunitarias ejecutadas por año Dirigentes y vecinos capacitados"
+          },
+          {
+            "problem": "Débil inclusión de personas con discapacidad",
+            "objective": "Programa distrital de accesibilidad e inclusión Bolsa laboral inclusiva y capacitación especializada Fortalecimiento de OMAPED y servicios especializados",
+            "goal": "120 espacios adecuados 2,500 beneficiarios 15,000 atenciones anuales",
+            "indicator": "Espacios públicos accesibles implementados Personas con discapacidad insertadas laboralmente Personas atendidas por OMAPED"
+          },
+          {
+            "problem": "Débil promoción de cultura y deporte como herramientas de prevención social",
+            "objective": "Construcción y modernización de infraestructura cultural y deportiva Escuelas deportivas y culturales gratuitas Festivales culturales y recuperación de identidad territorial",
+            "goal": "30 espacios modernizados 35,000 beneficiarios 60 eventos anuales",
+            "indicator": "Complejos deportivos y culturales mejorados Niños y jóvenes participantes Eventos culturales distritales realizados"
+          },
+          {
+            "problem": "Brechas educativas y limitada formación complementaria para niños y jóvenes",
+            "objective": "Programa municipal de reforzamiento educativo y habilidades digitales Implementación de bibliotecas y centros digitales comunitarios Escuelas municipales deportivas, artísticas y tecnológicas",
+            "goal": "25,000 estudiantes atendidos 10 centros implementados 150 talleres anuales",
+            "indicator": "Estudiantes beneficiados Centros educativos y digitales implementados Talleres permanentes implementados"
+          },
+          {
+            "problem": "Insuficiente atención a personas adultas mayores y población vulnerable",
+            "objective": "Centros integrales de atención al adulto mayor Programas de acompañamiento y atención domiciliaria Servicios de orientación y asistencia social integral",
+            "goal": "6 centros descentralizados 12,000 beneficiarios 40,000 atenciones anuales",
+            "indicator": "Centros implementados y fortalecidos Adultos mayores beneficiados Personas vulnerables atendidas"
+          },
+          {
+            "problem": "Violencia familiar, inseguridad social y vulnerabilidad juvenil",
+            "objective": "Programas municipales de prevención de violencia y fortalecimiento familiar Centros de orientación familiar y psicológica Programas comunitarios de prevención social juvenil",
+            "goal": "300 campañas ejecutadas 25,000 atenciones 20,000 jóvenes beneficiados",
+            "indicator": "Campañas y talleres preventivos realizados Personas atendidas en orientación social Jóvenes incorporados a programas preventivos"
+          },
+          {
+            "problem": "Débil acceso a servicios de salud preventiva y atención primaria en zonas periféricas",
+            "objective": "Implementación de programas municipales de salud preventiva y comunitaria Fortalecimiento de atención descentralizada en coordinación con MINSA Programas de nutrición, salud mental y prevención de enfermedades",
+            "goal": "120 campañas ejecutadas 06 ambulancias 12 puntos operativos 80,000 beneficiarios",
+            "indicator": "Campañas integrales de salud realizadas; e implementación de ambulancias Centros y puntos municipales de atención preventiva implementados Personas beneficiadas en programas preventivos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil integración económica de Huachipa y corredor industrial",
+            "objective": "Mesas de articulación público–privada Programas de capacitación logística e industrial Mejoramiento de infraestructura vial económica",
+            "goal": "1 sistema permanente implementado 8,000 beneficiarios 35 km intervenidos",
+            "indicator": "Mesas permanentes funcionando Personas capacitadas para empleo industrial Kilómetros de vías mejoradas en corredor industrial"
+          },
+          {
+            "problem": "Baja generación de empleo formal y limitadas oportunidades para jóvenes",
+            "objective": "Creación de centros de empleabilidad juvenil Bolsa laboral distrital articulada con empresas Programas de primer empleo y formación técnica",
+            "goal": "6 centros operativos 150 convenios firmados 10,000 jóvenes beneficiados",
+            "indicator": "Centros de empleabilidad implementados Convenios laborales firmados con empresas Jóvenes insertados laboralmente"
+          },
+          {
+            "problem": "Alta informalidad económica y precariedad del empleo",
+            "objective": "Programa integral de formalización y fortalecimiento empresarial Creación de centros municipales de desarrollo empresarial Capacitación técnica y digital gratuita",
+            "goal": "8,000 emprendedores formalizados 6 centros descentralizados 20,000 vecinos capacitados",
+            "indicator": "Número de emprendedores formalizados Centros de desarrollo empresarial implementados Personas capacitadas en gestión y herramientas digitales"
+          },
+          {
+            "problem": "Desaprovechamiento del potencial turístico y recreativo",
+            "objective": "Implementación del plan integral turístico distrital Recuperación de corredores y espacios turísticos Promoción de festivales y marca territorial",
+            "goal": "5 circuitos turísticos consolidados 15 espacios intervenidos 20 eventos anuales",
+            "indicator": "Circuitos turísticos implementados Espacios turísticos recuperados Eventos turísticos y culturales realizados por año"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crecimiento urbano y expansión informal",
+            "objective": "Actualización del plan urbano distrital Catastro digital y control territorial Mejoramiento integral de barrios",
+            "goal": "1 plan integral aprobado 90% del territorio urbano catastrado 50 barrios mejorados",
+            "indicator": "Plan urbano aprobado y actualizado Predios incorporados al catastro digital Barrios intervenidos integralmente"
+          },
+          {
+            "problem": "Débil planificación urbana y obsolescencia de la zonificación",
+            "objective": "Actualización de zonificación y usos de suelo Fiscalización de usos incompatibles Planes urbanos específicos por zona",
+            "goal": "1 instrumento actualizado 3,000 fiscalizaciones anuales 6 planes territoriales",
+            "indicator": "Nuevo plan de zonificación aprobado Operativos y fiscalizaciones ejecutadas Planes urbanos zonales implementados"
+          },
+          {
+            "problem": "Débil gestión de residuos sólidos y contaminación urbana",
+            "objective": "Modernización del sistema de limpieza pública Programas de reciclaje y segregación Recuperación de puntos críticos de contaminación",
+            "goal": "100% cobertura urbana 40,000 hogares 150 puntos intervenidos",
+            "indicator": "Cobertura de limpieza pública Hogares incorporados al reciclaje Puntos críticos recuperados"
+          },
+          {
+            "problem": "Contaminación y deterioro ambiental del río Rímac",
+            "objective": "Recuperación integral de franjas ribereñas Reforestación y recuperación paisajística Creación de malecones ecológicos",
+            "goal": "18 km recuperados 120,000 árboles sembrados 4 malecones ecológicos",
+            "indicator": "Kilómetros de ribera recuperados Árboles plantados Malecones implementados"
+          },
+          {
+            "problem": "Grave congestión vehicular y débil conectividad territorial",
+            "objective": "Plan integral de movilidad urbana Semaforización inteligente Recuperación y ampliación vial",
+            "goal": "1 plan integral operativo 52 intersecciones inteligentes 120 km de vías mejoradas",
+            "indicator": "Plan implementado Intersecciones modernizadas Kilómetros de vías rehabilitadas"
+          },
+          {
+            "problem": "Déficit de renovación urbana y deterioro de zonas consolidadas",
+            "objective": "Programa de renovación urbana y revitalización Recuperación de fachadas y espacios tradicionales Ordenamiento del comercio y recuperación peatonal",
+            "goal": "10 corredores intervenidos 1,000 fachadas mejoradas 20 zonas recuperadas",
+            "indicator": "Corredores urbanos renovados Fachadas y espacios recuperados Áreas peatonales recuperadas"
+          },
+          {
+            "problem": "Deficiente calidad peatonal y limitada accesibilidad urbana",
+            "objective": "Construcción y recuperación de veredas Implementación de accesibilidad universal Creación de corredores peatonales seguros",
+            "goal": "250,000 m² construidos 100 espacios accesibles 15 corredores seguros",
+            "indicator": "Metros cuadrados de veredas construidas Espacios públicos accesibles Corredores peatonales implementados"
+          },
+          {
+            "problem": "Débil gestión del agua y presión sobre los recursos hídricos",
+            "objective": "Elaborar un plan distrital de gestión sostenible del agua y recursos hídricos Fortalecer coordinación con las entidades hídricas para ampliación de cobertura, en las zonas que cuentan administrada por SEDAPAL",
+            "goal": "Reservorios y planta 100% sectores",
+            "indicator": "Plan y ejecución de obras Chosica y UTAPP Ampliación e incorporación al proyecto de agua"
+          },
+          {
+            "problem": "Deterioro del espacio público y mobiliario urbano",
+            "objective": "Recuperación integral de parques y plazas Modernización del mobiliario urbano Mejoramiento de iluminación urbana",
+            "goal": "120 espacios recuperados 80 parques modernizados 25,000 luminarias instaladas",
+            "indicator": "Espacios públicos recuperados Parques y avenidas modernizadas Luminarias LED instaladas"
+          },
+          {
+            "problem": "Reducción de áreas verdes y deterioro paisajístico",
+            "objective": "Programa distrital de arborización Creación de corredores ecológicos",
+            "goal": "80 hectáreas recuperadas 6 corredores verdes",
+            "indicator": "Nuevas áreas verdes implementadas Corredores ecológicos implementados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Excesiva burocracia y lentitud administrativa",
+            "objective": "Simplificación y digitalización de trámites Plataforma única de atención ciudadana Reducción de tiempos administrativos",
+            "goal": "95% de trámites virtualizados 1 plataforma integral operativa Reducción del 75%",
+            "indicator": "Trámites digitalizados Plataforma implementada Tiempo promedio de atención"
+          },
+          {
+            "problem": "Débil participación ciudadana",
+            "objective": "Consejos zonales y presupuesto participativo Plataformas digitales de participación",
+            "goal": "6 consejos territoriales 50,000 ciudadanos registrados",
+            "indicator": "Consejos ciudadanos implementados Vecinos registrados en plataforma"
+          },
+          {
+            "problem": "Débil transparencia y desconfianza ciudadana",
+            "objective": "Gobierno abierto y rendición de cuentas Portal de transparencia en tiempo real",
+            "goal": "24 audiencias descentralizadas 100% de proyectos publicados",
+            "indicator": "Audiencias públicas realizadas Información actualizada publicada"
+          },
+          {
+            "problem": "Baja eficiencia en servicios municipales",
+            "objective": "Gestión por resultados y monitoreo digital Capacitación del personal municipal",
+            "goal": "100% servicios críticos monitoreados 1,500 trabajadores capacitados",
+            "indicator": "Servicios monitoreados digitalmente Servidores capacitados"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-OW2qx8hBi0zopBZMDOl2LWNLHaHwNJ7J",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/OW2qx8hBi0zopBZMDOl2LWNLHaHwNJ7J",
+      "sha256": "e87e0e9dfaab0973fca5bcb06da42bd0a09b2f0624b548afb2f9e7900ffe3c41",
+      "accessedAt": "2026-10-02T22:59:09.383Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015242",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015242",
+      "sha256": "047f3a4885a4359bf1ce43e1ec271af9d700b2adfb57efbe6269e7c9ea23c6df",
+      "accessedAt": "2026-10-02T22:59:09.878Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

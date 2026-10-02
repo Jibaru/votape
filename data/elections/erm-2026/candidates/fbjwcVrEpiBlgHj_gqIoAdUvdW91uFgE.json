@@ -1,0 +1,205 @@
+{
+  "id": "fbjwcVrEpiBlgHj_gqIoAdUvdW91uFgE",
+  "slug": "luis-alvaro-pletikosic-guzman",
+  "electionId": "erm-2026",
+  "name": "Luis Alvaro Pletikosic Guzman",
+  "givenNames": "Luis Alvaro",
+  "surnames": "Pletikosic Guzman",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:37.711Z",
+      "sourceId": "jne-hv-fbjwcVrEpiBlgHj_gqIoAdUvdW91uFgE"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "GRUPO PANA SA",
+      "role": "ASESOR COMERCIAL",
+      "from": "2018",
+      "to": "2019"
+    },
+    {
+      "employer": "AUTOESPAR SA",
+      "role": "ASESOR COMERCIAL",
+      "from": "2016",
+      "to": "2016"
+    },
+    {
+      "employer": "DERCO PERU SA",
+      "role": "ASESOR COMERCIAL",
+      "from": "2015",
+      "to": "2015"
+    },
+    {
+      "employer": "TECNI AUTO SAC",
+      "role": "ASESOR COMERCIAL",
+      "from": "2014",
+      "to": "2015"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 19253,
+        "public": 0,
+        "private": 19253
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "DEPARTAMENTO",
+        "value": 33054.05,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 238032.06,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 578210.63,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MERCEDES BENZ C180",
+        "value": 47606.41
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ef25fae0-4611-4a86-af02-de3ea0526f14.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6fdcff90-5d39-43e4-aecb-850a388458e3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia delictiva, crimen común organizado y extorsiones sistemáticas a las MYPES en el Damero de Gamarra y el Mercado de Frutas, limitando la paz social.",
+            "objective": "Restablecer el principio de autoridad implementando el plan integral 'Seguridad Humana Territorial' mediante una central de videovigilancia analítica inteligente e interconexión con la PNP.",
+            "goal": "Reducir en un 45% la incidencia delictiva común y desarticular los focos de cobro de cupos en los cuadrantes críticos.",
+            "indicator": "Porcentaje de reducción de los índices de victimización por delincuencia común y extorsión mafiosa en el distrito."
+          },
+          {
+            "problem": "Obsolescencia urbana, grave hacinamiento y tugurización habitacional crítica en las faldas de los cerros San Cosme, El Pino y en barrios tradicionales como Matute y El Porvenir.",
+            "objective": "Ejecutar el programa de Renovación de Infraestructura Cívica y Espacios Públicos, rehabilitando losas deportivas, parques e iluminando zonas vulnerables con tecnología LED de alta potencia.",
+            "goal": "Recuperar el 100% de los parques zonales y plazas residenciales desatendidas para el uso seguro de las familias.",
+            "indicator": "Número de espacios públicos, áreas de recreación e infraestructura peatonal vecinal recuperados y optimizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada tasa de informalidad laboral y comercio ambulatorio desordenado que satura las vías de acceso y evacuación del Damero de Gamarra y la Av. Aviación.",
+            "objective": "Implementar el Programa de Formalización Ordenadora y Productiva bajo el principio de 'Trabajar y dejar trabajar', sustituyendo la represión por un registro técnico e incubadoras empresariales.",
+            "goal": "Formalizar al 50% del comercio autónomo itinerante y devolver la libre transitabilidad vehicular y peatonal a las calles.",
+            "indicator": "Número de comerciantes autónomos ambulantes regulados, formalizados e integrados a zonas de comercio seguro."
+          },
+          {
+            "problem": "Colapso vial y congestionamiento automotor crónico provocado por la informalidad en el transporte menor (mototaxis) y vehículos de carga pesada en las avenidas Huánuco, Aviación, México y 28 de Julio.",
+            "objective": "Ejecutar el Plan de Reordenamiento de la Movilidad y Carga Logística, asignando paraderos autorizados, seguros y señalizados, y normando horarios estrictos de carga y descarga.",
+            "goal": "Ordenar el 100% de las rutas de transporte menor y regular el transporte logístico de carga en horas punta.",
+            "indicator": "Porcentaje de vías críticas descongestionadas y ordenadas mediante fiscalización técnica y paraderos autorizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiencia crítica en la gestión y recolección de residuos sólidos masivos (orgánicos e industriales) en inmediaciones del Mercado de Frutas y Gamarra, generando lixiviados e infecciones.",
+            "objective": "Poner en marcha el Plan Integral de Gestión Ambiental de Residuos Sólidos de Shock, reestructurando rutas de compactadores e implementando la segregación en la fuente para grandes generadores.",
+            "goal": "Eliminar el 100% de los puntos críticos de acumulación informal de basura en la vía pública distrital.",
+            "indicator": "Porcentaje de cobertura eficiente en la recolección, segregación y disposición final de residuos sólidos municipales."
+          },
+          {
+            "problem": "Déficit extremo de áreas verdes por habitante en el territorio distrital, situándose críticamente por debajo de los estándares ambientales recomendados por la OMS.",
+            "objective": "Desarrollar el plan de arborización selectiva urbana mediante la implementación intensiva del programa ecológico comunitario 'Un Árbol, Un Vecino'.",
+            "goal": "Duplicar la superficie de áreas verdes urbanas por habitante en beneficio de la salud ambiental del vecino.",
+            "indicator": "Metros cuadrados de áreas verdes nuevas, arboladas y mantenidas de forma ecoeficiente en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia lenta, excesiva complejidad administrativa en el TUPA municipal y percepción de opacidad o corrupción en los cuerpos tradicionales de fiscalización de MYPES.",
+            "objective": "Modernizar la administración bajo el plan de Gobierno Electrónico e Integración Tecnológica (Municipio Digital), virtualizando trámites y equipando inspectores con bodycams obligatorias.",
+            "goal": "Virtualizar la totalidad del TUPA y automatizar licencias de bajo riesgo, alcanzando el 100% del cumplimiento ante el MEF.",
+            "indicator": "Porcentaje de trámites, licencias de funcionamiento y solicitudes administrativas virtualizados y resueltos electrónicamente."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-142256",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "1RA FISCALIA CORPORATIVA PENAL DE MIRAFLORES-SURQUILLO-SANBORJA",
+        "expediente": "00707-2015-0-1815-JP-FC-06",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-fbjwcVrEpiBlgHj_gqIoAdUvdW91uFgE"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-fbjwcVrEpiBlgHj_gqIoAdUvdW91uFgE",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/fbjwcVrEpiBlgHj_gqIoAdUvdW91uFgE",
+      "sha256": "9a4012b7c582a66f6ad48ae242d82faf4eb6e7848c8c043ab2878702a756f5f6",
+      "accessedAt": "2026-10-02T22:57:37.711Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016828",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016828",
+      "sha256": "0d20eb4d6d92aa67db3c74a353dbf41669af78903ecfc0178bbc4a37e447705d",
+      "accessedAt": "2026-10-02T22:57:38.311Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

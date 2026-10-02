@@ -1,0 +1,203 @@
+{
+  "id": "DCQ3yoL8kaM5FRLWuX0VgsYxk84ggI_0",
+  "slug": "franklin-villarruel-alvarez",
+  "electionId": "erm-2026",
+  "name": "Franklin Villarruel Alvarez",
+  "givenNames": "Franklin",
+  "surnames": "Villarruel Alvarez",
+  "age": 46,
+  "gender": "Masculino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140132",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:07:11.208Z",
+      "sourceId": "jne-hv-DCQ3yoL8kaM5FRLWuX0VgsYxk84ggI_0"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "VEOLIA SERVICIOS PERU SAC",
+      "role": "OPERARIO",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 37450,
+        "public": 0,
+        "private": 37450
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA: SSENDA - MODELO: FINITY 150 SPORT - COLOR AZUL",
+        "value": 4500
+      },
+      {
+        "type": "MARCA: ZONGSHEN - MODELO: ZS125-A - COLOR: AZUL",
+        "value": 4000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fad3b113-e67b-4793-9bd4-c721ac31d0e4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cf4a4ae9-dbe7-4d09-9e3d-efbdc1ea2ce2.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Brecha de desprotección en salud que afecta al 28.85% de la población, con 114,957 personas sin seguro médico, y alta incidencia de tuberculosis.",
+            "objective": "Mejorar la infraestructura local, el equipamiento y la capacidad resolutiva de los establecimientos de atención primaria.",
+            "goal": "Intervenir y repotenciar el 50% de los centros de salud y puestos médicos municipales con equipamiento básico de descarte rápido.",
+            "indicator": "Porcentaje de establecimientos de salud municipales priorizados con equipamiento adecuado."
+          },
+          {
+            "problem": "Alta prevalencia de anemia que alcanza el 24.20% en la primera infancia y una tasa de desnutrición crónica de 7.2% en menores de 5 años.",
+            "objective": "Reducir la prevalencia de anemia y desnutrición infantil en el distrito mediante intervenciones integrales y articulación sectorial.",
+            "goal": "Reducir la anemia infantil en el distrito a menos del 12% para el término del mandato (2030).",
+            "indicator": "Porcentaje de niños y niñas menores de 36 meses con diagnóstico de anemia."
+          },
+          {
+            "problem": "El 22.4% de las viviendas carece de red pública de agua potable y un 15% no cuenta con energía eléctrica, afectando gravemente a la zona Nuevo Milenio.",
+            "objective": "Mejorar el acceso de la población a los servicios básicos de calidad, mediante la viabilización de proyectos de saneamiento y electrificación.",
+            "goal": "Elevar la cobertura formal de servicios básicos integrados al 85% de los hogares del distrito al 2030.",
+            "indicator": "Porcentaje de viviendas con acceso formal y simultáneo a agua, saneamiento y energía eléctrica."
+          },
+          {
+            "problem": "Alta incidencia de violencia de género, registrándose un consolidado de 2,936 denuncias por agresión en el distrito.",
+            "objective": "Fortalecer la protección, asistencia psicológica-legal y la autonomía económica de las mujeres en situación de violencia.",
+            "goal": "Incrementar en 50% la capacidad de atención y alberge a mujeres víctimas de violencia familiar en el distrito.",
+            "indicator": "Número de mujeres atendidas mediante servicios integrales de protección y capacitación municipal."
+          },
+          {
+            "problem": "El 81.71% de la población percibe inseguridad ciudadana debido a la alta incidencia de delitos y la identificación de 67 puntos críticos delictivos.",
+            "objective": "Contribuir a la reducción de la criminalidad mediante acciones preventivas, tecnología y el fortalecimiento del patrullaje vecinal.",
+            "goal": "Reducir al 20% la incidencia de delitos contra el patrimonio en los puntos críticos identificados.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio por cada 10,000 habitantes en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Condición de 'distrito dormitorio' con casi el 40% de los habitantes en estrato socioeconómico bajo y limitado desarrollo de cadenas de valor internas.",
+            "objective": "Fortalecer las capacidades productivas de las microempresas locales y promover ferias comerciales descentralizadas.",
+            "goal": "Incrementar en 35% la participación de productores y artesanos locales en ferias de reactivación económica municipal.",
+            "indicator": "Número de MYPES locales incorporadas a redes comerciales formales y mercados competitivos de Lima Sur."
+          },
+          {
+            "problem": "Alta informalidad laboral y proliferación del comercio ambulante no regulado que limita los ingresos de las familias.",
+            "objective": "Promover la formalización empresarial y comercial, fortaleciendo las capacidades productivas y el ordenamiento del comercio en la vía pública.",
+            "goal": "Reducir la informalidad comercial ambulatoria en las avenidas principales en un 20% hacia el año 2030.",
+            "indicator": "Porcentaje de comerciantes y microempresarios locales en condición de informalidad."
+          },
+          {
+            "problem": "Escasas oportunidades de capacitación técnica formal para los jóvenes, afectando su empleabilidad en actividades secundarias y de servicios.",
+            "objective": "Fortalecer la empleabilidad de los jóvenes y mujeres de las zonas vulnerables mediante capacitación técnica e innovación.",
+            "goal": "Capacitar y certificar técnicamente a 3,000 ciudadanos del distrito hacia el año 2030.",
+            "indicator": "Número de jóvenes y mujeres capacitados en oficios técnicos masivos y certificados por la municipalidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación anual de 131,861.32 toneladas de residuos sólidos, concentrándose la mayor cantidad en la Zona José Carlos Mariátegui.",
+            "objective": "Optimizar la gestión integral del servicio de recolección de residuos sólidos, erradicando puntos críticos de acumulación informal.",
+            "goal": "Lograr el 100% de cobertura del servicio de recojo residencial y erradicar los botaderos informales en vías públicas al 2030.",
+            "indicator": "Porcentaje de toneladas métricas de residuos recolectados eficientemente y procesados."
+          },
+          {
+            "problem": "Constante degradación de ecosistemas frágiles de lomas (545.64 hectáreas) debido al crecimiento urbano informal y tráfico de tierras.",
+            "objective": "Reducir el impacto antrópico adverso y promover la conservación, delimitación y restauración de los ecosistemas de lomas del distrito.",
+            "goal": "Proteger y delimitar el 100% de las hectáreas de lomas frente a invasiones informales al 2030.",
+            "indicator": "Número de hectáreas de lomas protegidas y vigiladas con participación municipal y comunitaria."
+          },
+          {
+            "problem": "Deficiente calidad del aire con un Índice de Calidad del Aire (ICA) promedio de 120, perjudicial para poblaciones sensibles.",
+            "objective": "Reducir los niveles de contaminación del aire mediante el incremento de áreas verdes urbanas y el control del polvo en laderas.",
+            "goal": "Intervenir y recuperar 50 áreas verdes y parques infantiles del distrito para el término del mandato (2030).",
+            "indicator": "Número de metros cuadrados de áreas verdes recuperadas y mantenidas por habitante."
+          },
+          {
+            "problem": "Alta vulnerabilidad frente a los efectos del cambio climático, como islas de calor y erosión de suelos, en las zonas periféricas y laderas del distrito.",
+            "objective": "Fortalecer la resiliencia climática urbana y la seguridad alimentaria local mediante la implementación de prácticas agroecológicas y de agricultura familiar.",
+            "goal": "Implementar y consolidar 40 espacios agroecológicos y de agricultura urbana comunitaria al año 2030.",
+            "indicator": "Número de biohuertos y parcelas agroecológicas comunitarias implementadas en zonas altas del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débil gestión municipal y fiscalización ineficaz en el uso del suelo, lo que genera total informalidad en la ocupación del territorio.",
+            "objective": "Fortalecer el control urbano y la fiscalización del suelo para ordenar el crecimiento del distrito y frenar el tráfico de tierras.",
+            "goal": "Implementar el 100% de los planes de fiscalización urbana y zonificación en las laderas y zonas de expansión.",
+            "indicator": "Porcentaje de habilitaciones u ocupaciones del territorio sujetas a fiscalización y control urbano oportuno."
+          },
+          {
+            "problem": "Alta vulnerabilidad física de infraestructuras públicas y privadas ante sismos o flujos de lodo debido a edificaciones sin asistencia técnica.",
+            "objective": "Reducir la vulnerabilidad ante desastres de origen natural mediante obras preventivas y la capacitación comunitaria.",
+            "goal": "Ejecutar 30 intervenciones preventivas de reducción de riesgos de desastres en las laderas del distrito al 2030.",
+            "indicator": "Número de intervenciones estructurales y planes de contingencia ejecutados en zonas de alto riesgo físico."
+          },
+          {
+            "problem": "Trámites administrativos lentos, falta de digitalización de los servicios municipales y limitada transparencia percibida por las organizaciones vecinales.",
+            "objective": "Modernizar la gestión municipal mediante la transformación digital, simplificación administrativa y transparencia presupuestal.",
+            "goal": "Digitalizar al menos el 80% de los trámites y procesos de atención al ciudadano hacia el año 2030.",
+            "indicator": "Porcentaje de trámites internos y licencias digitalizados en la plataforma municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-DCQ3yoL8kaM5FRLWuX0VgsYxk84ggI_0",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/DCQ3yoL8kaM5FRLWuX0VgsYxk84ggI_0",
+      "sha256": "68fc7ae93122475bd09faae00003ac27738a5a6c1c795622defab2ead79c7500",
+      "accessedAt": "2026-10-02T23:07:11.208Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022506",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022506",
+      "sha256": "13133f02ab882adf560317a1168d2a2257f8667c0c8b4652ce87de8c2d9853ef",
+      "accessedAt": "2026-10-02T23:07:11.777Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

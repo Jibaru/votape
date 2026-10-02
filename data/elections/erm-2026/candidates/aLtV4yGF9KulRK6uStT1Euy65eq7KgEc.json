@@ -1,0 +1,225 @@
+{
+  "id": "aLtV4yGF9KulRK6uStT1Euy65eq7KgEc",
+  "slug": "angel-solis-vergaray",
+  "electionId": "erm-2026",
+  "name": "Angel Solis Vergaray",
+  "givenNames": "Angel",
+  "surnames": "Solis Vergaray",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 2933,
+    "name": "LIBERTAD POPULAR"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:36.412Z",
+      "sourceId": "jne-hv-aLtV4yGF9KulRK6uStT1Euy65eq7KgEc"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "no_universitaria",
+        "institution": "EIGER",
+        "program": "INGLES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada César Vallejo",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada César Vallejo",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UBER",
+      "role": "TAXI",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 33493.7,
+        "public": 0,
+        "private": 33493.7
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 12432,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO KIA",
+        "value": 40000
+      },
+      {
+        "type": "AUTO MG",
+        "value": 28000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "EXECUTIVO SAC",
+        "type": "ACCIONES",
+        "quantity": 90,
+        "value": 4500
+      }
+    ]
+  },
+  "additionalInfo": [
+    "EL CADIDATO INFORMA QUE VENDIO UN AUTO EN EL AÑO 2025 CON PLACA AUM449",
+    "EL CANDIDATO INFORMA QUE TIENE RUC 10422691273 LABORA ALQUILANDO UN AUTO A UNA EMPRESA FORMAL ALOTAXI SAC"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/4eb3a245-2382-4e28-bda1-e2eef2e58cc0.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/83590fb0-9a66-4405-a17b-651f419cc95d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Carencia de redes integrales de salud mental, envejecimiento productivo y oportunidades para sectores vulnerables como jóvenes y adultos mayores.",
+            "objective": "Fortalecer el tejido social, descentralizar el acceso al conocimiento y proteger a los sectores más vulnerables a través de programas sostenibles.",
+            "goal": "Alcanzar el 100% de optimización en losas deportivas recuperadas e iluminadas y el 100% de digitalización en la cobertura de salud para el adulto mayor.",
+            "indicator": "Cobertura de recuperación de losas deportivas y cobertura de triaje digital y atención médica especializada para el adulto mayor."
+          },
+          {
+            "problem": "Incremento exponencial de la delincuencia común y organizada, generando una crisis estructural en la seguridad del distrito.",
+            "objective": "Garantizar la paz social y el orden público mediante el despliegue de un ecosistema tecnológico interoperable, predictivo y disuasivo en coordinación con la Policía Nacional del Perú.",
+            "goal": "Reducir el tiempo de respuesta a menos de 5 minutos y lograr una disminución del 30% en la tasa de delitos contra el patrimonio.",
+            "indicator": "Tiempo promedio de respuesta municipal ante alertas críticas vecinales y porcentaje de reducción del índice delictivo."
+          },
+          {
+            "problem": "Insuficiente infraestructura deportiva y recreativa, limitando el desarrollo de actividades para la comunidad.",
+            "objective": "Remodelar y recuperar integralmente los espacios deportivos y recreativos para promover el bienestar intergeneracional y la cohesión social.",
+            "goal": "Lograr la optimización del 100% de las losas deportivas del distrito.",
+            "indicator": "Porcentaje de losas deportivas recuperadas e iluminadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Desconexión entre el clúster universitario local y la tecnificación de las micro y pequeñas empresas (MyPes), limitando la innovación y el desarrollo tecnológico.",
+            "objective": "Transformar el distrito en un centro tecnológico referencial mediante la creación de una aceleradora de base popular en alianza con las universidades.",
+            "goal": "Alcanzar un total de 100 proyectos activos financiados e incubados.",
+            "indicator": "Número de proyectos y startups de innovación tecnológica incubados y financiados con capital semilla."
+          },
+          {
+            "problem": "Altos niveles de informalidad ambulatoria, desorden espacial y trabas burocráticas que limitan la competitividad y la formalización empresarial.",
+            "objective": "Dinamizar la competitividad comercial, acelerar la formalización empresarial y eliminar las trabas burocráticas para los negocios de bajo riesgo.",
+            "goal": "Reducir el tiempo de emisión de licencias a menos de 24 horas.",
+            "indicator": "Tiempo promedio para la emisión de licencias comerciales provisionales automatizadas de bajo riesgo."
+          },
+          {
+            "problem": "Desaprovechamiento del patrimonio arqueológico y cultural como activo para el desarrollo turístico y económico del distrito.",
+            "objective": "Poner en valor las huacas del distrito y desarrollar un circuito turístico para transformar a Los Olivos en un referente turístico de Lima Norte.",
+            "goal": "Integrar las 8 huacas del distrito en un circuito con boulevares culturales.",
+            "indicator": "Número de huacas distritales recuperadas e integradas formalmente al circuito eco-turístico y comercial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Severo deterioro de la capa asfáltica de la red vial interna y carencia de infraestructura inclusiva y moderna.",
+            "objective": "Modernizar el entorno urbano y la movilidad del distrito implementando obras de infraestructura de alta durabilidad, inclusivas y soportadas por tecnologías conectadas.",
+            "goal": "Alcanzar el 90% de recuperación de la red vial interna.",
+            "indicator": "Porcentaje de la red vial interna distrital recuperada, repavimentada, modernizada y señalizada."
+          },
+          {
+            "problem": "Altos índices de contaminación, acumulación ineficiente de residuos sólidos urbanos y un marcado déficit de áreas verdes.",
+            "objective": "Implementar un sistema de gestión de residuos inteligente y crear una red de bosques urbanos para mitigar el impacto ambiental.",
+            "goal": "Reciclar el 40% del volumen total de residuos urbanos generados.",
+            "indicator": "Toneladas de residuos urbanos reciclados bajo un sistema de incentivos mediante una aplicación municipal."
+          },
+          {
+            "problem": "Falta de infraestructura de señalización inteligente para mejorar la seguridad y accesibilidad peatonal, especialmente para personas con discapacidad.",
+            "objective": "Implementar cruces peatonales inteligentes dotados de tecnología IoT, señales audiovisuales y auditivas para garantizar una movilidad inclusiva.",
+            "goal": "Equipar el 100% de las zonas comerciales con esta tecnología.",
+            "indicator": "Porcentaje de cruces comerciales equipados con tecnología inclusiva EATS (Señales Auditivas Electrónicas)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Existencia de trabas burocráticas y procesos administrativos no digitalizados que dificultan la interacción del ciudadano con el municipio.",
+            "objective": "Modernizar la transparencia institucional y eliminar las trabas burocráticas mediante la implementación de un gobierno digital.",
+            "goal": "Alcanzar el 100% de digitalización de trámites, bajo una política de 'Cero Papel'.",
+            "indicator": "Porcentaje de digitalización integrada de los trámites de cara al vecino."
+          },
+          {
+            "problem": "Sistemas de vigilancia y comunicación obsoletos, desarticulados y dependientes de terceros, sin infraestructura de datos propia.",
+            "objective": "Independizar, blindar y conectar los sistemas de seguridad y servicios municipales mediante el tendido de una red propia de fibra óptica.",
+            "goal": "Desplegar una red troncal de fibra óptica de alta velocidad para conectar el sistema de cámaras, tótems de auxilio, centros médicos y sedes operativas.",
+            "indicator": "Kilómetros lineales de Fibra Óptica Municipal propia desplegados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-aLtV4yGF9KulRK6uStT1Euy65eq7KgEc",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/aLtV4yGF9KulRK6uStT1Euy65eq7KgEc",
+      "sha256": "dd85b681bfd657cd31f4162ce9dd4f736f8de8773813b51c558419c72d7fbc00",
+      "accessedAt": "2026-10-02T22:58:36.412Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019038",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019038",
+      "sha256": "49196b3bda16070679c7cc26352da6ad933672acbc080c6ce639d0491bed0795",
+      "accessedAt": "2026-10-02T22:58:36.893Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

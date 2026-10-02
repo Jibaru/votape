@@ -1,0 +1,250 @@
+{
+  "id": "UoP0ya4SHOzeUQFY1FBzxJLx1pY8y57e",
+  "slug": "adan-renee-cobena-gomez",
+  "electionId": "erm-2026",
+  "name": "Adan Renee Cobeña Gomez",
+  "givenNames": "Adan Renee",
+  "surnames": "Cobeña Gomez",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 2982,
+    "name": "COALICION TRANSFORMADORA TIERRA VERDE"
+  },
+  "jurisdictionId": "140137",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:03:24.946Z",
+      "sourceId": "jne-hv-UoP0ya4SHOzeUQFY1FBzxJLx1pY8y57e"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "INDPENDIENTE",
+      "role": "SERVICIO DE CONFECCION PERSONAL NATURA CON NEGOCIO",
+      "from": "2015",
+      "to": "2026"
+    },
+    {
+      "employer": "PERU SIN FRONTERAS",
+      "role": "GERENTE GENERAL",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "THE BEAUTY CLINIC SAC",
+      "role": "GERENTE",
+      "from": "2024",
+      "to": "2026"
+    },
+    {
+      "employer": "INVERSIONES EMPORIO GAMARRA EIRL",
+      "role": "GERENTE",
+      "from": "2013",
+      "to": "2015"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "DIRECTOR NACIONAL DE GREMIOS Y ORGANIZACIONES DE BASE",
+      "party": "PROYECTO PAIS",
+      "from": "2004",
+      "to": "2007"
+    },
+    {
+      "position": "CONSEJO NACIONAL DE FUNDADORES",
+      "party": "PROYECTO PAIS",
+      "from": "2004",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATA UNIDO PERU",
+      "year": "2022"
+    },
+    {
+      "party": "PERU MODERNO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 219750.01,
+        "public": 0,
+        "private": 219750.01
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 120000
+      },
+      {
+        "type": "MINIVAN",
+        "value": 80000
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 11000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "THE BEAUTY CLINIC SAC",
+        "type": "ACCIONES",
+        "quantity": 10000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ab1ca841-9ec7-423e-a600-b2d152ac73ba.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/8f8eafdd-7d10-4cd7-b36e-7d213b24d7a8.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "El distrito experimenta un estrangulamiento vial crónico debido a su geografía de valle cerrado, con una saturación crítica del transporte en horas punta, exacerbado por el desorden del parque de mototaxis, la proliferación de paraderos informales y una infraestructura vial deteriorada.",
+            "objective": "Desarrollar la infraestructura vial y ordenar el transporte a través de la regulación del transporte público, la reestructuración de la emisión de licencias, y el mejoramiento de la infraestructura vial, peatonal, ciclovías y semaforización.",
+            "goal": "Disminuir el tiempo promedio de viaje en hora punta de 92 minutos en 2026 a 48 minutos para 2030.",
+            "indicator": "Reducción del tiempo promedio de viaje en hora punta para recorrer el eje longitudinal principal del distrito."
+          },
+          {
+            "problem": "Más del 65% de los centros de apoyo alimentario operan en condiciones de precariedad infraestructural, con equipamiento obsoleto y bajo una gestión logística manual, lo que se suma a tasas elevadas de anemia y desnutrición crónica infantil en sectores vulnerables.",
+            "objective": "Fortalecer los programas sociales mediante campañas de promoción de la salud, el reforzamiento de comedores populares y comités de vaso de leche, y el robustecimiento de las capacidades y la cultura ocupacional.",
+            "goal": "Reducir el índice de anemia y desnutrición crónica infantil del 41.2% en el año 2026 al 15% para el año 2030.",
+            "indicator": "Reducción del índice de anemia y desnutrición crónica infantil en niños menores de 36 meses empadronados en los comités alimentarios del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Inexistencia de una articulación municipal para integrar los activos patrimoniales y el potencial ecoturístico con el dinamismo comercial local, careciendo de corredores turísticos seguros y promocionados que generen desarrollo económico endógeno.",
+            "objective": "Impulsar el turismo local a través de la estructuración y promoción de un circuito ecocultural y arqueológico que articule las huacas recuperadas y las lomas con la gastronomía e industria formal en entornos seguros.",
+            "goal": "Aumentar de 1 sitio recuperado en 2026 a 6 sitios recuperados para 2030.",
+            "indicator": "Número de sitios histórico-arqueológicos y ecosistemas de lomas del distrito protegidos físicamente y articulados activamente a programas turísticos municipales."
+          },
+          {
+            "problem": "Jóvenes y madres de familia en situación de vulnerabilidad carecen de capacitación técnica formal y de articulación con cadenas de comercialización, lo que limita su desarrollo productivo.",
+            "objective": "Fortalecer las capacidades y la cultura ocupacional mediante talleres técnicos certificados en diversos oficios y la creación de unidades productivas articuladas al mercado local.",
+            "goal": "Incrementar el número de personas capacitadas y formalizadas de 600 al año en 2026 a 5,000 anuales para 2030.",
+            "indicator": "Número de madres de familia y jóvenes vulnerables capacitados y formalizados con unidades productivas operativas articuladas a cadenas de comercialización local."
+          },
+          {
+            "problem": "El circuito comercial alimentario del distrito es predominantemente desorganizado e informal, con mercados que operan con altos niveles de riesgo sanitario y estructural, y con la operación recurrente de centros clandestinos de faenamiento que ponen en grave riesgo la inocuidad alimentaria.",
+            "objective": "Regular y fortalecer el circuito alimentario mediante un plan integral de modernización y formalización de mercados de abastos, el control de la trazabilidad y clausura de camales clandestinos, y la gestión de apoyo a la inocuidad alimentaria.",
+            "goal": "Incrementar el porcentaje de mercados de abastos regulados del 28% en 2026 al 100% para 2030.",
+            "indicator": "Porcentaje de mercados de abastos regulados que cuentan con licencias sectoriales de inocuidad de DIGESA y certificados ITSE vigentes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "El distrito se encuentra en un escenario de vulnerabilidad extrema ante desastres naturales, con viviendas autoconstruidas en suelos inestables y una alta exposición a la activación de quebradas, sin contar con un sistema de alerta temprana adecuado.",
+            "objective": "Implementar un plan de acciones de prevención multirriesgos, priorizando la construcción de muros de contención, andenerías de estabilización y mallas de retención, junto con una central de alertas para desastres naturales.",
+            "goal": "Aumentar la población protegida por infraestructura de mitigación del 24% en 2026 al 85% para 2030.",
+            "indicator": "Porcentaje de la población residente en zonas catalogadas de Peligro Muy Alto que se encuentra protegida por infraestructura física de mitigación."
+          },
+          {
+            "problem": "El distrito presenta fallas estructurales crónicas en el sistema de recolección y disposición final de residuos sólidos, con decenas de botaderos informales en la vía pública y una tasa de reciclaje formal inferior al 5%.",
+            "objective": "Implementar una reingeniería total del sistema de recolección selectiva de basura, optimizando rutas, instalando contenedores soterrados y formalizando la cadena de valor de los recicladores.",
+            "goal": "Eliminar los 86 puntos críticos existentes en 2026, alcanzando 0 puntos críticos permanentes para 2030.",
+            "indicator": "Reducción del número de puntos críticos crónicos e informales de acumulación de residuos sólidos reportados por la OEFA en las vías públicas del distrito."
+          },
+          {
+            "problem": "El distrito presenta un severo déficit histórico de áreas verdes por habitante, con cifras muy por debajo de las recomendaciones de la OMS, lo que agrava la acumulación de polvo atmosférico y deteriora la calidad del aire.",
+            "objective": "Ejecutar un plan intensivo de forestación urbana sustentable con especies nativas de bajo consumo hídrico y modernizar el sistema de riego de parques utilizando exclusivamente aguas residuales tratadas.",
+            "goal": "Incrementar el ratio de área verde de 1.9 m²/hab en 2026 a 6.2 m²/hab para 2030.",
+            "indicator": "Ratio de metros cuadrados (m²) de área verde efectiva urbana mantenida por habitante dentro del distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El distrito enfrenta una crisis de seguridad multidimensional, con presencia de bandas criminales dedicadas a la extorsión y el sicariato, un déficit crítico de efectivos policiales y una infraestructura de videovigilancia inoperativa.",
+            "objective": "Reforzar la seguridad ciudadana mediante la reestructuración técnico-operativa del sistema, la colaboración interinstitucional con la PNP y municipalidades, la profesionalización del serenazgo y la mitigación de actividades económicas ilegales.",
+            "goal": "Reducir la tasa de victimización delictiva violenta del 39.8% en el año 2026 al 14.5% para el año 2030.",
+            "indicator": "Tasa de victimización delictiva violenta (robo con arma de fuego, extorsión, cobro de cupos) en el distrito."
+          },
+          {
+            "problem": "La municipalidad registra recurrentemente observaciones graves de control, con riesgos de corrupción concentrados en las áreas de desarrollo urbano, contrataciones y fiscalización, lo que debilita la confianza institucional.",
+            "objective": "Fortalecer la institucionalidad a través de la creación de un observatorio de vigilancia ciudadana, la implementación de un gobierno digital de puertas abiertas y un sistema de rendición de cuentas permanente.",
+            "goal": "Incrementar el Índice de Capacidad de Integridad Pública del 54% en 2026 al 95% para 2030.",
+            "indicator": "Índice de Capacidad de Integridad Pública municipal emitido por la Secretaría de Integridad Pública de la PCM."
+          },
+          {
+            "problem": "El crecimiento urbano se ha caracterizado por la ocupación informal y desordenada del suelo, con más del 60% de viviendas en zonas altas correspondientes a autoconstrucciones informales, lo que genera un riesgo de colapso estructural y debilita la capacidad de control municipal.",
+            "objective": "Acondicionar el territorio y el desarrollo urbano mediante el reforzamiento y actualización del Plan de Desarrollo Urbano (PDU) y del Plan de Acondicionamiento Territorial, junto con la digitalización del catastro distrital.",
+            "goal": "Alcanzar el 100% de actualización y digitalización del catastro urbano para 2030, partiendo de una línea base del 32% en 2026.",
+            "indicator": "Porcentaje del territorio del catastro urbano municipal completamente actualizado, digitalizado y georreferenciado en 3D."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-141969",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "4°",
+        "expediente": "02205-2021-0-3207",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-UoP0ya4SHOzeUQFY1FBzxJLx1pY8y57e"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-UoP0ya4SHOzeUQFY1FBzxJLx1pY8y57e",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/UoP0ya4SHOzeUQFY1FBzxJLx1pY8y57e",
+      "sha256": "12a04bec761d4d48f06c8e658b558051ea9bbb70f7d1d41700d39e32db959731",
+      "accessedAt": "2026-10-02T23:03:24.946Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022497",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022497",
+      "sha256": "5a1fe8ac1315307ec6e2b79ec3365354db5d473d21d9e2f68c459b7b11f72216",
+      "accessedAt": "2026-10-02T23:03:25.443Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

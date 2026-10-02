@@ -1,0 +1,226 @@
+{
+  "id": "OwYoMQ2KgGWBpswkln222CCf7UVJYITC",
+  "slug": "edwin-anibal-mendoza-ramirez",
+  "electionId": "erm-2026",
+  "name": "Edwin Anibal Mendoza Ramirez",
+  "givenNames": "Edwin Anibal",
+  "surnames": "Mendoza Ramirez",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 2988,
+    "name": "VISION PERU"
+  },
+  "jurisdictionId": "140110",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:35.533Z",
+      "sourceId": "jne-hv-OwYoMQ2KgGWBpswkln222CCf7UVJYITC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1994"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1993"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNIVERSIDAD FEDERICO VILLAREAL",
+        "program": "DOCTORADO EN DERECHO",
+        "completed": true,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE LA VICTORIA",
+      "role": "FUNCIONARIO",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2014"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 118000,
+        "public": 100000,
+        "private": 18000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 221000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 19500,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "auto",
+        "value": 37200
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/9570fb85-ff9f-473a-8d6d-416386a6be34.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/7fe1ae92-8e03-4e97-874e-0ef4af7f06de.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a programas de salud preventiva y atención al adulto mayor.",
+            "objective": "Fortalecer la atención preventiva y comunitaria.",
+            "goal": "50,000 atenciones preventivas durante la gestión.",
+            "indicator": "Número de beneficiarios atendidos."
+          },
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana.",
+            "objective": "Implementar un Sistema Integral de Seguridad Ciudadana Inteligente.",
+            "goal": "Reducir en 30% la percepción de inseguridad al 2030.",
+            "indicator": "Reducción de la percepción de inseguridad."
+          },
+          {
+            "problem": "Insuficiente participación vecinal.",
+            "objective": "Impulsar una gestión participativa y cercana.",
+            "goal": "Incrementar en 50% la participación ciudadana.",
+            "indicator": "Número de vecinos participantes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Excesiva burocracia municipal.",
+            "objective": "Digitalización integral de servicios.",
+            "goal": "80% de trámites digitalizados.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Congestión vehicular que afecta la productividad y calidad de vida.",
+            "objective": "Implementar un Sistema de Movilidad Inteligente.",
+            "goal": "Reducir en 20% los tiempos de viaje.",
+            "indicator": "Tiempo promedio de desplazamiento."
+          },
+          {
+            "problem": "Escaso apoyo municipal al emprendimiento local.",
+            "objective": "Promover el desarrollo económico local.",
+            "goal": "5,000 emprendedores capacitados.",
+            "indicator": "Número de emprendedores beneficiados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Presión urbana sobre áreas verdes y ecosistemas.",
+            "objective": "Fortalecer la protección ambiental.",
+            "goal": "Recuperar 100,000 m² de áreas verdes.",
+            "indicator": "Metros cuadrados recuperados."
+          },
+          {
+            "problem": "Riesgo permanente de invasiones y ocupaciones ilegales.",
+            "objective": "Implementar el Programa de Defensa Territorial y Protección del Patrimonio Distrital.",
+            "goal": "100% de protección de predios municipales estratégicos.",
+            "indicator": "Número de intentos de ocupación detectados y neutralizados."
+          },
+          {
+            "problem": "Necesidad de adaptación al cambio climático.",
+            "objective": "Desarrollar infraestructura verde resiliente.",
+            "goal": "20 proyectos de sostenibilidad ejecutados.",
+            "indicator": "Proyectos implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Necesidad de fortalecer la transparencia municipal.",
+            "objective": "Implementar Gobierno Abierto Municipal.",
+            "goal": "4 rendiciones públicas anuales.",
+            "indicator": "Número de reportes publicados."
+          },
+          {
+            "problem": "Procesos administrativos poco eficientes.",
+            "objective": "Modernización institucional.",
+            "goal": "Reducir en 50% los tiempos de atención.",
+            "indicator": "Reducción de tiempos administrativos."
+          },
+          {
+            "problem": "Débil articulación con la ciudadanía.",
+            "objective": "Fortalecer mecanismos de participación.",
+            "goal": "Alcanzar 20,000 participaciones ciudadanas durante la gestión.",
+            "indicator": "Participación vecinal registrada."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-OwYoMQ2KgGWBpswkln222CCf7UVJYITC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/OwYoMQ2KgGWBpswkln222CCf7UVJYITC",
+      "sha256": "adc196f5ca7204c33ecb3ad3d3a223a6b87cbd3ce4347a99ebaa08405abd158b",
+      "accessedAt": "2026-10-02T22:57:35.533Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016559",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016559",
+      "sha256": "db313c2afc76a724e7347d6b5b1f082d216adbabeee5074e1904301807145e58",
+      "accessedAt": "2026-10-02T22:57:36.110Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

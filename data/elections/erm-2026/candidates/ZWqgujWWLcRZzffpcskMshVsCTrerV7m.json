@@ -1,0 +1,293 @@
+{
+  "id": "ZWqgujWWLcRZzffpcskMshVsCTrerV7m",
+  "slug": "haydy-lorena-brena-mejia",
+  "electionId": "erm-2026",
+  "name": "Haydy Lorena Breña Mejia",
+  "givenNames": "Haydy Lorena",
+  "surnames": "Breña Mejia",
+  "age": 48,
+  "gender": "Femenino",
+  "party": {
+    "id": 3001,
+    "name": "PARTIDO POLITICO PUEBLO CONSCIENTE"
+  },
+  "jurisdictionId": "140104",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:52:08.307Z",
+      "sourceId": "jne-hv-ZWqgujWWLcRZzffpcskMshVsCTrerV7m"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 28000,
+        "public": 0,
+        "private": 28000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 10000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "VEHICULO",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/0881bcac-4a78-43c0-b986-32729b05f32b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c982b626-47ee-41e0-9682-068490e7a880.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de problemas emocionales, violencia familiar y depresión entre los vecinos.",
+            "objective": "Implementar el programa 'Breña Te Escucha' para la atención de la salud emocional.",
+            "goal": "Beneficiar a 10,000 vecinos para el año 2030.",
+            "indicator": "Número de atenciones psicológicas realizadas."
+          },
+          {
+            "problem": "Deficiencia en la atención de salud y salud mental en el distrito.",
+            "objective": "Implementar el programa 'Breña Saludable y Emocional' mediante alianzas estratégicas con MINSA, ESSALUD y Centros de Salud Mental Comunitaria.",
+            "goal": "Alcanzar el 85% de cobertura distrital para el año 2030.",
+            "indicator": "Porcentaje de vecinos atendidos en campañas preventivas y psicológicas."
+          },
+          {
+            "problem": "Existencia de espacios públicos inseguros que limitan la convivencia ciudadana.",
+            "objective": "Recuperar e instalar iluminación LED en parques y calles del distrito.",
+            "goal": "Iluminar el 100% de los parques para el año 2030.",
+            "indicator": "Porcentaje de espacios recuperados."
+          },
+          {
+            "problem": "Existencia de una brecha educativa en la formación de los estudiantes.",
+            "objective": "Implementar programas de reforzamiento escolar gratuito en áreas como inglés, robótica y tecnología.",
+            "goal": "Lograr un incremento del 30% en el rendimiento escolar para el año 2030.",
+            "indicator": "Porcentaje de mejora en el rendimiento escolar."
+          },
+          {
+            "problem": "Condiciones de vulnerabilidad social que afectan a adultos mayores, mujeres y personas con discapacidad.",
+            "objective": "Crear una red de apoyo para adultos mayores, mujeres y personas con discapacidad.",
+            "goal": "Alcanzar el 100% de focalización de la población vulnerable para el año 2030.",
+            "indicator": "Número de beneficiarios focalizados."
+          },
+          {
+            "problem": "Aumento de la extorsión y otros delitos que perjudican a comerciantes, transportistas, mototaxistas y vecinos.",
+            "objective": "Implementar la Red Distrital Antiextorsión y fortalecer la coordinación con la Policía Nacional del Perú y el Ministerio Público.",
+            "goal": "Atender el 100% de los casos reportados y lograr una reducción progresiva de la incidencia delictiva para el año 2030.",
+            "indicator": "Número de denuncias atendidas y acciones preventivas realizadas."
+          },
+          {
+            "problem": "Falta de atención para niños neurodivergentes, incluyendo aquellos con TEA, TDAH y otros trastornos del neurodesarrollo.",
+            "objective": "Desarrollar el programa 'Breña Inclusiva' para brindar apoyo especializado.",
+            "goal": "Beneficiar a 2,000 familias para el año 2030.",
+            "indicator": "Número de familias atendidas y orientadas."
+          },
+          {
+            "problem": "Incremento de robos y asaltos que afectan la seguridad de los vecinos.",
+            "objective": "Ejecutar el programa 'Breña Segura 24/7' para la prevención y control del delito.",
+            "goal": "Lograr una reducción del 50% de los delitos para el año 2030.",
+            "indicator": "Porcentaje de reducción de delitos."
+          },
+          {
+            "problem": "Inseguridad y falta de oportunidades de desarrollo para los jóvenes del distrito.",
+            "objective": "Establecer centros de desarrollo juvenil que ofrezcan actividades de deporte, arte y capacitación técnica.",
+            "goal": "Capacitar a 3,000 jóvenes anualmente para el año 2030.",
+            "indicator": "Número de jóvenes capacitados en los centros de desarrollo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta incidencia del comercio ambulatorio informal en el distrito.",
+            "objective": "Implementar un programa de formalización y simplificación de licencias para negocios.",
+            "goal": "Alcanzar el 80% de formalización de negocios para el año 2030.",
+            "indicator": "Porcentaje de negocios formalizados."
+          },
+          {
+            "problem": "Falta de impulso y apoyo al emprendimiento local.",
+            "objective": "Organizar ferias productivas y ofrecer capacitación digital y asesoría empresarial.",
+            "goal": "Realizar 20 ferias anuales para el año 2030.",
+            "indicator": "Número de ferias realizadas."
+          },
+          {
+            "problem": "Altos niveles de desempleo local que afectan a la población.",
+            "objective": "Crear una bolsa laboral distrital vinculada a empresas privadas del sector.",
+            "goal": "Generar 3,000 empleos para el año 2030.",
+            "indicator": "Número de contrataciones logradas a través de la bolsa laboral."
+          },
+          {
+            "problem": "Debilidad de las zonas comerciales y mercados del distrito.",
+            "objective": "Fortalecer los corredores comerciales y mercados para dinamizar la economía local.",
+            "goal": "Lograr un crecimiento del 20% en las ventas locales para el año 2030.",
+            "indicator": "Porcentaje de crecimiento de las ventas locales."
+          },
+          {
+            "problem": "Escasas oportunidades para los jóvenes emprendedores del distrito.",
+            "objective": "Establecer un Fondo Municipal de Emprendimiento Juvenil para financiar nuevas iniciativas.",
+            "goal": "Beneficiar a 1,000 emprendimientos para el año 2030.",
+            "indicator": "Número de emprendimientos apoyados por el fondo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasez de espacios públicos adecuados para mascotas (pet friendly).",
+            "objective": "Crear parques y espacios públicos 'pet friendly' en el distrito.",
+            "goal": "Implementar 8 espacios públicos para mascotas para el año 2030.",
+            "indicator": "Número de espacios 'pet friendly' implementados."
+          },
+          {
+            "problem": "Falta de educación sobre el bienestar animal en la comunidad.",
+            "objective": "Impartir charlas sobre bienestar animal en colegios y comunidades.",
+            "goal": "Capacitar a 10,000 personas para el año 2030.",
+            "indicator": "Número de personas capacitadas."
+          },
+          {
+            "problem": "Falta de promoción de la adopción responsable y abandono de animales.",
+            "objective": "Implementar el Programa Municipal de Adopción Responsable a través de campañas en espacios públicos.",
+            "goal": "Lograr 24 campañas de adopción al año.",
+            "indicator": "Número de campañas realizadas y animales adoptados."
+          },
+          {
+            "problem": "Déficit en la arborización urbana del distrito.",
+            "objective": "Implementar un programa de arborización distrital para incrementar la cobertura vegetal.",
+            "goal": "Plantar 10,000 árboles para el año 2030.",
+            "indicator": "Número de árboles plantados."
+          },
+          {
+            "problem": "Abandono y maltrato de animales en el distrito.",
+            "objective": "Ejecutar el programa 'Breña Responsable con sus Mascotas' para promover el cuidado animal.",
+            "goal": "Realizar 100 campañas para el año 2030.",
+            "indicator": "Número de campañas de sensibilización realizadas."
+          },
+          {
+            "problem": "Insuficiente acceso a campañas de esterilización y vacunación para mascotas.",
+            "objective": "Realizar campañas gratuitas de esterilización, vacunación y orientación sobre tenencia responsable de mascotas.",
+            "goal": "Realizar 25 campañas por año.",
+            "indicator": "Número de campañas realizadas y mascotas atendidas."
+          },
+          {
+            "problem": "Falta de cultura ecológica y conciencia ambiental entre los vecinos.",
+            "objective": "Desarrollar campañas de educación ambiental dirigidas a la comunidad.",
+            "goal": "Capacitar a 8,000 vecinos anualmente para el año 2030.",
+            "indicator": "Número de vecinos capacitados en temas ambientales."
+          },
+          {
+            "problem": "Altos niveles de contaminación sonora y ambiental en el distrito.",
+            "objective": "Realizar una fiscalización permanente de ruidos y emisiones contaminantes.",
+            "goal": "Lograr el 100% de cumplimiento de la normativa ambiental para el año 2030.",
+            "indicator": "Número de inspecciones realizadas."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos y manejo inadecuado de los mismos.",
+            "objective": "Establecer un sistema de gestión integral de residuos y promover el reciclaje.",
+            "goal": "Alcanzar el 60% de segregación de residuos para el año 2030.",
+            "indicator": "Porcentaje de residuos segregados en la fuente."
+          },
+          {
+            "problem": "Escasez de áreas verdes por habitante en el distrito.",
+            "objective": "Implementar el programa 'Breña Verde' para la creación y mantenimiento de espacios verdes.",
+            "goal": "Lograr un incremento del 40% en áreas verdes para el año 2030.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Excesiva burocracia municipal que dificulta los trámites para los vecinos.",
+            "objective": "Impulsar la modernización digital y la simplificación administrativa de los procedimientos.",
+            "goal": "Lograr una reducción del 70% en el tiempo de los trámites para el año 2030.",
+            "indicator": "Tiempo promedio de trámite."
+          },
+          {
+            "problem": "Desconexión entre la gestión municipal y las necesidades de los vecinos.",
+            "objective": "Fomentar la participación ciudadana a través del presupuesto participativo y audiencias vecinales.",
+            "goal": "Ejecutar 10 proyectos por año propuestos por los vecinos para el año 2030.",
+            "indicator": "Número de proyectos vecinales ejecutados."
+          },
+          {
+            "problem": "Poca transparencia en la gestión de los recursos y acciones municipales.",
+            "objective": "Implementar políticas de gobierno abierto y rendición de cuentas periódica a la ciudadanía.",
+            "goal": "Alcanzar el 100% de transparencia en la gestión para el año 2030.",
+            "indicator": "Nivel de transparencia municipal medido por entidades competentes."
+          },
+          {
+            "problem": "Personal municipal no capacitado para una gestión pública eficiente.",
+            "objective": "Implementar un programa de capacitación permanente en gestión pública para los funcionarios.",
+            "goal": "Capacitar al 100% del personal para el año 2030.",
+            "indicator": "Porcentaje de funcionarios capacitados."
+          },
+          {
+            "problem": "Insuficiente sistema de videovigilancia para la prevención del delito.",
+            "objective": "Instalar cámaras inteligentes conectadas a las centrales de Serenazgo y la Policía Nacional del Perú.",
+            "goal": "Contar con 300 cámaras operativas para el año 2030.",
+            "indicator": "Número de cámaras instaladas y operativas."
+          },
+          {
+            "problem": "Débil capacidad de respuesta del patrullaje municipal ante emergencias.",
+            "objective": "Incrementar y fortalecer el patrullaje integrado entre Serenazgo y la Policía Nacional del Perú.",
+            "goal": "Reducir el tiempo de respuesta a menos de 5 minutos para el año 2030.",
+            "indicator": "Tiempo promedio de respuesta a emergencias."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-ZWqgujWWLcRZzffpcskMshVsCTrerV7m",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/ZWqgujWWLcRZzffpcskMshVsCTrerV7m",
+      "sha256": "f50a8602530c64ab279af72d292b818b8c9be8b126153d209c7f7f2e230cb8cc",
+      "accessedAt": "2026-10-02T22:52:08.307Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032856",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032856",
+      "sha256": "bc98f7949276849ab7b4b42b859f1876c1a3fb3ff30b3f8c5327fa8bf1a80bea",
+      "accessedAt": "2026-10-02T22:52:08.796Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

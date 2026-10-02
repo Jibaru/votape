@@ -1,0 +1,170 @@
+{
+  "id": "qAD49ZfASGYIlpMJZvPqXsTGvkd7HIon",
+  "slug": "enrique-amador-escalante-carpio",
+  "electionId": "erm-2026",
+  "name": "Enrique Amador Escalante Carpio",
+  "givenNames": "Enrique Amador",
+  "surnames": "Escalante Carpio",
+  "age": 67,
+  "gender": "Masculino",
+  "party": {
+    "id": 2218,
+    "name": "PARTIDO POLITICO NACIONAL PERU LIBRE"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:52.740Z",
+      "sourceId": "jne-hv-qAD49ZfASGYIlpMJZvPqXsTGvkd7HIon"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CENECAPE RAUL GARVIN DIAZ - ESCUELAS AMÉRICANAS",
+        "program": "TÉCNICO EN CONTABILIDAD",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "DXN INTERNATIONAL PERÚ SAC",
+      "role": "DISTRIBUIDOR",
+      "from": "2015",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO CONTIGO",
+      "year": "2021"
+    },
+    {
+      "party": "PARTIDO NACIONALISTA PERUANO",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 18000,
+        "public": 0,
+        "private": 18000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/15617439-e6ea-4642-a8c0-82a1d2017299.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e1aca99f-c293-4620-b4fd-a61a84a07523.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, delincuencia y extorsión que afecta la tranquilidad de las familias en el distrito.",
+            "objective": "Recuperar la tranquilidad de las familias sanmartinianas.",
+            "goal": "Reducir la percepción de inseguridad y fortalecer la capacidad de respuesta ante emergencias.",
+            "indicator": "Tasa de percepción de inseguridad y tiempo de respuesta del serenazgo ante emergencias."
+          },
+          {
+            "problem": "Limitado acceso a servicios de salud preventiva para la población y alta prevalencia de anemia infantil.",
+            "objective": "Acercar servicios de salud preventiva a la población.",
+            "goal": "Reducir la anemia infantil y ampliar la cobertura de atención preventiva.",
+            "indicator": "Tasa de anemia infantil y porcentaje de cobertura de atención preventiva en el distrito."
+          },
+          {
+            "problem": "Insuficientes oportunidades educativas, culturales y deportivas para el desarrollo integral de niños y jóvenes.",
+            "objective": "Generar más oportunidades para niños y jóvenes.",
+            "goal": "Beneficiar a miles de jóvenes con programas educativos y deportivos.",
+            "indicator": "Número de beneficiarios de los programas educativos, culturales y deportivos municipales."
+          },
+          {
+            "problem": "Carencia de programas de atención e inclusión para poblaciones vulnerables como adultos mayores y personas con discapacidad.",
+            "objective": "Fortalecer la atención y la inclusión de las poblaciones vulnerables del distrito.",
+            "goal": "Mejorar la calidad de vida y la inclusión social de los adultos mayores y personas con discapacidad.",
+            "indicator": "Número de personas atendidas en el Centro Integral del Adulto Mayor y la OMAPED."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existencia de comercio informal desordenado y falta de oportunidades para el desarrollo de los emprendedores locales.",
+            "objective": "Ordenar el comercio y generar oportunidades económicas.",
+            "goal": "Mejorar las condiciones de trabajo de comerciantes y emprendedores del distrito.",
+            "indicator": "Número de comerciantes y emprendedores formalizados y capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de basura en la vía pública y una inadecuada gestión de los residuos sólidos.",
+            "objective": "Tener un distrito limpio y saludable durante todo el año.",
+            "goal": "Eliminar progresivamente los botaderos informales y mejorar la limpieza en todos los sectores del distrito.",
+            "indicator": "Número de botaderos informales eliminados y porcentaje de cobertura del servicio de limpieza."
+          },
+          {
+            "problem": "Deterioro de parques y escasez de áreas verdes que afectan el ornato y la calidad ambiental del distrito.",
+            "objective": "Recuperar el ornato y mejorar la calidad ambiental.",
+            "goal": "Incrementar significativamente las áreas verdes y mejorar el estado de conservación de parques y jardines.",
+            "indicator": "Hectáreas de áreas verdes recuperadas y mantenidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Débiles mecanismos de transparencia, rendición de cuentas y participación ciudadana en la gestión municipal.",
+            "objective": "Fortalecer la transparencia y luchar contra la corrupción en la administración municipal.",
+            "goal": "Implementar un gobierno digital, simplificar trámites y promover la fiscalización vecinal de las obras.",
+            "indicator": "Nivel de cumplimiento de la actualización del portal de transparencia y frecuencia de rendición de cuentas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-qAD49ZfASGYIlpMJZvPqXsTGvkd7HIon",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/qAD49ZfASGYIlpMJZvPqXsTGvkd7HIon",
+      "sha256": "ca18b96cd4c8d8c1eb531d9b6f76d4d80dc03303f80cd7b6ac7e064260bcb900",
+      "accessedAt": "2026-10-02T23:04:52.740Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021317",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021317",
+      "sha256": "60a7c425748dde4b9fe817948ffb166e9745666f9efe7e6567a43e9558c620ee",
+      "accessedAt": "2026-10-02T23:04:53.228Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

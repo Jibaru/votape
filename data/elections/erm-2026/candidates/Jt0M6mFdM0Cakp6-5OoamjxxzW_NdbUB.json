@@ -1,0 +1,215 @@
+{
+  "id": "Jt0M6mFdM0Cakp6-5OoamjxxzW_NdbUB",
+  "slug": "hugo-roberto-encalada-chumbile",
+  "electionId": "erm-2026",
+  "name": "Hugo Roberto Encalada Chumbile",
+  "givenNames": "Hugo Roberto",
+  "surnames": "Encalada Chumbile",
+  "age": 42,
+  "gender": "Masculino",
+  "party": {
+    "id": 2944,
+    "name": "PARTIDO UNIDAD Y PAZ"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:13.037Z",
+      "sourceId": "jne-hv-Jt0M6mFdM0Cakp6-5OoamjxxzW_NdbUB"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ESCUELA DE EDUCACION SUPERIOR TECNICO PROFESIONAL PNP PUENTE PIEDRA",
+        "program": "PROFESIONAL TÉCNICO EN CIENCIAS ADMINISTRATIVAS Y POLICIALES",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilazo de la Vega",
+        "program": "Derecho",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE PUNTA NEGRA",
+      "role": "FISCALIZADOR",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "POLICIA NACIONAL DEL PERU",
+      "role": "POLICIA",
+      "from": "2007",
+      "to": "2022"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [
+    {
+      "position": "SECRETARIO DISTRITAL DE SURCO",
+      "party": "PARTIDO POLÍTICO PARTIDO UNIDAD Y PAZ",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2022"
+    },
+    {
+      "party": "PROGRESEMOS",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 10000,
+        "public": 10000,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/83d998de-12b3-47ea-ae0c-1c30d18f6eba.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e5111b64-798f-4ee8-a0f2-1f256084d17d.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de infraestructura social para grupos vulnerables, ya que los jóvenes no cuentan con espacios de integración y los centros del adulto mayor carecen de equipamiento y servicios básicos.",
+            "objective": "Construir una Casa de la Juventud y equipar los centros del adulto mayor con servicios esenciales para cubrir las necesidades de estas poblaciones.",
+            "goal": "Inaugurar 1 Casa de la Juventud para 2028. Equipar el 100% de los centros del adulto mayor con servicios básicos para 2029.",
+            "indicator": "Número de infraestructuras sociales construidas o equipadas (Casa de la Juventud, centros del adulto mayor). Porcentaje de centros del adulto mayor con servicios básicos implementados."
+          },
+          {
+            "problem": "La proliferación de comercio ambulatorio y locales sin licencias de funcionamiento ni certificados de seguridad genera condiciones insalubres y de alto riesgo para la población.",
+            "objective": "Erradicar el comercio informal y regular los locales comerciales mediante fiscalización constante y sectorizada, exigiendo licencias y certificados de seguridad.",
+            "goal": "Fiscalizar y regularizar el 100% de los locales comerciales en el distrito para 2030. Reducir el comercio ambulatorio no autorizado en un 80% para 2030.",
+            "indicator": "Número de locales fiscalizados y regularizados por mes. Número de intervenciones a comercio ambulatorio no autorizado."
+          },
+          {
+            "problem": "Alta incidencia de robos, asaltos a domicilios y robos de autopartes en zonas residenciales, lo que expone a los vecinos a riesgos constantes, afectando su calidad de vida y percepción de seguridad.",
+            "objective": "Implementar un sistema de vigilancia sectorizado con 2,500 serenos y 100 policías en coordinación con la Policía Nacional, para garantizar la cobertura total en el distrito.",
+            "goal": "Lograr el despliegue de 2,500 serenos y 100 policías en operación para 2027. Reducir la percepción de inseguridad en un 25% para el 2030.",
+            "indicator": "Número de serenos y policías desplegados por zona. Porcentaje de reducción de delitos reportados (robos, asaltos, robos de autopartes)."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Tarifas excesivas en servicios públicos de infraestructuras municipales, como gimnasios y estadios, que cobran tarifas similares a las de empresas privadas, limitando el acceso de los vecinos.",
+            "objective": "Ajustar las tarifas de uso en infraestructuras públicas para que reflejen solo los costos de mantenimiento, eliminando sobreprecios y garantizando la accesibilidad.",
+            "goal": "Reducir las tarifas de uso en un 40% para 2027. Ajustar las tarifas en el 100% de las infraestructuras públicas para 2030.",
+            "indicator": "Porcentaje de reducción en las tarifas de uso de infraestructuras públicas. Número de infraestructuras con tarifas ajustadas."
+          },
+          {
+            "problem": "La informalidad comercial, manifestada en comercio ambulatorio y negocios sin licencia, ocupa la vía pública, generando competencia desleal y riesgos para la salud y seguridad de los vecinos.",
+            "objective": "Formalizar el comercio mediante campañas de regularización y fiscalización, eliminando el comercio ambulatorio no autorizado y clausurando locales sin permisos.",
+            "goal": "Formalizar el 70% de los comerciantes informales para 2030. Clausurar el 100% de los locales sin licencias para 2030.",
+            "indicator": "Número de comerciantes formalizados por año. Número de clausuras de locales sin licencias."
+          },
+          {
+            "problem": "Crecimiento inmobiliario desordenado con mega edificios que ha generado un aumento poblacional y vehicular no planificado, colapsando servicios básicos y reduciendo áreas verdes.",
+            "objective": "Regular la densidad urbana mediante la revisión de la zonificación en coordinación con la Municipalidad de Lima y el IMP, para limitar el crecimiento desmedido y preservar la infraestructura y áreas verdes.",
+            "goal": "Presentar solicitudes de cambio de zonificación para el 100% de las zonas vulnerables para 2030. Reducir la construcción de mega edificios en zonas no preparadas en un 50% para 2027.",
+            "indicator": "Número de solicitudes de cambio de zonificación presentadas ante la Municipalidad de Lima. Porcentaje de reducción en la construcción de mega edificios en zonas no preparadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad de servicios básicos por crecimiento inmobiliario, dado que el aumento descontrolado de la densidad poblacional ha sobrecargado servicios como agua y electricidad.",
+            "objective": "Coordinar con las autoridades competentes para planificar el crecimiento urbano, mejorar la infraestructura de servicios y evitar la sobrecarga crítica.",
+            "goal": "Incrementar la elaboración del 25% de expedientes técnicos para obras de infraestructura crítica para 2028. Incrementar las mejoras de los servicios básicos en un 50% para 2030.",
+            "indicator": "Número de expedientes técnicos elaborados para obras de infraestructura crítica. Porcentaje de incremento en mejoras de servicios básicos (agua, luz)."
+          },
+          {
+            "problem": "Déficit de áreas verdes, ya que el crecimiento urbano ha reducido drásticamente los parques por habitante, y la falta de personal agrava su mantenimiento.",
+            "objective": "Priorizar el presupuesto municipal para contratar personal calificado y recuperar el ornato de áreas verdes, asegurando su mantenimiento óptimo.",
+            "goal": "Contratar 50 jardineros adicionales para 2027. Alcanzar el 100% de áreas verdes con mantenimiento óptimo para 2030.",
+            "indicator": "Número de jardineros contratados y asignados por sector. Porcentaje de áreas verdes con mantenimiento óptimo."
+          },
+          {
+            "problem": "Sobrecostos en la gestión de residuos sólidos debido a contratos heredados con costos injustificados, lo que encarece el servicio sin mejorar su eficiencia.",
+            "objective": "Renegociar los contratos de concesión para eliminar sobrecostos y ajustar las tarifas a la demanda real del distrito.",
+            "goal": "Reducir los costos operativos en un 10% para 2027. Renegociar el 100% de los contratos de concesión para 2027.",
+            "indicator": "Porcentaje de reducción en los costos operativos de recolección de residuos sólidos. Número de contratos renegociados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Brecha digital en la gobernanza municipal, pues los ciudadanos enfrentan dificultades para realizar trámites y acceder a plataformas digitales por falta de funcionalidad, guías o acompañamiento.",
+            "objective": "Digitalizar trámites e implementar guías prácticas para facilitar el acceso de los vecinos a los servicios en línea, reduciendo la dependencia de trámites presenciales.",
+            "goal": "Digitalizar el 75% de los trámites municipales para 2030. Implementar guías de apoyo para el 100% de los trámites digitalizados para 2030.",
+            "indicator": "Número de trámites municipales digitalizados y operativos. Número de guías o materiales de apoyo implementados para ciudadanos."
+          },
+          {
+            "problem": "Burocracia ineficiente en entidades municipales, donde la duplicidad de funciones en entidades como EMUSA genera costos operativos elevados sin mejorar la calidad de los servicios.",
+            "objective": "Optimizar la estructura organizacional, eliminando personal redundante y simplificando procesos para reducir costos y mejorar la eficiencia.",
+            "goal": "Eliminar el 50% de los puestos redundantes para 2028. Reducir los costos operativos en un 25% para 2028.",
+            "indicator": "Número de puestos de trabajo eliminados o reorganizados. Porcentaje de reducción en costos operativos de entidades municipales."
+          },
+          {
+            "problem": "Falta de planificación técnica en obras públicas, ya que la ausencia de expedientes técnicos detallados ha generado sobrecostos en proyectos, afectando el presupuesto municipal.",
+            "objective": "Exigir expedientes técnicos completos y aprobados antes del inicio de cualquier obra pública, para evitar improvisaciones y sobrecostos.",
+            "goal": "Garantizar que el 100% de las obras públicas cuenten con expedientes técnicos aprobados desde 2027. Ejecutar el 100% de las obras sin sobrecostos no contemplados para 2030.",
+            "indicator": "Porcentaje de obras públicas con expedientes técnicos aprobados antes de su inicio. Número de obras ejecutadas sin sobrecostos no contemplados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Jt0M6mFdM0Cakp6-5OoamjxxzW_NdbUB",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Jt0M6mFdM0Cakp6-5OoamjxxzW_NdbUB",
+      "sha256": "226735e52ab988b2fcf854fc8cb9594d482450a665a53f9909783aa367e736fb",
+      "accessedAt": "2026-10-02T23:06:13.037Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026018468",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026018468",
+      "sha256": "ec7b1d312c476f1386c73ea255ac32b190a71e351688daf29e401da2b76c0097",
+      "accessedAt": "2026-10-02T23:06:13.567Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

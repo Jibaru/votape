@@ -1,0 +1,281 @@
+{
+  "id": "cDgp236DRoNuImM85ZxkcdGE3bTU6tzJ",
+  "slug": "sergio-joan-castromonte-chaparro",
+  "electionId": "erm-2026",
+  "name": "Sergio Joan Castromonte Chaparro",
+  "givenNames": "Sergio Joan",
+  "surnames": "Castromonte Chaparro",
+  "age": 33,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140110",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:22.604Z",
+      "sourceId": "jne-hv-cDgp236DRoNuImM85ZxkcdGE3bTU6tzJ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ISIL",
+        "program": "ADMINISTRACION DE EMPRESAS",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "USIL",
+        "program": "ING INDUSTRIAL",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "SCTR CALLAO EIRL",
+      "role": "GERENTE GENERAL",
+      "from": "2021",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD JESÚS MARÍA",
+      "role": "COORDINADOR PROYECTOS",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "OPERACIONES Y SERVICIOS TOMASZEK-STRZALKOWSKI EIRL",
+      "role": "ADMINISTRADOR",
+      "from": "2020",
+      "to": "2022"
+    },
+    {
+      "employer": "GRUPO ATELIER SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2016",
+      "to": "2019"
+    },
+    {
+      "employer": "MAZZDY INVERSIONES Y SERVICIOS",
+      "role": "ADMINISTRADOR",
+      "from": "2014",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PERU PATRIA SEGURA",
+      "year": null
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 328053,
+        "public": 84000,
+        "private": 244053
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 68877.7,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 41195.7,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "HONDA NAVI COLOR BLANCO AÑO 2024",
+        "value": 21000
+      },
+      {
+        "type": "BMW X5 DORADO 2013",
+        "value": 100000
+      },
+      {
+        "type": "MAHINDRA PIK UP COLOR GUINDA AÑO 2016",
+        "value": 38000
+      },
+      {
+        "type": "NISSAN PULSAR COLOR BLANCO",
+        "value": 18000
+      },
+      {
+        "type": "AUDI Q7 COLOR BLANCO CARRARA 2018",
+        "value": 175000
+      },
+      {
+        "type": "FORD EXPLORER XLT COLOR NEGRO 1996",
+        "value": 35000
+      },
+      {
+        "type": "GREAT WALL WINGLE 5 BLANCO 2022",
+        "value": 45000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACION AMANCAES S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 49607,
+        "value": 1
+      },
+      {
+        "company": "SCTR CALLAO EIRL",
+        "type": "PARTICIPACIONES",
+        "quantity": 500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/44ce1a96-d6dd-4151-a754-1c459b8227f1.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/25f2874f-a900-4d03-8b90-a058d8b8a9b0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana, delitos contra el patrimonio y percepción de miedo en calles, parques, paraderos, zonas comerciales y viviendas.",
+            "objective": "Reducir la incidencia delictiva y recuperar la tranquilidad vecinal mediante control territorial, patrullaje focalizado, videovigilancia operativa, coordinación con la PNP y respuesta rápida.",
+            "goal": "Reducir la tasa de denuncias por delitos contra el patrimonio de 13.22 a 10.8 por cada mil habitantes al 2030.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio por cada mil habitantes."
+          },
+          {
+            "problem": "Congestión vehicular, desorden vial y pérdida de tiempo de las familias en corredores e intersecciones críticas del distrito.",
+            "objective": "Mejorar la movilidad urbana mediante gestión inteligente del tránsito, semaforización coordinada, destrabe de puntos críticos, fiscalización vial, mantenimiento de vías y articulación con ATU y MML.",
+            "goal": "Incrementar la velocidad promedio en corredores priorizados de 11.7 km/h a 30 km/h al 2030.",
+            "indicator": "Velocidad promedio de viaje en corredores priorizados."
+          },
+          {
+            "problem": "Brechas en servicios de desarrollo humano, espacios públicos, cultura, deporte, atención a adultos mayores y apoyo a familias.",
+            "objective": "Fortalecer los servicios de desarrollo humano mediante parques inclusivos, actividades culturales y deportivas, recuperación del CIAM, apoyo a familias y mantenimiento de espacios públicos.",
+            "goal": "Incrementar el uso de los servicios de desarrollo humano de 10% al 40% e incrementar la cobertura de servicios del CIAM de 32.45% a 90% al 2030.",
+            "indicator": "Porcentaje de uso de los servicios de desarrollo humano y porcentaje de cobertura de servicios a usuarios del CIAM."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Actividad económica desordenada, informalidad, conflictos por ruido, ocupación de veredas, estacionamiento y afectación a la residencialidad.",
+            "objective": "Ordenar la actividad económica con reglas claras, fiscalización razonable, prevención de conflictos y protección de la convivencia entre comercio y vida residencial.",
+            "goal": "Implementar planes de ordenamiento y convivencia en el 100% de zonas económicas priorizadas al 2030.",
+            "indicator": "Porcentaje de zonas económicas priorizadas con plan de ordenamiento, fiscalización y convivencia implementado."
+          },
+          {
+            "problem": "Bajo aprovechamiento del potencial emprendedor, universitario, empresarial, cultural y de innovación del distrito.",
+            "objective": "Impulsar el emprendimiento, el empleo local y la innovación mediante un Centro de Desarrollo Empresarial, programas de capacitación y alianzas con empresas, universidades e instituciones.",
+            "goal": "Contar con un Centro de Desarrollo Empresarial operativo, con programas permanentes de emprendimiento, empleo e innovación al 2030.",
+            "indicator": "Centro de Desarrollo Empresarial implementado y operativo."
+          },
+          {
+            "problem": "Trámites lentos, confusos y poco trazables que elevan costos, afectan la inversión responsable y dificultan la formalización.",
+            "objective": "Simplificar, digitalizar y hacer trazables los trámites municipales vinculados a licencias, autorizaciones, actividad económica y atención al emprendedor.",
+            "goal": "Alcanzar el 100% de trámites económicos priorizados con trazabilidad digital al 2030.",
+            "indicator": "Porcentaje de trámites económicos priorizados con trazabilidad digital."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de mantenimiento urbano, deterioro de parques, bermas, mobiliario y espacios públicos de alto uso vecinal.",
+            "objective": "Recuperar y mantener áreas verdes, bermas, parques y espacios públicos con estándares de calidad, rutas programadas y control de mantenimiento.",
+            "goal": "Intervenir el 100% de espacios públicos y áreas verdes priorizadas al 2030.",
+            "indicator": "Porcentaje de espacios públicos y áreas verdes priorizadas intervenidas bajo estándar de mantenimiento."
+          },
+          {
+            "problem": "Riesgos en laderas, quebradas, taludes, zonas de incendio, ocupación informal y limitada preparación ante emergencias.",
+            "objective": "Reducir la exposición al riesgo mediante prevención, control territorial, gestión de quebradas y taludes, fortalecimiento de defensa civil, equipamiento y preparación comunitaria.",
+            "goal": "Atender el 100% de puntos críticos de riesgo priorizados con medidas preventivas o de mitigación al 2030.",
+            "indicator": "Porcentaje de puntos críticos de riesgo priorizados con intervención preventiva o medidas de mitigación."
+          },
+          {
+            "problem": "Deterioro de la residencialidad: ruido, actividades incompatibles, informalidad y conflictos vecinales por falta de reglas claras y control efectivo.",
+            "objective": "Proteger la residencialidad y la convivencia vecinal, evitando el crecimiento desordenado del distrito.",
+            "goal": "Monitorear el 100% de solicitudes de cambios de uso, zonificación y alturas, identificadas y socializadas para preservar la residencialidad.",
+            "indicator": "Porcentaje de cambios de uso, zonificación y alturas monitoreadas por la Municipalidad para preservar la residencialidad."
+          },
+          {
+            "problem": "Limpieza pública insuficiente, puntos críticos de acumulación de residuos y necesidad de mayor orden ambiental.",
+            "objective": "Mejorar la limpieza pública mediante rutas eficientes, control de calidad, fiscalización ambiental, cultura ciudadana y soluciones modernas para la gestión de residuos.",
+            "goal": "Incrementar de 20.6% a 60% la gestión de residuos mediante contenedores u otras soluciones de ordenamiento al 2030.",
+            "indicator": "Porcentaje de residuos sólidos gestionados mediante contenedores u otras soluciones de ordenamiento del servicio."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Proyectos de inversión municipales trabados, expedientes débiles y limitada conexión entre gasto público y resultados visibles.",
+            "objective": "Fortalecer la ejecución de inversiones mediante cartera priorizada, mesa de destrabe, control de ruta crítica, seguimiento físico-financiero y entrega oportuna de proyectos.",
+            "goal": "Alcanzar y sostener una ejecución presupuestal de inversiones de al menos 95% al 2030.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversiones."
+          },
+          {
+            "problem": "Atención municipal lenta, trámites con muchas vueltas, baja trazabilidad y canales que no resuelven en tiempos razonables.",
+            "objective": "Modernizar la atención al vecino mediante simplificación, digitalización, trazabilidad de trámites, mejora de canales y reducción de tiempos de respuesta.",
+            "goal": "Incrementar la satisfacción ciudadana con los servicios municipales de 20.06% a 60% al 2030.",
+            "indicator": "Porcentaje de ciudadanos satisfechos con los servicios prestados por la municipalidad."
+          },
+          {
+            "problem": "Débil rendición de cuentas, riesgos de integridad, falta de información para decidir y escaso seguimiento público de metas y proyectos.",
+            "objective": "Implementar un modelo de gobierno abierto, integridad, transparencia y gestión basada en datos, con tablero público, reportes periódicos y control ciudadano.",
+            "goal": "Implementar un tablero público de seguimiento y publicar reportes trimestrales de avance durante el período de gobierno.",
+            "indicator": "Tablero Distrital de Gestión y Rendición de Cuentas implementado y actualizado."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cDgp236DRoNuImM85ZxkcdGE3bTU6tzJ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cDgp236DRoNuImM85ZxkcdGE3bTU6tzJ",
+      "sha256": "92c906bcb53fd36ab4bbac06dfbde1a2fe023fb23b3d92251288976590fa1233",
+      "accessedAt": "2026-10-02T22:57:22.604Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019381",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019381",
+      "sha256": "8f04f12194a3cd1e9498199148fe9ee758a67f4ddc1ae957703aaf7221021db7",
+      "accessedAt": "2026-10-02T22:57:23.299Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

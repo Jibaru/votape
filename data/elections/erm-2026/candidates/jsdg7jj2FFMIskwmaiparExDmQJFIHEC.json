@@ -1,0 +1,194 @@
+{
+  "id": "jsdg7jj2FFMIskwmaiparExDmQJFIHEC",
+  "slug": "anndy-miguel-duran-nunez",
+  "electionId": "erm-2026",
+  "name": "Anndy Miguel Duran Nuñez",
+  "givenNames": "Anndy Miguel",
+  "surnames": "Duran Nuñez",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:00.832Z",
+      "sourceId": "jne-hv-jsdg7jj2FFMIskwmaiparExDmQJFIHEC"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2014"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DEL PACIFICO",
+        "program": "GESTION PUBLICA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "ESTUDIO JURIDICO DURAN NUÑEZ Y ABOGADOS",
+      "role": "ABOGADO",
+      "from": "2014",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 0,
+        "private": 120000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAMIONETA SUSUKI",
+        "value": 35000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ff82532d-18ef-43f4-a05d-24a066c93c65.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/155ff697-f4b5-4d5a-a0de-cab64a6841b3.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistente crisis delictiva y alta percepción de inseguridad ciudadana, caracterizada por sicariato, robos, extorsiones y deficiente coordinación institucional.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la implementación de tecnología, mejora de la infraestructura y una mayor articulación entre el serenazgo, la Policía Nacional y la comunidad.",
+            "goal": "Instalar 600 cámaras de videovigilancia 360°, construir 200 puestos de auxilio rápido y poner en funcionamiento el Grupo de Auxilio Rápido (GAR).",
+            "indicator": "Número de cámaras de videovigilancia instaladas. Número de puestos de auxilio rápido construidos. Creación de un grupo especializado de serenazgo (GAR)."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad, especialmente para poblaciones vulnerables como adultos mayores, niños y personas con discapacidad, y falta de atención al bienestar animal.",
+            "objective": "Garantizar el acceso oportuno y con enfoque preventivo a los servicios sanitarios, priorizando el bienestar físico y mental de la población y el cuidado de los animales.",
+            "goal": "Implementar el programa 'Salud para todos' con campañas médicas periódicas, establecer una Farmacia Municipal a costo social y crear veterinarias municipales en cada sector del distrito.",
+            "indicator": "Creación de programas de salud itinerantes. Implementación de farmacias municipales. Creación de veterinarias municipales por sector."
+          },
+          {
+            "problem": "Carencia de espacios y programas para el desarrollo educativo, cultural y deportivo de la población, limitando la formación integral y la cohesión social.",
+            "objective": "Promover la educación, la cultura y el deporte a través de la creación de infraestructura y programas accesibles que fomenten el desarrollo de habilidades y la identidad local.",
+            "goal": "Establecer una Academia y Escuela Técnica Municipal a costo social, crear una ruta turística y desarrollar un programa de competencias deportivas municipales anuales.",
+            "indicator": "Creación de la Academia y Escuela Técnica Municipal. Creación de la ruta turística sanmartiniana. Implementación de canchas deportivas y campeonatos municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existencia de barreras burocráticas que dificultan la formalización y el crecimiento de las micro y pequeñas empresas (MYPES) y los mercados de abastos.",
+            "objective": "Fortalecer la competitividad de las MYPES y modernizar los mercados de abastos, promoviendo la formalización y facilitando el crecimiento de los negocios locales.",
+            "goal": "Lanzar el aplicativo 'Formalízate ya' para agilizar licencias, realizar campañas de formalización con módulos de atención personalizada en mercados y eliminar la burocracia en la obtención de licencias.",
+            "indicator": "Creación de aplicativos para la simplificación de trámites. Número de campañas de formalización realizadas. Implementación de un sistema de sanción progresiva."
+          },
+          {
+            "problem": "Desorden y falta de formalización del comercio ambulatorio, lo que genera un uso inadecuado de los espacios públicos y afecta la convivencia ciudadana.",
+            "objective": "Promover el ordenamiento y la formalización del comercio ambulatorio, garantizando el uso adecuado de los espacios públicos y fortaleciendo las oportunidades económicas.",
+            "goal": "Formalizar el comercio ambulatorio del distrito y realizar ferias semanales en cada sector para la promoción de sus productos y servicios.",
+            "indicator": "Porcentaje de comerciantes ambulantes formalizados. Número de ferias semanales para emprendedores ambulantes implementadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Gestión deficiente de los residuos sólidos municipales y una limitada cultura de concientización ambiental en la ciudadanía.",
+            "objective": "Fortalecer la gestión de la limpieza pública y promover una cultura de cuidado del ambiente a través de la optimización de servicios y la participación ciudadana.",
+            "goal": "Mejorar el manejo de residuos sólidos optimizando la recolección, fomentar la segregación en la fuente con recicladores formales y crear campañas de reciclaje con bonos de 'Buen Vecino' para descuentos en arbitrios.",
+            "indicator": "Optimización de horarios de recolección de residuos. Número de programas de segregación en la fuente implementados. Creación de campañas de reciclaje con incentivos."
+          },
+          {
+            "problem": "Déficit de áreas verdes, parques y jardines, así como un mantenimiento inadecuado de los existentes, afectando la calidad de vida de los vecinos.",
+            "objective": "Impulsar la ampliación, el mantenimiento y la adecuada infraestructura de los espacios verdes del distrito para mejorar la calidad de vida de los vecinos.",
+            "goal": "Implementar y mejorar parques y jardines en zonas que carecen de ellos, fomentar la creación de biohuertos comunitarios y promover la arborización del distrito.",
+            "indicator": "Número de parques y jardines nuevos o mejorados. Implementación de biohuertos o jardines comunitarios. Creación de una plataforma virtual para la promoción del vivero municipal."
+          },
+          {
+            "problem": "Desorden en el sistema de transporte público y de vehículos menores, generando inseguridad vial y una movilidad ineficiente para los ciudadanos.",
+            "objective": "Mejorar la seguridad y eficiencia del transporte en el distrito, ordenando el tránsito y formalizando los servicios para garantizar una movilidad segura.",
+            "goal": "Realizar campañas para la correcta señalización de vías, empadronar y formalizar a las empresas de transporte de vehículos menores, y gestionar paraderos debidamente señalizados.",
+            "indicator": "Número de campañas de semaforización y señalización. Implementación de cursos de seguridad vial. Porcentaje de empresas de transporte de vehículos menores formalizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Percepción de arbitrariedad en el alza de tributos y falta de transparencia en la gestión municipal, lo que debilita la confianza de los ciudadanos.",
+            "objective": "Promover una gestión tributaria responsable y una administración transparente, asegurando que la información sobre el uso de los recursos públicos sea accesible para todos los vecinos.",
+            "goal": "Crear el programa 'tu alcalde te escucha' para citas personalizadas y la campaña 'Gestión transparente' para la publicación permanente de los gastos municipales.",
+            "indicator": "Creación de programas de comunicación directa entre el alcalde y los vecinos. Implementación de plataformas de datos abiertos sobre la gestión municipal."
+          },
+          {
+            "problem": "Existencia de corrupción en la gestión pública y mecanismos de control insuficientes para garantizar una administración transparente y eficiente.",
+            "objective": "Fortalecer los mecanismos de control, promover la integridad en los servidores públicos y asegurar el uso correcto de los recursos municipales para combatir la corrupción.",
+            "goal": "Crear una oficina de integridad, digitalizar los trámites para reducir el contacto directo con funcionarios y establecer el programa 'tu última chamba' para sancionar de forma inmediata los actos de corrupción.",
+            "indicator": "Creación de una oficina de integridad y lucha contra la corrupción. Digitalización de trámites municipales. Creación de canales de denuncia anónima."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-jsdg7jj2FFMIskwmaiparExDmQJFIHEC",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/jsdg7jj2FFMIskwmaiparExDmQJFIHEC",
+      "sha256": "e5d93e8a3f523cc1e2b05cf4eadda360b0a89663a9978eeda22e9d5b264ea274",
+      "accessedAt": "2026-10-02T23:05:00.832Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022785",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022785",
+      "sha256": "d4edb6b4d7dc6e6965b165287711f2c9a081f106d84c272d9a684e887225c3e6",
+      "accessedAt": "2026-10-02T23:05:01.317Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

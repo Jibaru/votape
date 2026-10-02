@@ -1,0 +1,318 @@
+{
+  "id": "lg2y2wGVJURtJwv4WYsiClt8-Qo1SSn6",
+  "slug": "marco-antonio-tello-castro",
+  "electionId": "erm-2026",
+  "name": "Marco Antonio Tello Castro",
+  "givenNames": "Marco Antonio",
+  "surnames": "Tello Castro",
+  "age": 31,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140107",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:53:41.419Z",
+      "sourceId": "jne-hv-lg2y2wGVJURtJwv4WYsiClt8-Qo1SSn6"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio de Loyola S.A.",
+        "program": "BACHILLER EN MARKETING Y GESTIÓN COMERCIAL",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD SAN IGNACIO DE LOYOLA S.A.",
+        "program": "MAESTRIA EN GESTION PUBLICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INDEPENDIENTE",
+      "role": "SERVICIO DE COORDINACION Y SUPERVISION DE SEGURIDAD Y VIGILANCIA",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "GET GO PERU RENT A CAR SOCIEDAD ANONIMA CERRADA",
+      "role": "SUB GERENTE COMERCIAL",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "TELLO SANCHEZ MARCO ANTONIO",
+      "role": "ADMINISTRADOR",
+      "from": "2020",
+      "to": "2024"
+    },
+    {
+      "employer": "MINISTERIO DEL INTERIOR",
+      "role": "SUBPREFECTO DISTRITAL DE CHACLACAYO",
+      "from": "2018",
+      "to": "2020"
+    },
+    {
+      "employer": "TELLO SANCHEZ MARCO ANTONIO",
+      "role": "ADMINISTRADOR",
+      "from": "2017",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2020"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 94000,
+        "public": 6000,
+        "private": 88000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "CASA",
+        "value": 19286.16,
+        "registeredInSunarp": false
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTO SEDAN PLATA METALICO MODELO AÑO 2019",
+        "value": 47600
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "TRANSPORTES TE.CA. S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 2000,
+        "value": 2000
+      },
+      {
+        "company": "GET GO PERU RENT A CAR SOCIEDAD ANONIMA CERRADA",
+        "type": "ACCIONES",
+        "quantity": 60000,
+        "value": 60000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/17b52e18-1b4d-4295-9c50-be5b84a80629.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/241954a0-ef93-40cf-904b-b14aad8732d9.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persisten problemas de informalidad, desorden operativo, insuficiente fiscalización y deficiencias en la seguridad del servicio de transporte menor.",
+            "objective": "Fortalecer la formalización, regulación y fiscalización del transporte menor, garantizando un servicio seguro, ordenado, eficiente y plenamente integrado al sistema de movilidad urbana del distrito.",
+            "goal": "Alcanzar el 85% de asociaciones de mototaxis formalizadas y el 100% de paraderos autorizados y señalizados.",
+            "indicator": "Porcentaje de asociaciones de mototaxis formalizadas y porcentaje de paraderos autorizados y señalizados."
+          },
+          {
+            "problem": "Insuficiente acceso a servicios veterinarios básicos para mascotas de familias de bajos recursos y limitada promoción de la tenencia responsable de animales de compañía.",
+            "objective": "Promover el bienestar animal y proteger la salud pública mediante la implementación de servicios veterinarios municipales, programas de tenencia responsable y campañas de control sanitario.",
+            "goal": "Consolidar la Veterinaria Municipal, realizar 8 campañas de salud animal por año y beneficiar a 3,000 mascotas con atención veterinaria.",
+            "indicator": "Implementación de la Veterinaria Municipal, campañas de salud animal realizadas por año y mascotas beneficiadas con atención veterinaria."
+          },
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana y limitada capacidad de vigilancia preventiva debido a la falta de infraestructura tecnológica y coordinación interinstitucional.",
+            "objective": "Fortalecer la prevención y respuesta frente a la delincuencia mediante el uso de tecnología y la articulación de las instituciones de seguridad.",
+            "goal": "2027",
+            "indicator": "Implementar una Torre Integrada de Videovigilancia, conectando a la Municipalidad, Policía Nacional, Grupo Terna y Fiscalía para optimizar el monitoreo y la intervención oportuna."
+          },
+          {
+            "problem": "Limitada cobertura y articulación de los programas sociales, insuficiente acceso de la población vulnerable a los servicios de protección social y escasas oportunidades para el desarrollo de mujeres, niños, adolescentes, personas con discapacidad y adultos mayores.",
+            "objective": "Fortalecer la cobertura, calidad y eficiencia de los programas sociales y servicios de protección, promoviendo la inclusión social, la igualdad de oportunidades y la atención integral de las poblaciones en situación de vulnerabilidad.",
+            "goal": "Atender al 100% de la población vulnerable a través de programas y servicios sociales municipales.",
+            "indicator": "Porcentaje de población vulnerable atendida a través de programas y servicios sociales municipales."
+          },
+          {
+            "problem": "Persisten brechas en infraestructura urbana que limitan la calidad de vida de los vecinos, evidenciadas en la insuficiente cobertura de pistas y veredas, déficit de espacios públicos y carencias en infraestructura para la prevención de riesgos.",
+            "objective": "Reducir progresivamente las brechas de infraestructura pública mediante la ejecución de proyectos de movilidad urbana, espacios públicos, áreas verdes, infraestructura de prevención de riesgos y obras complementarias que contribuyan al desarrollo sostenible.",
+            "goal": "Lograr el 100% de cierre de brechas de infraestructura pública.",
+            "indicator": "Porcentaje acumulado de cierre de brechas de infraestructura pública."
+          },
+          {
+            "problem": "Persisten deficiencias en la cobertura, continuidad, presión y calidad de los servicios de agua potable y alcantarillado, así como limitaciones en la infraestructura y gestión de los sistemas administrados.",
+            "objective": "Garantizar el acceso universal, continuo y de calidad a los servicios de agua potable y alcantarillado, mediante la modernización de la infraestructura sanitaria, el fortalecimiento de la gestión operativa y la mejora de la calidad del servicio.",
+            "goal": "Alcanzar el 100% de cobertura de agua potable y alcantarillado, reducir el ratio de fallas al 5% y lograr el 100% de cumplimiento de los parámetros de calidad del agua.",
+            "indicator": "Cobertura de agua potable y alcantarillado en zonas administradas por la municipalidad, ratio de fallas en el sistema de agua y alcantarillado, y cumplimiento de parámetros de calidad del agua."
+          },
+          {
+            "problem": "Carencia en diversas zonas de pistas, veredas, zonas de recreación, infraestructura de prevención de riesgos y otras obras.",
+            "objective": "Mejorar la transitabilidad mediante obras de pistas y veredas, zonas de recreación y áreas verdes, infraestructura de prevención de riesgos y otras obras.",
+            "goal": "2027 (25%) 2028 (50%) 2029 (75%) 2030 (100%)",
+            "indicator": "% acumulado de atención en cierre de brechas de Infraestructura pública"
+          },
+          {
+            "problem": "Problemas de acceso al agua de calidad y alcantarillado.",
+            "objective": "Mejorar y ampliar el acceso al agua y alcantarillado.",
+            "goal": "2027 (90%) 2028 (95%) 2029 (98%) 2030 (100%)",
+            "indicator": "% Cobertura de agua potable de calidad y alcantarillado en sectores administrados por la Municipalidad"
+          },
+          {
+            "problem": "Incremento de la percepción de inseguridad ciudadana y limitada capacidad de vigilancia preventiva debido a la falta de infraestructura tecnológica y coordinación interinstitucional.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la implementación de una Torre Integrada de Videovigilancia y Monitoreo, que permita la coordinación permanente entre la Municipalidad de Chaclacayo, la Policía Nacional del Perú, el Grupo Terna y el Ministerio Público, mejorando la prevención, detección y respuesta frente a hechos delictivos.",
+            "goal": "Implementar y operar 1 Torre Integrada de Videovigilancia, integrar a 4 instituciones al sistema de monitoreo, aumentar en un 100% las cámaras de videovigilancia integradas, reducir en un 40% el tiempo de respuesta e incrementar en un 100% los operativos conjuntos.",
+            "indicator": "Torre Integrada de Videovigilancia implementada y operativa, instituciones integradas al sistema de monitoreo, cámaras de videovigilancia integradas al centro de monitoreo, tiempo promedio de respuesta ante incidencias reportadas y operativos conjuntos realizados."
+          },
+          {
+            "problem": "Limitada capacidad resolutiva de los establecimientos de salud de primer nivel y persistencia de la desnutrición crónica infantil.",
+            "objective": "Fortalecer la atención primaria de salud mediante la mejora de la infraestructura, equipamiento y recursos humanos de los establecimientos de salud I-2 e I-3, así como implementar acciones de prevención y control de la desnutrición crónica infantil.",
+            "goal": "Recuperar la capacidad resolutiva de 4 establecimientos de salud de primer nivel y reducir la Desnutrición Crónica Infantil al 4% en el distrito.",
+            "indicator": "Establecimientos de Salud de Primer Nivel (I-2 e I-3) que recuperan su capacidad resolutiva y porcentaje de niños menores de 5 años con Desnutrición Crónica Infantil (DCI)."
+          },
+          {
+            "problem": "Deficiencias en la infraestructura de las instituciones educativas, limitado fomento de competencias fundamentales y escasas oportunidades para la orientación vocacional e inserción laboral de los jóvenes.",
+            "objective": "Mejorar las condiciones de infraestructura y equipamiento de las instituciones educativas del distrito, fortalecer el desarrollo de competencias académicas y artísticas de los estudiantes, y promover mayores oportunidades de acceso a la educación superior y al empleo juvenil.",
+            "goal": "Reducir la brecha de locales escolares estatales en condiciones inadecuadas al 38%.",
+            "indicator": "Brecha de locales escolares estatales en condiciones inadecuadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Carencia de un Plan de Desarrollo Económico Local Concertado",
+            "objective": "Distrito que planifica de manera concertada su crecimiento económico y generación de empleo",
+            "goal": "2027",
+            "indicator": "Plan de Desarrollo Económico Local Concertado"
+          },
+          {
+            "problem": "Carencia de organismo municipal de orientación y capacitación a las MYPES.",
+            "objective": "Crear Centro de Desarrollo Empresarial",
+            "goal": "2028",
+            "indicator": "Creación del CDE"
+          },
+          {
+            "problem": "Ausencia de iniciativa municipal para promover el desarrollo económico local y generación",
+            "objective": "Municipalidad con Iniciativa para promover la creación de nuevas empresas y empleo",
+            "goal": "2027 (110) 2028 (112) 2029 (115) 2030 (120)",
+            "indicator": "Empresas por cada 1,000 habitantes"
+          },
+          {
+            "problem": "Limitado liderazgo municipal para impulsar el desarrollo económico local, escasas oportunidades para el emprendimiento e inversión, y una débil promoción de las potencialidades turísticas y comerciales.",
+            "objective": "Promover un desarrollo económico sostenible e inclusivo mediante el fortalecimiento del emprendimiento, la competitividad empresarial, la atracción de inversiones, la generación de empleo formal y el posicionamiento de Chaclacayo como un destino turístico, comercial y de servicios.",
+            "goal": "Alcanzar una densidad empresarial de 120 empresas por cada 1,000 habitantes, implementar el Plan de Desarrollo Económico Local y el Centro de Desarrollo Empresarial y Emprendimiento.",
+            "indicator": "Densidad empresarial (empresas por cada 1,000 habitantes), actualización e implementación del Plan de Desarrollo Económico Local e implementación del Centro de Desarrollo Empresarial y Emprendimiento."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente cultura de prevención y preparación ciudadana frente a sismos y desastres.",
+            "objective": "Realización de actividades de concientización de prevención ante riesgos.",
+            "goal": "2027 2 2028 2 2029 2 2030 2",
+            "indicator": "Cantidad de simulacros de evacuación ante sismos o desastres."
+          },
+          {
+            "problem": "Disminución del índice de áreas verdes por habitante.",
+            "objective": "Intenso programa de arborización y creación de nuevos parques y jardines.",
+            "goal": "2027 7.8 2028 7.9 2029 8 2030 8.2",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Limitada ejecución de inversión para la gestión de riesgo de desastres.",
+            "objective": "Actividades de prevención de riesgos de desastres abarcando todos los sectores y quebradas identificadas como de alto, mediano y bajo riesgo.",
+            "goal": "2027 (50%) 2028 (70%) 2029 (100%) 2030 (100%)",
+            "indicator": "% de zonas de medio y alto riesgo atendidas y mitigadas."
+          },
+          {
+            "problem": "Insuficiente control y fiscalización de actividades que generan contaminación, reducción progresiva de áreas verdes por habitante y limitadas acciones de educación y sostenibilidad ambiental.",
+            "objective": "Promover la protección y recuperación del ambiente mediante la reducción de las fuentes de contaminación, el fortalecimiento de la gestión integral de residuos sólidos y la ampliación de áreas verdes urbanas.",
+            "goal": "Alcanzar 8.20 metros cuadrados de áreas verdes por habitante.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Insuficiente ejecución de acciones e inversiones orientadas a la prevención, reducción y mitigación de riesgos de desastres, especialmente en zonas vulnerables a huaycos, inundaciones y sismos.",
+            "objective": "Fortalecer la gestión integral del riesgo de desastres mediante acciones de prevención, reducción, preparación, respuesta y recuperación, priorizando la atención de las zonas identificadas con riesgo alto, medio y bajo.",
+            "goal": "Intervenir el 100% de las zonas de riesgo alto y medio con medidas de mitigación y realizar 2 simulacros distritales de evacuación por año.",
+            "indicator": "Porcentaje acumulado de zonas de riesgo alto y medio intervenidas con medidas de mitigación y número de simulacros distritales de evacuación y respuesta ante emergencias."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La gestión municipal presenta limitaciones en eficiencia y planificación, así como debilidades en los mecanismos de transparencia, rendición de cuentas y participación ciudadana.",
+            "objective": "Modernizar la gestión municipal mediante la implementación de una administración eficiente, transparente, participativa y orientada a resultados, fortaleciendo la confianza ciudadana, la calidad de los servicios públicos y la gobernanza local.",
+            "goal": "Alcanzar un 80% de aprobación ciudadana respecto a la gestión municipal, aprobar la ordenanza de rendición de cuentas, realizar 2 audiencias públicas anuales e implementar mejoras en el Portal de Transparencia y Gobierno Digital.",
+            "indicator": "Aprobación de la Ordenanza de Audiencias Públicas, número de Audiencias Públicas realizadas por año, implementación de mejoras en el Portal de Transparencia y nivel de aprobación ciudadana respecto a la gestión municipal."
+          },
+          {
+            "problem": "Limitada participación de los vecinos en la planificación y fiscalización de la gestión municipal.",
+            "objective": "Fortalecer los mecanismos de participación ciudadana para involucrar activamente a la población en la toma de decisiones y el desarrollo del distrito.",
+            "goal": "2027 (500) 2028 (800) 2029 (1200) 2030 (2000)",
+            "indicator": "Numero de organizaciones vecinales y ciudadanos participantes en espacios de concertación municipal."
+          },
+          {
+            "problem": "Escaso uso de herramientas digitales para la participación ciudadana.",
+            "objective": "Implementar mecanismos digitales que permitan a los vecinos participar en la formulación, seguimiento y evaluación de proyectos municipales.",
+            "goal": "2027 (500) 2028 (800) 2029 (1200) 2030 (2000)",
+            "indicator": "Número de vecinos registrados, participando en plataformas digitales de participación."
+          },
+          {
+            "problem": "Falta de Transparencia en la Gestión Municipal",
+            "objective": "Aprobar una Ordenanza Municipal que regule la realización obligatoria de audiencias públicas semestrales de rendición de cuentas.",
+            "goal": "2027 (2) 2028 (2) 2029 (2) 2030 (2)",
+            "indicator": "Ordenanza aprobada y audiencias públicas realizadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-lg2y2wGVJURtJwv4WYsiClt8-Qo1SSn6",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/lg2y2wGVJURtJwv4WYsiClt8-Qo1SSn6",
+      "sha256": "3d0bb871f37f2644fa52b0d2e03d7f3fa37293d0f4f7d6e4f1c31d89c7f76a64",
+      "accessedAt": "2026-10-02T22:53:41.419Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026013187",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026013187",
+      "sha256": "c02493daf9e4b5cde106d4b6f8a3c87cdf7c73d298fc01b9346100b924b48753",
+      "accessedAt": "2026-10-02T22:53:41.991Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

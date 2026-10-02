@@ -1,0 +1,317 @@
+{
+  "id": "vi5stqUsAEz6cKMRulT07kylg2GYHfSE",
+  "slug": "carlos-alberto-albujar-corazon",
+  "electionId": "erm-2026",
+  "name": "Carlos Alberto Albujar Corazon",
+  "givenNames": "Carlos Alberto",
+  "surnames": "Albujar Corazon",
+  "age": 53,
+  "gender": "Masculino",
+  "party": {
+    "id": 2895,
+    "name": "PARTIDO DEMOCRATA VERDE"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:46.522Z",
+      "sourceId": "jne-hv-vi5stqUsAEz6cKMRulT07kylg2GYHfSE"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD PERUANA LOS ANDES",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO APRISTA PERUANO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA MITUBISHI - MODELO LANCE 1.3 GL STD",
+        "value": 13000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ALBUJAR & VALENCIA S.R.L. CONTRATISTAS GENERALES",
+        "type": "ACCIONES",
+        "quantity": 9972,
+        "value": 1
+      },
+      {
+        "company": "ESTUDIO ALBUJAR & CORAZON - ASESORIA JURIDICA - CONSULTORES E.I.R.L.",
+        "type": "ACCIONES",
+        "quantity": 10000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [
+    "En la ASOCIACION CIVIL SEÑOR DE LUREN DE LIMA registrado ante SUNARP con fecha 14/02/2011, se acordo elegir al primer consejo directivo del cual se me eligio como PRESIDENTE."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bd6bd3ba-743a-4b19-86a4-20bc260cd1c9.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/4b91581c-19d3-48ca-9db3-f9c6444ee5a5.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos índices de vulnerabilidad nutricional, especialmente en la población infantil.",
+            "objective": "Implementar programas alimentarios que incluyan control nutricional para combatir la desnutrición.",
+            "goal": "Reducir la anemia infantil en un 15%.",
+            "indicator": "Porcentaje de anemia infantil."
+          },
+          {
+            "problem": "Bajo rendimiento escolar en la comunidad estudiantil del distrito.",
+            "objective": "Establecer el programa \"Escuela Municipal Gratuita\" para ofrecer refuerzo en matemáticas, comunicación e inglés.",
+            "goal": "Alcanzar 2,000 estudiantes beneficiados por año.",
+            "indicator": "Número de alumnos inscritos anualmente."
+          },
+          {
+            "problem": "Sedentarismo juvenil y parques sin equipamiento adecuado.",
+            "objective": "Crear escuelas deportivas gratuitas y equipar los parques con gimnasios al aire libre bajo el programa \"Parques Activos\".",
+            "goal": "Tres mil niños y jóvenes participantes y veinte parques implementados.",
+            "indicator": "Número de participantes y número de parques implementados."
+          },
+          {
+            "problem": "Bajo rendimiento escolar y existencia de una brecha digital en la población.",
+            "objective": "Implementar el programa \"Escuela Municipal Gratuita\" y cabinas municipales con alfabetización digital.",
+            "goal": "Dos mil estudiantes por año y setenta por ciento de vecinos capacitados.",
+            "indicator": "Número de alumnos inscritos y número de capacitaciones."
+          },
+          {
+            "problem": "Vulnerabilidad nutricional y baja prevención sanitaria.",
+            "objective": "Desarrollar programas alimentarios con control nutricional y realizar campañas médicas y de zoonosis.",
+            "goal": "Reducir en un quince por ciento la anemia infantil y aumentar en un cuarenta por ciento las atenciones.",
+            "indicator": "Porcentaje de anemia y número de atenciones."
+          },
+          {
+            "problem": "Infraestructura municipal deteriorada y falta de inventario.",
+            "objective": "Implementar un plan anual de mantenimiento preventivo y crear un catastro de la infraestructura municipal.",
+            "goal": "Cien por ciento de activos con mantenimiento y una base digital de infraestructura.",
+            "indicator": "Número de mantenimientos y porcentaje de activos registrados."
+          },
+          {
+            "problem": "Ausencia de planes operativos de seguridad ciudadana.",
+            "objective": "Elaborar un Plan Distrital de Seguridad Ciudadana (PDSC) anual vía CODISEC.",
+            "goal": "Un plan anual más cuatro evaluaciones.",
+            "indicator": "Número de planes ejecutados."
+          },
+          {
+            "problem": "Prevalencia del sedentarismo en la población juvenil del distrito.",
+            "objective": "Crear escuelas deportivas gratuitas de fútbol, vóley, básquet y artes marciales.",
+            "goal": "Alcanzar la participación de 3,000 niños y jóvenes.",
+            "indicator": "Número de participantes en las escuelas deportivas."
+          },
+          {
+            "problem": "Incremento de la violencia juvenil y falta de espacios para el desarrollo de los jóvenes.",
+            "objective": "Desarrollar programas deportivos y culturales en horario nocturno para la juventud.",
+            "goal": "Inscribir a 2,000 jóvenes en las actividades.",
+            "indicator": "Número de jóvenes inscritos en los programas."
+          },
+          {
+            "problem": "Deterioro generalizado de la infraestructura urbana y de servicios.",
+            "objective": "Ejecutar un plan anual de mantenimiento preventivo para la infraestructura del distrito.",
+            "goal": "Lograr que el 100% de los activos se encuentren en estado operativo.",
+            "indicator": "Número de mantenimientos realizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Baja recaudación tributaria y elevada morosidad.",
+            "objective": "Actualizar el catastro tributario digital y aplicar la cobranza coactiva con beneficios por pronto pago.",
+            "goal": "Incrementar en un veinticinco por ciento los ingresos y reducir en un treinta por ciento la morosidad.",
+            "indicator": "Recaudación anual y porcentaje de morosidad."
+          },
+          {
+            "problem": "Construcciones informales sin licencia.",
+            "objective": "Realizar la fiscalización técnica y promover la formalización de predios.",
+            "goal": "Aumentar en un cuarenta por ciento los predios formalizados.",
+            "indicator": "Número de predios formalizados."
+          },
+          {
+            "problem": "Talento local invisible y falta de espacios para su desarrollo.",
+            "objective": "Organizar ferias de emprendimientos culturales para visibilizar a los artistas locales.",
+            "goal": "Realizar cuatro ferias al año.",
+            "indicator": "Número de expositores."
+          },
+          {
+            "problem": "Bajo nivel de empleo formal y escaso apoyo al emprendimiento local.",
+            "objective": "Promover la generación de empleo y el emprendimiento a través de una bolsa de trabajo municipal y un centro de emprendimiento.",
+            "goal": "Promover 20,000 empleos y formalizar 5,000 negocios.",
+            "indicator": "Número de empleos promovidos y negocios formalizados."
+          },
+          {
+            "problem": "Alta incidencia del comercio informal en las vías públicas del distrito.",
+            "objective": "Realizar operativos de fiscalización integrados con la Policía Nacional del Perú.",
+            "goal": "Reducir la informalidad en un 30%.",
+            "indicator": "Número de operativos ejecutados."
+          },
+          {
+            "problem": "Demoras excesivas en la tramitación de licencias de construcción.",
+            "objective": "Implementar una plataforma de licencias en línea que permita la gestión en un plazo de 48 a 72 horas.",
+            "goal": "Reducir el tiempo del trámite en un 50%.",
+            "indicator": "Días promedio del trámite."
+          },
+          {
+            "problem": "Baja recaudación de ingresos tributarios municipales.",
+            "objective": "Modernizar la gestión tributaria mediante la implementación de un catastro digital actualizado.",
+            "goal": "Incrementar los ingresos en un 25%.",
+            "indicator": "Recaudación anual."
+          },
+          {
+            "problem": "Alto índice de comercio informal en la vía pública.",
+            "objective": "Ejecutar operativos integrados con la Policía Nacional del Perú (PNP).",
+            "goal": "Reducir en un treinta por ciento la informalidad.",
+            "indicator": "Número de operativos realizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasez de áreas verdes en el entorno urbano.",
+            "objective": "Ejecutar un programa de arborización distrital.",
+            "goal": "Incrementar en un treinta por ciento las áreas verdes.",
+            "indicator": "Metros cuadrados recuperados."
+          },
+          {
+            "problem": "Escasez de áreas verdes y espacios públicos ecológicos en el distrito.",
+            "objective": "Implementar un programa de arborización distrital para incrementar la cobertura vegetal.",
+            "goal": "Incrementar las áreas verdes en un 30%.",
+            "indicator": "Metros cuadrados de áreas verdes recuperados."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos en el distrito.",
+            "objective": "Implementar rutas de recojo optimizadas y fomentar la segregación de residuos en origen.",
+            "goal": "Aumentar en un veinte por ciento el reciclaje.",
+            "indicator": "Porcentaje de residuos reciclados."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos debido a una gestión deficiente.",
+            "objective": "Optimizar las rutas de recolección de residuos y fomentar la segregación en la fuente.",
+            "goal": "Aumentar el reciclaje en un 20%.",
+            "indicator": "Porcentaje de residuos reciclados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Deficiencias y demoras en los procesos de contrataciones y compras públicas.",
+            "objective": "Implementar un plan anual de contrataciones con seguimiento mensual y un sistema de trazabilidad de compras.",
+            "goal": "Lograr un cumplimiento del 95% del PAC.",
+            "indicator": "Porcentaje de ejecución del Plan Anual de Contrataciones (PAC)."
+          },
+          {
+            "problem": "Baja participación de la ciudadanía en los procesos de toma de decisiones locales.",
+            "objective": "Fomentar la participación a través de un presupuesto participativo digital y la realización de cabildos abiertos.",
+            "goal": "Aumentar la participación ciudadana en un 50%.",
+            "indicator": "Número de vecinos participantes."
+          },
+          {
+            "problem": "Retrasos significativos en la ejecución de proyectos de inversión pública.",
+            "objective": "Establecer un banco de proyectos priorizados y un cronograma de ejecución público.",
+            "goal": "Alcanzar un 90% de ejecución anual.",
+            "indicator": "Porcentaje de ejecución presupuestal."
+          },
+          {
+            "problem": "Desconfianza de los vecinos en la gestión municipal por falta de transparencia.",
+            "objective": "Implementar el portal \"Obra Transparente\" para publicar información detallada sobre presupuesto, avance y fotos de las obras.",
+            "goal": "Publicar el 100% de las obras en el portal.",
+            "indicator": "Número de visitas al portal."
+          },
+          {
+            "problem": "Baja transparencia en la ejecución de obras y desconfianza vecinal.",
+            "objective": "Implementar un tablero digital de obras y el portal \"Obra transparente\".",
+            "goal": "Actualización mensual de la información y cien por ciento de obras publicadas.",
+            "indicator": "Número de reportes y número de visitas al portal."
+          },
+          {
+            "problem": "Demoras en los procesos de compras y adquisiciones.",
+            "objective": "Implementar un plan anual de contrataciones con seguimiento mensual.",
+            "goal": "Noventa y cinco por ciento de cumplimiento.",
+            "indicator": "Porcentaje de ejecución del Plan Anual de Contrataciones (PAC)."
+          },
+          {
+            "problem": "Desorden en la programación de actividades y poca transparencia en la gestión interna.",
+            "objective": "Implementar un calendario anual digital de actividades y un portal web con cronograma, gastos y resultados.",
+            "goal": "Cien por ciento de actividades planificadas y actualización mensual de reportes.",
+            "indicator": "Porcentaje de cumplimiento y número de reportes publicados."
+          },
+          {
+            "problem": "Baja participación ciudadana en asuntos públicos.",
+            "objective": "Implementar el presupuesto participativo digital y realizar cabildos abiertos.",
+            "goal": "Aumentar en un cincuenta por ciento la participación.",
+            "indicator": "Número de vecinos participantes."
+          },
+          {
+            "problem": "Retrasos en la ejecución de proyectos de inversión pública.",
+            "objective": "Establecer un banco de proyectos priorizados y un cronograma público de ejecución.",
+            "goal": "Alcanzar el noventa por ciento de ejecución.",
+            "indicator": "Porcentaje de ejecución presupuestal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-vi5stqUsAEz6cKMRulT07kylg2GYHfSE",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/vi5stqUsAEz6cKMRulT07kylg2GYHfSE",
+      "sha256": "859164f5e2d9820f860aabe6bb56eab99e780ed590595f0dd9855e061505ada0",
+      "accessedAt": "2026-10-02T23:04:46.522Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012407",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012407",
+      "sha256": "71d50a1d41be10ce1e9562b11b436b797c899c5eb6ca45850030262edf8f0e9f",
+      "accessedAt": "2026-10-02T23:04:47.033Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

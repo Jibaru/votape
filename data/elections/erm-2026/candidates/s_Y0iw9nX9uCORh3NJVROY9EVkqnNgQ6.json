@@ -1,0 +1,247 @@
+{
+  "id": "s_Y0iw9nX9uCORh3NJVROY9EVkqnNgQ6",
+  "slug": "angel-demetrio-intor-vega",
+  "electionId": "erm-2026",
+  "name": "Angel Demetrio Intor Vega",
+  "givenNames": "Angel Demetrio",
+  "surnames": "Intor Vega",
+  "age": 56,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:35.706Z",
+      "sourceId": "jne-hv-s_Y0iw9nX9uCORh3NJVROY9EVkqnNgQ6"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1997"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1996"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "MAESTRO EN GESTIÓN PÚBLICA",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2024"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA",
+      "role": "SUBGERENTE COACTIVO - GERENTE RENTAS",
+      "from": "2023",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2013"
+    },
+    {
+      "party": "NUEVO PERU, POR DEMOCRACIA, SOBERANIA Y JUSTICIA",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 119347,
+        "public": 119347,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "GLOBAL CONSULTORES A&C",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 2500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/64a1b2fe-94e2-4a50-942b-107560df47bd.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/32a02353-c72f-4cd4-bea7-7d4d81b6610b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Persistencia de altos niveles de violencia familiar y vulnerabilidad social.",
+            "objective": "Fortalecer la protección y autonomía de las víctimas.",
+            "goal": "Fortalecer la atención integral y reducir factores de violencia familiar y de género.",
+            "indicator": "Índice de violencia familiar y de género."
+          },
+          {
+            "problem": "Riesgo de exclusión educativa y violencia escolar que enfrentan muchos niños y adolescentes.",
+            "objective": "Garantizar oportunidades educativas seguras e inclusivas.",
+            "goal": "Reducir factores de exclusión educativa y fortalecer entornos escolares seguros.",
+            "indicator": "Tasa de factores de exclusión educativa."
+          },
+          {
+            "problem": "Limitaciones de acceso, burocracia y escasez de servicios preventivos en la atención médica del distrito.",
+            "objective": "Fortalecer el primer nivel de atención y acercar servicios de salud dignos a todos los vecinos.",
+            "goal": "Implementar servicios municipales de salud descentralizados y ampliar progresivamente la cobertura preventiva en todos los sectores del distrito.",
+            "indicator": "Porcentaje de cobertura de servicios preventivos de salud."
+          },
+          {
+            "problem": "Alta vulnerabilidad del distrito frente a sismos, incendios y emergencias urbanas debido a la precariedad de infraestructura, especialmente en zonas altas.",
+            "objective": "Fortalecer la capacidad de respuesta y prevención ante desastres.",
+            "goal": "Implementar hidrantes y sistemas de respuesta rápida en las principales zonas vulnerables frente a siniestros del distrito antes del 2030.",
+            "indicator": "Número de sistemas de respuesta rápida implementados en zonas vulnerables."
+          },
+          {
+            "problem": "Altos índices de anemia infantil y problemas de nutrición, especialmente en sectores vulnerables del distrito.",
+            "objective": "Fortalecer la prevención, detección temprana y acompañamiento nutricional para garantizar un desarrollo saludable en la infancia.",
+            "goal": "Reducir progresivamente los índices de anemia infantil en el distrito y ampliar la cobertura de atención nutricional preventiva en sectores vulnerables antes del 2030.",
+            "indicator": "Índice de anemia infantil en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Persistencia de brechas digitales y acceso desigual a herramientas tecnológicas.",
+            "objective": "Democratizar la conectividad digital.",
+            "goal": "Ampliar progresivamente la conectividad digital en sectores vulnerables.",
+            "indicator": "Porcentaje de cobertura de conectividad digital en sectores vulnerables."
+          },
+          {
+            "problem": "Carencia de acceso a herramientas tecnológicas y capacitación por parte de los emprendedores.",
+            "objective": "Fortalecer capacidades productivas y competitividad local.",
+            "goal": "Capacitar anualmente a emprendedores y fortalecer negocios locales.",
+            "indicator": "Número de emprendedores capacitados anualmente."
+          },
+          {
+            "problem": "Alta informalidad laboral y comercial existente en el distrito.",
+            "objective": "Facilitar la formalización de emprendedores y trabajadores independientes.",
+            "goal": "Incrementar progresivamente la formalización de pequeños negocios.",
+            "indicator": "Tasa de formalización de pequeños negocios."
+          },
+          {
+            "problem": "Miles de familias no cuentan con títulos de propiedad ni planos visados, lo que limita el acceso a servicios básicos e infraestructura.",
+            "objective": "Promover la formalización predial y el acceso al desarrollo urbano.",
+            "goal": "Incrementar progresivamente la formalización predial en las zonas altas y periféricas del distrito.",
+            "indicator": "Porcentaje de predios formalizados en zonas altas y periféricas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes y espacios públicos seguros en el distrito.",
+            "objective": "Recuperar espacios urbanos y mejorar la calidad ambiental.",
+            "goal": "Incrementar progresivamente áreas verdes y espacios públicos recuperados.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas."
+          },
+          {
+            "problem": "La acumulación de residuos y el limitado reciclaje afectan el ambiente distrital.",
+            "objective": "Impulsar una gestión sostenible de residuos.",
+            "goal": "Reducir residuos sólidos y fortalecer programas de reciclaje comunitario.",
+            "indicator": "Porcentaje de residuos sólidos reaprovechados."
+          },
+          {
+            "problem": "La autoconstrucción y el crecimiento urbano desordenado generan riesgos estructurales y vulnerabilidad social.",
+            "objective": "Promover un desarrollo urbano seguro y planificado.",
+            "goal": "Reducir progresivamente las construcciones inseguras y fortalecer el ordenamiento urbano del distrito.",
+            "indicator": "Porcentaje de reducción de construcciones inseguras."
+          },
+          {
+            "problem": "El Parque Forestal Ecoturístico Boca de Sapo no ha sido plenamente aprovechado en su potencial ambiental, recreativo y turístico.",
+            "objective": "Convertir este espacio en un eje de desarrollo ecológico y turístico para Independencia.",
+            "goal": "Recuperar integralmente el Parque Forestal Ecoturístico Boca de Sapo y consolidarlo como uno de los principales espacios ambientales, recreativos y turísticos del distrito antes del 2030.",
+            "indicator": "Número de visitantes al Parque Forestal Ecoturístico Boca de Sapo."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Desconfianza ciudadana por falta de transparencia en la gestión municipal.",
+            "objective": "Fortalecer el control ciudadano y la vigilancia pública.",
+            "goal": "Incrementar la participación ciudadana en vigilancia y control municipal.",
+            "indicator": "Nivel de participación ciudadana en vigilancia y control."
+          },
+          {
+            "problem": "La inseguridad ciudadana requiere mejor preparación y articulación institucional.",
+            "objective": "Fortalecer la seguridad preventiva y comunitaria.",
+            "goal": "Profesionalizar el serenazgo y mejorar la capacidad operativa distrital.",
+            "indicator": "Nivel de capacidad operativa del serenazgo."
+          },
+          {
+            "problem": "La extorsión y la inseguridad afectan gravemente a comerciantes, transportistas y vecinos.",
+            "objective": "Fortalecer la seguridad ciudadana y recuperar el control territorial.",
+            "goal": "Reducir progresivamente los índices de extorsión y delitos en zonas críticas del distrito.",
+            "indicator": "Índice de extorsión y delitos en zonas críticas."
+          },
+          {
+            "problem": "La prostitución callejera y actividades informales generan inseguridad y deterioro urbano en algunas zonas industriales.",
+            "objective": "Recuperar espacios públicos y fortalecer el orden urbano.",
+            "goal": "Reducir progresivamente actividades informales y recuperar zonas críticas para el uso seguro de vecinos y trabajadores.",
+            "indicator": "Número de zonas críticas recuperadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-s_Y0iw9nX9uCORh3NJVROY9EVkqnNgQ6",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/s_Y0iw9nX9uCORh3NJVROY9EVkqnNgQ6",
+      "sha256": "cabbc182d86c1b478102978f1c2776f699ad6ff88ef8394f174a447b061071d4",
+      "accessedAt": "2026-10-02T22:56:35.706Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021592",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021592",
+      "sha256": "56dacbba845b1bb31c4f6ecdbb7984e29bc56357a0b6b67f82e32c6158784373",
+      "accessedAt": "2026-10-02T22:56:36.183Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "5cEG6eP5GD0lG7FszBQFx5t8BsXIzqSQ",
+  "slug": "leonidas-cordero-villarreal",
+  "electionId": "erm-2026",
+  "name": "Leonidas Cordero Villarreal",
+  "givenNames": "Leonidas",
+  "surnames": "Cordero Villarreal",
+  "age": 64,
+  "gender": "Masculino",
+  "party": {
+    "id": 2930,
+    "name": "PARTIDO APRISTA PERUANO"
+  },
+  "jurisdictionId": "140119",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:12.161Z",
+      "sourceId": "jne-hv-5cEG6eP5GD0lG7FszBQFx5t8BsXIzqSQ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CHRISTIAN BARNARD",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada Antenor Orrego",
+        "program": "INGENIERO ELECTRONICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2008"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Ricardo Palma",
+        "program": "BACHILLER EN INGENIERIA ELECTRONICA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1988"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "CORPORACION EDUCATIVA ANDRE VESALIO SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2013",
+      "to": "2026"
+    },
+    {
+      "employer": "HK DATA SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2005",
+      "to": "2010"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 118000,
+        "public": 0,
+        "private": 118000
+      },
+      {
+        "year": "2025",
+        "total": 118000,
+        "public": 0,
+        "private": 118000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "INMUEBLE",
+        "value": 96000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 110000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "SEDAN NEGRO",
+        "value": 10000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CORPORACION EDUCATIVA ANDRE VESALIO SAC",
+        "type": "ACCIONES",
+        "quantity": 95,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/e295c2ce-0fd3-4c19-967e-f19ed6259f1a.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b1bc2a2b-866c-411e-b045-4b85bcec65ab.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente atención a adultos mayores y personas vulnerables.",
+            "objective": "Desarrollar programas de inclusión, asistencia y desarrollo integral para adultos mayores y población vulnerable.",
+            "goal": "Beneficiar a más de 5,000 vecinos durante la gestión.",
+            "indicator": "Personas beneficiadas."
+          },
+          {
+            "problem": "Desnutrición infantil y limitada atención preventiva en salud.",
+            "objective": "Promover programas de salud preventiva y nutrición infantil en coordinación con las entidades competentes.",
+            "goal": "Ejecutar 20 campañas y programas de salud preventiva y nutrición infantil.",
+            "indicator": "Campañas y programas ejecutados."
+          },
+          {
+            "problem": "Problema identificado Objetivo estratégico (solución al problema) Indicador Meta 2027-2030 (Valor) Limitado acceso a servicios de salud, educación y programas sociales para la población vulnerable.",
+            "objective": "Fortalecer el acceso a servicios de salud, educación, bienestar social, deporte y cultura, priorizando a niños, jóvenes, adultos mayores y familias en situación de vulnerabilidad.",
+            "goal": "Implementar y fortalecer al menos 10 programas y acciones sociales integrales durante el período 2027-2030.",
+            "indicator": "Número de programas, convenios y acciones implementadas en beneficio de la población."
+          },
+          {
+            "problem": "Escasas oportunidades de capacitación y formación para jóvenes.",
+            "objective": "Impulsar programas de formación técnica, educativa y orientación vocacional para jóvenes del distrito.",
+            "goal": "Suscribir al menos 5 convenios y beneficiar a más de 2,000 jóvenes.",
+            "indicator": "Convenios y beneficiarios atendidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto nivel de informalidad comercial, escasas oportunidades de empleo y limitado desarrollo empresarial en el distrito.",
+            "objective": "Promover el desarrollo económico local mediante la formalización de negocios, el fortalecimiento del emprendimiento, la generación de empleo y la atracción de inversiones públicas y privadas.",
+            "goal": "Beneficiar a más de 5,000 emprendedores, comerciantes y vecinos mediante programas de formalización, capacitación y promoción del empleo al 2030.",
+            "indicator": "Número de emprendedores, comerciantes y ciudadanos beneficiados con programas de desarrollo económico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Crecimiento urbano desordenado, déficit de áreas verdes, contaminación ambiental y limitada gestión territorial.",
+            "objective": "Promover el desarrollo urbano sostenible mediante el ordenamiento territorial, la protección del medio ambiente, la ampliación de áreas verdes y el mejoramiento de los servicios ambientales del distrito.",
+            "goal": "Implementar al menos 10 proyectos y acciones de ordenamiento territorial, saneamiento ambiental y recuperación de espacios públicos al 2030.",
+            "indicator": "Número de proyectos y acciones de gestión territorial y ambiental ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada capacidad institucional, escasa participación ciudadana y necesidad de fortalecer la transparencia y modernización municipal.",
+            "objective": "Fortalecer la gestión institucional mediante la capacitación del personal, la modernización administrativa, la transparencia en la gestión pública y la promoción de la participación ciudadana.",
+            "goal": "Implementar el 100% de las acciones de fortalecimiento institucional programadas durante el período 2027-2030.",
+            "indicator": "orcentaje de cumplimiento de las acciones de fortalecimiento institucional implementadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-5cEG6eP5GD0lG7FszBQFx5t8BsXIzqSQ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/5cEG6eP5GD0lG7FszBQFx5t8BsXIzqSQ",
+      "sha256": "eb7e29b2dfa0ad934cf54dffd936cc61f3dc8c9baed941c43e4fe49f244a99f5",
+      "accessedAt": "2026-10-02T23:01:12.161Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023629",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023629",
+      "sha256": "6f9eeaae37c3a1b9abf15dbebde5aa1993fc21130c6796af4eabdc0a0f5901bb",
+      "accessedAt": "2026-10-02T23:01:12.694Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

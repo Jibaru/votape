@@ -1,0 +1,270 @@
+{
+  "id": "1RQzrWHdTDgwdF_-HBJu4Arb6ia7W4-p",
+  "slug": "richard-cortez-melgarejo",
+  "electionId": "erm-2026",
+  "name": "Richard Cortez Melgarejo",
+  "givenNames": "Richard",
+  "surnames": "Cortez Melgarejo",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140108",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:54:03.959Z",
+      "sourceId": "jne-hv-1RQzrWHdTDgwdF_-HBJu4Arb6ia7W4-p"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c05e7f4a-e824-4c30-9d7a-b37fdad0695d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/e5afff22-860f-4ddf-a6fe-2fc884673028.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Población vulnerable, como adultos mayores y personas con discapacidad, sin acceso suficiente a servicios de salud preventiva y asistencia social.",
+            "objective": "Ampliar la cobertura de los programas de salud preventiva y asistencia social focalizados en grupos vulnerables.",
+            "goal": "90% de cobertura en grupos vulnerables identificados para el año 2030.",
+            "indicator": "Porcentaje de población vulnerable con acceso a, por lo menos, un servicio de salud preventiva municipal."
+          },
+          {
+            "problem": "Altos índices de violencia familiar y escolar, con presencia creciente de acoso escolar (bullying) y violencia de género.",
+            "objective": "Implementar un sistema distrital de prevención, atención y sanción de la violencia familiar y escolar, articulado con el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP) y el Ministerio de Educación (MINEDU).",
+            "goal": "Tasa de atención oportuna al 90%; 15 escuelas con programas de mediación activos para el año 2030.",
+            "indicator": "Número de casos de violencia familiar atendidos por el Centro de Emergencia Mujer (CEM) municipal y casos denunciados."
+          },
+          {
+            "problem": "Limitadas oportunidades de desarrollo integral, innovación, formación tecnológica, actividades deportivas y acceso a espacios culturales para niños, adolescentes y jóvenes del distrito.",
+            "objective": "Implementar el programa \"Jóvenes del Futuro Chorrillos 2030\", orientado al fortalecimiento de competencias digitales, innovación, liderazgo, deporte, cultura y empleabilidad.",
+            "goal": "25,000 beneficiarios acumulados durante la gestión, incluyendo programas de formación tecnológica, empleabilidad, deporte y cultura.",
+            "indicator": "Número de jóvenes beneficiados por programas de formación integral."
+          },
+          {
+            "problem": "Alta tasa de criminalidad, incluyendo robos, arrebatos y microcomercialización de drogas en zonas críticas del distrito.",
+            "objective": "Reducir la victimización delictiva en el distrito mediante el fortalecimiento del serenazgo, la videovigilancia tecnológica y el patrullaje integrado entre la Policía Nacional del Perú y la Municipalidad.",
+            "goal": "Reducción del 40% de la tasa de victimización con respecto a la línea base de 2026.",
+            "indicator": "Tasa de victimización por delitos como robos y asaltos por cada 1,000 habitantes."
+          },
+          {
+            "problem": "Limitado acceso a servicios preventivos de salud, especialmente en poblaciones vulnerables.",
+            "objective": "Fortalecer la salud preventiva y el bienestar integral de la población mediante campañas descentralizadas y la ampliación de servicios municipales.",
+            "goal": "El 90% de la población vulnerable será atendida por programas preventivos para el año 2030.",
+            "indicator": "Número de beneficiarios atendidos en campañas y programas de salud."
+          },
+          {
+            "problem": "Incremento de animales en situación de abandono y limitada cobertura de servicios de bienestar animal.",
+            "objective": "Fortalecer la protección animal y promover la tenencia responsable mediante campañas de esterilización, vacunación, adopción y registro de mascotas.",
+            "goal": "10,000 esterilizaciones, 20,000 mascotas registradas y 2,000 adopciones promovidas para el año 2030.",
+            "indicator": "Número de esterilizaciones realizadas, mascotas registradas y adopciones promovidas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevado desempleo y subempleo juvenil, con limitadas oportunidades de capacitación técnica y acceso al mercado laboral formal.",
+            "objective": "Crear y operar la Bolsa Municipal de Empleo y el Centro de Formación Técnica Municipal para vincular a jóvenes chorrillanos con oportunidades laborales formales.",
+            "goal": "3,000 empleos gestionados anualmente; 2,000 personas capacitadas en oficios técnicos por año.",
+            "indicator": "Número de jóvenes insertados laboralmente mediante la Bolsa Municipal de Empleo."
+          },
+          {
+            "problem": "Elevada informalidad económica, donde la mayoría de los pequeños negocios del distrito operan sin licencia ni registro, lo que limita su acceso a crédito y mercados.",
+            "objective": "Formalizar a las micro y pequeñas empresas (MYPE) mediante el Centro de Desarrollo Empresarial y la simplificación de licencias de funcionamiento.",
+            "goal": "2,000 MYPE formalizadas por año; tiempo de emisión de licencias reducido a 24 horas para bajo riesgo para el año 2030.",
+            "indicator": "Número de empresas formalizadas anualmente con asistencia del Centro de Desarrollo Empresarial (CDE)."
+          },
+          {
+            "problem": "Limitada incorporación de tecnología, innovación, transformación digital y herramientas digitales en los emprendimientos y negocios locales.",
+            "objective": "Promover la innovación, la transformación digital y el desarrollo de la economía digital mediante programas de capacitación, incubación y fortalecimiento empresarial.",
+            "goal": "5,000 emprendedores y MYPE capacitados en competencias digitales e innovación para el año 2030.",
+            "indicator": "Número de emprendedores y MYPE beneficiados por programas de innovación y transformación digital."
+          },
+          {
+            "problem": "Deficiencias en la infraestructura comercial y presencia de comercio informal en espacios públicos del distrito.",
+            "objective": "Promover la modernización de mercados, el ordenamiento comercial y la formalización de actividades económicas.",
+            "goal": "Tres mercados intervenidos y 2,000 comerciantes formalizados para el año 2030.",
+            "indicator": "Número de mercados modernizados y comerciantes formalizados."
+          },
+          {
+            "problem": "Subutilización del potencial turístico y económico del litoral chorrillano, con escasa oferta formal de servicios.",
+            "objective": "Desarrollar e implementar el Plan Maestro del Litoral Chorrillano y promover el Proyecto Gran Malecón de Chorrillos 2030 para consolidar al distrito como destino turístico, cultural y gastronómico de alcance metropolitano.",
+            "goal": "Incremento del 60% del flujo turístico al litoral chorrillano con respecto a 2026; 5 inversiones privadas formalizadas en la zona para el año 2030.",
+            "indicator": "Número de turistas que visitan el circuito costero chorrillano anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Vulnerabilidad de la población ante riesgos de desastres como sismos y tsunamis, debido al déficit de preparación, señalización y reforzamiento de infraestructura.",
+            "objective": "Fortalecer el sistema distrital de gestión del riesgo de desastres con la actualización del Plan de Prevención y Reducción del Riesgo de Desastres (PPRRD), señalización de rutas, simulacros y capacitación de brigadas.",
+            "goal": "80% de la población costera capacitada en evacuación para el año 2030; 500 brigadistas vecinales certificados para el año 2030.",
+            "indicator": "Porcentaje de la población de la franja costera que conoce las rutas de evacuación ante un tsunami."
+          },
+          {
+            "problem": "Acumulación de puntos críticos de basura y desmonte en asentamientos humanos y vías públicas, con impacto en la salud y el ornato.",
+            "objective": "Erradicar y prevenir la acumulación ilegal de residuos mediante operativos de limpieza, infraestructura de contenedores y campañas de educación ambiental.",
+            "goal": "80 puntos críticos eliminados y con vigilancia permanente para el año 2030; reducción al 90% de nuevos puntos críticos para el año 2030.",
+            "indicator": "Número de puntos críticos de acumulación ilegal de residuos eliminados."
+          },
+          {
+            "problem": "Deficiente sistema de recojo de residuos sólidos con baja cobertura, rutas ineficientes y escasa participación ciudadana en el reciclaje.",
+            "objective": "Modernizar el sistema de limpieza pública e implementar el programa de segregación en la fuente para incrementar el reciclaje y reducir los residuos destinados al relleno sanitario.",
+            "goal": "Tasa de aprovechamiento de residuos al 30% para el año 2030; 30,000 viviendas en el programa de segregación para el año 2030.",
+            "indicator": "Toneladas de residuos reciclados sobre el total de residuos generados (tasa de aprovechamiento)."
+          },
+          {
+            "problem": "Deterioro de la infraestructura vial, veredas y espacios públicos que afectan la movilidad y la calidad de vida de los vecinos.",
+            "objective": "Recuperar y modernizar la infraestructura urbana mediante programas integrales de rehabilitación vial y mejoramiento del espacio público.",
+            "goal": "Recuperación del 80% de las vías principales y del 70% de las vías secundarias para el año 2030.",
+            "indicator": "Kilómetros de vías rehabilitadas y metros cuadrados de espacios públicos recuperados."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado y limitada planificación territorial.",
+            "objective": "Fortalecer el ordenamiento territorial y el desarrollo urbano sostenible mediante instrumentos de planificación y gestión urbana.",
+            "goal": "100% de los instrumentos de planificación urbana actualizados para el año 2030.",
+            "indicator": "Instrumentos de planificación urbana actualizados y proyectos ejecutados."
+          },
+          {
+            "problem": "Limitada protección y aprovechamiento sostenible de los pantanos de Villa y los ecosistemas costeros.",
+            "objective": "Fortalecer la conservación, protección y puesta en valor de los pantanos de Villa como patrimonio natural y atractivo ecoturístico.",
+            "goal": "Incrementar en 50% las actividades de educación ambiental y ecoturismo para el año 2030.",
+            "indicator": "Número de programas de conservación y visitantes al ecosistema."
+          },
+          {
+            "problem": "Congestión vehicular y limitada infraestructura para la movilidad sostenible.",
+            "objective": "Mejorar la movilidad urbana mediante semaforización inteligente, ciclovías, accesibilidad universal y gestión eficiente del tránsito.",
+            "goal": "25 km de ciclovías integradas y reducción progresiva de puntos críticos de congestión para el año 2030.",
+            "indicator": "Kilómetros de ciclovías implementadas e intersecciones mejoradas."
+          },
+          {
+            "problem": "Escaso arbolado urbano e índice de área verde por habitante por debajo del estándar de la Organización Mundial de la Salud (OMS), que es de 9 m² por habitante.",
+            "objective": "Incrementar el índice de área verde por habitante mediante la plantación masiva de árboles nativos y la recuperación de parques.",
+            "goal": "Incremento del 35% del área verde por habitante para el año 2030; 10,000 árboles nativos plantados.",
+            "indicator": "Metros cuadrados (m²) de área verde por habitante en el distrito."
+          },
+          {
+            "problem": "Débil integración urbana, turística y recreativa del frente costero del distrito.",
+            "objective": "Impulsar el Proyecto Gran Malecón de Chorrillos 2030 como eje estratégico de desarrollo urbano, turístico y recreativo.",
+            "goal": "Implementación progresiva del Plan Maestro del Gran Malecón y recuperación integral de los principales espacios costeros para el año 2030.",
+            "indicator": "Espacios públicos recuperados y proyectos ejecutados en el litoral."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja digitalización de los trámites municipales, lo que obliga a los vecinos a acudir presencialmente y genera largas esperas con un alto costo en tiempo y dinero.",
+            "objective": "Digitalizar y modernizar los servicios municipales mediante plataformas digitales, una aplicación móvil para el vecino y herramientas tecnológicas que reduzcan los tiempos de atención y mejoren la experiencia ciudadana.",
+            "goal": "80% de los trámites municipales digitalizados para el año 2030; tiempo promedio de atención presencial reducido a menos de 15 minutos.",
+            "indicator": "Porcentaje de trámites municipales disponibles de forma digital sobre el total de trámites."
+          },
+          {
+            "problem": "Limitado acceso del ciudadano a la información pública y a mecanismos de seguimiento de la gestión municipal.",
+            "objective": "Fortalecer el gobierno abierto mediante plataformas de datos públicos, la rendición de cuentas y el monitoreo ciudadano de la gestión.",
+            "goal": "Portal de Gobierno Abierto implementado y publicación periódica de informes trimestrales de gestión durante todo el período 2027-2030.",
+            "indicator": "Número de plataformas implementadas y reportes de rendición de cuentas publicados."
+          },
+          {
+            "problem": "Débil integración de información para la gestión de la seguridad, las emergencias, el tránsito y los servicios municipales.",
+            "objective": "Implementar el Centro de Operaciones Inteligentes (COI) para integrar el monitoreo y la gestión de los principales servicios municipales.",
+            "goal": "COI implementado y operativo de manera integral para el año 2030, integrando la seguridad ciudadana, el tránsito, la gestión de riesgos y la atención de incidencias urbanas.",
+            "indicator": "Nivel de implementación y operatividad del COI."
+          },
+          {
+            "problem": "Limitada incorporación de tecnologías inteligentes (Smart City) para la gestión urbana y la prestación de servicios municipales.",
+            "objective": "Implementar la estrategia \"Chorrillos Smart City\" mediante soluciones tecnológicas orientadas a mejorar la seguridad, la movilidad, la gestión ambiental y la atención ciudadana.",
+            "goal": "Implementación de al menos 10 soluciones de Smart City operativas para el año 2030.",
+            "indicator": "Número de soluciones tecnológicas inteligentes implementadas."
+          },
+          {
+            "problem": "Ejecución presupuestal de proyectos de inversión por debajo del nivel óptimo, con saldos significativos devueltos al Tesoro Público en ejercicios previos.",
+            "objective": "Alcanzar una ejecución presupuestal de proyectos de inversión superior al 90% anual mediante la mejora de los procesos de formulación, contratación y supervisión.",
+            "goal": "Mantener una ejecución presupuestal superior al 90% anual en proyectos de inversión durante todo el período 2027-2030.",
+            "indicator": "Porcentaje de ejecución presupuestal de proyectos de inversión al 31 de diciembre de cada año."
+          },
+          {
+            "problem": "Limitada confianza ciudadana en la gestión municipal por percepción de falta de transparencia y corrupción en el manejo de los recursos públicos.",
+            "objective": "Fortalecer la transparencia e integridad institucional mediante un portal de transparencia activo, la Oficina de Integridad Municipal y auditorías ciudadanas.",
+            "goal": "Alcanzar un nivel de aprobación ciudadana en transparencia superior al 70% en la encuesta anual para el año 2030.",
+            "indicator": "Índice de percepción ciudadana de la transparencia municipal (encuesta anual)."
+          },
+          {
+            "problem": "Déficit de participación ciudadana efectiva en la toma de decisiones municipales, con un bajo porcentaje de vecinos activos en el Presupuesto Participativo.",
+            "objective": "Ampliar la participación ciudadana mediante la digitalización del presupuesto participativo, la descentralización de audiencias y el fortalecimiento del Consejo de Coordinación Local Distrital (CCL).",
+            "goal": "Incremento del 150% en la participación ciudadana en el Presupuesto Participativo para el año 2030 con respecto a la línea base de 2026.",
+            "indicator": "Número de vecinos que participan activamente en el Presupuesto Participativo anual."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-1RQzrWHdTDgwdF_-HBJu4Arb6ia7W4-p",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1RQzrWHdTDgwdF_-HBJu4Arb6ia7W4-p",
+      "sha256": "8723a8ddd93f95a4e6efe3432066b0533e260ef08f20b1ca53bb9ed4e630a3c4",
+      "accessedAt": "2026-10-02T22:54:03.959Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022978",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022978",
+      "sha256": "411781e8adfcc55a1ccead44d1639ee38f549da05116a791bc0b24bbeb911900",
+      "accessedAt": "2026-10-02T22:54:04.465Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

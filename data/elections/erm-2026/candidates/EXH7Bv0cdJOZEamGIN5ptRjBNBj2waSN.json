@@ -1,0 +1,233 @@
+{
+  "id": "EXH7Bv0cdJOZEamGIN5ptRjBNBj2waSN",
+  "slug": "renzo-jesus-gutierrez-portillo",
+  "electionId": "erm-2026",
+  "name": "Renzo Jesus Gutierrez Portillo",
+  "givenNames": "Renzo Jesus",
+  "surnames": "Gutierrez Portillo",
+  "age": 43,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140131",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:29.466Z",
+      "sourceId": "jne-hv-EXH7Bv0cdJOZEamGIN5ptRjBNBj2waSN"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ceadex",
+        "program": "adm comercio internacional",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "uni",
+        "program": "programacion phyton nivel 1",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "upc",
+        "program": "adm negocios internacionales",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "escuela de negocios esan",
+        "program": "diploma de especializacion en logistica y operaciones",
+        "completed": true,
+        "degree": "diploma de especializacion",
+        "year": "2020"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "europartners peru sac",
+      "role": "gerente comercial",
+      "from": "2016",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "terra support sac",
+        "type": "ACCIONES",
+        "quantity": 79500,
+        "value": 79500
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d24cee6f-9678-47bd-b90d-584767b0e63f.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/82c2a3e6-f372-483f-83c9-15d8ef7cc318.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Reducir la percepción de inseguridad ciudadana.",
+            "goal": "Reducir la percepción de inseguridad al 65%.",
+            "indicator": "Porcentaje de variación de percepción de inseguridad."
+          },
+          {
+            "problem": "Elevado número de denuncias por actos delictivos registradas en las comisarías del distrito.",
+            "objective": "Disminuir el número de denuncias registradas en comisarías.",
+            "goal": "Reducir las denuncias a 1,500 anualmente.",
+            "indicator": "Número de denuncias."
+          },
+          {
+            "problem": "Desnutrición crónica en niños menores de 5 años.",
+            "objective": "Disminuir la desnutrición crónica infantil en menores de 5 años.",
+            "goal": "Alcanzar una tasa de 30%.",
+            "indicator": "Porcentaje de variación de desnutrición crónica infantil."
+          },
+          {
+            "problem": "Incremento de la tasa de deserción escolar en el nivel de educación básica regular.",
+            "objective": "Reducir la deserción escolar.",
+            "goal": "Reducir la deserción escolar al 1.5%.",
+            "indicator": "Porcentaje de variación de deserción escolar."
+          },
+          {
+            "problem": "Aumento abrupto de las denuncias por violencia y acoso escolar en instituciones educativas locales registradas en el sistema SISEVE.",
+            "objective": "Disminuir las denuncias por violencia física o cibernética en las escuelas.",
+            "goal": "Reducir las denuncias a menos de 10 casos anuales.",
+            "indicator": "Cantidad de denuncias."
+          },
+          {
+            "problem": "Déficit crónico de espacios deportivos de calidad.",
+            "objective": "Duplicar la cantidad de beneficiarios de las escuelas deportivas municipales gratuitas.",
+            "goal": "Alcanzar un 200% de aumento en los beneficiarios.",
+            "indicator": "Porcentaje de variación de cantidad de beneficiarios."
+          },
+          {
+            "problem": "Único y valioso vestigio prehispánico desconectado de la oferta turística formal de Lima y sin integrarse a la vida cultural diaria del vecino.",
+            "objective": "Incrementar las visitas guiadas escolares a la Huaca La Merced y concretar convenios de promoción turística nacional.",
+            "goal": "Superar las visitas del año 2026 y firmar 3 convenios.",
+            "indicator": "Porcentaje de variación en la cantidad de visitas y número de convenios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Persistencia de niveles de pobreza monetaria en la población del distrito.",
+            "objective": "Reducir la pobreza monetaria en el distrito.",
+            "goal": "Reducir la pobreza al 9%.",
+            "indicator": "Porcentaje de pobreza."
+          },
+          {
+            "problem": "Desorden urbano y ocupación caótica de la vía pública a causa del comercio ambulatorio informal.",
+            "objective": "Capacitar y formalizar al 30% de los trabajadores informales.",
+            "goal": "Capacitar al 30% de los trabajadores informales.",
+            "indicator": "Porcentaje de trabajadores informales capacitados."
+          },
+          {
+            "problem": "Baja competitividad del tejido productivo local, compuesto mayoritariamente por empresas de subsistencia.",
+            "objective": "Elevar el porcentaje de pequeñas unidades de negocio rentables.",
+            "goal": "Alcanzar el 10% de unidades de negocio rentables.",
+            "indicator": "Porcentaje de unidades de negocio rentables."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante en el distrito, muy por debajo del estándar recomendado por la OMS.",
+            "objective": "Elevar el ratio de áreas verdes por habitante.",
+            "goal": "Alcanzar 4.5 m² de área verde por habitante.",
+            "indicator": "Superficie de área verde por habitante (m²/habitante)."
+          },
+          {
+            "problem": "Falta de mecanismos generalizados y eficientes para la segregación de residuos sólidos en la fuente.",
+            "objective": "Incrementar el número de asociaciones de recicladores formalizadas y procesar un mayor volumen de residuos inorgánicos generados.",
+            "goal": "Formalizar 3 asociaciones y procesar el 30% de los residuos.",
+            "indicator": "Número de asociaciones de recicladores formalizadas con convenio y porcentaje de residuos procesados."
+          },
+          {
+            "problem": "Calidad del aire clasificada como 'Mala' para grupos sensibles debido al material particulado y emisiones vehiculares.",
+            "objective": "Reducir la concentración de material particulado en el aire.",
+            "goal": "Cumplir con los Límites Máximos Permisibles (LMP) para la calidad del aire.",
+            "indicator": "Medición de los niveles de contaminantes atmosféricos."
+          },
+          {
+            "problem": "Insuficiente y precaria infraestructura vial para la movilidad sostenible, como ciclovías y vías peatonales.",
+            "objective": "Ampliar la inversión pública anual destinada a la transitabilidad y movilidad no motorizada.",
+            "goal": "Invertir S/ 5 millones anuales.",
+            "indicator": "Monto de inversión anual en movilidad no motorizada."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Apatía, desconfianza institucional y limitada representatividad vecinal en los espacios de participación ciudadana.",
+            "objective": "Incrementar en un 50% la concurrencia activa de vecinos no afiliados en los cabildos abiertos.",
+            "goal": "Aumentar la concurrencia en un 50%.",
+            "indicator": "Porcentaje de variación de la concurrencia a cabildos abiertos."
+          },
+          {
+            "problem": "Excesiva demora burocrática para viabilizar e iniciar proyectos de inversión pública de envergadura.",
+            "objective": "Obtener la Certificación en ISO 9001:2015 para optimizar los procesos municipales.",
+            "goal": "Certificar 2 procesos bajo la norma ISO 9001:2015.",
+            "indicator": "Cantidad de procesos certificados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-EXH7Bv0cdJOZEamGIN5ptRjBNBj2waSN",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/EXH7Bv0cdJOZEamGIN5ptRjBNBj2waSN",
+      "sha256": "9c46286a7ac8c8cb65727eca342e8ad42631783c0a60f4a3ccbd94a2283315d9",
+      "accessedAt": "2026-10-02T23:06:29.466Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021296",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021296",
+      "sha256": "f75fa1eba84bc0f27038e687efccf32ad5129a58d5ac46ae167f043fc4e1219f",
+      "accessedAt": "2026-10-02T23:06:30.007Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

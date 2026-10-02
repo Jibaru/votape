@@ -1,0 +1,359 @@
+{
+  "id": "uCaduS71ivu3WHn3rxfCA07XHqXnIlDc",
+  "slug": "jose-elgar-espejo-cardenas",
+  "electionId": "erm-2026",
+  "name": "Jose Elgar Espejo Cardenas",
+  "givenNames": "Jose Elgar",
+  "surnames": "Espejo Cardenas",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:25.537Z",
+      "sourceId": "jne-hv-uCaduS71ivu3WHn3rxfCA07XHqXnIlDc"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "IPAE",
+        "program": "ADMINISTRACIÓN",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PERNOT COLONIAL SAC",
+      "role": "ADMINISTRADOR",
+      "from": "2025",
+      "to": "2026"
+    },
+    {
+      "employer": "ANCLAJES SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2007",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "year": "2022"
+    },
+    {
+      "party": "UNION POR EL PERU",
+      "year": "2017"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 14400,
+        "public": 0,
+        "private": 14400
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/6679a70d-39e6-4bb8-a7b1-3062034f5e2b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/dda2d79f-a6ba-4b19-bf7a-d5c110422e86.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Los programas de alimentos no llegan de manera efectiva a la población más necesitada del distrito.",
+            "objective": "Garantizar el acceso oportuno, transparente y eficiente a los programas de apoyo alimentario y asistencia social.",
+            "goal": "Fiscalizar el 100% de los programas alimentarios y actualizar el 100% de los padrones de beneficiarios.",
+            "indicator": "Porcentaje de programas alimentarios supervisados y fiscalizados."
+          },
+          {
+            "problem": "Creciente percepción de inseguridad ciudadana que afecta la calidad de vida de los vecinos.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la profesionalización del serenazgo, la implementación de videovigilancia y la promoción de la participación vecinal.",
+            "goal": "Reducir en un 30% la percepción de inseguridad ciudadana en el distrito.",
+            "indicator": "Porcentaje de vecinos que manifiestan sentirse seguros en su zona de residencia."
+          },
+          {
+            "problem": "Existencia de una oferta limitada de programas educativos, culturales y deportivos para el desarrollo humano integral.",
+            "objective": "Fortalecer el desarrollo humano de la población mediante la implementación de programas de educación, deporte, arte y cultura.",
+            "goal": "Beneficiar a más de 20,000 vecinos con programas integrales de educación, deporte, arte y cultura.",
+            "indicator": "Número de vecinos beneficiados por los programas municipales de desarrollo humano."
+          },
+          {
+            "problem": "Cobertura insuficiente en programas de prevención de la salud y promoción del bienestar ciudadano.",
+            "objective": "Incrementar la cobertura de los programas municipales de salud preventiva y bienestar.",
+            "goal": "Incrementar significativamente la cobertura de salud preventiva y el bienestar integral de la población.",
+            "indicator": "Nivel de cobertura de los programas de salud preventiva."
+          },
+          {
+            "problem": "Escasez de programas educativos, deportivos, artísticos y culturales.",
+            "objective": "Fortalecer el desarrollo humano mediante programas de educación, deporte, arte y cultura.",
+            "goal": "Beneficiar a más de 20,000 vecinos.",
+            "indicator": "Número de vecinos beneficiados por programas municipales."
+          },
+          {
+            "problem": "Creciente percepción de inseguridad ciudadana en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana mediante serenazgo, videovigilancia y participación vecinal.",
+            "goal": "Reducir en 30% la percepción de inseguridad ciudadana.",
+            "indicator": "Porcentaje de vecinos que manifiestan sentirse seguros."
+          },
+          {
+            "problem": "Insuficiente alcance de los programas de alimentos para la población más necesitada.",
+            "objective": "Garantizar el acceso oportuno y transparente a los programas de apoyo alimentario y asistencia social.",
+            "goal": "Fiscalizar el 100% de programas alimentarios y actualizar el 100% de padrones de beneficiarios.",
+            "indicator": "Programas alimentarios supervisados y fiscalizados."
+          },
+          {
+            "problem": "Cobertura limitada de los programas de prevención en salud y bienestar ciudadano.",
+            "objective": "Incrementar la cobertura de programas municipales de salud preventiva.",
+            "goal": "Incrementar significativamente la cobertura de salud preventiva y bienestar integral.",
+            "indicator": "Cobertura de programas de salud preventiva."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo nivel de emprendimiento formal y limitada empleabilidad en la población económicamente activa.",
+            "objective": "Impulsar el desarrollo económico local mediante la capacitación en emprendimiento y la mejora de la empleabilidad.",
+            "goal": "Ampliar la inserción laboral y las oportunidades económicas para la población del distrito.",
+            "indicator": "Número de participantes capacitados en programas de emprendimiento y gestión empresarial."
+          },
+          {
+            "problem": "Escasas oportunidades laborales para los jóvenes y adultos del distrito.",
+            "objective": "Promover oportunidades educativas y de capacitación laboral para jóvenes y adultos a través del Centro de Educación Básica Independencia (CEBAI).",
+            "goal": "Beneficiar a más de 3,000 jóvenes y adultos con programas de educación y capacitación para el empleo.",
+            "indicator": "Porcentaje de beneficiarios que culminan satisfactoriamente los programas educativos y de capacitación."
+          },
+          {
+            "problem": "Bajos niveles de emprendimiento y empleabilidad en la población.",
+            "objective": "Impulsar el desarrollo local mediante la capacitación en emprendimiento y empleabilidad.",
+            "goal": "Ampliar la inserción laboral y las oportunidades económicas de la población.",
+            "indicator": "Número de participantes capacitados."
+          },
+          {
+            "problem": "Condiciones de salubridad deficientes en la comercialización de alimentos, representando un riesgo para la salud pública.",
+            "objective": "Mejorar la salubridad y la fiscalización sanitaria en centros comerciales, mercados y restaurantes.",
+            "goal": "Mejorar los estándares de salubridad y seguridad alimentaria en todos los establecimientos del distrito.",
+            "indicator": "Número de establecimientos comerciales y de alimentos que cumplen con las normativas sanitarias vigentes."
+          },
+          {
+            "problem": "Desorden e informalidad en el servicio de transporte menor, lo que genera congestión vehicular y riesgos para la seguridad.",
+            "objective": "Ordenar, formalizar y modernizar el servicio de transporte menor en el distrito para garantizar una movilidad segura y eficiente.",
+            "goal": "Formalizar y ordenar el 100% de las empresas de transporte menor autorizadas.",
+            "indicator": "Porcentaje de empresas y unidades de transporte menor debidamente formalizadas y operando bajo la normativa vigente."
+          },
+          {
+            "problem": "Deficiente salubridad en la comercialización de alimentos.",
+            "objective": "Mejorar la salubridad y fiscalización de centros comerciales y restaurantes.",
+            "goal": "Mejorar los estándares de salubridad y seguridad alimentaria.",
+            "indicator": "Número de establecimientos fiscalizados."
+          },
+          {
+            "problem": "Desorden y caos en el servicio de transporte menor.",
+            "objective": "Ordenar, formalizar y modernizar el servicio de transporte menor.",
+            "goal": "Formalizar y ordenar el 100% de las empresas autorizadas de transporte menor.",
+            "indicator": "Porcentaje de empresas y unidades de transporte menor formalizadas."
+          },
+          {
+            "problem": "Escasas oportunidades laborales para jóvenes y adultos.",
+            "objective": "Promover oportunidades educativas y capacitación laboral para jóvenes y adultos mediante el Centro de Educación Básica Independencia (CEBAI).",
+            "goal": "Beneficiar a más de 3,000 jóvenes y adultos.",
+            "indicator": "Número de beneficiarios que culminan programas educativos y de capacitación."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Acumulación de basura y residuos sólidos en la vía pública.",
+            "objective": "Modernizar el sistema distrital de limpieza pública y gestión de residuos sólidos.",
+            "goal": "Alcanzar más del 95% de cobertura eficiente de recolección.",
+            "indicator": "Cobertura de recolección de residuos sólidos."
+          },
+          {
+            "problem": "Déficit de vegetación y áreas verdes en el distrito.",
+            "objective": "Ampliar las áreas verdes y la arborización urbana.",
+            "goal": "Incrementar sustancialmente la cobertura vegetal.",
+            "indicator": "Cobertura vegetal del distrito."
+          },
+          {
+            "problem": "Insuficiente protección de las Lomas Bella Durmiente.",
+            "objective": "Proteger y conservar las Lomas Bella Durmiente.",
+            "goal": "Garantizar la conservación integral de las lomas.",
+            "indicator": "Nivel de conservación del ecosistema."
+          },
+          {
+            "problem": "Inexistencia de una cultura de educación ambiental en la ciudadanía.",
+            "objective": "Promover la educación ambiental, el reciclaje y la participación ciudadana.",
+            "goal": "Consolidar una cultura ambiental sostenible en el distrito.",
+            "indicator": "Participación en programas ambientales."
+          },
+          {
+            "problem": "Acumulación de basura en espacios públicos debido a una gestión de residuos sólidos ineficiente.",
+            "objective": "Modernizar el sistema distrital de limpieza pública y la gestión integral de residuos sólidos.",
+            "goal": "Alcanzar más del 95% de cobertura eficiente en la recolección de residuos sólidos.",
+            "indicator": "Porcentaje de cobertura del servicio de recolección de residuos sólidos en el distrito."
+          },
+          {
+            "problem": "Déficit de áreas verdes y escasa vegetación en el distrito, lo que afecta la calidad ambiental y paisajística.",
+            "objective": "Ampliar las áreas verdes y promover la arborización urbana en todo el territorio del distrito.",
+            "goal": "Incrementar sustancialmente la cobertura vegetal, consolidando una red de parques y jardines.",
+            "indicator": "Índice de cobertura vegetal por habitante en el distrito."
+          },
+          {
+            "problem": "Protección insuficiente del ecosistema de las Lomas Bella Durmiente frente a amenazas como invasiones y contaminación.",
+            "objective": "Proteger, conservar y poner en valor las Lomas Bella Durmiente como patrimonio natural y paisajístico.",
+            "goal": "Garantizar la conservación integral del ecosistema de las Lomas Bella Durmiente.",
+            "indicator": "Nivel de conservación del ecosistema de las lomas, medido por la reducción de amenazas y la recuperación de áreas degradadas."
+          },
+          {
+            "problem": "Inexistencia de una cultura de educación ambiental consolidada entre los ciudadanos del distrito.",
+            "objective": "Promover la educación ambiental, el reciclaje y la participación ciudadana en la protección del medio ambiente.",
+            "goal": "Consolidar una cultura ambiental sostenible en el distrito, con ciudadanos comprometidos y responsables.",
+            "indicator": "Nivel de participación ciudadana en programas y campañas ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Sistemas de videovigilancia obsoletos y sin tecnología de inteligencia artificial.",
+            "objective": "Implementar un centro de inteligencia y análisis del delito con cámaras de vigilancia y el uso de inteligencia artificial.",
+            "goal": "Monitorear el 100% de los puntos críticos del distrito.",
+            "indicator": "Número de puntos críticos monitoreados."
+          },
+          {
+            "problem": "Selección inadecuada y falta de profesionalización del personal de serenazgo.",
+            "objective": "Profesionalizar y fortalecer el Serenazgo Municipal.",
+            "goal": "Lograr que el 100% del personal sea certificado anualmente.",
+            "indicator": "Número de serenos capacitados y certificados."
+          },
+          {
+            "problem": "Ineficaz fiscalización y control de los programas sociales.",
+            "objective": "Fortalecer la fiscalización y el control de los programas sociales.",
+            "goal": "Implementar un sistema distrital de control y trazabilidad alimentaria.",
+            "indicator": "Supervisión constante de los programas sociales."
+          },
+          {
+            "problem": "Bajo interés y participación de la población en las políticas municipales.",
+            "objective": "Fortalecer la coordinación institucional y la participación ciudadana.",
+            "goal": "Contar con una red de vigilancia ciudadana en los 14 sectores del distrito.",
+            "indicator": "Número de sectores con vigilancia organizada."
+          },
+          {
+            "problem": "Sistema de videovigilancia con cámaras obsoletas y sin aprovechamiento de tecnologías como la inteligencia artificial.",
+            "objective": "Implementar un centro de inteligencia y análisis del delito, modernizando el sistema de videovigilancia con el uso de inteligencia artificial.",
+            "goal": "Monitorear el 100% de los puntos críticos delictivos del distrito con tecnología de vanguardia.",
+            "indicator": "Número de puntos críticos del distrito monitoreados con un sistema de videovigilancia inteligente."
+          },
+          {
+            "problem": "Falta de profesionalización y criterios técnicos en la selección del personal de serenazgo municipal.",
+            "objective": "Profesionalizar y fortalecer el cuerpo de Serenazgo Municipal para mejorar su capacidad operativa y de atención al ciudadano.",
+            "goal": "Lograr que el 100% del personal de serenazgo sea certificado anualmente en competencias de seguridad ciudadana.",
+            "indicator": "Porcentaje de agentes de serenazgo capacitados y certificados según estándares de competencia."
+          },
+          {
+            "problem": "Fiscalización y control ineficaces de los programas sociales, lo que genera desconfianza y riesgo de uso indebido de recursos.",
+            "objective": "Fortalecer los mecanismos de fiscalización, supervisión y control de los programas sociales para asegurar su correcta ejecución.",
+            "goal": "Implementar un sistema distrital de control y trazabilidad alimentaria que garantice la transparencia y el buen uso de los recursos.",
+            "indicator": "Implementación de un sistema de supervisión constante y transparente de los programas sociales."
+          },
+          {
+            "problem": "Bajo interés y escasa participación de la población en los espacios de toma de decisiones y políticas municipales.",
+            "objective": "Fortalecer la coordinación institucional y promover la participación ciudadana organizada en la gestión municipal.",
+            "goal": "Contar con una red de vigilancia ciudadana consolidada y activa en los 14 sectores del distrito.",
+            "indicator": "Número de sectores territoriales con mecanismos de vigilancia y participación ciudadana activos y organizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-143291",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "JUZGADO PENAL UNIPERSONAL",
+        "expediente": "03281-2025-1-3207-JR-PE-04",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-uCaduS71ivu3WHn3rxfCA07XHqXnIlDc"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "jne-obliga-143287",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "JUZGADO PENAL UNIPERSONAL",
+        "expediente": "03723-2017-1-3207-JR-PE-01",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-uCaduS71ivu3WHn3rxfCA07XHqXnIlDc"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-uCaduS71ivu3WHn3rxfCA07XHqXnIlDc",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/uCaduS71ivu3WHn3rxfCA07XHqXnIlDc",
+      "sha256": "64d63529fe2e867b40817925922aabf33d4e1a66064f94cc15ccc4e7d241b686",
+      "accessedAt": "2026-10-02T22:56:25.537Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017883",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017883",
+      "sha256": "3ea80b435c61d7801fde75228bcf458d463a03ae1a0184ea9f305d214cccb601",
+      "accessedAt": "2026-10-02T22:56:26.016Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

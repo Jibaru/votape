@@ -1,0 +1,187 @@
+{
+  "id": "dIKpPO69hZqzrCngmnZZOBNqYGisDJaA",
+  "slug": "roberto-abelardo-telles-jaramillo",
+  "electionId": "erm-2026",
+  "name": "Roberto Abelardo Telles Jaramillo",
+  "givenNames": "Roberto Abelardo",
+  "surnames": "Telles Jaramillo",
+  "age": 44,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140122",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:07.130Z",
+      "sourceId": "jne-hv-dIKpPO69hZqzrCngmnZZOBNqYGisDJaA"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2011"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de Lima",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2010"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad César Vallejo",
+        "program": "Maestría en Gestión Pública",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad Distrital de Miraflores",
+      "role": "Abogado",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "Independiente",
+      "role": "Abogado",
+      "from": "2015",
+      "to": "2023"
+    },
+    {
+      "employer": "Municipalidad Distrital del Rímac",
+      "role": "Regidor Distrital",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PERU PATRIA SEGURA",
+      "from": "2015",
+      "to": "2018"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "year": "2023"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 116942,
+        "public": 116942,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/eeaa8634-7fb1-4147-bf33-8612ae5579d6.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ec20353b-3518-4372-93a9-b6210abe629b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "1. Incremento de la inseguridad ciudadana.",
+            "objective": "Liderazgo, coordinación a todo nivel y con los diferentes actores para hacerle frente a la inseguridad y repotenciar el recurso humano y logístico de la seguridad.",
+            "goal": "Un distrito ordenado y seguro.",
+            "indicator": "Disminución en la comisión de delitos, interposición de denuncias y en la sensación de inseguridad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "1. Falta de implementación de procesos de planificación y gestión ordenada del desarrollo económico local.",
+            "objective": "Elaboración y ejecución de un Plan de Desarrollo Económico Local y Mesa Distrital de Promoción del Desarrollo Económico Local.",
+            "goal": "Un distrito con una ordenada dinámica empresarial y comercial, con capacidades y compromiso social y ambiental.",
+            "indicator": "Crecimiento de las actividades y servicios comerciales por parte de los actores económicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1. Acumulación de residuos sólidos en áreas públicas a todas horas y generación de puntos críticos.",
+            "objective": "Programa eficiente de recolección de residuos sólidos, segregación, limpieza, baldeo y barrido de calles.",
+            "goal": "Un distrito limpio, con un eficiente desarrollo del programa de limpieza pública.",
+            "indicator": "Disminución de puntos críticos y potencialmente críticos de acumulación de residuos sólidos en el distrito y número de viviendas que segregan sus residuos sólidos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "1. Deficiencia en la prestación de los servicios administrativos municipales.",
+            "objective": "Elaboración y ejecución de un Plan de Trabajo que genere la simplificación administrativa y reordenamiento organizativo y funcional de la Entidad.",
+            "goal": "Una Municipalidad eficiente y eficaz en cuanto a la prestación de sus servicios administrativos municipales.",
+            "indicator": "Incremento en el número de procedimientos administrativos atendidos y en la satisfacción del ciudadano."
+          },
+          {
+            "problem": "1. Deficiencia en la prestación de los servicios administrativos municipales.",
+            "objective": "Elaboración y ejecución de un Plan de Trabajo que genere la simplificación administrativa y reordenamiento organizativo y funcional de la Entidad.",
+            "goal": "Una Municipalidad eficiente y eficaz en cuanto a la prestación de sus servicios administrativos municipales.",
+            "indicator": "Incremento en el número de procedimientos administrativos atendidos y en la satisfacción del ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-dIKpPO69hZqzrCngmnZZOBNqYGisDJaA",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/dIKpPO69hZqzrCngmnZZOBNqYGisDJaA",
+      "sha256": "db06aff544d3257c07fc2799649019f8bb16bd9b8c15e5de55f6557c078d55d9",
+      "accessedAt": "2026-10-02T23:02:07.130Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015788",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015788",
+      "sha256": "c2668e42d44e95ca3c23d1509183ae5d09db04e38e96f1453cef209b9016b522",
+      "accessedAt": "2026-10-02T23:02:07.653Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

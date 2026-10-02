@@ -1,0 +1,217 @@
+{
+  "id": "IQqTR88mQPNYt5MsFuXLeZNJov8Q3NXo",
+  "slug": "napoleon-roberto-martinez-merizalde-huatuco",
+  "electionId": "erm-2026",
+  "name": "Napoleon Roberto Martinez Merizalde Huatuco",
+  "givenNames": "Napoleon Roberto",
+  "surnames": "Martinez Merizalde Huatuco",
+  "age": 55,
+  "gender": "Masculino",
+  "party": {
+    "id": 2967,
+    "name": "PROGRESEMOS"
+  },
+  "jurisdictionId": "140127",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:14.251Z",
+      "sourceId": "jne-hv-IQqTR88mQPNYt5MsFuXLeZNJov8Q3NXo"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "direccion de redes integradas de lima norte",
+      "role": "ASESOR",
+      "from": "2026",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2024"
+    },
+    {
+      "party": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 0,
+        "private": 120000
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 2000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 70000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/58eac6c5-92d1-4beb-a115-d53071999f00.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0837515b-894e-440b-b391-655f12997f50.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Creciente inseguridad ciudadana manifestada en el incremento de delitos patrimoniales como robos, hurtos, arrebatos y asaltos en espacios públicos.",
+            "objective": "Garantizar la protección integral de los vecinos mediante una política moderna de seguridad basada en tecnología, inteligencia territorial, prevención comunitaria y fortalecimiento de la capacidad operativa del serenazgo.",
+            "goal": "Reducir en un 30% la percepción de inseguridad, lograr un tiempo de respuesta efectiva en menos de 3 minutos, incrementar en un 50% los operativos preventivos y reducir las zonas críticas del mapa del delito.",
+            "indicator": "Percepción vecinal de inseguridad, nivel de confianza en el serenazgo, tiempo promedio de respuesta ante emergencias y número de operativos preventivos ejecutados."
+          },
+          {
+            "problem": "Persistencia de la violencia familiar y contra la mujer, con una alta demanda de atención por casos de violencia psicológica, física, sexual y económica.",
+            "objective": "Implementar una política municipal integral para la prevención, detección temprana, atención oportuna, protección y restitución de derechos frente a la violencia familiar y contra la mujer, bajo un enfoque de género y derechos humanos.",
+            "goal": "Reducir en un 30% la percepción de violencia contra la mujer, instalar vigilancia preventiva en las principales zonas de riesgo e implementar programas preventivos en colegios públicos y privados.",
+            "indicator": "Número de casos atendidos, cantidad de mujeres beneficiadas, número de campañas de sensibilización realizadas y reducción de incidencias reportadas."
+          },
+          {
+            "problem": "Déficit en salud preventiva y salud mental, evidenciado por el incremento de cuadros de ansiedad, depresión, estrés crónico y la necesidad de fortalecer la respuesta territorial en promoción y prevención.",
+            "objective": "Implementar una política municipal integral de salud preventiva, salud mental y bienestar comunitario, orientada a fortalecer la prevención, la detección temprana y la atención descentralizada en todo el distrito.",
+            "goal": "Incrementar en un 50% las campañas de salud preventiva y salud mental, y brindar atención psicológica y orientación familiar gratuita a vecinos en situación de vulnerabilidad.",
+            "indicator": "Número de vecinos beneficiados por programas de salud, cantidad de atenciones psicológicas y médicas realizadas, y número de campañas de salud ejecutadas."
+          },
+          {
+            "problem": "Escasez de espacios deportivos y recreativos modernos, lo que limita la práctica regular de actividad física y las oportunidades de desarrollo saludable e integración social.",
+            "objective": "Promover el deporte, la recreación y la integración comunitaria mediante la modernización, ampliación y recuperación de espacios deportivos y recreativos accesibles, seguros e inclusivos para todos los vecinos.",
+            "goal": "Incrementar en un 40% la participación juvenil en actividades deportivas municipales para el 2026 y aumentar en un 30% el uso de espacios deportivos públicos por parte de niños y jóvenes.",
+            "indicator": "Cantidad de espacios deportivos recuperados y modernizados, nivel de satisfacción vecinal respecto a la infraestructura deportiva y niveles de participación juvenil."
+          },
+          {
+            "problem": "Dificultades de acceso para los adultos mayores a servicios de salud, atención psicológica, actividades recreativas y espacios de integración comunitaria, afectando su bienestar y calidad de vida.",
+            "objective": "Mejorar la calidad de vida de los adultos mayores del distrito mediante programas integrales de salud preventiva, atención especializada, integración social, recreación y envejecimiento activo.",
+            "goal": "Incrementar en un 50% la participación de adultos mayores en programas recreativos municipales para el 2026 y ampliar progresivamente la cobertura de atención médica y psicológica para este grupo poblacional.",
+            "indicator": "Número de adultos mayores beneficiados por programas municipales, cantidad de atenciones médicas y psicológicas realizadas, y nivel de participación en actividades recreativas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de activación económica local tras la desaceleración provocada por la pandemia, que afectó a pequeños negocios, emprendedores y trabajadores independientes, aumentando el desempleo y la informalidad.",
+            "objective": "Impulsar la reactivación económica local mediante el fortalecimiento del emprendimiento, la promoción de la inversión, la formalización empresarial y la generación de empleo digno.",
+            "goal": "Incrementar anualmente la participación de emprendedores en programas municipales, desarrollar ferias comerciales permanentes en el distrito y promover la formalización de pequeños negocios locales.",
+            "indicator": "Número de emprendedores beneficiados por programas municipales, cantidad de ferias comerciales realizadas, número de negocios formalizados y nivel de satisfacción de los emprendedores."
+          },
+          {
+            "problem": "Aprovechamiento subutilizado del potencial turístico del litoral del distrito, debido a una infraestructura limitada y la ausencia de una estrategia integral para su desarrollo.",
+            "objective": "Convertir la Costa Verde de San Miguel en un polo turístico, recreativo y económico de alcance metropolitano, mediante la recuperación integral del litoral y la creación de infraestructura moderna y sostenible.",
+            "goal": "Ejecutar el Proyecto Costanera San Miguel para la transformación integral del borde costero, recuperar progresivamente las playas y desarrollar un calendario permanente de eventos turísticos, culturales y deportivos.",
+            "indicator": "Número de visitantes recibidos, cantidad de eventos turísticos y culturales desarrollados, monto de inversión captada y nivel de actividad económica generada en la zona."
+          },
+          {
+            "problem": "Existencia de barreras burocráticas, procedimientos complejos y falta de digitalización que generan retrasos, afectan la competitividad, desincentivan la inversión y disminuyen la confianza ciudadana.",
+            "objective": "Reducir las barreras burocráticas mediante la simplificación administrativa, la digitalización de trámites y la mejora continua de los servicios municipales para facilitar el acceso a autorizaciones.",
+            "goal": "Reducir significativamente los tiempos de entrega de licencias para el 2026, digitalizar progresivamente los principales trámites municipales y mejorar la percepción vecinal sobre la eficiencia municipal.",
+            "indicator": "Tiempo promedio de emisión de licencias y autorizaciones, número de trámites municipales digitalizados y nivel de satisfacción vecinal respecto a la atención municipal."
+          },
+          {
+            "problem": "Persistencia de la morosidad tributaria, una limitada cultura de pago y procedimientos burocráticos que limitan la capacidad de inversión municipal y la calidad de los servicios.",
+            "objective": "Fortalecer la sostenibilidad financiera de la municipalidad mediante el incremento de la recaudación tributaria, la modernización de los servicios y el fortalecimiento de la cultura tributaria de los vecinos.",
+            "goal": "Incrementar progresivamente la recaudación tributaria para el 2026, reducir los tiempos de atención y trámites, e incrementar la cantidad de vecinos puntuales a través de programas de incentivos.",
+            "indicator": "Nivel de recaudación tributaria anual, tiempo promedio de atención tributaria municipal y nivel de satisfacción vecinal respecto a los servicios tributarios."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deterioro ambiental y necesidad de sostenibilidad urbana, derivados del crecimiento acelerado, la presión sobre los recursos naturales y la generación creciente de residuos sólidos.",
+            "objective": "Implementar una política integral de sostenibilidad ambiental que promueva la conservación de recursos, la gestión eficiente de residuos sólidos y la construcción de una cultura ambiental ciudadana.",
+            "goal": "Incrementar progresivamente el reciclaje y la segregación de residuos para el 2026, implementar campañas ambientales permanentes en todos los sectores y reducir los puntos críticos de contaminación por basura.",
+            "indicator": "Cantidad de residuos reciclados mensualmente, nivel de participación vecinal en programas de reciclaje y número de campañas ambientales ejecutadas."
+          },
+          {
+            "problem": "Insuficiente cobertura, mantenimiento y modernización de áreas verdes, parques y jardines, limitando la calidad ambiental y los espacios saludables para la comunidad.",
+            "objective": "Recuperar y ampliar las áreas verdes y espacios públicos del distrito para mejorar la calidad ambiental y promover espacios saludables para las familias sanmiguelinas.",
+            "goal": "Incrementar progresivamente las áreas verdes del distrito para el 2026, recuperar y modernizar los parques y jardines deteriorados, e implementar mantenimiento permanente en espacios públicos.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas, número de parques modernizados y nivel de satisfacción vecinal respecto a parques y jardines."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada participación ciudadana en los mecanismos de toma de decisiones, priorización de proyectos y supervisión de la gestión municipal, generando distanciamiento entre la municipalidad y la comunidad.",
+            "objective": "Fortalecer la gobernanza participativa mediante la implementación de mecanismos modernos, transparentes y permanentes de participación ciudadana, promoviendo la colaboración activa de los vecinos.",
+            "goal": "Implementar la Plataforma Digital de Participación Ciudadana \"Decide San Miguel\", realizar Cabildos Abiertos Descentralizados periódicamente y crear Consejos Consultivos Ciudadanos.",
+            "indicator": "Número de participantes registrados en procesos participativos, cantidad de propuestas ciudadanas ejecutadas y número de audiencias vecinales realizadas."
+          },
+          {
+            "problem": "Necesidad de modernización municipal ante la dependencia de procesos presenciales y trámites burocráticos que generan demoras y una percepción negativa de la atención.",
+            "objective": "Transformar la Municipalidad de San Miguel en una Smart City mediante la implementación de tecnologías digitales, plataformas inteligentes de gestión y servicios municipales integrados.",
+            "goal": "Digitalizar progresivamente los principales servicios municipales para el 2026 e implementar tecnología inteligente para la seguridad y la gestión del tránsito urbano.",
+            "indicator": "Número de servicios digitalizados, tiempo promedio de atención municipal, cantidad de cámaras inteligentes implementadas y nivel de satisfacción vecinal respecto a los servicios digitales."
+          },
+          {
+            "problem": "Insuficiente transparencia y mecanismos de rendición de cuentas que dificultan el control ciudadano y pueden generar desconfianza en la gestión de los recursos públicos.",
+            "objective": "Garantizar una gestión municipal abierta, transparente y fiscalizable, fortaleciendo los mecanismos de acceso a la información pública, la rendición de cuentas y el control ciudadano.",
+            "goal": "Realizar audiencias públicas de rendición de cuentas de manera periódica, implementar el programa \"Municipalidad Transparente\" para el monitoreo de obras en tiempo real y fortalecer el Portal de Transparencia Municipal.",
+            "indicator": "Publicación de informes de gestión, realización de audiencias públicas de rendición de cuentas e índice de satisfacción ciudadana con la transparencia municipal."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-IQqTR88mQPNYt5MsFuXLeZNJov8Q3NXo",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/IQqTR88mQPNYt5MsFuXLeZNJov8Q3NXo",
+      "sha256": "d5c8f9d93e280335203a6beb0d9e75327acd744a3749a7fa827aa3f5b2f070c7",
+      "accessedAt": "2026-10-02T23:05:14.251Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021164",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021164",
+      "sha256": "d955fbe0c2ab9e0170b50d7848e7c612ebab1980a4d52bb89e73c516fcd40dcd",
+      "accessedAt": "2026-10-02T23:05:14.732Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "RzXqUKTE5uy9gvgmwBKV45hS0PIuUCBq",
+  "slug": "migman-pinchi-caro",
+  "electionId": "erm-2026",
+  "name": "Migman Pinchi Caro",
+  "givenNames": "Migman",
+  "surnames": "Pinchi Caro",
+  "age": 33,
+  "gender": "Masculino",
+  "party": {
+    "id": 2840,
+    "name": "PARTIDO MORADO"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:52.378Z",
+      "sourceId": "jne-hv-RzXqUKTE5uy9gvgmwBKV45hS0PIuUCBq"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "Licenciado en Administración de Empresas",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Peruana de Ciencias Aplicadas S.A.C.",
+        "program": "BACHILLER EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2022"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD CIENTÍFICA DEL SUR",
+        "program": "GESTIÓN MUNICIPAL",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "TECH UNIVERSIDAD",
+        "program": "SISTEMAS FERROVIARIOS",
+        "completed": false,
+        "degree": null,
+        "year": "--"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNNA TRANSPORTE S.A.C.",
+      "role": "INSPECTOR DE TRANSPORTE (FERROVIARIO)",
+      "from": "2021",
+      "to": "2026"
+    },
+    {
+      "employer": "UNNA TRANSPORTE S.A.C.",
+      "role": "INSTRUCTOR DE CAPACITACIÓN TÉCNICA",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "UNNA TRANSPORTE S.A.C.",
+      "role": "CONDUCTOR DE TREN FULL TIME",
+      "from": "2018",
+      "to": "2020"
+    },
+    {
+      "employer": "UNNA TRANSPORTE S.A.C.",
+      "role": "ADMINISTRADOR JUNIOR",
+      "from": "2012",
+      "to": "2017"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 65800,
+        "public": 0,
+        "private": 65800
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/92576be7-2e80-404d-996f-629ec14d5aa8.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0373ba1f-5bf9-48a6-ae9a-a936faf03089.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Las personas con discapacidad enfrentan barreras de accesibilidad y limitaciones para acceder a un empleo digno.",
+            "objective": "Promover una ciudad inclusiva que garantice la igualdad de oportunidades y la participación plena de las personas con discapacidad.",
+            "goal": "Incrementar progresivamente la inserción laboral de personas con discapacidad y garantizar la accesibilidad en espacios municipales estratégicos.",
+            "indicator": "Tasa de inserción laboral de personas con discapacidad y porcentaje de espacios municipales accesibles."
+          },
+          {
+            "problem": "Carencia de espacios seguros para el desarrollo humano y comunitario, afectando a jóvenes y familias.",
+            "objective": "Fortalecer la integración social y la convivencia vecinal mediante la creación de espacios adecuados.",
+            "goal": "Implementar progresivamente Centros de Integración Distrital en zonas estratégicas del distrito.",
+            "indicator": "Número de Centros de Integración Distrital (CID) implementados."
+          },
+          {
+            "problem": "Limitada capacidad de atención médica accesible para los vecinos del distrito de Villa El Salvador.",
+            "objective": "Garantizar atención médica digna y cercana para todos los ciudadanos.",
+            "goal": "Poner en funcionamiento un policlínico municipal antes del año 2028.",
+            "indicator": "Estado de funcionamiento del policlínico municipal."
+          },
+          {
+            "problem": "Insuficiente promoción de actividades culturales y deportivas comunitarias en el distrito.",
+            "objective": "Fortalecer el tejido social mediante el fomento de la cultura, el deporte y la participación vecinal.",
+            "goal": "Asignar al menos el 8% del presupuesto distrital al sector cultura y deporte.",
+            "indicator": "Porcentaje del presupuesto distrital asignado al sector cultura y deporte."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Poca articulación existente entre la municipalidad y las zonas industriales del distrito.",
+            "objective": "Promover el empleo local y el fortalecimiento del ecosistema empresarial.",
+            "goal": "Incrementar las oportunidades laborales y fortalecer el ecosistema empresarial local.",
+            "indicator": "Número de oportunidades laborales incrementadas y nivel de fortalecimiento del ecosistema empresarial local."
+          },
+          {
+            "problem": "El comercio ambulatorio desordenado genera congestión y conflictos urbanos en el distrito.",
+            "objective": "Ordenar la actividad comercial preservando el derecho al trabajo de los comerciantes.",
+            "goal": "Reducir significativamente la congestión en las zonas críticas del distrito.",
+            "indicator": "Nivel de reducción de la congestión en zonas críticas."
+          },
+          {
+            "problem": "Alta informalidad y existencia de trabas burocráticas para los emprendedores del distrito.",
+            "objective": "Facilitar la formalización de negocios para impulsar la economía local.",
+            "goal": "Incrementar en un 25% la formalización de negocios en el distrito.",
+            "indicator": "Porcentaje de incremento en la formalización de negocios."
+          },
+          {
+            "problem": "Los pequeños negocios carecen de acompañamiento técnico para su desarrollo y crecimiento.",
+            "objective": "Fortalecer las capacidades empresariales locales a través de asistencia técnica.",
+            "goal": "Capacitar a cientos de emprendedores locales cada año en gestión empresarial.",
+            "indicator": "Número de emprendedores locales capacitados anualmente."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de ciclovías y espacios seguros para peatones, lo que desincentiva la movilidad sostenible.",
+            "objective": "Impulsar la movilidad urbana sostenible en el distrito.",
+            "goal": "Implementar nuevos kilómetros de ciclovías y corredores peatonales seguros.",
+            "indicator": "Kilómetros de nuevas ciclovías y corredores peatonales implementados."
+          },
+          {
+            "problem": "La acumulación de basura en diversos puntos afecta la limpieza y salubridad del distrito.",
+            "objective": "Modernizar la gestión de residuos sólidos para mejorar la calidad de vida.",
+            "goal": "Reducir los puntos críticos de acumulación de residuos en el distrito.",
+            "indicator": "Reducción del número de puntos críticos de acumulación de residuos."
+          },
+          {
+            "problem": "Acumulación de agua y humedad en calles y avenidas durante temporadas de lluvia, generando deterioro de la infraestructura.",
+            "objective": "Mejorar el sistema de drenaje urbano y prevenir inundaciones y aniegos en zonas críticas del distrito.",
+            "goal": "Reducir progresivamente los puntos críticos de acumulación de agua y mejorar la transitabilidad urbana antes del 2028.",
+            "indicator": "Reducción de puntos críticos de acumulación de agua y mejora en el índice de transitabilidad urbana."
+          },
+          {
+            "problem": "Existe una limitada cultura ambiental y de manejo sostenible de residuos entre la ciudadanía.",
+            "objective": "Promover una ciudadanía ambiental responsable mediante la educación y sensibilización.",
+            "goal": "Implementar programas ambientales en todos los sectores territoriales del distrito.",
+            "indicator": "Número de programas ambientales implementados por sector territorial."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La corrupción y la falta de control en la gestión pública afectan la confianza ciudadana.",
+            "objective": "Fortalecer la transparencia municipal para recuperar la confianza de los vecinos.",
+            "goal": "Fortalecer mecanismos permanentes de vigilancia ciudadana, transmitiendo en vivo procesos de contratación pública.",
+            "indicator": "Número de mecanismos permanentes de vigilancia ciudadana fortalecidos."
+          },
+          {
+            "problem": "La atención municipal a los ciudadanos es fragmentada y poco eficiente.",
+            "objective": "Centralizar y optimizar la atención ciudadana para mejorar la calidad de los servicios municipales.",
+            "goal": "Reducir los tiempos de respuesta frente a incidencias vecinales mediante un Centro de Mando articulado.",
+            "indicator": "Tiempo de respuesta promedio frente a incidencias vecinales."
+          },
+          {
+            "problem": "La estructura organizacional municipal presenta deficiencias operativas que afectan la gestión.",
+            "objective": "Modernizar la gestión institucional para hacerla más eficiente y efectiva.",
+            "goal": "Rediseñar al menos el 50% de las áreas estratégicas municipales.",
+            "indicator": "Porcentaje de áreas estratégicas municipales rediseñadas."
+          },
+          {
+            "problem": "Los instrumentos de gestión municipal se encuentran desactualizados, limitando la capacidad institucional.",
+            "objective": "Fortalecer la capacidad institucional a través de la meritocracia y la profesionalización pública.",
+            "goal": "Modernizar los instrumentos de gestión y establecer perfiles meritocráticos antes del año 2030.",
+            "indicator": "Estado de modernización de los instrumentos de gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-RzXqUKTE5uy9gvgmwBKV45hS0PIuUCBq",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/RzXqUKTE5uy9gvgmwBKV45hS0PIuUCBq",
+      "sha256": "31dfd2abff79e672dce3cfd496d1e1ac26dbdb88c03eaaccbcd0c7e45e90d4d6",
+      "accessedAt": "2026-10-02T23:06:52.378Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021976",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021976",
+      "sha256": "2b266c627f3c4ba7ee81104d5cd899acc397d1653834635e8e8ad658fbba9754",
+      "accessedAt": "2026-10-02T23:06:52.892Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

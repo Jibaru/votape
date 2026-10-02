@@ -1,0 +1,259 @@
+{
+  "id": "QtDMhD71WrwL3nu0dKJK21O7fUFmIJk2",
+  "slug": "juan-carlos-alvarado-mestanza",
+  "electionId": "erm-2026",
+  "name": "Juan Carlos Alvarado Mestanza",
+  "givenNames": "Juan Carlos",
+  "surnames": "Alvarado Mestanza",
+  "age": 44,
+  "gender": "Masculino",
+  "party": {
+    "id": 3028,
+    "name": "ALIANZA ELECTORAL VENCEREMOS"
+  },
+  "jurisdictionId": "140100",
+  "office": "ALCALDE PROVINCIAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:49:11.455Z",
+      "sourceId": "jne-hv-QtDMhD71WrwL3nu0dKJK21O7fUFmIJk2"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "PERUANO DE SISTEMAS SISE",
+        "program": "PROFESIONAL TÉCNICO EN COMPUTACIÓN E INFORMÁTICA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad San Ignacio del Loyola",
+        "program": "Bachiller en Marketing y Gestion Comercial",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad Nacional de Ingenieria",
+        "program": "Maestria en Inteligencia Artificial",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2025"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "TEC 369 S.A.C",
+      "role": "Gerente en Tecnologia y AI",
+      "from": "2026",
+      "to": "2026"
+    },
+    {
+      "employer": "Imagunet S.A.C",
+      "role": "Gerente de Desarrollo de Negocios",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "employer": "Rapsodia S.A.C",
+      "role": "Gerente Comercial",
+      "from": "2021",
+      "to": "2023"
+    },
+    {
+      "employer": "AMERICA MOVIL PERU S.A.C",
+      "role": "Coordinador de Servicios de Valor",
+      "from": "2014",
+      "to": "2018"
+    },
+    {
+      "employer": "Entel Peru",
+      "role": "Consultor de soluciones de Negocios",
+      "from": "2003",
+      "to": "2013"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 55628,
+        "public": 0,
+        "private": 55628
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 100605.1,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "MITSUBISHI",
+        "value": 15000
+      },
+      {
+        "type": "nissan guinda",
+        "value": 0
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "TEC 369 S.A.C",
+        "type": "ACCIONES",
+        "quantity": 9000,
+        "value": 9000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/1aa6f5b1-6dec-4540-adad-748d5bd0d7f3.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c62dea30-f9af-4a1a-8e4b-1d4dd5f72714.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Débil acceso a salud preventiva, especialmente en zonas periféricas de la ciudad.",
+            "objective": "Incrementar el acceso oportuno a servicios de salud preventiva municipal en las zonas periféricas y de mayor vulnerabilidad de Lima Metropolitana.",
+            "goal": "1. 500 campañas preventivas al 2030. 2. 300,000 tamizajes al 2030. 3. 200,000 orientaciones al 2030. 4. 200 jornadas de salud mental al 2030. 5. 50,000 adultos mayores atendidos al 2030.",
+            "indicator": "1. N° de campañas preventivas ejecutadas. 2. N° de tamizajes realizados. 3. N° de orientaciones por teleorientación. 4. N° de jornadas de salud mental. 5. N° de adultos mayores atendidos."
+          },
+          {
+            "problem": "Alto nivel de inseguridad ciudadana, evidenciado por un 89.9% de percepción y un 27.7% de victimización.",
+            "objective": "Reducir la victimización y la percepción de inseguridad ciudadana en Lima Metropolitana, con prioridad en las zonas críticas y de mayor exposición al delito.",
+            "goal": "1. 100 zonas críticas intervenidas al 2030. 2. 300 paraderos seguros al 2030. 3. 500 puntos oscuros iluminados al 2030. 4. 80% de distritos integrados al 2030. 5. 20,000 jóvenes atendidos al 2030.",
+            "indicator": "1. N° de zonas críticas intervenidas. 2. N° de paraderos seguros implementados. 3. N° de puntos oscuros iluminados. 4. % de distritos integrados a protocolos comunes. 5. N° de jóvenes en programas preventivos."
+          },
+          {
+            "problem": "Brecha digital que excluye a jóvenes y adultos del mercado laboral y la ciudadanía.",
+            "objective": "Reducir la brecha digital de jóvenes y adultos, fortaleciendo sus capacidades tecnológicas, su empleabilidad y su participación en la ciudadanía digital.",
+            "goal": "1. 50,000 niños y adolescentes capacitados al 2030. 2. 100,000 personas capacitadas al 2030. 3. 40,000 jóvenes certificados al 2030. 4. 50 espacios conectados al 2028. 5. 1,000 talleres ejecutados al 2030.",
+            "indicator": "1. N° de niños y adolescentes capacitados. 2. N° de personas capacitadas en IA y herramientas digitales. 3. N° de jóvenes certificados. 4. N° de espacios municipales con conectividad. 5. N° de talleres realizados."
+          },
+          {
+            "problem": "Espacios públicos abandonados que generan inseguridad y pérdida de cohesión social.",
+            "objective": "Recuperar el uso seguro, activo e integrador de los espacios públicos, fortaleciendo la cohesión social, la cultura y la convivencia ciudadana.",
+            "goal": "1. 200 espacios públicos activos al 2030. 2. 1,000 actividades culturales al 2030. 3. 5,000 artistas registrados al 2028. 4. 50,000 participantes al 2030. 5. 10,000 creadores capacitados al 2030.",
+            "indicator": "1. N° de espacios públicos con programación permanente. 2. N° de actividades culturales realizadas. 3. N° de artistas registrados. 4. N° de participantes en escuelas culturales. 5. N° de creadores capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Economía popular sin apoyo institucional, con mercados desorganizados, trámites excesivos y limitado acceso a capacitación.",
+            "objective": "Fortalecer la economía popular y el comercio local, mejorando las condiciones de mercados, ferias, trámites y capacidades de los emprendedores de Lima Metropolitana.",
+            "goal": "1. 50 mercados intervenidos al 2030. 2. 200 ferias realizadas al 2030. 3. 30,000 emprendedores capacitados al 2030. 4. 50% de reducción en tiempos de licencia. 5. Ordenamiento gradual y participativo en zonas priorizadas.",
+            "indicator": "1. N° de mercados fortalecidos. 2. N° de ferias realizadas. 3. N° de emprendedores capacitados. 4. % de reducción de tiempo en trámites. 5. N° de comerciantes incorporados a procesos de ordenamiento."
+          },
+          {
+            "problem": "Pérdida de 3 a 5 horas diarias por deficiencias en transporte y movilidad urbana.",
+            "objective": "Reducir los tiempos de viaje y mejorar la movilidad urbana de los ciudadanos de Lima Metropolitana, priorizando corredores críticos e intersecciones de alta congestión.",
+            "goal": "1. 20 corredores críticos intervenidos al 2030. 2. 100 intersecciones inteligentes al 2030. 3. 300 paraderos seguros al 2030. 4. 50 puntos negros intervenidos al 2030. 5. Gestión permanente desde el primer año.",
+            "indicator": "1. N° de corredores críticos intervenidos. 2. N° de intersecciones con semáforo inteligente. 3. N° de paraderos ordenados y seguros. 4. N° de puntos negros intervenidos. 5. N° de gestiones técnicas ante entidades competentes."
+          },
+          {
+            "problem": "Jóvenes con bajo acceso a oportunidades laborales formales y herramientas para el mercado actual.",
+            "objective": "Incrementar la empleabilidad y las oportunidades de inserción laboral formal de los jóvenes de Lima Metropolitana, especialmente en situación de vulnerabilidad.",
+            "goal": "1. 40,000 jóvenes certificados al 2030. 2. 1,000 talleres ejecutados al 2030. 3. Alianzas activas desde el primer año. 4. Bolsa de trabajo municipal operativa al 2028.",
+            "indicator": "1. N° de jóvenes certificados. 2. N° de cursos y talleres ejecutados. 3. N° de alianzas suscritas. 4. N° de jóvenes vinculados a oportunidades laborales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Más de 200 quebradas habitadas y laderas en riesgo sin monitoreo ni gestión de desastres.",
+            "objective": "Reducir la vulnerabilidad de la población frente a riesgos y desastres en quebradas, laderas y otras zonas críticas de Lima Metropolitana.",
+            "goal": "1. Mapa publicado en el primer año. 2. 100 puntos críticos monitoreados al 2030. 3. Campañas permanentes de prevención. 4. Coordinación metropolitana activa.",
+            "indicator": "1. Mapa de riesgo publicado. 2. N° de puntos críticos monitoreados. 3. N° de campañas de prevención. 4. N° de distritos articulados."
+          },
+          {
+            "problem": "Déficit de áreas verdes en Lima Norte, Lima Sur y Lima Este.",
+            "objective": "Incrementar la disponibilidad y recuperación de áreas verdes en los sectores de Lima Metropolitana con mayor déficit ambiental y urbano.",
+            "goal": "1. 50 nuevos espacios verdes en conos al 2030. 2. Recuperación progresiva de parques priorizados. 3. Campañas anuales de arborización. 4. Participación ciudadana en zonas intervenidas.",
+            "indicator": "1. N° de nuevos espacios verdes habilitados. 2. N° de espacios recuperados. 3. N° de campañas de arborización. 4. N° de organizaciones participantes."
+          },
+          {
+            "problem": "Deficiencias en el sistema de recojo de residuos y baja cultura ambiental ciudadana.",
+            "objective": "Mejorar la limpieza pública, la gestión de residuos sólidos y la cultura ambiental en Lima Metropolitana.",
+            "goal": "1. 300 campañas de limpieza y ambiente al 2030. 2. Intervención permanente en zonas priorizadas. 3. Sistema de reporte ambiental activo desde el primer año. 4. Educación ambiental continua.",
+            "indicator": "1. N° de campañas de limpieza ejecutadas. 2. N° de espacios públicos intervenidos. 3. N° de puntos críticos identificados. 4. N° de actividades de educación ambiental."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja confianza ciudadana en la gestión municipal por falta de transparencia y rendición de cuentas.",
+            "objective": "Fortalecer la transparencia, la rendición de cuentas y el acceso ciudadano a la información sobre la gestión de la Municipalidad Metropolitana de Lima.",
+            "goal": "1. Reportes trimestrales desde el primer año. 2. Tablero operativo en 2027. 3. 4 audiencias por año. 4. Datos abiertos de ejecución y metas. 5. Canal ciudadano activo desde el primer año.",
+            "indicator": "1. N° de reportes públicos publicados. 2. Tablero operativo. 3. N° de audiencias realizadas. 4. N° de bases de datos publicadas. 5. N° de alertas ciudadanas atendidas."
+          },
+          {
+            "problem": "Fragmentación entre los 43 distritos, con sistemas incompatibles, duplicidad de gastos y débil coordinación metropolitana.",
+            "objective": "Fortalecer la coordinación y articulación metropolitana entre la MML y las municipalidades distritales para una gestión más integrada y eficiente.",
+            "goal": "1. 80% de distritos integrados al 2030. 2. Protocolos comunes desde el primer año. 3. Mesa Metropolitana instalada en 2027. 4. Asistencia técnica progresiva. 5. Tableros territoriales activos.",
+            "indicator": "1. % de distritos integrados. 2. N° de protocolos aprobados. 3. N° de reuniones de coordinación. 4. N° de distritos con asistencia técnica. 5. N° de tableros territoriales publicados."
+          },
+          {
+            "problem": "Uso de inteligencia artificial sin marcos éticos, control ciudadano ni protección de datos en la gestión pública.",
+            "objective": "Garantizar el uso ético, transparente y seguro de la inteligencia artificial en la gestión pública municipal, con control humano y protección de datos.",
+            "goal": "1. Todos los sistemas IA auditados al 2030. 2. Informes semestrales publicados. 3. Lineamientos aprobados en el primer año. 4. Control humano obligatorio en decisiones sensibles.",
+            "indicator": "1. N° de sistemas IA auditados. 2. N° de informes de auditoría publicados. 3. N° de sistemas con control humano documentado. 4. N° de lineamientos aprobados."
+          },
+          {
+            "problem": "Obras públicas con débil supervisión, retrasos y baja trazabilidad del avance físico.",
+            "objective": "Mejorar la supervisión, trazabilidad y control ciudadano del avance físico de las obras públicas ejecutadas por la Municipalidad Metropolitana de Lima.",
+            "goal": "1. 100% de obras MML supervisadas desde 2027. 2. Reportes periódicos por obra. 3. Alertas públicas ante retrasos o desvíos. 4. Información georreferenciada disponible.",
+            "indicator": "1. % de obras MML supervisadas. 2. N° de reportes de avance físico. 3. N° de alertas publicadas. 4. N° de obras con información georreferenciada."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-QtDMhD71WrwL3nu0dKJK21O7fUFmIJk2",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/QtDMhD71WrwL3nu0dKJK21O7fUFmIJk2",
+      "sha256": "63364746fb12366076891ed7b606dcb5e5c2cdf464e1b4c86964feae28e64f46",
+      "accessedAt": "2026-10-02T22:49:11.455Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026031462",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026031462",
+      "sha256": "a9d144e0a8ccef57ebbc98d9ebf905684c7b9bdfd6213e394dde679dc4617a60",
+      "accessedAt": "2026-10-02T22:49:11.971Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

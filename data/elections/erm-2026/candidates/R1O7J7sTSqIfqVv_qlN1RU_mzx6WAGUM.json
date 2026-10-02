@@ -1,0 +1,237 @@
+{
+  "id": "R1O7J7sTSqIfqVv_qlN1RU_mzx6WAGUM",
+  "slug": "richard-johnny-veramendi-oliva",
+  "electionId": "erm-2026",
+  "name": "Richard Johnny Veramendi Oliva",
+  "givenNames": "Richard Johnny",
+  "surnames": "Veramendi Oliva",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 3001,
+    "name": "PARTIDO POLITICO PUEBLO CONSCIENTE"
+  },
+  "jurisdictionId": "140114",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:46.933Z",
+      "sourceId": "jne-hv-R1O7J7sTSqIfqVv_qlN1RU_mzx6WAGUM"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "INICTEL-UNI",
+        "program": "PRODUCCION Y REALIZACION DE PROGRAMA TV",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "LICENCIADO EN CIENCIAS DE LA COMUNICACIÓN",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2017"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Alas Peruanas S.A.",
+        "program": "BACHILLER EN CIENCIAS DE LA COMUNICACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2015"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSITAT OBERTA DE CATALUNYA",
+        "program": "TÍTULO OFICIAL DE MÁSTER UNIVERSITARIO EN COMUNICACIÓN CORPORATIVA, PROTOCOLO Y EVENTOS (GRADO DE MAESTRO)",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2021"
+      },
+      {
+        "level": "posgrado_otro",
+        "institution": "UNVERSITAT OBERTA DE CATALUNYA-ESPAÑA",
+        "program": "COMUNICACION CORPORATIVA PROTOCOLO Y EVENTOS",
+        "completed": true,
+        "degree": "MAESTRO",
+        "year": "2021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "´PROGRAMA NACIONAL DE CENTROS JUVENILES",
+      "role": "ASISTENTE",
+      "from": "2007",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 42233.34,
+        "public": 42233.34,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 8000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 50000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "AUTOMOVIL",
+        "value": 7590
+      },
+      {
+        "type": "AUTOMOVIL",
+        "value": 20700
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/b92ad712-1abe-48f9-a537-c4f7e4c54e2d.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1d9a7d00-14a0-4837-9ce3-e347e07e0bc4.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta incidencia de robos al paso y 'bujiazos' en los ejes limítrofes del distrito.",
+            "objective": "Implementar el programa 'Seguridad Ciudadana 360°' mediante la integración de Serenazgo con inteligencia artificial y la Policía Nacional del Perú, y el uso de drones para operativos y vigilancia.",
+            "goal": "Instalación de 150 cámaras con reconocimiento facial y analítica de placas en todos los accesos al distrito, logrando una reducción de delitos y mayor cobertura de vigilancia.",
+            "indicator": "Número de cámaras con reconocimiento facial y analítica de placas instaladas en los accesos al distrito y cobertura de vigilancia tecnológica."
+          },
+          {
+            "problem": "Congestión vehicular crítica en las principales avenidas y un notable déficit de espacios de parqueo.",
+            "objective": "Mejorar la fluidez del tránsito y la oferta de estacionamientos a través de infraestructura y tecnología.",
+            "goal": "Modernizar la red de semaforización inteligente y desarrollar estacionamientos subterráneos en zonas comerciales mediante Asociaciones Público-Privadas.",
+            "indicator": "Modernización de la red de semaforización y desarrollo de estacionamientos subterráneos."
+          },
+          {
+            "problem": "Carencia de servicios veterinarios municipales accesibles y de un sistema de atención para animales abandonados.",
+            "objective": "Crear un Hospital Veterinario Municipal que ofrezca servicios continuos y gestione el bienestar animal.",
+            "goal": "Establecer un hospital veterinario que funcione 24 horas, realice campañas gratuitas de vacunación y esterilización, y cuente con un refugio municipal para animales abandonados.",
+            "indicator": "Implementación de un hospital veterinario y número de campañas de salud animal realizadas."
+          },
+          {
+            "problem": "Insuficiente cobertura de servicios de salud, con especial énfasis en la población de adultos mayores.",
+            "objective": "Fortalecer el programa 'Magdalena Saludable' y establecer un servicio de 'Salud Municipal 24 Horas'.",
+            "goal": "Crear 2 Centros de Atención Integral del Adulto Mayor (CIAM) repotenciados, alcanzar una cobertura de salud móvil al 100% e implementar una Clínica Municipal 24 Horas.",
+            "indicator": "Número de Centros de Atención Integral del Adulto Mayor (CIAM) creados, porcentaje de cobertura de salud móvil y disponibilidad de una clínica municipal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo aprovechamiento del potencial turístico del distrito, tanto en su oferta gastronómica como en el frente costero.",
+            "objective": "Posicionar la zona comercial como un centro culinario y desarrollar la infraestructura para el turismo y la recreación en la Costa Verde.",
+            "goal": "Incrementar en un 25% el flujo de visitantes foráneos mediante rutas gastronómicas y la implementación de un teleférico o ascensor panorámico hacia la Costa Verde.",
+            "indicator": "Incremento porcentual en el flujo de visitantes foráneos e implementación de infraestructura turística."
+          },
+          {
+            "problem": "Elevado nivel de informalidad en el sector comercial, particularmente entre los vendedores ambulatorios.",
+            "objective": "Impulsar el comercio local a través de la modernización y formalización del sector mercado.",
+            "goal": "Lograr la formalización del 95% de los comercios ambulatorios mediante la ejecución del programa 'Tu Negocio Consciente'.",
+            "indicator": "Porcentaje de comercios ambulatorios formalizados a través de programas municipales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Dificultades en la segregación de residuos sólidos en la fuente, especialmente en edificios multifamiliares de gran altura.",
+            "objective": "Fomentar la segregación vertical de residuos en edificios a través de un programa de reciclaje.",
+            "goal": "Lograr que el 60% de los edificios multifamiliares participen activamente en el programa de reciclaje en la fuente.",
+            "indicator": "Porcentaje de edificios multifamiliares que participan activamente en el programa de reciclaje en la fuente."
+          },
+          {
+            "problem": "Dependencia de fuentes de energía convencionales y de un parque automotor contaminante en la gestión municipal.",
+            "objective": "Promover la energía solar y la movilidad sostenible en las operaciones del distrito.",
+            "goal": "Instalar paneles solares en oficinas públicas y alumbrado municipal para reducir los gastos energéticos en un 30% e incorporar vehículos eléctricos municipales y puntos de carga eléctrica.",
+            "indicator": "Porcentaje de reducción de gastos energéticos y número de vehículos eléctricos y puntos de carga incorporados."
+          },
+          {
+            "problem": "Déficit de infraestructura deportiva, recreativa y de áreas verdes en el distrito.",
+            "objective": "Activar la Costa Verde con infraestructura deportiva y recreativa, y recuperar las áreas verdes del distrito.",
+            "goal": "Implementar un Complejo Polideportivo Náutico y una ciclovía conectada, junto con la ejecución de programas de arborización y recuperación de parques y jardines.",
+            "indicator": "Implementación de complejos deportivos y ejecución de programas de arborización."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Capacidad de respuesta insuficiente ante situaciones de riesgo y emergencias, como incendios.",
+            "objective": "Mejorar la gestión de riesgos y emergencias mediante el uso de tecnología y el fortalecimiento de las brigadas.",
+            "goal": "Utilizar drones para el apoyo en incendios y emergencias, y fortalecer las brigadas de respuesta rápida del distrito.",
+            "indicator": "Implementación de tecnología de drones para apoyo en emergencias y nivel de fortalecimiento de las brigadas de respuesta."
+          },
+          {
+            "problem": "Limitada transparencia en la gestión pública y escasos mecanismos de participación ciudadana en el control presupuestal.",
+            "objective": "Fortalecer la transparencia, el control de la corrupción y la participación ciudadana.",
+            "goal": "Realizar 4 presupuestos participativos anuales transmitidos en vivo, con su respectiva rendición de cuentas de forma trimestral.",
+            "indicator": "Número de presupuestos participativos anuales transmitidos en vivo con rendición de cuentas."
+          },
+          {
+            "problem": "Procedimientos administrativos burocráticos y con un bajo nivel de digitalización, generando demoras para los ciudadanos.",
+            "objective": "Implementar un 'Gobierno Digital' para eliminar el uso de papel y virtualizar los trámites.",
+            "goal": "Alcanzar la digitalización del 100% de los procedimientos administrativos (TUPA), ofreciendo respuesta inmediata a través de una aplicación móvil.",
+            "indicator": "Porcentaje de los procedimientos administrativos (TUPA) digitalizados y accesibles mediante aplicaciones móviles."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-R1O7J7sTSqIfqVv_qlN1RU_mzx6WAGUM",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/R1O7J7sTSqIfqVv_qlN1RU_mzx6WAGUM",
+      "sha256": "565a88bb4d3da313e8f0c777b03b57e38b55022448bdc3fda86bdb3dc49cf75e",
+      "accessedAt": "2026-10-02T22:59:46.933Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032826",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032826",
+      "sha256": "6ccec695e423c5457e360e16faf3da52db88b17bd1ad149ca606524de6df47bf",
+      "accessedAt": "2026-10-02T22:59:47.539Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "Cj1bb4Nd2zCk7BoV3dnn9JVy7HpJMZzS",
+  "slug": "jose-anibal-lopez-gonzales",
+  "electionId": "erm-2026",
+  "name": "Jose Anibal Lopez Gonzales",
+  "givenNames": "Jose Anibal",
+  "surnames": "Lopez Gonzales",
+  "age": 37,
+  "gender": "Masculino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:24.390Z",
+      "sourceId": "jne-hv-Cj1bb4Nd2zCk7BoV3dnn9JVy7HpJMZzS"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/22a9010a-1c16-44fd-87d7-25065c11538e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/aa925871-0ab7-435b-9315-99f2ce7bc78b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado apoyo municipal a la educación y a la juventud, reflejado en la escasa articulación con universidades e institutos, insuficientes mecanismos de becas y reforzamiento académico, y pocas oportunidades de participación y desarrollo de liderazgo juvenil.",
+            "objective": "Promover una alianza estratégica permanente entre la Municipalidad de Los Olivos, universidades, institutos, centros de formación y empresas, para ampliar el acceso a estudios superiores, fortalecer las capacidades de los jóvenes del distrito y facilitar su transición hacia el empleo digno y el emprendimiento.",
+            "goal": "Suscribir al menos 20 convenios educativos. Beneficiar con becas, medias becas y descuentos al 30% de los egresados de secundaria de instituciones educativas públicas. Incrementar en 40% la tasa de acceso a estudios superiores de jóvenes egresados de secundaria en Los Olivos. Implementar 3 centros municipales de reforzamiento académico y tutoría.",
+            "indicator": "Número de convenios de cooperación educativa suscritos. Número de estudiantes beneficiados con becas. Porcentaje de egresados de secundaria que acceden a estudios superiores."
+          },
+          {
+            "problem": "Servicio de salud insuficiente para atender la demanda poblacional.",
+            "objective": "Reapertura y fortalecimiento del Hospital Municipal para brindar atención integral, preventiva y de calidad.",
+            "goal": "Atender al 70% de la población distrital. Ampliar a 15 las especialidades médicas disponibles. Reducir en 60% el tiempo de espera para citas. Ejecutar 50 campañas de salud al año.",
+            "indicator": "Vecinos atendidos anualmente. Especialidades médicas implementadas. Tiempo de espera promedio en consultas. Campañas de salud realizadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Bajo nivel de acompañamiento municipal al emprendedor, alta informalidad de los negocios y escaso apoyo estructurado a las MYPES y empresarios locales, limitando la generación de empleo digno y la competitividad.",
+            "objective": "Fortalecer el ecosistema de desarrollo económico local promoviendo la capacitación permanente, la formalización empresarial, la innovación comercial y la articulación entre emprendedores, empresas y vecinos.",
+            "goal": "Alcanzar la formalización del 50% de los negocios informales. Capacitar y certificar a 5,000 emprendedores. Lograr ventas acumuladas por al menos S/ 20,000,000 en ferias y circuitos comerciales entre 2027 y 2030. Suscribir 30 convenios y alianzas empresariales.",
+            "indicator": "Porcentaje de negocios formalizados. Número de emprendedores capacitados y certificados. Ventas acumuladas en ferias y eventos comerciales. Número de convenios y alianzas empresariales suscritos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Bajo nivel de conciencia ambiental en la población.",
+            "objective": "Implementar ecoferias y mercados saludables para fomentar prácticas sostenibles.",
+            "goal": "Organizar 12 ecoferias al año con la participación de 10,000 vecinos.",
+            "indicator": "Número de familias participantes en programas ambientales."
+          },
+          {
+            "problem": "Deficiencia en el servicio de limpieza pública.",
+            "objective": "Establecer programas de segregación y reciclaje de residuos sólidos.",
+            "goal": "Alcanzar un 30% de reciclaje distrital al 2026.",
+            "indicator": "Porcentaje de residuos reciclados."
+          },
+          {
+            "problem": "Existencia de áreas verdes descuidadas en el distrito.",
+            "objective": "Recuperar y mantener las áreas verdes a través de la campaña 'Ola Verde'.",
+            "goal": "Incrementar en 40% las áreas verdes del distrito.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Alta percepción e incidencia de inseguridad ciudadana.",
+            "objective": "Reducir la delincuencia mediante patrullaje integrado, tecnología y organización vecinal.",
+            "goal": "Instalar 300 cámaras de video vigilancia con inteligencia artificial. Formar y consolidar 100 Juntas Vecinales de Seguridad Ciudadana. Reducir en 50% la tasa de índice delincuencial.",
+            "indicator": "Número de cámaras de video vigilancia operativas. Tiempo promedio de respuesta a emergencias. Cantidad de Juntas Vecinales activas. Tasa de índice delincuencial."
+          },
+          {
+            "problem": "Personal municipal no calificado para sus funciones.",
+            "objective": "Implementar una reorganización basada en la meritocracia.",
+            "goal": "Capacitación anual del 100% del personal.",
+            "indicator": "Porcentaje del personal que recibe capacitación anualmente."
+          },
+          {
+            "problem": "Burocracia excesiva en los procedimientos administrativos municipales.",
+            "objective": "Implementar la plataforma virtual 'Cero Papeles' para agilizar los trámites.",
+            "goal": "Digitalizar el 90% de los trámites municipales.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Falta de transparencia en la gestión municipal.",
+            "objective": "Fortalecer los mecanismos de participación ciudadana y rendición de cuentas.",
+            "goal": "Realizar 2 audiencias públicas anuales y publicar reportes trimestrales de gestión.",
+            "indicator": "Número de audiencias públicas realizadas. Número de vecinos participantes en procesos de rendición de cuentas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Cj1bb4Nd2zCk7BoV3dnn9JVy7HpJMZzS",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Cj1bb4Nd2zCk7BoV3dnn9JVy7HpJMZzS",
+      "sha256": "c04aeff4bf99b6f4ce12718a98af5afcef273b564ef83f0f96f084150d26b828",
+      "accessedAt": "2026-10-02T22:58:24.390Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022980",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022980",
+      "sha256": "503f3e486cde1da99d57b0594854e2dabf8c1313485ef3c16085161a49183db5",
+      "accessedAt": "2026-10-02T22:58:24.868Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

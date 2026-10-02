@@ -1,0 +1,137 @@
+{
+  "id": "rclX1YQTZ6aOppRfV2PMI1i0GIFqZp5K",
+  "slug": "rocio-del-pilar-del-valle-morales",
+  "electionId": "erm-2026",
+  "name": "Rocio Del Pilar Del Valle Morales",
+  "givenNames": "Rocio Del Pilar",
+  "surnames": "Del Valle Morales",
+  "age": 49,
+  "gender": "Femenino",
+  "party": {
+    "id": 2921,
+    "name": "PARTIDO POLITICO PRIN"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:37.955Z",
+      "sourceId": "jne-hv-rclX1YQTZ6aOppRfV2PMI1i0GIFqZp5K"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "sursa gas",
+      "role": "secretaria",
+      "from": "2010",
+      "to": "2018"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLITICO PRIN",
+      "year": "2024"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ecfa673a-f252-4f9c-8552-8506ecdb31b4.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a56a7341-205a-4cec-b2df-1f29897e8a00.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": ".Incremento de la inseguridad ciudadana 2.Deficiencias en limpieza pública y residuos sólidos 3.Limitado acceso a programas de salud preventiva",
+            "objective": ".Fortalecer el sistema distrital de seguridad ciudadana mediante patrullaje integrado y videovigilancia 2.Optimizar la gestión integral de residuos sólidos 3.Fortalecer campañas preventivas y programas sociales",
+            "goal": "1.Reducir percepción de inseguridad en 30% 1.Reducir percepción de inseguridad en 30% 3.Incrementar cobertura social en 40%",
+            "indicator": "1.Número de cámaras instaladas y operativos ejecutados 2.Cobertura del servicio de limpieza pública 3.Campañas y beneficiarios atendidos"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado desarrollo turístico y económico local Escasas oportunidades laborales para jóvenes Débil fortalecimiento de actividades pesqueras artesanales",
+            "objective": "1.Impulsar el turismo, comercio y desarrollo económico sostenible 2.Promover programas de empleabilidad y emprendimiento juvenil 3.Fortalecer la pesca artesanal y actividades productivas locales",
+            "goal": "1.Incrementar actividad turística en 40% 2.Capacitar a 1,000 jóvenes 3.Incrementar apoyo productivo en 30%",
+            "indicator": "1.Número de visitantes y actividades turísticas 2.Jóvenes capacitados y empleos generados 3.Programas y asociaciones beneficiadas"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "1.Contaminación ambiental y deterioro de playas 2.Insuficiente cultura ambiental 3.Deficiente mantenimiento de espacios públicos",
+            "objective": "1.Fortalecer la gestión ambiental y recuperación de playas 2.Promover educación y sensibilización ambiental 3.Mejorar conservación de áreas verdes",
+            "goal": "1.Reducir contaminación en 50% 2.Campañas permanentes anuales 3.Recuperar espacios prioritarios",
+            "indicator": "J1.ornadas ambientales y reducción de residuos 2.Campañas ambientales 3.Espacios públicos recuperados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Limitada transparencia y participación ciudadana Deficiente modernización administrativa Limitada capacidad operativa municipal",
+            "objective": "Fortalecer la transparencia y participación vecinal .Modernizar la gestión pública municipal Fortalecer la capacidad operativa institucional",
+            "goal": "Realizar 4 audiencias públicas por año .Implementar herramientas digitales Mejorar capacidad operativa municipal",
+            "indicator": "Audiencias públicas y participación ciudadana Servicios digitalizados Equipamiento implementado"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-rclX1YQTZ6aOppRfV2PMI1i0GIFqZp5K",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/rclX1YQTZ6aOppRfV2PMI1i0GIFqZp5K",
+      "sha256": "cbc3d16061ca94df06a742b63795a5d59bc13ef4748dfb856d6c60604477b407",
+      "accessedAt": "2026-10-02T23:00:37.955Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016608",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016608",
+      "sha256": "b3ee57598f78db316006f8703eb00dadbb6edd21f862b067d43d1305cab7af63",
+      "accessedAt": "2026-10-02T23:00:38.437Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

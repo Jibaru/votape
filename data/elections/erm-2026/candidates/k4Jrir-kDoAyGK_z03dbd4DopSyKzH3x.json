@@ -1,0 +1,257 @@
+{
+  "id": "k4Jrir-kDoAyGK_z03dbd4DopSyKzH3x",
+  "slug": "jose-jhonnatan-saldana-vasquez",
+  "electionId": "erm-2026",
+  "name": "Jose Jhonnatan Saldaña Vasquez",
+  "givenNames": "Jose Jhonnatan",
+  "surnames": "Saldaña Vasquez",
+  "age": 40,
+  "gender": "Masculino",
+  "party": {
+    "id": 2961,
+    "name": "PARTIDO DEL BUEN GOBIERNO"
+  },
+  "jurisdictionId": "140120",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:31.523Z",
+      "sourceId": "jne-hv-k4Jrir-kDoAyGK_z03dbd4DopSyKzH3x"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Tecnológica del Perú",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINISTERIO DEL INTERIOR",
+      "role": "SUBPREFECTO DISTRITAL",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "INMOBILIARIA SEAS SA",
+      "role": "PREVENCIONISTA RIESGOS LABORALES",
+      "from": "2022",
+      "to": "2022"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE PUNTA NEGRA",
+      "role": "GERENTE",
+      "from": "2020",
+      "to": "2020"
+    },
+    {
+      "employer": "MINISTERIO DEL INTERIOR",
+      "role": "SUBPREFECTO DISTRITAL",
+      "from": "2017",
+      "to": "2020"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE LURIN",
+      "role": "ADMINISTRATIVO OFICINA DE MEDIO AMBIENTE",
+      "from": "2008",
+      "to": "2010"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 40886.4,
+        "public": 40886.4,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "minivan",
+        "value": 25000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "JOSALVA SAC",
+        "type": "ACCIONES",
+        "quantity": 4000,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/200d0eba-fdd4-4370-b3c9-01ed987da2ba.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/0231013d-70ab-4d8f-a96b-26b1a79b7c95.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitado acceso a servicios de salud de manera oportuna por parte de la población del distrito.",
+            "objective": "Ampliar el acceso a servicios de salud de manera oportuna para todos los vecinos.",
+            "goal": "Se incrementa en un 40% el acceso oportuno a servicios de salud.",
+            "indicator": "Porcentaje de vecinos que acceden oportunamente a servicios de salud."
+          },
+          {
+            "problem": "La gestión edil no atiende la problemática de deserción escolar y de jóvenes que no acceden a servicios educativos.",
+            "objective": "Reducir la tasa de deserción escolar y el número de jóvenes que no estudian.",
+            "goal": "Al 2030 se reduce a la mitad el porcentaje de niños que abandonan la educación escolar y de jóvenes que no estudian.",
+            "indicator": "Porcentaje de niños que dejan sus estudios escolares y de jóvenes que no estudian."
+          },
+          {
+            "problem": "Inexistencia de una planificación del desarrollo del distrito a mediano y largo plazo, limitando su crecimiento ordenado.",
+            "objective": "Hacer del distrito un centro turístico, cultural, deportivo y gastronómico a través de una planificación adecuada.",
+            "goal": "Al 2030 se ejecutan los planes en un 25%.",
+            "indicator": "Número de planes de desarrollo urbano y de desarrollo local."
+          },
+          {
+            "problem": "En temporada de verano, el distrito presenta zonas de tráfico y desorden vehicular, afectando el bienestar de los vecinos, junto a un servicio de taxi informal y la ausencia de mecanismos de control.",
+            "objective": "Reducir el caos vehicular y promover un tránsito ordenado en beneficio de los vecinos.",
+            "goal": "Al 2030 se duplica el número de operativos y acciones de tránsito, se implementa el programa \"Taxi Seguro\" y se registra progresivamente a los conductores que prestan el servicio en el distrito.",
+            "indicator": "Número de operativos y acciones de tránsito, número de conductores empadronados, vehículos identificados y paraderos autorizados."
+          },
+          {
+            "problem": "Débil gestión del riesgo de desastres en el distrito, exponiendo a la población a fenómenos naturales.",
+            "objective": "Fortalecer las acciones de prevención y las capacidades de respuesta ante posibles desastres.",
+            "goal": "Al 2030 se habrá cumplido el 100% de las actividades del plan.",
+            "indicator": "Porcentaje de cumplimiento del Plan de Prevención y Reducción de Riesgo de desastres."
+          },
+          {
+            "problem": "Las incidencias delictivas en el distrito mantienen a la población en una situación de riesgo constante.",
+            "objective": "Reducir la inseguridad ciudadana en el distrito para mejorar la convivencia.",
+            "goal": "Al 2030 se reduce en un 30% la tasa de incidencia delictiva.",
+            "indicator": "Tasa de disminución de incidencia delictiva."
+          },
+          {
+            "problem": "Precarios servicios para los adultos mayores, afectando su calidad de vida y bienestar.",
+            "objective": "Promover el bienestar de los adultos mayores a través de servicios adecuados.",
+            "goal": "Al 2030 se aumenta en un 40% el número de adultos mayores que acceden a servicios municipales que promueven su bienestar.",
+            "indicator": "Porcentaje de adultos mayores que acceden a servicios municipales que promueven su bienestar."
+          },
+          {
+            "problem": "La limitada gestión deportiva desde la Municipalidad restringe el desarrollo de niños y jóvenes en el distrito.",
+            "objective": "Promover actividades deportivas como parte de un nuevo estilo de vida saludable en el distrito.",
+            "goal": "Al 2030 se aumenta en un 50% el número de vecinos que acceden a actividades deportivas.",
+            "indicator": "Porcentaje de vecinos que acceden a servicios y actividades deportivas."
+          },
+          {
+            "problem": "Limitado acceso de la población a servicios públicos culturales en el distrito.",
+            "objective": "Poner en valor el patrimonio cultural y paisajístico que posee el distrito, integrando a la comunidad en circuitos culturales.",
+            "goal": "Al 2030 se triplica el número de personas que acceden a servicios culturales.",
+            "indicator": "Número de personas que acceden a servicios culturales gestionados por la Municipalidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Débil gestión municipal en materia de promoción del turismo, lo que reduce las posibilidades de desarrollo económico.",
+            "objective": "Fortalecer la gestión y promoción del turismo interno.",
+            "goal": "Al 2030, Punta Hermosa ha fortalecido el 100% de sus circuitos turísticos.",
+            "indicator": "Número de actividades que fortalecen el turismo en el distrito."
+          },
+          {
+            "problem": "El desempleo y el empleo informal afectan el bienestar de los vecinos del distrito.",
+            "objective": "Promover el empleo formal en el distrito, con especial énfasis en los jóvenes.",
+            "goal": "Al 2030 se duplica el número de personas que acceden a los servicios de empleo promovidos por la municipalidad.",
+            "indicator": "Número de personas que acceden a servicios de empleabilidad e intermediación laboral."
+          },
+          {
+            "problem": "Los trabajadores ambulantes desarrollan sus labores en la informalidad y en condiciones precarias.",
+            "objective": "Controlar y ordenar el comercio ambulatorio, promoviendo su gradual reducción y formalización.",
+            "goal": "Al 2030, no menos del 50% de los trabajadores ambulantes participan y se benefician de los servicios del programa piloto.",
+            "indicator": "Número de trabajadores ambulantes registrados en el municipio que se benefician del programa piloto de ordenamiento y formalización."
+          },
+          {
+            "problem": "Limitadas oportunidades de los emprendedores para expandir sus negocios e incrementar sus ingresos.",
+            "objective": "Promover el fortalecimiento de los negocios de los emprendedores y el incremento de sus ingresos.",
+            "goal": "Al 2030 se incrementa en un 100% el número de emprendedores beneficiados con relación al período de gobierno anterior.",
+            "indicator": "Número de emprendedores beneficiados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Necesidad de consolidar una infraestructura verde resiliente y de mejor calidad ecológica en el distrito.",
+            "objective": "Consolidar una red distrital de infraestructura verde y arbolado urbano que sea resiliente, accesible y ecoeficiente.",
+            "goal": "Para 2030: 300 árboles nuevos o repuestos con supervivencia mínima del 85%; 5,000 m² de áreas verdes nuevas o rehabilitadas; 90% de las nuevas intervenciones de verde urbano con especies de bajo consumo de agua; 100% de parques grandes priorizados con inventario y plan de mantenimiento.",
+            "indicator": "Número de árboles plantados y su sobrevivencia; metros cuadrados de nuevas áreas verdes o rehabilitadas; porcentaje de riego tecnificado; número de espacios con mobiliario bioclimático y sombra."
+          },
+          {
+            "problem": "La cultura ambiental y la participación vecinal son todavía insuficientes para cambiar conductas de manera sostenida.",
+            "objective": "Desarrollar una ciudadanía ambiental activa en hogares, instituciones educativas, comercios y organizaciones vecinales.",
+            "goal": "Para 2030: mil participantes acumulados en acciones EDUCCA; 10 brigadas escolares o vecinales activas; 30 instituciones o comercios con sello ambiental distrital; 100% de campañas con evaluación e indicadores publicados.",
+            "indicator": "Número de participantes certificados por año; número de brigadas activas; número de instituciones con sello ambiental; porcentaje de campañas evaluadas con ficha de resultados."
+          },
+          {
+            "problem": "Gobernanza ambiental local mejorable en términos de articulación, información pública y seguimiento de resultados.",
+            "objective": "Fortalecer la gobernanza ambiental local con transparencia, articulación interinstitucional y seguimiento ciudadano de metas.",
+            "goal": "Para 2030: 100% de reportes semestrales publicados; al menos 4 sesiones de la CAM por año con agenda y actas; 5 convenios activos de cooperación; tablero ambiental actualizado trimestralmente.",
+            "indicator": "Número de reportes publicados; número de sesiones de la Comisión Ambiental Municipal (CAM) con acuerdos; número de convenios activos; presupuesto anual ambiental con seguimiento."
+          },
+          {
+            "problem": "La gestión de residuos sólidos se encuentra concentrada en la recolección y no está suficientemente orientada a la valorización y la economía circular.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos municipales con enfoque de economía circular, segregación en la fuente, valorización y formalización.",
+            "goal": "Para 2030: 35% de viviendas priorizadas incorporadas a la segregación en fuente; 25% de incremento en toneladas valorizadas respecto a la línea base 2026; 100% de asociaciones de recicladores operando bajo convenio y padrón actualizado; al menos 8 eco-puntos o campañas móviles permanentes.",
+            "indicator": "Porcentaje de viviendas y comercios priorizados que segregan en la fuente; toneladas valorizadas por año; número de recicladores formalizados integrados al sistema; número de eco-puntos operativos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El municipio presenta una débil planificación interna y una limitada transparencia, lo que restringe una gestión moderna y articulada al servicio del ciudadano.",
+            "objective": "Modernizar y transparentar la gestión municipal en beneficio de los vecinos.",
+            "goal": "Al 2030 se cumple el 100% de las acciones planificadas.",
+            "indicator": "Porcentaje de avance de las acciones estratégicas para la modernización de la gestión."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-k4Jrir-kDoAyGK_z03dbd4DopSyKzH3x",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/k4Jrir-kDoAyGK_z03dbd4DopSyKzH3x",
+      "sha256": "305539c5e2e4cfb7b24c3f196531d09e656c597fe90a16bd9f8c5aea232a9afc",
+      "accessedAt": "2026-10-02T23:01:31.523Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026032139",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026032139",
+      "sha256": "e32c0327de771b65f4f048c6ae7e9391d729dab94a6793ad59d33dca61507a15",
+      "accessedAt": "2026-10-02T23:01:32.038Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

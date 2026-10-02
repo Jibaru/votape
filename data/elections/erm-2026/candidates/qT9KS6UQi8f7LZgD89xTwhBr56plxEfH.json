@@ -1,0 +1,248 @@
+{
+  "id": "qT9KS6UQi8f7LZgD89xTwhBr56plxEfH",
+  "slug": "yliana-elisa-castro-gregorio",
+  "electionId": "erm-2026",
+  "name": "Yliana Elisa Castro Gregorio",
+  "givenNames": "Yliana Elisa",
+  "surnames": "Castro Gregorio",
+  "age": 60,
+  "gender": "Femenino",
+  "party": {
+    "id": 1257,
+    "name": "ALIANZA PARA EL PROGRESO"
+  },
+  "jurisdictionId": "140123",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:02:23.124Z",
+      "sourceId": "jne-hv-qT9KS6UQi8f7LZgD89xTwhBr56plxEfH"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "JESUS DE NAZARETH",
+        "program": "PROFESOR(A) DE EDUCACIÓN PRIMARIA",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "LICENCIADO EN EDUCACION SECUNDARIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2002"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Inca Garcilaso de la Vega Asociación Civil",
+        "program": "BACHILLER EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad César Vallejo S.A.C.",
+        "program": "Maestra en Administración de la Educación",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2023"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "UNIDAD DE GESTION EDUCATIVA LOCAL # 01",
+      "role": "PROFESORA",
+      "from": "1987",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU POSIBLE",
+      "year": "2008"
+    },
+    {
+      "party": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 63983,
+        "public": 63983,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 323749.25,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/ff546d90-3fcf-42a6-b090-07a9f328386e.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/c4d488db-6714-47cf-b3c9-928a3bfbd10c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Infraestructura de salud insuficiente y sin especialidades médicas de urgencia.",
+            "objective": "Gestionar el cambio de categoría del Centro Materno Infantil y dotar de equipamiento médico básico.",
+            "goal": "Centro Materno Infantil en Categoría I-4 al año 2029.",
+            "indicator": "Categoría del establecimiento de salud alcanzada; equipos adquiridos."
+          },
+          {
+            "problem": "Alta inseguridad ciudadana, micro comercialización de drogas y tráfico de terrenos.",
+            "objective": "Implementar el Plan Distrital de Seguridad Ciudadana con cámaras de videovigilancia, Serenazgo capacitado y participación vecinal.",
+            "goal": "30 cámaras instaladas; reducción del 20% en denuncias 2027-2030.",
+            "indicator": "Número de cámaras instaladas; porcentaje de reducción de denuncias."
+          },
+          {
+            "problem": "Institución educativa estatal con aulas prefabricadas y sin infraestructura adecuada.",
+            "objective": "Gestionar la sustitución de las 13 aulas prefabricadas por construcciones de material noble y crear la biblioteca virtual distrital.",
+            "goal": "13 aulas nuevas construidas; 300 usuarios activos de biblioteca virtual al 2030.",
+            "indicator": "Número de aulas nuevas construidas; número de usuarios de biblioteca virtual."
+          },
+          {
+            "problem": "Caos vehicular en temporada de verano y falta de señalización.",
+            "objective": "Crear la Oficina de Transporte Urbano, formalizar rutas y paraderos e instalar señalización vial completa.",
+            "goal": "5 km de pistas y veredas rehabilitadas; 100% de rutas formalizadas al 2030.",
+            "indicator": "Kilómetros de pistas y veredas rehabilitadas; rutas formalizadas."
+          },
+          {
+            "problem": "Brechas en servicios de desarrollo humano, espacios públicos, cultura, deporte, atención a adultos mayores y apoyo a familias.",
+            "objective": "Fortalecer los servicios de desarrollo humano mediante parques inclusivos, actividades culturales y deportivas, recuperación del CIAM, apoyo a familias y mantenimiento de espacios públicos.",
+            "goal": "Incrementar más usuarios a los servicios de desarrollo humano de 30% al 80%. Incrementar la cobertura de servicios del CIAM de 35% a 90% al 2030.",
+            "indicator": "Porcentaje de uso de los servicios de desarrollo humano. Porcentaje de cobertura de servicios a usuarios del CIAM."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Ausencia de una política turística y gastronómica que posicione al distrito.",
+            "objective": "Crear la Ruta Turística Oficial, la Marca Territorial 'San Bartolo' y la Feria Gastronómica Anual.",
+            "goal": "20% más de visitantes al 2030; 30 establecimientos con sello 'Sabor San Bartolo'.",
+            "indicator": "Número de visitantes registrados por año; número de establecimientos con sello de calidad."
+          },
+          {
+            "problem": "Economía estacional: negocios cerrados fuera del verano y bajo empleo en temporada baja.",
+            "objective": "Simplificación de licencias de funcionamiento, incentivos a nuevas inversiones y diversificación hacia turismo de aventura todo el año.",
+            "goal": "100 nuevos negocios formalizados; tasa de desempleo reducida en 10% al 2030.",
+            "indicator": "Número de nuevos negocios formalizados; tasa de ocupación laboral anual."
+          },
+          {
+            "problem": "Falta de formación técnica y profesional accesible para los vecinos del distrito.",
+            "objective": "Convenios con institutos técnicos para programas de formación en el local municipal y talleres de emprendimiento trimestrales.",
+            "goal": "300 vecinos capacitados por año; 3 convenios con institutos al 2027.",
+            "indicator": "Número de vecinos capacitados por año; convenios firmados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes por habitante (por debajo del mínimo recomendado).",
+            "objective": "Programa de recuperación y creación de parques y jardines, con sistema de riego eficiente y programa 'Vecino Verde'.",
+            "goal": "4 m² de área verde por habitante al 2030.",
+            "indicator": "Metros cuadrados de área verde por habitante."
+          },
+          {
+            "problem": "Déficit de mantenimiento urbano, deterioro de parques, bermas, mobiliario y espacios públicos de alto uso vecinal.",
+            "objective": "Recuperar y mantener áreas verdes, bermas, parques y espacios públicos con estándares de calidad, rutas programadas y control de mantenimiento.",
+            "goal": "Intervenir el 100% de espacios públicos y áreas verdes priorizadas al 2030.",
+            "indicator": "Porcentaje de espacios públicos y áreas verdes priorizadas intervenidas bajo estándar de mantenimiento."
+          },
+          {
+            "problem": "Sistema de recojo de basura ineficiente y ausencia de cultura de reciclaje.",
+            "objective": "Implementar el Plan Distrital de Gestión de Residuos Sólidos con segregación en la fuente y convenios con recicladoras.",
+            "goal": "40% de residuos segregados; 5 puntos de acopio al 2030.",
+            "indicator": "Porcentaje de residuos sólidos segregados en la fuente; número de puntos de acopio habilitados."
+          },
+          {
+            "problem": "Zonas del distrito con riesgo ante sismos, tsunamis y activación de quebradas.",
+            "objective": "Elaborar el Mapa de Riesgos Distrital, señalizar rutas de evacuación y capacitar brigadas vecinales de primera respuesta.",
+            "goal": "2 simulacros por año; 500 familias capacitadas al 2030.",
+            "indicator": "Simulacros realizados por año; familias capacitadas en gestión del riesgo."
+          },
+          {
+            "problem": "Amenaza de invasión sobre las Lomas de San Bartolo y áreas naturales sensibles.",
+            "objective": "Declarar las Lomas como zona intangible y de protección ecológica con vigilancia permanente.",
+            "goal": "Ordenanza aprobada al 2027; 3 puntos de vigilancia activos al 2028.",
+            "indicator": "Ordenanza de declaración emitida; puntos de vigilancia habilitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja recaudación de impuestos municipales y alta morosidad de contribuyentes.",
+            "objective": "Actualizar el catastro, implementar pagos en línea y ejecutar programa de incentivos al buen contribuyente.",
+            "goal": "Incremento del 30% en recaudación del impuesto predial al 2030.",
+            "indicator": "Porcentaje de incremento en la recaudación del impuesto predial."
+          },
+          {
+            "problem": "Falta de transparencia, riesgo de corrupción y desconfianza ciudadana en la gestión municipal.",
+            "objective": "Publicación mensual de información financiera, cabildos abiertos trimestrales y creación del Sistema de Control Interno Municipal.",
+            "goal": "4 cabildos por año; 100% de información financiera publicada mensualmente.",
+            "indicator": "Número de cabildos realizados; porcentaje de información financiera publicada."
+          },
+          {
+            "problem": "Proyectos de inversión municipales trabados, expedientes débiles y limitada conexión entre gasto público y resultados visibles.",
+            "objective": "Fortalecer la ejecución de inversiones mediante cartera priorizada, mesa de destrabe, control de ruta crítica, seguimiento físico-financiero y entrega oportuna de proyectos.",
+            "goal": "Alcanzar y sostener una ejecución presupuestal de inversiones al 100% al 2030.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversiones."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-qT9KS6UQi8f7LZgD89xTwhBr56plxEfH",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/qT9KS6UQi8f7LZgD89xTwhBr56plxEfH",
+      "sha256": "74f4d1bcf9a74439962cff1b0de7bca151f0a68fcb29e7c7cccf6dafc70c0a24",
+      "accessedAt": "2026-10-02T23:02:23.124Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020590",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020590",
+      "sha256": "2d3c033c6d437e30b975a6a277d668fbe5d7e5453dc154a312b096dd36b0685a",
+      "accessedAt": "2026-10-02T23:02:23.602Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

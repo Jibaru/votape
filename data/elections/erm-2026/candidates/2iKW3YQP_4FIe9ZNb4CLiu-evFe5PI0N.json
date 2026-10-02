@@ -1,0 +1,256 @@
+{
+  "id": "2iKW3YQP_4FIe9ZNb4CLiu-evFe5PI0N",
+  "slug": "jhonny-edgardo-calagua-huambachano",
+  "electionId": "erm-2026",
+  "name": "Jhonny Edgardo Calagua Huambachano",
+  "givenNames": "Jhonny Edgardo",
+  "surnames": "Calagua Huambachano",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140118",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:00:29.756Z",
+      "sourceId": "jne-hv-2iKW3YQP_4FIe9ZNb4CLiu-evFe5PI0N"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ANDRE VESALIO",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "JC & MA ASOCIADOS SAC",
+      "role": "GERENTE GENERAL",
+      "from": "2020",
+      "to": "2026"
+    },
+    {
+      "employer": "FOMENTOS OBRAS Y CONTRATA SAC - FOCSAC",
+      "role": "ADMINISTRADOR",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "employer": "MUNICIPALIDAD DE SURQUILLO",
+      "role": "ADMINISTRADOR",
+      "from": "2011",
+      "to": "2013"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PARTIDO APRISTA PERUANO",
+      "from": "2003",
+      "to": "2006"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2021"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2012"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 84000,
+        "public": 0,
+        "private": 84000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "JC & MA ASOCIADOS SAC",
+        "type": "ACCIONES",
+        "quantity": 7500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/5a02cc1e-8acd-4c4b-82e4-0054d173ca07.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cb7a6c8c-bceb-4122-95e6-6fa0ef691ebe.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inexistencia de espacios suficientes para la práctica del deporte y la cultura, así como la falta de mantenimiento en las zonas deportivas y recreativas existentes.",
+            "objective": "Brindar espacios adecuados para la práctica de deportes como fútbol, vóley, gimnasia y natación, además de dar calidad de atención al adulto mayor, con mantenimiento y limpieza constante.",
+            "goal": "Construir el Polideportivo de Benjamín Doig y asegurar el uso correcto de la Casa de la Juventud y del Adulto Mayor, con gratuidad de los servicios para niños y adolescentes.",
+            "indicator": "Local de la Casa de la Juventud y del adulto mayor no funciona adecuadamente."
+          },
+          {
+            "problem": "Los ciudadanos de las zonas de los asentamientos humanos no cuentan con todos los servicios básicos.",
+            "objective": "Facilitar a los vecinos las constancias de posesión y apoyar en las gestiones de alumbrado, agua y desagüe.",
+            "goal": "Regularizar al 97% de los habitantes de estas zonas para que cuenten con constancias de posesión, electricidad y alumbrado público.",
+            "indicator": "Nuevas asociaciones de vivienda y ampliaciones de asentamientos humanos sin servicios básicos."
+          },
+          {
+            "problem": "Jóvenes estudiantes que no cuentan con recursos para continuar con estudios técnicos, preuniversitarios y universitarios.",
+            "objective": "Crear una academia municipal, establecer convenios con universidades y centros de educación técnica presencial y virtual.",
+            "goal": "Aumentar la tasa de jóvenes que tienen estudios superiores y que se capacitan en línea (virtual).",
+            "indicator": "Baja tasa de jóvenes con estudios superiores."
+          },
+          {
+            "problem": "Aumento de casos de drogadicción en los jóvenes, así como la falta de motivación por estudiar y superarse.",
+            "objective": "Brindar oportunidades de estudio y desarrollo a la juventud para fomentar su deseo de estudiar y superarse.",
+            "goal": "Reducir los casos de drogadicción y aumentar el número de jóvenes que decidan estudiar y trabajar, con deseos de superarse, tanto en el distrito como fuera de Pucusana.",
+            "indicator": "Aumento de la tasa de jóvenes que no estudian ni trabajan."
+          },
+          {
+            "problem": "Dificultad para la movilización en casos de emergencia de salud debido a la falta de un medio de transporte estable y a los elevados precios de los medicamentos.",
+            "objective": "Apoyar en el equipamiento de los centros de salud y constituir un centro de emergencia de seguridad y salud a través de un aplicativo.",
+            "goal": "Lograr que los centros de salud tengan equipos suficientes y contar con una ambulancia municipal.",
+            "indicator": "Quejas de los vecinos que indican no poder usar la única ambulancia del distrito por falta de chófer o gasolina."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Aumento de la tasa de personas desempleadas en el distrito que sobreviven de la pesca y del comercio ambulatorio, sin alternativas de desarrollo.",
+            "objective": "Reducir la tasa de desempleados del distrito y brindar oportunidades laborales a los jóvenes y adultos.",
+            "goal": "Establecer un convenio formal con las grandes y medianas empresas del distrito para poder brindar una bolsa de trabajo a los habitantes de Pucusana.",
+            "indicator": "Aumento de jóvenes que no trabajan y se dedican a la pesca de manera informal."
+          },
+          {
+            "problem": "Desorden en la zona del malecón con crecimiento del comercio ambulatorio en la época de verano, sin control y con aglomeración de vehículos.",
+            "objective": "Promover y generar actividades económicas de forma ordenada, convirtiendo al distrito en un lugar económicamente atractivo para fomentar el desarrollo humano, económico y social.",
+            "goal": "Lograr un comercio ambulatorio capacitado y ordenado, con un control correcto para el ingreso de vehículos y personas ajenas al distrito.",
+            "indicator": "Tasa alta de comercio informal (ambulantes) en verano."
+          },
+          {
+            "problem": "Baja recaudación de impuestos y arbitrios municipales en la zona del pueblo y en los asentamientos humanos.",
+            "objective": "Incentivar a través de campañas tributarias con descuentos por pronto pago y premiar al buen contribuyente para recaudar más y ofrecer mejores servicios.",
+            "goal": "Disminuir la morosidad en la cobranza de los tributos en las zonas de asentamientos humanos y el pueblo, con una buena distribución de la recaudación.",
+            "indicator": "Más del 65% de la población de los asentamientos humanos no tributa."
+          },
+          {
+            "problem": "Retraso en la ejecución de proyectos y una pobre cartera de proyectos de inversión con expedientes técnicos.",
+            "objective": "Elaborar proyectos de inversión acordes con las necesidades urgentes del distrito que contribuyan al desarrollo del turismo y a una mejor calidad de vida.",
+            "goal": "Ejecutar los proyectos que cuenten con expedientes técnicos para no generar mayor gasto, de acuerdo con las prioridades y el plan de desarrollo integral del distrito.",
+            "indicator": "No se han ejecutado obras de gran envergadura."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasa población de árboles que no permite tener una buena fuente de oxígeno.",
+            "objective": "Ampliar la plantación de árboles y asegurar su riego continuo con aguas residuales de la laguna de oxidación.",
+            "goal": "Contar con un 100% más de árboles de los que existen al inicio de la gestión y convertir a Pucusana en un distrito ecológico.",
+            "indicator": "Poca presencia de árboles, plantas y flores en el distrito, y las existentes se encuentran descuidadas."
+          },
+          {
+            "problem": "Contaminación del mar y las playas en aumento, debido a la basura marina por el nulo reciclaje de las embarcaciones pesqueras y los problemas de desagüe.",
+            "objective": "Disminuir la contaminación en el litoral del distrito, especialmente en las playas.",
+            "goal": "Establecer un convenio con los pescadores para recolectar de manera ordenada y controlada el material para reciclaje de sus embarcaciones.",
+            "indicator": "Aumento anual de la basura obtenida en las campañas de limpieza del mar."
+          },
+          {
+            "problem": "Servicio deficiente de recolección de residuos sólidos y poca conciencia de reciclaje entre los vecinos.",
+            "objective": "Concientizar a la población sobre el reciclaje óptimo y brindar un buen servicio de recolección de residuos sólidos.",
+            "goal": "Adquirir un camión compactador y cinco motofurgones para las zonas de difícil acceso, y lograr una población con mayor conciencia de reciclaje.",
+            "indicator": "Quejas de los vecinos por el retraso en el recojo de los residuos sólidos."
+          },
+          {
+            "problem": "Crecimiento desordenado del territorio, con invasiones en zonas intangibles o del Estado, lo que podría causar desastres en zonas de emergencia.",
+            "objective": "Implementar una habilitación urbana para la prevención de desastres y realizar el levantamiento de un catastro moderno.",
+            "goal": "Ordenar el distrito con una habilitación urbana formal y tener un catastro actualizado al menos al 70%.",
+            "indicator": "Construcciones informales en zonas de riesgo."
+          },
+          {
+            "problem": "Falta de predisposición de los vecinos para evitar la contaminación en las calles y en sus propias viviendas, las cuales a menudo se encuentran en estado de deterioro.",
+            "objective": "Concientizar al vecino, desde la niñez, a no contaminar las calles, y uniformizar el color de las casas en zonas turísticas.",
+            "goal": "Disminuir la contaminación de las calles, sin basura quemada, y tener casas con colores ecológicos en zonas turísticas.",
+            "indicator": "Calles sucias después del recojo de residuos sólidos y casas en deterioro."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Poca claridad en la rendición de cuentas y un trato inadecuado a los vecinos por parte de los funcionarios.",
+            "objective": "Brindar a la población una rendición de cuentas dinámica, clara y transparente, así como un trato empático y de asesoría por parte de los funcionarios.",
+            "goal": "Lograr que más vecinos sepan en qué se usan los recursos de la municipalidad, se sientan bien atendidos por los funcionarios y obtengan soluciones a sus problemas.",
+            "indicator": "Poca asistencia de la ciudadanía en las rendiciones de cuentas."
+          },
+          {
+            "problem": "Instrumentos de gestión desactualizados y no acordes a la realidad, así como trabajadores en puestos no idóneos para su perfil técnico y profesional.",
+            "objective": "Contar con instrumentos de gestión que respalden el trabajo de los funcionarios y tener personal capacitado que cumpla con el perfil de su cargo.",
+            "goal": "Tener instrumentos de gestión acordes a la realidad, como TUPA, TUSNE, RASA, MOF y ROF actualizados.",
+            "indicator": "Documentos de gestión como el TUPA y el RASA se encuentran desactualizados."
+          },
+          {
+            "problem": "Inexistencia de un apoyo integral a todos los dirigentes y asociaciones, quienes a menudo deben esperar horas para ser atendidos por las autoridades municipales.",
+            "objective": "Lograr que los dirigentes y representantes de las asociaciones se sientan respaldados por los funcionarios y autoridades del distrito.",
+            "goal": "Reforzar la Subgerencia de Participación Vecinal con asesores idóneos para el apoyo a los dirigentes y representantes de las asociaciones.",
+            "indicator": "Reclamos de dirigentes y vecinos que manifiestan no contar con el apoyo de la municipalidad."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-2iKW3YQP_4FIe9ZNb4CLiu-evFe5PI0N",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/2iKW3YQP_4FIe9ZNb4CLiu-evFe5PI0N",
+      "sha256": "58026e69829a1d5c56aea22555289372da7e0104afd618938835cf13000dd92d",
+      "accessedAt": "2026-10-02T23:00:29.756Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015060",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015060",
+      "sha256": "e26532c64010481be150ef869aeb7c3c2f522c5d01e001afc82d685781c0228d",
+      "accessedAt": "2026-10-02T23:00:30.348Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

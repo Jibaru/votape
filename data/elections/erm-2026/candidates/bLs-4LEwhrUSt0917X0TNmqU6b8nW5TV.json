@@ -1,0 +1,366 @@
+{
+  "id": "bLs-4LEwhrUSt0917X0TNmqU6b8nW5TV",
+  "slug": "manuel-edgardo-mamani-rodriguez",
+  "electionId": "erm-2026",
+  "name": "Manuel Edgardo Mamani Rodriguez",
+  "givenNames": "Manuel Edgardo",
+  "surnames": "Mamani Rodriguez",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2925,
+    "name": "PARTIDO POLITICO PERU PRIMERO"
+  },
+  "jurisdictionId": "140143",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:05:35.040Z",
+      "sourceId": "jne-hv-bLs-4LEwhrUSt0917X0TNmqU6b8nW5TV"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Tecnológica del Perú S.A.C.",
+        "program": "Bachiller en Contabilidad",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2023"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Privada San Pedro",
+        "program": "BACHILLER EN EDUCACION",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2005"
+      },
+      {
+        "level": "posgrado",
+        "institution": "Universidad del Callao",
+        "program": "Maestría en Administración de empresas",
+        "completed": true,
+        "degree": "Maestro",
+        "year": "2026"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "INGENIERIA Y CONSTRUCCION MAXIMO S.A.C. - ICOMAX S.A.C.",
+      "role": "Asistente Administrativo",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "INGENIERIA Y CONSTRUCCION MAXIMO S.A.C. - ICOMAX S.A.C.",
+      "role": "Administración",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SANTA ANITA",
+      "role": "Regidor distrital",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "employer": "INGENIERIA Y CONSTRUCCION MAXIMO S.A.C. - ICOMAX S.A.C.",
+      "role": "Asistente administrativo",
+      "from": "2016",
+      "to": "2021"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA PARA EL PROGRESO",
+      "from": "2019",
+      "to": "2022"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU POSIBLE",
+      "year": "2007"
+    },
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2022"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 2042.34,
+        "public": 0,
+        "private": 2042.34
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CAT - M1 / CHEVROLET N300",
+        "value": 2380.99
+      },
+      {
+        "type": "MODELO COMPASS / CAMIONETA JEEP",
+        "value": 27211.31
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [
+    "Mis ingresos en el 2025 son de 20 423.40 de sector privado en el área logística y administración de la empresa"
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c293e5d4-b31f-4825-9213-e692c8995586.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cfb001a7-bbb2-4a95-81fc-a0941bc6a398.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Reducida capacidad logística y táctica del cuerpo de serenazgo para la cobertura de los cuadrantes del distrito.",
+            "objective": "Incrementar la capacidad operativa y el equipamiento del serenazgo municipal.",
+            "goal": "Incrementar en 150% la capacidad operativa y logística del serenazgo.",
+            "indicator": "Porcentaje de incremento de unidades móviles y agentes operativos de serenazgo."
+          },
+          {
+            "problem": "Falta de espacios e infraestructura deportiva acuática moderna orientada a la salud, la alta competencia y el adulto mayor.",
+            "objective": "Construir infraestructura recreativa y deportiva inclusiva con sistemas de climatización.",
+            "goal": "Entregar 2 piscinas temperadas municipales totalmente operativas",
+            "indicator": "Número de piscinas municipales temperadas construidas y operativas."
+          },
+          {
+            "problem": "Demora en los tiempos de atención y respuesta del serenazgo ante emergencias delictivas y vecinales.",
+            "objective": "Optimizar la capacidad de respuesta operativa y el despliegue del serenazgo articulado con la PNP.",
+            "goal": "Alcanzar un tiempo promedio de respuesta menor a 4 minutos en todo el distrito.",
+            "indicator": "Tiempo promedio de respuesta del serenazgo ante llamadas de emergencia"
+          },
+          {
+            "problem": "Carencia de servicios públicos especializados de salud, educación y terapias para personas con Trastorno del Espectro Autista (TEA).",
+            "objective": "Implementar centros especializados de atención integral para la población infantil y juvenil con TEA.",
+            "goal": "Implementar y poner en funcionamiento 2 Centros Municipales especializados TEA.",
+            "indicator": "Número de Centros Municipales especializados en TEA implementados."
+          },
+          {
+            "problem": "Deficiente alumbrado público que facilita focos de delincuencia e informalidad en calles y parques secundarios. Modernizar los sistemas de iluminación del distrito para recuperar la transitabilidad peatonal nocturna.",
+            "objective": "Modernizar los sistemas de iluminación del distrito para recuperar la transitabilidad peatonal nocturna.",
+            "goal": "Lograr el 100% de cobertura de iluminación LED en espacios públicos.",
+            "indicator": "Porcentaje de luminarias públicas actualizadas a tecnología LED en vías y parques"
+          },
+          {
+            "problem": "Alta incidencia delictiva por robos al paso y hurtos que elevan la percepción de inseguridad en ejes comerciales del distrito. Fortalecer la seguridad ciudadana mediante patrullaje inteligente, tecnología de última generación y modernización del serenazgo.",
+            "objective": "Fortalecer la seguridad ciudadana mediante patrullaje inteligente, tecnología de última generación y modernización del serenazgo.",
+            "goal": "Reducir en 30% la percepción de inseguridad ciudadana al 2030.",
+            "indicator": "Porcentaje de la percepción de inseguridad ciudadana en el distrito."
+          },
+          {
+            "problem": "Falta de acceso a tratamientos de rehabilitación y terapias físicas integrales para vecinos con habilidades especiales.",
+            "objective": "Crear un centro municipal integral de terapias y asistencia social inclusiva.",
+            "goal": "Construir y poner en operación 1 Centro Integral de Terapias.",
+            "indicator": "Número de Centros Integrales de Terapias operando a nivel municipal."
+          },
+          {
+            "problem": "Escasez de programas descentralizados de recreación y sano esparcimiento para mitigar factores de riesgo en adolescentes y jóvenes.",
+            "objective": "Masificar las escuelas deportivas y talleres culturales municipales gratuitos.",
+            "goal": "Alcanzar más de 20,000 beneficiarios anuales en los programas de desarrollo humano.",
+            "indicator": "Número de vecinos beneficiados anualmente en talleres deportivos y culturales."
+          },
+          {
+            "problem": "Déficit de infraestructura de monitoreo descentralizada y disuasiva en las fronteras y accesos críticos del distrito.",
+            "objective": "Implementar infraestructura táctica de auxilio rápido e interconexión tecnológica en el territorio.",
+            "goal": "Instalar y equipar al 100% 5 nuevos Puestos de Auxilio Rápido (PAR).",
+            "indicator": "Número de Puestos de Auxilio Rápido (PAR) construidos e implementados."
+          },
+          {
+            "problem": "Limitadas oportunidades económicas y brechas de acceso a la educación superior para jóvenes de escasos recursos.",
+            "objective": "Desarrollar un programa integral de becas de estudio y fortalecimiento de capacidades académicas.",
+            "goal": "Beneficiar a más de 5,000 jóvenes con el Programa de Becas y Preuniversitario.",
+            "indicator": "Número de jóvenes beneficiados con becas de estudio y ciclos preuniversitarios gratuitos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Excesivo tiempo de espera y procesos complejos en la tramitación de licencias y autorizaciones comerciales.",
+            "objective": "Simplificar administrativamen te el proceso de apertura y formalización de establecimientos comerciales.",
+            "goal": "Reducir en 80% el tiempo de tramitación de licencias comerciales.",
+            "indicator": "Porcentaje de reducción del tiempo promedio de obtención de licencias de funcionamiento."
+          },
+          {
+            "problem": "Escasos espacios de articulación comercial directa entre el productor/comerciante local y los consumidores finales.",
+            "objective": "Promover ferias itinerantes de emprendimiento, innovación y desarrollo productivo en el distrito",
+            "goal": "Organizar un mínimo de 100 ferias comerciales descentralizadas.",
+            "indicator": "Número total de ferias empresariales y de emprendimiento realizadas en la gestión."
+          },
+          {
+            "problem": "Altos niveles de morosidad y evasión tributaria en arbitrios municipales que limitan la inversión en obras.",
+            "objective": "Fortalecer la administración tributaria municipal mediante incentivos de cumplimiento y optimización de cobranzas",
+            "goal": "Incrementar en 30% la recaudación tributaria municipal de forma eficiente.",
+            "indicator": "Porcentaje de incremento en la recaudación tributaria propia municipal."
+          },
+          {
+            "problem": "Altos índices de informalidad comercial y trabas burocráticas para la consolidación de las micro y pequeñas empresas (MYPE).",
+            "objective": "Impulsar la formalización empresarial y el fortalecimiento de capacidades de las MYPE del distrito.",
+            "goal": "Formalizar de manera integral a 3,000 pequeños negocios y MYPEs.",
+            "indicator": "Número total de negocios y unidades de emprendimiento formalizados."
+          },
+          {
+            "problem": "Barreras de acceso y lentitud en la emisión física de autorizaciones temporales y licencias definitivas.",
+            "objective": "Optimizar el flujo de atención para dinamizar la legalidad comercial en el distrito.",
+            "goal": "Otorgar más de 15,000 licencias de funcionamiento formales y simplificadas.",
+            "indicator": "Número de licencias de funcionamiento otorgadas bajo estándares simplificados."
+          },
+          {
+            "problem": "Brechas en perfiles técnicos y certificación para puestos operativos altamente requeridos en las zonas industriales colindantes.",
+            "objective": "Impartir programas municipales de capacitación técnica especializada y oficios productivos.",
+            "goal": "Capacitar a más de 12,000 vecinos en oficios técnicos de alta demanda.",
+            "indicator": "Número de jóvenes y adultos capacitados y certificados en oficios técnicos."
+          },
+          {
+            "problem": "Falta de articulación formal entre el empresariado del distrito (clúster comerciallogístico) y el recurso humano local.",
+            "objective": "Promover convenios estratégicos con la empresa privada para priorizar la contratación de mano de obra local",
+            "goal": "Suscribir convenios institucionales con al menos 100 empresas del distrito.",
+            "indicator": "Número de convenios interinstitucionales suscritos con empresas privadas."
+          },
+          {
+            "problem": "Desempleo y subempleo local, especialmente en jóvenes que no logran insertarse a las demandas del mercado logístico.",
+            "objective": "Estimular la generación de empleo productivo y el autoempleo en el distrito.",
+            "goal": "Viabilizar la generación de más de 10,000 oportunidades laborales.",
+            "indicator": "Número total de oportunidades de empleo generadas mediante canales municipales."
+          },
+          {
+            "problem": "Desconexión de los mercados y comercios del distrito respecto a las nuevas tendencias de economía digital y pasarelas de pago.",
+            "objective": "Promover la inserción de los comerciantes locales en herramientas comerciales digitales e ecommerce.",
+            "goal": "Insertar a más de 10,000 comerciantes en ecosistemas de venta digital.",
+            "indicator": "Número de comerciantes y feriantes incorporados a herramientas digitales de pago."
+          },
+          {
+            "problem": "Limitadas competencias en gestión de negocios y transformación digital en los comerciantes tradicionales del distrito.",
+            "objective": "Desarrollar programas de asistencia técnica en gestión comercial, marketing y finanzas.",
+            "goal": "Capacitar a 15,000 emprendedores y comerciantes del distrito.",
+            "indicator": "Número acumulado de emprendedores y comerciantes capacitados."
+          },
+          {
+            "problem": "Subregistro catastral y falta de actualización de la base tributaria de predios comerciales y residenciales.",
+            "objective": "Ampliar la base de contribuyentes del distrito mediante la fiscalización permanente y sinceramiento predial.",
+            "goal": "Incorporar a más de 8,000 nuevos contribuyentes a la base tributaria activa.",
+            "indicator": "Número de nuevos contribuyentes formales incorporados al sistema municipal."
+          },
+          {
+            "problem": "Uso ineficiente de canales presenciales y rezago digital en la tramitación de procedimientos administrativos de cara al vecino.",
+            "objective": "Implementar la transformación y digitalización de los procesos y trámites internos.",
+            "goal": "Lograr el 90% de los trámites municipales disponibles de forma 100% digital.",
+            "indicator": "Porcentaje de procedimientos y trámites municipales digitalizados."
+          },
+          {
+            "problem": "Proliferación de puntos críticos de comercio ambulatorio informal que satura las vías públicas y genera desorden urbano.",
+            "objective": "Reordenar los espacios públicos y recuperar zonas críticas mediante la reubicación concertada.",
+            "goal": "Reducir en 50% los puntos críticos de comercio ambulatorio en el distrito.",
+            "indicator": "Porcentaje de reducción de puntos críticos ocupados por comercio ambulatorio informal."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit crítico de metros cuadrados de áreas verdes por habitante, por debajo de los estándares internacionales de salud urbana",
+            "objective": "Implementar el Plan Verde integral del distrito mediante reforestación urbana en áreas degradadas.",
+            "goal": "Reforestar y arborizar el distrito con más de 20,000 árboles nativos.",
+            "indicator": "Número total de árboles nuevos plantados y georreferenciados en la gestión."
+          },
+          {
+            "problem": "Escasez de barreras vivas forestales en avenidas metropolitanas y vías locales con alta emisión de gases contaminantes CO2.",
+            "objective": "Desarrollar corredores verdes urbanos y arborización intensiva en los separadores centrales.",
+            "goal": "Plantar más de 8,000 árboles en corredores viales prioritarios.",
+            "indicator": "Desarrollar corredores verdes urbanos y arborización intensiva en los separadores centrales."
+          },
+          {
+            "problem": "Insuficiente infraestructura de riego que genera alto consumo de agua potable para el mantenimiento de áreas verdes.",
+            "objective": "Implementar sistemas de riego tecnificado por goteo y aspersión utilizando aguas tratadas.",
+            "goal": "Incrementar la densidad y sostenibilidad de las áreas verdes en un 50%.",
+            "indicator": "Porcentaje de incremento neto de la cobertura de áreas verdes óptimamente mantenidas."
+          },
+          {
+            "problem": "Deterioro de la infraestructura recreativa, falta de mantenimiento de parques públicos e inadecuado mobiliario urbano.",
+            "objective": "Recuperar, remodelar y modernizar los parques y espacios públicos del distrito bajo el enfoque de inclusión y seguridad.",
+            "goal": "Recuperar y modernizar el 100% de los parques públicos registrados.",
+            "indicator": "Porcentaje de parques y espacios públicos recuperados y modernizados."
+          },
+          {
+            "problem": "Carencia de cobertura ornamental y paisajismo urbano que impacta negativamente en la identidad visual y salud mental vecinal.",
+            "objective": "Ejecutar el programa \"Parques Floridos\" enfocado en el embellecimiento urbano y el paisajismo sostenible.",
+            "goal": "Sembrar más de 200,000 flores ornamentales en bermas y rotondas del distrito.",
+            "indicator": "Cantidad total de plantas y flores ornamentales cultivadas y distribuidas en espacios públicos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Persistencia de trámites físicos basados en papel que ralentizan el servicio al ciudadano y propician la burocracia ineficiente.",
+            "objective": "Modernizar la gestión interna municipal migrando al expediente electrónico, firma digital y canales cero papel.",
+            "goal": "Lograr el 100% de los trámites municipales integrados en la plataforma digital.",
+            "indicator": "Porcentaje de trámites internos y vecinales con digitalización integral de extremo a extremo."
+          },
+          {
+            "problem": "Falta de predictibilidad, opacidad en la asignación presupuestal y demandas de mayor transparencia en las compras públicas.",
+            "objective": "Fortalecer la rendición de cuentas, la transparencia institucional y los mecanismos de gobierno abierto",
+            "goal": "Realizar obligatoriamente un mínimo de 2 audiencias públicas anuales.",
+            "indicator": "Número de audiencias públicas institucionales de rendición de cuentas descentralizadas."
+          },
+          {
+            "problem": "Ausencia de canales ágiles y confidenciales para la presentación de denuncias contra actos de corrupción y sugerencias de servicio.",
+            "objective": "Habilitar herramientas tecnológicas bidireccionales para denuncias de corrupción y control vecinal continuo.",
+            "goal": "Implementar al 100% el aplicativo móvil institucional \"Santa Anita Digital\" con módulo de denuncias en línea.",
+            "indicator": "Disponibilidad y efectividad de canales virtuales de atención a quejas, reclamos y denuncias contra la corrupción."
+          },
+          {
+            "problem": "Desconfianza ciudadana en los procesos de licitaciones públicas y necesidad de un seguimiento ciudadano de las inversiones",
+            "objective": "Implementar plataformas interactivas de transparencia proactiva para el control de la obra pública en tiempo real.",
+            "goal": "Desarrollar e implementar al 100% la Plataforma Digital de Gobierno Abierto.",
+            "indicator": "Número de plataformas de transparencia y gobierno abierto implementadas y de libre acceso."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-bLs-4LEwhrUSt0917X0TNmqU6b8nW5TV",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bLs-4LEwhrUSt0917X0TNmqU6b8nW5TV",
+      "sha256": "d23309a9fd48928dd4ff83f2b44a891db5b764baee376b451e57a0220f966f98",
+      "accessedAt": "2026-10-02T23:05:35.040Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021185",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021185",
+      "sha256": "47ec8d5b89488384f4599faaacd908d34d3f7491b6f95249df06bde29656b3a8",
+      "accessedAt": "2026-10-02T23:05:35.641Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

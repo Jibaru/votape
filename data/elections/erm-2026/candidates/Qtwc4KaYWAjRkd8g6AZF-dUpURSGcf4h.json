@@ -1,0 +1,221 @@
+{
+  "id": "Qtwc4KaYWAjRkd8g6AZF-dUpURSGcf4h",
+  "slug": "maria-rosario-silvestre-vilchez",
+  "electionId": "erm-2026",
+  "name": "Maria Rosario Silvestre Vilchez",
+  "givenNames": "Maria Rosario",
+  "surnames": "Silvestre Vilchez",
+  "age": 54,
+  "gender": "Femenino",
+  "party": {
+    "id": 2218,
+    "name": "PARTIDO POLITICO NACIONAL PERU LIBRE"
+  },
+  "jurisdictionId": "140142",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:45.854Z",
+      "sourceId": "jne-hv-Qtwc4KaYWAjRkd8g6AZF-dUpURSGcf4h"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "Independiente",
+      "role": "Comerciante ambulatoria minorista",
+      "from": "2016",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2020"
+    },
+    {
+      "party": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 28800,
+        "public": 0,
+        "private": 28800
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/bb7e7236-1562-4332-82cb-5dddc5102d63.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/f40c5d8c-5031-4045-b225-299150bc50c8.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de infraestructura y servicios públicos adecuados para la inclusión de personas con discapacidad.",
+            "objective": "Transformar la infraestructura y los servicios públicos para garantizar la autonomía y el libre tránsito de las personas con discapacidad en todo el distrito.",
+            "goal": "Ejecutar el plan \"Distrito 100% Accesible\" con la construcción masiva de rampas, instalación de pisos podotáctiles y semáforos sonoros en los principales cruces.",
+            "indicator": "Porcentaje de adecuación de espacios y edificios públicos. / Número de personal municipal capacitado en lengua de señas."
+          },
+          {
+            "problem": "Insuficiente atención y barreras burocráticas para adultos mayores en situación de vulnerabilidad.",
+            "objective": "Garantizar el bienestar de los adultos mayores eliminando barreras burocráticas y financieras, y mejorando sus condiciones de habitabilidad.",
+            "goal": "Implementar un fondo de apoyo técnico y material para mejorar las viviendas precarias de adultos mayores y crear brigadas municipales para facilitar el acceso a subsidios y programas sociales.",
+            "indicator": "Número de trámites para adultos mayores simplificados y automatizados. / Número de viviendas precarias reforzadas."
+          },
+          {
+            "problem": "Altos índices de inseguridad ciudadana que afectan la tranquilidad de la población.",
+            "objective": "Fortalecer la seguridad ciudadana mediante la mejora del serenazgo, la integración de sistemas de videovigilancia y la promoción de la participación vecinal.",
+            "goal": "Implementar el programa \"LOS OLIVOS SEGURO 24/7\" para priorizar la fiscalización y prevención del delito las 24 horas del día, en coordinación con la Policía Nacional y los vecinos organizados.",
+            "indicator": "Número de cámaras de videovigilancia integradas a la red colaborativa. / Porcentaje de juntas vecinales fortalecidas."
+          },
+          {
+            "problem": "Carencia de programas de refuerzo escolar y capacitación técnica para la comunidad.",
+            "objective": "Implementar programas comunitarios de refuerzo escolar y capacitación descentralizada para madres emprendedoras, jóvenes, adultos mayores y población vulnerable.",
+            "goal": "Llevar los programas educativos directamente a las comunidades para facilitar el acceso, especialmente a madres trabajadoras, a través de la iniciativa \"AHORA MI COMUNIDAD SE PREPARA\".",
+            "indicator": "Número de programas de refuerzo escolar implementados. / Número de talleres de oficios productivos brindados."
+          },
+          {
+            "problem": "Falta de oportunidades para el desarrollo del talento artístico y cultural de los jóvenes del distrito.",
+            "objective": "Transformar el talento de los jóvenes en una actividad técnica, sostenible y rentable, brindando herramientas de capacitación, formalización y oportunidades de desarrollo.",
+            "goal": "Gestionar certificaciones oficiales para los jóvenes artistas y promover su contratación en eventos municipales, utilizando la infraestructura existente como espacios de aprendizaje y exposición.",
+            "indicator": "Número de talleres de nivel avanzado dictados. / Número de circuitos culturales permanentes creados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Trabas burocráticas y falta de protección para los empresarios y comercios formales del distrito.",
+            "objective": "Proteger y respaldar al empresariado formal eliminando trabas burocráticas, mejorando la seguridad y promoviendo el consumo local.",
+            "goal": "Establecer a la municipalidad como un aliado estratégico del empresario formal, con una fiscalización orientadora y no persecutoria, para atraer inversión al distrito.",
+            "indicator": "Tiempo promedio para la renovación de licencias. / Número de ferias sectoriales y corredores gastronómicos organizados."
+          },
+          {
+            "problem": "Dificultades para la formalización de comerciantes ambulantes y su transición a microempresas.",
+            "objective": "Facilitar el paso de los comerciantes ambulantes a la microempresa legal mediante la simplificación de trámites y la capacitación especializada.",
+            "goal": "Implementar una Escuela de Emprendedores que brinde asistencia técnica y talleres gratuitos en gestión de negocios, finanzas y marketing para potenciar las habilidades comerciales.",
+            "indicator": "Número de licencias provisionales otorgadas a costo cero. / Número de talleres de capacitación empresarial realizados."
+          },
+          {
+            "problem": "Comercio ambulatorio desordenado y sin una identificación formal que garantice la seguridad.",
+            "objective": "Ordenar el comercio ambulatorio mediante el registro, la carnetización y la priorización de la población vulnerable, manteniendo el orden a través de la concertación.",
+            "goal": "Registrar e identificar formalmente a todos los comerciantes ambulatorios mediante un carnet municipal, reservando permisos de comercio temporal para población vulnerable.",
+            "indicator": "Padrón de comerciantes ambulatorios actualizado. / Porcentaje de comerciantes carnetizados."
+          },
+          {
+            "problem": "Inseguridad jurídica sobre la propiedad de las viviendas de miles de familias en el distrito.",
+            "objective": "Facilitar los procesos de saneamiento físico legal, formalización y titulación de predios.",
+            "goal": "Brindar apoyo permanente en los procesos de titulación, trabajando coordinadamente con las entidades competentes para asegurar la seguridad jurídica de las familias.",
+            "indicator": "Número de familias que reciben orientación y acompañamiento técnico."
+          },
+          {
+            "problem": "Potencial turístico, gastronómico y comercial del distrito insuficientemente desarrollado.",
+            "objective": "Posicionar a Los Olivos como un centro de servicios para visitantes nacionales e internacionales, promoviendo su oferta turística y gastronómica.",
+            "goal": "Impulsar una Red Distrital de Servicios Turísticos que integre hoteles, restaurantes y operadores turísticos para dinamizar la economía local bajo la iniciativa \"LOS OLIVOS RENACE\".",
+            "indicator": "Número de rutas gastronómicas y festivales culinarios promovidos. / Creación de la Red Distrital de Servicios Turísticos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Existencia de parques deteriorados y espacios públicos abandonados en el distrito.",
+            "objective": "Recuperar integralmente los parques y espacios públicos abandonados.",
+            "goal": "Implementar áreas recreativas infantiles, arborización, zonas para mascotas y mantenimiento permanente en todos los parques y espacios públicos recuperados.",
+            "indicator": "Metros cuadrados de áreas verdes recuperadas. / Número de parques con nuevo mobiliario urbano e iluminación LED."
+          },
+          {
+            "problem": "Ineficiente gestión de residuos sólidos y dependencia de flotas de alquiler para el recojo de basura.",
+            "objective": "Optimizar la gestión de residuos sólidos mediante la adquisición de una flota municipal propia y el uso de tecnología para el monitoreo.",
+            "goal": "Construir una flota propia de camiones compactadores para reducir la dependencia de terceros y reinvertir el ahorro económico en beneficio de los vecinos.",
+            "indicator": "Número de camiones compactadores adquiridos. / Porcentaje de cumplimiento de horarios de recojo de basura."
+          },
+          {
+            "problem": "Inadecuado manejo y falta de aprovechamiento de los residuos vegetales de mercados y hogares.",
+            "objective": "Implementar un sistema de recolección diferenciada y valorización de residuos orgánicos para la producción de compost.",
+            "goal": "Crear un \"Circuito Verde\" con rutas exclusivas para recolectar residuos vegetales y transformarlos en abono, integrando a recicladores formales en el proceso.",
+            "indicator": "Creación de la Planta de Valorización de residuos. / Toneladas de compost producido anualmente."
+          },
+          {
+            "problem": "Patrimonio cultural e histórico, como huacas y sitios arqueológicos, en estado de desprotección.",
+            "objective": "Promover la protección, conservación y puesta en valor de las huacas y sitios arqueológicos del distrito.",
+            "goal": "Incorporar las huacas a circuitos turísticos, educativos y culturales, mediante acciones coordinadas con las instituciones competentes para fortalecer la identidad local.",
+            "indicator": "Número de sitios arqueológicos con señalización histórica e iluminación ornamental. / Número de programas educativos sobre identidad local."
+          },
+          {
+            "problem": "Infraestructura vial, como pistas y veredas, en mal estado de conservación.",
+            "objective": "Ejecutar un programa permanente de recuperación y mantenimiento de pistas, veredas y accesos peatonales en todo el distrito.",
+            "goal": "Priorizar la ejecución de obras de infraestructura vial según las necesidades reales identificadas en cada comunidad del distrito.",
+            "indicator": "Kilómetros de pistas recuperadas. / Metros cuadrados de veredas rehabilitadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia en el uso de los recursos públicos y escasa rendición de cuentas a la ciudadanía.",
+            "objective": "Garantizar una gestión municipal transparente y abierta, que informe permanentemente sobre sus avances y el uso de los recursos.",
+            "goal": "Realizar informes trimestrales, cabildos abiertos semestrales y reportes permanentes en el Portal de Transparencia para que la ciudadanía conozca el cumplimiento de las metas.",
+            "indicator": "Frecuencia de publicación de informes de avance de obras y ejecución presupuestal. / Número de audiencias públicas descentralizadas realizadas."
+          },
+          {
+            "problem": "Baja participación de la ciudadanía en la toma de decisiones y en los asuntos municipales.",
+            "objective": "Promover e incentivar la participación activa de los vecinos en la toma de decisiones municipales.",
+            "goal": "Fortalecer los mecanismos de consulta ciudadana, las mesas de trabajo vecinales y el presupuesto participativo para que los vecinos se involucren en la gestión.",
+            "indicator": "Número de mesas de trabajo vecinales conformadas y activas. / Porcentaje de ejecución del presupuesto participativo."
+          },
+          {
+            "problem": "Excesiva burocracia y lentitud en los trámites y servicios municipales.",
+            "objective": "Modernizar la gestión municipal a través de la digitalización de trámites y la simplificación administrativa.",
+            "goal": "Impulsar la digitalización y simplificación de trámites para reducir los tiempos de atención y acercar la gestión a la ciudadanía, mejorando la calidad de los servicios.",
+            "indicator": "Reducción del tiempo promedio de atención al ciudadano. / Porcentaje de trámites disponibles en línea."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Qtwc4KaYWAjRkd8g6AZF-dUpURSGcf4h",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Qtwc4KaYWAjRkd8g6AZF-dUpURSGcf4h",
+      "sha256": "dd50f10b4189e93c43328eb8c06f895702603d45292926291e31cd0194a3e7cf",
+      "accessedAt": "2026-10-02T22:58:45.854Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021130",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021130",
+      "sha256": "ca15776f5917d0eb182eeb035286bc05a672caed73c97ee4c4c21f03da0276f3",
+      "accessedAt": "2026-10-02T22:58:46.352Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

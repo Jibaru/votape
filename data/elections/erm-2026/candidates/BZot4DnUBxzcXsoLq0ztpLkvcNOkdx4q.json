@@ -1,0 +1,222 @@
+{
+  "id": "BZot4DnUBxzcXsoLq0ztpLkvcNOkdx4q",
+  "slug": "juan-jose-diaz-ayquipa",
+  "electionId": "erm-2026",
+  "name": "Juan Jose Diaz Ayquipa",
+  "givenNames": "Juan Jose",
+  "surnames": "Diaz Ayquipa",
+  "age": 50,
+  "gender": "Masculino",
+  "party": {
+    "id": 2901,
+    "name": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+  },
+  "jurisdictionId": "140141",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:40.488Z",
+      "sourceId": "jne-hv-BZot4DnUBxzcXsoLq0ztpLkvcNOkdx4q"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": false
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/af90fcc0-9094-4b7b-b9ac-d07ea99a23cf.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/3dc6421c-69a6-43d9-b6b0-89b55741bd4b.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de delitos contra el patrimonio, limitada iluminación pública y creciente percepción de inseguridad.",
+            "objective": "Fortalecer la seguridad ciudadana mediante acciones preventivas y articulación institucional.",
+            "goal": "Reducir en 20% la incidencia de delitos patrimoniales.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio por cada 10,000 habitantes."
+          },
+          {
+            "problem": "Incremento de la violencia familiar y de género.",
+            "objective": "Fortalecer la prevención y atención integral de la violencia contra mujeres y poblaciones vulnerables.",
+            "goal": "Incrementar en 50% la cobertura de atención integral.",
+            "indicator": "Número de personas atendidas mediante servicios especializados."
+          },
+          {
+            "problem": "Deficiente infraestructura educativa, limitada conectividad digital y brechas de equipamiento escolar.",
+            "objective": "Mejorar las condiciones para el aprendizaje y el acceso a servicios educativos de calidad.",
+            "goal": "Intervenir al menos el 50% de instituciones educativas con mayores brechas.",
+            "indicator": "Porcentaje de instituciones educativas priorizadas intervenidas."
+          },
+          {
+            "problem": "Persistencia de anemia y desnutrición crónica infantil en sectores vulnerables del distrito.",
+            "objective": "Contribuir a la reducción de la anemia infantil y fortalecer el desarrollo infantil temprano mediante acciones articuladas con el sector salud.",
+            "goal": "Reducir la anemia infantil de 10.8% a menos de 5%.",
+            "indicator": "Porcentaje de niños y niñas de 6 a 35 meses con anemia."
+          },
+          {
+            "problem": "Insuficiente acceso a espacios y programas deportivos y culturales de calidad para jóvenes.",
+            "objective": "Fortalecer el desarrollo integral de la juventud mediante la ampliación y modernización de la oferta cultural, deportiva y de participación ciudadana.",
+            "goal": "Incrementar al 30% la cobertura de jóvenes de 15 a 29 años participantes en programas culturales, deportivos y de desarrollo juvenil.",
+            "indicator": "Número de jóvenes con acceso efectivo a programas culturales y deportivos municipales formales."
+          },
+          {
+            "problem": "Persistentes brechas en el acceso a agua potable, alcantarillado y energía eléctrica en asentamientos humanos.",
+            "objective": "Ampliar el acceso de la población a servicios básicos de calidad, priorizando los sectores con mayores niveles de vulnerabilidad.",
+            "goal": "Incrementar en 20 puntos porcentuales la cobertura de agua y saneamiento, y alcanzar una cobertura de electrificación superior al 98%.",
+            "indicator": "Porcentaje de viviendas con acceso a agua potable, alcantarillado y energía eléctrica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Escasa articulación entre la formación técnica, el mercado laboral y la demanda.",
+            "objective": "Mejorar la empleabilidad y la capacitación para el trabajo.",
+            "goal": "Capacitar a más de 10,000 jóvenes y adultos para el empleo.",
+            "indicator": "Número de personas capacitadas e insertadas laboralmente."
+          },
+          {
+            "problem": "Potencial turístico, cultural e histórico subaprovechado, incluyendo Playa Venecia y el patrimonio histórico de Villa El Salvador.",
+            "objective": "Impulsar el turismo, la cultura y la economía creativa como motores del desarrollo local.",
+            "goal": "Incrementar en 50% el flujo de visitantes al distrito.",
+            "indicator": "Número anual de visitantes y actividades turísticas promovidas."
+          },
+          {
+            "problem": "Limitada competitividad del Parque Industrial y de las micro y pequeñas empresas debido a restricciones de financiamiento, innovación y acceso a mercados.",
+            "objective": "Fortalecer el desarrollo productivo y la competitividad empresarial del distrito.",
+            "goal": "Fortalecer al menos 2,000 MYPES y unidades productivas locales.",
+            "indicator": "Número de empresas y emprendimientos fortalecidos."
+          },
+          {
+            "problem": "Alta informalidad laboral que afecta aproximadamente a 179 mil trabajadores, especialmente a jóvenes y mujeres.",
+            "objective": "Promover la formalización económica y la generación de empleo digno en el distrito.",
+            "goal": "Reducir la informalidad laboral en 15 puntos porcentuales.",
+            "indicator": "Número de trabajadores y emprendimientos formalizados."
+          },
+          {
+            "problem": "Deterioro de la infraestructura vial, congestión vehicular y limitada infraestructura económica para el comercio local.",
+            "objective": "Mejorar la conectividad y competitividad territorial del distrito.",
+            "goal": "Mejorar 50 km de vías urbanas estratégicas y principales corredores comerciales.",
+            "indicator": "Kilómetros de vías mejoradas y espacios económicos implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Deficiente gestión de residuos sólidos, presencia de puntos críticos de acumulación de basura y limitada cultura de reciclaje.",
+            "objective": "Mejorar la gestión integral de residuos sólidos y promover la economía circular.",
+            "goal": "Valorizar al menos el 30% de los residuos sólidos generados en el distrito.",
+            "indicator": "Porcentaje de residuos sólidos valorizados o reciclados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y limitada cobertura vegetal en espacios públicos del distrito.",
+            "objective": "Incrementar la infraestructura verde y mejorar la calidad ambiental urbana.",
+            "goal": "Incrementar en 50% la superficie de áreas verdes urbanas.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante."
+          },
+          {
+            "problem": "Amenazas sobre los Pantanos de Villa por contaminación, residuos sólidos y la presión urbana sobre su zona de influencia.",
+            "objective": "Proteger y conservar los ecosistemas estratégicos y la biodiversidad local.",
+            "goal": "Implementar acciones permanentes de protección y recuperación del ecosistema.",
+            "indicator": "Número de intervenciones de conservación ejecutadas."
+          },
+          {
+            "problem": "Alta vulnerabilidad ante sismos, incendios y emergencias urbanas, afectando a un alto porcentaje de viviendas.",
+            "objective": "Fortalecer la gestión del riesgo de desastres y la resiliencia urbana.",
+            "goal": "Implementar acciones de prevención y reducción de riesgos en todos los sectores priorizados del distrito.",
+            "indicator": "Número de intervenciones preventivas ejecutadas."
+          },
+          {
+            "problem": "Incremento de la contaminación ambiental, efecto de isla de calor urbana y limitada adaptación al cambio climático.",
+            "objective": "Promover la sostenibilidad ambiental y la adaptación al cambio climático.",
+            "goal": "Implementar un programa integral de adaptación climática en todo el distrito.",
+            "indicator": "Número de iniciativas ambientales implementadas."
+          },
+          {
+            "problem": "Limitada seguridad alimentaria, escaso aprovechamiento de espacios urbanos y baja promoción de prácticas sostenibles de producción de alimentos.",
+            "objective": "Promover la agroecología urbana y fortalecer la seguridad alimentaria de las familias.",
+            "goal": "Implementar al menos 500 huertos urbanos y comunitarios en el distrito.",
+            "indicator": "Número de huertos urbanos y familias beneficiadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos lentos, limitada digitalización de servicios y baja percepción de eficiencia municipal.",
+            "objective": "Modernizar la gestión municipal para brindar servicios más eficientes, transparentes y accesibles.",
+            "goal": "Digitalizar el 100% de los trámites prioritarios de atención al ciudadano.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          },
+          {
+            "problem": "Baja ejecución de inversiones públicas en sectores estratégicos como seguridad ciudadana y gestión del riesgo de desastres.",
+            "objective": "Fortalecer la capacidad institucional para mejorar la ejecución de proyectos y el cierre de brechas.",
+            "goal": "Alcanzar una ejecución anual superior al 90% de las inversiones programadas.",
+            "indicator": "Porcentaje de ejecución presupuestal de inversiones."
+          },
+          {
+            "problem": "Necesidad de fortalecer la sostenibilidad financiera municipal y mejorar la calidad del gasto público.",
+            "objective": "Incrementar los ingresos municipales y optimizar el uso de los recursos públicos.",
+            "goal": "Incrementar la recaudación propia en 30% respecto a la línea base.",
+            "indicator": "Incremento de la recaudación tributaria municipal."
+          },
+          {
+            "problem": "Debilitamiento de la confianza ciudadana en las instituciones públicas y limitada participación vecinal en la toma de decisiones.",
+            "objective": "Fortalecer la participación ciudadana, la transparencia y la gobernanza local.",
+            "goal": "Incrementar en 50% la participación ciudadana en mecanismos de gobernanza local.",
+            "indicator": "Número de organizaciones y ciudadanos participantes en espacios de concertación."
+          },
+          {
+            "problem": "Débil articulación entre la municipalidad, organizaciones sociales y actores económicos del distrito.",
+            "objective": "Consolidar una gestión municipal articulada con la comunidad para el desarrollo local.",
+            "goal": "Implementar mecanismos de coordinación en los principales sectores del distrito.",
+            "indicator": "Número de acciones de articulación y trabajo conjunto implementadas."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-BZot4DnUBxzcXsoLq0ztpLkvcNOkdx4q",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/BZot4DnUBxzcXsoLq0ztpLkvcNOkdx4q",
+      "sha256": "c623388fc765babc0c758998d151b7a0920375137235a0e9f99218e4f829e04d",
+      "accessedAt": "2026-10-02T23:06:40.488Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026022273",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026022273",
+      "sha256": "01c9665b72b3739d70c1cbcb998d3d7ec102e8b2cc685a398b4346ea018eddf1",
+      "accessedAt": "2026-10-02T23:06:41.238Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "cWW74QHHGOUap_S5beUWqHtIJHrqeVC6",
+  "slug": "monica-alicia-huyhua-limachi",
+  "electionId": "erm-2026",
+  "name": "Monica Alicia Huyhua Limachi",
+  "givenNames": "Monica Alicia",
+  "surnames": "Huyhua Limachi",
+  "age": 24,
+  "gender": "Femenino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140121",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:01:44.060Z",
+      "sourceId": "jne-hv-cWW74QHHGOUap_S5beUWqHtIJHrqeVC6"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [
+    {
+      "employer": "BODEGA MONICA",
+      "role": "PROPIETARIA",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "employer": "ADECCO INDUSTRIAL & LOGISTICS S.A. - ADECCO I & L S.A.",
+      "role": "AUXILIAR DE ALMACEN",
+      "from": "2023",
+      "to": "2023"
+    },
+    {
+      "employer": "ADECCO CONSULTING S.A.",
+      "role": "AUXILIAR DE ALMACEN",
+      "from": "2023",
+      "to": "2023"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2024"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 30000,
+        "public": 0,
+        "private": 30000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/89b66864-1b53-4298-a546-fb0b0bd21ada.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/2bed779a-e1d3-42cc-9ca1-458ba4831c59.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Bajo nivel educativo en secundaria, docentes sin actualización pedagógica y ausencia de educación superior en el distrito.",
+            "objective": "Fortalecer capacitación docente en coordinación con la UGEL; gestionar ante PRONIED la construcción de colegio emblemático; implementar Programa Continúa Estudiando Puntanegrino con convenios a institutos tecnológicos.",
+            "goal": "100 docentes capacitados al 2029; al menos 2 convenios con institutos tecnológicos vigentes al 2028.",
+            "indicator": "N° de docentes capacitados por año; N° de convenios firmados con institutos tecnologicos."
+          },
+          {
+            "problem": "Establecimiento de salud sin atención de 24 horas, equipamiento insuficiente y ausencia de servicios especializados.",
+            "objective": "Gestionar ante el MINSA la elevación del puesto de salud a Centro de Salud de primer nivel, con atención las 24 horas, más personal médico y equipamiento; implementar Botica Municipal.",
+            "goal": "Lograr Atención de salud 24 horas al 2028; al menos 3 especialidades nuevas, Botica Municipal operativa al 2029 y realizar 10 campañas médicas.",
+            "indicator": "N° de horas de atención diaria del establecimiento de salud; N° de especialidades disponibles, campañas realizadas."
+          },
+          {
+            "problem": "Inseguridad ciudadana: hurto a personas, violencia familiar, comercio informal y control irregular de espacios públicos.",
+            "objective": "Fortalecer el sistema integrado de seguridad ciudadana mediante patrullaje PNP-Serenazgo, modernización del centro de monitoreo y programas de prevención de violencia familiar.",
+            "goal": "100% de sectores con patrullaje integrado al 2028; reducción del 30% de casos de violencia familiar al 2030.",
+            "indicator": "N° de operativos conjuntos PNP-Serenazgo por mes; N° de casos de violencia familiar atendidos por DEMUNA."
+          },
+          {
+            "problem": "Ausencia de espacios para jóvenes, adultos mayores y personas con discapacidad; servicios insuficientes para grupos vulnerables.",
+            "objective": "Crear la Casa del Adolescente y la Casa del Adulto Mayor; fortalecer OMAPED, CIAM y DEMUNA con mayor presupuesto y personal especializado.",
+            "goal": "Casa del Adolescente y Casa del Adulto Mayor inauguradas al 2028; +200 beneficiarios atendidos al 2030.",
+            "indicator": "N° de beneficiarios de servicios municipales para jóvenes, adultos mayores y PcD."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio informal, cobro ilegal de parqueos en espacios públicos y falta de ejes comerciales ordenados.",
+            "objective": "Fiscalizar el espacio público, erradicar parqueos informales y replantear centros y ejes comerciales distritales con zonificación actualizada.",
+            "goal": "Cero puntos de cobro informal de parqueo al 2028; al menos 1 nuevo eje comercial planificado al 2029.",
+            "indicator": "N° de inspecciones municipales realizadas; N° de nuevas áreas comerciales formalizadas."
+          },
+          {
+            "problem": "Escasa promoción del turismo playero y bajo aprovechamiento del potencial económico de las playas de Punta Negra.",
+            "objective": "Mejorar la infraestructura turística y de servicios en la franja costera, recuperar espacios públicos y promover la inversión privada responsable.",
+            "goal": "Incremento del 20% de visitantes al 2030; 30 nuevos negocios formalizados en zona playera al 2029.",
+            "indicator": "N° de visitantes en temporada de verano; N° de negocios formales en zona de playa."
+          },
+          {
+            "problem": "Limitada conectividad vial y falta de pavimentación que encarece el transporte de bienes y personas.",
+            "objective": "Ejecutar proyectos de pistas y veredas conforme al Plan de Desarrollo Urbano; mejorar la señalización vial y la seguridad del tránsito.",
+            "goal": "Al menos 5 km de vías nuevas o rehabilitadas al 2030; 100% de señalización vial en sectores críticos al 2029.",
+            "indicator": "Km de vias pavimentadas por año; N° de proyectos viales ejecutados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Contaminación ambiental por crecimiento urbano desordenado, industrias no autorizadas y escasa fiscalización.",
+            "objective": "Fortalecer la fiscalización ambiental, actualizar la zonificación distrital y promover desarrollo urbano sostenible con reajuste integral de zonificación.",
+            "goal": "60 fiscalizaciones ambientales anuales al 2028; zonificación actualizada aprobada al 2028.",
+            "indicator": "N° de fiscalizaciones ambientales por trimestre; N° de industrias regularizadas."
+          },
+          {
+            "problem": "Escasez de agua para riego de áreas verdes y deterioro del ornato urbano por salitre y falta de mantenimiento.",
+            "objective": "Firmar convenios con empresas privadas para uso de aguas residuales tratadas en riego; implementar programa Adopta un Parque y xeropaisajismo en zonas altas.",
+            "goal": "100% de parques del Cercado con riego técnico al 2028; 10 convenios Adopta un Parque activos al 2029.",
+            "indicator": "N° de parques mantenidos con agua tratada; N° de convenios vecino-empresa vigentes."
+          },
+          {
+            "problem": "Deficiente gestión de residuos sólidos, baja cultura de reciclaje y puntos críticos de desmonte en vías limítrofes.",
+            "objective": "Implementar sistema de segregación en la fuente con códigos QR, planta de compostaje municipal y Unidad de fiscalización Ambiental con cámaras de foto denuncia.",
+            "goal": "60% de predios participantes al 2029; planta de compostaje operativa al 2028; cero puntos críticos reincidentes al 2030.",
+            "indicator": "% de predios con segregación activa; toneladas de residuos orgánicos compostados por mes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Conflictos por limites distritales no definidos con Punta Hermosa, San Bartolo y Huarochirí que paralizan inversión pública.",
+            "objective": "Gestionar la definición técnica y legal de limites ante el Instituto Metropolitano de planificación y PCM; ejecutar proyectos de inversión en zonas limítrofes.",
+            "goal": "Expediente técnico de delimitación iniciado al 2027; al menos 2 proyectos en zonas limítrofes al 2029.",
+            "indicator": "N° de mesas técnicas de delimitación realizadas; N° de proyectos ejecutados en zonas limítrofes."
+          },
+          {
+            "problem": "Informalidad y superposición de derechos en predios; limitado acceso a servicios básicos por falta de titulación.",
+            "objective": "Implementar Saneamiento físico Legal en zonas sin formalizar en coordinación con COFOPRI; campanas de regularización de predios.",
+            "goal": "500 predios regularizados al 2029; al menos 200 familias con servicios básicos nuevos al 2030.",
+            "indicator": "N° de predios regularizados por ano; N° de familias con acceso a servicios básicos tras saneamiento."
+          },
+          {
+            "problem": "Deficiente información catastral y control urbano",
+            "objective": "Actualizar el catastro distrital y fortalecer la fiscalización urbana",
+            "goal": "Actualizar 100% al 2028",
+            "indicator": "% de catastro actualizado"
+          },
+          {
+            "problem": "Ausencia de tecnología en servicios públicos, procesos sin digitalizar y baja capacidad operativa municipal.",
+            "objective": "Implementar Plataforma Digital Punta Negra en Línea con el 100% de tramites virtualizados, SISGEDO y Sistema de recaudación Tributaria Municipal (SRTM).",
+            "goal": "80% de tramites digitalizados al 2028; 100% al 2030; tiempo de atención reducido en 50%.",
+            "indicator": "% de trámites municipales digitalizados; tiempo promedio de atención al ciudadano."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cWW74QHHGOUap_S5beUWqHtIJHrqeVC6",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cWW74QHHGOUap_S5beUWqHtIJHrqeVC6",
+      "sha256": "ea933694c586564be396d459d2160302b7b1b9127d17001d15cd88095d4cf32d",
+      "accessedAt": "2026-10-02T23:01:44.060Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017043",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017043",
+      "sha256": "f7668b4844615885812afb5ecf7e8513fa083d420d12ab453add4243063be473",
+      "accessedAt": "2026-10-02T23:01:44.562Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

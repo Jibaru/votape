@@ -1,0 +1,326 @@
+{
+  "id": "cifrAZKr2O0YAQ9xJKC8XHLx-fdvuNzT",
+  "slug": "raphael-christian-valencia-diestra",
+  "electionId": "erm-2026",
+  "name": "Raphael Christian Valencia Diestra",
+  "givenNames": "Raphael Christian",
+  "surnames": "Valencia Diestra",
+  "age": 49,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140133",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:59.682Z",
+      "sourceId": "jne-hv-cifrAZKr2O0YAQ9xJKC8XHLx-fdvuNzT"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "ANDRE VESALIO",
+        "program": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "municipalidad de jesus maria",
+      "role": "supervisor locador",
+      "from": "2019",
+      "to": "2020"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO MORADO",
+      "year": "2022"
+    },
+    {
+      "party": "PRIMERO LA GENTE - COMUNIDAD, ECOLOGIA, LIBERTAD Y PROGRESO",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 37200,
+        "public": 0,
+        "private": 37200
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "CHEVROLET TRAVERSE",
+        "value": 12000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "RSAV PROPIEDADES SAC",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/2b0bad7a-9a87-4f8c-8aca-2350e7573f95.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cb5589bd-5a26-4bac-9858-0bff7873663f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Incremento de la inseguridad ciudadana en el distrito.",
+            "objective": "Bajar el porcentaje de inseguridad ciudadana.",
+            "goal": "40%",
+            "indicator": "Reducción del porcentaje de inseguridad ciudadana."
+          },
+          {
+            "problem": "Insuficiente equipamiento de seguridad ciudadana para prevenir la delincuencia.",
+            "objective": "Incrementar el número de equipamiento de seguridad ciudadana.",
+            "goal": "100%",
+            "indicator": "Aumento del Equipamiento de seguridad ciudadana."
+          },
+          {
+            "problem": "Insuficiente número de efectivos de serenazgo.",
+            "objective": "Incrementar el número de efectivos de serenazgo.",
+            "goal": "60%",
+            "indicator": "Aumento del número de serenazgo."
+          },
+          {
+            "problem": "La infraestructura de la central de seguridad ciudadana y videovigilancia es insuficiente para las nueve zonas del distrito.",
+            "objective": "Construcción e implementación de una nueva infraestructura.",
+            "goal": "01",
+            "indicator": "Número de infraestructura."
+          },
+          {
+            "problem": "Los patrullajes integrados son insuficientes para las nueve zonas del distrito.",
+            "objective": "Mayor presencia de los patrullajes integrados en las nueve zonas del distrito.",
+            "goal": "40%",
+            "indicator": "Aumento de porcentaje de patrullaje integrado."
+          },
+          {
+            "problem": "No existe un mapa del delito que integre las denuncias policiales, reporte de serenazgo y alertas vecinales.",
+            "objective": "Creación del mapa del delito integrado.",
+            "goal": "01",
+            "indicator": "Número de mapa de delito integrado."
+          },
+          {
+            "problem": "No existen programas que busquen eliminar la violencia contra la mujer en el distrito.",
+            "objective": "Implementar programas de atención contra la violencia contra la mujer.",
+            "goal": "04",
+            "indicator": "Programas dirigidos a eliminar la violencia contra la mujer."
+          },
+          {
+            "problem": "Problemas de aprendizaje en la comunidad educativa, tanto escolar como después del colegio.",
+            "objective": "Desarrollar programas educativos de reforzamiento escolar y acceso a temas de tecnología y preuniversitaria.",
+            "goal": "04",
+            "indicator": "Número de programas educativos en tecnología y preuniversitario."
+          },
+          {
+            "problem": "Centros educativos con inadecuada infraestructura que pone en riesgo la salud del alumnado.",
+            "objective": "Supervisión de las instalaciones educativas con la UGEL 03.",
+            "goal": "100%",
+            "indicator": "Número de instalaciones educativas supervisadas."
+          },
+          {
+            "problem": "El entorno escolar se ha vuelto inseguro por falta de mantenimiento de señalización, cruces peatonales, control de velocidad, iluminación, limpieza, falta de presencia de serenazgo preventivo y ordenamiento del comercio alrededor de las escuelas.",
+            "objective": "Creación del programa municipal 'Entorno Escolar Seguro'.",
+            "goal": "01",
+            "indicator": "Número de programas creados."
+          },
+          {
+            "problem": "No se ha llegado a ejecutar el proyecto de mejoramiento del centro de salud con equipamiento inadecuado.",
+            "objective": "Fortalecer la ejecución del centro de salud de Jesús María.",
+            "goal": "01",
+            "indicator": "Un mejorado Centro Médico de Salud equipado y con servicios óptimos."
+          },
+          {
+            "problem": "No hay campañas de salud descentralizadas.",
+            "objective": "Vecinos de las nueve zonas del distrito atendidos en campañas de salud descentralizadas.",
+            "goal": "09",
+            "indicator": "Campañas de salud descentralizadas."
+          },
+          {
+            "problem": "En las calles, plazas, avenidas, instituciones públicas o privadas, hay un bajo porcentaje de criterios de accesibilidad universal para las personas con discapacidad.",
+            "objective": "Incorporación obligatoria en todos los proyectos de inversión en el distrito de criterios de accesibilidad universal.",
+            "goal": "80%",
+            "indicator": "Ejecutar proyectos de inversión incluyendo el acceso universal para personas con discapacidad."
+          },
+          {
+            "problem": "No existen mesas de trabajo con representantes del distrito para proyectar y ejecutar políticas educativas municipales.",
+            "objective": "Creación de mesas de trabajo conformados con representantes del distrito para proyectar y ejecutar políticas educativas municipales.",
+            "goal": "01",
+            "indicator": "Número de mesas de trabajo conformados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "El crecimiento económico se ve estancado por falta de capacitación de negocios emprendedores.",
+            "objective": "Capacitar a los emprendedores del distrito en gestión empresarial.",
+            "goal": "100%",
+            "indicator": "Porcentaje de capacitaciones."
+          },
+          {
+            "problem": "El sistema burocrático para solicitar licencias de funcionamiento lleva al crecimiento del comercio informal.",
+            "objective": "Emisión de licencias de funcionamiento en menos de 30 minutos.",
+            "goal": "100%",
+            "indicator": "Porcentaje de licencias."
+          },
+          {
+            "problem": "Los espacios públicos donde se desarrolla el crecimiento comercial están deteriorados.",
+            "objective": "Crear y/o mejorar el espacio público para el desarrollo comercial del distrito.",
+            "goal": "70%",
+            "indicator": "Porcentaje de espacios públicos mejorados."
+          },
+          {
+            "problem": "El comercio ambulatorio o informal viene ganando espacio debido a la falta de fiscalización.",
+            "objective": "Creación del programa 'Yo me formalizo', con campañas de formalización y posterior fiscalización.",
+            "goal": "100%",
+            "indicator": "Porcentaje de comercios formalizado o fiscalizados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Los vecinos no cumplen con el horario para sacar sus residuos sólidos (basura).",
+            "objective": "Lograr que los vecinos cumplan con el horario para sacar su basura.",
+            "goal": "100%",
+            "indicator": "Porcentajes de vecinos que cumplen con sacar su basura en los horarios establecidos."
+          },
+          {
+            "problem": "No hay programas municipales que incentiven el reciclaje en las casas y comercios de los vecinos.",
+            "objective": "Crear programas con el fin que las viviendas y comercios se conviertan en agentes de reciclaje.",
+            "goal": "3",
+            "indicator": "Cantidad de programas municipales."
+          },
+          {
+            "problem": "Existe un bajo número de contenedores en el distrito y sin tecnología.",
+            "objective": "Implementar contenedores semisoterrados y soterrados inteligentes.",
+            "goal": "10 contenedores soterrados y 10 semisoterrados inteligentes.",
+            "indicator": "Contenedores semisoterrados y soterrados inteligentes."
+          },
+          {
+            "problem": "No hay en los espacios públicos puntos de reciclaje efectivos.",
+            "objective": "Instalar Ecopuntos inteligentes en espacios públicos.",
+            "goal": "60%",
+            "indicator": "Porcentaje de espacios públicos con ECOPUNTOS."
+          },
+          {
+            "problem": "Actualmente el Campo de Marte se ha visto desprotegido en su conservación ecológica.",
+            "objective": "Constituir un programa denominado 'Protejamos el Campo de Marte'.",
+            "goal": "1",
+            "indicator": "Número de programas."
+          },
+          {
+            "problem": "Se viene regando las plantas existentes en el distrito con el sistema de cisterna, desperdiciándose grandes cantidades de agua y con el malestar vecinal.",
+            "objective": "Implementar el riego tecnificado por aspersión y sensores de humedad.",
+            "goal": "100%",
+            "indicator": "Porcentajes de parques con el riego por aspersión y sensores de humedad."
+          },
+          {
+            "problem": "La contaminación viene generando daños en la salud de los vecinos.",
+            "objective": "Incrementar la cobertura vegetal en el distrito.",
+            "goal": "1000 árboles sembrados",
+            "indicator": "Cantidad de arborización urbana."
+          },
+          {
+            "problem": "No existe un mapa distrital de contaminación sonora.",
+            "objective": "Creación del mapa distrital de contaminación sonora.",
+            "goal": "1",
+            "indicator": "Número de mapas distritales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "El acceso a los servicios administrativos es muy burocrático.",
+            "objective": "Implementar el sistema integrado de trámites municipales.",
+            "goal": "40%",
+            "indicator": "Porcentaje de procedimientos administrativos integrados."
+          },
+          {
+            "problem": "La atención a los vecinos es muy deficiente.",
+            "objective": "Capacitación a los servidores públicos en atención al ciudadano.",
+            "goal": "100%",
+            "indicator": "Porcentaje de servidores públicos capacitados en calidad de Servicios en el Sector Municipal."
+          },
+          {
+            "problem": "Es nula la accesibilidad digital para personas con alguna discapacidad.",
+            "objective": "Implementar acceso digital para las personas con alguna discapacidad.",
+            "goal": "100%",
+            "indicator": "Porcentaje de accesos digitales."
+          },
+          {
+            "problem": "Deficientes estrategias de comunicación con la ciudadanía.",
+            "objective": "Implementar audiencias vecinales en cada zona del distrito.",
+            "goal": "100%",
+            "indicator": "Porcentaje de número de audiencias por cada zona."
+          },
+          {
+            "problem": "Escasa participación vecinal organizada.",
+            "objective": "Incentivar la participación vecinal organizada.",
+            "goal": "80%",
+            "indicator": "Porcentaje de las organizaciones vecinales y sociales registradas participantes en el proceso de planeamiento anual."
+          },
+          {
+            "problem": "Funcionarios y directivos no idóneos para el ejercicio de la función pública.",
+            "objective": "Designar y evaluar periódicamente a los funcionarios y directivos municipales.",
+            "goal": "100%",
+            "indicator": "Porcentaje de implementación de la Evaluación de Desempeño."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-cifrAZKr2O0YAQ9xJKC8XHLx-fdvuNzT",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/cifrAZKr2O0YAQ9xJKC8XHLx-fdvuNzT",
+      "sha256": "8d4d5da4078d599e07c8bbac3c1863c70f98002c439ae1c79cd8a6de5f2f4de4",
+      "accessedAt": "2026-10-02T22:56:59.682Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015681",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015681",
+      "sha256": "8c4566d9a2a5aa2c5a8e447198a08e4d9c813764ca6b18abcb6943b0548245fb",
+      "accessedAt": "2026-10-02T22:57:00.201Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "_cWbA8-U9jW9LY5TGKHJvrpk-e4xsTiA",
+  "slug": "cesar-augusto-cosiche-tenorio",
+  "electionId": "erm-2026",
+  "name": "Cesar Augusto Cosiche Tenorio",
+  "givenNames": "Cesar Augusto",
+  "surnames": "Cosiche Tenorio",
+  "age": 59,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140106",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:04.539Z",
+      "sourceId": "jne-hv-_cWbA8-U9jW9LY5TGKHJvrpk-e4xsTiA"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "tecnico",
+        "institution": "CETPRO PROMAE RIMAC",
+        "program": "ELECTRICIDAD AUTOMOTRIZ",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "no_universitaria",
+        "institution": "CETPRO GAMOR",
+        "program": "MECANICA AUTOMOTRIZ",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Sector Automotriz - Corporación Cosiche SAC",
+      "role": "Gerente",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PARTIDO POLÍTICO PARTIDO NACIONALISTA PERUANO",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36000,
+        "public": 0,
+        "private": 36000
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Corporacion Cosiche SAC",
+        "type": "ACCIONES",
+        "quantity": 860,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/3fcd95e2-1f55-4dca-bce7-fd6c50a84510.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/a7ba0a2f-d0bc-410b-94fc-b51f2c6d55ad.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficientes servicios para la población vulnerable, incluyendo violencia contra la mujer y limitados espacios para adultos mayores.",
+            "objective": "Mejorar la atención social mediante la implementación del Hospital Municipal de Atención Primaria y Centros Integrales para Adultos Mayores.",
+            "goal": "Alcanzar 100,000 beneficiarios directos a través de los Centros Integrales para Adultos Mayores.",
+            "indicator": "Número de beneficiarios directos."
+          },
+          {
+            "problem": "Infraestructura urbana con pistas deterioradas, veredas insuficientes y deficiente accesibilidad.",
+            "objective": "Ejecutar el 'Programa 500 Cuadras' y el 'Plan Veredas Seguras' para lograr una rehabilitación vial integral en el distrito.",
+            "goal": "Rehabilitar un total de 500 cuadras para el año 2030.",
+            "indicator": "Número de cuadras rehabilitadas."
+          },
+          {
+            "problem": "Infraestructura urbana con pistas deterioradas, veredas insuficientes y deficiente accesibilidad.",
+            "objective": "Ejecutar el 'Programa 500 Cuadras' y el 'Plan Veredas Seguras' para la rehabilitación integral de la infraestructura vial del distrito.",
+            "goal": "Lograr que el 80% de las vías se encuentren en buen estado y rehabilitar 500 cuadras para el año 2030.",
+            "indicator": "Porcentaje de vías en buen estado y número de cuadras rehabilitadas."
+          },
+          {
+            "problem": "Violencia contra la mujer, consumo de drogas, déficit de espacios deportivos e insuficientes servicios para adultos mayores.",
+            "objective": "Implementar un Hospital Municipal de Atención Primaria, Escuelas Municipales Tecnológicas y Centros Integrales para Adultos Mayores.",
+            "goal": "Alcanzar 100,000 beneficiarios directos.",
+            "indicator": "Número de beneficiarios directos de programas sociales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Elevada informalidad empresarial y altas tasas de desempleo juvenil en el distrito.",
+            "objective": "Fomentar la empleabilidad y la formalización de negocios mediante la creación de un Centro de Innovación Empresarial, un Mercado Digital y una Bolsa Laboral Metropolitana.",
+            "goal": "Promover 20,000 empleos y oportunidades laborales para el año 2030.",
+            "indicator": "Número de empleos y oportunidades laborales promovidas."
+          },
+          {
+            "problem": "Alta informalidad empresarial, elevado desempleo juvenil y escasa innovación productiva.",
+            "objective": "Fomentar la competitividad y el empleo formal a través del Centro de Innovación Empresarial, el Mercado Digital Comas y la Bolsa Laboral Metropolitana.",
+            "goal": "Promover la creación de 20,000 empleos para el año 2030.",
+            "indicator": "Número de empleos promovidos."
+          },
+          {
+            "problem": "Escasa innovación productiva y una débil articulación con el sector privado.",
+            "objective": "Impulsar el desarrollo económico a través de la innovación, el emprendimiento y la mejora de la conectividad regional.",
+            "goal": "Invertir 40 millones de soles en proyectos de desarrollo económico.",
+            "indicator": "Inversión en proyectos de desarrollo económico."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Alta generación y acumulación de residuos sólidos en el distrito.",
+            "objective": "Implementar un sistema de 'Gestión Inteligente de Residuos' para mejorar la limpieza pública y el manejo de desechos.",
+            "goal": "Invertir 55 millones de soles en proyectos de gestión ambiental.",
+            "indicator": "Inversión en proyectos de gestión ambiental."
+          },
+          {
+            "problem": "Escasez de áreas verdes, arborización insuficiente y acumulación de residuos sólidos en el distrito.",
+            "objective": "Incrementar la cobertura vegetal y mejorar la gestión ambiental mediante el 'Programa 100 Mil Árboles', la recuperación de parques y la gestión inteligente de residuos.",
+            "goal": "Incrementar en un 40% las áreas verdes y plantar 100,000 árboles para el año 2030.",
+            "indicator": "Porcentaje de incremento de áreas verdes y número de árboles plantados."
+          },
+          {
+            "problem": "Déficit de áreas verdes y ocupación informal de espacios públicos.",
+            "objective": "Incrementar la cobertura vegetal y recuperar espacios públicos a través del 'Programa 100 Mil Árboles' y la 'Recuperación de Parques'.",
+            "goal": "Incrementar en un 40% las áreas verdes y plantar 100,000 árboles para el año 2030.",
+            "indicator": "Porcentaje de incremento de áreas verdes y número de árboles plantados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Altos índices de delincuencia, robos, extorsión y microcomercialización de drogas que generan una elevada percepción de inseguridad.",
+            "objective": "Reducir significativamente la delincuencia mediante la implementación de un Centro Integral de Seguridad Ciudadana, una red de cámaras inteligentes y el fortalecimiento del serenazgo.",
+            "goal": "Reducir en un 40% los delitos denunciados e instalar 1,000 cámaras inteligentes para el año 2030.",
+            "indicator": "Porcentaje de reducción de delitos de alto impacto y número de cámaras de vigilancia instaladas."
+          },
+          {
+            "problem": "Gestión municipal percibida como poco eficiente y con limitada transparencia en sus procesos.",
+            "objective": "Modernizar la administración municipal mediante la implementación de la 'Municipalidad Digital' y una 'Plataforma Ciudadana 24/7'.",
+            "goal": "Lograr la digitalización del 100% de los trámites municipales para el año 2030.",
+            "indicator": "Porcentaje de trámites municipales digitalizados."
+          },
+          {
+            "problem": "Débil articulación institucional y capacidad tecnológica limitada para la videovigilancia y el patrullaje preventivo.",
+            "objective": "Fortalecer la capacidad operativa de la seguridad ciudadana mediante la implementación de una 'Red de Cámaras Inteligentes' y un 'Serenazgo Moderno'.",
+            "goal": "Instalar 1,000 cámaras inteligentes para el año 2030.",
+            "indicator": "Número de cámaras inteligentes instaladas."
+          },
+          {
+            "problem": "Gestión municipal percibida como poco eficiente y con bajos niveles de transparencia y modernización.",
+            "objective": "Implementar un gobierno digital y transparente a través de la 'Municipalidad Digital' y la 'Plataforma Ciudadana 24/7'.",
+            "goal": "Lograr la digitalización del 100% de los trámites municipales para el año 2030.",
+            "indicator": "Porcentaje de trámites digitalizados."
+          },
+          {
+            "problem": "Elevados índices de inseguridad ciudadana, incluyendo delincuencia organizada, extorsión y microcomercialización de drogas.",
+            "objective": "Reducir significativamente la delincuencia en el distrito a través de un enfoque integral de seguridad.",
+            "goal": "Reducir en un 40% los delitos denunciados para el año 2030.",
+            "indicator": "Porcentaje de reducción de delitos denunciados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-_cWbA8-U9jW9LY5TGKHJvrpk-e4xsTiA",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/_cWbA8-U9jW9LY5TGKHJvrpk-e4xsTiA",
+      "sha256": "16e434d6fb6081f164e2695658c38e5f8227da2ec769559c4ad6e99d63b93d31",
+      "accessedAt": "2026-10-02T22:55:04.539Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015970",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015970",
+      "sha256": "a203680d9ab4d02baa76e0a015f6e37a0389b6f11e8f35363b116ca3400e4dbb",
+      "accessedAt": "2026-10-02T22:55:05.051Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

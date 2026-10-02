@@ -1,0 +1,235 @@
+{
+  "id": "1p-J8a0SHLnp4Fxf4fzpB1gXG1N-NFh4",
+  "slug": "ricardo-fidel-castro-sierra",
+  "electionId": "erm-2026",
+  "name": "Ricardo Fidel Castro Sierra",
+  "givenNames": "Ricardo Fidel",
+  "surnames": "Castro Sierra",
+  "age": 66,
+  "gender": "Masculino",
+  "party": {
+    "id": 14,
+    "name": "PARTIDO DEMOCRATICO SOMOS PERU"
+  },
+  "jurisdictionId": "140138",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:25.648Z",
+      "sourceId": "jne-hv-1p-J8a0SHLnp4Fxf4fzpB1gXG1N-NFh4"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "CONTADOR PUBLICO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1991"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Federico Villarreal",
+        "program": "BACHILLER EN CONTABILIDAD",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1989"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "PERSONA NATURAL",
+      "role": "PROPIETARIO",
+      "from": "2005",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "ALCALDE DISTRITAL",
+      "party": "CAMBIO RADICAL",
+      "from": "2011",
+      "to": "2014"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "PRESIDENTE",
+      "party": "PROGRESA CON SAN LUIS",
+      "from": "2005",
+      "to": "2007"
+    },
+    {
+      "position": "FUNDADOR",
+      "party": "PROGRESA CON SAN LUIS",
+      "from": "2005",
+      "to": "2007"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "CAMBIO RADICAL",
+      "year": "2012"
+    },
+    {
+      "party": "PROGRESA CON SAN LUIS",
+      "year": "2007"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 231977,
+        "public": 0,
+        "private": 231977
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "PRIMER DISTRITO - PROPIEDADES",
+        "value": 2200000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "PREDIO",
+        "value": 74200,
+        "registeredInSunarp": false
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 201000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 393000,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "CAMIONETA",
+        "value": 12000
+      },
+      {
+        "type": "DESCONOZCO",
+        "value": 0
+      },
+      {
+        "type": "CAMIONETA",
+        "value": 100000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "CAMEX SRL",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 100
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8d4a21c3-aa56-48c3-8c2e-1d1f22fae896.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/bd178805-0d04-4b54-ba15-bd034a1bbf20.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana que desalienta el desarrollo económico",
+            "objective": "Mejorar las estrategias y acciones de seguridad ciudadana en forma integral e integradora, con participación de todos los sectores e instituciones para desarrollar políticas preventivas y sostenibles, acciones disuasivas, intervenir en la comisión de delitos y reducir la sensación de inseguridad",
+            "goal": "Implementar el SISTEMA DE SEGURIDAD CIUDADANA INTEGRAL Y TECNOLOGICA Fortalecer, incrementar y capacitar a las Juntas Vecinales de Seguridad Ciudadana Formular el Plan Distrital de Seguridad Ciudadana con participación de instituciones y entidades especializadas Gestionar el incremento de una mayor dotación policial por cada comisaría. Programa de Repotenciación de PARMET Programa de Adquisición y Repotenciamiento del Parque Vehicular para el Patrullaje Contratación de mayor cantidad de Serenos. Establecer y fortalecer alianzas interinstitucionales Regular la venta de alcohol, desarrollar Programa Alcohol Cero Operativos integrados con la Policía Nacional del Perú Programa de atención a jóvenes en riesgo Proyecto Seguridad Ciudadana desde el Aire",
+            "indicator": "Nivel de percepción de inseguridad Número de patrullajes realizados Nivel de criminalidad Número de incidencias en mapa del delito"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alto índice de desempleo, desocupación entre jóvenes y mujeres, insuficiente promoción de emprendimientos económicos",
+            "objective": "Promover la competitividad de las micros y pequeñas empresas, el fortalecimiento de una cultura de emprendimiento y de acceso al mercado Promover polos, conglomerados y zonas de desarrollo económico y de empleo a través de la puesta en valor de áreas especiales y un posicionamiento en el mercado en base a la competitividad local",
+            "goal": "Proyecto Plan de Desarrollo Económico Local-PDEL Programa Jóvenes Emprendedores y Exitosos Programa Mujeres Emprendedoras . Proyecto Escuela de Empresarios Proyecto Redes Empresariales Programa Ferias de Desarrollo Empresarial. Programa Puesta en Valor de Centros Económicos de Desarrollo Programa Centros Económicos, Conglomerados y Mercados Seguros Proyecto Licencias de Funcionamiento al Toque. Programa de Formalización del Comercio Ambulatorio Proyecto Bolsa de Trabajo Para Todos",
+            "indicator": "Nivel de empleo en PEA Número de emprendedores capacitados Número de ferias realizadas Número de centros económicos, conglomerados y mercados puestos en valor Número de licencias de funcionamiento entregadas Número de puestos de trabajo colocados"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Incremento de la contaminación en el aire Descuido de áreas verdes Bajo nivel de educación ambiental Sistema de recolección de residuos sólidos deficiente Escasa conciencia sobre el cambio climático",
+            "objective": "Promover una gestión integral, sostenible y sustentable del ambiente para minimizar el impacto ambiental y desarrollando una cultura ambiental y de responsabilidad social con el cambio climático Promover una cultura de ciudadanía saludable mediante la implementación de un sistema de salud preventiva para reducir los factores que afectan la salud y calidad de vida",
+            "goal": "Programa Recuperemos Comas Siempre Limpia Proyecto de elaboración del Plan Integral de Gestión Ambiental de Residuos Sólidos-PIGARS Formalización y capacitación de los recicladores de residuos sólidos Proyecto Maquinarias para Eliminación de Desmontes Proyecto Maquinarias para Riego de Áreas Verdes Proyecto Riegos Tecnificados para una Vida Saludable Programa Vigilancia para una Ciudad Limpia Campaña permanente de cumplimiento de la normatividad de protección ambiental Programa de Escuelas Saludables Programa Mercados Saludables Programa de segregación en la fuente Proyecto Plan Distrital de Salud Centro Municipal de Atención a la salud Campaña más infraestructura para una mejor salud Programa Vida Saludable para Todos Proyecto Promotoras Saludables Programa Prevención de Embarazo Adolescente Incorporar a la Municipalidad al movimiento de ciudades saludables. Programa Por una Vida Sana para Todos Campaña de prevención en salud mental Proyecto Atención al Adicto Promover una cultura de Trabajadores Saludables",
+            "indicator": "Número de toneladas de recolección de residuos sólidos Número de capacitación a recicladores Número de áreas verdes recuperadas Número de atenciones a adictos, salud mental, prestaciones de salud"
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Corrupción Retraso en los procesos administrativos Falta de transparencia de gestión Falta de Fiscalización de la Administración Municipal Documentos de gestión",
+            "objective": "Erradicar el soborno en los procedimientos de atención al ciudadano Promover la simplificación administrativa Se brinde al vecino y usuario, por medio de la Pagina Web de la Municipalidad todo lo concerniente a la gestión municipal. Fiscalizar la eficiencia y eficacia en la gestión Revisar y actualizar los existentes",
+            "goal": "Implementar la ética del servidor público y fortalecer el espíritu fiscalizador ciudadano, para que desaparezcan las actitudes permisivas hacia servidores de carrera, los contratados y los de confianza. Revisión e implementación de reducir los tiempos en la todas las gestiones que deben realizar los vecinos principalmente en el requerimiento de las Licencias de funcionamiento evitando trabas a la inversión local. Se tendrá cobertura actualizada de las normas y actos relevantes de la gestión y demás actividades organizadas y realizadas por la municipalidad, así como la convocatoria pública de las Sesiones de Concejo Municipal con la correspondiente anticipación, buscando la participación del vecino. Acciones de control interno y externas que se solicitaran a los órganos de control del estado a efectos que se evalúen las acciones de la administración demostrando c honestidad en la dirección de los destinos públicos del distrito Variar la estructura organizacional de la Municipalidad, a fin de determinar la duplicidad de funciones y procesos burocráticos buscando eliminarlas agilizando los trámites administrativos. Buscando además elevar la calidad de los procesos con la capacitación de servidores municipales. Implementar la ética del servidor público y fortalecer el espíritu fiscalizador ciudadano, para que desaparezcan las actitudes permisivas hacia servidores de carrera, los contratados y los de confianza.",
+            "indicator": "Quejas constantes de vecinos Quejas constantes de vecinos Quejas constantes de vecinos Quejas constantes de vecinos Quejas constantes de vecinos"
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-138445",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: CONTRACTUAL",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "CONTRACTUAL",
+        "juzgado": "JUZGADO CIVIL COMERCIAL",
+        "expediente": "1030-2014",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "CONTRACTUAL",
+      "sourceIds": [
+        "jne-hv-1p-J8a0SHLnp4Fxf4fzpB1gXG1N-NFh4"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-1p-J8a0SHLnp4Fxf4fzpB1gXG1N-NFh4",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/1p-J8a0SHLnp4Fxf4fzpB1gXG1N-NFh4",
+      "sha256": "dbc249d6d57a416c40dc4adb9a2546c31dcb7617d3dfdd323ab32a92f5c7b238",
+      "accessedAt": "2026-10-02T23:04:25.648Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026015101",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026015101",
+      "sha256": "4477edc820729fe1fbf09ec2348f781de3d2a25c4af7c6d982c9c7826885436b",
+      "accessedAt": "2026-10-02T23:04:26.186Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

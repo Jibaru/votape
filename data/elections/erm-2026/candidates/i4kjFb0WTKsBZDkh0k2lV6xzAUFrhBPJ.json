@@ -1,0 +1,254 @@
+{
+  "id": "i4kjFb0WTKsBZDkh0k2lV6xzAUFrhBPJ",
+  "slug": "diego-armando-lopez-jara",
+  "electionId": "erm-2026",
+  "name": "Diego Armando Lopez Jara",
+  "givenNames": "Diego Armando",
+  "surnames": "Lopez Jara",
+  "age": 36,
+  "gender": "Masculino",
+  "party": {
+    "id": 2731,
+    "name": "PODEMOS PERU"
+  },
+  "jurisdictionId": "140126",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:04:59.031Z",
+      "sourceId": "jne-hv-i4kjFb0WTKsBZDkh0k2lV6xzAUFrhBPJ"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDA DE CIENCIAS APLICADAS",
+        "program": "DERECHO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "A-23 PROYECTISTAS S.A.C.",
+      "role": "GERENTE GENERAL",
+      "from": "2012",
+      "to": "2026"
+    },
+    {
+      "employer": "INMOBILIARIA CONSTRUCTORA JJR S.A.C.",
+      "role": "ASISTENTE",
+      "from": "2011",
+      "to": "2016"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "PODEMOS PERU",
+      "from": "2022",
+      "to": "2026"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 116994,
+        "public": 41724,
+        "private": 75270
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 221320.5,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 64597.28,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "A-23 PROYECTISTAS S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 53740,
+        "value": 53740
+      },
+      {
+        "company": "CONSORCIO INMOBILIARIO LOPEZ S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 1000,
+        "value": 1000
+      },
+      {
+        "company": "CLTEL S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 5400,
+        "value": 5400
+      },
+      {
+        "company": "FUNDACION DIEGO LOPEZ",
+        "type": "ACCIONES",
+        "quantity": 10000,
+        "value": 10000
+      },
+      {
+        "company": "H&L TELECOMUNICACIONES S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 2500,
+        "value": 2500
+      },
+      {
+        "company": "GRUPO CORPORATIVO JD S.A.C",
+        "type": "ACCIONES",
+        "quantity": 10000,
+        "value": 10000
+      },
+      {
+        "company": "INVERSIONES 3 ALFAS S.A.C",
+        "type": "ACCIONES",
+        "quantity": 300,
+        "value": 300
+      }
+    ]
+  },
+  "additionalInfo": [
+    "Las personas jurídicas consignadas corresponden a antecedentes registrales; sin embargo, a la fecha se encuentran con baja de oficio o inactivas, siendo A-23 PROYECTISTAS S.A.C. y GRUPO CORPORATIVO JD S.A.C. son las únicas empresas con condición activa y operativa."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/02768174-8d7e-41a0-87aa-84218070525b.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/b5f9ff1f-432d-4cf1-b5cc-ec330b219cd0.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "En los últimos 3 años, la ola de violencia, extorsión, los cupos y criminalidad ha aumentado el distrito de San Martín de Porres, se ha convertido en uno de los más peligrosos de Lima Metropolitana.",
+            "objective": "Lucha contra la inseguridad ciudadana. Implementar seguridad digital para automatizar los reportes de serenazgos y policías desde los puntos críticos basados en contrainteligencia y aplicación de la Inteligencia Artificial.",
+            "goal": "Implementación del programa I.A. Seguridad pública \"ARGOS\" para automatizar procedimientos en tiempo real, plan \"Barrio Seguro\" y adquisición de drones y cámaras con lector facial mediante el programa \"San Martín de Porres +Seguridad +Vida\".",
+            "indicator": "Número de programas tecnológicos de seguridad activos y porcentaje de zonas críticas monitoreadas con I.A."
+          },
+          {
+            "problem": "Presencia de anemia infantil en menores de 6 años y madres gestantes, colapso del sistema de salud para el tratamiento oncológico, y falta de infraestructura pública adaptada para personas con discapacidad.",
+            "objective": "Garantizar cirugías y tratamiento de oncología en Lima Norte. Optimizar el Programa del Vaso de Leche y diseñar programas de políticas públicas para personas con discapacidad siguiendo la Ley N° 29973.",
+            "goal": "Construcción de un Hospital de Nivel III (alta complejidad/ oncología), Policlínico Municipal y Botica del Pueblo. Ejecución del programa \"Anemia Cero\" (estudios físico-biológicos) e implementación de la OMAPED SMP con semáforos sonoros y rampas.",
+            "indicator": "Hospital construido, porcentaje de cobertura total, de beneficiarios del PVL y número de infraestructuras públicas adaptadas."
+          },
+          {
+            "problem": "Reporte aproximado de 5,000 casos anuales de denuncias policiales y en los Centros de Emergencia de la Mujer (CEM) ante cifras alarmantes de violencia contra la mujer en situación de riesgo.",
+            "objective": "Diseñar protocolos de intervención y gestión de riesgos orientados a proteger la salud y seguridad de mujeres en situación de riesgo y vulnerabilidad. Implementar uso de armas no letales ante situaciones de riesgo para el serenazgo.",
+            "goal": "Implementación del aplicativo \"Amara\" para prevenir y reportar denuncias de violencia contra la mujer en tiempo real (Ley N°30364) y despliegue del programa \"Patrulla Ámbar\" para verificar el cumplimiento de órdenes de alejamiento.",
+            "indicator": "Porcentaje de personal de serenazgo capacitado en herramientas de defensa y aplicativos de reporte de violencia en tiempo real implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Necesidad de desarrollo empresarial, falta de digitalización y conectividad de las pequeñas y medianas empresas locales con su público objetivo, y obligatoriedad de certificados de Defensa Civil.",
+            "objective": "Promover el desarrollo empresarial, la creación de Startups y la automatización/ digitalización de las empresas locales facilitando la emisión descentralizada de licencias de funcionamiento.",
+            "goal": "Digitalización masiva de empresas locales, simplificación y flexibilización en cuanto a los procesos administrativos, licencias ágiles y certificaciones de Defensa Civil para las Pymes en las agencias municipales.",
+            "indicator": "Porcentaje de Pymes y emprendimientos locales con procesos automatizados y herramientas digitales integradas."
+          },
+          {
+            "problem": "Brecha digital en la inserción de estudiantes a nuevas tecnologías y desaprovechamiento de alianzas estratégicas bajo la triangulación entre sociedad, Estado e inversión privada (Modelo de Triple Hélice).",
+            "objective": "Generar un ecosistema de conocimiento productividad innovación para la inserción de estudiantes a tecnologías de información, promoviendo financiamientos por Obras por Impuestos (OxI) y APP.",
+            "goal": "Creación de la Casa del Talento Sanmartiniano, fortalecimiento de un CETPRO especializado en analítica de datos, ciencia de datos y startups. Programa de Becas Digitales para alumnos con promedio mayor a 15 y alianzas con PRODUCE y UNALM.",
+            "indicator": "Número de jóvenes beneficiados con educación técnica digital y volumen de inversión captada mediante OxI y APP."
+          },
+          {
+            "problem": "Fuerte incidencia de comercio ambulatorio en una ciudad con riesgo de sismo y terremoto, donde es clave encontrar vías seguras y auxiliares para ponerse a buen recaudo y primar el derecho a la ciudad.",
+            "objective": "Establecer un proyecto de planificación urbana orientado a zona comercial promoviendo la formalización progresiva de los ambulantes.",
+            "goal": "Formalización progresiva de los ambulantes, creación de mercados municipales con alquiler a bajo costo, capacitación obligatoria en finanzas personales por 60 días y renovación de autorizaciones cada dos años.",
+            "indicator": "Número de comerciantes informales formalizados e integrados en infraestructura comercial segura."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Incremento del problema de contaminación ambiental de residuos sólidos debido a la alta densidad poblacional, convirtiéndose en un caso de salud pública que afecta a los ciudadanos.",
+            "objective": "Implementar programas de políticas transversales de economía circular que integren actores privados, asociaciones de recicladores, centros educativos y el esquema público - privado.",
+            "goal": "Creación del programa \"Ciudad Próspera\" (empresa social en alianza con recicladores para tratamiento y aprovechamiento de residuos) y creación de una empresa municipal para producir adoquines utilizando restos de la construcción para veredas.",
+            "indicator": "Establecimiento formal de empresas sociales de residuos y volumen de adoquines reciclados producidos para obras."
+          },
+          {
+            "problem": "Pérdida de áreas verdes, déficit de espacios públicos seguros para la familia y elevados índices de contaminación ambiental y sonora en el distrito.",
+            "objective": "Diseñar un desarrollo sostenible para la ciudad a través de un plan maestro denominado \"Programa Sanmartiniano con Paz\" para la recuperación y regeneración ambiental urbana.",
+            "goal": "Siembra de 3 millones de árboles a través del programa \"Te quiero Verde San Martín de Porres\" para reducir la sensación térmica y recuperación de áreas verdes mediante la implementación de proyectos de jardines verticales.",
+            "indicator": "Cantidad de árboles plantados en el distrito y metros cuadrados de áreas verdes recuperadas o jardines verticales urbanos implementados."
+          },
+          {
+            "problem": "Falta de cultura ambiental ciudadana respecto al manejo, clasificación, segregación y tratamiento integral de los residuos sólidos urbanos.",
+            "objective": "Promover una cultura ambiental con respecto al manejo de los residuos sólidos, implementando educación ecológica en los centros educativos y empresas de la jurisdicción.",
+            "goal": "100% de cobertura escolar mediante el programa \"Jóvenes solidarios por la vida\", capacitando con ingenieros ambientales sobre la clasificación de residuos y generación de compost orgánico en escuelas y empresas.",
+            "indicator": "Porcentaje de colegios públicos que adoptan programas activos de segregación y capacitación en tratamiento de residuos."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Congestión vehicular y tráfico en las principales vías, como la Avenida Perú, que genera pérdidas diarias de entre 1 a 4 horas al día a los sanmartinianos en horarios laborales.",
+            "objective": "Implementación de un programa de Smart City para reducir el tráfico en el distrito mediante infraestructura digital, movilidad digital y centralización inteligente del tránsito.",
+            "goal": "Despliegue del programa \"Smart City +Sanmartiniano\", el cual implementa un observatorio de tráfico, infraestructura digital, semaforización automatizada y un plan integral de seguridad vial para reducir puntos críticos.",
+            "indicator": "Sistemas de semaforización automatizados instalados y puesta en marcha del monitoreo analítico del transporte."
+          },
+          {
+            "problem": "Limitaciones presupuestales e institucionales de la municipalidad distrital para intervenir directamente sobre infraestructura vial metropolitana de gran envergadura (Avenidas principales).",
+            "objective": "Solicitar transferencias de funciones a la Municipalidad Metropolitana de Lima, amparados en el Art. 159 y 161 de la Ley Orgánica de Municipalidades N°27972 para la ejecución de infraestructura vial.",
+            "goal": "Gestión y ejecución para la construcción de 2 bypass en la avenida Perú, un corredor de segundo piso al lado del río Chillón y puesta en marcha del \"Programa: 33 km de pistas asfaltadas\" financiado por Obras por Impuestos.",
+            "indicator": "Convenios de delegación de funciones suscritos y kilómetros de vías asfaltadas ejecutadas mediante mecanismos de financiamiento (APP y OxI)."
+          },
+          {
+            "problem": "Necesidad de modernización y transformación digital de los procedimientos administrativos, lucha frontal contra la corrupción y elevación de los índices de transparencia municipal.",
+            "objective": "Reconfigurar la arquitectura municipal hacia un modelo moderno, transparente, digital y con un enfoque eficiente de Gestión por Resultados, rompiendo jerarquías rígidas a una lógica horizontal.",
+            "goal": "Lanzamiento del programa \"San Martín de Porres Digital\" (procesos automatizados de trámites en los primeros 100 días). Acceso libre al Portal de Transparencia, creación de la UGP Sanmartiniano en Paz y un Tablero de Control (sistema MIS) en tiempo real.",
+            "indicator": "Trámites administrativos automatizados implementados, habilitación de un tablero de control (MIS) y cabildos abiertos vecinales realizados."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-i4kjFb0WTKsBZDkh0k2lV6xzAUFrhBPJ",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/i4kjFb0WTKsBZDkh0k2lV6xzAUFrhBPJ",
+      "sha256": "583369d9a1887da8d0c2d8a946891e8bd9190ed6bcbdd527d3a239e8b48d2515",
+      "accessedAt": "2026-10-02T23:04:59.031Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026017077",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026017077",
+      "sha256": "4f234670d6ece404ce571bc78281bef01073faf58c9e17ed100c4981c9b97c13",
+      "accessedAt": "2026-10-02T23:04:59.521Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

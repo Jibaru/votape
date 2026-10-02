@@ -1,0 +1,187 @@
+{
+  "id": "CoYLO9vfEhuUiSRcfQpwsfT4NpL_hW2e",
+  "slug": "maria-luisa-meneses-martinez",
+  "electionId": "erm-2026",
+  "name": "Maria Luisa Meneses Martinez",
+  "givenNames": "Maria Luisa",
+  "surnames": "Meneses Martinez",
+  "age": 53,
+  "gender": "Femenino",
+  "party": {
+    "id": 2895,
+    "name": "PARTIDO DEMOCRATA VERDE"
+  },
+  "jurisdictionId": "140130",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T23:06:02.927Z",
+      "sourceId": "jne-hv-CoYLO9vfEhuUiSRcfQpwsfT4NpL_hW2e"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": []
+  },
+  "work": [],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 0,
+        "public": 0,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/09696622-b077-41db-a177-f0f26bcc2ae7.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/11e3429b-a666-47ea-9731-7d2dd2ee08bd.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Altos grados de inseguridad ciudadana percibidos por los vecinos como el principal problema del distrito.",
+            "objective": "Crear la Escuela de Serenazgo, contratar efectivos policiales, gestionar el alumbrado público y formular un nuevo plan estratégico de Seguridad Ciudadana integral con participación de la comunidad, la policía nacional y el serenazgo.",
+            "goal": "Adquirir 500 cámaras de videovigilancia con inteligencia artificial, contratar efectivos policiales y serenos para cubrir módulos de atención, alcanzar el 100% de alumbrado público y reducir sustancialmente el índice de delincuencia en el distrito.",
+            "indicator": "Capacitación de serenos para un servicio de calidad, reducción de la delincuencia en zonas críticas, incremento del número de calles con alumbrado público y aumento de operativos para combatir la venta de drogas y licores."
+          },
+          {
+            "problem": "Acceso limitado a servicios de salud de calidad en el distrito, afectando la atención oportuna de la población.",
+            "objective": "Reducir la desnutrición crónica infantil, fortalecer el servicio de atención primaria, programar consultas para el adulto mayor, promover estilos de vida saludables y mejorar el sistema de recojo de residuos sólidos.",
+            "goal": "Disminuir en un 95% la desnutrición infantil, lograr que el 95% de la población tenga acceso a la atención primaria de salud, cumplir con el 100% de atención al adulto mayor y ejecutar 24 campañas anuales.",
+            "indicator": "Porcentaje de desnutrición infantil, porcentaje de población con acceso a atención primaria en salud, porcentaje de programas y consultas para el adulto mayor, y número de campañas de salud ejecutadas."
+          },
+          {
+            "problem": "Deficiencia en los tiempos de respuesta del sistema de atención médica de emergencia municipal y falta de preparación del sistema de salud local ante el riesgo de nuevas epidemias.",
+            "objective": "Implementar un servicio de ambulancia municipal continuo (24/7) con personal altamente capacitado y fortalecer la capacidad de respuesta del distrito mediante un protocolo epidemiológico preventivo.",
+            "goal": "Para el año 2030, consolidar el sistema con un tiempo de respuesta óptimo menor a 10 minutos y el 100% del personal médico municipal certificado en alta respuesta pandémica.",
+            "indicator": "Tiempo promedio de respuesta de la ambulancia municipal, porcentaje de personal de primera respuesta y salud certificado en protocolos de bioseguridad y manejo de pandemias."
+          },
+          {
+            "problem": "Escasez de oportunidades laborales formales y sostenibles para personas con habilidades diferentes, junto a una insuficiente oferta de infraestructura pública para talleres ocupacionales.",
+            "objective": "Crear la Red Municipal de Talleres Ocupacionales Inclusivos para capacitar técnicamente a personas con habilidades diferentes y promover su inserción laboral a través de incentivos municipales a empresas.",
+            "goal": "Para el año 2030, lograr que el 100% de las empresas medianas y grandes del distrito cuenten con incentivos fiscales por contratar egresados del programa, alcanzando un acumulado histórico de inserción sostenible.",
+            "indicator": "Número de personas con habilidades diferentes egresadas de los talleres municipales e insertadas en puestos de trabajo formales, y cantidad de convenios firmados entre la municipalidad y empresas privadas."
+          },
+          {
+            "problem": "Déficit de infraestructura pública accesible de cuidado infantil temprano, lo que limita la inserción laboral y el desarrollo económico de madres y padres trabajadores del distrito.",
+            "objective": "Construir, implementar y consolidar una Cuna Municipal Verde como modelo piloto referente, con infraestructura eco-eficiente, bio-huerto institucional y soporte multidisciplinario con horarios flexibles.",
+            "goal": "Para el año 2030, realizar la evaluación técnica de impacto y sostenibilidad del proyecto piloto, logrando un 95% de satisfacción familiar y dejando la base estructurada para futuras réplicas del modelo.",
+            "indicator": "Porcentaje de avance en la construcción, equipamiento y operación de la Cuna Municipal Verde Piloto, y número de niños de la primera infancia de familias trabajadoras atendidos."
+          },
+          {
+            "problem": "Altos costos operativos y excesivo consumo de agua y energía en las instalaciones recreativas tradicionales del distrito, limitando la sostenibilidad financiera de la municipalidad.",
+            "objective": "Construir e implementar el primer Complejo Acuático Municipal Verde como modelo piloto, utilizando sistemas de climatización por paneles solares y filtros eco-eficientes para reducir el gasto de recursos.",
+            "goal": "Para el año 2030, consolidar la operación del complejo alcanzando su máxima capacidad de atención y certificar un ahorro del 60% en consumo energético, validando el modelo para futuras réplicas.",
+            "indicator": "Porcentaje de avance en el diseño y construcción del complejo, número de adultos mayores y vecinos atendidos en programas de salud, y porcentaje de ahorro en costos de energía y agua."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Altos índices de informalidad laboral y dificultades de conexión comercial para trabajadores independientes, técnicos y microempresarios locales, además de contaminación visual por publicidad informal.",
+            "objective": "Diseñar, implementar y consolidar la plataforma digital y aplicativo móvil 'Surco Verde Conectado' para registrar, auditar y conectar de manera gratuita y segura a los trabajadores independientes, promoviendo la formalización.",
+            "goal": "Para el año 2030, lograr que la plataforma sea el principal canal de servicios técnicos del distrito con un 90% de aprobación en seguridad ciudadana, dejando un modelo económico-tecnológico autosostenible.",
+            "indicator": "Porcentaje de desarrollo de la plataforma digital y aplicativo móvil, y número de trabajadores independientes formalizados, auditados e integrados activamente en la plataforma."
+          },
+          {
+            "problem": "Estancamiento de la modernización de los mercados tradicionales debido a la falta de capital de las asociaciones y la ausencia de un marco legal municipal que facilite las inversiones compartidas.",
+            "objective": "Implementar un programa de articulación y co-gestión entre la municipalidad, las asociaciones de mercados y la inversión privada, orientado a la modernización estructural de los mercados existentes.",
+            "goal": "Para el año 2030, poner en marcha el mercado moderno co-gestionado, activando una nueva fuente de recaudación directa para la comuna y validando el modelo como política pública para el resto de mercados del distrito.",
+            "indicator": "Número de mesas de trabajo y convenios estratégicos tripartitos, cantidad de puestos nuevos de propiedad municipal generados y porcentaje de incremento en la recaudación municipal."
+          },
+          {
+            "problem": "Alto índice de microemprendimientos locales que operan en la informalidad o con conocimiento limitado en gestión de negocios, frenando su crecimiento y reduciendo la base de recaudación tributaria.",
+            "objective": "Implementar programas permanentes de capacitación técnica, administración y herramientas digitales para emprendedores locales, orientados a promover su formalización voluntaria y el uso de plataformas municipales.",
+            "goal": "Para el año 2030, consolidar un ecosistema comercial surcano formal, competitivo y ordenado, con un programa que se autosostiene gracias al incremento de la recaudación por nuevas licencias y arbitrios.",
+            "indicator": "Número de emprendedores y comerciantes locales capacitados, número de nuevas licencias emitidas y comercios regularizados, y frecuencia de ferias comerciales organizadas."
+          },
+          {
+            "problem": "Falta de un plan estratégico actualizado que articule el crecimiento empresarial con una recaudación municipal eficiente, generando trabas burocráticas que limitan la competitividad.",
+            "objective": "Diseñar e implementar el Plan Estratégico de Desarrollo Económico Sostenible 2027-2030, optimizando los procesos administrativos y estableciendo un equilibrio entre la flexibilidad promotora y la firmeza en el control urbano.",
+            "goal": "Para el año 2030, consolidar a Surco como un distrito con alta competitividad económica y predictibilidad jurídica, logrando un equilibrio óptimo donde el municipio recauda de forma eficiente y sostenible.",
+            "indicator": "Porcentaje de diseño e implementación del Plan Estratégico, índice de efectividad en la recaudación municipal y porcentaje de reducción de quejas por trabas administrativas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Desactualización progresiva del catastro urbano municipal y del Plan de Desarrollo Urbano, lo que genera informalidad inmobiliaria, evasión tributaria y dificulta la planificación ordenada por sectores.",
+            "objective": "Actualizar de manera técnica y progresiva el Plan de Desarrollo Urbano y el catastro municipal para sincerar la base tributaria, e incrementar la recaudación para ejecutar programas de mantenimiento vial y peatonal.",
+            "goal": "Para el año 2030, lograr la consolidación de un distrito ordenado con un 80% de su catastro urbano totalmente modernizado y digitalizado, y una gestión de infraestructura vial sostenible.",
+            "indicator": "Porcentaje de avance físico en la actualización del catastro urbano, kilómetros de infraestructura vial y peatonal intervenida, y porcentaje de ejecución presupuestal en proyectos de inversión pública."
+          },
+          {
+            "problem": "Presencia de puntos críticos de acumulación de residuos en vías públicas y altos costos municipales por la disposición final en rellenos sanitarios, debido a la necesidad de fortalecer los programas de segregación.",
+            "objective": "Garantizar el mantenimiento, limpieza y barrido permanente de vías, optimizando la recolección de residuos sólidos y priorizando su valorización (reciclaje), además de incrementar y conservar las áreas verdes.",
+            "goal": "Para el año 2030, lograr la consolidación de Santiago de Surco como un modelo eco-eficiente, con una reducción drástica del gasto municipal en rellenos sanitarios gracias a una cultura consolidada de reciclaje.",
+            "indicator": "Kilómetros de vías y espacios públicos con servicio de limpieza optimizado, porcentaje de residuos sólidos municipales reaprovechados y metros cuadrados de áreas verdes mantenidas y recuperadas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Procesos administrativos internos lentos y atomizados que generan demoras en la atención de trámites habituales de los vecinos, limitando la competitividad institucional de la municipalidad.",
+            "objective": "Modernizar la gestión municipal mediante la implementación progresiva de plataformas digitales integradas y una estrategia omnicanal para reducir los tiempos de atención, así como automatizar y simplificar los trámites administrativos.",
+            "goal": "Para el año 2030, consolidar a Santiago de Surco como un municipio con cero burocracia papelera y alta eficiencia digital, logrando que el 100% de los trámites habituales viabilizados se realicen en formato digital.",
+            "indicator": "Porcentaje de trámites habituales integrados con opción de resolución digital, tiempo promedio de respuesta a reportes vecinales y porcentaje de trámites simplificados para el adulto mayor."
+          },
+          {
+            "problem": "Distanciamiento percibido entre la autoridad municipal y los vecinos, debido a la falta de canales institucionales ágiles y descentralizados para la atención de solicitudes y consultas.",
+            "objective": "Fortalecer la transparencia y el principio de buen gobierno mediante la ejecución estricta de las Audiencias Públicas de Rendición de Cuentas y la implementación de una agenda de atención vecinal descentralizada.",
+            "goal": "Para el año 2030, consolidar a Santiago de Surco como un municipio líder en transparencia institucional y gobierno abierto a nivel de Lima Metropolitana, garantizando que el vecino esté informado y escuchado.",
+            "indicator": "Número de Audiencias Públicas de Rendición de Cuentas ejecutadas, frecuencia de mesas de trabajo y jornadas de atención vecinal descentralizada, y porcentaje de incremento de usuarios activos en la plataforma digital municipal."
+          },
+          {
+            "problem": "Indefinición legal prolongada en la demarcación territorial con distritos colindantes, lo que genera duplicidad de cobros tributarios, confusión administrativa y vulnerabilidad en la seguridad de los vecinos.",
+            "objective": "Impulsar proactivamente la reactivación y el avance técnico de los expedientes de demarcación territorial vigentes, y garantizar la presencia institucional absoluta de la Municipalidad de Surco mediante el despliegue prioritario de servicios.",
+            "goal": "Para el año 2030, lograr que el 100% de los expedientes técnicos-legales de Surco estén expeditos con dictamen favorable en las instancias metropolitanas, consolidando una presencia municipal inquebrantable en las zonas en disputa.",
+            "indicator": "Porcentaje de avance y sustentación técnica de los expedientes de defensa territorial, número de mesas de concertación y consultas vecinales, e índice de cobertura y satisfacción de los servicios municipales en las zonas en disputa."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-CoYLO9vfEhuUiSRcfQpwsfT4NpL_hW2e",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/CoYLO9vfEhuUiSRcfQpwsfT4NpL_hW2e",
+      "sha256": "c26040dc95a9732452425607562d4ede8f0411208092efa7b5fee3ed64073519",
+      "accessedAt": "2026-10-02T23:06:02.927Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026012415",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026012415",
+      "sha256": "9d1560b40f7eb655b9aec551da453024e7c7b78c834835858ab2cd49ed9a9033",
+      "accessedAt": "2026-10-02T23:06:03.442Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

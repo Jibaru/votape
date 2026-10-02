@@ -1,0 +1,152 @@
+{
+  "id": "V_F1lQcvAkHXPx0TwFCU5yZhtdGkxEWj",
+  "slug": "jorge-vivanco-zarate",
+  "electionId": "erm-2026",
+  "name": "Jorge Vivanco Zarate",
+  "givenNames": "Jorge",
+  "surnames": "Vivanco Zarate",
+  "age": 66,
+  "gender": "Masculino",
+  "party": {
+    "id": 3033,
+    "name": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE PERU - COMUNIDAD POLITICA INKA PERU"
+  },
+  "jurisdictionId": "140135",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:55:58.203Z",
+      "sourceId": "jne-hv-V_F1lQcvAkHXPx0TwFCU5yZhtdGkxEWj"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "JAIME BAUSATE Y MEZA",
+        "program": "Periodismo",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Municipalidad de El Agustino",
+      "role": "Técnico Tributario",
+      "from": "1988",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "JUNTOS POR EL PERU",
+      "year": "2025"
+    },
+    {
+      "party": "PERU PATRIA SEGURA",
+      "year": "2016"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 36400,
+        "public": 36400,
+        "private": 0
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/fe82f6b0-addc-4cd1-af57-29989cd67a55.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/cbe82dd4-4f3b-4e3a-9701-de3b4f647daf.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Inseguridad ciudadana y violencia de género en el distrito.",
+            "objective": "Fortalecer la seguridad ciudadana y erradicar la violencia de género mediante la simetría entre patrullaje ciudadano, tecnología y prevención social.",
+            "goal": "Reducir la tasa de denuncias por delitos contra el patrimonio de 14.7 a 5.7 por cada mil habitantes. Reducir la tasa de denuncias de violencia contra la mujer de 7.9 a 6.5 por cada diez mil habitantes. Lograr que el 100% de los sectores sean atendidos por patrullaje integrado.",
+            "indicator": "Tasa de denuncias por delitos contra el patrimonio, tasa de denuncias de violencia contra la mujer y porcentaje de sectores atendidos por patrullaje integrado."
+          },
+          {
+            "problem": "Baja calidad educativa y altos índices de anemia y desnutrición infantil.",
+            "objective": "Mejorar la calidad educativa y las condiciones de salud de la niñez como derechos existenciales.",
+            "goal": "Aumentar el porcentaje de estudiantes de secundaria con nivel satisfactorio en Lectura del 21.7% al 28.9% y en Matemática del 15.8% al 22.4%. Reducir la anemia en niños de 6 a 35 meses del 35.3% al 16.8% y la desnutrición crónica del 10.9% al 9.4%.",
+            "indicator": "Porcentaje de estudiantes de secundaria con nivel satisfactorio en Lectura y Matemática, porcentaje de anemia en niños de 6 a 35 meses y porcentaje de desnutrición crónica."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad y debilidad del tejido empresarial de las micro y pequeñas empresas (MYPES).",
+            "objective": "Mejorar el desarrollo económico impulsando la 'economía simétrica', la formalización y el emprendimiento innovador.",
+            "goal": "Incrementar el número de emprendedores formalizados de 3,000 a 5,250. Aumentar el monto de créditos directos de la banca múltiple de S/ 156 millones a S/ 259 millones. Reducir el número de bajas de empresas en un 70%.",
+            "indicator": "Número de emprendedores formalizados, monto de créditos directos de la banca múltiple y reducción del número de bajas de empresas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Escasez de áreas verdes, bajo nivel de reciclaje y contaminación generalizada.",
+            "objective": "Mejorar la calidad ambiental, restaurando la simetría entre el desarrollo urbano y la naturaleza.",
+            "goal": "Aumentar los metros cuadrados de áreas verdes por habitante de 1.37 a 1.65 m². Incrementar el porcentaje de residuos sólidos reciclados del 1.57% al 4.5%. Erradicar el 100% de los puntos críticos de basura identificados.",
+            "indicator": "Metros cuadrados de áreas verdes por habitante, porcentaje de residuos sólidos reciclados y porcentaje de puntos críticos de basura erradicados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Ineficiencia en la gestión municipal y baja recaudación de tributos.",
+            "objective": "Mejorar la gestión pública, transformando el Estado en una herramienta de equilibrio y servicio, y no en una traba burocrática.",
+            "goal": "Aumentar el porcentaje de recaudación de impuesto predial y arbitrios del 64.4% al 66.3%. Lograr que el 92% de los usuarios realicen sus trámites en el plazo reglamentario. Tener el 100% de zonas con un Comité de Vigilancia Ciudadana activo.",
+            "indicator": "Porcentaje de recaudación de impuesto predial y arbitrios, porcentaje de usuarios que realizan sus trámites en el plazo reglamentario y porcentaje de zonas con un Comité de Vigilancia Ciudadana activo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-V_F1lQcvAkHXPx0TwFCU5yZhtdGkxEWj",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/V_F1lQcvAkHXPx0TwFCU5yZhtdGkxEWj",
+      "sha256": "2b5fbd7be96ed85e646c3264c3d103a8f81548433fa4ddbc0ef51f2c19fde121",
+      "accessedAt": "2026-10-02T22:55:58.203Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023139",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023139",
+      "sha256": "ba35f415444c7090aad7434b05b94a1b3c69d2f5f55071661d7466fcedfec671",
+      "accessedAt": "2026-10-02T22:55:58.706Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

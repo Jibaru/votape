@@ -1,0 +1,231 @@
+{
+  "id": "bv3RVmi6tduIkhoksdwvn6AZl8rxWgv9",
+  "slug": "eduardo-danilo-albarracin-ugarte",
+  "electionId": "erm-2026",
+  "name": "Eduardo Danilo Albarracin Ugarte",
+  "givenNames": "Eduardo Danilo",
+  "surnames": "Albarracin Ugarte",
+  "age": 51,
+  "gender": "Masculino",
+  "party": {
+    "id": 2943,
+    "name": "PARTIDO POPULAR CRISTIANO - PPC"
+  },
+  "jurisdictionId": "140111",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:58:15.266Z",
+      "sourceId": "jne-hv-bv3RVmi6tduIkhoksdwvn6AZl8rxWgv9"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "facultad de teologia, pontificia y civil de lima",
+        "program": "estudiante de psicologia",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Eduardo Albarracin Ugarte Consultor en Seguridad",
+      "role": "consultor en seguridad",
+      "from": "2013",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "PODEMOS PERU",
+      "year": "2023"
+    },
+    {
+      "party": "RENOVACION POPULAR",
+      "year": "2025"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 12710,
+        "public": 0,
+        "private": 12710
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "Logistica Sanitaria y Suministros de Prevencion S.A.C.",
+        "type": "ACCIONES",
+        "quantity": 500,
+        "value": 1
+      }
+    ]
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/cc676691-2f6d-4117-9669-664d65508502.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6ec5db2f-3cf8-44c2-8270-68f18b99527c.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Insuficiente capacidad de gestión y respuesta del municipio frente a riesgos de desastres.",
+            "objective": "Elevar la subgerencia de gestión de riesgos a nivel de Gerencia, dotándola de recursos necesarios. Implementar un plan de prevención y respuesta, entregar mochilas de emergencia a la población y formar un equipo especializado de búsqueda y rescate.",
+            "goal": "Entregar más de 4,000 mochilas de emergencia y formar un equipo de búsqueda y rescate conformado por personal especializado y vecinos capacitados.",
+            "indicator": "Número de mochilas de emergencia entregadas, conformación del equipo de búsqueda y rescate."
+          },
+          {
+            "problem": "Carencia de un sistema de salud pública accesible y de infraestructura sanitaria adecuada, especialmente para la población de adultos mayores.",
+            "objective": "Implementar un Centro de Atención de Urgencias 24 horas, un programa de atención médica a domicilio para adultos mayores (PAMUD), un programa de respuesta a emergencias cardíacas denominado 'Distrito Cardioprotegido', y adquirir una planta potabilizadora de agua para asegurar el abastecimiento.",
+            "goal": "Implementar un Centro de Atención de Urgencias que atenderá las 24 horas, adquirir desfibriladores automáticos para ser ubicados en diversos puntos del distrito y adquirir una planta potabilizadora de agua.",
+            "indicator": "Número de centros de atención de urgencias implementados, número de desfibriladores automáticos adquiridos y ubicados, adquisición de planta potabilizadora de agua."
+          },
+          {
+            "problem": "Elevados niveles de inseguridad ciudadana y la proliferación de actividades ilícitas como la prostitución.",
+            "objective": "Reorganizar la gerencia de seguridad ciudadana con personal calificado, priorizar el patrullaje motorizado, establecer convenios con el Ministerio del Interior para fortalecer la presencia policial, implementar un Juzgado de Flagrancia y erradicar la prostitución mediante un plan estratégico interinstitucional.",
+            "goal": "Celebrar un convenio con el Poder Judicial para la implementación de un juzgado de flagrancia y realizar un plan estratégico permanente y continuo en coordinación con el Ministerio Público, Ministerio del Interior y otras entidades para erradicar la prostitución.",
+            "indicator": "Implementación de un Juzgado de Flagrancia, número de convenios firmados con el MININTER, implementación de plan estratégico para la erradicación de la prostitución."
+          },
+          {
+            "problem": "Falta de oportunidades educativas, culturales y deportivas para los vecinos del distrito.",
+            "objective": "Constituir un Centro de Educación Técnico Productiva (CETPRO), implementar un Centro Cultural, promover la construcción de un polideportivo, gestionar la cesión de uso de infraestructuras educativas para fines comunitarios y establecer una biblioteca municipal gratuita.",
+            "goal": "Constituir un Centro de Educación Técnico Productiva, viabilizar la construcción de un polideportivo en el local municipal de la calle Francisco Lazo y contar con una biblioteca municipal equipada y accesible.",
+            "indicator": "Implementación de un CETPRO, construcción de un polideportivo, implementación de una biblioteca municipal."
+          },
+          {
+            "problem": "Exclusión social y falta de apoyo a poblaciones vulnerables, como adultos mayores y personas con discapacidad.",
+            "objective": "Fortalecer la Oficina Municipal de Atención a las Personas con Discapacidad (OMAPED) y la Defensoría Municipal del Niño y del Adolescente (DEMUNA), promover la inclusión laboral, adecuar la infraestructura vial para el tránsito seguro de estas poblaciones y brindar apoyo material a quienes lo necesiten.",
+            "goal": "Fortalecer la OMAPED con profesionales especializados y recursos logísticos, adecuar pistas y veredas para un tránsito peatonal seguro y brindar apoyo con sillas de ruedas, andadores y pañales en coordinación con instituciones.",
+            "indicator": "Porcentaje de fortalecimiento de la OMAPED, adecuación de la infraestructura vial, número de personas vulnerables beneficiadas con apoyo material."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Infraestructura deficiente y servicios inadecuados en los mercados del distrito, afectando a comerciantes y vecinos.",
+            "objective": "Coordinar con los comerciantes para mejorar la infraestructura y estética de los mercados, retirar obstáculos para el estacionamiento, dotarlos de seguridad y extender el horario de atención.",
+            "goal": "No se especifica.",
+            "indicator": "Mejora de la infraestructura de los mercados, implementación de medidas de seguridad, extensión del horario de atención."
+          },
+          {
+            "problem": "Falta de apoyo y espacios para la promoción de los productos y servicios de los emprendedores locales.",
+            "objective": "Apoyar al emprendedor linceño mediante la organización de ferias y actividades que permitan la promoción y venta de sus productos de manera gratuita.",
+            "goal": "No se especifica.",
+            "indicator": "Número de ferias y actividades de promoción para emprendedores realizadas."
+          },
+          {
+            "problem": "Excesiva burocracia y lentitud en los trámites para la formalización de negocios y emprendimientos.",
+            "objective": "Agilizar la obtención de licencias de funcionamiento y certificados de defensa civil, reduciendo los tiempos y requisitos al mínimo indispensable.",
+            "goal": "Entregar licencias de funcionamiento en menos de 60 minutos y permisos de publicidad exterior en 24 horas.",
+            "indicator": "Tiempo de entrega de licencias de funcionamiento, tiempo de entrega de permisos de publicidad exterior."
+          },
+          {
+            "problem": "Desaprovechamiento del potencial gastronómico del distrito como atractivo turístico y motor de desarrollo económico.",
+            "objective": "Empadronar y capacitar gratuitamente a todos los restaurantes y comercios de alimentos preparados del distrito para posicionar a Lince como un destino gastronómico de referencia en Lima.",
+            "goal": "Hacer de Lince el primer distrito gastronómico del país y convertirlo en un nuevo atractivo turístico de Lima.",
+            "indicator": "Número de restaurantes y comercios empadronados y capacitados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit y descuido de las áreas verdes, parques y jardines en el distrito.",
+            "objective": "Recuperar y ampliar las áreas verdes, aumentar la cantidad de árboles, proteger los parques de proyectos que los afecten e iniciar un programa integral de intervención para el mantenimiento, tratamiento y riego adecuado de todas las áreas verdes.",
+            "goal": "Iniciar un programa de intervención de todas las áreas verdes del distrito desde el primer día de gestión.",
+            "indicator": "Implementación de programa de intervención de áreas verdes, cantidad de árboles plantados."
+          },
+          {
+            "problem": "Gestión ineficiente de los residuos sólidos, generando acumulación de basura en las calles.",
+            "objective": "Implementar un plan de manejo de residuos que incluya recojo programado e inopinado durante las 24 horas, aumentar la flota de vehículos de recolección, incrementar el número de tachos y educar a la comunidad en reciclaje.",
+            "goal": "Establecer el recojo programado y recojo inopinado de basura las 24 horas del día.",
+            "indicator": "Frecuencia del servicio de recojo de basura, número de vehículos de recolección operativos."
+          },
+          {
+            "problem": "Falta de servicios de atención y protección para las mascotas y animales en situación de abandono.",
+            "objective": "Implementar un tópico veterinario para urgencias 24 horas, crear infraestructura como duchas y bebederos, viabilizar refugios temporales, promover la adopción responsable y poner en funcionamiento una unidad móvil de rescate animal.",
+            "goal": "Contar con un tópico veterinario de atención de urgencias durante las 24 horas del día y una unidad móvil de rescate animal activa las 24 horas.",
+            "indicator": "Implementación de tópico veterinario 24 horas, implementación de unidad móvil de rescate animal."
+          },
+          {
+            "problem": "Presencia de contaminación sonora que afecta la calidad de vida de los residentes del distrito.",
+            "objective": "Implementar sistemas de control y fiscalización para identificar, sancionar y denunciar a quienes cometan infracciones por contaminación sonora.",
+            "goal": "No se especifica.",
+            "indicator": "Implementación de sistemas de control y fiscalización de contaminación sonora."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Percepción de una gestión municipal ineficiente, poco transparente y con riesgo de prácticas corruptas.",
+            "objective": "Realizar una intervención de emergencia en todas las áreas municipales, efectuar una auditoría externa de los últimos 12 años de gestión, implementar la norma ISO 37001-2025 (Gestión Antisoborno) y reestructurar la municipalidad para convertirla en una institución eficiente y con estrictos procesos de control.",
+            "goal": "Realizar una auditoría externa e independiente de los 12 últimos años de gestión e implementar la norma ISO 37001-2025 para garantizar la ética y proteger la gestión de prácticas corruptas.",
+            "indicator": "Realización de auditoría externa, implementación de la norma ISO 37001-2025."
+          },
+          {
+            "problem": "Dificultades de acceso de los vecinos a los servicios municipales debido a horarios de atención limitados y centralización de trámites.",
+            "objective": "Ampliar el horario de atención al público, incluyendo fines de semana, e implementar módulos de atención administrativa desconcentrados en diversos puntos del distrito para facilitar la realización de trámites y gestiones.",
+            "goal": "Ampliar el horario de atención de lunes a domingo de 8:00 a.m. a 8:00 p.m. e implementar 3 módulos de atención administrativa en diversos puntos del distrito.",
+            "indicator": "Ampliación del horario de atención, número de módulos desconcentrados implementados."
+          },
+          {
+            "problem": "Falta de mecanismos de control ciudadano sobre el uso de los recursos públicos de la municipalidad.",
+            "objective": "Crear un aplicativo denominado \"Control Lince\" que permita a cualquier vecino acceder en tiempo real al presupuesto actualizado, las adquisiciones, los proveedores y la visualización de facturas, promoviendo la transparencia y la fiscalización ciudadana.",
+            "goal": "Crear una aplicación para que cualquier vecino pueda acceder al instante, las 24 horas del día, a la información financiera y de contrataciones de la municipalidad.",
+            "indicator": "Creación y puesta en funcionamiento del aplicativo \"Control Lince\"."
+          },
+          {
+            "problem": "Carencia de un control riguroso en los procesos de contratación de personal, bienes y servicios del municipio.",
+            "objective": "Implementar un control estricto y riguroso para la contratación de personal y la adquisición de bienes y servicios, asegurando el cumplimiento de los lineamientos de la Contraloría General de la República y la Ley de Contrataciones del Estado.",
+            "goal": "No se especifica.",
+            "indicator": "Nivel de cumplimiento de los lineamientos de la Contraloría y la Ley de Contrataciones del Estado."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-bv3RVmi6tduIkhoksdwvn6AZl8rxWgv9",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bv3RVmi6tduIkhoksdwvn6AZl8rxWgv9",
+      "sha256": "1bf5792f562048a0833ff49a3872efbe71a9399d4928a4afad7357cae6cf4973",
+      "accessedAt": "2026-10-02T22:58:15.266Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026021236",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026021236",
+      "sha256": "f1aa19a28c89f2f0fc104c295841cc368f0a5205859c06ded8124e8246a5d099",
+      "accessedAt": "2026-10-02T22:58:15.780Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

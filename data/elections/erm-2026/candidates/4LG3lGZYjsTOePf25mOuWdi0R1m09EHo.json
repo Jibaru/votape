@@ -1,0 +1,268 @@
+{
+  "id": "4LG3lGZYjsTOePf25mOuWdi0R1m09EHo",
+  "slug": "ricardo-enrique-giesecke-sara-lafosse",
+  "electionId": "erm-2026",
+  "name": "Ricardo Enrique Giesecke Sara Lafosse",
+  "givenNames": "Ricardo Enrique",
+  "surnames": "Giesecke Sara Lafosse",
+  "age": 79,
+  "gender": "Masculino",
+  "party": {
+    "id": 2980,
+    "name": "AHORA NACION - AN"
+  },
+  "jurisdictionId": "140115",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:59:56.000Z",
+      "sourceId": "jne-hv-4LG3lGZYjsTOePf25mOuWdi0R1m09EHo"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU",
+        "program": "BACHILLER EN CIENCIAS FISICAS",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1971"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD DE LETRAS Y CIENCIAS SOCIALES GRENOBLE FRANCIA",
+        "program": "DIPLOMA",
+        "completed": false,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "LAUE LINGEBIN INSTITUTO DE CIENCIAS NUCLEARES - FRANCIA",
+        "program": "DIPLOMADO",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MINISTERIO DE AMBIENTE",
+      "role": "MINISTRO",
+      "from": "2011",
+      "to": "2011"
+    },
+    {
+      "employer": "MTC PROVIAS",
+      "role": "PRIMER DIRECTOR EJECUTIVO",
+      "from": "2002",
+      "to": "2003"
+    },
+    {
+      "employer": "MINISTERIO DE ENERGIA Y MINAS",
+      "role": "VICEMINISTRO",
+      "from": "1990",
+      "to": "1991"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR PROVINCIAL",
+      "party": "SOMOS LIMA",
+      "from": "1996",
+      "to": "1998"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "MILITANTE",
+      "party": "PARTIDO POLÍTICO AHORA NACION - AN",
+      "from": "2023",
+      "to": "2026"
+    },
+    {
+      "position": "MILITANTE",
+      "party": "PARTIDO POLÍTICO JUNTOS POR EL PERU",
+      "from": "2017",
+      "to": "2018"
+    }
+  ],
+  "partyResignations": [
+    {
+      "party": "JUNTOS POR EL PERU",
+      "year": "2023"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 102848,
+        "public": 4800,
+        "private": 98048
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 6452.2,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 92041.04,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 16346.83,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 131440.05,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "SE VENDIO EN FEBRERO 2025",
+        "value": 16000
+      },
+      {
+        "type": "SE COMPRO EN MARZO 2025",
+        "value": 46000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/8a89d1f0-0014-4291-98d0-8cc740cb1d8c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/5178d00a-32ca-4314-978f-09c2c6749068.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Falta de seguridad ciudadana, especialmente para mujeres, niños, niñas y adultos mayores.",
+            "objective": "Implementar espacios públicos seguros mediante el fortalecimiento del Serenazgo, incorporación de tecnología de vigilancia, coordinación con la PNP, programas preventivos en colegios y creación de la Casa de las Familias para atención emocional y preventiva.",
+            "goal": "Invertir S/ 10 millones para reducir la percepción de inseguridad, ampliar la cobertura de vigilancia, capacitar al 100% del personal de Serenazgo y crear una Casa de las Familias durante el primer año de gestión.",
+            "indicator": "Incremento del 30% en el número de cámaras de videovigilancia operativas y reducción del 20% en la percepción de inseguridad ciudadana."
+          },
+          {
+            "problem": "Miraflores carece de un programa integral acorde con su condición de principal destino turístico del país y presenta déficit de espacios para deporte y cultura.",
+            "objective": "Implementar el Programa de Renacimiento Cultural, desarrollar circuitos turísticos y artísticos, crear la Casa del Artista y recuperar integralmente el Estadio Bonilla para actividades deportivas.",
+            "goal": "Invertir S/ 20 millones para incrementar la oferta cultural, deportiva y turística, implementando al menos 5 nuevos circuitos turísticos y organizando un mínimo de 50 eventos culturales y artísticos por año.",
+            "indicator": "Incremento del 25% en la participación vecinal en actividades culturales y deportivas, y aumento del 15% en la permanencia promedio de visitantes en el distrito."
+          },
+          {
+            "problem": "Persistencia de violencia y acoso contra las mujeres en espacios públicos y privados.",
+            "objective": "Crear unidades especializadas de Serenazgo para atención de violencia de género, desarrollar campañas educativas, brindar asesoría legal y psicológica e implementar programas de nuevas masculinidades.",
+            "goal": "Invertir S/ 5 millones para fortalecer la prevención y atención integral de casos de violencia de género, capacitando al 100% del Serenazgo y brindando atención legal y psicológica al 100% de los casos derivados.",
+            "indicator": "Reducción del 20% en los reportes de acoso callejero en zonas críticas y realización de al menos 100 campañas de sensibilización durante la gestión."
+          },
+          {
+            "problem": "Falta de servicios municipales de cuidado infantil para familias con horarios flexibles de trabajo.",
+            "objective": "Implementar una Guardería Municipal con horarios adaptados a las necesidades de las familias, especialmente de las mujeres trabajadoras.",
+            "goal": "Invertir S/ 10 millones para crear un servicio municipal moderno de atención infantil, implementando una guardería durante el primer año de gestión para beneficiar al menos a 500 familias anualmente.",
+            "indicator": "Mantener una satisfacción de usuarios superior al 85% en el servicio de guardería municipal."
+          },
+          {
+            "problem": "Ausencia de servicios veterinarios municipales accesibles para la protección de mascotas.",
+            "objective": "Implementar programas de vacunación, esterilización, adiestramiento y adopción responsable mediante un servicio veterinario municipal de calidad.",
+            "goal": "Invertir S/ 5 millones para ampliar la cobertura de atención y protección animal, realizando 20,000 vacunaciones, 10,000 esterilizaciones e implementando un Centro Municipal de Atención Veterinaria antes del tercer año de gestión.",
+            "indicator": "Promoción de al menos 2,000 adopciones responsables durante la gestión."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Existen 34 puntos críticos de congestión vehicular y una insuficiente red de ciclovías.",
+            "objective": "Implementar semaforización inteligente, fortalecer la fiscalización del tránsito, ampliar la red de ciclovías e implementar una ruta especial del Urbanito para mejorar la movilidad distrital.",
+            "goal": "Invertir S/ 40 millones para reducir los tiempos de desplazamiento y mejorar la conectividad urbana, construyendo o mejorando 15 kilómetros de ciclovías seguras.",
+            "indicator": "Reducción del 25% en los tiempos promedio de desplazamiento en los puntos críticos e incremento del 20% en el uso de la bicicleta como medio de transporte local."
+          },
+          {
+            "problem": "Dificultad de acceso a las playas de la Costa Verde para adultos mayores y personas con discapacidad.",
+            "objective": "Construir sistemas de ascensores y accesos peatonales seguros desde el malecón hacia las playas del distrito.",
+            "goal": "Invertir S/ 30 millones para garantizar la accesibilidad universal a las playas de Miraflores, construyendo al menos 3 sistemas de acceso vertical.",
+            "indicator": "Incremento del 50% en el uso de playas por parte de adultos mayores y personas con discapacidad."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit de áreas verdes en nuevas edificaciones y espacios urbanos.",
+            "objective": "Fortalecer la normativa urbana para preservar e incrementar áreas verdes y recuperar espacios residuales para uso paisajístico.",
+            "goal": "Invertir S/ 4 millones para incrementar las áreas verdes disponibles, recuperando el 100% de los espacios residuales identificados y plantando 5,000 árboles y especies ornamentales.",
+            "indicator": "Incremento del 10% en la superficie de áreas verdes del distrito."
+          },
+          {
+            "problem": "Insuficiente monitoreo de la calidad del aire, agua y contaminación sonora.",
+            "objective": "Implementar un sistema permanente de monitoreo ambiental, fiscalización de estándares de calidad ambiental y promoción de movilidad sostenible.",
+            "goal": "Invertir S/ 2 millones para implementar una red de monitoreo ambiental distrital en funcionamiento permanente y realizar monitoreos semestrales de calidad de aire y agua.",
+            "indicator": "Reducción del 15% en los niveles de contaminación sonora en zonas críticas y publicación de informes ambientales trimestrales de acceso público."
+          },
+          {
+            "problem": "Sistema de gestión de residuos sólidos desactualizado.",
+            "objective": "Modernizar integralmente el sistema de residuos sólidos mediante tecnologías modernas, reciclaje, segregación en origen y disposición final en rellenos sanitarios autorizados.",
+            "goal": "Invertir S/ 40 millones para mejorar la gestión integral de residuos, implementando la recolección selectiva en el 100% de los sectores y capacitando al 100% del personal operativo.",
+            "indicator": "Incremento del 50% en la tasa de reciclaje distrital y reducción del 30% en los residuos enviados a disposición final."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Falta de transparencia, rendición de cuentas y mecanismos efectivos de participación ciudadana.",
+            "objective": "Implementar una gestión municipal transparente, eficiente y participativa mediante vigilancia ciudadana, acceso a información pública y realización de Cabildos Abiertos semestrales.",
+            "goal": "Invertir S/ 5 millones para realizar dos Cabildos Abiertos por año, establecer mecanismos permanentes de control ciudadano e implementar una plataforma digital de vigilancia ciudadana.",
+            "indicator": "Alcanzar un 80% de satisfacción vecinal respecto a la transparencia municipal y publicar trimestralmente la ejecución presupuestal."
+          },
+          {
+            "problem": "Excesiva burocracia y lentitud en los trámites municipales.",
+            "objective": "Implementar el Gobierno Electrónico para digitalizar procedimientos, reducir tiempos de atención y simplificar trámites y servicios municipales.",
+            "goal": "Invertir S/ 20 millones para digitalizar progresivamente la totalidad de los principales servicios municipales, implementando el expediente electrónico integral.",
+            "indicator": "Reducción del 50% en los tiempos de atención al vecino y alcanzar un 90% de trámites disponibles en línea."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-4LG3lGZYjsTOePf25mOuWdi0R1m09EHo",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/4LG3lGZYjsTOePf25mOuWdi0R1m09EHo",
+      "sha256": "96466604ce9c5ad0a870515143fa9501e8e7ed127e29d59f8d29fa76240f4c13",
+      "accessedAt": "2026-10-02T22:59:56.000Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026020252",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026020252",
+      "sha256": "53911f0c7a5862eb7e5d58f223e2a22cc2ed75f275d2aecc60b717883621d4a5",
+      "accessedAt": "2026-10-02T22:59:56.507Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

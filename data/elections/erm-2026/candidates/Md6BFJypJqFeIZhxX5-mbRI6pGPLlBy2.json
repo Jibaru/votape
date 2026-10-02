@@ -1,0 +1,282 @@
+{
+  "id": "Md6BFJypJqFeIZhxX5-mbRI6pGPLlBy2",
+  "slug": "joe-zanabria-soberon",
+  "electionId": "erm-2026",
+  "name": "Joe Zanabria Soberon",
+  "givenNames": "Joe",
+  "surnames": "Zanabria Soberon",
+  "age": 61,
+  "gender": "Masculino",
+  "party": {
+    "id": 2173,
+    "name": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+  },
+  "jurisdictionId": "140109",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:57:43.124Z",
+      "sourceId": "jne-hv-Md6BFJypJqFeIZhxX5-mbRI6pGPLlBy2"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "ABOGADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1996"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad de San Martín de Porres",
+        "program": "BACHILLER EN DERECHO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1995"
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS (UPC)",
+        "program": "DERECHO DE LAS CONCESIONES",
+        "completed": true,
+        "degree": null,
+        "year": null
+      },
+      {
+        "level": "posgrado",
+        "institution": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS",
+        "program": "DERECHO ADMINISTRATIVO ECONOMICO",
+        "completed": true,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DISTRITAL DE SANTA MARIA DEL MAR",
+      "role": "GERENTE MUNICIPAL",
+      "from": "2024",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2003",
+      "to": "2006"
+    },
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ALIANZA ELECTORAL UNIDAD NACIONAL",
+      "from": "2007",
+      "to": "2010"
+    }
+  ],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2025"
+    },
+    {
+      "party": "PARTIDO POPULAR CRISTIANO - PPC",
+      "year": "2013"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 120000,
+        "private": 0
+      },
+      {
+        "year": "2025",
+        "total": 120000,
+        "public": 120000,
+        "private": 0
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 75000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 60000,
+        "registeredInSunarp": true
+      },
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 0,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "Camiota Peugeot - modelo 2008",
+        "value": 70000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/c7542432-67a4-4eee-9965-0b345b86516c.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/6096eae7-713c-4455-8caf-693c730639c1.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Extorsión, cobro de cupos y crimen organizado.",
+            "objective": "Reducir la criminalidad organizada y recuperar el principio de autoridad.",
+            "goal": "Reducción del 45% de delitos.",
+            "indicator": "Tasa de delitos registrados."
+          },
+          {
+            "problem": "Débil capacidad operativa del serenazgo y videovigilancia.",
+            "objective": "Modernizar el sistema distrital de seguridad inteligente.",
+            "goal": "1,000 cámaras inteligentes y respuesta =5 minutos.",
+            "indicator": "Cámaras operativas y tiempo de respuesta."
+          },
+          {
+            "problem": "Recuperación insuficiente de espacios públicos tomados por mafias.",
+            "objective": "Recuperar espacios públicos y zonas comerciales críticas.",
+            "goal": "100% de zonas críticas intervenidas.",
+            "indicator": "Espacios recuperados."
+          },
+          {
+            "problem": "Violencia familiar y vulnerabilidad social.",
+            "objective": "Fortalecer programas integrales de protección social.",
+            "goal": "Cobertura integral en zonas vulnerables.",
+            "indicator": "Casos atendidos."
+          },
+          {
+            "problem": "Problemas de salud mental y ansiedad juvenil.",
+            "objective": "Implementar red distrital de salud mental comunitaria.",
+            "goal": "150,000 atenciones acumuladas.",
+            "indicator": "Atenciones psicológicas."
+          },
+          {
+            "problem": "Déficit de espacios culturales y deportivos.",
+            "objective": "Recuperar infraestructura social y comunitaria.",
+            "goal": "50 espacios públicos recuperados.",
+            "indicator": "Espacios recuperados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Alta informalidad comercial.",
+            "objective": "Impulsar formalización empresarial simplificada.",
+            "goal": "40% de negocios formalizados.",
+            "indicator": "Negocios formalizados."
+          },
+          {
+            "problem": "Baja competitividad e innovación en Gamarra.",
+            "objective": "Transformar Gamarra en hub textil internacional.",
+            "goal": "80% de negocios incorporados al ecosistema digital.",
+            "indicator": "Empresas digitalizadas."
+          },
+          {
+            "problem": "Escasa generación de empleo juvenil.",
+            "objective": "Promover empleo, emprendimiento y capacitación técnica.",
+            "goal": "50,000 nuevos empleos.",
+            "indicator": "Empleos generados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Congestión vehicular y caos vial.",
+            "objective": "Erradicar a las empresas de transportes interprovinciales y de transporte de carga del distrito de La Victoria, a través de revocatoria de sus Licencias de Funcionamiento por incompatibilidad con la zonificación del distrito.",
+            "goal": "Reducir congestión en 50%.",
+            "indicator": "Reducción de congestión."
+          },
+          {
+            "problem": "Acumulación de residuos sólidos.",
+            "objective": "Fortalecer y modernizar la gestión integral de residuos sólidos mediante la optimización del servicio de limpieza pública y recolección, la promoción del reciclaje a través de alianzas estratégicas con organizaciones públicas, privadas y de la sociedad civil, y la implementación de un marco normativo que garantice la sostenibilidad financiera del servicio.",
+            "goal": "45.8% valorización de residuos.",
+            "indicator": "Reducción de residuos sólidos destinados a disposición final, incremento de residuos sólidos valorizados mediante reciclaje y reaprovechamiento, y mejora de la prestación del servicio de limpieza pública."
+          },
+          {
+            "problem": "Déficit de áreas verdes.",
+            "objective": "Incrementar las áreas verdes urbanas mediante alianzas estratégicas con ONG, empresas e instituciones especializadas que se encarguen de la siembra, mantenimiento y sostenibilidad de árboles y espacios públicos, promoviendo la recuperación ambiental y el mejoramiento paisajístico del distrito.",
+            "goal": "Incremento de 50% de áreas verdes.",
+            "indicator": "Metros cuadrados recuperados e implementados."
+          },
+          {
+            "problem": "Contaminación ambiental y sonora.",
+            "objective": "Fortalecer fiscalización ambiental distrital.",
+            "goal": "Reducción sostenida de contaminación crítica.",
+            "indicator": "Operativos ambientales."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Burocracia y lentitud administrativa.",
+            "objective": "Modernizar la gestión municipal mediante la digitalización e interoperabilidad de los procesos y trámites, implementando plataformas virtuales de atención al ciudadano, expedientes electrónicos y herramientas tecnológicas que reduzcan los tiempos de atención, simplifiquen los procedimientos y mejoren la eficiencia institucional.",
+            "goal": "100% trámites digitales.",
+            "indicator": "Trámites digitalizados."
+          },
+          {
+            "problem": "Riesgos de corrupción institucional.",
+            "objective": "Fortalecer la integridad pública y la transparencia institucional mediante la implementación de mecanismos de control concurrente, gobierno abierto, digitalización de procesos, trazabilidad de la gestión y fortalecimiento de los sistemas de fiscalización interna y rendición de cuentas, con el fin de prevenir y reducir actos de corrupción.",
+            "goal": "Reducir percepción de corrupción en 70%.",
+            "indicator": "Índice de percepción ciudadana de corrupción en la gestión municipal."
+          },
+          {
+            "problem": "Débil participación ciudadana.",
+            "objective": "Fortalecer el gobierno abierto y la participación ciudadana mediante la implementación de plataformas digitales de consulta y rendición de cuentas, mecanismos de presupuesto participativo, audiencias públicas descentralizadas y espacios de diálogo permanente con organizaciones vecinales, promoviendo la corresponsabilidad en la gestión del desarrollo distrital.",
+            "goal": "Participación activa en todos los sectores del distrito.",
+            "indicator": "Nivel de participación ciudadana en mecanismos de consulta, vigilancia y toma de decisiones municipales."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-Md6BFJypJqFeIZhxX5-mbRI6pGPLlBy2",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/Md6BFJypJqFeIZhxX5-mbRI6pGPLlBy2",
+      "sha256": "99de951e519b7fb67e9e021bc15cdbbb207fc94e64b5f0ed355e7dd57b476f15",
+      "accessedAt": "2026-10-02T22:57:43.124Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026019465",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026019465",
+      "sha256": "13637a87c4a079a86fdc30b35cd3c728e8edaf38e0fd53ddd73dd624769d1e2b",
+      "accessedAt": "2026-10-02T22:57:43.598Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

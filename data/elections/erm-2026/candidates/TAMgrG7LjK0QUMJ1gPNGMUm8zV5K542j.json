@@ -1,0 +1,240 @@
+{
+  "id": "TAMgrG7LjK0QUMJ1gPNGMUm8zV5K542j",
+  "slug": "benigno-roberto-calderon-arones",
+  "electionId": "erm-2026",
+  "name": "Benigno Roberto Calderon Arones",
+  "givenNames": "Benigno Roberto",
+  "surnames": "Calderon Arones",
+  "age": 62,
+  "gender": "Masculino",
+  "party": {
+    "id": 3040,
+    "name": "RENOVACION POPULAR PERU"
+  },
+  "jurisdictionId": "140134",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:56:54.361Z",
+      "sourceId": "jne-hv-TAMgrG7LjK0QUMJ1gPNGMUm8zV5K542j"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD MAYOR DE SAN MARCOS",
+        "program": "LICENCIADO",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "2001"
+      },
+      {
+        "level": "universitaria",
+        "institution": "Universidad Nacional Mayor de San Marcos",
+        "program": "BACHILLER EN PSICOLOGIA",
+        "completed": true,
+        "degree": "Bachiller",
+        "year": "1996"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "MUNICIPALIDAD DE INDEPENDENCIA",
+      "role": "ASESOR DEL DESPACHO DE ALCALDIA",
+      "from": "2011",
+      "to": "2011"
+    }
+  ],
+  "publicOffices": [],
+  "partyPositions": [],
+  "partyResignations": [
+    {
+      "party": "ALIANZA PARA EL PROGRESO",
+      "year": "2021"
+    },
+    {
+      "party": "FUERZA POPULAR",
+      "year": "2021"
+    }
+  ],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 66013,
+        "public": 0,
+        "private": 66013
+      }
+    ],
+    "realEstate": [
+      {
+        "type": "REGISTRO DE PREDIOS",
+        "value": 122827.5,
+        "registeredInSunarp": true
+      }
+    ],
+    "vehicles": [
+      {
+        "type": "HYUNDAI TUCSON 2007",
+        "value": 26250
+      }
+    ],
+    "otherMovable": [],
+    "holdings": [
+      {
+        "company": "ECOTHERMIX",
+        "type": "ACCIONES",
+        "quantity": 100,
+        "value": 2.44
+      }
+    ]
+  },
+  "additionalInfo": [
+    "CUENTO CON DOS VEHICULOS COMPRADOS EN EL EXTRANJERO Y SE MANTIENEN EN EL EXTRANJERO."
+  ],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/d374b036-0c91-47b6-8b3a-eb53866e50fa.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/1c579dbe-a196-4a69-8e6e-24704bf41a99.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Limitadas oportunidades de acceso a programas complementarios de formación tecnológica, innovación y orientación vocacional.",
+            "objective": "Implementar el programa municipal \"JÓVENES CON FUTURO\", actividad complementaria a la formación educativa, orientado a fortalecer las competencias digitales, tecnológicas, científicas, de liderazgo y emprendimiento de niños, adolescentes y jóvenes del distrito, aplicando modelos STEM y también el desarrollo de la Robótica Educativa.",
+            "goal": "Lograr reducir la brecha en un 40% al 2030.",
+            "indicator": "Porcentaje de jóvenes del distrito que participan en los programas desarrollados por la municipalidad."
+          },
+          {
+            "problem": "Restringido acceso de la población a espacios, programas y actividades culturales, deportivas y recreativas.",
+            "objective": "Implementar el programa municipal \"INDEPENDENCIA ACTIVA\", orientado a promover la práctica permanente de actividades deportivas, culturales y recreativas para niños, adolescentes, jóvenes, adultos y adultos mayores, mediante el fortalecimiento de la infraestructura comunitaria, la formación de talentos, la organización de eventos distritales y el acceso inclusivo a espacios de integración social, contribuyendo al \"Boulevard Temático de la cultura\" y la creación del \"Centro Cultural Municipal\".",
+            "goal": "Incrementar la participación de los pobladores en el programa municipal en un 35% hasta el 2030.",
+            "indicator": "Porcentaje de pobladores que participan en el programa municipal."
+          },
+          {
+            "problem": "Limitado acceso de la población a servicios preventivos de salud y promoción de hábitos saludables que afectan la calidad de vida de la población del distrito.",
+            "objective": "Implementar el programa municipal \"INDEPENDENCIA SALUDABLE\", que implementará la cultura de prevención y promoción de la salud mediante campañas comunitarias, educación sanitaria, atención preventiva y articulada con los centros de salud y entidades de salud.",
+            "goal": "Beneficiar al 70% de los pobladores del distrito al 2030.",
+            "indicator": "Porcentaje de pobladores beneficiados por los programas de salud."
+          },
+          {
+            "problem": "Alta percepción de inseguridad ciudadana, limitada capacidad preventiva y de respuesta, escasa articulación comunitaria y uso insuficiente de tecnología para proteger a las familias de Independencia.",
+            "objective": "Implementar el Programa \"INDEPENDENCIA SIN MIEDO\", una estrategia integral orientada a prevenir y reducir la delincuencia mediante el uso de alta tecnología, modelo predictivo del delito, inteligencia territorial, participación ciudadana y recuperación de espacios públicos.",
+            "goal": "Lograr reducir las brechas en un 40% al 2030.",
+            "indicator": "Nivel de percepción de inseguridad ciudadana de la población del distrito de Independencia."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Limitado acceso de los emprendedores a capacitación, asistencia técnica, financiamiento, innovación y mercados, y empresas que mueren al corto tiempo, limitando el desarrollo económico local.",
+            "objective": "Implementar el programa municipal “INDEPENDENCIA EMPRENDE” que desarrollará la creación de la “INCUBADORA MUNICIPAL DE NEGOCIOS” y el “CENTRO DE DESARROLLO EMPRESARIAL”, orientado a fortalecer a los emprendedores y empresas del distrito mediante capacitación en ideas y planes de negocios, capacitación empresarial, transformación digital, acceso a mercados, asistencia técnica especializada y articulación con entidades públicas y privadas.",
+            "goal": "Beneficiar a 4,000 emprendedores y empresas al 2030.",
+            "indicator": "Número de emprendedores y empresas que se benefician con el programa."
+          },
+          {
+            "problem": "Alta concentración de comercio informal en espacios públicos, que genera congestión y competencia desleal, ocasionando limitaciones para el desarrollo económico ordenado.",
+            "objective": "Implementar el programa municipal “CRECE FORMAL”, orientado a promover la formalización progresiva del comercio informal, el reordenamiento programático del espacio público y la generación de oportunidades económicas para comerciantes informales, con capacitación, asistencia técnica, simplificación administrativa y desarrollo de espacios comerciales seguros, saludables y ordenados.",
+            "goal": "Formalizar y regular el comercio informal en un 50% al 2030.",
+            "indicator": "Porcentaje de comerciantes informales que se han formalizado y ordenado."
+          },
+          {
+            "problem": "Limitadas oportunidades de empleo formal, alta informalidad laboral y escaso acceso de jóvenes, mujeres y emprendedores a programas de capacitación de empleabilidad.",
+            "objective": "Implementar el Programa Municipal “MÁS TRABAJO, MÁS FUTURO”, orientado a fortalecer la empleabilidad en los jóvenes, mujeres y adultos mayores, mediante la capacitación laboral, certificación de competencias, intermediación laboral, e implementando un CENTRO MUNICIPAL DE EMPLEO.",
+            "goal": "Lograr que el 60% de participantes del programa accedan a empleos formales al 2030.",
+            "indicator": "Porcentajes de pobladores capacitados e insertados a empleos formales."
+          },
+          {
+            "problem": "Crecimiento urbano desordenado, ocupación inadecuada del territorio, déficit de infraestructura urbana y limitada planificación urbana que limita el aprovechamiento sostenible del espacio urbano.",
+            "objective": "Implementar el programa municipal “INDEPENDENCIA CIUDAD DEL FUTURO”, orientado a promover el desarrollo urbano sostenible mediante la planificación territorial, recuperación y mejoramiento de espacios públicos, ordenamiento del crecimiento urbano y fortalecimiento de la infraestructura urbana, mediante la creación de la OFICINA MUNICIPAL DE SANEAMIENTO FÍSICO LEGAL.",
+            "goal": "Incrementar en un 50% las áreas urbanas y espacios públicos.",
+            "indicator": "Porcentaje de espacios públicos e instrumentos de gestión y desarrollo urbano implementados."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Insuficiente cobertura y deterioro de las áreas verdes del distrito, limitado mantenimiento de parques afectando la calidad ambiental, el bienestar de la población y el cumplimiento de estándares urbanos sostenibles.",
+            "objective": "Incrementar y proteger las áreas verdes del distrito mediante el programa “INDEPENDENCIA VERDE” que promueva la participación ciudadana, la sostenibilidad ambiental y la creación de espacios públicos saludables del distrito.",
+            "goal": "Incremento del 30% de áreas verdes y espacios públicos recuperados.",
+            "indicator": "Metros cuadrados de áreas verdes y espacios públicos recuperados y mantenidos adecuadamente."
+          },
+          {
+            "problem": "Inadecuada gestión de residuos sólidos, limitada segregación en la fuente, escasa cultura de reciclaje y presencia de puntos críticos de acumulación de residuos sólidos.",
+            "objective": "Fortalecer la gestión integral de residuos sólidos mediante el programa “BASURA CERO” que implementará la reducción, segregación, reaprovechamiento y disposición adecuada de los residuos sólidos, para adecuar a un distrito limpio, saludable y ambientalmente responsable.",
+            "goal": "Incrementar en un 30% de aprovechamiento del residuo sólidos al 2030.",
+            "indicator": "Porcentaje de residuos sólidos aprovechado mediante los programas municipales."
+          },
+          {
+            "problem": "Elevada presencia de animales en situación de abandono, limitada cultura de tenencia responsable de mascotas y acceso insuficiente a servicios de control poblacional del distrito.",
+            "objective": "Promover el bienestar animal y la tenencia responsable de mascotas mediante el programa “PATITAS SEGURAS” creando el CENTRO MUNICIPAL DE SALUD ANIMAL, en el cual se desarrolla la esterilización, vacunación, adopción responsable, educación ciudadana y control poblacional mediante el registro de mascotas en los animales del distrito.",
+            "goal": "Reducir en un 50% de la población animal al 2030.",
+            "indicator": "Porcentaje de reducción de animales en situación de abandono identificados en el distrito."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "La municipalidad no aporta valor público.",
+            "objective": "Implementar las buenas prácticas de gestión Municipal, \"PROGRAMA DE COMPETITIVIDAD MUNICIPAL\", generar las condiciones para la implementación del ISO 9001 de gestión de gobiernos locales.",
+            "goal": "Al término de la gestión, un 95% de aumento de la calidad de gestión.",
+            "indicator": "95% de las municipalidades no generan valor público."
+          },
+          {
+            "problem": "No se cuenta con indicadores de gestión para implementar la mejora continua.",
+            "objective": "Implementar “EL OBSERVATORIO DE LA GESTIÓN MUNICIPAL (OGM)\" que permita retroalimentar y corregir los errores en todas las áreas de la gestión municipal.",
+            "goal": "Al término de la gestión, un 95% de actividad municipal cubierta.",
+            "indicator": "No se especifica."
+          },
+          {
+            "problem": "Deficiente manejo de archivo e información de los procesos en la gestión municipal.",
+            "objective": "Implementar el Programa \"MUNI DIGITAL\", estableciendo la digitalización total de los procesos de gestión municipal, Papel Cero, y las bases de ciudad digital.",
+            "goal": "En el 2030 se logrará implementar el 100% de sistematización y automatización de los procesos.",
+            "indicator": "El 50% de la infraestructura tecnológica se encuentra en mal estado y el 65% del personal no sabe el manejo de informática."
+          },
+          {
+            "problem": "Alto índice de corrupción en la gestión Municipal.",
+            "objective": "Implementación del ISO 37001 ANTICORRUPCIÓN, teniendo como prioridad y política de gestión la honestidad.",
+            "goal": "Reducir los actos de corrupción de funcionarios en un 100%.",
+            "indicator": "Funcionarios y gobernantes tienen proceso legal de corrupción."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [],
+  "sources": [
+    {
+      "id": "jne-hv-TAMgrG7LjK0QUMJ1gPNGMUm8zV5K542j",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/TAMgrG7LjK0QUMJ1gPNGMUm8zV5K542j",
+      "sha256": "f22cf8635dae0f38eb2625736ebefb636da5c1deb9e591f37fccb292c991b08d",
+      "accessedAt": "2026-10-02T22:56:54.361Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026016272",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026016272",
+      "sha256": "bfd8b9bfe3504aeab3c4001afeeb95eba9f4f159678a1fedddbe19895e65dfe6",
+      "accessedAt": "2026-10-02T22:56:54.861Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK",
+  "slug": "walter-jesus-rivera-guerra",
+  "electionId": "erm-2026",
+  "name": "Walter Jesus Rivera Guerra",
+  "givenNames": "Walter Jesus",
+  "surnames": "Rivera Guerra",
+  "age": 57,
+  "gender": "Masculino",
+  "party": {
+    "id": 4,
+    "name": "ACCION POPULAR"
+  },
+  "jurisdictionId": "140103",
+  "office": "ALCALDE DISTRITAL",
+  "status": "INSCRITO",
+  "statusHistory": [
+    {
+      "status": "INSCRITO",
+      "observedAt": "2026-10-02T22:50:34.980Z",
+      "sourceId": "jne-hv-bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK"
+    }
+  ],
+  "education": {
+    "basic": {
+      "primary": true,
+      "secondary": true
+    },
+    "entries": [
+      {
+        "level": "universitaria",
+        "institution": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMÁN Y VALLE",
+        "program": "CIENCIAS SOCIALES Y HUMANIDADES",
+        "completed": false,
+        "degree": null,
+        "year": null
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "I.E.P. BLAISE PASCAL (INVERSIONES BLAISE PASCAL S.A.C.)",
+      "role": "COORDINADOR DE NORMAS",
+      "from": "2025",
+      "to": "2026"
+    }
+  ],
+  "publicOffices": [
+    {
+      "office": "REGIDOR DISTRITAL",
+      "party": "ACCION POPULAR",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "office": "CONGRESISTA DE LA REPÚBLICA",
+      "party": "ACCION POPULAR",
+      "from": "2020",
+      "to": "2021"
+    }
+  ],
+  "partyPositions": [
+    {
+      "position": "SECRETARÍA NACIONAL DE AUDIENCIA PUBLICA Y GESTION DEL PUEBLO",
+      "party": "ACCION POPULAR",
+      "from": "2023",
+      "to": "HASTA LA ACTUALIDAD"
+    },
+    {
+      "position": "SECRETARIO NACIONAL DE DISCIPLINA",
+      "party": "PARTIDO POLÍTICO ACCION POPULAR",
+      "from": "2024",
+      "to": "2024"
+    }
+  ],
+  "partyResignations": [],
+  "assets": {
+    "income": [
+      {
+        "year": "2025",
+        "total": 14400,
+        "public": 0,
+        "private": 14400
+      }
+    ],
+    "realEstate": [],
+    "vehicles": [
+      {
+        "type": "MARCA: GUOWEI, MODELO: GW150-5B, COLOR: AZUL PLATA, AÑO:2009",
+        "value": 4000
+      }
+    ],
+    "otherMovable": [],
+    "holdings": []
+  },
+  "additionalInfo": [],
+  "plan": {
+    "pdfUrl": "https://mpesije.jne.gob.pe/docs/a1b3a83f-3269-4421-b076-6967c35452c2.pdf",
+    "summaryPdfUrl": "https://mpesije.jne.gob.pe/docs/ad3b3364-f39d-4de9-b215-eead85eb962f.pdf",
+    "dimensions": [
+      {
+        "name": "Dimensión Social",
+        "items": [
+          {
+            "problem": "Alta tasa de violencia contra la mujer e integrantes del grupo familiar, evidenciada por un elevado número de denuncias en las comisarías del distrito, lo que requiere una respuesta articulada y descentralizada.",
+            "objective": "Implementar un sistema distrital de prevención, atención y protección frente a la violencia contra la mujer y el grupo familiar, en articulación con el CEM, la PNP y el Ministerio Público.",
+            "goal": "Poner en operación un Centro Municipal de Atención a la Mujer en los principales ejes residenciales para 2027, activar una red de promotoras comunitarias y reducir en un 25% la tasa de denuncias para 2030.",
+            "indicator": "Tasa de denuncias por violencia contra la mujer por cada 10,000 habitantes; Número de casos atendidos."
+          },
+          {
+            "problem": "Alta incidencia delictiva, robos al paso y extorsión en el distrito de Ate, con altos índices de denuncias por delitos contra el patrimonio, especialmente en zonas comerciales y paraderos de la Carretera Central.",
+            "objective": "Reducir la incidencia delictiva mediante un sistema distrital integrado de seguridad, que incluye el fortalecimiento del serenazgo, videovigilancia interconectada con la PNP y la organización de juntas vecinales en zonas clave como Huaycán, Vitarte y Santa Clara.",
+            "goal": "Reducir en un 30% la tasa de denuncias al 2030, instalar nuevas cámaras integradas a una central única, incrementar en un 50% el serenazgo y activar más juntas vecinales.",
+            "indicator": "Tasa de denuncias de delitos por cada 10,000 habitantes (SIDPOL-PNP)."
+          },
+          {
+            "problem": "Limitadas oportunidades y espacios seguros para niños, adolescentes y jóvenes en zonas vulnerables del distrito, como Huaycán y Horacio Zeballos, debido a infraestructura deportiva deteriorada y falta de programas preventivos de pandillaje.",
+            "objective": "Recuperar los espacios públicos y ampliar los programas deportivos, culturales y de empleabilidad juvenil como estrategia de prevención social del delito.",
+            "goal": "Recuperar 40 losas deportivas y parques con iluminación LED al 2030 y lograr un incremento anual de jóvenes participantes en programas y talleres municipales productivos.",
+            "indicator": "Número de espacios públicos recuperados e iluminados; Número de niños y jóvenes beneficiarios por año."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Económica",
+        "items": [
+          {
+            "problem": "Comercio ambulatorio desordenado y congestión en los principales ejes viales del distrito, afectando el libre tránsito peatonal, vehicular y al comercio formal.",
+            "objective": "Reordenar el comercio en la vía pública mediante el empadronamiento, la formalización progresiva y la reubicación concertada, recuperando el espacio público.",
+            "goal": "Culminar el empadronamiento de la mayoría de comerciantes ambulantes al 2027 y lograr la reubicación progresiva o inserción al comercio formal de un 30% de los registrados al 2030.",
+            "indicator": "Porcentaje de comerciantes ambulantes empadronados; Porcentaje de comerciantes reubicados o formalizados en espacios seguros."
+          },
+          {
+            "problem": "El dinamismo de los principales ejes comerciales de Ate no se articula con la economía local, y las MYPE de los ejes residenciales tienen dificultades para acceder a cadenas de valor masivas.",
+            "objective": "Articular el polo comercial con el tejido empresarial local a través de un programa municipal de formalización, capacitación, ruedas de negocio y compras locales.",
+            "goal": "Formalización de MYPE y capacitación de emprendedores al 2030; realización de al menos una rueda de negocio anual con los centros comerciales y grandes empresas del distrito.",
+            "indicator": "Número de MYPE formalizadas; Número de emprendedores capacitados y articulados a cadenas comerciales."
+          },
+          {
+            "problem": "Desempleo y subempleo juvenil en el distrito, a pesar de la alta presencia de empresas e industrias, debido a una débil vinculación entre la oferta laboral y la formación de los jóvenes.",
+            "objective": "Fortalecer y expandir la Bolsa de Trabajo Municipal y la articulación técnica local con empresas, institutos y universidades para vincular eficazmente la demanda laboral con la juventud del distrito.",
+            "goal": "Incrementar progresivamente la inserción laboral de jóvenes locales al 2030 y firmar nuevos convenios estratégicos con el sector empresarial e instituciones de educación técnica local.",
+            "indicator": "Número de vecinos insertados laboralmente por la bolsa municipal; Número de convenios de capacitación vigentes."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Ambiental",
+        "items": [
+          {
+            "problem": "Déficit crónico de acceso regular a agua potable y sistemas de saneamiento en las partes altas y asentamientos humanos del distrito, con un abastecimiento costoso mediante camiones cisterna o pilones públicos.",
+            "objective": "Gestionar, coordinar y cofinanciar activamente con SEDAPAL, el MVCS y el Ministerio de Vivienda el cierre definitivo de la brecha de agua y saneamiento en las zonas altas del distrito.",
+            "goal": "Reducir la brecha de conexiones domiciliarias al 2030 e inscribir una cartera de proyectos en el Programa Multianual de Inversiones al 2027.",
+            "indicator": "Porcentaje de viviendas con acceso formal a conexiones domiciliarias de agua potable y alcantarillado en zonas vulnerables."
+          },
+          {
+            "problem": "Acumulación descontrolada de residuos sólidos, desmontes y basura en puntos críticos, con una cobertura de recojo ineficiente en sectores periféricos y una baja cultura de segregación en la fuente.",
+            "objective": "Modernizar la gestión integral de residuos sólidos mediante la renovación de flota, optimización de rutas, erradicación de puntos críticos y la segregación con recicladores formalizados.",
+            "goal": "Erradicar el 100% de los puntos críticos de basura identificados al 2028, alcanzar una cobertura del servicio de recojo al 98% e incrementar la valorización de residuos al 2030.",
+            "indicator": "Número de puntos críticos erradicados; Porcentaje de residuos sólidos valorizados."
+          },
+          {
+            "problem": "Déficit de áreas verdes por habitante y alto riesgo de desastres por sismos o deslizamientos en viviendas ubicadas en laderas de cerros desprotegidas, con infraestructura precaria y debilidad en planes de evacuación.",
+            "objective": "Ampliar, recuperar y mantener los parques y áreas verdes, y reducir la vulnerabilidad ante desastres naturales mediante la construcción de muros de contención, pasajes con escaleras seguras, arborización y capacitación comunitaria.",
+            "goal": "Incrementar la cantidad de áreas verdes mantenidas al 2030 y construir muros de contención y escaleras de evacuación priorizadas en los sectores más vulnerables para el término de la gestión.",
+            "indicator": "Metros cuadrados de áreas verdes mantenidas por habitante; Número de obras de mitigación de riesgos (muros de contención y escaleras) ejecutadas en laderas."
+          }
+        ]
+      },
+      {
+        "name": "Dimensión Institucional",
+        "items": [
+          {
+            "problem": "Baja confianza ciudadana en la gestión municipal, percepción de opacidad y débil rendición de cuentas sobre el uso de los recursos públicos.",
+            "objective": "Implementar un modelo sólido de gobierno abierto y modernización digital, promoviendo la transparencia activa, datos abiertos, simplificación de trámites y rendiciones de cuentas periódicas descentralizadas.",
+            "goal": "Realizar dos rendiciones de cuentas públicas por año (ocho en el período) y alcanzar el 100% de cumplimiento del PTE durante toda la gestión.",
+            "indicator": "Número de rendiciones de cuentas públicas; Porcentaje de cumplimiento del Portal de Transparencia Estándar (PTE)."
+          },
+          {
+            "problem": "Débil capacidad municipal para formular y ejecutar inversiones, lo que se refleja en una baja ejecución presupuestal, proyectos paralizados y un uso limitado de mecanismos alternativos de financiamiento.",
+            "objective": "Fortalecer la gerencia de inversiones en formulación, ejecución y seguimiento, y emplear Obras por Impuestos y convenios interinstitucionales para acelerar el cierre de brechas.",
+            "goal": "Lograr un nivel de ejecución presupuestal de obras igual o mayor al 90% anual de forma sostenida y ejecutar proyectos estratégicos clave mediante la modalidad de Obras por Impuestos al 2030.",
+            "indicator": "Porcentaje de ejecución anual del presupuesto institucional de inversiones; Número de proyectos de infraestructura de gran impacto ejecutados."
+          },
+          {
+            "problem": "Escasa participación vecinal efectiva en las decisiones municipales, con un presupuesto participativo poco representativo y juntas vecinales debilitadas.",
+            "objective": "Relanzar e innovar el sistema distrital de participación ciudadana y el Presupuesto Participativo, utilizando herramientas digitales de votación y promoviendo una descentralización real en los ejes territoriales del distrito.",
+            "goal": "Duplicar la participación ciudadana en el Presupuesto Participativo al 2030 y consolidar comités de desarrollo y vigilancia vecinal activos y operativos en todos los ejes territoriales de Ate.",
+            "indicator": "Número de organizaciones y comités vecinales debidamente acreditados y activos; Nivel de participación ciudadana en los talleres del Presupuesto Participativo."
+          }
+        ]
+      }
+    ]
+  },
+  "facts": [
+    {
+      "id": "jne-obliga-143418",
+      "category": "civil_obligation",
+      "summary": "Sentencia por obligación declarada: FAMILIA / ALIMENTARIA",
+      "evidence": "declarado",
+      "legalStatus": "sentencia",
+      "details": {
+        "materia": "FAMILIA / ALIMENTARIA",
+        "juzgado": "CORTE SUPERIOR LIMA ESTE - 3° JUZGADO DE PAZ LETRADO",
+        "expediente": "02073-2021-0-3202-JP-FC-03",
+        "fallo": null,
+        "nota": "Texto del fallo omitido: contiene datos de terceros. Ver la fuente del JNE."
+      },
+      "quote": "FAMILIA / ALIMENTARIA",
+      "sourceIds": [
+        "jne-hv-bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "jne-hv-bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/candidatos/hoja-vida/bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK",
+      "sha256": "15775f879fcba55e6fe1364df3fd2362807f989813cebaa228eb90dc9598f19b",
+      "accessedAt": "2026-10-02T22:50:34.980Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    },
+    {
+      "id": "jne-plan-ERM.2026023225",
+      "providerId": "jne-voto-informado",
+      "url": "https://votoinformado.jne.gob.pe/api/v1/plan-gobierno/resumen?codigoExpediente=ERM.2026023225",
+      "sha256": "aa13272573c0627b628e29f920011a85e9f107ce194e9f0f28b759ea3c468216",
+      "accessedAt": "2026-10-02T22:50:35.470Z",
+      "publisher": "Jurado Nacional de Elecciones",
+      "extractedBy": "api"
+    }
+  ]
+}
