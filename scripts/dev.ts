@@ -122,7 +122,12 @@ const htmlToText = (html: string) =>
     .replace(/&quot;/g, '"')
     .replace(/&#39;|&apos;/g, "'")
     .replace(/&amp;/g, "&")
-    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)));
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(Number.parseInt(n, 16)))
+    // Named Latin entities (&iacute;, &ntilde;, &Uuml;...): keep the base letter;
+    // the comparison drops accents anyway.
+    .replace(/&([a-z])(acute|grave|circ|uml|tilde|cedil|ring);/gi, "$1")
+    .replace(/&(laquo|raquo|ldquo|rdquo|lsquo|rsquo|ndash|mdash|hellip);/g, " ");
 
 async function check(p: Proposal): Promise<QueueItem["check"]> {
   const domain = new URL(p.url).hostname.replace(/^www\./, "");
@@ -145,6 +150,18 @@ async function check(p: Proposal): Promise<QueueItem["check"]> {
       const squash = (t: string) => fold(t).replace(/ /g, "");
       quoteVerified = squash(htmlToText(html)).includes(squash(p.quote));
       note = quoteVerified ? "cita encontrada en la página" : "la cita NO aparece en la página";
+      if (!quoteVerified) {
+        // Some outlets ship the article body as JSON inside a <script> and
+        // render it client-side. Look there too, with JSON escapes undone.
+        const embedded = html
+          .replace(/\\u([0-9a-f]{4})/gi, (_, h) => String.fromCharCode(Number.parseInt(h, 16)))
+          .replace(/\\[rnt]/g, " ")
+          .replace(/\\"/g, '"');
+        if (squash(htmlToText(embedded.replace(/<\/?script[^>]*>/gi, " "))).includes(squash(p.quote))) {
+          quoteVerified = true;
+          note = "cita encontrada en el cuerpo del artículo embebido en la página (JSON)";
+        }
+      }
     } else {
       note = `la página respondió HTTP ${res.status}; la cita no se pudo verificar`;
     }

@@ -42,3 +42,5 @@ Registro de fricción del build (skill cli-build). Al final se incorpora al case
 - **El RUC de una persona natural (10 + DNI + dígito) contiene el DNI.** Se redacta en todo lo publicado y hay un test.
 - **Umbrales para tránsito:** con una falta "grave" (por ejemplo, el cinturón) o una licencia vencida habría habido ~40 "hallazgos" que no son antecedentes. Solo se publican faltas muy graves y licencias suspendidas o canceladas.
 - **Ritmo:** ~9 s por ficha (4 pestañas, captura de cada una y 3 s de pausa). 516 fichas en ~75 min, sin un solo error.
+- **Segundo falso negativo:** RPP escribe las tildes como entidades HTML (`&iacute;`) y el verificador solo decodificaba `&amp;`/`&quot;`/numéricas. Ahora decodifica entidades con nombre y hexadecimales.
+- **Tercer falso negativo:** La República (notas antiguas) envía el cuerpo como JSON dentro de un `<script>` y lo renderiza en el cliente. Ahora, si la cita no aparece en el texto visible, se busca también en el HTML con los escapes JSON decodificados, y se anota que se encontró ahí.
