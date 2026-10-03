@@ -1,0 +1,22 @@
+{
+  "name": "votape-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render:yt": "remotion render src/index.ts YouTube out/votape-youtube.mp4 --codec h264 --crf 18",
+    "render:reel": "remotion render src/index.ts Reel out/votape-reel.mp4 --codec h264 --crf 18"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.532",
+    "@remotion/google-fonts": "^4.0.532",
+    "react": "19",
+    "react-dom": "19",
+    "remotion": "^4.0.532"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
