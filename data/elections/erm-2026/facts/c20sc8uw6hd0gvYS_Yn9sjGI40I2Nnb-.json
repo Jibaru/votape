@@ -1,0 +1,39 @@
+{
+  "candidateId": "c20sc8uw6hd0gvYS_Yn9sjGI40I2Nnb-",
+  "facts": [
+    {
+      "id": "press-d1e532cc81",
+      "category": "press_report",
+      "summary": "Según La República, como alcalde de Surco volvió a contratar a la empresa Memphis Maquinarias para el alquiler de vehículos de Serenazgo, pese a que esa compañía tenía una denuncia fiscal por presuntamente sobrevalorar el precio ofertado en la adjudicación de 2019.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2022-12-31",
+      "details": {
+        "medio": "La República",
+        "titulo": "Surco: Saliente alcalde vuelve a contratar a empresa denunciada"
+      },
+      "quote": "El alcalde Jean Pierre Combe volvió a contratar a empresa Memphis Maquinarias para el alquiler de vehículos de Serenazgo, pese a que la compañía tiene una denuncia fiscal por presuntamente sobrevalorar el precio que ofertó la primera vez que obtuvo la adjudicación, en 2019.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo y cargo coinciden: el artículo trata de Jean Pierre Combe como alcalde saliente de la Municipalidad de Santiago de Surco, cargo que el input registra (alcalde distrital de Surco 2019-2022).",
+      "sourceIds": [
+        "src-press-d1e532cc81"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:40.167Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-d1e532cc81",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2022/12/31/surco-saliente-alcalde-vuelve-a-contratar-a-empresa-denunciada",
+      "archivedUrl": "http://web.archive.org/web/20250122012237/https://larepublica.pe/sociedad/2022/12/31/surco-saliente-alcalde-vuelve-a-contratar-a-empresa-denunciada",
+      "sha256": "35ada30836f88aca52f68d29c21c599936e160596cf31667d2cf3acea9e69a51",
+      "accessedAt": "2026-10-03T01:41:40.587Z",
+      "publisher": "La República",
+      "title": "Surco: Saliente alcalde vuelve a contratar a empresa denunciada",
+      "extractedBy": "agent"
+    }
+  ]
+}

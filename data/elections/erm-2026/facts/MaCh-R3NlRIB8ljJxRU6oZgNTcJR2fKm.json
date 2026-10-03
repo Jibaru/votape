@@ -1,0 +1,39 @@
+{
+  "candidateId": "MaCh-R3NlRIB8ljJxRU6oZgNTcJR2fKm",
+  "facts": [
+    {
+      "id": "press-5f1235f384",
+      "category": "judicial_process",
+      "summary": "Según Infobae, la Contraloría inició una investigación en la Municipalidad de Comas tras denuncias de extrabajadores que acusan a la gestión de la alcaldesa Carmen Mónica Acuña Jara de condicionar su permanencia en el cargo a actividades proselitistas vinculadas a Podemos Perú.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-03-23",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Contraloría investiga a la Municipalidad de Comas tras denuncia de purga de trabajadores por negarse a favorecer a Podemos Perú"
+      },
+      "quote": "Extrabajadores acusan a la gestión de la alcaldesa Carmen Mónica Acuña Jara de condicionar la permanencia en sus cargos a la realización de actividades proselitistas, tanto en redes sociales como en eventos partidarios.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo 'Carmen Mónica Acuña Jara' como alcaldesa (encargada) de Comas, coincide con el cargo de alcaldesa de Comas 2025-2026 declarado y el partido Podemos Perú. La investigación es sobre la municipalidad; el artículo recoge que ella negó haber instruido presión alguna.",
+      "sourceIds": [
+        "src-press-5f1235f384"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:50.788Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-5f1235f384",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/03/24/contraloria-investiga-a-la-municipalidad-de-comas-tras-denuncia-de-purga-de-trabajadores-por-negarse-a-favorecer-a-podemos-peru/",
+      "archivedUrl": "http://web.archive.org/web/20260325032512/https://www.infobae.com/peru/2026/03/24/contraloria-investiga-a-la-municipalidad-de-comas-tras-denuncia-de-purga-de-trabajadores-por-negarse-a-favorecer-a-podemos-peru/",
+      "sha256": "447842437b9654ef0703c527a052222409542772ce5d8dc5cb73894990256e0d",
+      "accessedAt": "2026-10-03T01:32:07.664Z",
+      "publisher": "Infobae",
+      "title": "Contraloría investiga a la Municipalidad de Comas tras denuncia de purga de trabajadores por negarse a favorecer a Podemos Perú",
+      "extractedBy": "agent"
+    }
+  ]
+}

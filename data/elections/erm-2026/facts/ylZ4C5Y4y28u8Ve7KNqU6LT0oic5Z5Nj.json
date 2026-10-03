@@ -1,0 +1,71 @@
+{
+  "candidateId": "ylZ4C5Y4y28u8Ve7KNqU6LT0oic5Z5Nj",
+  "facts": [
+    {
+      "id": "press-0f4246c27f",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, la Tercera Sala Penal de Apelaciones de Lima Norte declaró extinguida por prescripción la acción penal contra Julio Chávez por omisión de denuncia, en un caso en el que había sido condenado en primera instancia a dos años y ocho meses de prisión suspendida.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2026-05-14",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Poder Judicial condena a dos años y 8 meses de prisión suspendida al presidente de Acción Popular"
+      },
+      "quote": "La Tercera Sala Penal de Apelaciones de la Corte Superior de Justicia de Lima Norte declaró extinguida por prescripción la acción penal seguida contra el presidente de Acción Popular (AP), Julio Chávez, quien había sido condenado en primera instancia a dos años y ocho meses de prisión suspendida por el delito de omisión de denuncia.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como presidente de Acción Popular y exalcalde de la Municipalidad de San Martín de Porres, coincidiendo con su partido (Acción Popular) y su cargo de alcalde distrital 2019-2022 en el input.",
+      "sourceIds": [
+        "src-press-0f4246c27f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:08.722Z"
+    },
+    {
+      "id": "press-8a66ba80fe",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, de 19 investigaciones fiscales registradas por el Ministerio Público sobre el exalcalde, 12 están en investigación preliminar o asignadas para diligencias, entre ellas expedientes por presunta colusión y cohecho pasivo propio.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-08-01",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Julio Chávez Chiong: el historial de investigaciones fiscales que acompaña al candidato de Acción Popular en su retorno a San Martín de Porres"
+      },
+      "quote": "De las 19 investigaciones fiscales únicas registradas por el Ministerio Público, 12 se encuentran en investigación preliminar o han sido asignadas para diligencias. Entre ellas figuran expedientes por presunta colusión con defraudación patrimonial al Estado (Caso N.° 2023-58-0), cohecho pasivo propio (Caso N.° 2023-97-0)",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Julio Chávez Chiong como candidato de Acción Popular a la alcaldía de San Martín de Porres y exalcalde del distrito entre 2019 y 2022, coincidiendo con partido, distrito y cargo del input.",
+      "sourceIds": [
+        "src-press-8a66ba80fe"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:09.183Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-0f4246c27f",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/justicia/poder-judicial-condena-a-dos-anos-y-8-meses-de-prision-suspendida-al-presidente-de-accion-popular-julio-chavez-san-martin-de-porres-ultimas-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260826134710/https://elcomercio.pe/politica/justicia/poder-judicial-condena-a-dos-anos-y-8-meses-de-prision-suspendida-al-presidente-de-accion-popular-julio-chavez-san-martin-de-porres-ultimas-noticia/",
+      "sha256": "d27ee75369b567e645ec62fd419e24d3fd04cb37cf45fae53f8805c705a83ce2",
+      "accessedAt": "2026-10-03T01:40:12.689Z",
+      "publisher": "El Comercio",
+      "title": "Poder Judicial condena a dos años y 8 meses de prisión suspendida al presidente de Acción Popular",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-8a66ba80fe",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/julio-chavez-chiong-el-historial-de-investigaciones-fiscales-que-acompana-al-candidato-de-accion-popular-en-su-retorno-a-san-martin-de-porres-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260802170203/https://elcomercio.pe/lima/julio-chavez-chiong-el-historial-de-investigaciones-fiscales-que-acompana-al-candidato-de-accion-popular-en-su-retorno-a-san-martin-de-porres-noticia/",
+      "sha256": "e7b1203512baf7965536a321e32b715d63f515b53f08fc044d3e60795f64ad5e",
+      "accessedAt": "2026-10-03T01:40:14.206Z",
+      "publisher": "El Comercio",
+      "title": "Julio Chávez Chiong: el historial de investigaciones fiscales que acompaña al candidato de Acción Popular en su retorno a San Martín de Porres",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "candidateId": "4xEXu73ABDOt4vNqyKkONzx32NHdveTB",
+  "facts": [
+    {
+      "id": "press-e79f119702",
+      "category": "judicial_process",
+      "summary": "Según Infobae, la Fiscalía de la Nación presentó ante el Congreso una denuncia constitucional contra ella, como congresista, como presunta instigadora del delito de negociación incompatible o aprovechamiento indebido del cargo en agravio del Estado.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2024-07-19",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Roselli Amuruz, Magaly Ruiz y David Jiménez en la mira: Ministerio Público denunció a congresistas por aprovechamiento indebido del cargo y peculado doloso"
+      },
+      "quote": "La Fiscalía de la Nación, a través del Área de Enriquecimiento Ilícito y Denuncias Constitucionales, presentó hoy, ante el Congreso de la República, la denuncia constitucional contra Yessica Roselli Amuruz Dulanto, en su condición de congresista de la República, como presunta instigadora del delito de negociación incompatible o aprovechamiento indebido del cargo, en agravio del Estado",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo la nombra con su nombre completo 'Yessica Roselli Amuruz Dulanto', congresista de Avanza País, que coincide con su cargo y partido en el input (congresista 2021-2026, Avanza País).",
+      "sourceIds": [
+        "src-press-e79f119702"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:24.471Z"
+    },
+    {
+      "id": "press-a87a04832c",
+      "category": "sanction",
+      "summary": "Según Infobae, la Comisión de Ética del Congreso le impuso una sanción de 60 días de multa, como amonestación por organizar una fiesta para su pareja que terminó con un crimen en Lince.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2024-04-29",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Rosselli Amuruz sale furiosa de Comisión de Ética tras ser sancionada y amenaza a Diego Bazán con revelar videos de sus fiestas"
+      },
+      "quote": "La tercera vicepresidenta del Congreso, Rosselli Amuruz, enfureció este lunes después de recibir una sanción de 60 días de multa por parte de la Comisión de Ética del Parlamento. La amonestación fue impuesta por organizar una fiesta para su pareja a finales de septiembre, un evento que terminó con un crimen en Lince.",
+      "quoteVerified": true,
+      "identityEvidence": "Se refiere a la congresista Rosselli Amuruz Dulanto (nombre completo en el informe citado), de la bancada Avanza País, coincidente con su cargo y partido en el input.",
+      "sourceIds": [
+        "src-press-a87a04832c"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:24.930Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-e79f119702",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2024/07/19/rosselli-amuruz-presentan-denuncia-constitucional-contra-congresista-por-contrataciones-irregulares-en-el-parlamento/",
+      "archivedUrl": "http://web.archive.org/web/20251013225540/https://www.infobae.com/peru/2024/07/19/rosselli-amuruz-presentan-denuncia-constitucional-contra-congresista-por-contrataciones-irregulares-en-el-parlamento/",
+      "sha256": "db9e8d5103f0871dd5ee502feee633ff6d9cc1f7e51892cacb3f5e5449c00bc8",
+      "accessedAt": "2026-10-03T01:41:38.557Z",
+      "publisher": "Infobae",
+      "title": "Roselli Amuruz, Magaly Ruiz y David Jiménez en la mira: Ministerio Público denunció a congresistas por aprovechamiento indebido del cargo y peculado doloso",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-a87a04832c",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2024/04/30/rosselli-amuruz-sale-furiosa-tras-sancion-de-comision-de-etica-y-amenaza-a-diego-bazan-con-revelar-videos-de-sus-fiestas/",
+      "archivedUrl": "http://web.archive.org/web/20240722180532/https://www.infobae.com/peru/2024/04/30/rosselli-amuruz-sale-furiosa-tras-sancion-de-comision-de-etica-y-amenaza-a-diego-bazan-con-revelar-videos-de-sus-fiestas/",
+      "sha256": "077f57d1f62eed13741a48526d8e4117a06e3f50b530783694ecedb9a0c8df3f",
+      "accessedAt": "2026-10-03T01:41:39.411Z",
+      "publisher": "Infobae",
+      "title": "Rosselli Amuruz sale furiosa de Comisión de Ética tras ser sancionada y amenaza a Diego Bazán con revelar videos de sus fiestas",
+      "extractedBy": "agent"
+    }
+  ]
+}

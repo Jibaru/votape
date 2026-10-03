@@ -1,0 +1,71 @@
+{
+  "candidateId": "n1IJiizCSkhxrKsb9FJXoLs0O9z8xn2F",
+  "facts": [
+    {
+      "id": "press-0a0221f818",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en octubre de 2018 Miguel Saman Ballarta, entonces candidato de Somos Perú a la alcaldía de Punta Negra, fue detenido junto al alcalde Willington Ojeda en un operativo contra la presunta organización criminal \"Los Charlys del Sur\", dedicada al tráfico de terrenos.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2018-10-03",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Alcalde de Punta Negra sería cabecilla de organización criminal"
+      },
+      "quote": "Entre las personas intervenidas, además del alcalde Ojeda, está el candidato por el municipio de Punta Negra por Somos Perú, Miguel Saman Ballarta, quien al ser persona cercana al burgomaestre se habría involucrado en la captación de clientes para la fraudulenta adquisición de las áreas a usurpar",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre poco común (Miguel Ángel Saman Ballarta) y mismo distrito: era candidato a la alcaldía de Punta Negra en 2018; Infobae (2026) confirma que el actual candidato del Frente de la Esperanza postuló en Punta Negra en 2018 y fue detenido en el caso 'Los Charlys del Sur'.",
+      "sourceIds": [
+        "src-press-0a0221f818"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:51.139Z"
+    },
+    {
+      "id": "press-6b4db5dbee",
+      "category": "judicial_process",
+      "summary": "Según RPP, en octubre de 2018 un juzgado de Lima Sur declaró infundado el pedido de prisión preventiva contra Miguel Ángel Saman Ballarta, investigado en el caso 'Los charlys del sur', y le impuso comparecencia restrictiva y una caución de cinco mil soles.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2018-10-23",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Poder Judicial dicta 36 meses de prisión preventiva contra el alcalde de Punta Negra"
+      },
+      "quote": "El Tercer Juzgado de Investigación Preparatoria de la Corte Superior de Justicia de Lima declaró infundado el requerimiento de prisión preventiva para los investigados Carlos Alberto Sánchez Sotomayor y Miguel Ángel Saman Ballarta e impuso la medida de comparecencia restrictiva",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo idéntico (Miguel Ángel Saman Ballarta) en el caso de la Municipalidad de Punta Negra, distrito al que postula; El Comercio (2018) lo identifica como candidato a Punta Negra investigado en el mismo caso.",
+      "sourceIds": [
+        "src-press-6b4db5dbee"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:51.508Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-0a0221f818",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/policiales/alcalde-punta-negra-seria-cabecilla-organizacion-criminal-noticia-563910-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20240409174642/https://elcomercio.pe/lima/policiales/alcalde-punta-negra-seria-cabecilla-organizacion-criminal-noticia-563910-noticia/",
+      "sha256": "c72fd2451d0ee8c2145049cbbe77045113c39ff95e6a746e785b0cdae6d436bb",
+      "accessedAt": "2026-10-03T01:40:06.530Z",
+      "publisher": "El Comercio",
+      "title": "Alcalde de Punta Negra sería cabecilla de organización criminal",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-6b4db5dbee",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/lima/actualidad/poder-judicial-dicta-36-meses-de-prision-preventiva-contra-el-alcalde-de-punta-negra-noticia-1158561",
+      "archivedUrl": "http://web.archive.org/web/20220307182350/https://rpp.pe/lima/actualidad/poder-judicial-dicta-36-meses-de-prision-preventiva-contra-el-alcalde-de-punta-negra-noticia-1158561",
+      "sha256": "9b642623e0c8f478ad5bd4601e6617898241647274714be0afb5c1d3d93b776b",
+      "accessedAt": "2026-10-03T01:40:07.786Z",
+      "publisher": "RPP",
+      "title": "Poder Judicial dicta 36 meses de prisión preventiva contra el alcalde de Punta Negra",
+      "extractedBy": "agent"
+    }
+  ]
+}

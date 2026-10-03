@@ -1,0 +1,39 @@
+{
+  "candidateId": "l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX",
+  "facts": [
+    {
+      "id": "press-7847308343",
+      "category": "press_report",
+      "summary": "Según Infobae, Miguel Huacre Mendez, alcalde de Anco Huallo, seguía ejerciendo el cargo pese a su inhabilitación y recibió asesoría legal de Nicanor Boluarte.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2024-05-10",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "El polémico perfil de Nicanor Boluarte, el supuesto ‘operador en la sombra’ del gobierno de la presidenta"
+      },
+      "quote": "El beneficiario de estos consejos fue Miguel Huacre Mendez, burgomaestre de Anco Huallo, quien, a pesar de su inhabilitación por prácticas corruptas, sigue ejerciendo su función en la alcaldía.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo y cargo coinciden: el input registra al candidato como alcalde de la Municipalidad Distrital de Anco Huallo (2023-2026).",
+      "sourceIds": [
+        "src-press-7847308343"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:50.055Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-7847308343",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2024/05/10/el-polemico-perfil-de-nicanor-boluarte-el-supuesto-operador-en-la-sombra-del-gobierno-de-la-presidenta/",
+      "archivedUrl": "http://web.archive.org/web/20240522161945/https://www.infobae.com/peru/2024/05/10/el-polemico-perfil-de-nicanor-boluarte-el-supuesto-operador-en-la-sombra-del-gobierno-de-la-presidenta/",
+      "sha256": "afa582d469d14abfa8440ea4cd341f1f2ed66d38e27e1045ed94b1d2e350abac",
+      "accessedAt": "2026-10-03T01:44:17.810Z",
+      "publisher": "Infobae",
+      "title": "El polémico perfil de Nicanor Boluarte, el supuesto ‘operador en la sombra’ del gobierno de la presidenta",
+      "extractedBy": "agent"
+    }
+  ]
+}

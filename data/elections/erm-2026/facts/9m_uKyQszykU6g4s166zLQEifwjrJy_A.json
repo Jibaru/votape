@@ -1,0 +1,70 @@
+{
+  "candidateId": "9m_uKyQszykU6g4s166zLQEifwjrJy_A",
+  "facts": [
+    {
+      "id": "press-da4555f74f",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, la fiscalía formuló una acusación por peculado doloso contra Enrique Ocrospoma por simulación de contratos en la remodelación de veredas de Jesús María, y él afirmó en 2018 que al final el caso fue archivado.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2018-02-15",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Enrique Ocrospoma: “Si no te han denunciado es por amigos o porque no has hecho nada”"
+      },
+      "quote": "La fiscalía consideró una acusación por peculado doloso por simulación de contratos a partir de remodelación de veredas en el distrito. Eso fue una maldad de un sujeto que estuvo en un hecho aislado, en un delito, tanto es así que al final el caso fue archivado.",
+      "quoteVerified": true,
+      "identityEvidence": "Entrevista a Enrique Ocrospoma como exalcalde ('burgomaestre') de Jesús María por dos períodos y exmilitante del PPC; coincide con sus cargos de alcalde distrital 2007-2010 y 2011-2014 en el JNE. El juicio oral (2014) consta también en https://elcomercio.pe/lima/alcalde-jesus-maria-debera-asistir-juicio-peculado-300594-noticia/ ('El alcalde distrital de Jesús María, Enrique Ocrospoma Pella').",
+      "sourceIds": [
+        "src-press-da4555f74f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:35.535Z"
+    },
+    {
+      "id": "press-44fb51bb25",
+      "category": "press_report",
+      "summary": "Según El Comercio, una diferencia en los bienes de Ocrospoma, entonces alcalde de Jesús María, debió aparecer en su declaración jurada de 2010, pero no la reportó a la Contraloría.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2014-09-23",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Ocrospoma transfirió casa en La Molina a un cuarto de su valor"
+      },
+      "quote": "Esta diferencia debió aparecer en su declaración jurada del 2010, pero el alcalde no lo reportó a la contraloría.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a 'Enrique Ocrospoma Pella', alcalde de Jesús María desde 2007 que buscaba ser electo por tercera vez con el PPC; coincide con nombre, apellidos, distrito, cargo y partido del JNE.",
+      "sourceIds": [
+        "src-press-44fb51bb25"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:36.176Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-da4555f74f",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/enrique-ocrospoma-han-denunciado-amigos-has-hecho-noticia-497119-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20191207174647/https://elcomercio.pe/politica/enrique-ocrospoma-han-denunciado-amigos-has-hecho-noticia-497119-noticia/",
+      "sha256": "0f998d9e3319d97c9268c99ac69ce2023245685366e0b8409e3a255cc9830764",
+      "accessedAt": "2026-10-03T01:42:23.749Z",
+      "publisher": "El Comercio",
+      "title": "Enrique Ocrospoma: “Si no te han denunciado es por amigos o porque no has hecho nada”",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-44fb51bb25",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/ocrospoma-transfirio-casa-molina-cuarto-366834-noticia/",
+      "sha256": "808aa06c493b05e9bbf69d162c19be68f5447f30b22d938b1d9c7de834865017",
+      "accessedAt": "2026-10-03T01:42:25.339Z",
+      "publisher": "El Comercio",
+      "title": "Ocrospoma transfirió casa en La Molina a un cuarto de su valor",
+      "extractedBy": "agent"
+    }
+  ]
+}

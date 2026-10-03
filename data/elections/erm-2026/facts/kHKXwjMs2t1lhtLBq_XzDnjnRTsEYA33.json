@@ -1,0 +1,39 @@
+{
+  "candidateId": "kHKXwjMs2t1lhtLBq_XzDnjnRTsEYA33",
+  "facts": [
+    {
+      "id": "press-3df6753e99",
+      "category": "sanction",
+      "summary": "Según Infobae, su candidatura a la alcaldía de Surquillo en 2022 fue tachada por omitir informar dos sentencias en su contra por no depositar aportes de AFP.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2025-10-15",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Sandra Gutiérrez Cuba: La ministra de la Mujer y las sentencias que la dejaron fuera de las Elecciones 2022"
+      },
+      "quote": "La hoy titular del MIMP fue tachada por omitir informar dos sentencias en su contra por incumplimiento de obligaciones contractuales, específicamente por incumplimiento de depositar aportes de AFP, de acuerdo con documentación a la que accedió Infobae.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo Sandra Gutiérrez Cuba, militante de Somos Perú, exregidora de Surquillo y ministra de la Mujer (2025), todo coincidente con su CV. Hecho distinto de las sentencias ya conocidas: la tacha electoral de 2022 por omitirlas.",
+      "sourceIds": [
+        "src-press-3df6753e99"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:48.437Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-3df6753e99",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2025/10/15/sandra-gutierrez-cuba-la-ministra-de-la-mujer-y-las-sentencias-que-la-dejaron-fuera-de-las-elecciones-2022/",
+      "archivedUrl": "http://web.archive.org/web/20251112151118/https://www.infobae.com/peru/2025/10/15/sandra-gutierrez-cuba-la-ministra-de-la-mujer-y-las-sentencias-que-la-dejaron-fuera-de-las-elecciones-2022/",
+      "sha256": "5e66f311d14f136e882a7ec00eb96e46240a47d20fa51257a41ea6d64e4160ad",
+      "accessedAt": "2026-10-03T01:42:17.328Z",
+      "publisher": "Infobae",
+      "title": "Sandra Gutiérrez Cuba: La ministra de la Mujer y las sentencias que la dejaron fuera de las Elecciones 2022",
+      "extractedBy": "agent"
+    }
+  ]
+}

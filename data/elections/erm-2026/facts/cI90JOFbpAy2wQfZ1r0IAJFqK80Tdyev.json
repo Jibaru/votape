@@ -1,0 +1,71 @@
+{
+  "candidateId": "cI90JOFbpAy2wQfZ1r0IAJFqK80Tdyev",
+  "facts": [
+    {
+      "id": "press-e25ab9c10d",
+      "category": "judicial_process",
+      "summary": "Según La República, Eloy Chávez Hernández, entonces alcalde de Villa María del Triunfo y candidato de Alianza para el Progreso, ha sido acusado por cobro indebido y colusión agravada.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2022-09-20",
+      "details": {
+        "medio": "La República",
+        "titulo": "Elecciones 2022: ¿quiénes son y qué proponen los candidatos de Villa María del Triunfo?"
+      },
+      "quote": "En la actualidad, funge como alcalde luego de que el electo Guido Iñigo fuese tachado. Ha sido acusado por cobro indebido y colusión agravada.",
+      "quoteVerified": true,
+      "identityEvidence": "El perfil es de 'Eloy Chávez Hernández (Alianza para el Progreso)', alcalde de Villa María del Triunfo tras la tacha de Guido Iñigo; coincide con su cargo de alcalde distrital de VMT (2019-2022) y con su partido de 2022 (APP) en el input.",
+      "sourceIds": [
+        "src-press-e25ab9c10d"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:40.717Z"
+    },
+    {
+      "id": "press-6862441ea8",
+      "category": "press_report",
+      "summary": "Según Infobae, la empresa Grifos Espinoza S.A., dueña del grifo donde ocurrió la explosión en VMT, obtuvo en febrero de 2024 un contrato de S/1.573.000 como postor único de la Municipalidad de Villa María del Triunfo bajo la gestión del alcalde Eloy Chávez.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2024-05-22",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Explosión en VMT: empresa dueña del grifo siniestrado se embolsó S/1.573.000 del Estado"
+      },
+      "quote": "La empresa Grifos Espinoza S.A., propietaria de la estación de servicio donde se registró la explosión que dejó un muerto y 54 heridos, se embolsó S/1.573.000 del erario público en febrero último, al obtener un contrato como postor único por parte de la Municipalidad de Villa María del Triunfo (VMT), bajo la gestión del alcalde Eloy Chávez.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere al alcalde de Villa María del Triunfo Eloy Chávez en 2024; el input registra a Eloy Chávez Hernández como alcalde de la Municipalidad Distrital de VMT (2023-2026).",
+      "sourceIds": [
+        "src-press-6862441ea8"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:41.242Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-e25ab9c10d",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/elecciones/2022/09/20/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-de-villa-maria-del-triunfo-pltc-atmp",
+      "archivedUrl": "http://web.archive.org/web/20260415045413/https://larepublica.pe/politica/elecciones/2022/09/20/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-de-villa-maria-del-triunfo-pltc-atmp",
+      "sha256": "e10843b138ae1cad203b01fc90cffdf845969b1a3e31cc8725c280df5ea69e11",
+      "accessedAt": "2026-10-03T01:44:04.034Z",
+      "publisher": "La República",
+      "title": "Elecciones 2022: ¿quiénes son y qué proponen los candidatos de Villa María del Triunfo?",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-6862441ea8",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2024/05/22/explosion-en-vmt-empresa-duena-del-grifo-siniestrado-se-embolso-s1573000-del-estado/",
+      "archivedUrl": "http://web.archive.org/web/20250722214229/https://www.infobae.com/peru/2024/05/22/explosion-en-vmt-empresa-duena-del-grifo-siniestrado-se-embolso-s1573000-del-estado/",
+      "sha256": "3d5aa44f7d0f897ea7e66bd947236b5461df1ea8da625fcf636df0d2fd41afb4",
+      "accessedAt": "2026-10-03T01:44:04.847Z",
+      "publisher": "Infobae",
+      "title": "Explosión en VMT: empresa dueña del grifo siniestrado se embolsó S/1.573.000 del Estado",
+      "extractedBy": "agent"
+    }
+  ]
+}

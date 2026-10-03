@@ -1,0 +1,39 @@
+{
+  "candidateId": "55_Y11z_e1b04jcEUCknAzoZZa-Uzrkg",
+  "facts": [
+    {
+      "id": "press-a88f7d5040",
+      "category": "press_report",
+      "summary": "Según El Comercio, la empresa Grupo JMA Inversiones obtuvo contratos de la Municipalidad de Puente Piedra durante la administración de Renán Espinoza Venegas (2019-2022) y siguió ganándolos cuando lo sucedió su padre.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2024-05-13",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Rennán Espinoza: hombre de condición humilde gana contratos de la Municipalidad de Puente Piedra por más de 738 mil soles"
+      },
+      "quote": "El resto lo obtuvo durante la administración de Renán Espinoza Venegas, quien fue burgomaestre de Puente Piedra desde 2019 a 2022, es decir, su padre lo sucedió en el cargo y Grupo JMA Inversiones siguió ganando contratos.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Renán Espinoza Venegas' como alcalde de Puente Piedra 2019-2022, que coincide con los apellidos, distrito y cargo (ALCALDE DISTRITAL 2019-2022, Somos Perú) del candidato Rennan Santiago Espinoza Venegas. Se le distingue explícitamente de su padre, el alcalde sucesor.",
+      "sourceIds": [
+        "src-press-a88f7d5040"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:25.404Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a88f7d5040",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/rennan-espinoza-hombre-de-condicion-humilde-gana-contratos-de-la-municipalidad-de-puente-piedra-por-mas-de-738-mil-soles-video-jorge-luis-morales-aquino-testaferro-ultimas-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20240629154939/https://elcomercio.pe/lima/sucesos/rennan-espinoza-hombre-de-condicion-humilde-gana-contratos-de-la-municipalidad-de-puente-piedra-por-mas-de-738-mil-soles-video-jorge-luis-morales-aquino-testaferro-ultimas-noticia/",
+      "sha256": "286f4ffbf47f6c45ce73e9c2ff3a277dccdf0f5bafa64bb61bb5564e8b8c5be2",
+      "accessedAt": "2026-10-03T01:39:25.462Z",
+      "publisher": "El Comercio",
+      "title": "Rennán Espinoza: hombre de condición humilde gana contratos de la Municipalidad de Puente Piedra por más de 738 mil soles",
+      "extractedBy": "agent"
+    }
+  ]
+}

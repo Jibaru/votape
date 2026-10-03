@@ -1,0 +1,71 @@
+{
+  "candidateId": "gZu8MzDQWCBM4mcrRbkyzPP05OBW45kh",
+  "facts": [
+    {
+      "id": "press-a4bc6f584a",
+      "category": "press_report",
+      "summary": "Según El Comercio, en febrero de 2019 ocho regidores de Podemos Perú pidieron a la Contraloría investigar nombramientos de funcionarios y asesores procesados por corrupción durante la gestión de Álex Gonzales como alcalde de San Juan de Lurigancho.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2019-06-25",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Álex Gonzales: de vocero de Susana Higuchi a alcalde de San Juan de Lurigancho [PERFIL]"
+      },
+      "quote": "ocho regidores del partido por el que fue elegido, Podemos Perú, pidieron a la Contraloría investigar nombramientos de funcionarios y asesores procesados por el delito de corrupción de funcionarios.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere al alcalde de San Juan de Lurigancho Álex Gonzales Castillo, elegido en 2018 por Podemos Perú y exregidor aprista de 1986; coincide con los cargos del CV (alcalde distrital SJL 2019-2022 por Podemos, regidor APRA).",
+      "sourceIds": [
+        "src-press-a4bc6f584a"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:46.500Z"
+    },
+    {
+      "id": "press-2464183abf",
+      "category": "press_report",
+      "summary": "Según El Comercio, un informe de la Contraloría dio cuenta en abril de 2020 de que la Municipalidad de San Juan de Lurigancho, bajo la gestión de Álex Gonzales, entregó canastas de víveres por la COVID-19 con productos faltantes; el alcalde afirmó que fueron devueltas al proveedor.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2020-04-22",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Coronavirus en Perú: Alcalde de SJL asegura que canastas incompletas fueron identificadas y devueltas al proveedor"
+      },
+      "quote": "Este martes un informe elaborado de la Contraloría dio cuenta de que hubo canastas entregadas por este municipio que no contaban con la cantidad debida de latas de grated de jurel o de paquetes de azúcar rubia.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica al alcalde de San Juan de Lurigancho Álex Gonzales (Gonzales Castillo) en abril de 2020, dentro de su periodo como alcalde distrital de SJL 2019-2022 que figura en el CV.",
+      "sourceIds": [
+        "src-press-2464183abf"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:46.883Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a4bc6f584a",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/alex-gonzales-vocero-partido-susana-higuchi-alcalde-san-juan-lurigancho-perfil-noticia-ecpm-648793-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20251229223236/https://elcomercio.pe/lima/sucesos/alex-gonzales-vocero-partido-susana-higuchi-alcalde-san-juan-lurigancho-perfil-noticia-ecpm-648793-noticia/",
+      "sha256": "7c7d2db8a1c24b4797c0d1bd34234214d0d6595721ea6d07a430734c01a57aa9",
+      "accessedAt": "2026-10-03T01:43:21.278Z",
+      "publisher": "El Comercio",
+      "title": "Álex Gonzales: de vocero de Susana Higuchi a alcalde de San Juan de Lurigancho [PERFIL]",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-2464183abf",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/coronavirus-en-peru-alcalde-de-sjl-asegura-que-canastas-incompletas-fueron-identificadas-y-devueltas-al-proveedor-nndc-covid-19-estado-de-emergencia-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20200502003508/https://elcomercio.pe/lima/sucesos/coronavirus-en-peru-alcalde-de-sjl-asegura-que-canastas-incompletas-fueron-identificadas-y-devueltas-al-proveedor-nndc-covid-19-estado-de-emergencia-noticia/",
+      "sha256": "3b25ad09de7ea63649d9c6e50f363260e14fbd17db6f187ab7870c8f36719d6e",
+      "accessedAt": "2026-10-03T01:43:22.280Z",
+      "publisher": "El Comercio",
+      "title": "Coronavirus en Perú: Alcalde de SJL asegura que canastas incompletas fueron identificadas y devueltas al proveedor",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "candidateId": "uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN",
+  "facts": [
+    {
+      "id": "press-8ae63a840e",
+      "category": "judicial_process",
+      "summary": "Según La República, Anatoly Bedriñana no ha cumplido con el pago de la reparación civil de seis mil soles dispuesta en su sentencia por usurpación.",
+      "evidence": "prensa",
+      "legalStatus": "sentencia",
+      "date": "2025-03-10",
+      "details": {
+        "medio": "La República",
+        "titulo": "Estudio de Juan Santiváñez ha patrocinado a al menos 6 funcionarios investigados que ocupan altos cargos en el Estado"
+      },
+      "quote": "A pesar de la sentencia, que incluyó una reparación civil de seis mil soles, Bedriñana no ha cumplido con el pago.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Anatoly Bedriñana Córdova como secretario general del Ministerio del Interior (cargo en su CV, 2024-2025) y describe la condena de 2019 por usurpación agravada de un predio en San Juan de Miraflores, coincidente con la sentencia declarada (usurpación). Hecho distinto: impago de la reparación civil.",
+      "sourceIds": [
+        "src-press-8ae63a840e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:01.920Z"
+    },
+    {
+      "id": "press-b24cfca931",
+      "category": "press_report",
+      "summary": "Según Infobae, Anatoly Bedriñana fue llamado por la Fiscalía a declarar en el caso Puente Tarata, cuando en 2022 era jefe del gabinete de asesores del MTC bajo el exministro Juan Silva.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2025-03-10",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Exclientes de Juan José Santiváñez ahora son funcionarios del Estado: tres de ellos trabajan en el Mininter"
+      },
+      "quote": "Bedriñana solicitó que el estudio de Santiváñez se encargue de su defensa en el caso del Puente Tarata, en el que fue llamado por la Fiscalía a declarar, pues para el año 2022, él trabajaba como jefe del gabinete de asesores en el Ministerio de Transportes (MTC) bajo el mando del exministro Juan Silva, ahora prófugo de la justicia.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como secretario general del Mininter (cargo en su CV 2024-2025) y como candidato a la alcaldía de San Juan de Miraflores en 2014 condenado por usurpación (coincide con sentencia declarada).",
+      "sourceIds": [
+        "src-press-b24cfca931"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:02.332Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-8ae63a840e",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2025/03/09/estudio-de-juan-santivanez-ha-patrocinado-a-al-menos-6-funcionarios-investigados-que-ocupan-altos-cargos-en-el-estado-hnews-145836",
+      "archivedUrl": "http://web.archive.org/web/20250905154943/https://larepublica.pe/politica/2025/03/09/estudio-de-juan-santivanez-ha-patrocinado-a-al-menos-6-funcionarios-investigados-que-ocupan-altos-cargos-en-el-estado-hnews-145836",
+      "sha256": "7c177ffb024eafb5e51359fbad2a2d5cfe946461b5bb282d46698aa7bb2023f9",
+      "accessedAt": "2026-10-03T01:42:46.929Z",
+      "publisher": "La República",
+      "title": "Estudio de Juan Santiváñez ha patrocinado a al menos 6 funcionarios investigados que ocupan altos cargos en el Estado",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-b24cfca931",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2025/03/10/exclientes-de-juan-jose-santivanez-ahora-son-funcionarios-del-estado-tres-de-ellos-trabajan-en-el-mininter/",
+      "sha256": "994bb9bbcbf8ac39c1a6d9b8928b58abaf10c7daff902bcb3cbbe27616afaf6b",
+      "accessedAt": "2026-10-03T01:42:47.600Z",
+      "publisher": "Infobae",
+      "title": "Exclientes de Juan José Santiváñez ahora son funcionarios del Estado: tres de ellos trabajan en el Mininter",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "candidateId": "8kmdpMB43qjJKQeobRZjTETqvcVjoXh9",
+  "facts": [
+    {
+      "id": "press-5e7a2c6dd8",
+      "category": "press_report",
+      "summary": "Según Infobae, en 2019 la Municipalidad de Independencia abrió un procedimiento administrativo disciplinario contra Jonathan Seña por una presunta negligencia en el trámite de expedientes, y él presentó sus descargos.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-09-28",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes"
+      },
+      "quote": "En 2019, esa municipalidad abrió un procedimiento administrativo disciplinario contra Seña por una presunta negligencia relacionada con el trámite de expedientes. El entonces funcionario presentó sus descargos y cuestionó que la responsabilidad pudiera atribuirse directamente a él.",
+      "quoteVerified": true,
+      "identityEvidence": "Perfil de 'Jonathan Enrique Seña Manguinury', candidato de Ahora Nación al Rímac, abogado (coincide nombre completo, partido, distrito y profesión; su CV registra cargos legales municipales).",
+      "sourceIds": [
+        "src-press-5e7a2c6dd8"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:27.775Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-5e7a2c6dd8",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "archivedUrl": "http://web.archive.org/web/20260929102134/https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "sha256": "a7a28d25d030983a651a9d3cc8b40a183de6648d9acd34b2ad2abaa3d3b04055",
+      "accessedAt": "2026-10-03T01:40:25.597Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes",
+      "extractedBy": "agent"
+    }
+  ]
+}

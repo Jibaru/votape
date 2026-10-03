@@ -1,0 +1,38 @@
+{
+  "candidateId": "EmU_oIU80OS_FSTEkchaju3ypjS4c5pF",
+  "facts": [
+    {
+      "id": "press-ae7de40bfa",
+      "category": "sanction",
+      "summary": "Según El Comercio, en 2018 el Jurado Electoral Especial de Lima Oeste 1 emitió una resolución de exclusión contra Raúl Madueño, candidato del PPC en Magdalena, por ocultar información en su hoja de vida sobre procesos judiciales y posesión de bienes.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2018-09-05",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Magdalena: quince candidatos buscan reemplazar a Francis Allison"
+      },
+      "quote": "el Jurado Electoral Especial de Lima Oeste 1 emitió la resolución de exclusión Raúl Madueño, candidato del PPC; y Miguel Venturini, del Partido Aprista Peruano, por ocultar información en su hoja de vida sobre procesos judiciales y posesión de bienes.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata de los candidatos a la alcaldía de Magdalena en 2018 y nombra a Raúl Madueño como candidato del PPC; el candidato Raul Madueño Ortiz postula en 2026 por el PPC al mismo distrito.",
+      "sourceIds": [
+        "src-press-ae7de40bfa"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:45.251Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-ae7de40bfa",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones/lima/magdalena-quince-candidatos-buscan-reemplazar-francis-allison-noticia-554122-noticia/",
+      "sha256": "8ef2371b4630a0025ed7c77052543781f7706bd828c69b0d629e6a24884cdc27",
+      "accessedAt": "2026-10-03T01:39:04.375Z",
+      "publisher": "El Comercio",
+      "title": "Magdalena: quince candidatos buscan reemplazar a Francis Allison",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -24,7 +24,7 @@ Cada hecho dice **quién lo afirma** (`declarado`, `registro_oficial`, `agregado
 
 De [Revisa Tu Candidato](https://revisatucandidato.pe) (agregador): contratos con el Estado (OECE), empresas vinculadas, deuda coactiva en SUNAT, REDJUM/REDAM, sanciones de SERVIR, RNAS y OECE, REINFO, y faltas de tránsito muy graves o licencias suspendidas/canceladas (MTC).
 
-De la prensa: hallazgos de medios de una lista blanca, con cita textual verificada automáticamente y aprobados por una persona (por ahora, Lima Metropolitana).
+De la prensa: hallazgos de medios de una lista blanca, con cita textual verificada automáticamente y aprobados por una persona (Lima Metropolitana y los 43 distritos).
 
 ## Qué no hace
 
@@ -40,9 +40,13 @@ La salida es JSON cuando stdout no es una terminal. `votape schema` describe el 
 npx skills add Jibaru/votape
 ```
 
+## Aviso legal
+
+votape reproduce fuentes públicas y dice quién afirma cada hecho: **no afirma hechos propios**. Una denuncia, investigación o proceso **no es una condena**. Los datos se ofrecen "tal cual", sin garantías, y el autor no responde por el uso que terceros hagan de ellos. Texto completo en [AVISO-LEGAL.md](AVISO-LEGAL.md) y en `votape about`.
+
 ## ¿Un dato está mal?
 
-Lee [CORRECTIONS.md](CORRECTIONS.md).
+Lee [CORRECTIONS.md](CORRECTIONS.md). Respondemos en 7 días calendario.
 
 ## Desarrollo
 

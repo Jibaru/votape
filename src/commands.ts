@@ -7,7 +7,7 @@ import {
   visibleFacts,
 } from "./data.js";
 import type { Candidate, Candidacy, Election, Fact, FactCategory, Jurisdiction, Source } from "./model.js";
-import { type Ctx, type NextStep, notFound, respond, safe, usage } from "./output.js";
+import { type Ctx, type NextStep, legalFooter, notFound, respond, safe, usage } from "./output.js";
 import {
   bold,
   dim,
@@ -167,7 +167,7 @@ function candidateTable(rows: CandidateSummary[], showJurisdiction: boolean): st
 }
 
 const legend = () =>
-  muted(
+  legalFooter().slice(1) + "\n" + muted(
     "  penal / oblig. = sentencia penal o por obligación DECLARADA por el candidato en su hoja de vida del JNE · anot. = anotación marginal del JNE\n  prensa / proceso = hallazgos de prensa revisados por una persona · contratos / empresas / deuda / sanción / tránsito = registros oficiales vía RTC · detalle y fuentes: votape candidate get",
   );
 
@@ -330,6 +330,7 @@ function renderCandidate(c: Candidate, j: Jurisdiction | undefined, facts: Fact[
       out.push(`  ${warn("⚠")} ${p.status === "partial" ? `Cobertura parcial de ${p.providerId}: ${p.note}` : p.note}`);
     }
   }
+  out.push(legalFooter());
   return out.join("\n");
 }
 
@@ -406,6 +407,7 @@ export function candidateCompare(ds: Dataset, ctx: Ctx, args: Args): number {
       line("Inmuebles", c.map((x) => `${x.realEstate}`)),
       "",
       muted("  Solo hechos declarados o registrados; votape no puntúa ni recomienda candidatos."),
+      legalFooter(),
     ].join("\n");
   });
 }
@@ -527,6 +529,7 @@ export function factList(ds: Dataset, ctx: Ctx, args: Args): number {
       out.push(renderFact(f, f.sources));
     }
     if (d.total > d.results.length) out.push(muted(`\n  … y ${d.total - d.results.length} más`));
+    out.push(legalFooter());
     return out.join("\n");
   });
 }

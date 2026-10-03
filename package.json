@@ -1,6 +1,6 @@
 {
   "name": "@jibaru/votape",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jibaru/votape.git"
@@ -22,7 +22,8 @@
     "data/elections",
     "data/sources/catalog.json",
     "skills",
-    "CORRECTIONS.md"
+    "CORRECTIONS.md",
+    "AVISO-LEGAL.md"
   ],
   "keywords": [
     "peru",

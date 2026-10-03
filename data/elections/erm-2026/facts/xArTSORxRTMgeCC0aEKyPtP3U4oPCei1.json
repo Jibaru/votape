@@ -1,0 +1,38 @@
+{
+  "candidateId": "xArTSORxRTMgeCC0aEKyPtP3U4oPCei1",
+  "facts": [
+    {
+      "id": "press-70f7041de4",
+      "category": "sanction",
+      "summary": "Según Infobae, registros de la ONPE muestran que Rufino Enciso Ríos recibió una sanción administrativa vinculada con obligaciones de información financiera electoral, tras pedir licencia como alcalde de San Bartolo para postular en 2022.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-10-03",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Elecciones 2026 en San Bartolo: estos son los cuatro candidatos que buscan llegar a la alcaldía"
+      },
+      "quote": "Ese año solicitó licencia temporal como alcalde para participar en las Elecciones Regionales y Municipales, por lo que el JNE dispuso que otra autoridad asumiera provisionalmente la conducción de la comuna durante el periodo electoral. Además, registros de la ONPE muestran que posteriormente recibió una sanción administrativa vinculada con obligaciones de información financiera electoral.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata de Rufino Enciso Ríos, candidato de Somos Perú en San Bartolo y alcalde distrital de San Bartolo 2019-2022, todo coincidente con el input.",
+      "sourceIds": [
+        "src-press-70f7041de4"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:05.720Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-70f7041de4",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/10/03/elecciones-2026-en-san-bartolo-estos-son-los-cuatro-candidatos-que-buscan-llegar-a-la-alcaldia/",
+      "sha256": "f995c5548846f79236afc28ac1bfde2286896c3b2a51d8e6de58142d1fcf8035",
+      "accessedAt": "2026-10-03T01:39:58.129Z",
+      "publisher": "Infobae",
+      "title": "Elecciones 2026 en San Bartolo: estos son los cuatro candidatos que buscan llegar a la alcaldía",
+      "extractedBy": "agent"
+    }
+  ]
+}

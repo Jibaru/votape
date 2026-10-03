@@ -1,0 +1,39 @@
+{
+  "candidateId": "YlI81nXLrlJLrvxa2VLNsNvBNw1cpXUa",
+  "facts": [
+    {
+      "id": "press-7cca6f27d9",
+      "category": "judicial_process",
+      "summary": "Según Infobae, en septiembre de 2025 la Dirección contra la Corrupción de la Policía Nacional detuvo a la regidora de Barranco Nicole Fiorella Muñoz bajo la sospecha de haber incurrido en tráfico de influencias.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2025-09-02",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Regidora de Barranco y su pareja fueron detenidos, acusados de cobrar coimas para facilitar permisos municipales"
+      },
+      "quote": "Las autoridades de la Dirección contra la Corrupción de la Policía Nacional detuvieron a Nicole Fiorella Muñoz Zeballos, regidora del distrito de Barranco, bajo la sospecha de haber incurrido en tráfico de influencias.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo (Nicole Fiorella Muñoz, con apellido materno escrito 'Zeballos') y cargo: regidora del distrito de Barranco, que coincide con su cargo de regidora distrital 2022-2026 en el input. La nota recoge que ella alegó persecución política y defendió su inocencia.",
+      "sourceIds": [
+        "src-press-7cca6f27d9"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:08.271Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-7cca6f27d9",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2025/09/02/regidora-de-barranco-y-su-pareja-fueron-detenidos-acusados-de-cobrar-coimas-para-facilitar-permisos-municipales/",
+      "archivedUrl": "http://web.archive.org/web/20250902142345/https://www.infobae.com/peru/2025/09/02/regidora-de-barranco-y-su-pareja-fueron-detenidos-acusados-de-cobrar-coimas-para-facilitar-permisos-municipales/",
+      "sha256": "b94dab970e82a62165565d6cbdaca829c246023f3052719898021fcccf7dc0de",
+      "accessedAt": "2026-10-03T01:43:58.066Z",
+      "publisher": "Infobae",
+      "title": "Regidora de Barranco y su pareja fueron detenidos, acusados de cobrar coimas para facilitar permisos municipales",
+      "extractedBy": "agent"
+    }
+  ]
+}

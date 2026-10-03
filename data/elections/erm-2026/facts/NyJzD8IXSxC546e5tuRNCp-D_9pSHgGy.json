@@ -1,0 +1,39 @@
+{
+  "candidateId": "NyJzD8IXSxC546e5tuRNCp-D_9pSHgGy",
+  "facts": [
+    {
+      "id": "press-0020941b09",
+      "category": "press_report",
+      "summary": "Según La República, en 2017 un grupo de vecinos de San Luis, acompañado por una regidora, pidió la vacancia del entonces alcalde Ronald Fuertes, denunciando que el municipio contrató a 20 personas que no cumplían con el perfil profesional requerido.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2017-04-16",
+      "details": {
+        "medio": "La República",
+        "titulo": "Vecinos de San Luis piden vacancia del alcalde Ronald Fuertes [VIDEO]"
+      },
+      "quote": "Durante la mañana de este lunes, un grupo de vecinos del distrito de San Luis, acompañado por una regidora, decidió pedir la vacancia del alcalde Ronald Fuertes. En diálogo con Canal N, ellos denunciaron que el municipio había contratado a 20 personas para distintos cargos a pesar de que “no cumplían con el perfil profesional requerido”.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo (abril 2017) se refiere al alcalde de San Luis Ronald Fuertes; el candidato Ronald Eulogio Fuertes Vega declara haber sido alcalde de la Municipalidad de San Luis en 2015-2018.",
+      "sourceIds": [
+        "src-press-0020941b09"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:53.130Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-0020941b09",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/866272-vecinos-de-san-luis-piden-vacancia-del-alcalde-ronald-fuertes-video",
+      "archivedUrl": "http://web.archive.org/web/20240101102934/https://larepublica.pe/sociedad/866272-vecinos-de-san-luis-piden-vacancia-del-alcalde-ronald-fuertes-video",
+      "sha256": "72103bc331746c74eab7aaa2b1d30e8991de5c9ba8a3167cd9e91017762ffef5",
+      "accessedAt": "2026-10-03T01:43:10.436Z",
+      "publisher": "La República",
+      "title": "Vecinos de San Luis piden vacancia del alcalde Ronald Fuertes [VIDEO]",
+      "extractedBy": "agent"
+    }
+  ]
+}

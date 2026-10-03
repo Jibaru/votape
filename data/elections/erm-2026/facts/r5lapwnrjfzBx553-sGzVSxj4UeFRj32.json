@@ -1,0 +1,71 @@
+{
+  "candidateId": "r5lapwnrjfzBx553-sGzVSxj4UeFRj32",
+  "facts": [
+    {
+      "id": "press-02bc3db7f7",
+      "category": "judicial_process",
+      "summary": "Según Infobae, citando a La República, Juan Navarro fue investigado por el Ministerio Público junto a nueve regidores y 15 funcionarios ediles por supuestamente integrar una organización dedicada a obtener ganancias ilícitas.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2022-09-19",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Elecciones 2022: Candidato a la alcaldía de San Juan de Lurigancho habría sido financiado por ‘Los Malditos de Bayovar’"
+      },
+      "quote": "Además, una publicación del diario La República da cuenta de que Navarro ha sido investigado por el Ministerio Público junto a nueve regidores y 15 funcionarios ediles por supuestamente integrar una organización dedicada a obtener ganancias ilícitas.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Juan Valentín Navarro Jiménez, exalcalde de San Juan de Lurigancho (2014-2018) y candidato de Alianza para el Progreso, coincidente con el cargo y partido del input.",
+      "sourceIds": [
+        "src-press-02bc3db7f7"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:57.887Z"
+    },
+    {
+      "id": "press-159d99d9f9",
+      "category": "press_report",
+      "summary": "Según El Comercio, en 2018 Juan Navarro fue excluido de la contienda electoral por no informar en su hoja de vida cuatro procesos judiciales por omitir el depósito de aportes previsionales a trabajadores.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2018-09-06",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "San Juan de Lurigancho: alcalde quedó excluido del proceso electoral"
+      },
+      "quote": "De acuerdo a la resolución N°00539-2018-JEE-LIE2/JNE, el alcalde Navarro no informó sobre los cuatro procesos judiciales que tenía pendientes por omitir el depósito de aportes previsionales a trabajadores.",
+      "quoteVerified": true,
+      "identityEvidence": "Se refiere al entonces alcalde de San Juan de Lurigancho Juan Navarro Jiménez, que postulaba por Alianza para el Progreso; coincide con su cargo de alcalde distrital 2015-2018 por APP.",
+      "sourceIds": [
+        "src-press-159d99d9f9"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:58.340Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-02bc3db7f7",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/america/peru/2022/09/19/elecciones-2022-candidato-a-la-alcaldia-de-san-juan-de-lurigancho-habria-sido-financiado-por-los-malditos-de-bayovar/",
+      "archivedUrl": "http://web.archive.org/web/20231216203945/https://www.infobae.com/america/peru/2022/09/19/elecciones-2022-candidato-a-la-alcaldia-de-san-juan-de-lurigancho-habria-sido-financiado-por-los-malditos-de-bayovar/",
+      "sha256": "49da084f2a1f8dea8789f6f2e7e36a8712ec05fdc0b3cce0868ec4f1bdd0bf1f",
+      "accessedAt": "2026-10-03T01:44:11.974Z",
+      "publisher": "Infobae",
+      "title": "Elecciones 2022: Candidato a la alcaldía de San Juan de Lurigancho habría sido financiado por ‘Los Malditos de Bayovar’",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-159d99d9f9",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones/lima/elecciones-2018-alcalde-san-juan-lurigancho-quedo-excluido-proceso-electoral-noticia-554781-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20191216033326/https://elcomercio.pe/elecciones/lima/elecciones-2018-alcalde-san-juan-lurigancho-quedo-excluido-proceso-electoral-noticia-554781-noticia/",
+      "sha256": "41e2e2fa15b73cb5fa6a13ccc601e614347d32e43e75c6ad5009a579c44a23ae",
+      "accessedAt": "2026-10-03T01:44:15.973Z",
+      "publisher": "El Comercio",
+      "title": "San Juan de Lurigancho: alcalde quedó excluido del proceso electoral",
+      "extractedBy": "agent"
+    }
+  ]
+}

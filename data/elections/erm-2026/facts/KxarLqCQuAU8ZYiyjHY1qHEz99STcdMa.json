@@ -1,0 +1,70 @@
+{
+  "candidateId": "KxarLqCQuAU8ZYiyjHY1qHEz99STcdMa",
+  "facts": [
+    {
+      "id": "press-b957c5f5f3",
+      "category": "judicial_process",
+      "summary": "Según La República, en 2022 Leonor Chumbimune contaba con cuatro investigaciones en el Ministerio Público por los presuntos delitos de malversación de fondos, peculado y colusión.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2022-10-02",
+      "details": {
+        "medio": "La República",
+        "titulo": "Elecciones 2022: quienes son y que proponen los candidatos municipales de Santa Anita"
+      },
+      "quote": "Actualmente, cuenta con cuatro investigaciones en el Ministerio Público por los presuntos delitos de malversación de fondos, peculado y colusión.",
+      "quoteVerified": true,
+      "identityEvidence": "El perfil es de la candidata a la alcaldía de Santa Anita por Podemos Perú (mismo partido que en 2026), exalcaldesa de Santa Anita, que estudió Derecho en la UPCI (coincide con su hoja de vida 2026 citada por Infobae).",
+      "sourceIds": [
+        "src-press-b957c5f5f3"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:49.238Z"
+    },
+    {
+      "id": "press-2bbafe2444",
+      "category": "judicial_process",
+      "summary": "Según La República, con base en reportes de la Contraloría, en 2022 Leonor Chumbimune Cajahuaringa, candidata a la alcaldía de Santa Anita, tenía informes de control con presunta responsabilidad.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2022-08-14",
+      "details": {
+        "medio": "La República",
+        "titulo": "Elecciones 2022: 836 candidatos bajo sospecha, según informes de la Contraloría General de la República"
+      },
+      "quote": "En Lima metropolitana, tienen informes de control con presunta responsabilidad los candidatos para las alcaldías de La Victoria (Mesías Gonzales Sánchez), Santa Anita (Leonor Chumbimune Cajahuaringa) y Chorrillos (Augusto Miyashiro).",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo exacto (Leonor Chumbimune Cajahuaringa), candidata a la alcaldía de Santa Anita, listada en el párrafo sobre Podemos Perú, su partido también en 2026.",
+      "sourceIds": [
+        "src-press-2bbafe2444"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:49.680Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-b957c5f5f3",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/elecciones/2022/09/16/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-municipales-de-santa-anita-jne-pltc-atmp",
+      "archivedUrl": "http://web.archive.org/web/20260917151724/https://larepublica.pe/politica/elecciones/2022/09/16/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-municipales-de-santa-anita-jne-pltc-atmp",
+      "sha256": "66ab8167d98fcfe6a82faeb898e955371c807ad21d48eccf94e6e05a20edfaf0",
+      "accessedAt": "2026-10-03T01:45:24.089Z",
+      "publisher": "La República",
+      "title": "Elecciones 2022: quienes son y que proponen los candidatos municipales de Santa Anita",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-2bbafe2444",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/elecciones/2022/08/14/elecciones-2022-836-candidatos-bajo-sospecha-segun-informes-de-la-contraloria-general-de-la-republica-alianza-para-el-progreso-somos-peru",
+      "sha256": "48e8e6a7844793f047ba70723fc6c260da0d3942c1c0b6e4b41421393daea672",
+      "accessedAt": "2026-10-03T01:45:29.455Z",
+      "publisher": "La República",
+      "title": "Elecciones 2022: 836 candidatos bajo sospecha, según informes de la Contraloría General de la República",
+      "extractedBy": "agent"
+    }
+  ]
+}

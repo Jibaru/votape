@@ -1,0 +1,71 @@
+{
+  "candidateId": "nVfCV9_SpkZG_QIox2Mt1C15i1n_GCxX",
+  "facts": [
+    {
+      "id": "press-7e24624a55",
+      "category": "judicial_process",
+      "summary": "Según RPP, la Fiscalía obtuvo una condena de cuatro años de pena privativa de la libertad, suspendida por tres años, contra Víctor Modesto Salcedo Ríos, alcalde de El Agustino, por negociación incompatible y aprovechamiento indebido.",
+      "evidence": "prensa",
+      "legalStatus": "sentencia",
+      "date": "2020-11-27",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Fiscalía obtuvo sentencia de prisión suspendida para el alcalde de El Agustino, Víctor Salcedo Ríos"
+      },
+      "quote": "El Ministerio Público obtuvo cuatro años de pena privativa de la libertad, suspendida por tres años bajo reglas de conducta, para el alcalde del distrito de El Agustino, Víctor Modesto Salcedo Ríos, por el delito contra la administración pública en la modalidad de negociación incompatible y aprovechamiento indebido.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo idéntico (Víctor Modesto Salcedo Ríos) y cargo: alcalde de El Agustino, coincide con su CV (alcalde distrital 2011-2014 y 2019-2022). Los hechos (cesión de áreas públicas en 2013) corresponden a su gestión 2011-2014.",
+      "sourceIds": [
+        "src-press-7e24624a55"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:52.346Z"
+    },
+    {
+      "id": "press-9bf05c306f",
+      "category": "judicial_process",
+      "summary": "Según La República, un excandidato a la alcaldía de El Agustino mantuvo una denuncia contra Víctor Salcedo, una regidora y otros funcionarios por difamación, peculado de uso, asociación ilícita para delinquir y usurpación de funciones.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2019-09-16",
+      "details": {
+        "medio": "La República",
+        "titulo": "El Agustino: alcalde estaría usando fondos públicos para financiar página de ataque contra opositores"
+      },
+      "quote": "lo cual rectifica la demanda ante Víctor Salcedo, la regidora y a otros funcionarios, no solo por el delito de difamación, también por peculado de uso y asociación ilícita para delinquir y usurpación de funciones.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere a Víctor Salcedo como alcalde de El Agustino en 2019, periodo que coincide con su CV (alcalde distrital de El Agustino 2019-2022 por APP).",
+      "sourceIds": [
+        "src-press-9bf05c306f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:52.769Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-7e24624a55",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/judiciales/fiscalia-obtuvo-sentencia-de-prision-suspendida-para-el-alcalde-de-el-agustino-victor-salcedo-rios-noticia-1306672",
+      "archivedUrl": "http://web.archive.org/web/20240716184943/https://rpp.pe/politica/judiciales/fiscalia-obtuvo-sentencia-de-prision-suspendida-para-el-alcalde-de-el-agustino-victor-salcedo-rios-noticia-1306672",
+      "sha256": "f968a8376a4e7b90b44820ea97401166918c16fb6c20e4e9e1052cc13f164419",
+      "accessedAt": "2026-10-03T01:42:42.095Z",
+      "publisher": "RPP",
+      "title": "Fiscalía obtuvo sentencia de prisión suspendida para el alcalde de El Agustino, Víctor Salcedo Ríos",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-9bf05c306f",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2019/09/16/el-agustino-alcalde-estaria-usando-fondos-publicos-para-financiar-pagina-victor-salcedo-corrupcion-denuncia-periodista-karla-canales-mdga",
+      "archivedUrl": "http://web.archive.org/web/20191212170553/https://larepublica.pe/sociedad/2019/09/16/el-agustino-alcalde-estaria-usando-fondos-publicos-para-financiar-pagina-victor-salcedo-corrupcion-denuncia-periodista-karla-canales-mdga/",
+      "sha256": "8d33d9c85158a1fe8bcd8f0131185851a836e981386d282528e19920d987070a",
+      "accessedAt": "2026-10-03T01:42:43.826Z",
+      "publisher": "La República",
+      "title": "El Agustino: alcalde estaría usando fondos públicos para financiar página de ataque contra opositores",
+      "extractedBy": "agent"
+    }
+  ]
+}

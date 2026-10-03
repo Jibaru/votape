@@ -1,0 +1,39 @@
+{
+  "candidateId": "TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd",
+  "facts": [
+    {
+      "id": "press-0d13667eaa",
+      "category": "press_report",
+      "summary": "Según La República, Milton Lluque Sosa figura, con su designación como subprefecto de Villa El Salvador del 16 de febrero de 2023, en la lista de 16 subprefectos distritales que el aspirante a colaborador eficaz Víctor Torres atribuyó a la selección de Nicanor Boluarte.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2024-08-14",
+      "details": {
+        "medio": "La República",
+        "titulo": "La Presidenta Dina Boluarte nombró a 8 prefectos a pedido de su hermano Nicanor"
+      },
+      "quote": "-16.02.2023, subprefecto de Villa El Salvador, Milton Lluque Sosa (029-2023-IN-VOI-DGIN).",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre y cargo coinciden con la hoja de vida: 'Subprefecto distrital de Villa el Salvador — Ministerio del interior (2023-2025)'. La línea aparece en la lista que sigue a: 'Víctor Torres nombró a los 16 personajes seleccionados por Nicanor Boluarte... para que el operador Jorge Ortíz Marreros... los designara en el cargo de subprefecto distrital'. El artículo no le imputa delito al candidato; solo lo menciona como designado.",
+      "sourceIds": [
+        "src-press-0d13667eaa"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:01.120Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-0d13667eaa",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/actualidad/2024/08/14/la-presidenta-nombro-a-8-prefectos-a-pedido-de-su-hermano-nicanor-332800",
+      "archivedUrl": "http://web.archive.org/web/20260226075358/https://larepublica.pe/politica/actualidad/2024/08/14/la-presidenta-nombro-a-8-prefectos-a-pedido-de-su-hermano-nicanor-332800",
+      "sha256": "e71f663a12b19da14ea8ca262042b3b3675ab7e882c6238ac424913af21eeb57",
+      "accessedAt": "2026-10-03T01:44:30.756Z",
+      "publisher": "La República",
+      "title": "La Presidenta Dina Boluarte nombró a 8 prefectos a pedido de su hermano Nicanor",
+      "extractedBy": "agent"
+    }
+  ]
+}

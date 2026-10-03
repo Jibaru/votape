@@ -1,0 +1,39 @@
+{
+  "candidateId": "4LG3lGZYjsTOePf25mOuWdi0R1m09EHo",
+  "facts": [
+    {
+      "id": "press-450d695dc4",
+      "category": "judicial_process",
+      "summary": "Según RPP, Ricardo Giesecke fue denunciado por la Fiscalía de la Nación por presunto peculado de 3 millones 775 mil soles durante su presidencia del Pronaa, y él aclaró que el Poder Judicial lo absolvió.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2011-07-21",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Conozca a Ricardo Giesecke, próximo ministro del Ambiente"
+      },
+      "quote": "Ricardo Giesecke fue denunciado por la Fiscalía de la Nación por delito de peculado por supuestamente haberse apropiado, junto a otros ex funcionarios públicos, de 3 millones 775 mil soles cuando presidió el Programa Nacional de Asistencia Alimentaria (Pronaa). En respuesta, Giesecke aclaró que el Poder Judicial lo absolvió",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata del físico Ricardo Giesecke designado ministro del Ambiente en 2011 y exviceministro de Energía; el candidato declara los cargos de Ministro del Ambiente (2011) y Viceministro de Energía y Minas (1990-1991).",
+      "sourceIds": [
+        "src-press-450d695dc4"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:23.952Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-450d695dc4",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/actualidad/conozca-a-ricardo-giesecke-proximo-ministro-del-ambiente-noticia-386847",
+      "archivedUrl": "http://web.archive.org/web/20210309174443/https://rpp.pe/politica/actualidad/conozca-a-ricardo-giesecke-proximo-ministro-del-ambiente-noticia-386847",
+      "sha256": "ad9f603d1b3a02b51cd18e8c0dadac0787e30bd047465a989a852b71238d99d6",
+      "accessedAt": "2026-10-03T01:39:23.453Z",
+      "publisher": "RPP",
+      "title": "Conozca a Ricardo Giesecke, próximo ministro del Ambiente",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "candidateId": "V3PjHf3S07uKsrjaMmVrP4NDgE0dwVRV",
+  "facts": [
+    {
+      "id": "press-4a66650653",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en 2015 un juzgado penal de Lima Norte ordenó la ubicación y captura del exalcalde de Comas Nicolás Kusunoki por delitos contra la administración pública (omisión, rehusamiento o demora de actos funcionales), tras no asistir a la lectura de sentencia por el cobro de 71 mil soles por vacaciones truncas y CTS.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2015-07-24",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Comas: PJ ordenó la captura de ex alcalde Nicolás Kusunoki"
+      },
+      "quote": "La orden de captura contra el ex burgomaestre es por los delitos contra la administración pública, omisión rehusamiento o demora de actos funcionales en contra el Estado, de acuerdo al oficio 385-2015-3-JPLN-MEEC.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere al 'ex alcalde de Comas, Nicolas Kusunoki' y a 'Kusunoki Fuero'; el candidato Nicolas Octavio Kusunoki Fuero fue alcalde distrital de Comas 2011-2014. Hecho distinto de la sentencia ya conocida por otorgamiento indebido de derechos (2005).",
+      "sourceIds": [
+        "src-press-4a66650653"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:02.742Z"
+    },
+    {
+      "id": "press-b9d202aded",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en 2014 la Defensoría del Pueblo denunció penalmente a cinco funcionarios de la Municipalidad de Comas, entre ellos el alcalde Nicolás Kusunoki, por no ordenar el recojo de basura en el distrito.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2014-11-21",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Defensoría denunció a alcalde de Comas por no recoger basura"
+      },
+      "quote": "La Defensoría del Pueblo denunció penalmente a 5 funcionarios de la Municipalidad de Comas, entre ellos el propio alcalde Nicolás Kusunoki, por no haber ordenado el recojo de basura en el distrito pese a las quejas de los vecinos.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombra al 'alcalde Nicolás Kusunoki' de la Municipalidad de Comas en noviembre de 2014; el candidato fue alcalde distrital de Comas 2011-2014.",
+      "sourceIds": [
+        "src-press-b9d202aded"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:03.377Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-4a66650653",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/comas-pj-ordeno-captura-ex-alcalde-nicolas-kusunoki-184287-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20211214234855/https://elcomercio.pe/lima/comas-pj-ordeno-captura-ex-alcalde-nicolas-kusunoki-184287-noticia/",
+      "sha256": "0a69fd73628f2a223eab5d5c5ea6d25650449a4dd707dd6497bf7763309a01d5",
+      "accessedAt": "2026-10-03T01:32:04.480Z",
+      "publisher": "El Comercio",
+      "title": "Comas: PJ ordenó la captura de ex alcalde Nicolás Kusunoki",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-b9d202aded",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/defensoria-denuncio-alcalde-comas-recoger-basura-304808-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20220627054633/https://elcomercio.pe/lima/defensoria-denuncio-alcalde-comas-recoger-basura-304808-noticia/",
+      "sha256": "f00f5cad94096fd52e3d99ab5a4e4d9fdfed1f3d48f3d205742b13c50f423072",
+      "accessedAt": "2026-10-03T01:32:06.153Z",
+      "publisher": "El Comercio",
+      "title": "Defensoría denunció a alcalde de Comas por no recoger basura",
+      "extractedBy": "agent"
+    }
+  ]
+}

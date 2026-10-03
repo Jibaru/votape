@@ -1,0 +1,39 @@
+{
+  "candidateId": "IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre",
+  "facts": [
+    {
+      "id": "press-ce2903c7dd",
+      "category": "judicial_process",
+      "summary": "Según La República, figuraba como asesor legal de la organización delictiva 'Los malditos de Santa Rosa' en el organigrama de esa banda.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2018-01-30",
+      "details": {
+        "medio": "La República",
+        "titulo": "El organigrama de “Los malditos de Santa Rosa” que tenía como líder al alcalde"
+      },
+      "quote": "Álvaro Tello del Caprio era era intermedio y Tanus Barraza Calvo, el asesor legal de la organización delictiva.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo poco común idéntico ('Tanus Barraza Calvo'), mismo distrito (Santa Rosa) y profesión coincidente (abogado, según su hoja de vida; el artículo lo señala como asesor legal).",
+      "sourceIds": [
+        "src-press-ce2903c7dd"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:47.986Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-ce2903c7dd",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/1178091-el-organigrama-de-los-malditos-de-santa-rosa-que-tenia-como-lider-al-alcalde",
+      "archivedUrl": "http://web.archive.org/web/20240727213040/https://larepublica.pe/sociedad/1178091-el-organigrama-de-los-malditos-de-santa-rosa-que-tenia-como-lider-al-alcalde",
+      "sha256": "3ebcd98973dca90a9bd2230b6622d0e0487ff303888a4f68c2892cea05c04e47",
+      "accessedAt": "2026-10-03T01:42:09.320Z",
+      "publisher": "La República",
+      "title": "El organigrama de “Los malditos de Santa Rosa” que tenía como líder al alcalde",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidateId": "bLQlOhF3ozxEEBc85tEqqxbRkZPPtXBK",
+  "facts": [
+    {
+      "id": "press-a7c047b2f2",
+      "category": "press_report",
+      "summary": "Según La República, la Fiscalía Provincial de Familia de Lima remitió varias citaciones al albergue municipal Casa de los Petisos, a cargo de la subgerencia de Rosa Torrejón, para que expliquen por qué no se reportaron abusos sexuales ni se llevó a las víctimas a Cámara Gesell, y esas peticiones fueron ignoradas.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-10-01",
+      "details": {
+        "medio": "La República",
+        "titulo": "Funcionarios municipales obstruyen investigación sobre violaciones sexuales"
+      },
+      "quote": "La Fiscalía Provincial de Familia de Lima ha remitido varias citaciones al albergue Casa de los Petisos a cargo de Torrejón que a su vez depende de la gerencia de Ayala, para que expliquen por qué no reportaron los abusos sexuales y no llevaron a las víctimas a la Cámara Gesell como indican las normas, pero las peticiones fueron ignoradas.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo la nombra como 'Rosa Torrejón Aragón', subgerenta de Bienestar y Promoción Social e Inclusión de la MML y candidata de Renovación Popular a la alcaldía de Lurín; coincide con su cargo declarado (2023-2026), partido y distrito.",
+      "sourceIds": [
+        "src-press-a7c047b2f2"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:39.625Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a7c047b2f2",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2026/10/01/funcionarios-municipales-obstruyen-investigacion-sobre-violaciones-sexuales-rafael-lopez-aliaga-casa-de-los-petisos-hnews-99353",
+      "sha256": "15861944820ff80c90c64550bd12efaf11d383591e5cb71db34931317beba136",
+      "accessedAt": "2026-10-03T01:38:09.379Z",
+      "publisher": "La República",
+      "title": "Funcionarios municipales obstruyen investigación sobre violaciones sexuales",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "candidateId": "Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM",
+  "facts": [
+    {
+      "id": "press-46efa3d1ab",
+      "category": "judicial_process",
+      "summary": "Según La República, el caso de un convenio de San Martín de Porres para una alameda construida por una inmobiliaria se encuentra en la Fiscalía desde noviembre de 2022 y en él se menciona al alcalde y a los regidores que autorizaron la firma, entre ellos Alan Vásquez.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2022-12-14",
+      "details": {
+        "medio": "La República",
+        "titulo": "Alcalde de SMP inaugura alameda que compromete recursos de municipalidad por S/ 4,6 millones"
+      },
+      "quote": "El caso ya se encuentra en la Fiscalía desde el 21 de noviembre y tanto el alcalde Julio Chávez como los regidores Isaac Coronado, Alan Vásquez, Alexander Magallanes, Alejandro Ruiz, Cristian Ovalle, Erik Loayza, Jesús Ramírez, Llich Pumacayo, Juan Barbieri, Nard Leyva, Norma Chico, Jenny Gutierrez, Peregrina Murillo, Robert Pianto y Zoila López, que autorizaron la firma del convenio",
+      "quoteVerified": true,
+      "identityEvidence": "'Alan Vásquez' figura como regidor de San Martín de Porres en la gestión de Julio Chávez (2019-2022); el candidato fue regidor distrital de 2019 a 2022 y postula en San Martín de Porres. Coinciden el cargo, el periodo y el distrito; solo se menciona el nombre corto.",
+      "sourceIds": [
+        "src-press-46efa3d1ab"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:00.314Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-46efa3d1ab",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/actualidad/2022/12/14/san-martin-de-porres-alcalde-de-smp-inaugura-alameda-que-compromete-recursos-de-municipalidad-por-s-46-millones",
+      "archivedUrl": "http://web.archive.org/web/20230115234958/https://larepublica.pe/politica/actualidad/2022/12/14/san-martin-de-porres-alcalde-de-smp-inaugura-alameda-que-compromete-recursos-de-municipalidad-por-s-46-millones/",
+      "sha256": "6672beda302788f8ba53ad70cfd6dfa47832f0dfb8589479c9fe518c44ff65fa",
+      "accessedAt": "2026-10-03T01:43:58.976Z",
+      "publisher": "La República",
+      "title": "Alcalde de SMP inaugura alameda que compromete recursos de municipalidad por S/ 4,6 millones",
+      "extractedBy": "agent"
+    }
+  ]
+}

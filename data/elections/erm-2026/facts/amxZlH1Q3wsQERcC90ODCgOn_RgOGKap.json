@@ -1,0 +1,69 @@
+{
+  "candidateId": "amxZlH1Q3wsQERcC90ODCgOn_RgOGKap",
+  "facts": [
+    {
+      "id": "press-9232436533",
+      "category": "press_report",
+      "summary": "Según La República, desde 2014 una empresa creada ese mismo año firmó con la Municipalidad de Villa El Salvador contratos por S/ 74 millones mientras gobernaban los hermanos Iñigo.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2019-11-03",
+      "details": {
+        "medio": "La República",
+        "titulo": "Empresas que licitan con municipios de VMT y VES presentarían irregularidades [VIDEO]"
+      },
+      "quote": "Desde el 2014 una empresa recién creada ese mismo año ha firmado con la municipalidad de Villa El Salvador contratos por S/ 74 millones, estando en el poder los hermanos Iñigo.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Guido Iñigo Peralta como exalcalde de Villa El Salvador (sucedido por su hermano Kevin) y candidato 2018 en Villa María del Triunfo; coincide con sus cargos de alcalde distrital en el CV y su asesoría en la Municipalidad de VMT (2019-2022).",
+      "sourceIds": [
+        "src-press-9232436533"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:37.683Z"
+    },
+    {
+      "id": "press-fabd0421d7",
+      "category": "press_report",
+      "summary": "Según La República, en las elecciones de 2018 Guido Iñigo Peralta postuló a la alcaldía y ganó, pese a que el JNE lo tachó por haber consignado información falsa sobre su domicilio.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2019-11-03",
+      "details": {
+        "medio": "La República",
+        "titulo": "Empresas que licitan con municipios de VMT y VES presentarían irregularidades [VIDEO]"
+      },
+      "quote": "En las elecciones del 2018 el mismo Guido Iñigo Peralta se postuló como alcalde y ganó con amplia mayoría, pese a que el Jurado Nacional de Elecciones (JNE) lo tachó por haber consignado información falsa respecto a su lugar de domicilio.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo Guido Iñigo Peralta, en el contexto de Villa María del Triunfo, distrito por el que postula ahora; el mismo artículo lo identifica como exalcalde de Villa El Salvador, cargo listado en su CV.",
+      "sourceIds": [
+        "src-press-fabd0421d7"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:38.444Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-9232436533",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2019/11/04/vmt-ves-guido-inigo-estaria-involucrado-en-contratos-irregulares-en-los-municipios-de-villa-maria-del-triunfo-y-villa-el-salvador-video",
+      "sha256": "77b5aa0cb99898f27be6fab2190235f1a4422f8650dbc4928748f320210b3c38",
+      "accessedAt": "2026-10-03T01:42:15.902Z",
+      "publisher": "La República",
+      "title": "Empresas que licitan con municipios de VMT y VES presentarían irregularidades [VIDEO]",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-fabd0421d7",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2019/11/04/vmt-ves-guido-inigo-estaria-involucrado-en-contratos-irregulares-en-los-municipios-de-villa-maria-del-triunfo-y-villa-el-salvador-video",
+      "sha256": "77b5aa0cb99898f27be6fab2190235f1a4422f8650dbc4928748f320210b3c38",
+      "accessedAt": "2026-10-03T01:42:16.278Z",
+      "publisher": "La República",
+      "title": "Empresas que licitan con municipios de VMT y VES presentarían irregularidades [VIDEO]",
+      "extractedBy": "agent"
+    }
+  ]
+}

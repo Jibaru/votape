@@ -1,0 +1,70 @@
+{
+  "candidateId": "Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4",
+  "facts": [
+    {
+      "id": "press-6eeea02ef3",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, el entonces alcalde de Comas Raúl Díaz informó que afrontaba una denuncia del Ministerio del Interior por el presunto delito contra la administración pública en la modalidad de usurpación de autoridad, vinculada a los operativos del comando Tucuy Ricuy.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2022-10-25",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Comas: denuncia a alcalde por presunta usurpación de autoridad por operativos del comando Tucuy Ricuy"
+      },
+      "quote": "Según el burgomaestre en diálogo con Latina Noticias, la denuncia interpuesta por el Ministerio del Interior (Mininter) es por el presunto delito contra la administración pública en la modalidad de usurpación de autoridad.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere a 'el alcalde de Comas, Raúl Díaz' en octubre de 2022; el candidato figura en el JNE como alcalde distrital de Comas 2019-2022.",
+      "sourceIds": [
+        "src-press-6eeea02ef3"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:10.520Z"
+    },
+    {
+      "id": "press-78f3a1e72e",
+      "category": "press_report",
+      "summary": "Según El Comercio, el Ministerio del Interior dispuso investigar la regularidad de la contratación de Raúl Díaz Pérez, exalcalde de Comas, en marzo de 2024, tras un reportaje que reveló que habría obtenido un contrato de S/ 30 mil en ese sector.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2024-05-13",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Ministerio del Interior niega que exalcalde cercano a Nicanor Boluarte tenga algún contrato vigente"
+      },
+      "quote": "En un breve comunicado, el sector que dirige Walter Ortiz señaló que, no obstante, se ha dispuesto “la investigación exhaustiva de la regularidad de la contratación” de personal durante marzo.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Raúl Díaz Pérez, exalcalde de Comas' y su contrato con el Ministerio del Interior en 2024, lo que coincide con el cargo de alcalde de Comas 2019-2022 y la asesoría en el Viceministerio de Seguridad Pública del Mininter (2024) declarados en su hoja de vida.",
+      "sourceIds": [
+        "src-press-78f3a1e72e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:10.980Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-6eeea02ef3",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/seguridad/comas-denuncia-a-alcalde-por-presunta-usurpacion-de-autoridad-por-operativos-del-comando-tucuy-ricuy-video-raul-diaz-mininter-pnp-rmmn-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20221031235308/https://elcomercio.pe/lima/seguridad/comas-denuncia-a-alcalde-por-presunta-usurpacion-de-autoridad-por-operativos-del-comando-tucuy-ricuy-video-raul-diaz-mininter-pnp-rmmn-noticia/",
+      "sha256": "34ae197d8fe0ebe67f593290b3cd422efda095d60d18e433517350587cbe5ac0",
+      "accessedAt": "2026-10-03T01:32:18.608Z",
+      "publisher": "El Comercio",
+      "title": "Comas: denuncia a alcalde por presunta usurpación de autoridad por operativos del comando Tucuy Ricuy",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-78f3a1e72e",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/actualidad/ministerio-del-interior-niega-que-exalcalde-cercano-a-nicanor-boluarte-tenga-algun-contrato-raul-diaz-mininter-mateo-castaneda-ultimas-noticia/",
+      "sha256": "2759a21e177db1a12c0b7f275d72ff6289e21c419039dffd77b7711ad2f87118",
+      "accessedAt": "2026-10-03T01:32:24.655Z",
+      "publisher": "El Comercio",
+      "title": "Ministerio del Interior niega que exalcalde cercano a Nicanor Boluarte tenga algún contrato vigente",
+      "extractedBy": "agent"
+    }
+  ]
+}

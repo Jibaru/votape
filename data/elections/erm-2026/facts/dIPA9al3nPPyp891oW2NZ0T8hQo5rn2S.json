@@ -1,0 +1,39 @@
+{
+  "candidateId": "dIPA9al3nPPyp891oW2NZ0T8hQo5rn2S",
+  "facts": [
+    {
+      "id": "press-e69992905f",
+      "category": "sanction",
+      "summary": "Según Infobae, el JNE registra dos suspensiones de 30 días contra Esteban Monzón durante su gestión como alcalde de Puente Piedra: en 2011 por aprobar un reglamento interno sin el quórum requerido y en 2012 por delegar sus funciones al cuarto regidor cuando correspondía al segundo.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-09-19",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía de Puente Piedra en las Elecciones municipales 2026: Lista completa y partidos por el que postulan"
+      },
+      "quote": "El JNE registra dos suspensiones de 30 días durante su gestión municipal. En 2011 recibió una suspensión por aprobar un reglamento interno sin el quórum requerido y en 2012 por delegar sus funciones al cuarto regidor, cuando correspondía al segundo regidor.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Esteban Felizardo Monzon Fernandez' (nombre completo), candidato de Renovación Popular a la alcaldía de Puente Piedra 2026 y exalcalde de Puente Piedra, coincidiendo con partido, distrito y cargo previo (alcalde distrital 2011-2014) del input. RPP (2011-08-09, 'Suspendido alcalde de Puente Piedra da su descargo') corrobora la suspensión de 2011.",
+      "sourceIds": [
+        "src-press-e69992905f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:44.792Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-e69992905f",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/09/19/candidatos-a-la-alcaldia-de-puente-piedra-en-las-elecciones-municipales-2026-lista-completa-y-partidos-por-el-que-postulan/",
+      "archivedUrl": "http://web.archive.org/web/20260920055709/https://www.infobae.com/peru/2026/09/19/candidatos-a-la-alcaldia-de-puente-piedra-en-las-elecciones-municipales-2026-lista-completa-y-partidos-por-el-que-postulan/",
+      "sha256": "8f1bfea13c373ff2b738e081f80803b57f04ec55e7f0413c2915f020f70ef0bd",
+      "accessedAt": "2026-10-03T01:38:12.464Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía de Puente Piedra en las Elecciones municipales 2026: Lista completa y partidos por el que postulan",
+      "extractedBy": "agent"
+    }
+  ]
+}

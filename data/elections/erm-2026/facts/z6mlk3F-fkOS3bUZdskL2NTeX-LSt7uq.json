@@ -1,0 +1,70 @@
+{
+  "candidateId": "z6mlk3F-fkOS3bUZdskL2NTeX-LSt7uq",
+  "facts": [
+    {
+      "id": "press-a23121893f",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, la Contraloría halló el pago de casi un millón de soles por un servicio de catastro que no se realizó en la Municipalidad del Rímac, lo que motivó una denuncia por colusión contra el alcalde Enrique Peramás y sus funcionarios.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2014-09-17",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "El Rímac pagó casi S/.1 millón por catastro que no se realizó"
+      },
+      "quote": "Entre las irregularidades que halló, la más grave fue el pago de casi un millón de soles por un servicio de catastro que no se realizó, lo que motivó una denuncia por colusión contra el alcalde Enrique Peramás y sus funcionarios.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata del alcalde del Rímac Enrique Peramás en 2014; el candidato fue alcalde distrital del Rímac 2011-2014 y 2015-2018.",
+      "sourceIds": [
+        "src-press-a23121893f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:11.437Z"
+    },
+    {
+      "id": "press-07c929e0b8",
+      "category": "judicial_process",
+      "summary": "Según Infobae, durante su gestión municipal Peramás fue investigado por presunta negociación incompatible en contrataciones directas de 2013 y 2014, y una resolución de la Corte Suprema de 2023 vinculada a ese proceso no constituye una condena.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-09-28",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes"
+      },
+      "quote": "Durante su gestión municipal, además, fue investigado por presunta negociación incompatible en relación con contrataciones directas de 2013 y 2014; una resolución de la Corte Suprema de 2023 estuvo vinculada con una tutela de derechos dentro de ese proceso y no constituye una condena por esos hechos.",
+      "quoteVerified": true,
+      "identityEvidence": "Perfil de 'Enrique Armando Peramás Díaz', candidato de Avanza País al Rímac, exalcalde del Rímac 2011-2014 y 2015-2018 (coincide nombre completo, partido, distrito y cargos).",
+      "sourceIds": [
+        "src-press-07c929e0b8"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:11.865Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a23121893f",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/rimac-pago-s-1-millon-catastro-realizo-364571-noticia/",
+      "sha256": "c46cea8cba80a517f3ebe2a847c068fb4fd06cd4730da4ba0ce37c1561cada5d",
+      "accessedAt": "2026-10-03T01:40:22.638Z",
+      "publisher": "El Comercio",
+      "title": "El Rímac pagó casi S/.1 millón por catastro que no se realizó",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-07c929e0b8",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "archivedUrl": "http://web.archive.org/web/20260929102134/https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "sha256": "123de1021d1be260df570a092034fe260de4781f21470dcc9751286bb067aae2",
+      "accessedAt": "2026-10-03T01:40:24.154Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes",
+      "extractedBy": "agent"
+    }
+  ]
+}

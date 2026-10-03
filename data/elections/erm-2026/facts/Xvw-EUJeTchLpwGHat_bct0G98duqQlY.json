@@ -1,0 +1,71 @@
+{
+  "candidateId": "Xvw-EUJeTchLpwGHat_bct0G98duqQlY",
+  "facts": [
+    {
+      "id": "press-b6413ce23b",
+      "category": "judicial_process",
+      "summary": "Según La República, la Fiscalía pidió 9 años de prisión para Juan Carlos Zurek, como alcalde de La Molina, en el caso por la contratación en el Órgano de Control Institucional municipal de Marcela Mejía, vinculada al excontralor Edgar Alarcón.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2020-09-12",
+      "details": {
+        "medio": "La República",
+        "titulo": "Fiscalía de la Nación pide 17 años de prisión para Edgar Alarcón por corrupción"
+      },
+      "quote": "Para Mejía Franco y para el alcalde de La Molina, Juan Carlos Zurek, la Fiscalía pide 9 años de prisión.",
+      "quoteVerified": true,
+      "identityEvidence": "The article names 'el alcalde de La Molina, Juan Carlos Zurek'; the candidate was La Molina district mayor 2011-2018 and runs again in La Molina.",
+      "sourceIds": [
+        "src-press-b6413ce23b"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:06.619Z"
+    },
+    {
+      "id": "press-a0722ab885",
+      "category": "press_report",
+      "summary": "Según La República, durante su primer gobierno como alcalde de La Molina el JNE lo denunció por consignar información falsa sobre un cargo de gerente de ventas en una empresa que no existe.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2022-04-16",
+      "details": {
+        "medio": "La República",
+        "titulo": "Elecciones Regionales y Municipales 2022: Precandidatos inmersos en delitos de corrupción"
+      },
+      "quote": "Fue en su primer gobierno que el Jurado Nacional de Elecciones (JNE) lo denunció por consignar información falsa al informar que se desempeñaba como gerente de ventas de una empresa que no existe.",
+      "quoteVerified": true,
+      "identityEvidence": "The paragraph names 'Juan Carlos Martín Zurek Pardo Figueroa, quien ya fue alcalde del distrito de La Molina dos veces (2011-2014 y 2015-2018)', matching full name and offices in the input.",
+      "sourceIds": [
+        "src-press-a0722ab885"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:07.825Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-b6413ce23b",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2020/09/12/fiscalia-de-la-nacion-pide-17-anos-de-prision-para-edgar-alarcon-por-corrupcion-contraloria-general-de-la-republica",
+      "archivedUrl": "http://web.archive.org/web/20260515040443/https://larepublica.pe/politica/2020/09/12/fiscalia-de-la-nacion-pide-17-anos-de-prision-para-edgar-alarcon-por-corrupcion-contraloria-general-de-la-republica",
+      "sha256": "97dd665070d2be9d433d8915502638efc134f290a32150a8cfa7608d9ca1b4e7",
+      "accessedAt": "2026-10-03T01:33:15.782Z",
+      "publisher": "La República",
+      "title": "Fiscalía de la Nación pide 17 años de prisión para Edgar Alarcón por corrupción",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-a0722ab885",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2022/04/16/elecciones-regionales-y-municipales-2022-precandidatos-inmersos-en-delitos-de-corrupcion",
+      "archivedUrl": "http://web.archive.org/web/20220831035918/https://larepublica.pe/politica/2022/04/16/elecciones-regionales-y-municipales-2022-precandidatos-inmersos-en-delitos-de-corrupcion/",
+      "sha256": "1b02eb1f4feb7b37c82542b03028ecd0dab00125fb8f2ea5c5960b43bd0783db",
+      "accessedAt": "2026-10-03T01:33:16.382Z",
+      "publisher": "La República",
+      "title": "Elecciones Regionales y Municipales 2022: Precandidatos inmersos en delitos de corrupción",
+      "extractedBy": "agent"
+    }
+  ]
+}

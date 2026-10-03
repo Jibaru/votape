@@ -1,0 +1,39 @@
+{
+  "candidateId": "ul6VD9gHAb657bqNGFK13euPVC0UhUvm",
+  "facts": [
+    {
+      "id": "press-0f0ba37022",
+      "category": "press_report",
+      "summary": "Según El Comercio, documentos revisados por el diario muestran que Carlos Juscamayta figura en dos denuncias por violencia familiar presentadas en 2014 y 2017.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2025-11-15",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Perú Primero recicla a dos candidatos denunciados por agresión"
+      },
+      "quote": "Según documentos revisados por El Comercio, Carlos Juscamayta figura en dos denuncias por violencia familiar presentadas en el 2014 y el 2017.",
+      "quoteVerified": true,
+      "identityEvidence": "Article states 'Juscamayta fue elegido regidor distrital de El Agustino en el 2018, con Perú Patria Segura' and is a Perú Primero candidate (matches input: regidor El Agustino 2019-2022 for Perú Patria Segura; 2026 party Perú Primero). Context: he denies the facts; the 2017 complaint was archived by the Fiscalía in 2019 because the complainant did not attend summons. Reviewer may want to weigh relevance (private matter, archived).",
+      "sourceIds": [
+        "src-press-0f0ba37022"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:01.489Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-0f0ba37022",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/politica/peru-primero-recicla-a-dos-candidatos-denunciados-por-agresion-martin-vizcarra-carlos-juscamayta-emilio-nicolich-tlcnota-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20251216102521/https://elcomercio.pe/politica/peru-primero-recicla-a-dos-candidatos-denunciados-por-agresion-martin-vizcarra-carlos-juscamayta-emilio-nicolich-tlcnota-noticia/",
+      "sha256": "e717e95b263af94418503b3d6453ba8a03e2d3d7bb116915e3efb61ff6021c27",
+      "accessedAt": "2026-10-03T01:42:29.888Z",
+      "publisher": "El Comercio",
+      "title": "Perú Primero recicla a dos candidatos denunciados por agresión",
+      "extractedBy": "agent"
+    }
+  ]
+}

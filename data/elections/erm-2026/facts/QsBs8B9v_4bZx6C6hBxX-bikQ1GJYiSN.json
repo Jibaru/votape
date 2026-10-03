@@ -1,0 +1,39 @@
+{
+  "candidateId": "QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN",
+  "facts": [
+    {
+      "id": "press-539e33962e",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, la Fiscalía Provincial Especializada en Violencia contra la Mujer y los Integrantes del Grupo Familiar de Chorrillos abrió una investigación preliminar tras acusaciones contra el candidato difundidas en agosto, que él calificó de ataques y difamaciones.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-09-23",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Ricardo Vásquez: denuncian a candidato de Chorrillos por choque y fuga en presunto estado de ebriedad y récord de 7 multas"
+      },
+      "quote": "En agosto se le acusó de haber tenido una presunta relación con una adolescente y calificó esas acusaciones como ataques y difamaciones. Posteriormente, la Fiscalía Provincial Especializada en Violencia contra la Mujer y los Integrantes del Grupo Familiar de Chorrillos abrió una investigación preliminar sobre esos hechos, tras la difusión de chats.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Ricardo Santiago Vásquez Laguna y lo describe como candidato de Somos Perú a la alcaldía de Chorrillos en las ERM 2026; coincide con nombre completo, partido y distrito.",
+      "sourceIds": [
+        "src-press-539e33962e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:57.533Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-539e33962e",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/ricardo-vasquez-denuncian-a-candidato-de-chorrillos-por-choque-y-fuga-en-presunto-estado-de-ebriedad-y-record-de-7-multas-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260924071421/https://elcomercio.pe/lima/sucesos/ricardo-vasquez-denuncian-a-candidato-de-chorrillos-por-choque-y-fuga-en-presunto-estado-de-ebriedad-y-record-de-7-multas-noticia/",
+      "sha256": "d841f7eb19fc039573d52e5b6b803e1a478b5179375b446a6ed23e1cb86f0c32",
+      "accessedAt": "2026-10-03T01:33:36.242Z",
+      "publisher": "El Comercio",
+      "title": "Ricardo Vásquez: denuncian a candidato de Chorrillos por choque y fuga en presunto estado de ebriedad y récord de 7 multas",
+      "extractedBy": "agent"
+    }
+  ]
+}

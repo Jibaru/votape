@@ -1,0 +1,70 @@
+{
+  "candidateId": "8xC0ZMF8tEOFDgVvfg_ISMQzPHQ-YDEx",
+  "facts": [
+    {
+      "id": "press-3e5ef77c3f",
+      "category": "judicial_process",
+      "summary": "Según Infobae, existe una investigación fiscal por presuntos delitos de cohecho pasivo propio y peculado doloso relacionada con la etapa de Isabel Ayala como funcionaria de Independencia, que no constituye una condena.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-09-28",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes"
+      },
+      "quote": "Además, existe una investigación fiscal por presuntos delitos de cohecho pasivo propio y peculado doloso relacionados con su etapa como funcionaria de Independencia. Ese caso corresponde a una investigación y no a una condena.",
+      "quoteVerified": true,
+      "identityEvidence": "Perfil de 'Isabel del Rocío Ayala Melgarejo', candidata de Renovación Popular al Rímac y gerente de Desarrollo Humano de la MML desde 2023; su CV registra cargos en la Municipalidad de Independencia (2019-2021).",
+      "sourceIds": [
+        "src-press-3e5ef77c3f"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:28.230Z"
+    },
+    {
+      "id": "press-f43ac6c52b",
+      "category": "press_report",
+      "summary": "Según La República, la Fiscalía Provincial de Familia de Lima remitió citaciones al albergue municipal Casa de los Petisos, que depende de la gerencia de Ayala, para que expliquen por qué no reportaron abusos sexuales ni llevaron a las víctimas a Cámara Gesell, y las peticiones fueron ignoradas.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-10-01",
+      "details": {
+        "medio": "La República",
+        "titulo": "Funcionarios municipales obstruyen investigación sobre violaciones sexuales"
+      },
+      "quote": "La Fiscalía Provincial de Familia de Lima ha remitido varias citaciones al albergue Casa de los Petisos a cargo de Torrejón que a su vez depende de la gerencia de Ayala, para que expliquen por qué no reportaron los abusos sexuales y no llevaron a las víctimas a la Cámara Gesell como indican las normas, pero las peticiones fueron ignoradas.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Isabel Ayala Melgarejo como gerente de Desarrollo Humano de la MML y candidata de Renovación Popular a la alcaldía del Rímac (coincide cargo actual, partido y distrito).",
+      "sourceIds": [
+        "src-press-f43ac6c52b"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:29.468Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-3e5ef77c3f",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "archivedUrl": "http://web.archive.org/web/20260929102134/https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "sha256": "1356579e5ccd2ceeb4a62c9e9aa1a04621fa3a11fe9a080f1def292a7357e7a2",
+      "accessedAt": "2026-10-03T01:40:24.403Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-f43ac6c52b",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2026/10/01/funcionarios-municipales-obstruyen-investigacion-sobre-violaciones-sexuales-rafael-lopez-aliaga-casa-de-los-petisos-hnews-99353",
+      "sha256": "15861944820ff80c90c64550bd12efaf11d383591e5cb71db34931317beba136",
+      "accessedAt": "2026-10-03T01:40:25.007Z",
+      "publisher": "La República",
+      "title": "Funcionarios municipales obstruyen investigación sobre violaciones sexuales",
+      "extractedBy": "agent"
+    }
+  ]
+}

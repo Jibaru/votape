@@ -1,0 +1,39 @@
+{
+  "candidateId": "M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt",
+  "facts": [
+    {
+      "id": "press-b4734908c9",
+      "category": "press_report",
+      "summary": "Según La República, en las elecciones de 2022 Peter Omar Jaime Cori, entonces candidato de Alianza para el Progreso en San Martín de Porres, presentaba antecedentes policiales por lesiones leves por violencia familiar en más de una ocasión.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2022-09-17",
+      "details": {
+        "medio": "La República",
+        "titulo": "Lima: 41 de 42 distritos tienen más de un candidato denunciado"
+      },
+      "quote": "Así también figura Peter Omar Jaime Cori, candidato de Alianza para el Progreso en San Martín de Porres. Este postulante presenta antecedentes policiales por lesiones leves por violencia familiar en más de una ocasión.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo idéntico (Peter Omar Jaime Cori) y mismo distrito (San Martín de Porres) como candidato a alcalde; el artículo de 2022 lo identifica con APP, distinto de su partido actual (Renovación Popular), consistente con una candidatura previa.",
+      "sourceIds": [
+        "src-press-b4734908c9"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:50.421Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-b4734908c9",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/elecciones/2022/09/17/elecciones-20221-lima-41-de-42-distritos-tienen-mas-de-un-candidato-denunciado-onpe-jne-app",
+      "archivedUrl": "http://web.archive.org/web/20221206140652/https://larepublica.pe/elecciones/2022/09/17/elecciones-20221-lima-41-de-42-distritos-tienen-mas-de-un-candidato-denunciado-onpe-jne-app/",
+      "sha256": "f30b74c946c2ba78bf1093c65378aed66286cc90abc894eccfe2ab7a0e7f94f1",
+      "accessedAt": "2026-10-03T01:41:13.626Z",
+      "publisher": "La República",
+      "title": "Lima: 41 de 42 distritos tienen más de un candidato denunciado",
+      "extractedBy": "agent"
+    }
+  ]
+}

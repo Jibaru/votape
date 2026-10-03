@@ -1,0 +1,71 @@
+{
+  "candidateId": "QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz",
+  "facts": [
+    {
+      "id": "press-f25002c177",
+      "category": "judicial_process",
+      "summary": "Según La República, en febrero de 2020 José Rubén Delgado Heredia, entonces alcalde de Punta Negra, fue detenido en un operativo del Ministerio Público y la Dircocor por los cargos de tráfico de terrenos y organización criminal con la banda \"La Jauría del Sur\".",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2020-02-06",
+      "details": {
+        "medio": "La República",
+        "titulo": "Alcalde de Punta Negra es arrestado por liderar banda de tráfico de terrenos [VIDEO]"
+      },
+      "quote": "José Rubén Delgado Heredia, alcalde de Punta Negra, fue detenido en un operativo conjunto del Ministerio Público y la Dirección Contra la Corrupción de la Policía Nacional del Perú (DIRCOCOR) bajo los cargos de tráfico de terrenos y organización criminal con la banda “La Jauría del Sur”.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo (José Rubén Delgado Heredia) y cargo coinciden: alcalde de Punta Negra 2019-2022 por el PPC según su hoja de vida; postula de nuevo en Punta Negra.",
+      "sourceIds": [
+        "src-press-f25002c177"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:56.208Z"
+    },
+    {
+      "id": "press-2c483fae4a",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, a fines de febrero de 2020 el Poder Judicial dictó 24 meses de prisión preventiva contra el entonces alcalde de Punta Negra, José Delgado Heredia, sindicado como presunto cabecilla de la organización criminal 'La Jauría del Sur'.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2020-09-10",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Corrupción en balnearios del sur: los alcaldes acusados de tráfico de terrenos, peculado y extorsión"
+      },
+      "quote": "A fines de febrero, el Poder Judicial dictó 24 meses de prisión preventiva para el entonces alcalde de Punta Negra, José Delgado Heredia, por ser sindicado como presunto cabecilla de la organización criminal ‘La Jauría del Sur’.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como alcalde de Punta Negra (José Delgado Heredia), cargo que el candidato declara haber ejercido en 2019-2022.",
+      "sourceIds": [
+        "src-press-2c483fae4a"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:56.591Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-f25002c177",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2020/02/05/punta-negra-alcalde-jose-delgado-jauria-del-sur-detenido-trafico-terrenos-pnp-fiscalia-video-mdga",
+      "archivedUrl": "http://web.archive.org/web/20260223234920/https://larepublica.pe/sociedad/2020/02/05/punta-negra-alcalde-jose-delgado-jauria-del-sur-detenido-trafico-terrenos-pnp-fiscalia-video-mdga",
+      "sha256": "66581aa0fac6742ec91736389444e7697a3381cc8de0ec23a6001297a625e62d",
+      "accessedAt": "2026-10-03T01:40:04.975Z",
+      "publisher": "La República",
+      "title": "Alcalde de Punta Negra es arrestado por liderar banda de tráfico de terrenos [VIDEO]",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-2c483fae4a",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/corrupcion-en-balnearios-del-sur-los-alcaldes-acusados-de-trafico-de-terrenos-peculado-y-extorsion-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260420220308/https://elcomercio.pe/lima/sucesos/corrupcion-en-balnearios-del-sur-los-alcaldes-acusados-de-trafico-de-terrenos-peculado-y-extorsion-noticia/",
+      "sha256": "75faaa8ca292c1d6c128a2e5a20769c5aad6b7204194ff938e3e9949e881ccac",
+      "accessedAt": "2026-10-03T01:40:05.776Z",
+      "publisher": "El Comercio",
+      "title": "Corrupción en balnearios del sur: los alcaldes acusados de tráfico de terrenos, peculado y extorsión",
+      "extractedBy": "agent"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "candidateId": "ZqCoMH55daAjnwEYknbZ5hEcpLzOajLk",
+  "facts": [
+    {
+      "id": "press-a2ee941b18",
+      "category": "judicial_process",
+      "summary": "Según RPP, la Primera Fiscalía Provincial Especializada en Delitos de Corrupción de Funcionarios de Lima abrió una investigación preliminar contra Jorge Quintana García Godos, entonces alcalde de Jesús María, y otros funcionarios por el presunto delito de peculado doloso.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2020-03-03",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Fiscalía abrió investigación preliminar contra el alcalde de Jesús María"
+      },
+      "quote": "La Primera Fiscalía Provincial Especializada en Delitos de Corrupción de Funcionarios de Lima abrió una investigación preliminar contra el alcalde de Jesús María, Jorge Quintana García Godos, y otros funcionarios por el presunto delito de peculado doloso y otras supuestas irregularidades.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo (Jorge Quintana García Godos) y cargo: alcalde de Jesús María en 2020, coincide con ALCALDE DISTRITAL (ACCION POPULAR, 2019-2022) del input.",
+      "sourceIds": [
+        "src-press-a2ee941b18"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:12.788Z"
+    },
+    {
+      "id": "press-f6d4befb56",
+      "category": "press_report",
+      "summary": "Según La República, una denuncia periodística señaló a Jorge Quintana, entonces alcalde de Jesús María, por haber intentado sobornar a un testigo clave en la investigación por supuestamente haber favorecido en campaña a la congresista Mónica Saavedra.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2020-07-12",
+      "details": {
+        "medio": "La República",
+        "titulo": "Denuncian que alcalde de Jesús María sobornó a testigo que lo vincula a congresista Saavedra"
+      },
+      "quote": "Una denuncia periodística señala al alcalde de Jesús María, Jorge Quintana, por haber intentado sobornar a un testigo clave en la investigación que se le sigue por supuestamente haber favorecido en campaña a la ahora congresista por Acción Popular, Mónica Saavedra.",
+      "quoteVerified": true,
+      "identityEvidence": "Alcalde de Jesús María en 2020 por Acción Popular, coincide con ALCALDE DISTRITAL (ACCION POPULAR, 2019-2022) del input; el artículo también describe al alcalde Quintana rechazando la acusación.",
+      "sourceIds": [
+        "src-press-f6d4befb56"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:13.254Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a2ee941b18",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/lima/judiciales/fiscalia-abrio-investigacion-preliminar-contra-el-alcalde-de-jesus-maria-noticia-1249342",
+      "archivedUrl": "http://web.archive.org/web/20240531034238/https://rpp.pe/lima/judiciales/fiscalia-abrio-investigacion-preliminar-contra-el-alcalde-de-jesus-maria-noticia-1249342",
+      "sha256": "5a1daf8bfc5a1d6ff84948d611ba6d93c82169b51ad592a7ae920e7a28e8baaf",
+      "accessedAt": "2026-10-03T01:41:06.537Z",
+      "publisher": "RPP",
+      "title": "Fiscalía abrió investigación preliminar contra el alcalde de Jesús María",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-f6d4befb56",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2020/07/12/jesus-maria-alcalde-jorge-quintana-acusado-de-sobornar-a-testigo-del-caso-monica-saavedra-accion-popular-monica-tissoni-mdga",
+      "archivedUrl": "http://web.archive.org/web/20250815212129/https://larepublica.pe/politica/2020/07/12/jesus-maria-alcalde-jorge-quintana-acusado-de-sobornar-a-testigo-del-caso-monica-saavedra-accion-popular-monica-tissoni-mdga",
+      "sha256": "89cee1d2028d184d317e0bea4b17902ace272df457912296f85090475fcabf58",
+      "accessedAt": "2026-10-03T01:41:07.982Z",
+      "publisher": "La República",
+      "title": "Denuncian que alcalde de Jesús María sobornó a testigo que lo vincula a congresista Saavedra",
+      "extractedBy": "agent"
+    }
+  ]
+}

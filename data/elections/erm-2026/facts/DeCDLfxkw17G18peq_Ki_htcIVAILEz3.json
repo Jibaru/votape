@@ -1,0 +1,39 @@
+{
+  "candidateId": "DeCDLfxkw17G18peq_Ki_htcIVAILEz3",
+  "facts": [
+    {
+      "id": "press-dddedb4b9c",
+      "category": "press_report",
+      "summary": "Según Convoca, la Municipalidad de Magdalena había desembolsado hasta 2018 unos 628 mil soles a favor de la empresa gerenciada por José Haro Zolezzi.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2018-10-05",
+      "details": {
+        "medio": "Convoca",
+        "titulo": "Los nexos de 4 candidatos a la alcaldía de Magdalena con la gestión de Francis Allison"
+      },
+      "quote": "De acuerdo con el Ministerio de Economía y Finanzas, el municipio ha desembolsado hasta hoy 628 mil soles a favor de la compañía gerenciada por Haro.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a José Haro Zolezzi, candidato a la alcaldía de Magdalena, como gerente de H + H Diseño y Construcción; el candidato declara ser gerente general de H+H Diseño y Construcción SAC (2015-2026) y postula en Magdalena del Mar.",
+      "sourceIds": [
+        "src-press-dddedb4b9c"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:44.083Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-dddedb4b9c",
+      "providerId": "prensa",
+      "url": "https://convoca.pe/agenda-propia/los-nexos-de-4-candidatos-la-alcaldia-de-magdalena-con-la-gestion-de-francis-allison",
+      "archivedUrl": "http://web.archive.org/web/20200218210214/http://convoca.pe:80/agenda-propia/los-nexos-de-4-candidatos-la-alcaldia-de-magdalena-con-la-gestion-de-francis-allison",
+      "sha256": "7432b838bc80927b0e9240fe69c606a1cbaee858d23db11a34ffff85a8c640e1",
+      "accessedAt": "2026-10-03T01:38:10.873Z",
+      "publisher": "Convoca",
+      "title": "Los nexos de 4 candidatos a la alcaldía de Magdalena con la gestión de Francis Allison",
+      "extractedBy": "agent"
+    }
+  ]
+}

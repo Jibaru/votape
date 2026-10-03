@@ -1,0 +1,39 @@
+{
+  "candidateId": "EQN61PJ42_GIzVu9JzHQXn0pIfYTwcn1",
+  "facts": [
+    {
+      "id": "press-259593bfd7",
+      "category": "judicial_process",
+      "summary": "Según La República, la Fiscalía Provincial Penal Corporativa de Villa El Salvador comprendió en su investigación por la deflagración de 2020 al entonces alcalde Kevin Yñigo Peralta, junto con dos funcionarios municipales, por la presunta omisión o demora de actos funcionales.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2022-09-24",
+      "details": {
+        "medio": "La República",
+        "titulo": "Declaran “compleja” a la investigación del caso de la deflagración en Villa El Salvador"
+      },
+      "quote": "También están comprendidos el alcalde de Villa El Salvador, Kevin Yñigo Peralta, y los funcionarios municipales Javier Bernuy Espinoza y Robert Sánchez Trigueros, por la presunta comisión del delito contra la administración pública en la modalidad de omisión o demora de actos funcionales.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Kevin Yñigo Peralta' como alcalde de Villa El Salvador; el candidato Clodoaldo Kevin Yñigo Peralta figura en el JNE como ALCALDE DISTRITAL (2019-2022) y postula de nuevo en Villa El Salvador.",
+      "sourceIds": [
+        "src-press-259593bfd7"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:45.710Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-259593bfd7",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2022/09/24/caso-deflagracion-en-villa-el-salvador-declaran-compleja-a-la-investigacion-del-caso-tragedia-en-villa-el-salvador-fuga-de-gas-villa-el-salvador-atmp",
+      "archivedUrl": "http://web.archive.org/web/20250512155349/https://larepublica.pe/sociedad/2022/09/24/caso-deflagracion-en-villa-el-salvador-declaran-compleja-a-la-investigacion-del-caso-tragedia-en-villa-el-salvador-fuga-de-gas-villa-el-salvador-atmp",
+      "sha256": "d815b6a18b95cacfc71782a3d5444d2b3dbb622a9c792a34c5e13b03662cb8a2",
+      "accessedAt": "2026-10-03T01:44:19.316Z",
+      "publisher": "La República",
+      "title": "Declaran “compleja” a la investigación del caso de la deflagración en Villa El Salvador",
+      "extractedBy": "agent"
+    }
+  ]
+}

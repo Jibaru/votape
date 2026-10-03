@@ -1,0 +1,39 @@
+{
+  "candidateId": "385d2pIG3fWUTRGJ8V3hTP6pUOnzE1Gu",
+  "facts": [
+    {
+      "id": "press-b39efacfc1",
+      "category": "press_report",
+      "summary": "Según La República, la candidatura de Luis Dante Mendieta Flores (Alianza para el Progreso) a la alcaldía de San Juan de Miraflores en 2022 fue tachada mediante la resolución N° 2881-2022-JNE.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2022-08-31",
+      "details": {
+        "medio": "La República",
+        "titulo": "Elecciones municipales 2022: ¿quiénes son y qué proponen los candidatos de San Juan de Miraflores?"
+      },
+      "quote": "El candidato Luis Dante Mendieta Flores ha sido tachado de la contienda electoral de acuerdo a la resolución N° 2881-2022-JNE y lo que se puede visualizar en la Plataforma Electoral del JNE.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo idéntico (Luis Dante Mendieta Flores), mismo partido (Alianza para el Progreso) y mismo distrito (San Juan de Miraflores) que en el input.",
+      "sourceIds": [
+        "src-press-b39efacfc1"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:23.460Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-b39efacfc1",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/elecciones/2022/08/31/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-de-san-juan-de-miraflores-pltc-evat",
+      "archivedUrl": "http://web.archive.org/web/20260730051254/https://larepublica.pe/elecciones/2022/08/31/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-de-san-juan-de-miraflores-pltc-evat",
+      "sha256": "914cf10cd666f80cd56d791639d0e286c740963c88e13dc9959b3bec0e3b499f",
+      "accessedAt": "2026-10-03T01:44:06.187Z",
+      "publisher": "La República",
+      "title": "Elecciones municipales 2022: ¿quiénes son y qué proponen los candidatos de San Juan de Miraflores?",
+      "extractedBy": "agent"
+    }
+  ]
+}

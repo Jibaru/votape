@@ -1,0 +1,38 @@
+{
+  "candidateId": "PPfq7mgn1OqUHp03FvcDBNXJslPohfp5",
+  "facts": [
+    {
+      "id": "press-2fbf6e20e5",
+      "category": "press_report",
+      "summary": "Según Convoca, el Poder Judicial declaró nulo en dos instancias el acuerdo de concejo de 2013 con el que la Municipalidad de Independencia concesionó el Estadio Sandro Baylón, y la gestión de Sifuentes presentó un recurso de casación.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "details": {
+        "medio": "Convoca",
+        "titulo": "Espacios públicos de Lima entregados a empresas equivalen a 79 campos de fútbol"
+      },
+      "quote": "Esta irregularidad fue denunciada ante el Poder Judicial que en dos instancias de la Corte Judicial de Lima Norte declaró nulo el Acuerdo de Concejo 063-2013-MDI con lo que todo regresa a foja cero. Pese a la sentencia judicial, la gestión de Sifuentes presentó un recurso de casación y ahora se espera el pronunciamiento de la Corte Suprema de Justicia.",
+      "quoteVerified": true,
+      "identityEvidence": "The preceding sentence identifies him as 'el exalcalde de Independencia, Evans Sifuentes' and places the concession 'en el 2013, durante la primera gestión', matching his term as alcalde de Independencia 2011-2014 (PPC). Note: case is a civil nullity of the council agreement, not a criminal case against him; article date ~2019 (not explicit).",
+      "sourceIds": [
+        "src-press-2fbf6e20e5"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:55.825Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-2fbf6e20e5",
+      "providerId": "prensa",
+      "url": "https://ciudadenconcesion.convoca.pe/el-espacio-publico-entregado-a-empresas.html",
+      "archivedUrl": "http://web.archive.org/web/20260610091833/https://ciudadenconcesion.convoca.pe/el-espacio-publico-entregado-a-empresas.html",
+      "sha256": "3debafb91e26d582c4e2ce2468efc1754b34efadd912d08094255624eba1d4b5",
+      "accessedAt": "2026-10-03T01:42:28.974Z",
+      "publisher": "Convoca",
+      "title": "Espacios públicos de Lima entregados a empresas equivalen a 79 campos de fútbol",
+      "extractedBy": "agent"
+    }
+  ]
+}

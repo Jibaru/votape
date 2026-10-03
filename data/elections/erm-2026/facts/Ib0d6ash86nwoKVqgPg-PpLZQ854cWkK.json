@@ -1,0 +1,71 @@
+{
+  "candidateId": "Ib0d6ash86nwoKVqgPg-PpLZQ854cWkK",
+  "facts": [
+    {
+      "id": "press-39a9598bf9",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, figura como imputado por presunto peculado doloso en una investigación de la Fiscalía Anticorrupción de Lima abierta el 27 de febrero de 2025.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-09-22",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Candidato de Barranco por Renovación Popular es investigado por peculado y propició la designación de su socia como gerente de la municipalidad"
+      },
+      "quote": "En el plano fiscal, Espinoza figura como imputado por el delito de peculado doloso. La investigación está a cargo de la Segunda Fiscalía Provincial Corporativa Especializada en Delitos de Corrupción de Funcionarios de Lima (Carpeta Fiscal N° 145-2025) y se abrió el 27 de febrero de 2025.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Manuel Espinoza Loarte, exgerente municipal de la comuna y candidato a la alcaldía por Renovación Popular' en Barranco; coincide con nombre, partido, distrito y su cargo de gerente municipal de Barranco y antes de Surquillo.",
+      "sourceIds": [
+        "src-press-39a9598bf9"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:47.239Z"
+    },
+    {
+      "id": "press-551229c59d",
+      "category": "press_report",
+      "summary": "Según El Comercio, cuatro informes de la Contraloría sobre su gestión como gerente municipal le atribuyeron responsabilidad civil y administrativa, con perjuicios económicos que suman S/ 832,644.17.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-09-22",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Candidato de Barranco por Renovación Popular es investigado por peculado y propició la designación de su socia como gerente de la municipalidad"
+      },
+      "quote": "Pero su paso por la gestión pública en ese distrito dejó cuatro informes de la Contraloría en los que le hallaron responsabilidad civil y administrativa. En conjunto, los cuatro informes suman perjuicios económicos por S/ 832,644.17.",
+      "quoteVerified": true,
+      "identityEvidence": "Mismo artículo sobre Manuel Espinoza Loarte, candidato de Renovación Popular en Barranco; los informes corresponden a su etapa de gerente municipal (el artículo cita Surquillo, cargo que figura en su hoja de vida 2015-2022).",
+      "sourceIds": [
+        "src-press-551229c59d"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:47.615Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-39a9598bf9",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones/manuel-espinoza-barranco-fiscalia-contraloria-jessica-vargas-peculado-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260924052537/https://elcomercio.pe/elecciones/manuel-espinoza-barranco-fiscalia-contraloria-jessica-vargas-peculado-noticia/",
+      "sha256": "80d8d8c0e116360f8f524f05b05e288cf300f22dcdc739617c366030b2e45996",
+      "accessedAt": "2026-10-03T01:43:56.854Z",
+      "publisher": "El Comercio",
+      "title": "Candidato de Barranco por Renovación Popular es investigado por peculado y propició la designación de su socia como gerente de la municipalidad",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-551229c59d",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones/manuel-espinoza-barranco-fiscalia-contraloria-jessica-vargas-peculado-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260924052537/https://elcomercio.pe/elecciones/manuel-espinoza-barranco-fiscalia-contraloria-jessica-vargas-peculado-noticia/",
+      "sha256": "ecc88508fd2e286252ec1cd0a2530c1fe5d550e89524e20cc238d3bc7635a022",
+      "accessedAt": "2026-10-03T01:43:57.525Z",
+      "publisher": "El Comercio",
+      "title": "Candidato de Barranco por Renovación Popular es investigado por peculado y propició la designación de su socia como gerente de la municipalidad",
+      "extractedBy": "agent"
+    }
+  ]
+}

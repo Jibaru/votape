@@ -1,0 +1,71 @@
+{
+  "candidateId": "1RQzrWHdTDgwdF_-HBJu4Arb6ia7W4-p",
+  "facts": [
+    {
+      "id": "press-187ac84170",
+      "category": "judicial_process",
+      "summary": "Según RPP, el Ministerio Público abrió una investigación preliminar contra Richard Cortez Melgarejo, entonces teniente alcalde de Chorrillos, por el presunto delito de corrupción de funcionarios en agravio del Estado.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2025-03-30",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Teniente alcalde de Chorrillos: Fiscalía abre investigación preliminar por presunta recepción de pago ilícito"
+      },
+      "quote": "El Ministerio Público anunció ayer, sábado, la apertura de una investigación preliminar contra Richard Cortez Melgarejo, teniente alcalde de la Municipalidad de Chorrillos, por el presunto delito de corrupción de funcionarios, en agravio del Estado.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo (Richard Cortez Melgarejo) y cargo: teniente alcalde/regidor de la Municipalidad de Chorrillos, coincide con su regidoría distrital 2022-2026 declarada.",
+      "sourceIds": [
+        "src-press-187ac84170"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:22.450Z"
+    },
+    {
+      "id": "press-78f00b543b",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, Richard Cortez está involucrado en 12 denuncias penales ante el Ministerio Público por delitos como concusión, negociación incompatible, peculado y cohecho; el candidato sostiene que solo tiene una investigación en curso.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2026-09-13",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Chorrillos: el candidato con 12 denuncias en fiscalía y ampayado recibiendo dinero que promete “cambiar el distrito”"
+      },
+      "quote": "Sin embargo, no es el único caso: está involucrado en 12 denuncias penales ante el Ministerio Público por concusión, negociación incompatible, peculado, resistencia a la autoridad, abuso de autoridad, falsificación, fraude, extorsión, organización criminal y cohecho.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como Richard Cortez Melgarejo, alcalde de Chorrillos y candidato de Avanza País en las ERM 2026, exteniente alcalde; coincide con partido, distrito y cargos del input.",
+      "sourceIds": [
+        "src-press-78f00b543b"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:22.955Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-187ac84170",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/judiciales/teniente-alcalde-de-chorrillos-fiscalia-abre-investigacion-preliminar-por-presunta-recepcion-de-pago-ilicito-noticia-1625082",
+      "archivedUrl": "http://web.archive.org/web/20250620101251/https://rpp.pe/politica/judiciales/teniente-alcalde-de-chorrillos-fiscalia-abre-investigacion-preliminar-por-presunta-recepcion-de-pago-ilicito-noticia-1625082",
+      "sha256": "c13f389afc3e8ee9311b7c7aa12b3ff6753cbce02624bd147408819664a105c8",
+      "accessedAt": "2026-10-03T01:33:33.306Z",
+      "publisher": "RPP",
+      "title": "Teniente alcalde de Chorrillos: Fiscalía abre investigación preliminar por presunta recepción de pago ilícito",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-78f00b543b",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/chorrillos-el-candidato-con-12-denuncias-en-fiscalia-ampayado-recibiendo-dinero-y-que-promete-cambiar-el-distrito-apuesplan-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260914132728/https://elcomercio.pe/lima/sucesos/chorrillos-el-candidato-con-12-denuncias-en-fiscalia-ampayado-recibiendo-dinero-y-que-promete-cambiar-el-distrito-apuesplan-noticia/",
+      "sha256": "5b4144d77c05c0ee220d522f562f0c4de64834eda0448407a2a499a882f1b379",
+      "accessedAt": "2026-10-03T01:33:35.257Z",
+      "publisher": "El Comercio",
+      "title": "Chorrillos: el candidato con 12 denuncias en fiscalía y ampayado recibiendo dinero que promete “cambiar el distrito”",
+      "extractedBy": "agent"
+    }
+  ]
+}

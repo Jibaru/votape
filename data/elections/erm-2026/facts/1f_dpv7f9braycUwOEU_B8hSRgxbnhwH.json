@@ -1,0 +1,71 @@
+{
+  "candidateId": "1f_dpv7f9braycUwOEU_B8hSRgxbnhwH",
+  "facts": [
+    {
+      "id": "press-4c6b6adf3e",
+      "category": "judicial_process",
+      "summary": "Según RPP, el exalcalde de Breña es investigado junto a otros 24 funcionarios y personas naturales por los presuntos delitos de organización criminal, colusión, peculado doloso, concusión, falsificación y uso de documentos y falsedad genérica, en agravio del Estado.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2023-01-07",
+      "details": {
+        "medio": "RPP",
+        "titulo": "Fiscalía realizó diligencias de recojo de información en Municipalidad de Breña"
+      },
+      "quote": "El exburgomaestre, junto a otros 24 funcionarios y personas naturales, es investigado por los presuntos delitos de organización criminal, colusión, peculado doloso, concusión, falsificación y uso de documentos, así como falsedad genérica, en agravio del Estado.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra expresamente al 'exalcalde José Dalton Li Bravo' de la Municipalidad de Breña; el candidato fue alcalde distrital de Breña por Acción Popular (2019-2022).",
+      "sourceIds": [
+        "src-press-4c6b6adf3e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:21.396Z"
+    },
+    {
+      "id": "press-5665b03133",
+      "category": "press_report",
+      "summary": "Según El Comercio, la Contraloría General de la República señaló presuntas irregularidades en la compra y entrega de canastas de víveres durante la cuarentena por la COVID-19 en la gestión municipal de Breña.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2020-08-03",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "José Li Bravo y una gestión municipal en Breña empañada por denuncias de corrupción"
+      },
+      "quote": "Por otro lado, la Contraloría General de la República ha señalado que hubo presuntas irregularidades en la compra y entrega de canastas de víveres par las familias más afectadas durante los meses que duró la cuarentena a causa de la COVID–19.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata sobre José Li Bravo, alcalde de Breña elegido por Acción Popular en 2018; coincide con el cargo de alcalde distrital de Breña (2019-2022) y el partido del candidato.",
+      "sourceIds": [
+        "src-press-5665b03133"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:21.914Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-4c6b6adf3e",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/judiciales/fiscalia-realizo-diligencias-de-recojo-de-informacion-en-municipalidad-de-brena-noticia-1458702",
+      "archivedUrl": "http://web.archive.org/web/20230324093828/https://rpp.pe/politica/judiciales/fiscalia-realizo-diligencias-de-recojo-de-informacion-en-municipalidad-de-brena-noticia-1458702",
+      "sha256": "668c4afce499c24c7d9dabfd48bf483d3fa4b1b25650b7705f2f2c4c806b5d50",
+      "accessedAt": "2026-10-03T01:33:12.405Z",
+      "publisher": "RPP",
+      "title": "Fiscalía realizó diligencias de recojo de información en Municipalidad de Breña",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-5665b03133",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/jose-li-bravo-y-una-gestion-municipal-en-brena-empanada-por-denuncias-de-corrupcion-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20210920032339/https://elcomercio.pe/lima/jose-li-bravo-y-una-gestion-municipal-en-brena-empanada-por-denuncias-de-corrupcion-noticia/",
+      "sha256": "a5aeb2f8f746435ae71d93aaa0e7fcb5886898ef853d6f8424522ce0778561ea",
+      "accessedAt": "2026-10-03T01:33:13.529Z",
+      "publisher": "El Comercio",
+      "title": "José Li Bravo y una gestión municipal en Breña empañada por denuncias de corrupción",
+      "extractedBy": "agent"
+    }
+  ]
+}

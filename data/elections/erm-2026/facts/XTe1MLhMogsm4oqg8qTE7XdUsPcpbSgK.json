@@ -1,0 +1,39 @@
+{
+  "candidateId": "XTe1MLhMogsm4oqg8qTE7XdUsPcpbSgK",
+  "facts": [
+    {
+      "id": "press-d34d27a800",
+      "category": "sanction",
+      "summary": "Según Infobae, la ONPE impuso en 2023 a José Angulo una multa de 2,4 UIT por no presentar información financiera de su campaña de 2022.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-09-28",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes"
+      },
+      "quote": "Uno de sus antecedentes electorales corresponde a una sanción impuesta por la ONPE en 2023. El organismo determinó una multa de 2,4 UIT por no presentar información financiera de su campaña de 2022 sobre aportes, ingresos y gastos.",
+      "quoteVerified": true,
+      "identityEvidence": "Perfil de 'José Alberto Angulo Domínguez', candidato de Somos Perú al Rímac y regidor del Rímac 2019-2022 (coincide nombre, partido, distrito y cargo).",
+      "sourceIds": [
+        "src-press-d34d27a800"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:06.157Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-d34d27a800",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "archivedUrl": "http://web.archive.org/web/20260929102134/https://www.infobae.com/peru/2026/09/28/candidatos-a-la-alcaldia-del-rimac-en-las-elecciones-municipales-2026-estos-son-los-postulantes/",
+      "sha256": "aa7ff9d123533ab37c6d10f10c79e41e46ca4a59109e6a2df781c2bb628a58e8",
+      "accessedAt": "2026-10-03T01:40:25.297Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía del Rímac en las Elecciones municipales 2026: estos son los postulantes",
+      "extractedBy": "agent"
+    }
+  ]
+}

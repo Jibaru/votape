@@ -1,0 +1,71 @@
+{
+  "candidateId": "vujwxZzk3u-4z2ZMps4Wv-IbOA64BAzr",
+  "facts": [
+    {
+      "id": "press-8d4ebf5008",
+      "category": "judicial_process",
+      "summary": "Según Convoca, en marzo de 2020 la Fiscalía Anticorrupción le abrió una investigación por presunto peculado tras difundirse imágenes en las que ingresaba a su vivienda donaciones de vecinos para afectados por el coronavirus.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2022-06-26",
+      "details": {
+        "medio": "Convoca",
+        "titulo": "Lista de regidores de Somos Perú para Lima lleva a políticos con cuestionamientos y ciudadanos con sentencias"
+      },
+      "quote": "En marzo de 2020, la Fiscalía Anticorrupción le abrió una investigación por el presunto delito de peculado luego de que se difundieran imágenes en las que se le veía ingresar a su vivienda donaciones hechas por los vecinos del distrito para los afectados por el coronavirus, junto con personal del municipio.",
+      "quoteVerified": true,
+      "identityEvidence": "El párrafo se refiere al 'actual alcalde de Barranco, Juan José Rodríguez Cárdenas' (2022); el candidato fue alcalde de Barranco 2019-2022.",
+      "sourceIds": [
+        "src-press-8d4ebf5008"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:03.812Z"
+    },
+    {
+      "id": "press-d05f1e3d9e",
+      "category": "judicial_process",
+      "summary": "Según Convoca, el excongresista Carlos Bruce lo denunció ante la Fiscalía por presunto abuso de autoridad por ordenar el cierre de los restaurantes de Bordemar pese a lo dispuesto por la autoridad judicial.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2022-06-26",
+      "details": {
+        "medio": "Convoca",
+        "titulo": "Lista de regidores de Somos Perú para Lima lleva a políticos con cuestionamientos y ciudadanos con sentencias"
+      },
+      "quote": "Uno de estos es el excongresista Carlos Bruce, quien interpuso una denuncia en la Primera Fiscalía Corporativa de Santiago de Surco contra el alcalde barranquino por el supuesto delito de abuso de autoridad, pues ordenó el cierre de los establecimientos a pesar de lo dispuesto por la autoridad judicial.",
+      "quoteVerified": true,
+      "identityEvidence": "Misma nota y sección sobre el alcalde de Barranco Juan José Rodríguez Cárdenas (caso Bordemar, Costa Verde); el candidato fue alcalde de Barranco 2019-2022.",
+      "sourceIds": [
+        "src-press-d05f1e3d9e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:04.370Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-8d4ebf5008",
+      "providerId": "prensa",
+      "url": "https://convoca.pe/agenda-propia/lista-de-regidores-de-somos-peru-para-lima-lleva-politicos-con-cuestionamientos-y",
+      "archivedUrl": "http://web.archive.org/web/20260517174148/https://convoca.pe/agenda-propia/lista-de-regidores-de-somos-peru-para-lima-lleva-politicos-con-cuestionamientos-y",
+      "sha256": "65139999503175cd0b3eb5412ddfb5db3e09abfb62f9d089e41841896efcc697",
+      "accessedAt": "2026-10-03T01:43:50.268Z",
+      "publisher": "Convoca",
+      "title": "Lista de regidores de Somos Perú para Lima lleva a políticos con cuestionamientos y ciudadanos con sentencias",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-d05f1e3d9e",
+      "providerId": "prensa",
+      "url": "https://convoca.pe/agenda-propia/lista-de-regidores-de-somos-peru-para-lima-lleva-politicos-con-cuestionamientos-y",
+      "archivedUrl": "http://web.archive.org/web/20260517174148/https://convoca.pe/agenda-propia/lista-de-regidores-de-somos-peru-para-lima-lleva-politicos-con-cuestionamientos-y",
+      "sha256": "7ca8116e3b82418a5b23f09d37ebcc065b62dc1d22967fee92fdcd60b76c4f28",
+      "accessedAt": "2026-10-03T01:43:50.564Z",
+      "publisher": "Convoca",
+      "title": "Lista de regidores de Somos Perú para Lima lleva a políticos con cuestionamientos y ciudadanos con sentencias",
+      "extractedBy": "agent"
+    }
+  ]
+}

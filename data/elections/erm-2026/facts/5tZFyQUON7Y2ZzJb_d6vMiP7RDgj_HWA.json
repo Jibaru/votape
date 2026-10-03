@@ -1,0 +1,71 @@
+{
+  "candidateId": "5tZFyQUON7Y2ZzJb_d6vMiP7RDgj_HWA",
+  "facts": [
+    {
+      "id": "press-3368ca0600",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, la Fiscalía Especializada contra la Criminalidad Organizada (Fecor) le abrió una investigación preliminar el 24 de febrero de 2026 por el presunto delito de lavado de activos.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2026-02-24",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "De estar preso por proxenetismo a postular a la Alcaldía de Ate: Los antecedentes del padre del alcalde Franco Vidal"
+      },
+      "quote": "Documentos oficiales confirman que la Fiscalía Especializada contra la Criminalidad Organizada (Fecor) le abrió una investigación preliminar el pasado 24 de febrero de 2026 por el presunto delito de lavado de activos.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Manuel Vidal Camargo', candidato de Avanza País a la alcaldía de Ate (padre del alcalde Franco Vidal) y menciona su condena por proxenetismo declarada ante el JNE; coincide nombre, partido, distrito y sentencia ya conocida.",
+      "sourceIds": [
+        "src-press-3368ca0600"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:26.845Z"
+    },
+    {
+      "id": "press-f9a60b6dfb",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, acumula dos denuncias recientes: una ante la fiscalía de Chupaca (Junín) por usurpación agravada y lesiones, y otra en la Fiscalía de San Juan de Lurigancho por presunta colusión y corrupción de funcionarios.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2026-08-18",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "De estar preso por proxenetismo a postular a la Alcaldía de Ate: Los antecedentes del padre del alcalde Franco Vidal"
+      },
+      "quote": "El candidato de Avanza País acumula otras dos denuncias recientes: una en junio ante la fiscalía de Chupaca, en Junín, por usurpación agravada y lesiones con objetos contundentes; la y otra, en julio, por presunta colusión, corrupción de funcionarios, en la Fiscalía de San Juan de Lurigancho.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Manuel Vidal Camargo', candidato de Avanza País a la alcaldía de Ate (padre del alcalde Franco Vidal) y menciona su condena por proxenetismo declarada ante el JNE; coincide nombre, partido, distrito y sentencia ya conocida.",
+      "sourceIds": [
+        "src-press-f9a60b6dfb"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:27.323Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-3368ca0600",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones/lima/de-estar-preso-por-proxenetismo-a-postular-a-la-alcaldia-de-ate-los-antecedentes-del-padre-del-alcalde-franco-vidal-manuel-vidal-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260910095907/https://elcomercio.pe/elecciones/lima/de-estar-preso-por-proxenetismo-a-postular-a-la-alcaldia-de-ate-los-antecedentes-del-padre-del-alcalde-franco-vidal-manuel-vidal-noticia/",
+      "sha256": "22e936947a97620a264d3b7a45abde8596b1a0c0d44050f600be1a4fa278a7cb",
+      "accessedAt": "2026-10-03T01:31:39.883Z",
+      "publisher": "El Comercio",
+      "title": "De estar preso por proxenetismo a postular a la Alcaldía de Ate: Los antecedentes del padre del alcalde Franco Vidal",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-f9a60b6dfb",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones/lima/de-estar-preso-por-proxenetismo-a-postular-a-la-alcaldia-de-ate-los-antecedentes-del-padre-del-alcalde-franco-vidal-manuel-vidal-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20260910095907/https://elcomercio.pe/elecciones/lima/de-estar-preso-por-proxenetismo-a-postular-a-la-alcaldia-de-ate-los-antecedentes-del-padre-del-alcalde-franco-vidal-manuel-vidal-noticia/",
+      "sha256": "32d077b78442b7606317581e8a146837e219a7747a3e2513d9e8e1a1d0549310",
+      "accessedAt": "2026-10-03T01:31:40.441Z",
+      "publisher": "El Comercio",
+      "title": "De estar preso por proxenetismo a postular a la Alcaldía de Ate: Los antecedentes del padre del alcalde Franco Vidal",
+      "extractedBy": "agent"
+    }
+  ]
+}

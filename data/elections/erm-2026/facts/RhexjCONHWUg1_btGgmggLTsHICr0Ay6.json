@@ -1,0 +1,70 @@
+{
+  "candidateId": "RhexjCONHWUg1_btGgmggLTsHICr0Ay6",
+  "facts": [
+    {
+      "id": "press-49e9041410",
+      "category": "judicial_process",
+      "summary": "Según Infobae, su hoja de vida registra un proceso por peculado doloso que fue remitido a nuevo juicio después de que se anulara una absolución previa.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2026-10-02",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía de Barranco: conoce la lista completa y el partido por el que postula cada candidato en las Elecciones 2026"
+      },
+      "quote": "Asimismo, figura un proceso por peculado doloso que fue remitido a nuevo juicio después de la anulación de una absolución previa.",
+      "quoteVerified": true,
+      "identityEvidence": "La frase está en la sección 'Felipe Antonio Mezarina Tong — Partido Democrático Somos Perú' (nombre completo, partido y distrito), que también cita Óptima Educativa Global SAC y su paso por la Municipalidad de Chorrillos, como en el input. No es el ya conocido de lesiones ni el contractual.",
+      "sourceIds": [
+        "src-press-49e9041410"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:58.748Z"
+    },
+    {
+      "id": "press-cb68ac1208",
+      "category": "judicial_process",
+      "summary": "Según El Comercio, en enero de 2020 Antonio Mezarina, exalcalde de Barranco, enfrentaba tres investigaciones por presunto peculado y otros delitos.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2020-01-21",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Diez candidatos son investigados por presunta corrupción"
+      },
+      "quote": "Antonio Mezarina, de APP y exalcalde Barranco, enfrenta tres investigaciones por presunto peculado y otros delitos.",
+      "quoteVerified": true,
+      "identityEvidence": "'Antonio Mezarina, de APP y exalcalde Barranco': el candidato (Felipe Antonio Mezarina Tong) fue alcalde de Barranco por Alianza para el Progreso 2015-2018.",
+      "sourceIds": [
+        "src-press-cb68ac1208"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:59.107Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-49e9041410",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/10/02/candidatos-a-la-alcaldia-de-barranco-conoce-la-lista-completa-y-el-partido-por-el-que-postula-cada-candidato-en-las-elecciones-2026/",
+      "sha256": "4722f66abe4a13f66cd9d85eaff9634ffae319bf1b7a31959949fc432d8aa27c",
+      "accessedAt": "2026-10-03T01:43:47.924Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía de Barranco: conoce la lista completa y el partido por el que postula cada candidato en las Elecciones 2026",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-cb68ac1208",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/elecciones-2020/elecciones-2020-diez-candidatos-son-investigados-por-presunta-corrupcion-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20220412025903/https://elcomercio.pe/elecciones-2020/elecciones-2020-diez-candidatos-son-investigados-por-presunta-corrupcion-noticia/",
+      "sha256": "b48eaff385feaed7b2a3db0f86da4960ff960c72281e58b607646515a1f126e7",
+      "accessedAt": "2026-10-03T01:43:49.579Z",
+      "publisher": "El Comercio",
+      "title": "Diez candidatos son investigados por presunta corrupción",
+      "extractedBy": "agent"
+    }
+  ]
+}

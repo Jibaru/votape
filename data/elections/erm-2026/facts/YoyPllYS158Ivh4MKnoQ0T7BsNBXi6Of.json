@@ -1,0 +1,71 @@
+{
+  "candidateId": "YoyPllYS158Ivh4MKnoQ0T7BsNBXi6Of",
+  "facts": [
+    {
+      "id": "press-e3c8747abe",
+      "category": "judicial_process",
+      "summary": "Según Infobae, el fiscal de la Nación interino presentó una denuncia constitucional contra el excongresista César Combina por presunto tráfico de influencias, por supuestamente haber solicitado dinero a alcaldes de Junín y Huancavelica a cambio de gestionar la inclusión de proyectos en la Ley de Presupuesto 2021.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2024-04-30",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Fiscal de la Nación denuncia constitucionalmente a César Combina por supuesto cobro a alcaldes"
+      },
+      "quote": "El fiscal de la Nación interino, Juan Carlos Villena, presentó una denuncia constitucional contra el excongresista César Combina por presunto tráfico de influencias por supuestamente haber solicitado dinero a alcaldes de Junín y Huancavelica a cambio de hacer las gestiones correspondientes para que proyectos de dichas localidades sean incluidos en la Ley de Presupuesto 2021.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere al excongresista César Combina (APP, Junín, 2020-2021); coincide con el cargo de CONGRESISTA DE LA REPÚBLICA (ALIANZA PARA EL PROGRESO, 2020-2021) del input.",
+      "sourceIds": [
+        "src-press-e3c8747abe"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:09.637Z"
+    },
+    {
+      "id": "press-78223cb39b",
+      "category": "judicial_process",
+      "summary": "Según RPP, la Fiscalía de la Nación presentó una denuncia constitucional contra César Combina Salvatierra como presunto autor del delito de enriquecimiento ilícito, señalando que habría incrementado ilícitamente su patrimonio en S/ 472 868.67 entre marzo de 2020 y julio de 2021.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2025-02-06",
+      "details": {
+        "medio": "RPP",
+        "titulo": "César Combina: Ministerio Público presentó denuncia constitucional contra excongresista"
+      },
+      "quote": "“Los hechos están referidos a que, entre el 16 de marzo de 2020 y el 26 de julio de 2021, de manera continua y permanente, (Combina) habría incrementado ilícitamente su patrimonio en un importe de S/ 472 868.67”, se lee en el comunicado publicado.",
+      "quoteVerified": true,
+      "identityEvidence": "Nombre completo 'César Combina Salvatierra' y el artículo indica que fue congresista por Junín 2020-2021 por Alianza Para el Progreso, igual que el cargo del input.",
+      "sourceIds": [
+        "src-press-78223cb39b"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:10.067Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-e3c8747abe",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2024/04/30/cesar-combina-fiscal-de-la-nacion-denuncia-constitucionalmente-a-excongresista-por-trafico-de-influencias/",
+      "archivedUrl": "http://web.archive.org/web/20241006090431/https://www.infobae.com/peru/2024/04/30/cesar-combina-fiscal-de-la-nacion-denuncia-constitucionalmente-a-excongresista-por-trafico-de-influencias/",
+      "sha256": "363a657eb02a939b9a6cfca01b3e84ac4dfc022a81b4d5d835d4b60dab81d241",
+      "accessedAt": "2026-10-03T01:39:56.102Z",
+      "publisher": "Infobae",
+      "title": "Fiscal de la Nación denuncia constitucionalmente a César Combina por supuesto cobro a alcaldes",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-78223cb39b",
+      "providerId": "prensa",
+      "url": "https://rpp.pe/politica/judiciales/cesar-combina-ministerio-publico-presento-denuncia-constitucional-contra-excongresista-noticia-1614569",
+      "archivedUrl": "http://web.archive.org/web/20260516013942/https://rpp.pe/politica/judiciales/cesar-combina-ministerio-publico-presento-denuncia-constitucional-contra-excongresista-noticia-1614569",
+      "sha256": "d492c806e7ff81b3b738c430a4c26276821a92a0edfac3d8b34d1765b1a00431",
+      "accessedAt": "2026-10-03T01:39:57.189Z",
+      "publisher": "RPP",
+      "title": "César Combina: Ministerio Público presentó denuncia constitucional contra excongresista",
+      "extractedBy": "agent"
+    }
+  ]
+}

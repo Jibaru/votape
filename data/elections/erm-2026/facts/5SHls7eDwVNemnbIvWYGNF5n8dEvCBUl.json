@@ -1,0 +1,71 @@
+{
+  "candidateId": "5SHls7eDwVNemnbIvWYGNF5n8dEvCBUl",
+  "facts": [
+    {
+      "id": "press-9e21b4049e",
+      "category": "judicial_process",
+      "summary": "Según La República, la Fiscalía contra la Criminalidad Organizada solicitó 16 años y 4 meses de prisión para José Luna Morales en el caso 'Los Gángsters de la Política'.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2025-08-07",
+      "details": {
+        "medio": "La República",
+        "titulo": "Fiscalía pide más de 22 años de prisión contra congresista José Luna Gálvez por el delito de organización criminal"
+      },
+      "quote": "La Primera Fiscalía Supraprovincial Corporativa Especializada contra la Criminalidad Organizada pidió 22 años y 8 meses contra José Luna Gálvez por organización criminal y cohecho; mientras que para su hijo José Luna Morales se solicita 16 años y 4 meses, en el marco del caso 'Los Gángsters de la Política'.",
+      "quoteVerified": true,
+      "identityEvidence": "Se refiere a José Luna Morales, hijo del líder de Podemos Perú José Luna Gálvez y excongresista de Podemos Perú (2020-2021), lo que coincide con los cargos y partido del candidato en el input.",
+      "sourceIds": [
+        "src-press-9e21b4049e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:25.903Z"
+    },
+    {
+      "id": "press-d63fd2fbde",
+      "category": "judicial_process",
+      "summary": "Según La República, en octubre de 2022 un juez dictó 34 meses de prisión preventiva contra José Luna Morales en la investigación por presuntos delitos de organización criminal y cohecho activo específico.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2022-10-18",
+      "details": {
+        "medio": "La República",
+        "titulo": "José Luna Morales: ordenan su captura tras dictarle 34 meses de prisión preventiva"
+      },
+      "quote": "El juez Jorge Luis Chávez Tamariz, del Séptimo Juzgado de Investigación Preparatoria Nacional, dictó 34 meses de prisión preventiva para el virtual regidor de Lima Metropolitana por Podemos Perú, José Luna Morales, en el marco de la investigación por los presuntos delitos de organización criminal y cohecho activo específico",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como virtual regidor de Lima Metropolitana por Podemos Perú (José Luis Luna Morales), coincidente con su cargo de regidor provincial 2022-2026 por Podemos Perú en el input.",
+      "sourceIds": [
+        "src-press-d63fd2fbde"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:26.335Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-9e21b4049e",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2025/08/06/jose-luna-galvez-fiscalia-pide-22-anos-y-8-meses-contra-congresista-por-presuntamente-liderar-organizacion-criminal-hnews-498486",
+      "archivedUrl": "http://web.archive.org/web/20260717230023/https://larepublica.pe/politica/2025/08/06/jose-luna-galvez-fiscalia-pide-22-anos-y-8-meses-contra-congresista-por-presuntamente-liderar-organizacion-criminal-hnews-498486",
+      "sha256": "818e52df9162132ccd8150e614f02042dd190ab77c2cb45afd15796bfdb860ad",
+      "accessedAt": "2026-10-03T01:44:07.616Z",
+      "publisher": "La República",
+      "title": "Fiscalía pide más de 22 años de prisión contra congresista José Luna Gálvez por el delito de organización criminal",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-d63fd2fbde",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/judiciales/2022/10/17/jose-luna-morales-dictan-34-meses-de-prision-preventiva-al-virtual-regidor-de-lima-podemos-peru",
+      "archivedUrl": "http://web.archive.org/web/20260616031748/https://larepublica.pe/politica/judiciales/2022/10/17/jose-luna-morales-dictan-34-meses-de-prision-preventiva-al-virtual-regidor-de-lima-podemos-peru",
+      "sha256": "fdcff779a5c40b0ba1dfd5d5c8c3b860bd1639748a71aa55ecb2cc853605ae5a",
+      "accessedAt": "2026-10-03T01:44:08.719Z",
+      "publisher": "La República",
+      "title": "José Luna Morales: ordenan su captura tras dictarle 34 meses de prisión preventiva",
+      "extractedBy": "agent"
+    }
+  ]
+}

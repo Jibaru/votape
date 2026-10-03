@@ -20,7 +20,7 @@ import { printBanner } from "./lib/foundation/banner.js";
 import { parseArgv } from "./lib/foundation/argv.js";
 import { bold, muted } from "./lib/platform/style.js";
 import { SCHEMA_VERSION } from "./model.js";
-import { type Ctx, fail, isJson, respond, usage } from "./output.js";
+import { type Ctx, DISCLAIMER, LEGAL_URL, fail, isJson, respond, usage } from "./output.js";
 
 type Handler = (ds: Dataset, ctx: Ctx, args: Args) => number;
 
@@ -109,6 +109,8 @@ function schema(ds: Dataset, ctx: Ctx): number {
       "No se incluyen DNI, fecha de nacimiento, fotos, direcciones, placas ni el texto de fallos que nombra a terceros.",
       "votape no puntúa ni recomienda candidatos.",
     ],
+    disclaimer: DISCLAIMER,
+    legalUrl: LEGAL_URL,
   };
   return respond(ctx, data, [{ command: "votape about", description: "Metodología" }], (d) => JSON.stringify(d, null, 2));
 }
@@ -128,6 +130,18 @@ function about(ds: Dataset, ctx: Ctx): number {
       "Se omiten DNI, fecha de nacimiento (solo la edad), fotos, direcciones, placas y partidas registrales.",
       "En sentencias por obligaciones se omite el texto del fallo porque nombra a terceros, incluidos menores.",
     ],
+    legal: {
+      summary: DISCLAIMER,
+      points: [
+        "votape reproduce fuentes públicas y dice quién afirma cada hecho; no afirma hechos propios.",
+        "Una denuncia, investigación o proceso no es una condena: rige la presunción de inocencia. Cada hecho indica su estado legal.",
+        "Los datos son una foto a una fecha y pueden tener errores de las fuentes; se ofrecen 'tal cual', sin garantías (licencia MIT).",
+        "El autor no responde por el uso, la interpretación o la redistribución que terceros (personas o agentes de IA) hagan de estos datos, en la medida en que la ley lo permita.",
+        "No uses votape para acosar, discriminar o exponer a nadie. Quien redistribuya debe citar la fuente original y el estado legal.",
+        "Correcciones y derechos sobre datos personales (Ley 29733): respuesta en 7 días calendario.",
+      ],
+      url: LEGAL_URL,
+    },
     corrections: "https://github.com/Jibaru/votape/blob/main/CORRECTIONS.md",
     repository: "https://github.com/Jibaru/votape",
     sources: ds.providers.map((p) => ({ id: p.id, name: p.name, permission: p.permission })),
@@ -139,6 +153,9 @@ function about(ds: Dataset, ctx: Ctx): number {
       ...d.methodology.map((m) => `  • ${m}`),
       `\n  ${bold("Privacidad")}`,
       ...d.privacy.map((m) => `  • ${m}`),
+      `\n  ${bold("Aviso legal")}`,
+      ...d.legal.points.map((m) => `  • ${m}`),
+      `  ${muted(d.legal.url)}`,
       `\n  ${bold("¿Un dato está mal?")} ${d.corrections}`,
     ].join("\n"),
   );

@@ -1,0 +1,38 @@
+{
+  "candidateId": "KiXAR8g24MYgdg_ndZJjoDnaZ5hjVh05",
+  "facts": [
+    {
+      "id": "press-482e00ce58",
+      "category": "judicial_process",
+      "summary": "Según Convoca, en febrero de 2018 se le revocó una condena de 2017 a tres años de prisión impuesta por presuntamente haber desviado 12 millones de soles del presupuesto municipal de Los Olivos para impulsar la Universidad Científica y Tecnológica Municipal.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2018-10-08",
+      "details": {
+        "medio": "Convoca",
+        "titulo": "Lima: Exalcaldes y exregidores a punto de mantener o recuperar su poder político en 11 distritos"
+      },
+      "quote": "El exalcalde de tal distrito entre 1995 y 2014 podrá asumir el cargo luego de que, en febrero pasado, se le revocara una condena del 2017 de tres años de prisión preventiva por presuntamente haber desviado 12 millones de soles del presupuesto municipal al tratar de impulsar la creación la Universidad Científica y Tecnológica Municipal en Los Olivos.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Felipe Castillo Alfaro, fundador del partido Siempre Unidos' como exalcalde de Los Olivos y virtual alcalde electo en 2018; coincide con el candidato (alcalde distrital por Siempre Unidos 2019-2022 y 2011-2014, postula en Los Olivos). RPP (2017) y otros medios confirman el caso de la universidad municipal contra el exalcalde Felipe Castillo.",
+      "sourceIds": [
+        "src-press-482e00ce58"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:48.847Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-482e00ce58",
+      "providerId": "prensa",
+      "url": "https://convoca.pe/agenda-propia/lima-exalcaldes-y-exregidores-punto-de-mantener-o-recuperar-su-poder-politico-en-11",
+      "sha256": "fd8fc8f6c74a3f329330ae23c1ced61b8ecee1d63f8392e970086cad66febbfa",
+      "accessedAt": "2026-10-03T01:44:36.260Z",
+      "publisher": "Convoca",
+      "title": "Lima: Exalcaldes y exregidores a punto de mantener o recuperar su poder político en 11 distritos",
+      "extractedBy": "agent"
+    }
+  ]
+}

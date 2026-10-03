@@ -1,0 +1,39 @@
+{
+  "candidateId": "SmoXmPliT4ocbxsh6_iAfvoiRfeCtSS-",
+  "facts": [
+    {
+      "id": "press-e578005b6e",
+      "category": "judicial_process",
+      "summary": "Según La República, Guillermo Pomez Cano, exregidor de Pachacámac, fue investigado por la Fiscalía provincial corporativa especializada en delitos de corrupción por el presunto delito de colusión, investigación que según su expediente no pasó de una diligencia preliminar.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2022-10-01",
+      "details": {
+        "medio": "La República",
+        "titulo": "¿Quién es Guillermo Pomez Cano, el aspirante a ser teniente alcalde de George Forsyth?"
+      },
+      "quote": "El exregidor del municipio de Pachacamac fue investigado por la Fiscalía provincial corporativa especializada en delitos de corrupción bajo el cargo de colusión, que según su expediente no pasó de una diligencia preliminar.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a 'Guillermo Elvis Pomez Cano' (nombre completo), elegido alcalde de Pachacámac 2019-2022 y candidato a primer regidor de Lima por Somos Perú en 2022; coincide con sus cargos declarados (alcalde distrital 2019-2022 y regidor provincial 2022-2026 por Somos Perú).",
+      "sourceIds": [
+        "src-press-e578005b6e"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:00.657Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-e578005b6e",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/elecciones/2022/09/29/quien-sera-el-teniente-alcalde-de-george-forsyth-guillermo-pomez-somos-peru-municipalidad-de-pachacamac-elecciones-regionales-y-municipales-2022-atmp",
+      "archivedUrl": "http://web.archive.org/web/20260606235115/https://larepublica.pe/politica/elecciones/2022/09/29/quien-sera-el-teniente-alcalde-de-george-forsyth-guillermo-pomez-somos-peru-municipalidad-de-pachacamac-elecciones-regionales-y-municipales-2022-atmp",
+      "sha256": "d9455ffd075e66b4088639695b7dabe783d0c7afc050f0734bd2bcf7736b497e",
+      "accessedAt": "2026-10-03T01:38:00.776Z",
+      "publisher": "La República",
+      "title": "¿Quién es Guillermo Pomez Cano, el aspirante a ser teniente alcalde de George Forsyth?",
+      "extractedBy": "agent"
+    }
+  ]
+}

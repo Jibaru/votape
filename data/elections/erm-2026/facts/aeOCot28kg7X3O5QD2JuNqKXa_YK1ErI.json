@@ -1,0 +1,39 @@
+{
+  "candidateId": "aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI",
+  "facts": [
+    {
+      "id": "press-79a8400a18",
+      "category": "sanction",
+      "summary": "Según El Comercio, en octubre de 2020 el entonces alcalde de Santa Anita José Luis Nole fue intervenido durante una protesta y sancionado con una multa por incumplir el toque de queda.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2020-10-07",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Intervienen a alcalde de Santa Anita tras protestar por inicio de obras en Tierra Prometida"
+      },
+      "quote": "Luego de tres horas, el burgomaestre fue liberado y sancionado con una multa por incumplir con el toque de queda.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica al burgomaestre como José Luis Nole, alcalde de Santa Anita en 2020, cargo que coincide con su hoja de vida (alcalde distrital 2019-2022).",
+      "sourceIds": [
+        "src-press-79a8400a18"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:36.833Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-79a8400a18",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/sucesos/alcalde-de-santa-anita-intervenido-tras-protestar-por-inicios-de-obras-en-la-tierra-prometida-video-jose-luis-nole-la-parada-jorge-munoz-nndc-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20250720082314/https://elcomercio.pe/lima/sucesos/alcalde-de-santa-anita-intervenido-tras-protestar-por-inicios-de-obras-en-la-tierra-prometida-video-jose-luis-nole-la-parada-jorge-munoz-nndc-noticia/",
+      "sha256": "df8d8e675bd6f36780b3151582d8881bdb4d3ac1ed445d4e38565affade1f9d2",
+      "accessedAt": "2026-10-03T01:45:30.267Z",
+      "publisher": "El Comercio",
+      "title": "Intervienen a alcalde de Santa Anita tras protestar por inicio de obras en Tierra Prometida",
+      "extractedBy": "agent"
+    }
+  ]
+}

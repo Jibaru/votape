@@ -1,0 +1,39 @@
+{
+  "candidateId": "zmw04ZECQEGOlSr47sVGsT36qDw5dpUp",
+  "facts": [
+    {
+      "id": "press-3b9ca99dba",
+      "category": "press_report",
+      "summary": "Según Infobae, un informe periodístico mostró que el gerente de Administración y Finanzas de la Municipalidad de Chorrillos firmó el documento que concluyó que la empresa Representaciones e Inversiones P&B brindaría vehículos en una contratación de S/3 millones cuestionada por presuntas irregularidades.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2023-09-07",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Municipalidad de Chorrillos paga S/3 millones a cambio de autos que no están equipados"
+      },
+      "quote": "El informe periodístico mostró documentos sobre el proceso de contratación en el que se observa que el gerente de Administración y Finanzas de la Municipalidad de Chorrillos, Henry Germán Herrera, firmó el documento con el que se concluye que la empresa Representaciones e Inversiones P&B brindaría los autos a cambio del monto mencionado.",
+      "quoteVerified": true,
+      "identityEvidence": "El candidato declara en su hoja de vida JNE haber sido Gerente de Administración y Finanzas de la Municipalidad de Chorrillos en 2023, el mismo cargo, entidad y año del artículo (sept. 2023). El artículo escribe 'Henry Germán Herrera' en vez de 'Henry Hernán Herrera Alemán' (probable errata en el segundo nombre); revisar antes de publicar.",
+      "sourceIds": [
+        "src-press-3b9ca99dba"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:12.355Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-3b9ca99dba",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2023/09/07/municipalidad-de-chorrillos-paga-s3-millones-a-cambio-de-autos-que-no-estan-equipados/",
+      "archivedUrl": "http://web.archive.org/web/20231011081111/https://www.infobae.com/peru/2023/09/07/municipalidad-de-chorrillos-paga-s3-millones-a-cambio-de-autos-que-no-estan-equipados/",
+      "sha256": "fb3da0e799847e7c8c88dae23c9d8d1ce2c1e7eaa34526cac6948ddfe3c48694",
+      "accessedAt": "2026-10-03T01:32:26.740Z",
+      "publisher": "Infobae",
+      "title": "Municipalidad de Chorrillos paga S/3 millones a cambio de autos que no están equipados",
+      "extractedBy": "agent"
+    }
+  ]
+}

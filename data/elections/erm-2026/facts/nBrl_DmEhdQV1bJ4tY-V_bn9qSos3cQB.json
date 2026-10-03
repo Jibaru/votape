@@ -1,0 +1,38 @@
+{
+  "candidateId": "nBrl_DmEhdQV1bJ4tY-V_bn9qSos3cQB",
+  "facts": [
+    {
+      "id": "press-0335688f2b",
+      "category": "sanction",
+      "summary": "Según Infobae, Diana Vanessa Herrera Zavala, elegida regidora de Lurín para el periodo 2019-2022, dejó el cargo luego de que el JNE declarara su vacancia por la causal de nepotismo.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2026-10-03",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Candidatos a la alcaldía de Lurín: lista completa de postulantes y partidos políticos en las Elecciones 2026"
+      },
+      "quote": "Fue elegida regidora para el periodo 2019-2022, pero dejó el cargo luego de que el Jurado Nacional de Elecciones declarara su vacancia por la causal de nepotismo.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a Diana Vanessa Herrera Zavala, candidata de Fe en el Perú a la alcaldía de Lurín y exregidora 2019-2022, coincidente con el partido, distrito y cargo de regidora distrital (2019-2022) del input.",
+      "sourceIds": [
+        "src-press-0335688f2b"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:51.915Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-0335688f2b",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/peru/2026/10/03/candidatos-a-la-alcaldia-de-lurin-lista-completa-de-postulantes-y-partidos-politicos-en-las-elecciones-2026/",
+      "sha256": "efcb210ad1f1b64cfcbe2796adf3477f48d15b4c175514376f88532e84cc28b2",
+      "accessedAt": "2026-10-03T01:38:39.832Z",
+      "publisher": "Infobae",
+      "title": "Candidatos a la alcaldía de Lurín: lista completa de postulantes y partidos políticos en las Elecciones 2026",
+      "extractedBy": "agent"
+    }
+  ]
+}

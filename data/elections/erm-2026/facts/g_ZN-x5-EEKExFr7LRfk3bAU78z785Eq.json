@@ -1,0 +1,39 @@
+{
+  "candidateId": "g_ZN-x5-EEKExFr7LRfk3bAU78z785Eq",
+  "facts": [
+    {
+      "id": "press-2df9242c76",
+      "category": "press_report",
+      "summary": "Según La República, cerca de 500 trabajadores de la Municipalidad de Ate durante la gestión de Edde Cuellar fueron inscritos como afiliados de Acción Popular en 2019, principalmente en cuatro fechas.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2023-05-14",
+      "details": {
+        "medio": "La República",
+        "titulo": "José Arriola: congresista de Acción Popular es denunciado de encabezar lista al Congreso por Lima con votos \"golondrinos\""
+      },
+      "quote": "Los casi 500 trabajadores municipales de la gestión de Edde Cuellar fueron inscritos principalmente en cuatro fechas",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo nombra a 'Edde Cuellar Alegría, entonces alcalde de ATE', coincidiendo con el nombre completo, el distrito y el cargo de alcalde distrital de Ate (Acción Popular, 2019-2022) del input.",
+      "sourceIds": [
+        "src-press-2df9242c76"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:46.075Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-2df9242c76",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/congreso/2023/05/14/jose-arriola-congresista-de-accion-popular-es-denunciado-de-encabezar-lista-al-congreso-por-lima-con-votos-golondrinos-814744",
+      "archivedUrl": "http://web.archive.org/web/20260307052530/https://larepublica.pe/politica/congreso/2023/05/14/jose-arriola-congresista-de-accion-popular-es-denunciado-de-encabezar-lista-al-congreso-por-lima-con-votos-golondrinos-814744",
+      "sha256": "02ed5dfadd6ec3bef44050605ccde53f933d3f45eba96f734682fa165ffe27a1",
+      "accessedAt": "2026-10-03T01:32:16.348Z",
+      "publisher": "La República",
+      "title": "José Arriola: congresista de Acción Popular es denunciado de encabezar lista al Congreso por Lima con votos \"golondrinos\"",
+      "extractedBy": "agent"
+    }
+  ]
+}

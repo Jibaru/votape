@@ -64,6 +64,15 @@ describe("agent-first rules", () => {
     expect(JSON.parse(r.stdout).data.query).toBe("bruce");
   });
 
+  test("every envelope carries the legal disclaimer and its URL", () => {
+    for (const args of [["bruce"], ["candidate", "get", "zzzzzzzzzz"], ["schema"]]) {
+      const body = JSON.parse(run(...args).stdout);
+      expect(body.meta.disclaimer).toContain("no es una condena");
+      expect(body.meta.legalUrl).toContain("AVISO-LEGAL.md");
+    }
+    expect(JSON.parse(run("about").stdout).data.legal.points.length).toBeGreaterThan(3);
+  });
+
   test("success envelopes include nextSteps", () => {
     const body = JSON.parse(run("bruce").stdout);
     expect(Array.isArray(body.nextSteps)).toBe(true);

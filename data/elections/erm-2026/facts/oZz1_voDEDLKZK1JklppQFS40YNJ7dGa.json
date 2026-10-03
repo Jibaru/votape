@@ -1,0 +1,71 @@
+{
+  "candidateId": "oZz1_voDEDLKZK1JklppQFS40YNJ7dGa",
+  "facts": [
+    {
+      "id": "press-3839210502",
+      "category": "press_report",
+      "summary": "Según Infobae, el JNE oficializó la vacancia de Jorge Muñoz Wells como alcalde de Lima por haber asumido el cargo de director de Sedapal entre marzo y mayo de 2019 mientras ejercía como alcalde.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2022-05-04",
+      "details": {
+        "medio": "Infobae",
+        "titulo": "Jorge Muñoz dejó de ser oficialmente alcalde de Lima tras ser vacado"
+      },
+      "quote": "Según el documento publicado hoy que oficializa la destitución de Muñoz Wells, este infringió el artículo 8 de la Ley de Elecciones Municipales (Ley n.° 26864), ya que asumió el cargo de director del Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) entre marzo y mayo de 2019 mientras se desempeñaba como autoridad edil de la capital.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata del alcalde de Lima Muñoz Wells vacado en 2022; el candidato Jorge Vicente Martin Muñoz Wells declara el cargo de alcalde provincial (Acción Popular, 2019-2022).",
+      "sourceIds": [
+        "src-press-3839210502"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:55.015Z"
+    },
+    {
+      "id": "press-94b7a5d33c",
+      "category": "judicial_process",
+      "summary": "Según Epicentro, la fiscalía investigaba preliminarmente un caso en el que estaban denunciados 10 funcionarios, entre ellos el entonces alcalde de Lima Jorge Muñoz, por una obra temporal de casi 15 millones de soles ejecutada sobre un área concesionada a Rutas de Lima.",
+      "evidence": "prensa",
+      "legalStatus": "investigacion",
+      "date": "2021-11-06",
+      "details": {
+        "medio": "Epicentro TV",
+        "titulo": "#Reportaje MML gasta 15 millones para una obra temporal"
+      },
+      "quote": "La fiscalía se encuentra investigando preliminarmente este caso por el que están denunciados 10 funcionarios, entre los que se encuentre el propio alcalde Jorge Muñoz.",
+      "quoteVerified": true,
+      "identityEvidence": "El reportaje se refiere al alcalde de Lima Jorge Muñoz en funciones en 2021; el candidato Jorge Vicente Martin Muñoz Wells declara el cargo de alcalde provincial de Lima (Acción Popular, 2019-2022).",
+      "sourceIds": [
+        "src-press-94b7a5d33c"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:55.455Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-3839210502",
+      "providerId": "prensa",
+      "url": "https://www.infobae.com/america/peru/2022/05/04/jorge-munoz-dejo-de-ser-oficialmente-alcalde-de-lima-tras-ser-vacado/",
+      "archivedUrl": "http://web.archive.org/web/20240323115217/https://www.infobae.com/america/peru/2022/05/04/jorge-munoz-dejo-de-ser-oficialmente-alcalde-de-lima-tras-ser-vacado/",
+      "sha256": "908ace865e189c549cb96dc3326ff10b60de33b7a93c575ba3c916b483c38fa5",
+      "accessedAt": "2026-10-03T01:33:49.282Z",
+      "publisher": "Infobae",
+      "title": "Jorge Muñoz dejó de ser oficialmente alcalde de Lima tras ser vacado",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-94b7a5d33c",
+      "providerId": "prensa",
+      "url": "https://epicentro.tv/muni-lima-ramiro-priale/",
+      "archivedUrl": "http://web.archive.org/web/20250911023531/https://epicentro.tv/muni-lima-ramiro-priale/",
+      "sha256": "b6e8083f13d3d5c6cedb3084ff55d60e99f0d32387bc13bebc9ffe2e480c273e",
+      "accessedAt": "2026-10-03T01:38:56.672Z",
+      "publisher": "Epicentro TV",
+      "title": "#Reportaje MML gasta 15 millones para una obra temporal",
+      "extractedBy": "agent"
+    }
+  ]
+}

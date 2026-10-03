@@ -1,0 +1,39 @@
+{
+  "candidateId": "bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK",
+  "facts": [
+    {
+      "id": "press-8e4c622346",
+      "category": "judicial_process",
+      "summary": "Según La República, Walter Rivera fue denunciado en 2016 por presuntos actos contra el pudor a dos escolares, a quienes habría pedido quitarse la ropa.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2016-06-06",
+      "details": {
+        "medio": "La República",
+        "titulo": "Congresista de AP come pollo broaster durante sesión virtual [VIDEO]"
+      },
+      "quote": "Cabe recordar que Walter Rivera fue denunciado el 2016 por actos contra el pudor a dos escolares al pedirles que se quitaran la ropa porque días atrás les reclamó que mantengan el cuerpo y orejas aseadas.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo se refiere al congresista de Acción Popular Walter Rivera Guerra (miembro de la Comisión de Educación del Congreso, 2020); el candidato fue congresista por Acción Popular 2020-2021 y trabaja en el sector educativo.",
+      "sourceIds": [
+        "src-press-8e4c622346"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:39.082Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-8e4c622346",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/politica/2020/05/09/congreso-congresista-de-accion-popular-walter-rivera-come-pollo-broaster-durante-sesion-virtual-video",
+      "archivedUrl": "http://web.archive.org/web/20211206094924/https://larepublica.pe/politica/2020/05/09/congreso-congresista-de-accion-popular-walter-rivera-come-pollo-broaster-durante-sesion-virtual-video/",
+      "sha256": "faa10e663d19ed672471569453d12276511dae60ff56675dfffc74b8c5ca2383",
+      "accessedAt": "2026-10-03T01:33:14.495Z",
+      "publisher": "La República",
+      "title": "Congresista de AP come pollo broaster durante sesión virtual [VIDEO]",
+      "extractedBy": "agent"
+    }
+  ]
+}

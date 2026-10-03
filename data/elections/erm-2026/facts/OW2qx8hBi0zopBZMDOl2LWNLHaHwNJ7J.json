@@ -1,0 +1,135 @@
+{
+  "candidateId": "OW2qx8hBi0zopBZMDOl2LWNLHaHwNJ7J",
+  "facts": [
+    {
+      "id": "press-b01cdcd932",
+      "category": "press_report",
+      "summary": "Según OjoPúblico, Luis Bueno Quino consignó en su declaración jurada de 2009 una vivienda en Los Eucaliptos (Chaclacayo) que, según Sunarp, recién fue suya a partir de 2013.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2014-09-03",
+      "details": {
+        "medio": "OjoPúblico",
+        "titulo": "El ranking de los secretos"
+      },
+      "quote": "Además mintió en su declaración jurada. En Sunarp encontramos que la vivienda que Bueno había declarado en el 2009 en Los Eucaliptos, Chaclacayo, recién fue suya a partir del 2013.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a 'Luis Bueno Quino (Lurigancho-Chosica)', 'burgomaestre de Lurigancho entre 1993 y 2001 y luego desde 2003', candidato por Solidaridad Nacional; coincide con sus cargos de alcalde de Lurigancho y su militancia en Solidaridad Nacional del input.",
+      "sourceIds": [
+        "src-press-b01cdcd932"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:53.500Z"
+    },
+    {
+      "id": "press-4efee51cbd",
+      "category": "press_report",
+      "summary": "Según OjoPúblico, una vivienda comprada en 1999 por 20.000 dólares fue donada en 2013 al alcalde Bueno Quino, valorizada en 211.000 soles, por un militante de Solidaridad Nacional empleado de la Municipalidad de Chosica.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2014-09-03",
+      "details": {
+        "medio": "OjoPúblico",
+        "titulo": "El ranking de los secretos"
+      },
+      "quote": "fue comprado por un joven de 20 años, Paolo Hidalgo Escriba en 1999, por 20.000 dólares; catorce años después, esta persona donó la vivienda al burgomaestre, pero ya valorizada en 211.000 soles. ¿Quién es el donante? Hidalgo Escriba es militante de Solidaridad Nacional, empleado de la Municipalidad de Chosica desde el 2003",
+      "quoteVerified": true,
+      "identityEvidence": "Mismo artículo, sección 'Las donaciones de Bueno', sobre Luis Bueno Quino, alcalde de Lurigancho-Chosica por Solidaridad Nacional; coincide con los cargos de alcalde de Lurigancho del input.",
+      "sourceIds": [
+        "src-press-4efee51cbd"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:53.875Z"
+    },
+    {
+      "id": "press-d5b94b6fe0",
+      "category": "press_report",
+      "summary": "Según Convoca, como alcalde de Lurigancho-Chosica Luis Bueno Quino pasó por un proceso de vacancia por presuntamente mentir sobre sus estudios universitarios y fue objeto de denuncias, incluida una por contagio de VIH a trabajadores municipales, y todos esos casos fueron archivados por las autoridades.",
+      "evidence": "prensa",
+      "legalStatus": "denuncia",
+      "date": "2018-09-26",
+      "details": {
+        "medio": "Convoca",
+        "titulo": "El alcalde más reelegido de Lima pretende ampliar su influencia en dos distritos"
+      },
+      "quote": "Pasó por un proceso de vacancia por mentir sobre sus estudios universitarios en su hoja de vida, fue denunciado por el contagio de VIH de unos trabajadores municipales e, inclusive, tuvo más de una acusación por pedofilia. No obstante, todos los casos fueron archivados por las autoridades.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo trata de 'Luis Bueno Quino, siete veces alcalde de Lurigancho-Chosica (1993-2018)', coincidente con sus cargos de alcalde distrital de Lurigancho declarados (1993-2000, 2003-2018).",
+      "sourceIds": [
+        "src-press-d5b94b6fe0"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:54.239Z"
+    },
+    {
+      "id": "press-a8cc8e716b",
+      "category": "press_report",
+      "summary": "Según Ojo Público, siendo alcalde de Lurigancho-Chosica Luis Bueno Quino solo declaró sus bienes e ingresos a la Contraloría en cuatro ocasiones (2009, 2010, 2011 y 2013).",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2014-09-03",
+      "details": {
+        "medio": "Ojo Público",
+        "titulo": "El ranking de los secretos"
+      },
+      "quote": "lleva 11 años en esta última etapa y desde entonces solo ha declarado sus bienes e ingresos a la Contraloría en cuatro ocasiones: 2009, 2010, 2011 y en el 2013.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a 'Luis Bueno Quino, burgomaestre de Lurigancho entre 1993 y 2001 y luego desde 2003', candidato a la reelección por Solidaridad Nacional en 2014, coincidente con su cargo de alcalde distrital (Solidaridad Nacional, 2015-2018).",
+      "sourceIds": [
+        "src-press-a8cc8e716b"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:54.670Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-b01cdcd932",
+      "providerId": "prensa",
+      "url": "https://cuentasjuradas.ojo-publico.com/hallazgos/el-ranking-de-los-secretos",
+      "archivedUrl": "http://web.archive.org/web/20260615211551/https://cuentasjuradas.ojo-publico.com/hallazgos/el-ranking-de-los-secretos",
+      "sha256": "3f7184b68c7eba15da37a232fa10cbb6c13b203cecfe2f21ec52c861eeee33ae",
+      "accessedAt": "2026-10-03T01:33:45.869Z",
+      "publisher": "OjoPúblico",
+      "title": "El ranking de los secretos",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-4efee51cbd",
+      "providerId": "prensa",
+      "url": "https://cuentasjuradas.ojo-publico.com/hallazgos/el-ranking-de-los-secretos",
+      "archivedUrl": "http://web.archive.org/web/20260615211551/https://cuentasjuradas.ojo-publico.com/hallazgos/el-ranking-de-los-secretos",
+      "sha256": "4475fbb85722e4454fbe780771cda9bf5308681cc37d17209ed76908772cb08a",
+      "accessedAt": "2026-10-03T01:33:46.486Z",
+      "publisher": "OjoPúblico",
+      "title": "El ranking de los secretos",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-d5b94b6fe0",
+      "providerId": "prensa",
+      "url": "https://convoca.pe/agenda-propia/el-alcalde-mas-reelegido-de-lima-pretende-ampliar-su-influencia-en-dos-distritos",
+      "archivedUrl": "http://web.archive.org/web/20260121230959/https://convoca.pe/agenda-propia/el-alcalde-mas-reelegido-de-lima-pretende-ampliar-su-influencia-en-dos-distritos",
+      "sha256": "cee7e69897c3f5679c846ae04d5dc60531c3279b208080b45806c47abdfffadd",
+      "accessedAt": "2026-10-03T01:38:36.974Z",
+      "publisher": "Convoca",
+      "title": "El alcalde más reelegido de Lima pretende ampliar su influencia en dos distritos",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-a8cc8e716b",
+      "providerId": "prensa",
+      "url": "https://cuentasjuradas.ojo-publico.com/hallazgos/el-ranking-de-los-secretos",
+      "archivedUrl": "http://web.archive.org/web/20260615211551/https://cuentasjuradas.ojo-publico.com/hallazgos/el-ranking-de-los-secretos",
+      "sha256": "598e5180242589c21bb3ab9960781f07cb1d6024dc671c3774d7647242a959c5",
+      "accessedAt": "2026-10-03T01:38:38.138Z",
+      "publisher": "Ojo Público",
+      "title": "El ranking de los secretos",
+      "extractedBy": "agent"
+    }
+  ]
+}

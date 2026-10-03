@@ -1,0 +1,71 @@
+{
+  "candidateId": "RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1",
+  "facts": [
+    {
+      "id": "press-5c78783a53",
+      "category": "judicial_process",
+      "summary": "Según La República, el 4 de septiembre de 2024 un juzgado de familia de Villa El Salvador emitió un auto final en un procedimiento por violencia psicológica contra Marcelino Huamán Cano, que no constituye condena penal sino una medida de protección bajo la Ley N.° 30364.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2024-09-04",
+      "details": {
+        "medio": "La República",
+        "titulo": "Candidato a la alcaldía de VES, Marcelino Huamán, registra condena por falsificación y medidas de protección por violencia familiar"
+      },
+      "quote": "El 4 de septiembre de 2024, el juzgado emitió un Auto Final en un procedimiento por violencia psicológica. Esta decisión no constituye una condena penal, sino una medida de protección dictada en el marco de la Ley N.° 30364.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo identifica a Marcelino Huamán Cano como candidato de Alianza para el Progreso a la alcaldía de Villa El Salvador (partido y distrito coinciden) y describe la misma condena por falsificación de documentos públicos que figura en su hoja de vida (FE PUBLICA).",
+      "sourceIds": [
+        "src-press-5c78783a53"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:59.506Z"
+    },
+    {
+      "id": "press-42978597b8",
+      "category": "judicial_process",
+      "summary": "Según La República, el 17 de abril de 2026 un juzgado de paz letrado admitió a trámite una demanda de alimentos contra Marcelino Huamán Cano y fijó una asignación anticipada de S/600 mensuales mientras se resuelve el proceso.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2026-04-17",
+      "details": {
+        "medio": "La República",
+        "titulo": "Candidato a la alcaldía de VES, Marcelino Huamán, registra condena por falsificación y medidas de protección por violencia familiar"
+      },
+      "quote": "El 17 de abril de 2026, mediante la Resolución N.° 01, el juzgado admitió a trámite una demanda de alimentos y estableció una asignación anticipada de S/600 mensuales, equivalente a S/300 para cada una de sus dos hijas, mientras se resuelve el proceso.",
+      "quoteVerified": true,
+      "identityEvidence": "Mismo artículo: identifica a Marcelino Huamán Cano como candidato de Alianza para el Progreso a la alcaldía de Villa El Salvador; el expediente se tramita en un juzgado de Villa El Salvador. El artículo precisa que no hay sentencia definitiva.",
+      "sourceIds": [
+        "src-press-42978597b8"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:59.916Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-5c78783a53",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2026/08/20/candidato-a-la-alcaldia-de-villa-el-salvador-marcelino-huaman-registra-condena-por-falsificacion-y-medidas-de-proteccion-por-violencia-familiar-1062000",
+      "archivedUrl": "http://web.archive.org/web/20260926012303/https://larepublica.pe/sociedad/2026/08/20/candidato-a-la-alcaldia-de-villa-el-salvador-marcelino-huaman-registra-condena-por-falsificacion-y-medidas-de-proteccion-por-violencia-familiar-1062000",
+      "sha256": "07906fe325fbb2a37624b3394e7b83b93d5845f6b6c1e2938707eebceec82489",
+      "accessedAt": "2026-10-03T01:44:29.206Z",
+      "publisher": "La República",
+      "title": "Candidato a la alcaldía de VES, Marcelino Huamán, registra condena por falsificación y medidas de protección por violencia familiar",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-42978597b8",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/sociedad/2026/08/20/candidato-a-la-alcaldia-de-villa-el-salvador-marcelino-huaman-registra-condena-por-falsificacion-y-medidas-de-proteccion-por-violencia-familiar-1062000",
+      "archivedUrl": "http://web.archive.org/web/20260926012303/https://larepublica.pe/sociedad/2026/08/20/candidato-a-la-alcaldia-de-villa-el-salvador-marcelino-huaman-registra-condena-por-falsificacion-y-medidas-de-proteccion-por-violencia-familiar-1062000",
+      "sha256": "07906fe325fbb2a37624b3394e7b83b93d5845f6b6c1e2938707eebceec82489",
+      "accessedAt": "2026-10-03T01:44:29.600Z",
+      "publisher": "La República",
+      "title": "Candidato a la alcaldía de VES, Marcelino Huamán, registra condena por falsificación y medidas de protección por violencia familiar",
+      "extractedBy": "agent"
+    }
+  ]
+}

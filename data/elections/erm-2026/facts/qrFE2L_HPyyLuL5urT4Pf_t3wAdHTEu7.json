@@ -1,0 +1,39 @@
+{
+  "candidateId": "qrFE2L_HPyyLuL5urT4Pf_t3wAdHTEu7",
+  "facts": [
+    {
+      "id": "press-28086d22ac",
+      "category": "judicial_process",
+      "summary": "Según La República, Gregorio Quispe tenía en 2022 una denuncia por el supuesto delito de peculado (expediente 3620-2016) en etapa intermedia.",
+      "evidence": "prensa",
+      "legalStatus": "proceso",
+      "date": "2022-09-05",
+      "details": {
+        "medio": "La República",
+        "titulo": "Elecciones 2022: ¿quiénes son y qué proponen los candidatos de Independencia?"
+      },
+      "quote": "Gregorio Quispe tiene una denuncia por el supuesto delito de peculado (expediente 3620-2016) en actual etapa intermedia.",
+      "quoteVerified": true,
+      "identityEvidence": "Same article section names him in full as Gregorio Bernardino Quispe Alvino, regidor distrital 2011-2014 por el PPC (matches input), cabeza de lista de Podemos Perú para la alcaldía de Independencia (same party and district as 2026).",
+      "sourceIds": [
+        "src-press-28086d22ac"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:01:57.066Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-28086d22ac",
+      "providerId": "prensa",
+      "url": "https://larepublica.pe/elecciones/2022/09/05/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-de-independencia-pltc-atmp",
+      "archivedUrl": "http://web.archive.org/web/20260923062714/https://larepublica.pe/elecciones/2022/09/05/elecciones-2022-quienes-son-y-que-proponen-los-candidatos-de-independencia-pltc-atmp",
+      "sha256": "1dfec1ffeea0e86f4f19c0ab5ca7a1d28ffa61e746a9920f6e4b29c557af4d2d",
+      "accessedAt": "2026-10-03T01:42:28.303Z",
+      "publisher": "La República",
+      "title": "Elecciones 2022: ¿quiénes son y qué proponen los candidatos de Independencia?",
+      "extractedBy": "agent"
+    }
+  ]
+}

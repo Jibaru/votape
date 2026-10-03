@@ -1,0 +1,71 @@
+{
+  "candidateId": "WyD0hYvT5rPVR28wX7zV7B3FjH-tXqjw",
+  "facts": [
+    {
+      "id": "press-a764781324",
+      "category": "sanction",
+      "summary": "Según El Comercio, en 2012 Víctor Bazán fue sancionado por conducir su vehículo con alcohol en la sangre.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2022-09-22",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Víctor Bazán postula por San Isidro con multas por manejar con alcohol en la sangre y tiene arma sin licencia"
+      },
+      "quote": "Sin embargo, años antes, en el 2012, Bazán fue sancionado por el mismo motivo: conducir su vehículo con alcohol en la sangre.",
+      "quoteVerified": true,
+      "identityEvidence": "El artículo lo identifica como Víctor Bazán, candidato a la alcaldía de San Isidro por Somos Perú (mismo distrito y partido del input); la falta muy grave del MTC ya conocida coincide, el artículo añade la sanción previa de 2012.",
+      "sourceIds": [
+        "src-press-a764781324"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:04.812Z"
+    },
+    {
+      "id": "press-dd16823b7c",
+      "category": "press_report",
+      "summary": "Según El Comercio, Víctor Bazán admitió que no tiene licencia para portar armas de fuego, ni en 2022 ni cuando se grabaron unos videos en los que aparece con un arma.",
+      "evidence": "prensa",
+      "legalStatus": "n/a",
+      "date": "2022-09-22",
+      "details": {
+        "medio": "El Comercio",
+        "titulo": "Víctor Bazán postula por San Isidro con multas por manejar con alcohol en la sangre y tiene arma sin licencia"
+      },
+      "quote": "Sin embargo, admitió que no tiene licencia para portar armas de fuego, ni ahora ni cuando los videos fueron grabados.",
+      "quoteVerified": true,
+      "identityEvidence": "Víctor Bazán, candidato a la alcaldía de San Isidro por Somos Perú en 2022; mismo distrito y partido que el candidato actual (Víctor Hugo Bazán Pastor).",
+      "sourceIds": [
+        "src-press-dd16823b7c"
+      ],
+      "needsReview": false,
+      "reviewedBy": "Jibaru",
+      "reviewedAt": "2026-10-03T02:02:05.262Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-press-a764781324",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/victor-bazan-candidato-a-la-alcaldia-de-san-isidro-tiene-brevete-suspendido-por-manejar-con-alcohol-en-la-sangre-somos-peru-ebrios-al-volante-arma-licencia-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20251213015810/https://elcomercio.pe/lima/victor-bazan-candidato-a-la-alcaldia-de-san-isidro-tiene-brevete-suspendido-por-manejar-con-alcohol-en-la-sangre-somos-peru-ebrios-al-volante-arma-licencia-noticia/",
+      "sha256": "cebcce93b846c03efe9746eb25674a70ad1ab645259dbdffd8e0d32a63218005",
+      "accessedAt": "2026-10-03T01:43:46.672Z",
+      "publisher": "El Comercio",
+      "title": "Víctor Bazán postula por San Isidro con multas por manejar con alcohol en la sangre y tiene arma sin licencia",
+      "extractedBy": "agent"
+    },
+    {
+      "id": "src-press-dd16823b7c",
+      "providerId": "prensa",
+      "url": "https://elcomercio.pe/lima/victor-bazan-candidato-a-la-alcaldia-de-san-isidro-tiene-brevete-suspendido-por-manejar-con-alcohol-en-la-sangre-somos-peru-ebrios-al-volante-arma-licencia-noticia/",
+      "archivedUrl": "http://web.archive.org/web/20251213015810/https://elcomercio.pe/lima/victor-bazan-candidato-a-la-alcaldia-de-san-isidro-tiene-brevete-suspendido-por-manejar-con-alcohol-en-la-sangre-somos-peru-ebrios-al-volante-arma-licencia-noticia/",
+      "sha256": "bdf3e9320fe660a041470f76eb1fa1af907a17421103432f75037be7fee6c765",
+      "accessedAt": "2026-10-03T01:43:47.194Z",
+      "publisher": "El Comercio",
+      "title": "Víctor Bazán postula por San Isidro con multas por manejar con alcohol en la sangre y tiene arma sin licencia",
+      "extractedBy": "agent"
+    }
+  ]
+}
