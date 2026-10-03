@@ -1,0 +1,34 @@
+{
+  "candidateId": "fzxdpDxDknHHsNWjKN9RFrQ31Eip7ki9",
+  "facts": [
+    {
+      "id": "rtc-90366-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 24 contrato(s) con el Estado por S/ 145,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "24",
+        "montoTotal": "S/ 145,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n24 contratos\nS/ 145,000\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA Y PROMOCION DE ACTIVIDADES EDUCATIVAS PARA LA SUBGERENCIA DE EDUCACION CULTURA Y DEPORTE DE LA MDJM\nMonto: S/ 8,000\nCódigo: 2@39259247\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA Y PROMOCION DE ACTIVIDADES ESDUCATIVAS PARA LA SUBGERENCIA DE EDUCACION, CULTURA Y DEPORTE DE LA MDJM\nMonto: S/ 8,000\nCódigo: 2@38576174\nSERVICIO\nEstado: Contratado\nRU",
+      "sourceIds": [
+        "rtc-90366-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90366-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=52&candidato=90366",
+      "sha256": "3ba870addc08fa008cb465f38c41c93c75e24d230dbf65c2687841399d70e3b3",
+      "accessedAt": "2026-10-03T00:21:50.370Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

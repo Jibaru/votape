@@ -1,7 +1,7 @@
 // Agent-first rules (cli-build) and the data guarantees `votape schema`
 // promises, checked against the built binary and the bundled data.
 import { beforeAll, describe, expect, test } from "bun:test";
-import { readFileSync, readdirSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import type { Candidate } from "../src/model.js";
 
@@ -84,6 +84,18 @@ describe("data guarantees", () => {
     }
     expect(raw).not.toMatch(/\b\d{8}\.jpg\b/);
     expect(raw).not.toMatch(/D\.?\s?N\.?\s?I\.?[^0-9"]{0,15}\d{8}\b/i);
+  });
+
+  test("extra facts (press, RTC) carry no DNI, natural-person RUC or birth data", () => {
+    for (const e of readdirSync(DATA)) {
+      const dir = join(DATA, e, "facts");
+      for (const f of existsSync(dir) ? readdirSync(dir) : []) {
+        const raw = readFileSync(join(dir, f), "utf8");
+        expect(raw).not.toMatch(/\b10\d{9}\b/);
+        expect(raw).not.toMatch(/DNI:?\s*\d{8}\b/i);
+        expect(raw).not.toMatch(/\b\d{8}\.jpg\b/);
+      }
+    }
   });
 
   test("civil obligation rulings are never copied (they name third parties)", () => {

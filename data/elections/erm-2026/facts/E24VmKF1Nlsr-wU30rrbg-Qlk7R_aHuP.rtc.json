@@ -1,0 +1,33 @@
+{
+  "candidateId": "E24VmKF1Nlsr-wU30rrbg-Qlk7R_aHuP",
+  "facts": [
+    {
+      "id": "rtc-93213-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "INMOBILIARIA-ASESORIA-COBRANZAS FINANCIERAS S.A.C.\nAccionista (85.71%)\nAdministración\nRepresentante legal\nRUC: 20612189171\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-93213-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93213-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=13&candidato=93213",
+      "sha256": "d5eaa4e692b38eec65aa26671f57274e23bfcaf9ef79fcd31576e5798cf24e03",
+      "accessedAt": "2026-10-02T23:44:58.779Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

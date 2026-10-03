@@ -1,0 +1,34 @@
+{
+  "candidateId": "XoSKUASTnBBERx4aVt9UlfR3qkneQU1T",
+  "facts": [
+    {
+      "id": "rtc-90073-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 8 contrato(s) con el Estado por S/ 37,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "8",
+        "montoTotal": "S/ 37,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n8 contratos\nS/ 37,200\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE LOCACIÓN DE SERVICIOS SEGÚN TERMINOS DE REFERENCIA PARA LA GERENCIA DE DESARROLLO SOCIAL\nMonto: S/ 4,800\nCódigo: 2@26184836\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE SERVICIO DE LOCADOR SEGÚN TÉRMINOS DE REFERENCIA DEL MES DE JULIO PARA LA GERENCIA DE DESARROLLO SOCIAL\nMonto: S/ 4,800\nCódigo: 2@26174530\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD D",
+      "sourceIds": [
+        "rtc-90073-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90073-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurigancho&cargo=alcalde-distrital&organizacion=10&candidato=90073",
+      "sha256": "b9890867b6c1683325eb146af4bf23ce90886835065c38184d987ff73ad93519",
+      "accessedAt": "2026-10-03T00:45:53.664Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

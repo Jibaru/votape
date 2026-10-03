@@ -1,0 +1,34 @@
+{
+  "candidateId": "k4Jrir-kDoAyGK_z03dbd4DopSyKzH3x",
+  "facts": [
+    {
+      "id": "rtc-91081-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 3,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 3,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 3,000\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nSERVICIO DE CAPACITADOR EN TEMAS DE RESIDUOS\nMonto: S/ 3,000\nCódigo: 2@4916392\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91081-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91081-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=17&candidato=91081",
+      "sha256": "c08a37073c51e16ab21d28da8ecaa1dd0ac11ed19c8a190eba8f83ffb338c29e",
+      "accessedAt": "2026-10-03T00:14:32.137Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

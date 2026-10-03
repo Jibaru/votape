@@ -1,0 +1,33 @@
+{
+  "candidateId": "4VF1UPFrvNmwpw28OM6EdJLWzNzmzIhL",
+  "facts": [
+    {
+      "id": "rtc-92486-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ATLON S.A.C. CONTRATISTAS GENERALES\nRepresentante legal\nRUC: 20508305860\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nNO HABIDO\n31 contratos con el Estado · S/ 7,547,883.17\nDeuda coactiva: S/ 2,296,934",
+      "sourceIds": [
+        "rtc-92486-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92486-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+martin+de+porres&cargo=alcalde-distrital&organizacion=4&candidato=92486",
+      "sha256": "ec655749c0ea1e7664d4c3616e5fbb7a18bd2509929231f0b947e040b0905ccd",
+      "accessedAt": "2026-10-03T00:24:43.328Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

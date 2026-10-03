@@ -1,0 +1,50 @@
+{
+  "candidateId": "zphhyYsKG-tb4gT6fhlMJ_vBfK0jB2g4",
+  "facts": [
+    {
+      "id": "rtc-89356-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 25 contrato(s) con el Estado por S/ 119,918.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "25",
+        "montoTotal": "S/ 119,918"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n25 contratos\nS/ 119,918\nMUNICIPALIDAD DISTRITAL DE APATA\nSERVICIO DE APLICACION TECNICA DE LA GUIA PARA LA ELABORACION DEL PEI Y POI DE LA MUNICIPALIDAD DISTRITAL DE APATA\nMonto: S/ 5,000\nCódigo: 2@39595967\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE APATA\nSERVICIO DE ELABORACION DEL PLAN DE DESARROLLO CONCERTADO\nMonto: S/ 7,000\nCódigo: 2@39595966\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SANTA ROSA DE OCOPA\nSERVICIO DE CONSULTORIA PARA LA REALIZACION DE TAL",
+      "sourceIds": [
+        "rtc-89356-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89356-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "WIL & CUEVA CONSULTORES S.R.L.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20609701308\nSOC.COM.RESPONS. LTDA\nBAJA DE OFICIO Fecha de Baja: 30/01/2026\nCondición: HABIDO\n1 contrato con el Estado · S/ 3,500",
+      "sourceIds": [
+        "rtc-89356-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89356-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=15&candidato=89356",
+      "sha256": "ecd80ed1465f21ebd35ad265a5698da75cad5a1d2ebf5926fc3fb2e5abe97434",
+      "accessedAt": "2026-10-03T01:17:28.025Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

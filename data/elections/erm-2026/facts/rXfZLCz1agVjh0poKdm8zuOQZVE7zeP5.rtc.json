@@ -1,0 +1,65 @@
+{
+  "candidateId": "rXfZLCz1agVjh0poKdm8zuOQZVE7zeP5",
+  "facts": [
+    {
+      "id": "rtc-90072-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 79,230.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 79,230"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 79,230\nGOBIERNO REGIONAL DE CUSCO - PROYECTO ESPECIAL PLAN MERISS INKA\nCONTRATACION DE EXPERTO INDEPENDIENTE PARA INTEGRAR COMITES, META N° 0021 \"DIRECCION TECNICA, SUPERVISION Y ADMINISTRACION?]GESTION DE PROYECTOS\" - DIH.\nMonto: S/ 6,800\nCódigo: 2@31757329\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE UN LOCADOR DE SERVICIO SEGUN TERMINOS DE REFERENCIA PARA LA GERENCIA DE OBRAS PUBLICAS\nMonto: S/ 14,000\nCódigo: 2@29184362\nSERVICIO\nEstado: Contratado\nRUC: ",
+      "sourceIds": [
+        "rtc-90072-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90072-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "IRAMASA S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20491916185\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n2 contratos con el Estado · S/ 65,616.5\nDeuda coactiva: S/ 19,557",
+      "sourceIds": [
+        "rtc-90072-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90072-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "HUARINGA SAAVEDRA RAFAEL DAVID\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 02/04/2009\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-90072-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90072-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurigancho&cargo=alcalde-distrital&organizacion=82&candidato=90072",
+      "sha256": "86d187b6a3d8778baa3c9f84f2de3b70e913cecf30716aab5c2d8c6a06c79171",
+      "accessedAt": "2026-10-03T00:46:57.944Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

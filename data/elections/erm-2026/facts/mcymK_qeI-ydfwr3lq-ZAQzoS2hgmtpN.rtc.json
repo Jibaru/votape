@@ -1,0 +1,32 @@
+{
+  "candidateId": "mcymK_qeI-ydfwr3lq-ZAQzoS2hgmtpN",
+  "facts": [
+    {
+      "id": "rtc-89363-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "OLIVA CHUMAN JOSE GILBERTO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 20/04/1993\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89363-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89363-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=36&candidato=89363",
+      "sha256": "bd8cb46d575f56b493f6d5aec07e281b9c9a4bf023e5288e75d9e006258c5716",
+      "accessedAt": "2026-10-03T01:16:05.359Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "azfEeRDQLauqOZe44tmUb_nhTm707cvU",
+  "facts": [
+    {
+      "id": "rtc-92195-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 17 contrato(s) con el Estado por S/ 350,300.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "17",
+        "montoTotal": "S/ 350,300"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n17 contratos\nS/ 350,300\nPROGRAMA NACIONAL DE INFRAESTRUCTURA EDUCATIVA UE 108 - PRONIED\nCONTRATACIÓN DE UN (01) PROFESIONAL PARA EL SERVICIO DE ASISTENCIA LEGAL EN LA ATENCIÓN DE REQUERIMI\nMonto: S/ 10,000\nCódigo: 2@40180502\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA NACIONAL DE INFRAESTRUCTURA EDUCATIVA UE 108 - PRONIED\nSERVICIO DE ASISTENCIA LEGAL EN LA REVISIÓN Y GESTIÓN EN LA ATENCIÓN Y SEGUIMIENTO DE LA PREVENCIÓN\nMonto: S/ 40,000\nCódigo: 2@39033373\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGR",
+      "sourceIds": [
+        "rtc-92195-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92195-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=48&candidato=92195",
+      "sha256": "193d41999b8cf74266f23931f044bb175c4523ff3aad47af9e6915f61b5fe70d",
+      "accessedAt": "2026-10-03T01:02:31.291Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

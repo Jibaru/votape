@@ -1,0 +1,50 @@
+{
+  "candidateId": "cq3Ea_YtQkATXFHHoHJyVbN_GgKE_EF-",
+  "facts": [
+    {
+      "id": "rtc-93482-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 2,300.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 2,300"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 2,300\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nPARA LA FINAL Y CLAUSURA DEL CAMPEONATO DE VERANO COPA SOLIDARIDAD 2017.\nMonto: S/ 1,200\nCódigo: 2@6443342\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nSERVICIO DE CONTRATACION DE DOS ARBITROS DE FUTBOL PARA LA CLAUSURA Y FINAL DEL CAMPEONATO COPA SOLIDARIDAD 2016\nMonto: S/ 1,100\nCódigo: 2@3754445\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-93482-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93482-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "MEDIA LED S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20600880676\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n9 contratos con el Estado · S/ 38,520\nLED LITE VISION PERU S.A.C.\nAccionista (0.36%)\nRUC: 20601696097\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 6,230",
+      "sourceIds": [
+        "rtc-93482-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93482-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+maria+del+triunfo&cargo=alcalde-distrital&organizacion=4&candidato=93482",
+      "sha256": "6200a525b8b04b488c8f0e0230bd7ecfe3e9a06805b9954aa7edd8770e9482d5",
+      "accessedAt": "2026-10-03T00:42:22.557Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

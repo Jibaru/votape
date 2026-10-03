@@ -1,0 +1,34 @@
+{
+  "candidateId": "XhpDUklU9uvv-_DhY535TfSz3ZnYnZ2Z",
+  "facts": [
+    {
+      "id": "rtc-8932-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 12 contrato(s) con el Estado por S/ 62,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "12",
+        "montoTotal": "S/ 62,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n12 contratos\nS/ 62,000\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE ASESORIA LEGAL PARA LA GERENCIA DE DESARROLLO ECONÓMICO\nMonto: S/ 5,000\nCódigo: 2@28583120\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nPERSONAL DE APOYO LOCADOR DE SERVICIOS CORRESPONDIENTE AL MES DE FEBRERO DEL 2021\nMonto: S/ 5,000\nCódigo: 2@16987838\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIOS POR TERCEROS DEL MES DE ENERO 2021\nMonto: S/ 5,000\nCódigo: 2@16762",
+      "sourceIds": [
+        "rtc-8932-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-8932-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=35&candidato=8932",
+      "sha256": "1e01cc614b8821d7b9e72cf9e55425409de56e13b6dba13dfd89159d00913f0a",
+      "accessedAt": "2026-10-03T00:54:45.030Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

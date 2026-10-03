@@ -1,0 +1,33 @@
+{
+  "candidateId": "kDSKJeC_6UBYtYuH9Vcf5bNez-pyUJTQ",
+  "facts": [
+    {
+      "id": "rtc-87586-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "CLECOM S.A.C.\nAccionista (90%)\nRepresentante legal\nRUC: 20613105370\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nOJEDA & SAMAME CONSULTORIA S.A.C.\nAccionista (90%)\nRepresentante legal\nRUC: 20604840474\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87586-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87586-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=21&candidato=87586",
+      "sha256": "fa894e4f09d393a3cd2d13136097de68e7c41480a35b4077e1a182126acaa946",
+      "accessedAt": "2026-10-03T01:24:13.726Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "candidateId": "LTo9lI6E6fqUbRfZKvTExlOpdbwoapba",
+  "facts": [
+    {
+      "id": "rtc-91412-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "GRUPO BACON S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20554137033\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n16 contratos con el Estado · S/ 400,373.02\nREPRESENTACIONES AMERICO ZEGARRA E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20430566971\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 35,753.4",
+      "sourceIds": [
+        "rtc-91412-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91412-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=52&candidato=91412",
+      "sha256": "8e64958c16fd953f3d5ef7c1211a111c183f46a0b5b4cd1a72843096c770779d",
+      "accessedAt": "2026-10-03T00:18:20.545Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

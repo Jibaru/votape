@@ -1,0 +1,33 @@
+{
+  "candidateId": "gH7pn5avG3G_k9eHTLNCoGsefv7VJ_qm",
+  "facts": [
+    {
+      "id": "rtc-92185-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONTRERAS & MEGO ASOCIADOS S.A.C.\nAccionista (20%)\nAdministración\nRUC: 20610641980\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 2,856",
+      "sourceIds": [
+        "rtc-92185-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92185-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=1&candidato=92185",
+      "sha256": "bfdc9c96f7a2fd6ae6182c3915bec434e524eb31da2f3dbc8864954b06d3d692",
+      "accessedAt": "2026-10-03T01:02:49.408Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

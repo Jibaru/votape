@@ -1,0 +1,48 @@
+{
+  "candidateId": "UDxt2Uqt77bVN7a8D7BudR1_xgBB2Hba",
+  "facts": [
+    {
+      "id": "rtc-87581-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "GRUPO EMPRESARIAL MV S.A.C.\nAccionista (10%)\nRUC: 20613196511\nSOCIEDAD ANONIMA CERRADA\nBAJA PROV. POR OFICIO Fecha de Baja: 31/07/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87581-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87581-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "DE LA CRUZ ARANA HENRRY GISCARD\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: BAJA DE OFICIO Fecha de Baja: 31/07/2024\nCondición: NO HABIDO Deberá declarar el nuevo domicilio fiscal o confirmar el señalado en el RUC. Para ello, deberá acercarse a los Centros de Servicios al Contribuyente con los documentos que sustenten el nuevo domicilio.\nRegistro: 31/05/2020\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87581-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87581-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=8&candidato=87581",
+      "sha256": "907b18c1ddff3a4d5834a21360da070e4be020a716e7e96cdc60da78dfd0a26f",
+      "accessedAt": "2026-10-03T01:23:28.939Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "6S3VU0nvpruFJR-R0jit5C2ajg3R8LpO",
+  "facts": [
+    {
+      "id": "rtc-5979-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 24 contrato(s) con el Estado por S/ 742,539.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "24",
+        "montoTotal": "S/ 742,539"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n24 contratos\nS/ 742,539\nMTC-PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL (PROVIAS NACIONAL)\nO/S N° 1996-2020: SERVICIO DE REVISIÓN Y SEGUIMIENTO LEGAL EN CAMPO PARA LAS GESTIONES DE LIBER\nMonto: S/ 15,799.5\nCódigo: 2@18794790\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\nCONTRATAR LOS SERVICIOS DE UN ESPECIALISTA LEGAL PARA REALIZAR LAS ACCIONES DE SANEAMIENTO LEGAL EN EL MARCO DEL TUO DEL D.L. 1192, DEL TRAMO 2, SECCIÓN 6: INICIO 22+300; FIN: 25+000 DE LAS ÁREAS QUE SE ENCUENTRE",
+      "sourceIds": [
+        "rtc-5979-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-5979-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 4 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "4"
+      },
+      "quote": "CORPORACION SL DEL PERU S.R.L.\nAccionista (96%)\nAdministración\nRepresentante legal\nRUC: 20552097409\nSOC.COM.RESPONS. LTDA\nSUSPENSION TEMPORAL\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 5,246\n2 sanciones TCP\nVer sanciones del Tribunal de Contrataciones\nJC & B CONSULTING SOCIEDAD ANONIMA CERRADA\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20601987725\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado\nLBMC ABOGADOS Y CONSULTORES ASOCIADOS S.A.C.\nAccionista (33.33%)\nRUC: 20602842411\nSOCIEDAD ANONIMA CER",
+      "sourceIds": [
+        "rtc-5979-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-5979-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=35&candidato=5979",
+      "sha256": "2f8f01d4dc4177cb89f9895798286721593b84db3c4183116ef89595c1e56d78",
+      "accessedAt": "2026-10-03T00:32:10.907Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

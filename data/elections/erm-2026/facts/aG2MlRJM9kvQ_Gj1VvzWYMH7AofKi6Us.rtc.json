@@ -1,0 +1,37 @@
+{
+  "candidateId": "aG2MlRJM9kvQ_Gj1VvzWYMH7AofKi6Us",
+  "facts": [
+    {
+      "id": "rtc-91774-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "30",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-91774-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91774-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=49&candidato=91774",
+      "sha256": "99f75102b6718972dcc90ae4f56fc8a43e831c1781b711931da395e333d24c55",
+      "accessedAt": "2026-10-03T00:15:36.200Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

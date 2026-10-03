@@ -1,0 +1,65 @@
+{
+  "candidateId": "8rxG1TeAJlasYfZV2kJR4n_JMyBjttr-",
+  "facts": [
+    {
+      "id": "rtc-93087-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 212,074.85.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 212,074.85"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 212,074.85\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nAdquisicion de fierro de construccion\nMonto: S/ 78,145.2\nCódigo: 1@497506\nBIEN\nEstado: Contratado\nFin: 2010-07-10T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nAdquisicion de materiales de construccion\nMonto: S/ 32,772.5\nCódigo: 1@498171\nBIEN\nEstado: Contratado\nFin: 2010-06-19T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nAdquisicion de Cemento portland tipo I\nMonto: S/ 35,000\nCódigo: 1@498165\nBIEN\nEst",
+      "sourceIds": [
+        "rtc-93087-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93087-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "DISTRIBUIDORA FERRETERA SANTA BEATRIZ SOCIEDAD ANONIMA CERRADA\nAccionista (96.67%)\nAdministración\nRepresentante legal\nRUC: 20545536685\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 3,688",
+      "sourceIds": [
+        "rtc-93087-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93087-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "CCAMAC ORTIZ MIGUEL ANGEL\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 08/08/1995\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-93087-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93087-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=39&candidato=93087",
+      "sha256": "8ee8521ddb60e3c1854f16a479d0de9c55e1440e78778bd6ba0a02e22a8a4c28",
+      "accessedAt": "2026-10-03T00:37:49.048Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

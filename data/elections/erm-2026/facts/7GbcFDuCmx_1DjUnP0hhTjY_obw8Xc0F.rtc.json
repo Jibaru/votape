@@ -1,0 +1,34 @@
+{
+  "candidateId": "7GbcFDuCmx_1DjUnP0hhTjY_obw8Xc0F",
+  "facts": [
+    {
+      "id": "rtc-89800-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 27 contrato(s) con el Estado por S/ 110,100.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "27",
+        "montoTotal": "S/ 110,100"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n27 contratos\nS/ 110,100\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERVICIO DE ASISTENCIA TECNICA LEGAL\nMonto: S/ 8,000\nCódigo: 2@27359337\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERVICIO DE ASISTENCIA TECNICA LEGAL\nMonto: S/ 4,000\nCódigo: 2@26932464\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nESPECIALISTA LEGAL\nMonto: S/ 8,000\nCódigo: 2@26154982\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (24 más)",
+      "sourceIds": [
+        "rtc-89800-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89800-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurin&cargo=alcalde-distrital&organizacion=11&candidato=89800",
+      "sha256": "0f89d2e052880e48312ce1a48fc0ec4aa4642b7872190e05a615136ac8445934",
+      "accessedAt": "2026-10-03T00:48:29.642Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

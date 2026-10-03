@@ -1,0 +1,50 @@
+{
+  "candidateId": "XVNEUj8CkX0-6Wa6FGPXSsK0G7Ha5cF9",
+  "facts": [
+    {
+      "id": "rtc-3434-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 39,767.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 39,767"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 39,767\nMUNICIPALIDAD DISTRITAL DE LURIN\nPOR SERVICIO DE CONSULTORIA PARA LA ACTUALIZACION DEL CONTROL PRESUPUESTAL POR CENTRO DE COSTOS DE LA EJECUCION DE GASTOS DE LOS MESES DE ENERO, FEBRERO Y MARZO Y ELABORACION DE LA MATRIZ DE REGISTRO DE EJECUCION DE GASTOS POR CENTRO DE COSTO - EJERCICIO\nMonto: S/ 6,000\nCódigo: 2@5429480\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIN\nPOR SERVICIO DE REVISION ANALISIS Y CERTIFICACION PRESUPUESTAL DE BIENES Y SERVICIOS EN LA MUNICIPALIDAD DE LURIN AF-20",
+      "sourceIds": [
+        "rtc-3434-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-3434-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "CORPORACION HABINSA EIRL\nRepresentante legal\nRUC: 20546320295\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n3 contratos con el Estado · S/ 59,557\n3M CONSTRUCTORA S.A.C.\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20551900119\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-3434-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-3434-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=22&candidato=3434",
+      "sha256": "abf3f6701aedce6ec3cd7ae68ad6bedc56c67ce86d85ef6491a5295961402607",
+      "accessedAt": "2026-10-03T01:20:40.669Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "TUWkBKHAxiizrohNFbg8hqdYxvwLeWjd",
+  "facts": [
+    {
+      "id": "rtc-93219-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 26 contrato(s) con el Estado por S/ 257,398.29.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "26",
+        "montoTotal": "S/ 257,398.29"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n26 contratos\nS/ 257,398.29\nGOBIERNO REGIONAL DE CALLAO SEDE CENTRAL\nSERVICIO DE IMPRESIÓN DE PAPELERIA E IMPLEMENTOS PARA MISA TEDEUM Y SESION SOLEMNE POR EL 187°\nMonto: S/ 10,030\nCódigo: 2@26240122\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN BORJA\nSERVICIOS\nMonto: S/ 19,042.4\nCódigo: 2@20829378\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN BORJA\nSERVICIOS\nMonto: S/ 6,727.2\nCódigo: 2@20828978\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omiti",
+      "sourceIds": [
+        "rtc-93219-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93219-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "GRAFICA MACHUPICHU S.A.C\nAccionista (50%)\nRUC: 20557825470\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 09/01/2019\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-93219-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93219-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=31&candidato=93219",
+      "sha256": "6854e2e6d4c35e1a93e320985e6b9a0cf8aafc7ceda9a041f80aae0b44509d35",
+      "accessedAt": "2026-10-03T00:06:55.752Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

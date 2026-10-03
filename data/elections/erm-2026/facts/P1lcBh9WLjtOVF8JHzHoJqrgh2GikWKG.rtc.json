@@ -1,0 +1,32 @@
+{
+  "candidateId": "P1lcBh9WLjtOVF8JHzHoJqrgh2GikWKG",
+  "facts": [
+    {
+      "id": "rtc-87479-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "OJEDA GARCIA ADOLFO DENNIS\nRUC: [RUC de persona natural omitido]\nNombre comercial: TOTAL MARKET\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: SUSPENSION TEMPORAL\nCondición: HABIDO\nRegistro: 20/08/2010\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87479-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87479-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=24&candidato=87479",
+      "sha256": "d0398f3bd1a6463c387719016bc5bf249943200cf2cb7607e5beaef606180699",
+      "accessedAt": "2026-10-03T00:33:42.278Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

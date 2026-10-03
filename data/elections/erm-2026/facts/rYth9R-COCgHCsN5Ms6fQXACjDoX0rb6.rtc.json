@@ -1,0 +1,33 @@
+{
+  "candidateId": "rYth9R-COCgHCsN5Ms6fQXACjDoX0rb6",
+  "facts": [
+    {
+      "id": "rtc-89235-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "A & M CONSTRUCTORA CONSULTORA CORPORACION S.A.C.\nAccionista (50%)\nRUC: 20602885781\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado\nCORPORACION CJ & F S.A.C.\nAccionista (16.67%)\nRUC: 20606724030\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89235-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89235-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=8&candidato=89235",
+      "sha256": "b42984c4c32cb73fed58dc39906a1b375cbc4f15a1514634526f8be508485deb",
+      "accessedAt": "2026-10-03T00:36:45.420Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

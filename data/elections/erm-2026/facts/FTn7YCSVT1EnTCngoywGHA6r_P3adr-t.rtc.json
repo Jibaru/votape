@@ -1,0 +1,64 @@
+{
+  "candidateId": "FTn7YCSVT1EnTCngoywGHA6r_P3adr-t",
+  "facts": [
+    {
+      "id": "rtc-89685-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 34 contrato(s) con el Estado por S/ 483,750.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "34",
+        "montoTotal": "S/ 483,750"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n34 contratos\nS/ 483,750\nMTC-PROYECTO ESPECIAL DE INFRAESTRUCTURA DE TRANSPORTE NACIONAL (PROVIAS NACIONAL)\nSERVICIO ESPECIALIZADO PARA LA EVALUACIÓN DE GESTIÓN DE LOS PROCESOS EN DERECHO ADMINISTRATIVO PARA LA OFICINA DE ASESORÍA JURÍDICA DE PROVIAS NACIONAL.\nMonto: S/ 22,000\nCódigo: 2@39823227\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA NACIONAL PLATAFORMAS DE ACCION PARA LA INCLUSION SOCIAL - PAIS\nSERVICIO DE ANALISIS Y ELABORACION DE REPORTES DE GESTION Y CONTROL PATRIMONIAL DE LA UNIDAD DE ADMI\nMonto: S/ 36,000\nCódigo: 2@",
+      "sourceIds": [
+        "rtc-89685-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89685-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Cancelada.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada"
+      },
+      "quote": "licencia: Cancelada",
+      "sourceIds": [
+        "rtc-89685-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89685-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=1&candidato=89685",
+      "sha256": "587e27631633157906b25acb0105fb6e9d92fdf92117dbd3c75bb37f7a0ab4de",
+      "accessedAt": "2026-10-03T00:59:09.484Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-89685-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=1&candidato=89685",
+      "sha256": "afab92b2f89a9d4555e8d1ea85a2d6cca05c9e186b96dd17ee7f1704fb410e47",
+      "accessedAt": "2026-10-03T00:59:09.484Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

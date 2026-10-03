@@ -1,0 +1,59 @@
+{
+  "candidateId": "nDVgI560_dGQDM2hWEPwhy_JlBWwLzW4",
+  "facts": [
+    {
+      "id": "rtc-87580-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 15 contrato(s) con el Estado por S/ 213,520.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "15",
+        "montoTotal": "S/ 213,520"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n15 contratos\nS/ 213,520\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE ASISTENCIA TECNICA EN SISTEMA DE INFORMACION GEOGRAFICA PARA LA SUBGERENCIA DE PLANEAMIENTO URBANO CATASTRO Y OBRAS PRIVADAS\nMonto: S/ 14,250\nCódigo: 2@40263658\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE ASISTENCIA TECNICA EN SISTEMAS DE AREA GEOGRAFICA PARA SG DE PLANEAMIENTO URBANO CATASTRO Y OBRAS PRIVADAS\nMonto: S/ 9,500\nCódigo: 2@37439349\nSERVICIO\nEstado: Contratado\nRUC: [RUC de pers",
+      "sourceIds": [
+        "rtc-87580-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87580-rnssc-servir-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNSSC-SERVIR (al menos una vigente).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNSSC-SERVIR"
+      },
+      "quote": "DESTITUCIÓN\nMUNICIPALIDAD DISTRITAL DE BREÑA\nOTRAS QUE SE ESTABLECEN POR LEY.\nCargo: FUNCIONARIO\nSANCIÓN DISCIPLINARIA\nDesde: 09/06/2026\nHasta: 08/06/2031\nVIGENTE\nInhabilitante",
+      "sourceIds": [
+        "rtc-87580-sanciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87580-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=6&candidato=87580",
+      "sha256": "c386bc537de5ead777e68d6cf53e7eba5221ba90d73fe814800ceff07bc67af3",
+      "accessedAt": "2026-10-03T01:24:50.175Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87580-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=6&candidato=87580",
+      "sha256": "248e97d555e55ef0c4a532090511bd35705d4fc4b5b3c26ba8d82cd657532bb1",
+      "accessedAt": "2026-10-03T01:24:50.175Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

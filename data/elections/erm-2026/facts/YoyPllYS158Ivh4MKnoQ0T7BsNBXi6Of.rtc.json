@@ -1,0 +1,49 @@
+{
+  "candidateId": "YoyPllYS158Ivh4MKnoQ0T7BsNBXi6Of",
+  "facts": [
+    {
+      "id": "rtc-91188-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 3 contrato(s) con el Estado por S/ 23,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "3",
+        "montoTotal": "S/ 23,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n3 contratos\nS/ 23,200\nORGANISMO DE FORMALIZACION DE LA PROPIEDAD INFORMAL - COFOPRI\nSERVICIO DE COORDINACION ANTE LA COMISION DE VIVIENDA Y DESCENTRALIZACION PARA LA OFICINA DE ADMINISTRACION\nMonto: S/ 20,000\nCódigo: 2@5331885\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ANDAMARCA\nLOCACIÓN DE SERVICIOS, COMO SUB GERENTE DE DESARROLLO ECONÓMICO LOCAL DE LA MUNICIPALIDAD DISTRITAL DE ANDAMARCA, CORRESPONDIENTE AL MES DE FEBRERO DEL AÑO 2015\nMonto: S/ 1,600\nCódigo: 2@1840313\nSERVICIO\nEstado: Contratado\nRUC: [RUC",
+      "sourceIds": [
+        "rtc-91188-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91188-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "COMBINA SALVATIERRA CESAR AUGUSTO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 26/01/2011\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-91188-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91188-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=4&candidato=91188",
+      "sha256": "ef700210625ebc60c03a68f7adad3c547ff27b99d9dd823a4d4e6cc459ed08fc",
+      "accessedAt": "2026-10-03T00:44:49.185Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

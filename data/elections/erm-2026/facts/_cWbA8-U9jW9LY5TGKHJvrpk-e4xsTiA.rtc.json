@@ -1,0 +1,33 @@
+{
+  "candidateId": "_cWbA8-U9jW9LY5TGKHJvrpk-e4xsTiA",
+  "facts": [
+    {
+      "id": "rtc-88005-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CORPORACION COSICHE S.A.C.\nAccionista (54.09%)\nAdministración\nRepresentante legal\nRUC: 20603106106\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88005-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88005-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=1&candidato=88005",
+      "sha256": "7c03c0eeeae9b00ce220da370f23aa135b23723fc005bb3970caf6d340fceebc",
+      "accessedAt": "2026-10-03T00:31:34.583Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

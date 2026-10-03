@@ -1,0 +1,33 @@
+{
+  "candidateId": "VITX2i2JDcxsxcp9ck3XsSRjIeI5TnYP",
+  "facts": [
+    {
+      "id": "rtc-89804-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "NOA NOA SERVICIOS GENERALES E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20610863681\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n4 contratos con el Estado · S/ 50,056\nZEUS AMERICA S.A.C\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20568057296\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 13/03/2015\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 13,183",
+      "sourceIds": [
+        "rtc-89804-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89804-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurin&cargo=alcalde-distrital&organizacion=22&candidato=89804",
+      "sha256": "e94bf0bd4447b986e5a72f305242c9edefcd4d652a69830a8d602d6e924026e8",
+      "accessedAt": "2026-10-03T00:48:47.807Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "candidateId": "yMYC5NnaC2ilemM7YTOqoCRbeHETqfzN",
+  "facts": [
+    {
+      "id": "rtc-90582-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "CONSTRUCTORA POWERS MACHINER & EQUIPMENT SOCIEDAD ANONIMA CERRADA\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20419335771\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n54 contratos con el Estado · S/ 128,734,248.77\nDeuda coactiva: S/ 81,028\nDISTRIBUIRAPI S.A.C.\nAdministración\nRepresentante legal\nRUC: 20610438700\nSOCIEDAD ANONIMA CERRADA\nSUSPENSION TEMPORAL\nCondición: HABIDO\nSin contratos con el Estado\nOXIGEN PERU S.A.C.\nAccionista (60%)\nRUC: 20607994707\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-90582-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90582-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=puente+piedra&cargo=alcalde-distrital&organizacion=4&candidato=90582",
+      "sha256": "acb73b20a81e3bff8104e97227ad806e615ef9c77855c4678befb9dbdd556453",
+      "accessedAt": "2026-10-03T01:13:29.767Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

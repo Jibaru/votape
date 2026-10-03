@@ -1,0 +1,34 @@
+{
+  "candidateId": "zniS-RaRwilon5CAHVOieSlD-RZrnvK9",
+  "facts": [
+    {
+      "id": "rtc-87133-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 102,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 102,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 102,500\nMINISTERIO DE ENERGIA Y MINAS\nGVS (60/2) SERVICIO ESPECIALIZADO PARA LA COORDINACIÓN, GESTIÓN Y SEGUIMIENTO DE CONFLICTIVIDAD SOCIAL RELACIONADOS A LAS ACTIVIDADES ENERGÉTICAS EN LA REGIÓN LORETO\nMonto: S/ 15,000\nCódigo: 2@37101697\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE ENERGIA Y MINAS\nGVS (60/2) SERVICIO ESPECIALIZADO PARA LA COORDINACIÓN, GESTIÓN Y SEGUIMIENTO DE CONFLICTIVIDAD SOCIAL RELACIONADOS A LAS ACTIVIDADES ENERGÉTICAS EN LA REGIÓN LORETO\nMonto: S/ 15,000\nCódigo: 2@36794355\nSERVICIO\n",
+      "sourceIds": [
+        "rtc-87133-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87133-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=1&candidato=87133",
+      "sha256": "ea469835321590bf05de75bcc9c6509cad47683498a92ea84c1d66b36d93b332",
+      "accessedAt": "2026-10-03T00:51:13.830Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

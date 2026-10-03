@@ -1,0 +1,80 @@
+{
+  "candidateId": "yKGQ_KH1UaaiNKYy83Q5BmxCqU1aXVxK",
+  "facts": [
+    {
+      "id": "rtc-92186-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 36,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 36,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 36,000\nINSTITUTO PERUANO DEL DEPORTE\n(ST4/120)SERVICIO DE.ASISTENCIA EN TEMAS DE SEGURIDAD DEPORTIVA PARA LA DIRECCIÓN.DE SEGURIDAD\nMonto: S/ 36,000\nCódigo: 2@39289781\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92186-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92186-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "COHERCO S.A.C.\nAccionista (33.33%)\nRUC: 20537375443\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/12/2019\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92186-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92186-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 4 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "4",
+        "faltasMuyGraves": "1",
+        "papeletas": "5",
+        "puntosAcumulados": "40",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 4 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-92186-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92186-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=3&candidato=92186",
+      "sha256": "35fc31a1f359293738ad2f0a94f4304ddcee826b1fac2cf527ab4ef1d3e20578",
+      "accessedAt": "2026-10-03T01:03:53.209Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-92186-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=3&candidato=92186",
+      "sha256": "4bbf5661c1cd8d0962d90dcd302e64f2ec101bdaa60c035bdca9155e24613144",
+      "accessedAt": "2026-10-03T01:03:53.209Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

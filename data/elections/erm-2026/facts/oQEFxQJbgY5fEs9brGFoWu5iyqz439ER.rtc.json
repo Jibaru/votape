@@ -1,0 +1,34 @@
+{
+  "candidateId": "oQEFxQJbgY5fEs9brGFoWu5iyqz439ER",
+  "facts": [
+    {
+      "id": "rtc-92855-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 41,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 41,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 41,500\nMUNICIPALIDAD DISTRITAL DE RIMAC\nCONTRATACIÓN DE LOCADOR DE SERVICIO COMO APOYO DE INSPECTOR EN PREVENCIÓN, RIESGOS Y MITIGACIÓN DE LA SUBGERENCIA DE GESTIÓN DE RIESGO DE DESASTRES Y DEFENSA CIVIL EN LA MUNICIPALIDAD DISTRITAL DEL RIMAC.-2 ENTREGABLES-ORDEN DE SERVICIO F.I. 09/09/21F.T 28/10/21\nMonto: S/ 7,000\nCódigo: 2@20010854\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE RIMAC\nAPOYO DE INSPECTOR EN PREVENCION Y MITIGACION DE LA SUBGERENCIA DE RIESGO Y DESASTRES Y DEFENSA CIVIL ( 2 ARMA",
+      "sourceIds": [
+        "rtc-92855-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92855-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=49&candidato=92855",
+      "sha256": "0ac19bd436a54814d6b805d637d19c8b087503e524435f9b788960bf41cfad9f",
+      "accessedAt": "2026-10-03T00:29:08.430Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

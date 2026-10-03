@@ -1,0 +1,33 @@
+{
+  "candidateId": "qyPlq8G8B3eEsEBKkMFZ3R-cCalbFt-A",
+  "facts": [
+    {
+      "id": "rtc-88534-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "SINERGIA LATAM S.A.C EN LIQUIDACIÓN\nAccionista (95%)\nAdministración\nRepresentante legal\nRUC: 20603131941\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 29/05/2026\nCondición: HABIDO\n3 contratos con el Estado · S/ 95,400\nDeuda coactiva: S/ 355,011\nCORPORACION DE EMPRESAS PUBLICITARIAS UNIDAS S.A.C. EN LIQUIDACIÓN\nAccionista (80%)\nAdministración\nRepresentante legal\nRUC: 20524133386\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 26/07/2023\nCondición: HABIDO\n2 contratos con el Estado · S/ 32,487",
+      "sourceIds": [
+        "rtc-88534-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88534-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=83&candidato=88534",
+      "sha256": "18b970c8fa6e4d4e626917e0acb01ff8bba32cc774d379dd7d6cfaaecd9bc06a",
+      "accessedAt": "2026-10-03T00:30:21.449Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

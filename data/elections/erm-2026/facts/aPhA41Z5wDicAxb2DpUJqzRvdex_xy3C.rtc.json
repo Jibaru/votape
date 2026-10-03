@@ -1,0 +1,37 @@
+{
+  "candidateId": "aPhA41Z5wDicAxb2DpUJqzRvdex_xy3C",
+  "facts": [
+    {
+      "id": "rtc-93085-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-93085-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93085-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=1&candidato=93085",
+      "sha256": "8cb780c7a12ecb7e7c088e84e5b753a05184bcce30fc2726a9c7bd40dc8ac2fe",
+      "accessedAt": "2026-10-03T00:37:12.719Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "Jt0M6mFdM0Cakp6-5OoamjxxzW_NdbUB",
+  "facts": [
+    {
+      "id": "rtc-92864-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 26 contrato(s) con el Estado por S/ 60,866.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "26",
+        "montoTotal": "S/ 60,866"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n26 contratos\nS/ 60,866\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nSERVICIO DE ELABORACION DE INFORME Y FISCALIZACION DE PREDIOS\nMonto: S/ 2,000\nCódigo: 2@39779133\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nSERVICIO DE ELABORACION DE INFORME Y FISCALIZACION DE PREDIOS\nMonto: S/ 2,000\nCódigo: 2@39759178\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nSERVICIO DE ELABORACION DE INFORME Y FISCALIZACION DE PREDIOS A CARGO DE LA SUBGERENCIA DE REGIS",
+      "sourceIds": [
+        "rtc-92864-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92864-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=37&candidato=92864",
+      "sha256": "6abd96f07e3d70ac8b78d4e2268da8c51ab4a8e1833b7070e163cf700c995569",
+      "accessedAt": "2026-10-03T00:27:54.989Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

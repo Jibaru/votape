@@ -1,0 +1,62 @@
+{
+  "candidateId": "V9pZ0NJlaAqyAt4DsqliQoicncpM7Bgv",
+  "facts": [
+    {
+      "id": "rtc-90875-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "REVILLA BELISARIO JAVIER VICTOR\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 28/01/2019\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-90875-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90875-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "3",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-90875-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90875-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=49&candidato=90875",
+      "sha256": "7655b02ff0b86a15edb0133c42f15a6afde337d27d3c805d53c7d4ebc4b7ee93",
+      "accessedAt": "2026-10-03T01:08:00.382Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90875-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=49&candidato=90875",
+      "sha256": "eb720a03232e793c5fe769cfd7b3613b24273d07be2384b47a2a81e8f6eae7a2",
+      "accessedAt": "2026-10-03T01:08:00.382Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

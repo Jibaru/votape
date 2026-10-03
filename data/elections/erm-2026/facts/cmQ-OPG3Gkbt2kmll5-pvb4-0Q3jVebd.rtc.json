@@ -1,0 +1,34 @@
+{
+  "candidateId": "cmQ-OPG3Gkbt2kmll5-pvb4-0Q3jVebd",
+  "facts": [
+    {
+      "id": "rtc-90529-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 16,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 16,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 16,000\nMUNICIPALIDAD METROPOLITANA DE LIMA\nServicio De Asistencia Técnica Legal\nMonto: S/ 16,000\nCódigo: 2@31281884\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-90529-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90529-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=52&candidato=90529",
+      "sha256": "2f25947bffcdf303c4fb115f395c2c375d4ba63f89f72b14a334b85c885e42dd",
+      "accessedAt": "2026-10-03T01:04:29.706Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "f9l9lnIx9O5g7_bu7kQGN_Agc3_ezXhz",
+  "facts": [
+    {
+      "id": "rtc-87773-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 162,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 162,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 162,500\nUNIDAD EJECUTORA 125 PROGRAMA NACIONAL DE INVERSIONES EN SALUD\nSERVICIO ESPECIALIZADO EN GESTIÓN DE CONTRATACIONES PÚBLICAS\nMonto: S/ 36,000\nCódigo: 2@39363385\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO PERUANO DEL DEPORTE\nOAJ 281 SERVICIO LEGAL ESPECIALIZADO EN DOCUMENTOS NORMATIVOS Y DE GESTIÓN ADMINISTRATIVA, PARA LA.\nMonto: S/ 20,000\nCódigo: 2@36878100\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO PERUANO DEL DEPORTE\nOAJ 183 CCP 2935 / CONTRATACION DEL SERVICIO LEGAL ",
+      "sourceIds": [
+        "rtc-87773-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87773-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "VALDIVIESO, GUZMAN & ROMERO - ASESORES Y CONSULTORES SOCIEDAD CIVIL DE RESPONSABILIDAD LIMITADA\nAccionista (33.33%)\nRUC: 20611843390\nSOC.COM.RESPONS. LTDA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87773-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87773-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=39&candidato=87773",
+      "sha256": "8ae5737c3df14371b6c64afffbb37cfcd2d4990a203745aaecf4018b53f5f8e8",
+      "accessedAt": "2026-10-03T00:39:56.776Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "candidateId": "UQxpbWz0i2TAXfMyPWrARdF_CfYQa6xQ",
+  "facts": [
+    {
+      "id": "rtc-88015-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "INVERSIONES QUEVEDO Y CONSULTORES S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20604800278\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 30/05/2025\nCondición: HABIDO\nSin contratos con el Estado\nQUARA CONSULTORES GENERALES S.A.C.\nAccionista (25%)\nAdministración\nRepresentante legal\nRUC: 20601272629\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2017\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88015-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88015-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=30&candidato=88015",
+      "sha256": "2600e76b339c36fd5650c5dab310bcf671bd141174611821dbf4bffabaf94e41",
+      "accessedAt": "2026-10-03T00:32:38.295Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

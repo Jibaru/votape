@@ -1,0 +1,63 @@
+{
+  "candidateId": "E4Y00bJ5gST3NVj91jTnh8wbHxEJ5eeg",
+  "facts": [
+    {
+      "id": "rtc-86610-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "PINTURAS WORQUINSA PERU E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20523140460\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 4,981",
+      "sourceIds": [
+        "rtc-86610-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-86610-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 2 falta(s) muy grave(s), 5 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "5",
+        "faltasMuyGraves": "2",
+        "papeletas": "8",
+        "puntosAcumulados": "30",
+        "licencia": "Licencia retenida"
+      },
+      "quote": "2 falta(s) muy grave(s) · 5 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-86610-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86610-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ancon&cargo=alcalde-distrital&organizacion=24&candidato=86610",
+      "sha256": "ad466e84736973a286fe27c2af5169643140359e902905ece1eaa08574edd1b4",
+      "accessedAt": "2026-10-03T00:58:15.031Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-86610-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ancon&cargo=alcalde-distrital&organizacion=24&candidato=86610",
+      "sha256": "13f2401b1f57d3443a6e91a1051eb3e04ab248e572861d70dd3df8d6f7ac3747",
+      "accessedAt": "2026-10-03T00:58:15.031Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

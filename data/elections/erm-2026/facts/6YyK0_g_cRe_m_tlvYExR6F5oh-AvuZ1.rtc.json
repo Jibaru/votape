@@ -1,0 +1,34 @@
+{
+  "candidateId": "6YyK0_g_cRe_m_tlvYExR6F5oh-AvuZ1",
+  "facts": [
+    {
+      "id": "rtc-93215-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 1,600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 1,600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 1,600\nDIRECCION DE REDES INTEGRADAS DE SALUD LIMA SUR\nPEÑA VALDIVIA YOLANDA INÉS SERVICIO DE CONTROL EN LA VIGILANCIA Y CONTROL VECTORIAL [RUC de persona natural omitido].\nMonto: S/ 1,600\nCódigo: 2@40099586\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-93215-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93215-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=17&candidato=93215",
+      "sha256": "91dc13b63e85ffd93dc4d583f5b47b6ee0e250db33a91d20a85f3b727f9457a3",
+      "accessedAt": "2026-10-03T00:08:26.662Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

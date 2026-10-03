@@ -1,0 +1,34 @@
+{
+  "candidateId": "xL3k_ruT0M-g6nksa-0I9xedokB3HnWN",
+  "facts": [
+    {
+      "id": "rtc-87482-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 19 contrato(s) con el Estado por S/ 44,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "19",
+        "montoTotal": "S/ 44,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n19 contratos\nS/ 44,000\nMUNICIPALIDAD DISTRITAL DE CHACLACAYO\nLOCADOR COMO COORDINADOR DE UNIDAD LOCAL DE EMPADRONAMIENTO (SISFOH)\nMonto: S/ 2,000\nCódigo: 2@24235516\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHACLACAYO\nSERVICIO DE LOCADOR COMO RESPONSABLE DE LA UNIDAD LOCAL DE EMPADRONAMIENTO SISFOH\nMonto: S/ 2,000\nCódigo: 2@23733683\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHACLACAYO\nSERVICIO DE LOCADOR COMO RESPONSABLE ADMINISTRATIVO SISFOH\nMonto: S/ 2,0",
+      "sourceIds": [
+        "rtc-87482-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87482-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=52&candidato=87482",
+      "sha256": "faa85393b05dba15a2bd9eb90f03b2d5a09764aec0ee7ec4e3a5c185fdeb1017",
+      "accessedAt": "2026-10-03T00:33:51.322Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

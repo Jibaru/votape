@@ -1,0 +1,50 @@
+{
+  "candidateId": "LpagczpvKfnBBl73YnHpz3FKWs9WBKq2",
+  "facts": [
+    {
+      "id": "rtc-91190-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 11,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 11,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 11,000\nMINISTERIO DE AGRICULTURA Y RIEGO\nSERVICIOS DIVERSOS - SERVICIO ESPECIALIZADO - ASESORIA LEGAL - CONTRATACION DE SERVICIO ESPECIALIZADO EN ASESORIA LEGAL EN FAVOR DEL SEÑOR CARLOS EUSEBIO CORDOVA JIMENEZ DESCRIPCION DEL SERVICIO - DEFENSA LEGAL Y PATROCINIO EN LA DENUNCIA PENAL\nMonto: S/ 11,000\nCódigo: 2@1859656\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91190-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91190-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 5 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "5"
+      },
+      "quote": "CHICHARRON POPULAR S.A.C.\nAccionista (50%)\nRUC: 20610724958\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n6 contratos con el Estado · S/ 163,254.82\nCEBICHE POPULAR S.A.C.\nAccionista (33.33%)\nRUC: 20610810579\nSOCIEDAD ANONIMA CERRADA\nSUSPENSION TEMPORAL\nCondición: HABIDO\nSin contratos con el Estado\nCHACON & CRIADO CONSULTORES SOCIEDAD ANONIMA CERRADA\nAccionista (50%)\nRepresentante legal\nRUC: 20602473113\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado\nVer más (2 más)",
+      "sourceIds": [
+        "rtc-91190-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91190-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=49&candidato=91190",
+      "sha256": "2488d44822349739a60993d750d3ecce8d85bd05f99af073f2529563cbf1dc73",
+      "accessedAt": "2026-10-03T00:44:40.101Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

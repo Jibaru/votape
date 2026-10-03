@@ -1,0 +1,50 @@
+{
+  "candidateId": "NhWPzeIOf88vytqRKz849dZ9xcgN4yew",
+  "facts": [
+    {
+      "id": "rtc-92490-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 43,600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 43,600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 43,600\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nDEPENDENCIA SOLICITANTE: GERENCIA DE GESTION AMBIENTAL OBJETO DE SERVICIO: CONTRATACI? DE UN PERSONAL PARA EL SERVICIO DE TECNICO EN SUPERVISION AMBIENTAL EL SERVICIO SE REALIZARA DE ACUERDO A LOS T?MINOS DE REFERENCIA DEL REQUERIMIENTO N1000000043 PLAZO DE SERVICIO: HASTA 80 DIAS CALENDARIOS, SEGUN TERMINOS DE REFERENCIA FORMA DE PAGO: SE REALIZARA EN 3 ARMADAS, SEGUN TERMINOS DE REFERENCIA NOTA DE CREDITO PRESUPUESTAL N 00474-2023 EQM\nMonto: S/ 7,500\nCódigo: 2@26200415\nSERVICIO\nEstado:",
+      "sourceIds": [
+        "rtc-92490-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92490-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "SERVICIOS DE TECNOLOGIAS AMBIENTALES DIAMANTE S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20601381631\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\n1 contrato con el Estado · S/ 8,000\nDeuda coactiva: S/ 32,620\nCORPORACION DE INVERSIONES EN ENERGIA AMBIENTE E INFRAESTRUCTURA S.A.C.\nAccionista (21%)\nRUC: 20604611653\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92490-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92490-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+martin+de+porres&cargo=alcalde-distrital&organizacion=13&candidato=92490",
+      "sha256": "c419cea68c93ba5f85ae1caa7a3ac9b3984315e7eb689c27f2b50df540677f4e",
+      "accessedAt": "2026-10-03T00:26:32.854Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

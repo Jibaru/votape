@@ -1,0 +1,64 @@
+{
+  "candidateId": "fGW7USQEdnWyDpe4eayW01L5iTQvnluc",
+  "facts": [
+    {
+      "id": "rtc-90884-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 29 contrato(s) con el Estado por S/ 64,400.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "29",
+        "montoTotal": "S/ 64,400"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n29 contratos\nS/ 64,400\nMUNICIPALIDAD DISTRITAL DE RIMAC\nCONTRATACIÓN DE LOCADOR DE SERVICIO COMO SUPERVISION PARA LA GERENCIA DE SEGURIDAD CIUDADANA DE LA MUNICIPALIDAD DISTRITAL DEL RÍMAC\nMonto: S/ 2,000\nCódigo: 2@38398156\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE RIMAC\nCONTRATACIÓN DE LOCADOR DE SERVICIO COMO SUPERVISION PARA LA GERENCIA DE SEGURIDAD CIUDADANA DE LA MUNICIPALIDAD DISTRITAL DEL RÍMAC\nMonto: S/ 2,000\nCódigo: 2@37952652\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNIC",
+      "sourceIds": [
+        "rtc-90884-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90884-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 2 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "2",
+        "faltasMuyGraves": "1",
+        "papeletas": "3",
+        "puntosAcumulados": "95",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 2 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-90884-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90884-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=22&candidato=90884",
+      "sha256": "40fcdcedab0b6ea154c4a5f3ddb8d21ac8c0c9f35e2ee025c6c9a8f998a3e5c1",
+      "accessedAt": "2026-10-03T01:08:09.495Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90884-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=22&candidato=90884",
+      "sha256": "7b96cc72a083e8cbd0b48e93b7d16c431a184efe2821af0cd846a887461b832b",
+      "accessedAt": "2026-10-03T01:08:09.495Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

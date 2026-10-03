@@ -1,0 +1,33 @@
+{
+  "candidateId": "QN0fLt8zTfO0Rd2RV3sfubuVtTeyIgSz",
+  "facts": [
+    {
+      "id": "rtc-90778-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "EMPRESA MÚLTIPLES SOLIMAR SOCIEDAD ANONIMA CERRADA\nAccionista (99.9%)\nAdministración\nRepresentante legal\nRUC: 20521422883\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2018\nCondición: HABIDO\n12 contratos con el Estado · S/ 917,879.62\nDeuda coactiva: S/ 18,705",
+      "sourceIds": [
+        "rtc-90778-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90778-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+negra&cargo=alcalde-distrital&organizacion=38&candidato=90778",
+      "sha256": "066f9a71a908bb43857b6e1d009f2369bf49a7df3b11db87cbb9f50d00da5463",
+      "accessedAt": "2026-10-03T00:20:55.301Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

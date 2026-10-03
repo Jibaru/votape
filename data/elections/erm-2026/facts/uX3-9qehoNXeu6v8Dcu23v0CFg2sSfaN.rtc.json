@@ -1,0 +1,34 @@
+{
+  "candidateId": "uX3-9qehoNXeu6v8Dcu23v0CFg2sSfaN",
+  "facts": [
+    {
+      "id": "rtc-91780-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 38 contrato(s) con el Estado por S/ 663,900.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "38",
+        "montoTotal": "S/ 663,900"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n38 contratos\nS/ 663,900\nGOBIERNO REGIONAL DE LAMBAYEQUE SEDE CENTRAL\nCONTRATACION DE FROMULACION DEL ESTUDIO DE PREINVERSION\nMonto: S/ 41,000\nCódigo: 2@29969995\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHILCA - CANETE\nSERVICIO DE ESPECIALISTA EN GESTIÓN DE PROYECTOS PARA LA GERENCIA DE DESARROLLO URBANO\nMonto: S/ 15,000\nCódigo: 2@29057402\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO - ADMINISTRACIÓN GENERAL\nHT.6848 - CONTRATAR LOS SER",
+      "sourceIds": [
+        "rtc-91780-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91780-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=8&candidato=91780",
+      "sha256": "18098a1df7c36ed484e8a8f5bca62d05f86d8be02745f77aac74e326a296e43b",
+      "accessedAt": "2026-10-03T00:15:45.267Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

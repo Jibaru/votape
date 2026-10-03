@@ -1,0 +1,32 @@
+{
+  "candidateId": "l4fsvDk2lDivzS4xd1Vl4u-bc2m2KlOX",
+  "facts": [
+    {
+      "id": "rtc-91407-rnssc-servir-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNSSC-SERVIR (al menos una vigente).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNSSC-SERVIR"
+      },
+      "quote": "NUM. 2.2 ART. 2 D.LEG. 1295 - IMPEDIMENTO PERMANENTE PARA PRESTAR SERVICIOS EN EL ESTADO\nAUTORIDAD NACIONAL DEL SERVICIO CIVIL\nARTÍCULO 384 - COLUSIÓN SIMPLE Y AGRAVADA\nIMPEDIMENTO LEGAL\nDesde: 14/11/2022\nHasta: 20/05/2130\nVIGENTE\nInhabilitante",
+      "sourceIds": [
+        "rtc-91407-sanciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91407-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=24&candidato=91407",
+      "sha256": "15cd1d48bd22cbe15c7afcbe5df49a7e773400fa69fb4f14bc6d314ffa7788ce",
+      "accessedAt": "2026-10-03T00:20:00.624Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

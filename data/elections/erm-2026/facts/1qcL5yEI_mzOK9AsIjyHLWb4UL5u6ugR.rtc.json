@@ -1,0 +1,34 @@
+{
+  "candidateId": "1qcL5yEI_mzOK9AsIjyHLWb4UL5u6ugR",
+  "facts": [
+    {
+      "id": "rtc-91085-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 21,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 21,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 21,000\nMUNICIPALIDAD METROPOLITANA DE LIMA\nServicio Especializado En Temas De Derecho\nMonto: S/ 5,000\nCódigo: 2@13295214\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD METROPOLITANA DE LIMA\nServicio Especializado En Temas De Derecho\nMonto: S/ 4,000\nCódigo: 2@13021945\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD METROPOLITANA DE LIMA\nServicio Especializado En Temas De Derecho\nMonto: S/ 4,000\nCódigo: 2@12698729\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\n",
+      "sourceIds": [
+        "rtc-91085-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91085-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=35&candidato=91085",
+      "sha256": "057d76f78222ef0d26007f59f83fd11bd481b6f3e84f1a601de76533515dcf1b",
+      "accessedAt": "2026-10-03T00:13:46.587Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

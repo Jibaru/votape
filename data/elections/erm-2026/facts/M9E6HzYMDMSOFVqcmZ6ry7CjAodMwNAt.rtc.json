@@ -1,0 +1,50 @@
+{
+  "candidateId": "M9E6HzYMDMSOFVqcmZ6ry7CjAodMwNAt",
+  "facts": [
+    {
+      "id": "rtc-92501-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 16 contrato(s) con el Estado por S/ 116,700.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "16",
+        "montoTotal": "S/ 116,700"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n16 contratos\nS/ 116,700\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE SERVICIO DE LOCADORES SEGUN TERMINO DE REFERENCIA SOLICITADO POR LA GERENCIA M\nMonto: S/ 6,000\nCódigo: 2@26184771\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE SERVICIO DE LOCADORES SEGUN TERMINO DE REFERENCIA SOLICITADO POR LA GERENCIA M\nMonto: S/ 6,000\nCódigo: 2@26174551\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\n",
+      "sourceIds": [
+        "rtc-92501-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92501-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSTRUCTORA VISION DE FUTURO S.A.C.\nAccionista (10%)\nRUC: 20538687546\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 30/09/2015\nNO HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92501-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92501-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+martin+de+porres&cargo=alcalde-distrital&organizacion=52&candidato=92501",
+      "sha256": "0e105130e20ae45c820c100789d7b5ed5e8bed22dc463e2beafb96803b361cd3",
+      "accessedAt": "2026-10-03T00:26:50.957Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

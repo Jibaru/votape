@@ -1,0 +1,63 @@
+{
+  "candidateId": "WyD0hYvT5rPVR28wX7zV7B3FjH-tXqjw",
+  "facts": [
+    {
+      "id": "rtc-91183-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 4 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "4"
+      },
+      "quote": "CHELO VERDE S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20605342826\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nNO HABIDO\n5 contratos con el Estado · S/ 48,300\nDeuda coactiva: S/ 34,372\nFRANQUICIAS MARIA PASTOR SOCIEDAD ANONIMA CERRADA - FRANQUICIAS MARIA PASTOR S.A.C.\nAccionista (61.88%)\nAdministración\nRepresentante legal\nRUC: 20601415616\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 28/02/2025\nCondición: HABIDO\n5 contratos con el Estado · S/ 51,300\nDeuda coactiva: S/ 10,724\nFRANQUICIAS PERUANAS MP S.A.C.\nAccionista (50%)\nAdministración\nRepre",
+      "sourceIds": [
+        "rtc-91183-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91183-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-91183-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91183-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=21&candidato=91183",
+      "sha256": "da710aa4c3be69b9a8c22d702bdf3a669dc6a758db22dfea0399681438e57682",
+      "accessedAt": "2026-10-03T00:45:35.463Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-91183-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=21&candidato=91183",
+      "sha256": "4e2166e35e4293aa28d34be69e11d1534a39480031c310ae777eed8b2d487b9f",
+      "accessedAt": "2026-10-03T00:45:35.463Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

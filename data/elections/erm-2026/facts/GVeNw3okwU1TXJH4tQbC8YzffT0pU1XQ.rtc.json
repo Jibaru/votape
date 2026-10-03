@@ -1,0 +1,50 @@
+{
+  "candidateId": "GVeNw3okwU1TXJH4tQbC8YzffT0pU1XQ",
+  "facts": [
+    {
+      "id": "rtc-87592-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 980.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 980"
+      },
+      "quote": "RUC: 15400973501\n1 contrato\nS/ 980\nSERVICIOS DE PARQUES DE LIMA\n-INFORME 036-2015/SERPAR-LIMA/GAP/APDM/MML / SERV.DE CONTRAT. DE POLICIAL INDIVIDUALIZADO - PNP MES DE FEBRERO, PARA EL PQ. MIGRANTE\nMonto: S/ 980\nCódigo: 2@3433146\nSERVICIO\nEstado: Contratado\nRUC: 15400973501",
+      "sourceIds": [
+        "rtc-87592-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87592-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CORPORACION ASESORIA JURIDICA: CENTRO DE CAPACITACION ESPECIALIZACION JURIDICA POLICIAL E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20613740733\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 30/06/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87592-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87592-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=38&candidato=87592",
+      "sha256": "b82bdea09118865b3287bf271b8a6d0c39612e394dc367385e7f1ef8a5323b64",
+      "accessedAt": "2026-10-03T01:24:59.508Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

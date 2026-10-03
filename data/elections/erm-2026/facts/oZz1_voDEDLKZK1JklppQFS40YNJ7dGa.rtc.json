@@ -1,0 +1,34 @@
+{
+  "candidateId": "oZz1_voDEDLKZK1JklppQFS40YNJ7dGa",
+  "facts": [
+    {
+      "id": "rtc-90255-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 8 contrato(s) con el Estado por S/ 89,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "8",
+        "montoTotal": "S/ 89,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n8 contratos\nS/ 89,000\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA LEGAL.\nMonto: S/ 7,000\nCódigo: 2@40237040\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA LEGAL.\nMonto: S/ 7,000\nCódigo: 2@40085708\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA LEGAL.\nMonto: S/ 15,000\nCódigo: 2@39384380\nSERVICIO",
+      "sourceIds": [
+        "rtc-90255-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90255-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=miraflores&cargo=alcalde-distrital&organizacion=4&candidato=90255",
+      "sha256": "65be33134959d0b66de6078637a8083a706a60046ec13ad677c853b9e9a4f143",
+      "accessedAt": "2026-10-03T01:18:13.591Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

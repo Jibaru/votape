@@ -1,0 +1,33 @@
+{
+  "candidateId": "QxbXXhNDKh7913jITexmzVb3qHLP8Zqv",
+  "facts": [
+    {
+      "id": "rtc-86696-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "COMPAñIA INMOBILIARIA LOS CONSTRUCTORES S.A.\nAccionista (40%)\nAdministración\nRepresentante legal\nRUC: 20130423575\nSOCIEDAD ANONIMA\nEstado: ACTIVO\nCondición: HABIDO\n3 contratos con el Estado · S/ 583,120\nDeuda coactiva: S/ 63,266",
+      "sourceIds": [
+        "rtc-86696-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86696-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=21&candidato=86696",
+      "sha256": "40aaa6ff0dce67c9bf313aa49da9eb72de801951ca6f0023fe1dfda37383515d",
+      "accessedAt": "2026-10-03T01:21:54.533Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

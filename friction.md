@@ -34,3 +34,11 @@ Registro de fricción del build (skill cli-build). Al final se incorpora al case
 - La lista blanca se fijó en la Q16. Al escribir el catálogo agregué tres medios (Proética, Andina, El Peruano) y los quité antes del commit: ampliar la lista es decisión del usuario.
 - **Falso negativo en la verificación de citas:** El Comercio parte palabras con etiquetas inline ("públic`<…>`a"), y como cada etiqueta se reemplazaba por un espacio, la cita no coincidía. Ahora se compara sin espacios. Se detectó porque el agente afirmaba haber verificado la cita: dos verificadores independientes que no coinciden son una señal que conviene investigar, no descartar.
 - **Recon de RTC incompleto en la v0.1.** Solo se miró la portada y dos páginas de análisis; el usuario encontró las fichas por candidato. El mapeo completo: las páginas `/elecciones-regionales-municipales/candidatos?region&provincia&distrito` traen en sus props de Astro los ids de RTC y el DNI; `/api/candidates/{id}/detail` trae OECE, SUNAT, REDAM, REDJUM, MTC, SERVIR y RNAS. **Su `robots.txt` hace `Disallow: /api/`**: no se automatiza contra la API sin permiso. Lección: una fuente marcada como "pendiente" igual merece un recon completo temprano, porque cambia lo que se le pide al dueño.
+
+## 2026-10-02/03 — RTC por navegador
+
+- **Las páginas de distrito de RTC solo muestran ~3 candidatos por carrera.** La lista completa sale al pulsar "Ver los N candidatos" (que llama a su API). El primer intento encontró 126 de 516; se resolvió abriendo ese diálogo con agent-browser y leyendo las páginas `/lista`, que vienen armadas desde el servidor y traen id y DNI.
+- **Slug de distrito: RTC conserva la ñ.** "brena" no existe; "breña" sí. Faltaban los 16 de Breña. Ahora el script reintenta los distritos que quedaron sin listas distritales.
+- **El RUC de una persona natural (10 + DNI + dígito) contiene el DNI.** Se redacta en todo lo publicado y hay un test.
+- **Umbrales para tránsito:** con una falta "grave" (por ejemplo, el cinturón) o una licencia vencida habría habido ~40 "hallazgos" que no son antecedentes. Solo se publican faltas muy graves y licencias suspendidas o canceladas.
+- **Ritmo:** ~9 s por ficha (4 pestañas, captura de cada una y 3 s de pausa). 516 fichas en ~75 min, sin un solo error.

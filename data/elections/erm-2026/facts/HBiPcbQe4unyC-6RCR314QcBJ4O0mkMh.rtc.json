@@ -1,0 +1,34 @@
+{
+  "candidateId": "HBiPcbQe4unyC-6RCR314QcBJ4O0mkMh",
+  "facts": [
+    {
+      "id": "rtc-7001-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 77,693.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 77,693"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 77,693\nSOCIEDAD DE BENEFICENCIA PUBLICA DE LIMA\nCONTRATACION DE SERVICIO DE CATERING PARA 100 PERSONAS - ACTIVIDAD CULTURAL DE PROYECCIÓN DE PELICULA \"GLORIA DEL PACIFICO\" - REQUERIDA POR LA SUBGERENCIA DE NEGOCIOS - JULIO\nMonto: S/ 4,500\nCódigo: 2@9922028\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nSOCIEDAD DE BENEFICENCIA PUBLICA DE LIMA\nCONTRATACION DE SERVICIO DE CATERING PARA 150 PERSONAS PARA REUNION DEL GRUPO DE TRABAJO DE TRANSFERENCIA REQUERIDO POR LA GERENCIA DE ADMINISTRACIÓN Y FINANZA - JULIO\nMonto: S/ 4,95",
+      "sourceIds": [
+        "rtc-7001-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-7001-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=41&candidato=7001",
+      "sha256": "8a3475af2767805981a018421072bf729f527dc6312ac39f7470b45303284bb3",
+      "accessedAt": "2026-10-03T00:39:38.511Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

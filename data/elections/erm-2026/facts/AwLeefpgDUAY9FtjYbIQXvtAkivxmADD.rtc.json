@@ -1,0 +1,34 @@
+{
+  "candidateId": "AwLeefpgDUAY9FtjYbIQXvtAkivxmADD",
+  "facts": [
+    {
+      "id": "rtc-91078-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 15 contrato(s) con el Estado por S/ 50,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "15",
+        "montoTotal": "S/ 50,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n15 contratos\nS/ 50,000\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nSERVICIO DE GESTION ADMINISTRATIVA A CARGO DE LA SUBGERENCIA DE EDUCACION, CULTURA, SALUD Y DEPORTE DE LA MUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nMonto: S/ 3,000\nCódigo: 2@31274722\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nSERVICIO DE GESTION ADMINISTRATIVA A CARGO DE LA SUBGERENCIA DE EDUCACION, CULTURA, SALUD Y DEPORTE DE LA MUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nMonto: S/ 3,000\nCódigo: 2@28879694\nSERVICIO\nEstado: Contratado\nRUC: [R",
+      "sourceIds": [
+        "rtc-91078-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91078-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=4&candidato=91078",
+      "sha256": "a7599a76a26d7f3d28d89d15fce43dece1a0d08773917f58546c184ec0b00217",
+      "accessedAt": "2026-10-03T00:13:55.688Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

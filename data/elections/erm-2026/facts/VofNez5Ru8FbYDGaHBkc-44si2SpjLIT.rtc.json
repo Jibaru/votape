@@ -1,0 +1,33 @@
+{
+  "candidateId": "VofNez5Ru8FbYDGaHBkc-44si2SpjLIT",
+  "facts": [
+    {
+      "id": "rtc-87430-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "GRUPO SEVIC S.A.C.\nAccionista (95%)\nAdministración\nRepresentante legal\nRUC: 20392940872\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87430-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87430-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=cieneguilla&cargo=alcalde-distrital&organizacion=3&candidato=87430",
+      "sha256": "bfd053a25dc89a90db1e6324bd57f626c6d963e1d82e37c04f84f3fdb6be5b0f",
+      "accessedAt": "2026-10-03T01:14:06.417Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

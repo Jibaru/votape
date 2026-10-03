@@ -1,0 +1,49 @@
+{
+  "candidateId": "yysZuxsoyA4YDtEiZtfmJkLiE1vTHD7f",
+  "facts": [
+    {
+      "id": "rtc-90885-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 27 contrato(s) con el Estado por S/ 57,900.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "27",
+        "montoTotal": "S/ 57,900"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n27 contratos\nS/ 57,900\nMUNICIPALIDAD DISTRITAL DE RIMAC\nCONTRATACIÓN DE LOCADOR DE SERVICIO COMO SUPERVICION PARA LA GERENCIA DE SEGURIDAD CIUDADANA DE LA MUNICIPALIDAD DISTRITAL DEL RÍMAC\nMonto: S/ 4,000\nCódigo: 2@38398157\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE RIMAC\nCONTRATACIÓN DE LOCADOR DE SERVICIO COMO COORDINACIÓN DEL PROGRAMA DE JUVENTUDES PARA LA SUBGERENCIA DE EDUCACIÓN. DEPORTE Y JUVENTUDES DE LA MUNICIPALIDAD DISTRITAL DEL RÍMAC\nMonto: S/ 2,200\nCódigo: 2@37921771\nSERVICIO\nEstado: Contratado\n",
+      "sourceIds": [
+        "rtc-90885-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90885-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "COCHA CAMARGO ANTONIO HARRY\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 11/02/1999\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-90885-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90885-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=34&candidato=90885",
+      "sha256": "57b926cc6aa6f89f1053b4664e9d5fc2ee68500bb41205636323fbc133e75e0e",
+      "accessedAt": "2026-10-03T01:07:05.402Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

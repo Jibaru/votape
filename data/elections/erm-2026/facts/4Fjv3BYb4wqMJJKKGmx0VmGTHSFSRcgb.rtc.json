@@ -1,0 +1,34 @@
+{
+  "candidateId": "4Fjv3BYb4wqMJJKKGmx0VmGTHSFSRcgb",
+  "facts": [
+    {
+      "id": "rtc-91077-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 25,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 25,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 25,000\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nLOCACION DE SERVICIOS\nMonto: S/ 5,000\nCódigo: 2@29362889\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nSERVICIOS PROFESIONALES Y/O PERSONALES PARA PROCURADURIA PUBLICA MUNICIPAL\nMonto: S/ 5,000\nCódigo: 2@28148135\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nSERVICIOS PROFESIONALES Y/O PERSONALES PARA PROCURADURIA PUBLICA MUNICIPAL\nMonto: S/ 5,000\n",
+      "sourceIds": [
+        "rtc-91077-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91077-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=3&candidato=91077",
+      "sha256": "eb701d139aa1dcb71e25ca9a663dd6f7c6458aadb872bb1431cc642e6f60dbdb",
+      "accessedAt": "2026-10-03T00:14:23.053Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

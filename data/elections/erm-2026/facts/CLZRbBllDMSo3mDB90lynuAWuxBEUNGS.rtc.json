@@ -1,0 +1,34 @@
+{
+  "candidateId": "CLZRbBllDMSo3mDB90lynuAWuxBEUNGS",
+  "facts": [
+    {
+      "id": "rtc-31370-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 6,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 6,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 6,000\nMINISTERIO DEL INTERIOR - PNP UE 001 OGA\nGA-CONTRATAR LOS SERVICIOS DE UN ABOGADO PARA PRESTAR ASESORIA EN EL GABINETE DE ASESORES DE LA ALTA DIRECCION.\nMonto: S/ 6,000\nCódigo: 2@5167206\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-31370-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31370-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=1&candidato=31370",
+      "sha256": "3344bde69386c26c36c97890f35541f3da5c4b36cb0a5f021a45d6316fa1bd78",
+      "accessedAt": "2026-10-03T00:11:57.307Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

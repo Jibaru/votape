@@ -26,6 +26,7 @@ Planificado con `grill-me` el 2026-10-02. Cada decisión lleva su número de pre
 | Q16 | Prensa: un agente busca por candidato solo en medios de la lista blanca, la cita es obligatoria y se descartan homónimos. Primero Lima Metropolitana (24), después los distritos (~500) |
 | Q21 | Campo opcional `result` para cargar los resultados de la ONPE después de la elección |
 | Q22 | RTC (revisatucandidato.pe) entra como `agregador`: se cita a RTC + el registro de origen. **Se pide permiso al Consorcio RTC antes de publicar sus datos** |
+| Q22b (2026-10-02) | **Cambio de decisión del usuario:** se navegan las fichas de RTC con un navegador automatizado y se publican sus datos sin esperar el permiso, citando a RTC y al registro de origen. Se informó que el navegador igual llama a `/api/` (excluida en su robots.txt). Las capturas no se publican (muestran DNI y foto): quedan en `.cache`, con su hash en la fuente |
 | Q23 | `data/sources/catalog.json` registra cada proveedor (kind, acceso, licencia, estado del permiso). La CLI expone `source list/get` |
 
 ## Origen del contrato (cli-build Phase 0): **mixto**

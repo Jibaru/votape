@@ -1,0 +1,32 @@
+{
+  "candidateId": "WT8xM7U9LnFlsG9vh4MMT7GNzvA8UjMS",
+  "facts": [
+    {
+      "id": "rtc-93481-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "CALDERON RODRIGUEZ VICTOR MANUEL\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 05/12/1997\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-93481-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93481-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+maria+del+triunfo&cargo=alcalde-distrital&organizacion=3&candidato=93481",
+      "sha256": "79807a5b9a785aa13d5502941ca0c7d04c7e9aaf5bac867d814f2bd3f24fe5f4",
+      "accessedAt": "2026-10-03T00:43:27.286Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

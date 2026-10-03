@@ -1,0 +1,64 @@
+{
+  "candidateId": "oViN9cuNLvOaMHLD34gEbzWsUoQtdO4P",
+  "facts": [
+    {
+      "id": "rtc-87771-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 70,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 70,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 70,000\nMUNICIPALIDAD DISTRITAL DE CHILCA - CANETE\nSERVICIO COMO ASESOR PARA LA GERENCIA DE DESARROLLO HUMANO Y SOCIAL, CORRESPONDIENTE AL MES DE DICIEMBRE 2022\nMonto: S/ 7,000\nCódigo: 2@24577417\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHILCA - CANETE\nSERVICIO COMO ASESOR PARA LA GERENCIA DE DESARROLLO HUMANO Y SOCIAL, CORRESPONDIENTE AL MES DE NOVIEMBRE 2022\nMonto: S/ 7,000\nCódigo: 2@23487003\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHILC",
+      "sourceIds": [
+        "rtc-87771-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87771-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Cancelada.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada"
+      },
+      "quote": "licencia: Cancelada",
+      "sourceIds": [
+        "rtc-87771-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87771-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=31&candidato=87771",
+      "sha256": "329dfa146c21a9cdfdebd6673d49fa7548c30c3046134962efa9d92f93fff834",
+      "accessedAt": "2026-10-03T00:40:05.877Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87771-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=31&candidato=87771",
+      "sha256": "0c1e315bdf50bd7851cc673c43e5ca12201b76dcd38265bec1b826514e3785ba",
+      "accessedAt": "2026-10-03T00:40:05.877Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

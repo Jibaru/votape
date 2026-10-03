@@ -1,0 +1,33 @@
+{
+  "candidateId": "aeOCot28kg7X3O5QD2JuNqKXa_YK1ErI",
+  "facts": [
+    {
+      "id": "rtc-92321-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "INDUSTRIA NOLCA S.A.C.\nAccionista (70%)\nAdministración\nRepresentante legal\nRUC: 20609754975\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92321-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92321-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+anita&cargo=alcalde-distrital&organizacion=21&candidato=92321",
+      "sha256": "752dc2143531be5a235e33afc341b506e35363b919f79476fb9b06d6f987b2fc",
+      "accessedAt": "2026-10-03T01:01:26.758Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

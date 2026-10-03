@@ -1,0 +1,49 @@
+{
+  "candidateId": "n1IJiizCSkhxrKsb9FJXoLs0O9z8xn2F",
+  "facts": [
+    {
+      "id": "rtc-90776-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 27,606.2.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 27,606.2"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 27,606.2\nMUNICIPALIDAD DISTRITAL DE LURIN\nSERVICIO DE FORTALECIMIENTO EN EL PROYECTO DEL REGISTRO DE ORGANIZACIONES SOCIALES\nMonto: S/ 2,500\nCódigo: 2@22042488\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE LA PRODUCCIÓN\nADQUISICIÓN DE TARJETAS DE PRESENTACIÓN PARA LA DIRECCIÓN EJECUTIVA DEL PROGRAMA NACIONAL TU EMPRESA.\nMonto: S/ 106.2\nCódigo: 2@19929110\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nDEPENDENCIA SOLICITANTE: SUBGERENCIA DE EJECUC",
+      "sourceIds": [
+        "rtc-90776-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90776-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "SAMAN BALLARTA MIGUEL ANGEL\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 09/02/2003\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-90776-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90776-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+negra&cargo=alcalde-distrital&organizacion=22&candidato=90776",
+      "sha256": "4431cc73e2e21bc6c2f381bc74c65c6fc3a65d23bb1fc05facda1f6908afa7b6",
+      "accessedAt": "2026-10-03T00:21:22.572Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

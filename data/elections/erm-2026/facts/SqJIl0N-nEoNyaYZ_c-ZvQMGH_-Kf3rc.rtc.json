@@ -1,0 +1,37 @@
+{
+  "candidateId": "SqJIl0N-nEoNyaYZ_c-ZvQMGH_-Kf3rc",
+  "facts": [
+    {
+      "id": "rtc-89803-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "10",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-89803-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89803-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurin&cargo=alcalde-distrital&organizacion=21&candidato=89803",
+      "sha256": "e95a4a692ce364336c562b7d38a2da3cf123c34287cc8d5741edc85f3969ffbb",
+      "accessedAt": "2026-10-03T00:48:38.726Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

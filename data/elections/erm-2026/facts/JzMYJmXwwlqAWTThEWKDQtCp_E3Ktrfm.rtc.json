@@ -1,0 +1,64 @@
+{
+  "candidateId": "JzMYJmXwwlqAWTThEWKDQtCp_E3Ktrfm",
+  "facts": [
+    {
+      "id": "rtc-87429-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 37 contrato(s) con el Estado por S/ 234,950.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "37",
+        "montoTotal": "S/ 234,950"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n37 contratos\nS/ 234,950\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nOP-SERVICIO DE COORDINACIÓN DE EVENTO PARA OCII-UNICO ENTREGABLE-2026\nMonto: S/ 6,000\nCódigo: 2@40162833\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nOP-SERVICIO DE COORDINACIÓN DE EVENTO PARA OCII-UNICO ENTREGABLE-2026\nMonto: S/ 6,000\nCódigo: 2@39870317\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nOP-SERVICIO DE COORDINACIÓN DE EVENTO PARA OCII-UNICO ENTR",
+      "sourceIds": [
+        "rtc-87429-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87429-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 7 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "7",
+        "faltasMuyGraves": "1",
+        "papeletas": "9",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 7 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-87429-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87429-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=cieneguilla&cargo=alcalde-distrital&organizacion=52&candidato=87429",
+      "sha256": "b01381c7f0ec9a071b73147a8581fa8cb1c8822f40c37325c6ca3d91363712f3",
+      "accessedAt": "2026-10-03T01:14:15.549Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87429-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=cieneguilla&cargo=alcalde-distrital&organizacion=52&candidato=87429",
+      "sha256": "114fc2d4e766ed9c026ebe7c2136f31c027960e0b57d852c0eb599bec7ad1c91",
+      "accessedAt": "2026-10-03T01:14:15.549Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

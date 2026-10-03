@@ -1,0 +1,50 @@
+{
+  "candidateId": "8arJCmxIFRiGeW4SMvrj5rml3ai7XduN",
+  "facts": [
+    {
+      "id": "rtc-3279-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 34 contrato(s) con el Estado por S/ 233,653.78.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "34",
+        "montoTotal": "S/ 233,653.78"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n34 contratos\nS/ 233,653.78\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nSERVICIO DE EXTENDIDO DE MATERIAL EN BOTADERO CON MOTONIVELADORA\nMonto: S/ 1,670\nCódigo: 2@1062473\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nADQUISICION DE MADERA TORNILLO\nMonto: S/ 8,036\nCódigo: 2@1059944\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nADQUISICION DE LADRILLO\nMonto: S/ 8,140\nCódigo: 2@838025\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (3",
+      "sourceIds": [
+        "rtc-3279-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-3279-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "FEMOCAR S.A.C.\nAccionista (50%)\nRUC: 20605786783\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n120 contratos con el Estado · S/ 2,755,300.03\nHARUVAL S.A.C.\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20603033605\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n60 contratos con el Estado · S/ 2,958,558.67\nCAR & COFFEE PERU S.A.C\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20606995483\nSOCIEDAD ANONIMA CERRADA\nSUSPENSION TEMPORAL\nCondición: HABIDO\n28 contratos con el Estado · S/ 459,734.9",
+      "sourceIds": [
+        "rtc-3279-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-3279-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+miguel&cargo=alcalde-distrital&organizacion=21&candidato=3279",
+      "sha256": "99441725fd0e26bf2b4f407f07205abe73562b97d3d181c1e3e121b2967d67ea",
+      "accessedAt": "2026-10-03T00:38:34.768Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

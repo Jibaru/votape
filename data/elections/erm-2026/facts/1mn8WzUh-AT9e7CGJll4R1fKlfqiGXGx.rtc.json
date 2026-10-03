@@ -1,0 +1,64 @@
+{
+  "candidateId": "1mn8WzUh-AT9e7CGJll4R1fKlfqiGXGx",
+  "facts": [
+    {
+      "id": "rtc-88323-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 27,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 27,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 27,500\nGOBIERNO REGIONAL DE CAJAMARCA SEDE CENTRAL\nCONTRATACIÓN DE UNA PERSONA NATURAL PARA LA PRESTACIÓN DE SERVICIO COMO APOYO LEGAL PARA LA OFICINA DE ENLACE LIMA DEL GOBIERNO REGIONAL DE CAJAMARCA.\nMonto: S/ 15,000\nCódigo: 2@17343908\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE CAJAMARCA SEDE CENTRAL\nCONTRATACION DE SERVICIOS DE APOYO LEGAL-ABOGADO(A) PARA LA OFICINA DE ENLACE LIMA DEL GOBIERNO REGIONAL DE CAJAMARCA\nMonto: S/ 12,500\nCódigo: 2@15225008\nSERVICIO\nEstado: Contratado\nRUC: [RUC de pers",
+      "sourceIds": [
+        "rtc-88323-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88323-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Suspendida.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Suspendida"
+      },
+      "quote": "licencia: Suspendida",
+      "sourceIds": [
+        "rtc-88323-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88323-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=49&candidato=88323",
+      "sha256": "4d93aeaf100f2fa26c65e7ff4a946dcbc59021ded6e1e6229a9bad76fb698a4b",
+      "accessedAt": "2026-10-03T01:10:35.795Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-88323-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=49&candidato=88323",
+      "sha256": "af2586d20a74f349dd5c8a1c1c3a0cb5158a327d1f138fcd4cc86010e6f1e5d3",
+      "accessedAt": "2026-10-03T01:10:35.795Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

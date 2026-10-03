@@ -1,0 +1,58 @@
+{
+  "candidateId": "2KjCMilm0MVZKtHuPSWZ4SNQiOiGvi-v",
+  "facts": [
+    {
+      "id": "rtc-91087-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "GRUPO STRATA S.A. - G STRATA S.A.\nAccionista (95%)\nRUC: 20601576709\nSOCIEDAD ANONIMA\nBAJA DE OFICIO Fecha de Baja: 31/07/2026\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 12,743\nJURA.PE S.A.C.\nAccionista (97.5%)\nRUC: 20606393441\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nPERNOV GROUP S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20511453993\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 4,881",
+      "sourceIds": [
+        "rtc-91087-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91087-redjum-registered_debt",
+      "category": "registered_debt",
+      "summary": "Según RTC: figura en el Registro de Deudores Judiciales Morosos (REDJUM).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "REDJUM"
+      },
+      "quote": "Exp. 13861\n12 JUZGADO ESPECIALIZADO - LIMA\nOBLIGACIÓN DE DAR SUMA DE DINERO\nAcreedor: PROMOTORA OPCION S.A. EAFC\nDeuda: S/ 17,292.71\nAño: 2014\nResolución: 15/01/2016",
+      "sourceIds": [
+        "rtc-91087-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91087-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=44&candidato=91087",
+      "sha256": "139b9d5b96451c2a960dedc3f8d00d9cdb92b6e7c66a50eae8cff00bef00bed0",
+      "accessedAt": "2026-10-03T00:15:08.834Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-91087-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=44&candidato=91087",
+      "sha256": "ee67f818257f0838c12476868a8f3f5ae9d64cf7348b8e800415fd4e5f297d87",
+      "accessedAt": "2026-10-03T00:15:08.834Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

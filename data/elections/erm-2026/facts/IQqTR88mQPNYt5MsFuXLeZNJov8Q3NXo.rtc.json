@@ -1,0 +1,34 @@
+{
+  "candidateId": "IQqTR88mQPNYt5MsFuXLeZNJov8Q3NXo",
+  "facts": [
+    {
+      "id": "rtc-92069-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 16 contrato(s) con el Estado por S/ 160,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "16",
+        "montoTotal": "S/ 160,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n16 contratos\nS/ 160,200\nGOBIERNO REGIONAL DEL CALLAO - HOSPITAL DANIEL ALCIDES CARRION\nMEMO N° D000254-2026-HNDAC/DG - ASESORIA LEGAL EN PROCESOS ADMINISTRATIVOS - DIRECCION GENERAL\nMonto: S/ 5,400\nCódigo: 2@39259889\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nHOSPITAL DE APOYO DEPARTAMENTAL MARIA AUXILIADORA\nSERVICIO DE CONSULTORIA EN MATERIAL LEGAL ADMINISTRATIVO PARA LA OFICINA DE LOGISTICA- MES OCTUBRE PAO 5103\nMonto: S/ 4,500\nCódigo: 2@10943466\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO DE GESTION",
+      "sourceIds": [
+        "rtc-92069-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92069-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+miguel&cargo=alcalde-distrital&organizacion=41&candidato=92069",
+      "sha256": "5574e702aeeb41eeee36a4b15ab2bbf3ca6ad485709f819d8d42b2bfa2017244",
+      "accessedAt": "2026-10-03T00:39:20.346Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

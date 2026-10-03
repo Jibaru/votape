@@ -1,0 +1,34 @@
+{
+  "candidateId": "M_bhEnT6irV4RQvZC8x_JWUiF5RRofqY",
+  "facts": [
+    {
+      "id": "rtc-91286-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 2,160.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 2,160"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 2,160\nMINISTERIO DE DEFENSA\nCONTRATACIÓN DE DOCENTES PARA LA ECOFFAA, SEGÚN OFICIO Nº 709-2016-MINDEF/VPD/DIGEDOC/ECOFFA/EC\nMonto: S/ 1,680\nCódigo: 2@5889823\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE DEFENSA\nCONTRATACIÓN DE DOCENTES PARA LA ECOFFAA, SEGÚN OFICIO Nº 707-2016-MINDEF/VPD/DIGEDOC/ECOFFA/EC\nMonto: S/ 480\nCódigo: 2@5889757\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91286-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91286-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=11&candidato=91286",
+      "sha256": "4b73ac67acadf12c2d387b6d57b3861f950dfef31f88c72dc18ba18c63c9ba44",
+      "accessedAt": "2026-10-03T00:23:39.564Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

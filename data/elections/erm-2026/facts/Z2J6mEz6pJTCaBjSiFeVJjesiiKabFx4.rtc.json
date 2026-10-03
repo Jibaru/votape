@@ -1,0 +1,34 @@
+{
+  "candidateId": "Z2J6mEz6pJTCaBjSiFeVJjesiiKabFx4",
+  "facts": [
+    {
+      "id": "rtc-88008-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 16 contrato(s) con el Estado por S/ 139,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "16",
+        "montoTotal": "S/ 139,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n16 contratos\nS/ 139,000\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nSERVICIO ESPECIALIZADO EN DERECHO ADMINISTRATIVO Y ADMINISTRACION PUBLICA PARA LA SECRETARÍA GENERAL\nMonto: S/ 7,000\nCódigo: 2@40018139\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nSERVICIO DE LOCADOR\nMonto: S/ 7,000\nCódigo: 2@39599306\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nSERVICIO DE LOCADOR\nMonto: S/ 7,000\nCódigo: 2@39589346\nSERVICIO\nEstado: Contratado\nRUC: [RUC de perso",
+      "sourceIds": [
+        "rtc-88008-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88008-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=4&candidato=88008",
+      "sha256": "1f4d6b3dd444b4e06dddf3aa6ab57a3d00d182f2c2eeba44f24bf382338480bf",
+      "accessedAt": "2026-10-03T00:32:56.510Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

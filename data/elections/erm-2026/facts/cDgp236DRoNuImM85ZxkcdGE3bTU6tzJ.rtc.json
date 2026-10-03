@@ -1,0 +1,50 @@
+{
+  "candidateId": "cDgp236DRoNuImM85ZxkcdGE3bTU6tzJ",
+  "facts": [
+    {
+      "id": "rtc-88530-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 28 contrato(s) con el Estado por S/ 225,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "28",
+        "montoTotal": "S/ 225,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n28 contratos\nS/ 225,000\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE COORDINACION Y APOYO EN EL PROCESO DE SEGUIMIENTO DE GESTION ESTRATEGICA PARA LA GERENCIA MUNICIPAL DE LA MDJM\nMonto: S/ 7,000\nCódigo: 2@39835812\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE COORDINACION Y APOYO EN EL PROCESO DE SEGUIMIENTO DE GESTION ESTRATEGICA PARA LA GERENCIA MUNICIPAL DE LA MDJM\nMonto: S/ 7,000\nCódigo: 2@39652426\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDA",
+      "sourceIds": [
+        "rtc-88530-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88530-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "GRUPO ATELIER S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20601213690\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\n4 contratos con el Estado · S/ 18,153.47\nCORPORACION AMANCAES S.A.C.\nAccionista (28%)\nRUC: 20614706075\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88530-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88530-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=4&candidato=88530",
+      "sha256": "f07572dc4a24c299f4f60ab826a5c0c056e1a89bd313a6e05d417d32adad2ec4",
+      "accessedAt": "2026-10-03T00:31:06.932Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

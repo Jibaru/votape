@@ -1,0 +1,50 @@
+{
+  "candidateId": "IKrx32W0W5_cB9RCpi2ivdWNyfljRVDv",
+  "facts": [
+    {
+      "id": "rtc-88013-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 12 contrato(s) con el Estado por S/ 33,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "12",
+        "montoTotal": "S/ 33,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n12 contratos\nS/ 33,200\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO UNA PERSONA PRESTE SERVICIO COMO EJECUCION Y COORDINACION DE ACTIVIDADES DE CAMPO PARA LA OFICINA DE ABASTECIMIENTO\nMonto: S/ 1,800\nCódigo: 2@37168529\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO UNA PERSONA PRESTE SERVICIOS COMO COORDINADOR DE CAMPO PARA LA SUBGERENCIA DE PARTICIPACION VECINAL\nMonto: S/ 1,800\nCódigo: 2@36876033\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL",
+      "sourceIds": [
+        "rtc-88013-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88013-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "AKEUYURI E.I.R.L.\nAdministración\nRepresentante legal\nRUC: 20605816160\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\n26 contratos con el Estado · S/ 274,742.13",
+      "sourceIds": [
+        "rtc-88013-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88013-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=21&candidato=88013",
+      "sha256": "3ef962bbe9289ceaa9a645ed844067f3680fb9e6eedebaa0e0e8e4237d4bb6f9",
+      "accessedAt": "2026-10-03T00:31:15.960Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

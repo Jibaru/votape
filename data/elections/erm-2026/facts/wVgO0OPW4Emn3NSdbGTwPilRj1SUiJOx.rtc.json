@@ -1,0 +1,63 @@
+{
+  "candidateId": "wVgO0OPW4Emn3NSdbGTwPilRj1SUiJOx",
+  "facts": [
+    {
+      "id": "rtc-90364-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "GESTION INTEGRAL EN RECURSOS HUMANOS S.A.C.\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20515989031\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n2 contratos con el Estado · S/ 28,400",
+      "sourceIds": [
+        "rtc-90364-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90364-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-90364-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90364-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=35&candidato=90364",
+      "sha256": "3da623b2c901083c76ba8c4c812676bcdcb4c7ecf43f6aca78c5a3650ab1f6b1",
+      "accessedAt": "2026-10-03T00:22:17.629Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90364-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=35&candidato=90364",
+      "sha256": "0b5b93cf0d7f4c1d7a8d3c6207c8799e3b28269e3787c73cccc178be96cdf9f5",
+      "accessedAt": "2026-10-03T00:22:17.629Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

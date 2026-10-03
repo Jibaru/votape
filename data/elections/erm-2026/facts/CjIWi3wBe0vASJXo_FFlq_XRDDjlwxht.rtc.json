@@ -1,0 +1,120 @@
+{
+  "candidateId": "CjIWi3wBe0vASJXo_FFlq_XRDDjlwxht",
+  "facts": [
+    {
+      "id": "rtc-90526-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 74,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 74,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 74,500\nMINISTERIO DE DESARROLLO E INCLUSION SOCIAL\nSERVICIO ESPECIALIZADO PARA LA PLANIFICACIÓN, IMPLEMENTACIÓN Y SEGUIMIENTO DE ACTIVIDADES RELACIONAD\nMonto: S/ 30,000\nCódigo: 2@28758182\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE CALLAO SEDE CENTRAL\nSERVICIO DE CONSULTORIA PARA APLICAION MOVIL CIRCU\nMonto: S/ 29,500\nCódigo: 2@19533153\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DEL INTERIOR - PNP UE 001 OGA\nDGPP-CONTRATACIÓN DE SERVICIOS DE UNA (01) PERSONA NATURAL",
+      "sourceIds": [
+        "rtc-90526-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90526-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "EMSYSTEM MED E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20602353436\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 30/12/2025\nCondición: HABIDO\nSin contratos con el Estado\nNOVIMEDICAL GROUP S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20606305878\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-90526-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90526-rnssc-servir-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNSSC-SERVIR (al menos una vigente).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNSSC-SERVIR"
+      },
+      "quote": "DESTITUCIÓN\nORGANISMO DE EVALUACION Y FISCALIZACION AMBIENTAL - OEFA\nDERIVADAS DE LA LEY DEL CÓDIGO DE ÉTICA DE LA FUNCIÓN PUBLICA\nCargo: Jefe de la Oficina de Tecnologías de la Información\nSANCIÓN DISCIPLINARIA\nDesde: 05/02/2025\nHasta: 04/02/2030\nVIGENTE\nInhabilitante",
+      "sourceIds": [
+        "rtc-90526-sanciones"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90526-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "MANCO SUNI ENRIQUE JULIO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 29/05/2000\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-90526-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90526-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Cancelada/conductor inhabilitado.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada/conductor inhabilitado"
+      },
+      "quote": "licencia: Cancelada/conductor inhabilitado",
+      "sourceIds": [
+        "rtc-90526-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90526-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=22&candidato=90526",
+      "sha256": "a21bc9f8c16bcdc9d51c04820471c08aced6098fad1ed7351ade0cc00e539371",
+      "accessedAt": "2026-10-03T01:05:06.306Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90526-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=22&candidato=90526",
+      "sha256": "386ca7668b35870df70db1074a40360346651c83b5a698991de2aa80348ece67",
+      "accessedAt": "2026-10-03T01:05:06.306Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90526-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=22&candidato=90526",
+      "sha256": "5fc420edcba763fb8dc8b1cfec68c5b07005842526f0d4477bc0e227d57a9c47",
+      "accessedAt": "2026-10-03T01:05:06.306Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

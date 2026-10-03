@@ -1,0 +1,34 @@
+{
+  "candidateId": "DffMyTOL3QjBRpvdYvbWKKOvA0bTIA4Z",
+  "facts": [
+    {
+      "id": "rtc-87475-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 16 contrato(s) con el Estado por S/ 52,582.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "16",
+        "montoTotal": "S/ 52,582"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n16 contratos\nS/ 52,582\nUNIVERSIDAD NACIONAL DE EDUCACION ENRIQUE GUZMAN Y VALLE\nACEVEDO SALVATIERRA KAREN ELIZABETH - EP. DE L. EXT. (SETIEMBRE A DICIEMBRE)\nMonto: S/ 12,000\nCódigo: 2@36542607\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DE EDUCACION ENRIQUE GUZMAN Y VALLE\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA - RECTORADO (CIUNE)\nMonto: S/ 6,000\nCódigo: 2@35853456\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DE EDUCACION ENRIQUE GUZMAN Y VALLE\nSERVICIO ESPECIALIZADO",
+      "sourceIds": [
+        "rtc-87475-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87475-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=51&candidato=87475",
+      "sha256": "20d5b5f71311d67c9f7fd5b19ff27a425ce5151d3ca1be712a18cea36dee78b8",
+      "accessedAt": "2026-10-03T00:34:18.709Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

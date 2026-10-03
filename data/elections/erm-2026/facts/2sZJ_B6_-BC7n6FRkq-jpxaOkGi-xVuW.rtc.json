@@ -1,0 +1,50 @@
+{
+  "candidateId": "2sZJ_B6_-BC7n6FRkq-jpxaOkGi-xVuW",
+  "facts": [
+    {
+      "id": "rtc-87760-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 36,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 36,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 36,800\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nSERVICIO DE ELABORACION DE ORDENANZA MUNICPAL EMISION MECANIZADA\nMonto: S/ 16,900\nCódigo: 2@37358738\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nSERVICIO DE ESPECIALISTA EN TRIBUTACION MUNICIPAL A CARGO DE LA GERENCIA DE ADMINISTRACION TRIBUTARIA DE LA MUNICIPALIDAD DISTRITAL DE PUNTA NEGRA\nMonto: S/ 5,000\nCódigo: 2@28689737\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUNTA NEGRA",
+      "sourceIds": [
+        "rtc-87760-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87760-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "J & C CONSULTORIA CONSTRUCCION Y SERVICIOS EN GENERAL S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20451642686\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/08/2017\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87760-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87760-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=49&candidato=87760",
+      "sha256": "7617d0945bf9b20bda6f996915a75407cd3a48acac23b3ce88d1acadb9f23f76",
+      "accessedAt": "2026-10-03T00:40:42.225Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

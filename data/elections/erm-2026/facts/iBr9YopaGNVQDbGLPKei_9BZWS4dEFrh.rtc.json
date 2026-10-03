@@ -1,0 +1,59 @@
+{
+  "candidateId": "iBr9YopaGNVQDbGLPKei_9BZWS4dEFrh",
+  "facts": [
+    {
+      "id": "rtc-92187-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 12 contrato(s) con el Estado por S/ 182,210.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "12",
+        "montoTotal": "S/ 182,210"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n12 contratos\nS/ 182,210\nPROGRAMA NACIONAL CUNA MAS\n5004345.10.UTAI SERVICIO PROFESIONAL DE DISEÑO, DIAGRAMACIÓN E ILUSTRACIÓN DIGITAL DE PUBLICACION CONMEMORATIVA 10 AÑOS\nMonto: S/ 5,500\nCódigo: 2@20842691\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPRESIDENCIA DEL CONSEJO DE MINISTROS\nORH - SERVICIO ESPECIALIZADO EN DISEÑO GRAFICO\nMonto: S/ 18,000\nCódigo: 2@18048335\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPRESIDENCIA DEL CONSEJO DE MINISTROS\nORH - SERVICIO ESPECIALIZADO EN DISEÑO GRÁFICO\nMonto: S/ 18,000\nCód",
+      "sourceIds": [
+        "rtc-92187-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92187-oece-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro OECE.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE"
+      },
+      "quote": "Resumen de sanciones OECE\nRUC: [RUC de persona natural omitido]\nSanciones TCP\n1\nPenalidades\n0\nInhabilitaciones judiciales\n0\nInhabilitaciones administrativas\n0",
+      "sourceIds": [
+        "rtc-92187-sanciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92187-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=4&candidato=92187",
+      "sha256": "3f8a2035bae85c2cc8c7d213c4afdc9373e83b6df97104e8e3ac25e45951b2c2",
+      "accessedAt": "2026-10-03T01:03:44.092Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-92187-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=4&candidato=92187",
+      "sha256": "5ab286d3d3e3ea9a3321bf6bd0e49fceb9605028296a66776f70d08550c0ace8",
+      "accessedAt": "2026-10-03T01:03:44.092Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "MaCh-R3NlRIB8ljJxRU6oZgNTcJR2fKm",
+  "facts": [
+    {
+      "id": "rtc-88018-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 11 contrato(s) con el Estado por S/ 91,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "11",
+        "montoTotal": "S/ 91,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n11 contratos\nS/ 91,200\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nSERVICIO DE ASESOR LEGAL PARA LA SUBGERENCIA DE FORMALIZACIÓN EMPRESARIAL, COMERCIALIZACIÓN Y LICENC\nMonto: S/ 6,400\nCódigo: 2@40175534\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nSERVICIO DE ASESOR LEGAL PARA LA SUB GERENCIA DE FORMALIZACION EMPRESARIAL, COMERCIALIZACION Y LICENCIAS\nMonto: S/ 3,200\nCódigo: 2@40259067\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE INDEPEND",
+      "sourceIds": [
+        "rtc-88018-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88018-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "M & A TRAVEL EXPRESS S.A.C.\nAccionista (95%)\nAdministración\nRepresentante legal\nRUC: 20551972616\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nNO HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 272,694",
+      "sourceIds": [
+        "rtc-88018-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88018-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=39&candidato=88018",
+      "sha256": "8a347cc6d1b2c6b0e19e45b68e0d1c3153b7eb06981ec587cc4f3ea37a0d346b",
+      "accessedAt": "2026-10-03T00:31:25.014Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

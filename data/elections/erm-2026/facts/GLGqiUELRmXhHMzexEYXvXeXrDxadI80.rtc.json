@@ -1,0 +1,64 @@
+{
+  "candidateId": "GLGqiUELRmXhHMzexEYXvXeXrDxadI80",
+  "facts": [
+    {
+      "id": "rtc-89952-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 43 contrato(s) con el Estado por S/ 133,700.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "43",
+        "montoTotal": "S/ 133,700"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n43 contratos\nS/ 133,700\nMUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO\nCONTRATACION DEL SERVICIO DE EVALUACION DE EXPEDIENTES DIVERSOS E INFORMACION RELACIONADA CON EL PRG\nMonto: S/ 2,800\nCódigo: 2@39754176\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO\nCONTRATACION DEL SERVICIO DE EVALUACION DE EXPEDIENTES DIVERSOS E INFORMACION RELACIONADA CON EL P\nMonto: S/ 2,800\nCódigo: 2@39039965\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA M",
+      "sourceIds": [
+        "rtc-89952-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89952-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "30",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-89952-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89952-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pachacamac&cargo=alcalde-distrital&organizacion=22&candidato=89952",
+      "sha256": "49e02b9bb1eb3ea399aebcb388cbd4ab3ceb852d27dbd0de4019475d7aba7cbc",
+      "accessedAt": "2026-10-03T00:12:24.624Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-89952-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pachacamac&cargo=alcalde-distrital&organizacion=22&candidato=89952",
+      "sha256": "19b8ca60563ee2d1f135886b1540ec05c745fc15bafc564f4c66fd5456b89811",
+      "accessedAt": "2026-10-03T00:12:24.624Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

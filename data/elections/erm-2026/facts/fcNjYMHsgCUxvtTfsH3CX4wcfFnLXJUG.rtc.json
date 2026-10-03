@@ -1,0 +1,37 @@
+{
+  "candidateId": "fcNjYMHsgCUxvtTfsH3CX4wcfFnLXJUG",
+  "facts": [
+    {
+      "id": "rtc-90074-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Cancelada.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada"
+      },
+      "quote": "licencia: Cancelada",
+      "sourceIds": [
+        "rtc-90074-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90074-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurigancho&cargo=alcalde-distrital&organizacion=17&candidato=90074",
+      "sha256": "c4c34eec024d702f2d0161d0821a6e3efbb7c62d2206abc351afa4dee4f0946d",
+      "accessedAt": "2026-10-03T00:47:07.050Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

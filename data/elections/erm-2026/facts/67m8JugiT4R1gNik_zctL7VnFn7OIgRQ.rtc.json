@@ -1,0 +1,34 @@
+{
+  "candidateId": "67m8JugiT4R1gNik_zctL7VnFn7OIgRQ",
+  "facts": [
+    {
+      "id": "rtc-90579-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 36 contrato(s) con el Estado por S/ 149,100.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "36",
+        "montoTotal": "S/ 149,100"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n36 contratos\nS/ 149,100\nMUNICIPALIDAD DISTRITAL DE RIMAC\nCONTRATACIÓN DE LOCADOR DE SERVICIO COMO INGENIERO ITSE BASICO (INSPECTOR) PARA LA SUBGERENCIA DE GESTIÓN DEL RIESGO DE DESASTRES Y DEFENSA CIVIL DE LA MUNICIPALIDAD DISTRITAL DEL RÍMAC\nMonto: S/ 3,500\nCódigo: 2@38398639\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nCONTRATACIÓN DE SERVICIO SEGUN TERMINO DE REFERENCIA.\nMonto: S/ 5,800\nCódigo: 2@36580563\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD D",
+      "sourceIds": [
+        "rtc-90579-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90579-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=puente+piedra&cargo=alcalde-distrital&organizacion=49&candidato=90579",
+      "sha256": "082a007021b37221de50a36f2540c330eac15d593c689ac83e2d7fa45ff2e59d",
+      "accessedAt": "2026-10-03T01:12:16.720Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

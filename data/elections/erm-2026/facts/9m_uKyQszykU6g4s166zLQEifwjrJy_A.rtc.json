@@ -1,0 +1,50 @@
+{
+  "candidateId": "9m_uKyQszykU6g4s166zLQEifwjrJy_A",
+  "facts": [
+    {
+      "id": "rtc-88695-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 29 contrato(s) con el Estado por S/ 221,895.48.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "29",
+        "montoTotal": "S/ 221,895.48"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n29 contratos\nS/ 221,895.48\nMUNICIPALIDAD DISTRITAL DE SAN MIGUEL\nSERVICIO DE INSPECCIONES Y PLANEAMIENTO ESTRATEGICO DE DESARROLLO URBANO\nMonto: S/ 5,000\nCódigo: 2@36635900\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MIGUEL\nSERVICIO DE INSPECCIONES Y PLANEAMIENTO ESTRATEGICO DE DESARROLLO URBANO\nMonto: S/ 5,000\nCódigo: 2@36638819\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MIGUEL\nSERVICIO DE INSPECCIONES Y PLANEAMIENTO ESTRATEGICO DE DESARROLLO URBANO\n",
+      "sourceIds": [
+        "rtc-88695-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88695-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "ESTUDIO OCROSPOMA PELLA Y ABOGADOS ASOCIADOS S.CIVIL DE R.L.\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20508745240\nSOCIEDAD CIVIL\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 19,000\nMILEC SERVICIOS EDUCATIVOS SOCIEDAD ANONIMA CERRADA\nAdministración\nRepresentante legal\nRUC: 20601032351\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 27/02/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88695-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88695-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=4&candidato=88695",
+      "sha256": "0643e717eca0d8453dbccc0a708226e49fb7d0baa8a76f31780a488ed0f96f99",
+      "accessedAt": "2026-10-03T00:54:54.111Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

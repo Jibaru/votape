@@ -1,0 +1,75 @@
+{
+  "candidateId": "rEAe_P-g9b2U5xbJHjk7FuI7cdei5NAm",
+  "facts": [
+    {
+      "id": "rtc-88336-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 35,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 35,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 35,000\nFONDO METROPOLITANO DE INVERSIONES\nSERVICIO ESPECIALIZADO EN MATERIA LEGAL\nMonto: S/ 8,000\nCódigo: 2@33662512\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nFONDO METROPOLITANO DE INVERSIONES\nSERVICIO ESPECIALIZADO EN MATERIA LEGAL\nMonto: S/ 16,000\nCódigo: 2@32129581\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE EL AGUSTINO\nSERVICIOS A PRESTAR EN EL AREA DE PROCURADURIA PUBLICA\nMonto: S/ 2,200\nCódigo: 2@4232994\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural om",
+      "sourceIds": [
+        "rtc-88336-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88336-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ESCUELA DE COACHING INTEGRAL PERU S.A.C.\nAccionista (50%)\nRUC: 20604490899\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 1,200",
+      "sourceIds": [
+        "rtc-88336-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88336-rnas-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNAS.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNAS"
+      },
+      "quote": "SUSPENSION\nCOLEGIO DE ABOGADOS DE LIMA\nCOLEGIO DE ABOGADOS DE LIMA - N° N° 50485\nReg. 00581-2025\nDesde: 27/11/2025\nHasta: 27/11/2027\nActiva",
+      "sourceIds": [
+        "rtc-88336-sanciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88336-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=52&candidato=88336",
+      "sha256": "6eb712c2e5da0663e8e6cee51c03a48718a18c02b047d317393ef2c0700bf18d",
+      "accessedAt": "2026-10-03T01:10:26.627Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-88336-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=52&candidato=88336",
+      "sha256": "ab07493f2ea087d7c6b633ca662a717eb733d58c8b3cced7b2219fee5d1c0293",
+      "accessedAt": "2026-10-03T01:10:26.627Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

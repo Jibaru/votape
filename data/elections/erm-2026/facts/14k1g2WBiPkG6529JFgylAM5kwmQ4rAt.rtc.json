@@ -1,0 +1,49 @@
+{
+  "candidateId": "14k1g2WBiPkG6529JFgylAM5kwmQ4rAt",
+  "facts": [
+    {
+      "id": "rtc-92866-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 18 contrato(s) con el Estado por S/ 148,667.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "18",
+        "montoTotal": "S/ 148,667"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n18 contratos\nS/ 148,667\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nSERVICIO DE ANALISIS TECNICO, LEGAL Y TRIBUTARIO SOLICITADO POR LA GERENCIA DE ADMINISTRACION TRIBUTARIA\nMonto: S/ 10,000\nCódigo: 2@40158087\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nSERVICIO DE ASISTENCIA LEGAL TRIBUTARIO SOLICITADO POR LA GERENCIA DE ADMINISTRACION TRIBUTARIA\nMonto: S/ 15,000\nCódigo: 2@39210025\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MIGUEL\nSERVICIO DE PROFESION",
+      "sourceIds": [
+        "rtc-92866-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92866-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "ACO MIRANDA OSCAR MARIO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 24/02/1998\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-92866-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92866-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=41&candidato=92866",
+      "sha256": "c0bc9331bdddb78aa016cc7d40e698d25ad875281fe8e5ec48d35df70dd4bb43",
+      "accessedAt": "2026-10-03T00:28:59.354Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

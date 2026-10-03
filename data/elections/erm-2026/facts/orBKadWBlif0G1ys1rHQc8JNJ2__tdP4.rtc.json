@@ -1,0 +1,34 @@
+{
+  "candidateId": "orBKadWBlif0G1ys1rHQc8JNJ2__tdP4",
+  "facts": [
+    {
+      "id": "rtc-86699-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 3 contrato(s) con el Estado por S/ 7,933.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "3",
+        "montoTotal": "S/ 7,933"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n3 contratos\nS/ 7,933\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE UN ESPECIALISTA PARA LA GERENCIA DE DESARROLLO URBANO, PERIODO: ENERO DEL 2023\nMonto: S/ 5,000\nCódigo: 2@24382899\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ATE - VITARTE\nCONTINUAR CON EL NORMAL CUMPLIMIENTO DE LABORES Y SERVICIOS BRINDADOS A LA COMUNIDAD.\nMonto: S/ 733\nCódigo: 2@2301941\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ATE - VITARTE\nCONTINUAR CON EL NORMAL CUMPLIMIE",
+      "sourceIds": [
+        "rtc-86699-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86699-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=31&candidato=86699",
+      "sha256": "1e36f12b87718af5e59f3e2064c88c74dfbc7c05e0440ec8c9337058446febda",
+      "accessedAt": "2026-10-03T01:20:03.603Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

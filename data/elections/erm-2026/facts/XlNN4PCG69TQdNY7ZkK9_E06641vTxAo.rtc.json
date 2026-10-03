@@ -1,0 +1,34 @@
+{
+  "candidateId": "XlNN4PCG69TQdNY7ZkK9_E06641vTxAo",
+  "facts": [
+    {
+      "id": "rtc-86705-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 560.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 560"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 560\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nPAGO DE LOCADOR DE SERVICIO\nMonto: S/ 560\nCódigo: 2@4949745\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-86705-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86705-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=48&candidato=86705",
+      "sha256": "42ad8281678816b71fe7fdb2610e5d1d31344a932e869f8e6e56bb0bdb7e18ec",
+      "accessedAt": "2026-10-03T01:21:26.332Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

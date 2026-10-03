@@ -1,0 +1,50 @@
+{
+  "candidateId": "PMSqpt7UAUA4GXS4D2fo6ynN0rw5od50",
+  "facts": [
+    {
+      "id": "rtc-93222-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 485,543.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 485,543"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 485,543\nGOBIERNO REGIONAL DE APURIMAC-TRANSPORTES CHANKA\nADQ. DE SEÑALITICAS PARA LA OBRA HUANCARAY.\nMonto: S/ 19,738\nCódigo: 2@39226896\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE APURIMAC-TRANSPORTES CHANKA\nADQ. DE LETREROS PARA SEÑALES INFORMATIVAS Y PREVENTIVAS PARA LA OBRA HUANCARAY.\nMonto: S/ 42,250\nCódigo: 2@39134501\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD PROVINCIAL DE GRAU - CHUQUIBAMBILLA\nADQUISICION DE POSTE DE CONCRETO DE INFORMACION DE KILOMETRAJE PARA P",
+      "sourceIds": [
+        "rtc-93222-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93222-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ABA CORPORACION INDUSTRIAL S.A.C.\nAccionista (10%)\nAdministración\nRepresentante legal\nRUC: 20520778269\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n40 contratos con el Estado · S/ 1,055,209.63\nDeuda coactiva: S/ 26,567",
+      "sourceIds": [
+        "rtc-93222-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93222-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=39&candidato=93222",
+      "sha256": "be1f9d8f19a3d1ee7f54253c522c58f43661d20ec69d5c4724a744195e6bd86b",
+      "accessedAt": "2026-10-03T00:08:35.748Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

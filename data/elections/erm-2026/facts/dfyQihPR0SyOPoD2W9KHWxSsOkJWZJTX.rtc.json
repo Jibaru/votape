@@ -1,0 +1,34 @@
+{
+  "candidateId": "dfyQihPR0SyOPoD2W9KHWxSsOkJWZJTX",
+  "facts": [
+    {
+      "id": "rtc-31384-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 83,065.22.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 83,065.22"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 83,065.22\nMINISTERIO DE LA PRODUCCIÓN\n(ST-3/90) SERVICIO PARA LA VERIFICACIÓN DEL SANEAMIENTO FÍSICO LEGAL EN EL MARCO DE LA ASISTENCIA TÉCNICA A LOS GOBIERNOS LOCALES PARA LA ELABORACIÓN DE LOS EXPEDIENTES TÉCNICOS DE LA CARTERA DE PROYECTOS DE INVERSIÓN DE MERCADOS DE ABASTOS\nMonto: S/ 33,000\nCódigo: 2@21310645\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE CALLAO SEDE CENTRAL\nContratación de Servicio de un Abogado, para la Evaluación del Cumplimiento de los Requisitos p\nMonto: S/ 28,000\nCódigo: 2@19",
+      "sourceIds": [
+        "rtc-31384-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31384-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=35&candidato=31384",
+      "sha256": "883c06e386941fef679814d5f476a6e0a62a61ea9fd266162b0b0149ceefa233",
+      "accessedAt": "2026-10-03T00:09:21.528Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

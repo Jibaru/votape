@@ -1,0 +1,34 @@
+{
+  "candidateId": "dJGOrQSsp2Zi7uEXmIhERtdiIPFiDoXn",
+  "facts": [
+    {
+      "id": "rtc-90523-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 37,850.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 37,850"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 37,850\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nCONTRATACION DE SERVICIO DE UN LOCADOR SEGUN LOS TERMINOS DE REFERENCIA\nMonto: S/ 7,000\nCódigo: 2@30128279\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nCONTRATACION DE SERVICIO DE UN LOCADOR SOLICITADO DE ACUERDO A LOS TERMINOS DE REFERENCIA\nMonto: S/ 7,000\nCódigo: 2@30108213\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nCONTRATACION DE SERVICIO DE UN LOCADOR SO",
+      "sourceIds": [
+        "rtc-90523-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90523-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=21&candidato=90523",
+      "sha256": "dd6c898a69b6c1d052d62ebcf1e16118cacd117076eeeeb636901d98798fb239",
+      "accessedAt": "2026-10-03T01:04:02.325Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

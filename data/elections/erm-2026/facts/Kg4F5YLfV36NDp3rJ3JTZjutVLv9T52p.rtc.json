@@ -1,0 +1,50 @@
+{
+  "candidateId": "Kg4F5YLfV36NDp3rJ3JTZjutVLv9T52p",
+  "facts": [
+    {
+      "id": "rtc-87476-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 76,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 76,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 76,000\nEMPRESA MUNICIPAL ADMINISTRADORA DE PEAJE DE LIMA S.A.\nSERVICIO DE UN COORDINADOR PARA LA OBRA CONSTRUCCION DE PISTA; EN EL(LA) AV. JAVIER PRADO SENTIDO ESTE - OESTE, TRAMO AV. DEL AIRE - AV. SOLIDARIDAD, DISTRITO DE LA VICTORIA, LIMA SNIP: 2404548\nMonto: S/ 4,000\nCódigo: 2@12147965\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nEMPRESA MUNICIPAL ADMINISTRADORA DE PEAJE DE LIMA S.A.\nSERVICIO DE UN COORDINADOR PARA LA OBRA CONSTRUCCION DE PISTA; EN EL(LA) AV. JAVIER PRADO SENTIDO ESTE - OESTE, TRAMO AV. DEL AIRE - AV",
+      "sourceIds": [
+        "rtc-87476-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87476-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CUBAS CONSTRUCCIONES E INMOBILIARIAS S.A.C.\nAccionista (94.5%)\nAdministración\nRepresentante legal\nRUC: 20546714749\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87476-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87476-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=10&candidato=87476",
+      "sha256": "f9597a95f1d8f411991242ffb73873d6101a1ff84927d254bbdbe538c05bacb7",
+      "accessedAt": "2026-10-03T00:34:55.259Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "eHpGuQhTgCKycaF_i04YMEfSoDrW4hyH",
+  "facts": [
+    {
+      "id": "rtc-88324-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 12,600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 12,600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 12,600\nMUNICIPALIDAD DISTRITAL DE EL AGUSTINO\nCONTRATACION DE UNA (1) PERSONA NATURAL, BAJO LA MODALIDAD DE LOCACION DE SERVICIOS (TERCEROS), LOCADORES DE LA GERENCIA DE DESARROLLO ECONOMICO COMO OPERADOR DE LA MUNICIPALIDAD DISTRITAL DE EL AGUSTINO, CORRESPONDIENTE AL MES DE SETIEMBRE DEL 2021.\nMonto: S/ 1,800\nCódigo: 2@18835831\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE EL AGUSTINO\nCONTRATACION DE UNA (1) PERSONA NATURAL, BAJO LA MODALIDAD DE LOCACION DE SERVICIOS (TERCEROS), LOCADORES DE L",
+      "sourceIds": [
+        "rtc-88324-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88324-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=1&candidato=88324",
+      "sha256": "21b52e8e38570a9dbc6bbbfc1170c61f8c4fe1fc5fa3114576ca554edf12fbf2",
+      "accessedAt": "2026-10-03T01:11:30.738Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

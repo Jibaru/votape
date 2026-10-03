@@ -1,0 +1,33 @@
+{
+  "candidateId": "UZrZPESEV0ItD_4uCsDjQYRqfdVQOcRr",
+  "facts": [
+    {
+      "id": "rtc-88019-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "INVERSIONES JHON MICH S.A.C.\nAccionista (55%)\nRUC: 20445588581\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/07/2026\nCondición: HABIDO\n24 contratos con el Estado · S/ 5,182,873.85\nDeuda coactiva: S/ 3,836\nINGENIERIA E INFRAESTRUCTURAS ESPINOZA E.I.R.L.\nAccionista (100%)\nRUC: 20610882073\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA PROV. POR OFICIO Fecha de Baja: 30/06/2026\nCondición: HABIDO\n2 contratos con el Estado · S/ 31,860",
+      "sourceIds": [
+        "rtc-88019-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88019-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=41&candidato=88019",
+      "sha256": "8e6cb46dbe23f482a0e58ea684ad0b718121dbd95a927f0cee4c44080a3d8b62",
+      "accessedAt": "2026-10-03T00:33:32.960Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "OXmVxgo4eVXjy5IWZA_AUs2xvR7me9-d",
+  "facts": [
+    {
+      "id": "rtc-90774-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 23 contrato(s) con el Estado por S/ 309,241.58.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "23",
+        "montoTotal": "S/ 309,241.58"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n23 contratos\nS/ 309,241.58\nMUNICIPALIDAD DISTRITAL DE SAN ANTONIO - CANETE\nSERVICIO DE RETIRO E INSTALACION DE CABLE AEREO DE MEDIA TENSION, BAJA TENSION Y MONTAJE DE TRANSFORMADOR DE DISTRIBUCION EN PLAYAS LA ENSENADA Y PLAYA CHICA.\nMonto: S/ 18,529.5\nCódigo: 2@24262836\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN ANTONIO - CANETE\nSERVICIO DE APOYO TECNICO EN ELECTRICIDAD\nMonto: S/ 796.5\nCódigo: 2@24262742\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN AN",
+      "sourceIds": [
+        "rtc-90774-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90774-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+negra&cargo=alcalde-distrital&organizacion=13&candidato=90774",
+      "sha256": "1e3f027925ce0b3b36f56d27fcdf1dc565ec165cec8c618a7035bde540bf8ba2",
+      "accessedAt": "2026-10-03T00:20:46.255Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

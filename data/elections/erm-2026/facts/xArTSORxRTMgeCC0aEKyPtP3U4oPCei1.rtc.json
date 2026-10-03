@@ -1,0 +1,33 @@
+{
+  "candidateId": "xArTSORxRTMgeCC0aEKyPtP3U4oPCei1",
+  "facts": [
+    {
+      "id": "rtc-90841-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "G Y C SAN JOSE SOCIEDAD ANONIMA CERRADA - G Y C SAN JOSE S.A.C.\nAccionista (1.78%)\nRUC: 20549211870\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n12 contratos con el Estado · S/ 2,698,620\nTRANSPORTES ENCISO S.A.C.\nAccionista (11.11%)\nRUC: 20516042886\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n11 contratos con el Estado · S/ 1,375,079.91\nINVERSIONES INO YONG S.A.C.\nAccionista (11.11%)\nRUC: 20563191075\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-90841-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90841-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+bartolo&cargo=alcalde-distrital&organizacion=21&candidato=90841",
+      "sha256": "c659c3a8ea9138ce426ad133ee5fa17bb114b0bee0665f7cac7c1994c77855c8",
+      "accessedAt": "2026-10-03T01:09:22.348Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "kELVDuxf_WlpZO8k7xR0qBhhshH2b2xf",
+  "facts": [
+    {
+      "id": "rtc-92863-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 13,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 13,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 13,500\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nPOR EL SERVICIO DE COORDINADOR DE AREA DE DEPORTES\nMonto: S/ 2,500\nCódigo: 2@17273784\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN ISIDRO - LIMA\nLOCADOR, GESTOR EN PROMOCION DE MOVILIDAD SOSTENIBLE\nMonto: S/ 3,500\nCódigo: 2@12889718\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nservicio de coordinador del area de deportes por el mes de agosto\nMonto: S/ 2,500\nCódigo: 2@17272018\nSERVICIO\nEst",
+      "sourceIds": [
+        "rtc-92863-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92863-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=24&candidato=92863",
+      "sha256": "a79e8fb655cc642dd0454a95e7fef45cadaaacf203852872239b8057055a42e8",
+      "accessedAt": "2026-10-03T00:28:22.605Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

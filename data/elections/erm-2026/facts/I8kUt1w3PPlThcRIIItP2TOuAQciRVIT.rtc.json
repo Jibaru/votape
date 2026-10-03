@@ -1,0 +1,34 @@
+{
+  "candidateId": "I8kUt1w3PPlThcRIIItP2TOuAQciRVIT",
+  "facts": [
+    {
+      "id": "rtc-4134-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 1,820.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 1,820"
+      },
+      "quote": "RUC: 15503091931\n1 contrato\nS/ 1,820\nFUERZA AEREA DEL PERU\nMÉTODO GENERAL DE SOLUCIÓN DE PROBLEMAS E INFORME DE ESTUDIO DE ESTADO MAYOR\nMonto: S/ 1,820\nCódigo: 2@33145268\nSERVICIO\nEstado: Contratado\nRUC: 15503091931",
+      "sourceIds": [
+        "rtc-4134-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-4134-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=28&candidato=4134",
+      "sha256": "21c060c9597072a60713e1f8c06dd31ed59a77d41fd0c1b267a5d4d4267eca12",
+      "accessedAt": "2026-10-03T00:27:45.486Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

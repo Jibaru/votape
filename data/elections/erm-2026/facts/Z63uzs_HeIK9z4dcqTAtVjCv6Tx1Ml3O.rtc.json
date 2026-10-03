@@ -1,0 +1,34 @@
+{
+  "candidateId": "Z63uzs_HeIK9z4dcqTAtVjCv6Tx1Ml3O",
+  "facts": [
+    {
+      "id": "rtc-8937-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 22,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 22,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 22,000\nMINISTERIO DE SALUD\nS/T-2/50 SERVICIO ESPECIALIZADO EN PROGRAMAS PRESUPUESTALES PARA LA OPEE DE LA OGPPM\nMonto: S/ 22,000\nCódigo: 2@38797562\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-8937-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-8937-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=35&candidato=8937",
+      "sha256": "53c4fa699a96176289ee80448b30374b17d36e73c7b0308c2d982c9e2fbb0033",
+      "accessedAt": "2026-10-03T00:27:36.422Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

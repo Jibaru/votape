@@ -1,0 +1,33 @@
+{
+  "candidateId": "i4oTeDol1f6l4yNeKGG3hOWJYFpp0gJi",
+  "facts": [
+    {
+      "id": "rtc-87144-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "PERU AGREGADOS GENERALES S.R.L.\nAccionista (33.33%)\nRUC: 20555435429\nSOC.COM.RESPONS. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 41,984.4",
+      "sourceIds": [
+        "rtc-87144-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87144-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=35&candidato=87144",
+      "sha256": "fd9cee4622f54c650c7ff958ee71fda3551e82fb1286f82a050a8c41a00e1e65",
+      "accessedAt": "2026-10-03T00:50:37.402Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

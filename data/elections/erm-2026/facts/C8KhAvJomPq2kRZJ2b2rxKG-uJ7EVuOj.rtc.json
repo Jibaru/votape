@@ -1,0 +1,34 @@
+{
+  "candidateId": "C8KhAvJomPq2kRZJ2b2rxKG-uJ7EVuOj",
+  "facts": [
+    {
+      "id": "rtc-89234-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 27 contrato(s) con el Estado por S/ 456,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "27",
+        "montoTotal": "S/ 456,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n27 contratos\nS/ 456,000\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\n(ST 2/60) DDP/13924 SERVICIO EN MATERIA LEGAL PARA REALIZAR LA EVALUACIÓN DEL DESARROLLO LOS PROCESO\nMonto: S/ 18,000\nCódigo: 2@36910966\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\n(ST 1/30) DDP/11606 SERVICIO EN MATERIA LEGAL PARA REALIZAR LA EVALUACIÓN DEL DESARROLLO LOS PROCESO\nMonto: S/ 9,000\nCódigo: 2@36410827\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\n(SP ",
+      "sourceIds": [
+        "rtc-89234-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89234-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=31&candidato=89234",
+      "sha256": "54773b4d4cab4bb8281c4d1c07bdc67dd498866b17eb7de7261a09531cf33c6f",
+      "accessedAt": "2026-10-03T00:35:31.640Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

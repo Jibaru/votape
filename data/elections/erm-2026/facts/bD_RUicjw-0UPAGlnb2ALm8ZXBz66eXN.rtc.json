@@ -1,0 +1,50 @@
+{
+  "candidateId": "bD_RUicjw-0UPAGlnb2ALm8ZXBz66eXN",
+  "facts": [
+    {
+      "id": "rtc-31377-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 17,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 17,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 17,500\nMINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO - Administración General\nContratar los servicios de un Especialista en Gestión Pública\nMonto: S/ 17,500\nCódigo: 1@53668\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-31377-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-31377-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ESYSTEL S.A.C.\nAccionista (33.33%)\nAdministración\nRepresentante legal\nRUC: 20535670618\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 7,500",
+      "sourceIds": [
+        "rtc-31377-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31377-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=10&candidato=31377",
+      "sha256": "31484269b26766a2f9ae107159f927792b283e31a00c45e5fc7ba063a514d0b2",
+      "accessedAt": "2026-10-03T00:10:43.771Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

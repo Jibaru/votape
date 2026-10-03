@@ -1,0 +1,74 @@
+{
+  "candidateId": "bj99pMqZDWHGbxTnjSsi95zfSsvxJ3lK",
+  "facts": [
+    {
+      "id": "rtc-86685-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 35,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 35,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 35,000\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSERVICIOS POR TERCEROS\nMonto: S/ 10,000\nCódigo: 2@23603516\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSERVICIO POR TERCERO\nMonto: S/ 5,000\nCódigo: 2@23546762\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSERVICIOS DE TERCEROS POR EL MES DE AGOSTO 2022\nMonto: S/ 5,000\nCódigo: 2@23190198\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\n",
+      "sourceIds": [
+        "rtc-86685-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-86685-rnssc-servir-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNSSC-SERVIR (al menos una vigente).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNSSC-SERVIR"
+      },
+      "quote": "SUSPENSIÓN\nUNIDAD DE GESTION EDUCATIVA LOCAL 06 VITARTE\nLAS AUSENCIAS INJUSTIFICADAS.\nCargo: Auxiliar de Educación\nSANCIÓN DISCIPLINARIA\nDesde: 09/10/2025\nHasta: 08/10/2026\nVIGENTE",
+      "sourceIds": [
+        "rtc-86685-sanciones"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-86685-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "RIVERA GUERRA WALTER JESUS\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 07/05/1997\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-86685-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86685-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=49&candidato=86685",
+      "sha256": "2a7c0a5fcb66ba6c00221455d741cb1f2913a67c56d5237e2f0d9214ff93a839",
+      "accessedAt": "2026-10-03T01:22:03.682Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-86685-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=49&candidato=86685",
+      "sha256": "7c1c07476eec45e9f5469889eb8b0c722ae8ad2740f9ba66a81658b4606eb24e",
+      "accessedAt": "2026-10-03T01:22:03.682Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "candidateId": "dIPA9al3nPPyp891oW2NZ0T8hQo5rn2S",
+  "facts": [
+    {
+      "id": "rtc-90589-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "MMA CONTRATISTAS S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20600971132\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/07/2024\nCondición: HABIDO\n7 contratos con el Estado · S/ 5,943,247.58\nDeuda coactiva: S/ 21,069",
+      "sourceIds": [
+        "rtc-90589-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90589-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "2",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-90589-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90589-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=puente+piedra&cargo=alcalde-distrital&organizacion=52&candidato=90589",
+      "sha256": "ebd5a802f765a799364a80046c6c38e5e66d9e4808fddf6bfe64eef4b1de8dbe",
+      "accessedAt": "2026-10-03T01:11:58.538Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90589-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=puente+piedra&cargo=alcalde-distrital&organizacion=52&candidato=90589",
+      "sha256": "de27fa5384963b8cdb6000f4eab76869b8da95a678e7898ae06fdb3f06a09024",
+      "accessedAt": "2026-10-03T01:11:58.538Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

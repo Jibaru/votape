@@ -1,0 +1,50 @@
+{
+  "candidateId": "kPZqe23ckxyr3hP1oMVLPBuMPhv4bsAF",
+  "facts": [
+    {
+      "id": "rtc-89348-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 71,201.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 71,201"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 71,201\nGOBIERNO REGIONAL DE LIMA SEDE CENTRAL\nSERV. COORDINADOR DE AREA TRANSPORT Y ADMINISTRADOR A CARGO DE LA DRTC\nMonto: S/ 5,500\nCódigo: 2@29982800\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE LIMA SEDE CENTRAL\nSERVICIO DE COORDINADOR DEL AREA DE TRASNPORTES\nMonto: S/ 5,500\nCódigo: 2@29972838\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE LIMA SEDE CENTRAL\nSERVICIO DE COODINADOR Y ADMINISTRADOR PARA TRANSPORTES\nMonto: S/ 4,217\nCódigo: 2@29972517\nSERVICIO\nE",
+      "sourceIds": [
+        "rtc-89348-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89348-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ENTIDAD DE CAPACITACION INTEGRAL AMAUTA SOCIEDAD ANONIMA CERRADA-ECI AMAUTA S.A.C.\nAdministración\nRepresentante legal\nRUC: 20522606554\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89348-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89348-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=49&candidato=89348",
+      "sha256": "01db194c171b77e5ea4c3296ef61c4b8aa1434e34e0abe6af6c94fc63bdf78b2",
+      "accessedAt": "2026-10-03T01:15:19.896Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

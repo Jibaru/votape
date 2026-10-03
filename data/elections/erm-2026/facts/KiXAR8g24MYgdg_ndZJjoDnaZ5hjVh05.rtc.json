@@ -1,0 +1,37 @@
+{
+  "candidateId": "KiXAR8g24MYgdg_ndZJjoDnaZ5hjVh05",
+  "facts": [
+    {
+      "id": "rtc-89350-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 2 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "2",
+        "faltasMuyGraves": "1",
+        "papeletas": "3",
+        "puntosAcumulados": "80",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 2 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-89350-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89350-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=4&candidato=89350",
+      "sha256": "354f733b16139f4ff2760db8cdb9d0d64e8fe1f67e099eca0ececebaaf6d5fe4",
+      "accessedAt": "2026-10-03T01:15:01.058Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

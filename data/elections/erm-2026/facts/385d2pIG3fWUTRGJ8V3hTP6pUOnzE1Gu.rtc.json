@@ -1,0 +1,50 @@
+{
+  "candidateId": "385d2pIG3fWUTRGJ8V3hTP6pUOnzE1Gu",
+  "facts": [
+    {
+      "id": "rtc-91776-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 13 contrato(s) con el Estado por S/ 184,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "13",
+        "montoTotal": "S/ 184,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n13 contratos\nS/ 184,500\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nLOCACION DE SERVICIOS\nMonto: S/ 13,500\nCódigo: 2@29363818\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nLOCACION DE SERVICIOS\nMonto: S/ 13,500\nCódigo: 2@29362984\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nLOCACION DE SERVICIOS\nMonto: S/ 13,500\nCódigo: 2@29362648\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (10 más)",
+      "sourceIds": [
+        "rtc-91776-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91776-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "SERVILAB MEDICOS ASOCIADOS S.A.C.\nAccionista (98%)\nAdministración\nRepresentante legal\nRUC: 20604989893\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n3 contratos con el Estado · S/ 105,535.36",
+      "sourceIds": [
+        "rtc-91776-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91776-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=3&candidato=91776",
+      "sha256": "f42b321039d8a554b5876566d5362a84f0bfa5dd6b2e5d55322003a5108d4081",
+      "accessedAt": "2026-10-03T00:16:58.346Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

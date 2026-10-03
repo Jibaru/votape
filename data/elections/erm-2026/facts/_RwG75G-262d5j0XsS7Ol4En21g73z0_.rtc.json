@@ -1,0 +1,33 @@
+{
+  "candidateId": "_RwG75G-262d5j0XsS7Ol4En21g73z0_",
+  "facts": [
+    {
+      "id": "rtc-91775-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "EMPRESA DE SERVICIOS CONFECCIONES AARON YARANGA SAC - ESCAY SAC\nAccionista (15%)\nRUC: 20514371017\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-91775-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91775-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=1&candidato=91775",
+      "sha256": "1c15f601e3f9073c0995d25461327a73d1d21c38e944739269b7846725e1a01a",
+      "accessedAt": "2026-10-03T00:17:35.064Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

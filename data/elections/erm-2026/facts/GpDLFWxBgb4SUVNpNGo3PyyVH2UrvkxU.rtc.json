@@ -1,0 +1,50 @@
+{
+  "candidateId": "GpDLFWxBgb4SUVNpNGo3PyyVH2UrvkxU",
+  "facts": [
+    {
+      "id": "rtc-90248-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 20,878.6.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 20,878.6"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 20,878.6\nMUNICIPALIDAD DISTRITAL DE LOS OLIVOS (LAS PALMERAS)\nCCP 278.-ADQUISICION DE PARLANTES,EQUIPO DE SONIDO,MEGAFONO Y MICROFONOS SEGUN INFORME 188-2019/MDLO/GDH.-LUGAR DE ENTREGA: ALMACEN GENERAL DE MDLO.-PLAZO DE ENTREGA:SIETE(07)DIAS CALENDARIO CONTADOS A PARTIR DEL DIA SIGUIENTE DE NOTIFICADO LA ORDENDE COMPRA.-TODOS LOS DEMAS ASPECTOS NO CONTEMPLADOS EN LOS TERMINOS DE REFERENCIA, SE REGIRAN SEGUN LO ESTABLECIDO EN LA LEY DE CONTRATACIONES DEL ESTADO Y SU REGLAMENTO.\nMonto: S/ 12,378.6\nCódigo: 2@11672859\nBIEN\nEstado: Contratado\nRUC",
+      "sourceIds": [
+        "rtc-90248-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90248-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "EWB LODGING & ADVERTISING S.A.C. EN LIQUIDACION\nAccionista (5%)\nRUC: 20546833594\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n22 contratos con el Estado · S/ 311,333.15\nGRUPO DJ S.A.C.\nAccionista (60%)\nAdministración\nRepresentante legal\nRUC: 20604010986\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-90248-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90248-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=miraflores&cargo=alcalde-distrital&organizacion=11&candidato=90248",
+      "sha256": "dfbb07e6d019105138218a0c933eddbf7d2ce027c558a7dfcb15e8065d75a9d3",
+      "accessedAt": "2026-10-03T01:18:04.442Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

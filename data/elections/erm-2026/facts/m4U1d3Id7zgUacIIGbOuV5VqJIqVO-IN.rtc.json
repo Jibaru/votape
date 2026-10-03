@@ -1,0 +1,33 @@
+{
+  "candidateId": "m4U1d3Id7zgUacIIGbOuV5VqJIqVO-IN",
+  "facts": [
+    {
+      "id": "rtc-31383-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 4 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "4"
+      },
+      "quote": "ANDINA TECHNOLOGIES SAC\nAdministración\nRUC: 20515552791\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n53 contratos con el Estado · S/ 23,843,812.17\nBENOV S.A.C\nAdministración\nRUC: 20538426742\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n5 contratos con el Estado · S/ 141,100\nHPEX OBRAS Y PROYECTOS S.A.C.S\nAccionista (34%)\nAdministración\nRepresentante legal\nRUC: 20612248835\nSOC.POR ACCIONES CERRADA SIMPLIFICA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nVer más (1 más)",
+      "sourceIds": [
+        "rtc-31383-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31383-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=54&candidato=31383",
+      "sha256": "c26004eb410f7fb8db4c5bd791c254a8a47cdfa469cc3362b05a3709160c71cc",
+      "accessedAt": "2026-10-03T00:10:16.430Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

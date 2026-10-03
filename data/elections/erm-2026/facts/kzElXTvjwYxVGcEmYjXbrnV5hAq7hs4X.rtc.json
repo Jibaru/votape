@@ -1,0 +1,34 @@
+{
+  "candidateId": "kzElXTvjwYxVGcEmYjXbrnV5hAq7hs4X",
+  "facts": [
+    {
+      "id": "rtc-92498-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 14,600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 14,600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 14,600\nORGANISMO SUPERVISOR DE LAS CONTRATACIONES DEL ESTADO\nSERVICIO PARA INVEST, ANÁLISIS, IDEACIÓN, PROTOTIPADO Y TESTEO CUADERNO DE OBRAS, 65D, 6009 SGE\nMonto: S/ 14,600\nCódigo: 2@12929654\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92498-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92498-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+martin+de+porres&cargo=alcalde-distrital&organizacion=35&candidato=92498",
+      "sha256": "e8fa27417585ac031e6a46161ad9dac52c14af26b57f6ccc12166ee0745dba30",
+      "accessedAt": "2026-10-03T00:27:09.106Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "bv3RVmi6tduIkhoksdwvn6AZl8rxWgv9",
+  "facts": [
+    {
+      "id": "rtc-89236-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 14,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 14,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 14,000\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nSERVICIO DE CAPACITACION A 150 PERSONAS DE EQUIPO MEDICO AL PERSONAL INTERNO DEL VASO DE LECHE DOCENTES Y VECINOS\nMonto: S/ 14,000\nCódigo: 2@8901887\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-89236-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89236-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ASISTENCIA EN SALUD, EMERGENCIAS Y DESASTRES\nAdministración\nRepresentante legal\nRUC: 20601771412\nASOCIACION\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89236-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89236-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=35&candidato=89236",
+      "sha256": "99d6189587565c303dd33099a68a5633f733425b85b226ece3cd730798f9bb3a",
+      "accessedAt": "2026-10-03T00:35:40.890Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

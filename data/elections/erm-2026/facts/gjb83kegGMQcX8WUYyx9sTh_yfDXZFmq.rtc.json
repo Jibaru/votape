@@ -1,0 +1,37 @@
+{
+  "candidateId": "gjb83kegGMQcX8WUYyx9sTh_yfDXZFmq",
+  "facts": [
+    {
+      "id": "rtc-86690-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 3 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "3",
+        "faltasMuyGraves": "1",
+        "papeletas": "4",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 3 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-86690-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86690-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=10&candidato=86690",
+      "sha256": "a55cac8bacf615ee0113f2ee4b33c84ff91bc8e6d461fb815bd14a241f8cf57a",
+      "accessedAt": "2026-10-03T01:21:35.750Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

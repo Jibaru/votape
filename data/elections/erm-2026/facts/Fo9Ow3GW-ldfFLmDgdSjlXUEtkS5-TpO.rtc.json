@@ -1,0 +1,34 @@
+{
+  "candidateId": "Fo9Ow3GW-ldfFLmDgdSjlXUEtkS5-TpO",
+  "facts": [
+    {
+      "id": "rtc-87590-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 17 contrato(s) con el Estado por S/ 36,400.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "17",
+        "montoTotal": "S/ 36,400"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n17 contratos\nS/ 36,400\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE PROMOTOR\nMonto: S/ 2,200\nCódigo: 2@28583289\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE PROMOTOR\nMonto: S/ 4,400\nCódigo: 2@29004092\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE PROMOTOR\nMonto: S/ 4,400\nCódigo: 2@29000331\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (14 más)",
+      "sourceIds": [
+        "rtc-87590-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87590-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=35&candidato=87590",
+      "sha256": "3eadd0ee981e4be6822b41f1dd093a1a0fb85bfc4854ff72596f73e6a89a2892",
+      "accessedAt": "2026-10-03T01:23:03.697Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "ul6VD9gHAb657bqNGFK13euPVC0UhUvm",
+  "facts": [
+    {
+      "id": "rtc-4606-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 22 contrato(s) con el Estado por S/ 100,900.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "22",
+        "montoTotal": "S/ 100,900"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n22 contratos\nS/ 100,900\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nCOORDINADOR DE RECUPERACIÓN EN ESPACIOS PÚBLICOS\nMonto: S/ 1,400\nCódigo: 2@35912651\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nCOORDINADOR DE RECUPERACIÓN EN ESPACIOS PÚBLICOS.\nMonto: S/ 9,000\nCódigo: 2@35684660\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nCOORDINADOR DE RECUPERACIÓN EN ESPACIOS PÚBLICOS.\nMonto: S/ 9,000\nCódigo: 2@33685521\nSE",
+      "sourceIds": [
+        "rtc-4606-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-4606-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=31&candidato=4606",
+      "sha256": "32d8f51b104dbfdb860ff4ebbc5d39aca147e17744d10bb46e8728add154f370",
+      "accessedAt": "2026-10-03T01:10:17.496Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

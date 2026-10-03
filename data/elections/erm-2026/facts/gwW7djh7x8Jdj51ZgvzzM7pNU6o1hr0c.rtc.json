@@ -1,0 +1,50 @@
+{
+  "candidateId": "gwW7djh7x8Jdj51ZgvzzM7pNU6o1hr0c",
+  "facts": [
+    {
+      "id": "rtc-92315-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 8 contrato(s) con el Estado por S/ 39,950.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "8",
+        "montoTotal": "S/ 39,950"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n8 contratos\nS/ 39,950\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nSERVICIO DE REVISIÓN Y ACTUALIZACIÓN DE PLANOS DE DIAGRAMAS UNIFILARES, TABLEROS ELÉCTRICOS, CUADROS\nMonto: S/ 3,700\nCódigo: 2@40237196\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nSERVICIO DE REVISIÓN Y ACTUALIZACIÓN DE PLANOS DE DIAGRAMAS UNIFILARES, TABLEROS ELÉCTRICOS, CUADROS\nMonto: S/ 3,700\nCódigo: 2@40085979\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nS",
+      "sourceIds": [
+        "rtc-92315-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92315-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "CORPORACION KUNTUY S.A.C.\nAccionista (95%)\nAdministración\nRepresentante legal\nRUC: 20608012355\nSOCIEDAD ANONIMA CERRADA\nBAJA PROV. POR OFICIO Fecha de Baja: 31/07/2026\nCondición: HABIDO\nSin contratos con el Estado\nGRUPO EMPRESARIAL OHLALA S.A.C.\nAccionista (50%)\nRUC: 20600815556\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92315-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92315-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+anita&cargo=alcalde-distrital&organizacion=49&candidato=92315",
+      "sha256": "d820b35612d88f89d4c66a11b645449b4bedf54fcd4ed5c5009bd4ba9264e068",
+      "accessedAt": "2026-10-03T01:00:59.348Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

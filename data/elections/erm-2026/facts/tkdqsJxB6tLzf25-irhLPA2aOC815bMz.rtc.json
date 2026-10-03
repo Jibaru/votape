@@ -1,0 +1,34 @@
+{
+  "candidateId": "tkdqsJxB6tLzf25-irhLPA2aOC815bMz",
+  "facts": [
+    {
+      "id": "rtc-31369-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 69,300.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 69,300"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 69,300\nINSTITUTO NACIONAL DE RADIO, TELEVISION DEL PERU\nSERVICIO ARTISTICO EN LA CONDUCCION DEL PROGRAMA MAS CONECTADOS\nMonto: S/ 16,500\nCódigo: 2@28957230\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO NACIONAL DE RADIO, TELEVISION DEL PERU\nSERVICIOS ARTISTICOS EN LA CONDUCCIÓN DEL PROGRAMA MAS CONECTADOS,\nMonto: S/ 16,500\nCódigo: 2@28626161\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO NACIONAL DE RADIO, TELEVISION DEL PERU\nServicios Artisticos en la Conducción del programa Cuerpo ",
+      "sourceIds": [
+        "rtc-31369-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31369-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=49&candidato=31369",
+      "sha256": "2b5fa1dbee84150887be10e1e9ed8ce3b4983126cd6b69e7be9b2f60b6a90069",
+      "accessedAt": "2026-10-03T00:08:44.945Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

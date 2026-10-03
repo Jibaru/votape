@@ -1,0 +1,34 @@
+{
+  "candidateId": "1-pnsOQyjmFkL8I0aYkOcTLN3h_64E3q",
+  "facts": [
+    {
+      "id": "rtc-90587-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 19 contrato(s) con el Estado por S/ 58,300.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "19",
+        "montoTotal": "S/ 58,300"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n19 contratos\nS/ 58,300\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSUPERVISION DE PROGRAMAS SOCIALES-SG SERVICIOS SOCIALES-JULIO 2025\nMonto: S/ 2,500\nCódigo: 2@39131087\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSERVICIO DE SUPERVISION DE PROGRAMAS SOCIALES - SUBGERENCIA DE SERVICIOS SOCIALES - MAYO Y JUNIO2025\nMonto: S/ 5,000\nCódigo: 2@39119947\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSUPERVISION DE PROGRAMAS ",
+      "sourceIds": [
+        "rtc-90587-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90587-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=puente+piedra&cargo=alcalde-distrital&organizacion=35&candidato=90587",
+      "sha256": "2d3bb500e7917f506df8d2aeb42cf4a1447e37ca7e0f5b65dc14dab980ff3b7c",
+      "accessedAt": "2026-10-03T01:11:49.255Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

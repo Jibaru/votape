@@ -1,0 +1,50 @@
+{
+  "candidateId": "zdXad-kRXGMsqrZoQQ37ERqvWN4nII1q",
+  "facts": [
+    {
+      "id": "rtc-89232-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 11 contrato(s) con el Estado por S/ 143,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "11",
+        "montoTotal": "S/ 143,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n11 contratos\nS/ 143,000\nAUTORIDAD NACIONAL DEL AGUA\nSERVICIO DE GESTION DE LA COMUNICACION INSTITUCIONAL - GG\nMonto: S/ 20,000\nCódigo: 2@38176535\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nSUPERINTENDENCIA NACIONAL DE CONTROL DE SERVICIOS SEGURIDAD,ARMAS,MUNICIONES Y EXPLOSIVOS USO CIVIL\nSERVICIO ESPECIALIZADO EN ASESORÍA Y COORDINACIÓN COMUNICACIONAL DE LAS JEFATURAS ZONALES PARA LA UOPS\nMonto: S/ 14,000\nCódigo: 2@38797343\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nGOBIERNO REGIONAL DE LAMBAYEQUE SEDE CENTRAL\n",
+      "sourceIds": [
+        "rtc-89232-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89232-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "RESTAURANTE EL CASCAJAL SOCIEDAD ANONIMA CERRADA - RESTAURANTE EL CASCAJAL S.A.C.\nAccionista (25%)\nRUC: 20565897081\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n9 contratos con el Estado · S/ 85,507.9\nDeuda coactiva: S/ 2,583\nLIMICHETS INVERSIONES E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20552122951\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n2 contratos con el Estado · S/ 209,000",
+      "sourceIds": [
+        "rtc-89232-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89232-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=21&candidato=89232",
+      "sha256": "a0f9379d3e9e27618832df601569e3becf9ecc7d49933fc67a33af83f498f362",
+      "accessedAt": "2026-10-03T00:35:50.056Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

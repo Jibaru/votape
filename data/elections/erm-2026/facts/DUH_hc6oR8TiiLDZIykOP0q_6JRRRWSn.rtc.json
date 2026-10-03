@@ -1,0 +1,34 @@
+{
+  "candidateId": "DUH_hc6oR8TiiLDZIykOP0q_6JRRRWSn",
+  "facts": [
+    {
+      "id": "rtc-89240-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 55,833.33.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 55,833.33"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 55,833.33\nSUPERINTENDENCIA DE TRANSPORTE TERRESTRE DE PERSONAS, CARGA Y MERCANCIAS\nSERVICIO DE INVETARIO FISICO DE BIENES PATRIMONIALES DE LA SUTRAN, CORRESPONDIENTE AL EJERCICIO\nMonto: S/ 5,833.33\nCódigo: 2@12863422\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO TECNOLOGICO DE LA PRODUCCION\nSERVICIO DE UN APOYO PARA CONTROL / MEMO N° 4670-2017-ITP/ABAST-CP\nMonto: S/ 2,500\nCódigo: 2@7785378\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO TECNOLOGICO DE LA PRODUCCION\nSERVICIO PARA PATR",
+      "sourceIds": [
+        "rtc-89240-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89240-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=24&candidato=89240",
+      "sha256": "129507b5c5d4f5c088a098ba006372352aedb0fef0066dfe83d79f8dbdaa906e",
+      "accessedAt": "2026-10-03T00:36:17.439Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

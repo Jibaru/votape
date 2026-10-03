@@ -1,0 +1,34 @@
+{
+  "candidateId": "T4vnINnU1oGP2SKqKVaJlQNevNv8mJiE",
+  "facts": [
+    {
+      "id": "rtc-88702-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 3 contrato(s) con el Estado por S/ 55,349.6.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "3",
+        "montoTotal": "S/ 55,349.6"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n3 contratos\nS/ 55,349.6\nMUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE - LIMA\nSERVICIO DE TERCERO\nMonto: S/ 10,389.6\nCódigo: 2@3578930\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE - LIMA\nSERVICIO DE UN ABOGADO ASISTENTE ADMINISTRATIVO PARA LA GERENCIA DE ADMINISTRACIÓN Y FINANZAS\nMonto: S/ 39,960\nCódigo: 1@963413\nSERVICIO\nEstado: Contratado\nFin: 2016-02-29T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE - LIMA\ntercero\nMonto: S/ 5,000\nCódigo: 2@2206671\nSERV",
+      "sourceIds": [
+        "rtc-88702-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88702-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=39&candidato=88702",
+      "sha256": "72ec0eb086711c17f044583af3c939efdbe1f40f2188907112ce6690763caf42",
+      "accessedAt": "2026-10-03T00:54:17.530Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "hC7ntJT44Nb0vJVrEN5JCZDCNCJIv8rw",
+  "facts": [
+    {
+      "id": "rtc-53-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 17 contrato(s) con el Estado por S/ 284,971.5.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "17",
+        "montoTotal": "S/ 284,971.5"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n17 contratos\nS/ 284,971.5\nAUTORIDAD PARA LA RECONSTRUCCION CON CAMBIOS\nSERVICIO PROFESIONAL ESPECIALIZADO PARA LA ELABORACIÓN DEL DOCUMENTO TÉCNICO \"REHABILITACIÓN DE\nMonto: S/ 20,000\nCódigo: 2@10460767\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nCENTRO VACACIONAL HUAMPANI\nServicio de asistencia técnica para la regularización de licencia de uso de agua subterranea del pozo a tajo abierto ubicado en el CVH\nMonto: S/ 11,000\nCódigo: 2@3135981\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nAUTORIDAD NACIONAL DEL AGUA\nCO",
+      "sourceIds": [
+        "rtc-53-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-53-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "E.L. ASESORES Y CONSULTORES E.I.R.L\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20392501445\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-53-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-53-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=22&candidato=53",
+      "sha256": "cac0303d0403f23ae7e023411ec417e0229e190cddeefdcf97d9a3b31d912fbc",
+      "accessedAt": "2026-10-03T00:09:39.896Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

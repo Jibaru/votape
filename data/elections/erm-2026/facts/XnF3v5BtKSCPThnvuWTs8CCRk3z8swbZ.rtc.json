@@ -1,0 +1,34 @@
+{
+  "candidateId": "XnF3v5BtKSCPThnvuWTs8CCRk3z8swbZ",
+  "facts": [
+    {
+      "id": "rtc-89956-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 14 contrato(s) con el Estado por S/ 70,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "14",
+        "montoTotal": "S/ 70,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n14 contratos\nS/ 70,500\nMUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE - LIMA\nSERVICIO DE SUPERVISION Y VERIFICACION PARA LA TOMA DE INVENTARIO DE EDIFICIOS Y ESTRUCTURAS DE LA M\nMonto: S/ 10,000\nCódigo: 2@34717867\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nLEVANTAMIENTO, CAPTACION Y ACTUALIZACION DE INFORMACION - PIP CON CUI N° 2613436\nMonto: S/ 4,000\nCódigo: 2@28541486\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nLEVANTAMIENTO, CAPTACION Y ACTU",
+      "sourceIds": [
+        "rtc-89956-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89956-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pachacamac&cargo=alcalde-distrital&organizacion=36&candidato=89956",
+      "sha256": "7231ad0ea30e95cf3538b179be0627b6f193afe69315c1c2d39c9590c89508d6",
+      "accessedAt": "2026-10-03T00:13:19.206Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "candidateId": "ju2CJSIvI4XHOw4-WulHTxW-QPg0cPXM",
+  "facts": [
+    {
+      "id": "rtc-6266-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 28,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 28,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 28,800\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE MIRAFLORES\nSOLICITUD DE SERVICIO DE UNA PERSONA NATURAL BAJO LA MODALIDAD DE LOCACION DE SERVICIO EN DESPACHO DE ALCALDIA EN EL PERIODO DE JUNIO 2022\nMonto: S/ 28,800\nCódigo: 2@22605954\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-6266-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-6266-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 4 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "4"
+      },
+      "quote": "GRUPO CONSTRUCTOR M.E. S.A.C\nAccionista (40%)\nAdministración\nRepresentante legal\nRUC: 20451581792\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n8 contratos con el Estado · S/ 355,530.5\nINDUSTRIAS ALIMENTARIAS DEL PERU S.A.C.\nAccionista (60%)\nRUC: 20452531551\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 28/02/2013\nNO HABIDO\n2 contratos con el Estado · S/ 97,977.59\nJWCALMET REQUERIMIENTOS ESPECIALES S.R.L.\nAccionista (40%)\nRepresentante legal\nRUC: 20392657887\nSOC.COM.RESPONS. LTDA\nBAJA DE OFICIO Fecha de Baja: 31/07/2012\nCondición: HABIDO\nSin contratos con el Estado\nVer más",
+      "sourceIds": [
+        "rtc-6266-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-6266-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "MEJIA ESCAJADILLO CARLOS WALTER\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 02/09/2003\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-6266-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-6266-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+maria+del+triunfo&cargo=alcalde-distrital&organizacion=8&candidato=6266",
+      "sha256": "b607d9aebaaa811ae445037b378d3cc784d3086d51fa47008313c31d71165dc6",
+      "accessedAt": "2026-10-03T00:41:55.186Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

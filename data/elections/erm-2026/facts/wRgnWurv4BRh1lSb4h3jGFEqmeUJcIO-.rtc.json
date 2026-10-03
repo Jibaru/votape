@@ -1,0 +1,37 @@
+{
+  "candidateId": "wRgnWurv4BRh1lSb4h3jGFEqmeUJcIO-",
+  "facts": [
+    {
+      "id": "rtc-88004-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Suspendida.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Suspendida"
+      },
+      "quote": "licencia: Suspendida",
+      "sourceIds": [
+        "rtc-88004-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88004-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=49&candidato=88004",
+      "sha256": "e1fc38981201abb51d5b60316b5c703572110f8711ff766c8febec439ae0d445",
+      "accessedAt": "2026-10-03T00:32:47.378Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

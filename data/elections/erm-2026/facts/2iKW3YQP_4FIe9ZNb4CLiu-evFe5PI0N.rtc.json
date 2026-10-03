@@ -1,0 +1,63 @@
+{
+  "candidateId": "2iKW3YQP_4FIe9ZNb4CLiu-evFe5PI0N",
+  "facts": [
+    {
+      "id": "rtc-90527-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "JC & MA ASOCIADOS S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20543896986\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n11 contratos con el Estado · S/ 423,055\nDeuda coactiva: S/ 3,729",
+      "sourceIds": [
+        "rtc-90527-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90527-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 2 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "2",
+        "papeletas": "3",
+        "puntosAcumulados": "30",
+        "licencia": "Vigente"
+      },
+      "quote": "2 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-90527-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90527-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=4&candidato=90527",
+      "sha256": "755a67d16b350cc414d01a3ad00b538a67ab03476f2d8931b0b982ab343fd237",
+      "accessedAt": "2026-10-03T01:04:11.441Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90527-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=4&candidato=90527",
+      "sha256": "d145d3a0dcd1421c8d6b2eedf515e3c19ac95f525220aa460841822c0caf2cbb",
+      "accessedAt": "2026-10-03T01:04:11.441Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

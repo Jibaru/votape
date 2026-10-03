@@ -1,0 +1,50 @@
+{
+  "candidateId": "i6SYpBGPcrU0e8_PDu4x_t-KYTP8w_mw",
+  "facts": [
+    {
+      "id": "rtc-88006-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 25,720.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 25,720"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 25,720\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nSERVICIO DE LOCACION SEGUN TDR PARA LA SUBGERENCIA DE EDUCACION, CULTURA, DEPORTE Y JUVENTUD\nMonto: S/ 5,000\nCódigo: 2@34004054\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nSERVICIO DE LOCACION, SEGUN TERMINOS DE REFERENCIA PARA LA SUBGERENCIA DE EDUCACIÓN,DEPORTE Y JUVENT\nMonto: S/ 4,000\nCódigo: 2@33155808\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nSERVICIO DE LOCACION, SEGUN T",
+      "sourceIds": [
+        "rtc-88006-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88006-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "R & A CONSTRUYENDO PERU Y SERVICIOS GENERALES E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20605388729\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n4 contratos con el Estado · S/ 107,976",
+      "sourceIds": [
+        "rtc-88006-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88006-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=3&candidato=88006",
+      "sha256": "90d27e1fd2f820d412df89e766b7d1011c83157b794777a7c5117ed1bc5cb929",
+      "accessedAt": "2026-10-03T00:33:14.677Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

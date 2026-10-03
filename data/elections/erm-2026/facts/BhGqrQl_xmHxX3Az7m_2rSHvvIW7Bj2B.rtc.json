@@ -1,0 +1,80 @@
+{
+  "candidateId": "BhGqrQl_xmHxX3Az7m_2rSHvvIW7Bj2B",
+  "facts": [
+    {
+      "id": "rtc-90362-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 66,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 66,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 66,500\nSUPERINTENDENCIA NACIONAL DE EDUCACION SUPERIOR UNIVERSITARIA\nSERVICIO PARA ELABORAR UN INFORME QUE CONTENGA EL ANÁLISIS DE LOS MEDIOS DE VERIFICACIÓN PRESEN\nMonto: S/ 12,000\nCódigo: 2@27803464\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA NACIONAL PARA LA EMPLEABILIDAD\nCONTRATACIÓN DEL SERVICIO DE CAPACITACIÓN PRESENCIAL PARA LA PROMOCIÓN DEL AUTOEMPLEO, A TRAVÉS DE FORMADORES PARA BENEFICIARIOS DE LA UNIDAD ZONAL LIMA-CALLAO\nMonto: S/ 12,000\nCódigo: 2@26131811\nSERVICIO\nEstado: Contratado\nRUC: [RUC de per",
+      "sourceIds": [
+        "rtc-90362-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90362-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "XPANSION VIC S.A.C.\nAccionista (40%)\nRUC: 20517669971\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n30 contratos con el Estado · S/ 65,692.42",
+      "sourceIds": [
+        "rtc-90362-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90362-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 2 falta(s) grave(s), licencia: Cancelada/conductor inhabilitado.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "2",
+        "faltasMuyGraves": "0",
+        "papeletas": "4",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada/conductor inhabilitado"
+      },
+      "quote": "2 falta(s) grave(s) · licencia: Cancelada/conductor inhabilitado",
+      "sourceIds": [
+        "rtc-90362-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90362-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=23&candidato=90362",
+      "sha256": "f363ca5f4b306862349af25a9ce7b0ba3356dd51bad6faed814bcd9aa87eb2ad",
+      "accessedAt": "2026-10-03T00:23:03.145Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90362-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=23&candidato=90362",
+      "sha256": "248e9547bee9344cf6db79172e6b23e17a38e9907bfbe7171cd85a8196980f9f",
+      "accessedAt": "2026-10-03T00:23:03.145Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

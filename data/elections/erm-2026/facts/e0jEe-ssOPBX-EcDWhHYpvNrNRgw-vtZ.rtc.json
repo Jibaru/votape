@@ -1,0 +1,34 @@
+{
+  "candidateId": "e0jEe-ssOPBX-EcDWhHYpvNrNRgw-vtZ",
+  "facts": [
+    {
+      "id": "rtc-87472-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 88,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 88,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 88,500\nPOLICIA NACIONAL DEL PERÚ - DIRECCIÓN DE ECONOMÍA Y FINANZAS\nCONTRATACION DE SERVICIO DE ASISTENCIA EN AUDITORIA EN LA EJECUCION DEL SERVICIO DE CONTROL. INTERNO- HT 20210754598\nMonto: S/ 12,000\nCódigo: 2@19037746\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPOLICIA NACIONAL DEL PERÚ - DIRECCIÓN DE ECONOMÍA Y FINANZAS\nCONTRATACIÓN DE UNA PERSONA NATURAL (01) PROFESIONAL EN CONTABILIDAD O ADMINISTRACIÓN O CARRERAS AFINES PARA EL OCI PNP-LOCACION- HT 20210450081\nMonto: S/ 15,000\nCódigo: 2@18121995\nSERVICIO\nEstado: C",
+      "sourceIds": [
+        "rtc-87472-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87472-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=3&candidato=87472",
+      "sha256": "ba6ebbef3148680cc2295d2ae2ea79bbea720fa8c9abeb630d304db0d3255df4",
+      "accessedAt": "2026-10-03T00:35:04.357Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

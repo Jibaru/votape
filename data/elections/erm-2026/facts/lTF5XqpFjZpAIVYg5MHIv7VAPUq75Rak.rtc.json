@@ -1,0 +1,65 @@
+{
+  "candidateId": "lTF5XqpFjZpAIVYg5MHIv7VAPUq75Rak",
+  "facts": [
+    {
+      "id": "rtc-89687-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 15 contrato(s) con el Estado por S/ 111,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "15",
+        "montoTotal": "S/ 111,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n15 contratos\nS/ 111,000\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nSERVICIO DE ESPECIALISTA EN GESTION Y DESARROLLO ECONOMICO PARA LA GERENCIA DE DESARROLLO ECONOMICO\nMonto: S/ 13,000\nCódigo: 2@40162109\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA PERLA\nSERVICIO DE ASESORIA EN GESTION PUBLICA CCMN: 3422\nMonto: S/ 7,000\nCódigo: 2@40181494\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA PERLA\nSERVICIO DE ASESORÍA EN GESTIÓN PÚBLICA\nMonto: S/ 7,000\nCódigo: ",
+      "sourceIds": [
+        "rtc-89687-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89687-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "MULTI SERVICIOS Y DISTRIBUCIONES FAMA S.A.C.\nAdministración\nRepresentante legal\nRUC: 20507783041\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nNO HABIDO\n122 contratos con el Estado · S/ 9,135,109.22\nDeuda coactiva: S/ 17,187\n1 sanción TCP\nVer sanciones del Tribunal de Contrataciones",
+      "sourceIds": [
+        "rtc-89687-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89687-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "ROSELLO MONTERO EDUARDO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 08/09/2014\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89687-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89687-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=24&candidato=89687",
+      "sha256": "d7b6cf6c0e72abb9770b2700bafd6f940946cc409f8b7d8194850d8711854f30",
+      "accessedAt": "2026-10-03T00:59:00.385Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

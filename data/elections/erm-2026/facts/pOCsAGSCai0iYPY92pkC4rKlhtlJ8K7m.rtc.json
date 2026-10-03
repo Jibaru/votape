@@ -1,0 +1,95 @@
+{
+  "candidateId": "pOCsAGSCai0iYPY92pkC4rKlhtlJ8K7m",
+  "facts": [
+    {
+      "id": "rtc-87768-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 20 contrato(s) con el Estado por S/ 138,850.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "20",
+        "montoTotal": "S/ 138,850"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n20 contratos\nS/ 138,850\nCENTRO NACIONAL DE ABASTECIMIENTO DE RECURSOS ESTRATEGICOS EN SALUD\nSERVICIO ESPECIALIZADO EN PROCESOS CONTABLES Y FINANCIEROS\nMonto: S/ 6,000\nCódigo: 2@39470377\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nCENTRO NACIONAL DE ABASTECIMIENTO DE RECURSOS ESTRATEGICOS EN SALUD\nSERVICIO ESPECIALIZADO EN PROCESOS CONTABLES Y FINANCIEROS\nMonto: S/ 6,000\nCódigo: 2@39474460\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nCENTRO NACIONAL DE ABASTECIMIENTO DE RECURSOS ESTRATEGICOS EN SALUD\nSERVICIO ESPEC",
+      "sourceIds": [
+        "rtc-87768-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87768-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "RIMAC & ASOCIADOS SOCIEDAD CIVIL\nAccionista (0.77%)\nRUC: 20189498064\nSOCIEDAD CIVIL\nEstado: ACTIVO\nCondición: HABIDO\n34 contratos con el Estado · S/ 1,529,139.68",
+      "sourceIds": [
+        "rtc-87768-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87768-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "TUÑOQUE MORI LUCIANO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 09/10/1994\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87768-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87768-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-87768-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87768-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=18&candidato=87768",
+      "sha256": "b90e0b6da5b680ca070462b14ff15e257b8d025d134bd5527d5a16335f40fbd2",
+      "accessedAt": "2026-10-03T00:40:33.128Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87768-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=18&candidato=87768",
+      "sha256": "47748d5e6f8223f758d7f09b37d22694df26f7d137a04c2395523118af9749ff",
+      "accessedAt": "2026-10-03T00:40:33.128Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "candidateId": "nkraYTkpJkuSqvfMeokztH7FAxFy_Cdx",
+  "facts": [
+    {
+      "id": "rtc-89686-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "LABORATORIO ANATOMOPATOLOGICO BIOLABC S.A.C.\nAdministración\nRepresentante legal\nRUC: 20556856908\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n156 contratos con el Estado · S/ 3,202,615.11\nENTIDAD MEDICA FINANCIERA S.R.L.\nAccionista (87%)\nRepresentante legal\nRUC: 20502885953\nSOC.COM.RESPONS. LTDA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89686-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89686-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=52&candidato=89686",
+      "sha256": "77fed4702fd35d27d1323fb004956f131d613aec10bd86d17912b5882155ad15",
+      "accessedAt": "2026-10-03T01:00:13.328Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -22,7 +22,9 @@ De la hoja de vida que cada candidato presenta al **JNE**, vía la API pública 
 
 Cada hecho dice **quién lo afirma** (`declarado`, `registro_oficial`, `agregador` o `prensa`) y **de dónde sale**: URL, fecha de consulta y hash de la respuesta original.
 
-**Pendiente:** cruces con registros oficiales vía [Revisa Tu Candidato](https://revisatucandidato.pe) (esperando permiso del Consorcio RTC) e investigación de prensa revisada por una persona (v0.2).
+De [Revisa Tu Candidato](https://revisatucandidato.pe) (agregador): contratos con el Estado (OECE), empresas vinculadas, deuda coactiva en SUNAT, REDJUM/REDAM, sanciones de SERVIR, RNAS y OECE, REINFO, y faltas de tránsito muy graves o licencias suspendidas/canceladas (MTC).
+
+De la prensa: hallazgos de medios de una lista blanca, con cita textual verificada automáticamente y aprobados por una persona (por ahora, Lima Metropolitana).
 
 ## Qué no hace
 

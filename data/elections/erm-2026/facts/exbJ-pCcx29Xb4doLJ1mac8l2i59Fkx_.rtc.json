@@ -1,0 +1,33 @@
+{
+  "candidateId": "exbJ-pCcx29Xb4doLJ1mac8l2i59Fkx_",
+  "facts": [
+    {
+      "id": "rtc-88010-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ORAZIOS S.A.C.\nAccionista (34.75%)\nAdministración\nRUC: 20550439221\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/08/2019\nCondición: HABIDO\n1 contrato con el Estado · S/ 25,950",
+      "sourceIds": [
+        "rtc-88010-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88010-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=8&candidato=88010",
+      "sha256": "ebb67419992dbcfc5d33e8d29b5feca956c0b70cee571ef6c5cdaa2f985a5b10",
+      "accessedAt": "2026-10-03T00:33:23.777Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

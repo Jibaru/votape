@@ -1,0 +1,34 @@
+{
+  "candidateId": "El4x7RquRyLpcTn1Vq7-jaOl4UACKfvc",
+  "facts": [
+    {
+      "id": "rtc-86702-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 13 contrato(s) con el Estado por S/ 48,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "13",
+        "montoTotal": "S/ 48,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n13 contratos\nS/ 48,500\nMUNICIPALIDAD DISTRITAL DE ATE - VITARTE\nSERVICIO DE GUIA Y/O AYUDANTE DE CAMPO PARA LA SUBGERENCIA DE GESTIÓN AMBIENTAL\nMonto: S/ 3,000\nCódigo: 2@35686861\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ATE - VITARTE\nSERVICIO DE GUÍA Y/O AYUDANTE DE CAMPO PARA LA SUB GERENCIA DE GESTIÓN .AMBIENTAL DE LA MDA\nMonto: S/ 1,500\nCódigo: 2@35083776\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ATE - VITARTE\nSERVICIO DE AYUDANTE DE VIVERO PARA LA SUB",
+      "sourceIds": [
+        "rtc-86702-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86702-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=41&candidato=86702",
+      "sha256": "220be5d50f6682a0a69380672c028b5f9ba6d096991e38b487eb6837ef230a4c",
+      "accessedAt": "2026-10-03T01:20:58.846Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

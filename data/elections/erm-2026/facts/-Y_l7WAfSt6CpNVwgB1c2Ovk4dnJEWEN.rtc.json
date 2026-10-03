@@ -1,0 +1,34 @@
+{
+  "candidateId": "-Y_l7WAfSt6CpNVwgB1c2Ovk4dnJEWEN",
+  "facts": [
+    {
+      "id": "rtc-91281-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 46,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 46,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 46,000\nMUNICIPALIDAD DISTRITAL DE BARRANCO\nSERVICIO DE ASESOR DE GERENCIA\nMonto: S/ 8,000\nCódigo: 2@26613997\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BARRANCO\nSERVICIO DE ASESOR\nMonto: S/ 12,000\nCódigo: 2@26575981\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BARRANCO\nSERVICIO DE ASESOR DE GERENCIA\nMonto: S/ 8,000\nCódigo: 2@26476521\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (4 más)",
+      "sourceIds": [
+        "rtc-91281-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91281-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=4&candidato=91281",
+      "sha256": "d52f8b17da396f65519e6f915862a375a892b291c6fd23abd18f848a51e24f28",
+      "accessedAt": "2026-10-03T00:24:25.030Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

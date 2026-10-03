@@ -1,0 +1,50 @@
+{
+  "candidateId": "Sl5xk9t1LY5QttMdDqdDnMoB9u1odSjM",
+  "facts": [
+    {
+      "id": "rtc-92494-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 5 contrato(s) con el Estado por S/ 12,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "5",
+        "montoTotal": "S/ 12,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n5 contratos\nS/ 12,500\nMUNICIPALIDAD DISTRITAL DE SANTA ROSA - LIMA\nSERVICIOS DE TERCEROS\nMonto: S/ 2,500\nCódigo: 2@8221992\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SANTA ROSA - LIMA\nSERVICIOS DE TERCEROS\nMonto: S/ 2,500\nCódigo: 2@8220673\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SANTA ROSA - LIMA\nSERVICIOS DE TERCEROS\nMonto: S/ 2,500\nCódigo: 2@8196602\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (2 más)",
+      "sourceIds": [
+        "rtc-92494-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92494-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "SAVA PERU S.A.C.\nAccionista (0.99%)\nRUC: 20601581869\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 30/06/2025\nCondición: HABIDO\n2 contratos con el Estado · S/ 59,500\nDeuda coactiva: S/ 6,335",
+      "sourceIds": [
+        "rtc-92494-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92494-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+martin+de+porres&cargo=alcalde-distrital&organizacion=24&candidato=92494",
+      "sha256": "2ebb5294f14cb32776311e64f0988f700718eb429f7304498e0c8b399bd0a739",
+      "accessedAt": "2026-10-03T00:24:52.411Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

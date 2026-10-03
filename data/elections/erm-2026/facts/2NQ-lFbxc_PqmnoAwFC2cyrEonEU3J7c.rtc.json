@@ -1,0 +1,34 @@
+{
+  "candidateId": "2NQ-lFbxc_PqmnoAwFC2cyrEonEU3J7c",
+  "facts": [
+    {
+      "id": "rtc-93079-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 58 contrato(s) con el Estado por S/ 423,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "58",
+        "montoTotal": "S/ 423,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n58 contratos\nS/ 423,500\nMUNICIPALIDAD DISTRITAL DE CIENEGUILLA\nSERVICIO DE ASISTENCIA LEGAL EN PROCESOS ADMINISTRATIVOS\nMonto: S/ 4,000\nCódigo: 2@39884569\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO\nCONTRATACION DEL SERVICIO ESPECIALIZADO EN GESTION PUBLICA.\nMonto: S/ 7,000\nCódigo: 2@39775426\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CIENEGUILLA\nSERVICIO DE ASISTENCIA LEGAL EN PROCESOS ADMINISTRATIVOS\nMonto: S/ 4,000\nCódigo: 2@3988561",
+      "sourceIds": [
+        "rtc-93079-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93079-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=4&candidato=93079",
+      "sha256": "8d6797a251613b4da4698241bc440c2d4d3fff98e9ad76d0c8717ac302efdf65",
+      "accessedAt": "2026-10-03T00:37:30.886Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

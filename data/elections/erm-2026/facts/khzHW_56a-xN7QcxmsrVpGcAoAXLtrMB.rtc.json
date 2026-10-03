@@ -1,0 +1,63 @@
+{
+  "candidateId": "khzHW_56a-xN7QcxmsrVpGcAoAXLtrMB",
+  "facts": [
+    {
+      "id": "rtc-91184-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSTRUCTORA E INMOBILIARIA QUIFAR S.A.C.\nAccionista (25%)\nRUC: 20517224422\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 05/08/2016\nNO HABIDO\n2 contratos con el Estado · S/ 4,750,338.83\nDeuda coactiva: S/ 596,661",
+      "sourceIds": [
+        "rtc-91184-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91184-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Cancelada.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada"
+      },
+      "quote": "licencia: Cancelada",
+      "sourceIds": [
+        "rtc-91184-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91184-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=41&candidato=91184",
+      "sha256": "12896c2026d165ece1c8756dafacecbd50f63ad6962b9623d357e6797536c933",
+      "accessedAt": "2026-10-03T00:44:31.000Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-91184-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=41&candidato=91184",
+      "sha256": "38168a6a585d1dd85aa11d16fecd0713ed8a835b537bf502ef07a9ed915d740c",
+      "accessedAt": "2026-10-03T00:44:31.000Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

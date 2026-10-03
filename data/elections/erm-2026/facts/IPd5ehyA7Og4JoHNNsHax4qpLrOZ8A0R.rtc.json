@@ -1,0 +1,32 @@
+{
+  "candidateId": "IPd5ehyA7Og4JoHNNsHax4qpLrOZ8A0R",
+  "facts": [
+    {
+      "id": "rtc-93084-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "MAESTRE MEJIA MARIA TERESA\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: NO HABIDO Deberá declarar el nuevo domicilio fiscal o confirmar el señalado en el RUC. Para ello, deberá acercarse a los Centros de Servicios al Contribuyente con los documentos que sustenten el nuevo domicilio.\nRegistro: 13/12/2001\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-93084-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93084-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=34&candidato=93084",
+      "sha256": "12979f1d674d969edadf1a8a34907a4f0399337ba88e9c5839933297a51a7378",
+      "accessedAt": "2026-10-03T00:37:39.983Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

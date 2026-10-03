@@ -1,0 +1,50 @@
+{
+  "candidateId": "c20sc8uw6hd0gvYS_Yn9sjGI40I2Nnb-",
+  "facts": [
+    {
+      "id": "rtc-92857-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 60,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 60,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 60,000\nINSTITUTO PERUANO DEL DEPORTE\n(ST 3/90) SERVICIO DE ASISTENCIA EN TEMAS DE SEGURIDAD DEPORTIVA\nMonto: S/ 30,000\nCódigo: 2@39574635\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO PERUANO DEL DEPORTE\n(ST 3/70) DISEDE 634 - SERVICIO DE ASISTENCIA EN TEMAS DE SEGURIDAD DEPORTIVA\nMonto: S/ 30,000\nCódigo: 2@38633298\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92857-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92857-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ICLOSET S.A.C\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20555429291\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 25/07/2023\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92857-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92857-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=3&candidato=92857",
+      "sha256": "6a39efc0e1c72c7c27c05455d29d575a9504349275bfc97e8d83c4962f750772",
+      "accessedAt": "2026-10-03T00:28:04.183Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

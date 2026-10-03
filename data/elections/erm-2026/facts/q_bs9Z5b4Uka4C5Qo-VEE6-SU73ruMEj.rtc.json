@@ -1,0 +1,50 @@
+{
+  "candidateId": "q_bs9Z5b4Uka4C5Qo-VEE6-SU73ruMEj",
+  "facts": [
+    {
+      "id": "rtc-31381-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 16 contrato(s) con el Estado por S/ 177,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "16",
+        "montoTotal": "S/ 177,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n16 contratos\nS/ 177,800\nPROGRAMA EDUCACION BASICA PARA TODOS UE 026\nCASLIT2025-INT-0730056 SERVICIO ESPECIALIZADO EN RELACIONES INTERINSTITUCIONALES Y GESTIÓN PÚBLICA\nMonto: S/ 14,000\nCódigo: 2@35955021\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA EDUCACION BASICA PARA TODOS UE 026\nCASLIT2025-INT-0538423 SERVICIO ESPECIALIZADO EN RELACIONES INTERINSTITUCIONALES Y GESTIÓN\nMonto: S/ 14,000\nCódigo: 2@35262854\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA EDUCACION BASICA PARA TODOS UE 026\nCASLIT2025-I",
+      "sourceIds": [
+        "rtc-31381-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-31381-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CLC CALLER LANGUAGE CENTER S.A.C.\nAccionista (10%)\nRUC: 20600460791\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n6 contratos con el Estado · S/ 80,374.8",
+      "sourceIds": [
+        "rtc-31381-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31381-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=25&candidato=31381",
+      "sha256": "ca6f5281c74a30866ac2c187f31de7ebf1d73bf0e63fb8bddfd86c4199d80bc1",
+      "accessedAt": "2026-10-03T00:11:29.895Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

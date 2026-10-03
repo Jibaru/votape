@@ -1,0 +1,65 @@
+{
+  "candidateId": "JtttvFbfa1GJg9oT5QNnmyzzRNdufMLW",
+  "facts": [
+    {
+      "id": "rtc-89062-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 14,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 14,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 14,000\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nSERVICIO DE LOCADORES - SGOF\nMonto: S/ 3,500\nCódigo: 2@27820900\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nREQUERIMIENTO DE LOCADORES ADMIISTRATIVOS - SGOF\nMonto: S/ 3,500\nCódigo: 2@26802047\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nSERVICIO DE LOCADORES SGOF\nMonto: S/ 3,500\nCódigo: 2@26564080\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omi",
+      "sourceIds": [
+        "rtc-89062-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89062-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CORPORACION MEDICA JM Y S S.A.C.\nAccionista (60%)\nRUC: 20606656140\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 12/11/2024\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 3,820",
+      "sourceIds": [
+        "rtc-89062-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89062-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "FIERRO FLORES FLORENCIO FROILAN\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 24/01/2023\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89062-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89062-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+victoria&cargo=alcalde-distrital&organizacion=24&candidato=89062",
+      "sha256": "2a600bac0388a25baf4e517e6a52c1360a998e7dd02c0aec5fa6528f40b5da76",
+      "accessedAt": "2026-10-03T00:56:25.322Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

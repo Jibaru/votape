@@ -1,0 +1,65 @@
+{
+  "candidateId": "lfBx1kstlB9OpRnbAMXxf7HJH7aavC74",
+  "facts": [
+    {
+      "id": "rtc-31375-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 87,250.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 87,250"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 87,250\nMINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES- ADMINISTRACIÓN GENERAL\nSERVICIO DE EDICIÓN Y POST PRODUCCIÓN DE VIDEO INSTITUCIONAL SOBRE LA APLICACIÓN DE LA FICHA DE VALORACIÓN DE RIESGO (FVR) EN MUJERES VÍCTIMAS DE VIOLENCIA DE PAREJA\nMonto: S/ 8,000\nCódigo: 2@13968938\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nACADEMIA DE LA MAGISTRATURA\nCONTRATACIÓN DEL SERVICIO PARA REALIZAR EL REGISTRO Y GRABACIÓN DE ENTREVISTAS A MAGISTRADOS SO\nMonto: S/ 30,000\nCódigo: 2@5982048\nSERVICIO\nEstado: Contratado\nRUC: [RUC de ",
+      "sourceIds": [
+        "rtc-31375-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-31375-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "INTERCUT MEDIA S.A.C.\nAccionista (33.33%)\nRUC: 20537239183\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n10 contratos con el Estado · S/ 206,692.5",
+      "sourceIds": [
+        "rtc-31375-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-31375-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "BONILLA ESPINOZA RUBEN DANIEL\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 01/07/2025\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-31375-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31375-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=51&candidato=31375",
+      "sha256": "fdb04bf7221221abb57c858dccfe41e02b42a1888e5c31f8d379f54b14005cb3",
+      "accessedAt": "2026-10-03T00:11:02.026Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

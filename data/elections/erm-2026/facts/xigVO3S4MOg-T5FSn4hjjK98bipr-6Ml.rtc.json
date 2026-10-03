@@ -1,0 +1,50 @@
+{
+  "candidateId": "xigVO3S4MOg-T5FSn4hjjK98bipr-6Ml",
+  "facts": [
+    {
+      "id": "rtc-89951-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 4,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 4,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 4,500\nMUNICIPALIDAD METROPOLITANA DE LIMA\nContratacion De Profesional En Derecho\nMonto: S/ 4,500\nCódigo: 2@5481819\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-89951-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89951-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "MAURTUA & ASOCIADOS ABOGADOS SOCIEDAD ANONIMA CERRADA\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20514802280\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 26/07/2023\nCondición: HABIDO\n1 contrato con el Estado · S/ 32,000\nDeuda coactiva: S/ 6,634",
+      "sourceIds": [
+        "rtc-89951-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89951-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pachacamac&cargo=alcalde-distrital&organizacion=35&candidato=89951",
+      "sha256": "78f4a6171e5f9da5db3b371d4f70cabf92e3f3d740ec344c10637902a6294fb2",
+      "accessedAt": "2026-10-03T00:12:51.902Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

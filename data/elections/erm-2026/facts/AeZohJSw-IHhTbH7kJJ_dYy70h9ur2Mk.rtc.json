@@ -1,0 +1,64 @@
+{
+  "candidateId": "AeZohJSw-IHhTbH7kJJ_dYy70h9ur2Mk",
+  "facts": [
+    {
+      "id": "rtc-93223-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 14 contrato(s) con el Estado por S/ 47,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "14",
+        "montoTotal": "S/ 47,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n14 contratos\nS/ 47,000\nMUNICIPALIDAD PROVINCIAL DE HUAMANGA\nSERVICIOS DE ESPECIALISTA EN GESTION PUBLICA PARA ASESORAMIENTO DE ACTIVIDADES DE FISCALIZACION\nMonto: S/ 4,500\nCódigo: 2@36175027\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD PROVINCIAL DE HUAMANGA\nCONTRATACIÓN DE SERVICIO DE PROFESIONAL ESPECIALISTA EN GESTIÓN PÚBLICA PARA ASESORAMIENTO PROFESIONAL ESPECIALIZADO EN LA EJECUCIÓN DEL PLAN DE TRABAJO DE LA ACTIVIDAD DE FISCALIZACIÓN DEL CONCEJO MUNICIPAL\nMonto: S/ 4,500\nCódigo: 2@35317690\nSERVICIO\nEstado: Contrata",
+      "sourceIds": [
+        "rtc-93223-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93223-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-93223-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93223-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=52&candidato=93223",
+      "sha256": "a52d47d17b10b57095cda653e7397ee52831f8ce53277f4827a6e6037cc8eb23",
+      "accessedAt": "2026-10-03T00:07:23.084Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-93223-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=52&candidato=93223",
+      "sha256": "cf9a8ae5048ae9d67a7002a11c1e2412398b576f361fa1c2bb10fa9ea148a2f9",
+      "accessedAt": "2026-10-03T00:07:23.084Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

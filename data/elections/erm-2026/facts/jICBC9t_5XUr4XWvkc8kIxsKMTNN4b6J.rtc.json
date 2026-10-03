@@ -1,0 +1,80 @@
+{
+  "candidateId": "jICBC9t_5XUr4XWvkc8kIxsKMTNN4b6J",
+  "facts": [
+    {
+      "id": "rtc-91283-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 27 contrato(s) con el Estado por S/ 454,010.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "27",
+        "montoTotal": "S/ 454,010"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n27 contratos\nS/ 454,010\nMUNICIPALIDAD DISTRITAL DE SAN BORJA\nSERVICIO ESPECIALIZADO EN DERECHO ADMINISTRATIVO - OGSCM\nMonto: S/ 34,230\nCódigo: 2@40128030\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nGIFG (02/60)-SERVICIO ESPECIALIZADO EN MATERIA LEGAL TDR 134 PRONAPRES\nMonto: S/ 17,000\nCódigo: 2@40214667\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nEWVF (03/90)- SERVICIO ESPECIALIZADO EN MATERIA LEGAL TDR 46 PRONAPRES\nMonto: S/ 27,0",
+      "sourceIds": [
+        "rtc-91283-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91283-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "C Y G CAPACITACION Y ASESORIAS S.A.C.\nAdministración\nRepresentante legal\nRUC: 20562993437\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado\nVASQUEZ-SORIANO ABOGADOS & CONSULTORES S.A.C.\nAccionista (50%)\nRUC: 20610177761\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-91283-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91283-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 3 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "3",
+        "faltasMuyGraves": "1",
+        "papeletas": "4",
+        "puntosAcumulados": "50",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 3 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-91283-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91283-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=35&candidato=91283",
+      "sha256": "1e237656ec9c40ac92ad87e68eda17ac13163da9b125060dcb665983af8d6882",
+      "accessedAt": "2026-10-03T00:24:34.113Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-91283-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=35&candidato=91283",
+      "sha256": "b22d976428f2ba157fb9a0e87069a13fba0b336798de601deca451fe831d9aed",
+      "accessedAt": "2026-10-03T00:24:34.113Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

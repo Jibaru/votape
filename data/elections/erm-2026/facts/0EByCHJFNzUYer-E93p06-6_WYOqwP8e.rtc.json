@@ -1,0 +1,33 @@
+{
+  "candidateId": "0EByCHJFNzUYer-E93p06-6_WYOqwP8e",
+  "facts": [
+    {
+      "id": "rtc-89061-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "LEXHIS S.A.C.\nAccionista (80%)\nAdministración\nRepresentante legal\nRUC: 20600276663\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n118 contratos con el Estado · S/ 2,636,854.2\nALVAFAMAX S.A.C.S.\nAccionista (50%)\nRUC: 20614109409\nSOC.POR ACCIONES CERRADA SIMPLIFICA\nEstado: ACTIVO\nCondición: HABIDO\n4 contratos con el Estado · S/ 160,775",
+      "sourceIds": [
+        "rtc-89061-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89061-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+victoria&cargo=alcalde-distrital&organizacion=22&candidato=89061",
+      "sha256": "1074d36524a266174d23a32549a00fd05a72eaf768527582ae3e5d7178d885dd",
+      "accessedAt": "2026-10-03T00:57:02.191Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

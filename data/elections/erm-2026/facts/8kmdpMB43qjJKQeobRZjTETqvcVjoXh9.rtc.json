@@ -1,0 +1,64 @@
+{
+  "candidateId": "8kmdpMB43qjJKQeobRZjTETqvcVjoXh9",
+  "facts": [
+    {
+      "id": "rtc-90876-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 18 contrato(s) con el Estado por S/ 134,216.73.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "18",
+        "montoTotal": "S/ 134,216.73"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n18 contratos\nS/ 134,216.73\nC.N.DE INTEGR.D.L.PERS.CON DISC.-CONADIS\nSERVICIO DE UNA (01) PERSONA NATURAL CON TÍTULO PROFESIONAL DE ABOGADO(A) PARA LA ATENCIÓN DE EXPEDIENTES ADMINISTRATIVOS DERIVADOS DEL EJE DE EMPLEO Y/O TRANSPORTE EN EL MARCO DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR - CONADIS.\nMonto: S/ 30,000\nCódigo: 2@22270358\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nC.N.DE INTEGR.D.L.PERS.CON DISC.-CONADIS\nServicio de una (01) persona natural con Título Profesional de Abogado(a) para la atención de e\nMonto: S/ 18,000\nCódig",
+      "sourceIds": [
+        "rtc-90876-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90876-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "2",
+        "puntosAcumulados": "100",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-90876-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90876-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=1&candidato=90876",
+      "sha256": "87536c5e6205f818d639af51f6c96e31ee340fa942900af7da584439ff8e3113",
+      "accessedAt": "2026-10-03T01:08:18.566Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90876-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=1&candidato=90876",
+      "sha256": "2c6918dee768ee0b7670362d590ed6028bcc104841d1db6c877d49fe2549e9f0",
+      "accessedAt": "2026-10-03T01:08:18.566Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

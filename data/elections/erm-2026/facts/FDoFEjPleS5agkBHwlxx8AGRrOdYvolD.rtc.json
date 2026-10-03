@@ -1,0 +1,33 @@
+{
+  "candidateId": "FDoFEjPleS5agkBHwlxx8AGRrOdYvolD",
+  "facts": [
+    {
+      "id": "rtc-90076-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "LM AGREGADOS DEL PERU E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20600032080\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n31 contratos con el Estado · S/ 1,317,113.03\nL. LOPEZ S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20538854035\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 38,500\nPROSATEX S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20606342200\nSOCIEDAD ANONIMA CERRADA\nSUSPENSION TEMPORAL\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-90076-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90076-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurigancho&cargo=alcalde-distrital&organizacion=24&candidato=90076",
+      "sha256": "5f9a7721060c61ac4eb176ab26d3ec3c5299eb718983c8f4115fd3d7475c1aca",
+      "accessedAt": "2026-10-03T00:46:48.829Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

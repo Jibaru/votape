@@ -1,0 +1,64 @@
+{
+  "candidateId": "Pt_JdsNKl_CPGDusGzxT4krjCT0G6r85",
+  "facts": [
+    {
+      "id": "rtc-31387-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 3,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 3,200"
+      },
+      "quote": "RUC: 17116649543\n1 contrato\nS/ 3,200\nEJERCITO PERUANO\nSERV. CAPAC. EN DH Y DIH, NUCLEO 01 DEL PROGRAMA BASICO DE INFANTERIA, COMUNICACIONES E INTENDENCIA DE LA ESCUELA JURIDICA.\nMonto: S/ 3,200\nCódigo: 2@40380498\nSERVICIO\nEstado: Contratado\nRUC: 17116649543",
+      "sourceIds": [
+        "rtc-31387-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-31387-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "30",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-31387-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31387-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=48&candidato=31387",
+      "sha256": "b0ffa5ba81223fc9e2433ff810e3a5f650cf74f516c9d0dffb126e0d73376f3d",
+      "accessedAt": "2026-10-03T00:11:39.042Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-31387-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=48&candidato=31387",
+      "sha256": "932f9812e986e53de61ea5e54b297fb78a668fa7ed6df5da50a8a0ec370bdaac",
+      "accessedAt": "2026-10-03T00:11:39.042Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

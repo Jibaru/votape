@@ -1,0 +1,34 @@
+{
+  "candidateId": "vKg_x0aB_BcytLwbnKp2QFCJq9uSsXGW",
+  "facts": [
+    {
+      "id": "rtc-91284-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 48,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 48,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 48,000\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nPARA SERVICIO PRESTADO COMO ESPECIALISTA LEGAL PARA GM POR EL MES DE JUNIO DEL 2019.\nMonto: S/ 8,000\nCódigo: 2@11927804\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nPARA SERVICIO PRESTADO COMO ESPECIALISTA LEGAL PARA GERENACIA MUNICIPAL POR EL MES DE MAYO DEL 2019.\nMonto: S/ 8,000\nCódigo: 2@11966487\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nCONTRATACION DE S",
+      "sourceIds": [
+        "rtc-91284-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91284-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=21&candidato=91284",
+      "sha256": "afe6f0b3335c13b722f89c474be973653abfb5e590e48ea72559b284b4020af7",
+      "accessedAt": "2026-10-03T00:23:48.666Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "candidateId": "hd-HdUZxkloX4efjGvuqmHXmBI5TuBv7",
+  "facts": [
+    {
+      "id": "rtc-93210-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 19 contrato(s) con el Estado por S/ 128,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "19",
+        "montoTotal": "S/ 128,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n19 contratos\nS/ 128,000\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERVICIO DE COORDINACION GESTION Y SEGUIMIENTO DE EJECUCION DE PROYECTO DE INVERSION\nMonto: S/ 5,000\nCódigo: 2@33259880\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERVICIO DE LOCACION, SERVICIO DE GESTION COORDINACION Y SEGUIMIENTO DE PROYECTO DE INVERSION\nMonto: S/ 5,000\nCódigo: 2@33191314\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERV. DE COORD, GESTION, SEGUIM DE EJEC DE ",
+      "sourceIds": [
+        "rtc-93210-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93210-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "JH BUSINESS S.A.\nAccionista (70%)\nAdministración\nRepresentante legal\nRUC: 20600299680\nSOCIEDAD ANONIMA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-93210-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93210-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "4",
+        "puntosAcumulados": "20",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-93210-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93210-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=4&candidato=93210",
+      "sha256": "2e523a5f95e36146a53b6561cb05270d41d0568499dbba0e7441ec303e307d66",
+      "accessedAt": "2026-10-03T00:07:41.250Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-93210-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=4&candidato=93210",
+      "sha256": "4a1bbe52facb7566868f498df490f3fcb5fa15928f291284551cc0931fdbdf15",
+      "accessedAt": "2026-10-03T00:07:41.250Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

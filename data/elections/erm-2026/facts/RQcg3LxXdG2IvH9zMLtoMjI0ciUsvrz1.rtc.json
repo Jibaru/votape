@@ -1,0 +1,33 @@
+{
+  "candidateId": "RQcg3LxXdG2IvH9zMLtoMjI0ciUsvrz1",
+  "facts": [
+    {
+      "id": "rtc-93209-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "MHC & ABOGADOS-CONSULTORES SOCIEDAD ANONIMA CERRADA - MHC & AC S.A.C.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20604160864\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-93209-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93209-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=3&candidato=93209",
+      "sha256": "f795ce34543dd95e58a55182948ee9e0dd3517b37d22480962632b52dd05ec40",
+      "accessedAt": "2026-10-03T00:06:46.668Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

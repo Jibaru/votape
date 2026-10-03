@@ -1,0 +1,34 @@
+{
+  "candidateId": "Px-qn0o4F72P_r7gWjaYL1PSxuvkET2r",
+  "facts": [
+    {
+      "id": "rtc-87473-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 27 contrato(s) con el Estado por S/ 390,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "27",
+        "montoTotal": "S/ 390,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n27 contratos\nS/ 390,200\nMUNICIPALIDAD METROPOLITANA DE LIMA\nServicio De Monitoreo De Actividades De Mantenimiento De Infraestructura\nMonto: S/ 18,000\nCódigo: 2@38304852\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE - LIMA\nSERVICIO ESPECIALIZADO EN ADMINISTRACION, SEGUIMIENTO Y SUPERVISION DE PROYECTOS DE INVERSION EN OBR\nMonto: S/ 6,000\nCódigo: 2@39169318\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUEBLO LIBRE - LIMA\nSERVICIO ESPECIALIZADO EN ADMIN",
+      "sourceIds": [
+        "rtc-87473-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87473-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=4&candidato=87473",
+      "sha256": "e8c812c792f9a4cec72a1f8418afa64fa302c9b151b0f27f4f2d95d6ddcd40ee",
+      "accessedAt": "2026-10-03T00:34:27.925Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

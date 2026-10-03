@@ -1,0 +1,34 @@
+{
+  "candidateId": "KxarLqCQuAU8ZYiyjHY1qHEz99STcdMa",
+  "facts": [
+    {
+      "id": "rtc-92326-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 17 contrato(s) con el Estado por S/ 183,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "17",
+        "montoTotal": "S/ 183,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n17 contratos\nS/ 183,000\nHOSPITAL MUNICIPAL LOS OLIVOS\nSERVICIO DE ESPECIALISTA Y/O GESTOR EN APOYO ESTRATEGICO Y ADMINISTRATIVO PARA LA DG- UNICO ENTREGABLE\nMonto: S/ 7,000\nCódigo: 2@39764378\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nHOSPITAL MUNICIPAL LOS OLIVOS\nSERVICIO DE ESPECIALISTA Y/O GESTOR EN APOYO ESTRATEGICO Y ADMINISTRATIVO PARA LA DIRECCION GENERAL\nMonto: S/ 7,000\nCódigo: 2@39764343\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nHOSPITAL MUNICIPAL LOS OLIVOS\nSERVICIO DE ESPECIALISTA Y/O GESTOR EN APOY",
+      "sourceIds": [
+        "rtc-92326-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92326-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+anita&cargo=alcalde-distrital&organizacion=39&candidato=92326",
+      "sha256": "484294091a9f53a66df7e660e826ea3fd55d35e8fe5b79893577d987d9a63ec8",
+      "accessedAt": "2026-10-03T01:01:45.483Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

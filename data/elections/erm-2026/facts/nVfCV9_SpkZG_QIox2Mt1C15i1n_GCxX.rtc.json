@@ -1,0 +1,34 @@
+{
+  "candidateId": "nVfCV9_SpkZG_QIox2Mt1C15i1n_GCxX",
+  "facts": [
+    {
+      "id": "rtc-88325-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 36,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 36,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 36,000\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nPARA REALIZAR UN DIAGNOSTICO DE LOS INSTRUMENTOS DE GESTIÓN, PROCEDIMIENTOS ADMINISTRATIVOS, BASE GRÁFICA CATASTRAL, INFORMACIÓN ALFA NUMÉRICA CATASTRAL Y UN SISTEMA WEB DE ACCESO\nMonto: S/ 31,000\nCódigo: 2@4421078\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nPARA REALIZAR ANALISIS DEL GASTO DE LA TRANSFERENCIA RECIBIDO\nMonto: S/ 5,000\nCódigo: 2@4421013\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-88325-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88325-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=3&candidato=88325",
+      "sha256": "a6473452dd558b24ef44aa58ba493112086adc90161427921f60671dc212326e",
+      "accessedAt": "2026-10-03T01:11:39.839Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

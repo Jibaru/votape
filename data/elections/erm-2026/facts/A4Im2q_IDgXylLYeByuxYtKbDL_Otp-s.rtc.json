@@ -1,0 +1,34 @@
+{
+  "candidateId": "A4Im2q_IDgXylLYeByuxYtKbDL_Otp-s",
+  "facts": [
+    {
+      "id": "rtc-87148-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 21 contrato(s) con el Estado por S/ 42,900.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "21",
+        "montoTotal": "S/ 42,900"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n21 contratos\nS/ 42,900\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO DE LOCACISN PARA SG. P.S.D.Y.O. - SETIEMB\nMonto: S/ 2,000\nCódigo: 2@7547474\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO DE LOCACISN PARA SG.P.S.D.Y.O. - AGOSTO 2\nMonto: S/ 2,000\nCódigo: 2@7491407\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO DE LOCACISN PARA SG.P.S.D.Y.O. - JULIO 20\nMonto: S/ 2,000\nCódigo: 2@7125537\nSERVICIO\nEstado: Contratado\nRUC:",
+      "sourceIds": [
+        "rtc-87148-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87148-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=52&candidato=87148",
+      "sha256": "a0a27d0cfde9a07b6265e425e736eb4aa1c18090673a15d374d82a994b25b650",
+      "accessedAt": "2026-10-03T00:51:50.852Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

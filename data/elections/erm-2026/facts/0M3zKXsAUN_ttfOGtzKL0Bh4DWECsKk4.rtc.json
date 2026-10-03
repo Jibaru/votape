@@ -1,0 +1,34 @@
+{
+  "candidateId": "0M3zKXsAUN_ttfOGtzKL0Bh4DWECsKk4",
+  "facts": [
+    {
+      "id": "rtc-87061-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 40,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 40,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 40,000\nMUNICIPALIDAD DISTRITAL DE MIRAFLORES - LIMA\nSERVICIO DE UN INGENIERO AMBIENTAL - CEF - SUBGERENCIA DE FISCALIZACIÓN Y CONTROL - CUATRO ENTREGABLES\nMonto: S/ 40,000\nCódigo: 2@31861309\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-87061-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87061-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=barranco&cargo=alcalde-distrital&organizacion=49&candidato=87061",
+      "sha256": "97c588586d8f4bb8e80a1586854bffc056bcc5d6b0c5d5c80715069268ce532f",
+      "accessedAt": "2026-10-03T00:53:49.799Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

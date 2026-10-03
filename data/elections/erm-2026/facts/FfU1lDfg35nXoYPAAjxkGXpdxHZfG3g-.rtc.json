@@ -1,0 +1,33 @@
+{
+  "candidateId": "FfU1lDfg35nXoYPAAjxkGXpdxHZfG3g-",
+  "facts": [
+    {
+      "id": "rtc-87584-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CORPORACION E INMOBILIARIA MARISUL S.A.C.\nAccionista (60%)\nAdministración\nRepresentante legal\nRUC: 20565811381\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 30/04/2025\nCondición: HABIDO\n12 contratos con el Estado · S/ 93,205.6",
+      "sourceIds": [
+        "rtc-87584-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87584-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=13&candidato=87584",
+      "sha256": "ed0b71eb7d73825ad4725c3c202b4ff9c25b1b7c838e776568c029ccfba50a02",
+      "accessedAt": "2026-10-03T01:24:41.076Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

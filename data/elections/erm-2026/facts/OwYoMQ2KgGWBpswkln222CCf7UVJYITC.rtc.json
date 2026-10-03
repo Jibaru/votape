@@ -1,0 +1,33 @@
+{
+  "candidateId": "OwYoMQ2KgGWBpswkln222CCf7UVJYITC",
+  "facts": [
+    {
+      "id": "rtc-88538-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "A & C MASTER GESTION S.A.C.\nAccionista (20%)\nRUC: 20604028214\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 5,699",
+      "sourceIds": [
+        "rtc-88538-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88538-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=48&candidato=88538",
+      "sha256": "91faa989829adcf408765afc5eb9e9414026bafd06c59fa4d2fb838e6b740d99",
+      "accessedAt": "2026-10-03T00:29:45.084Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

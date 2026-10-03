@@ -33,12 +33,18 @@ export const CATEGORY_LABEL: Record<FactCategory, string> = {
   state_contract: "Contratos con el Estado",
   traffic: "Tránsito",
   reinfo: "REINFO (minería)",
+  registered_debt: "Deudas en registros oficiales",
+  company_link: "Empresas vinculadas",
   press_report: "Reportes de prensa",
 };
 const CATEGORY_SHORT: Partial<Record<FactCategory, string>> = {
   press_report: "prensa",
   judicial_process: "proceso",
   sanction: "sanción",
+  state_contract: "contratos",
+  registered_debt: "deuda",
+  traffic: "tránsito",
+  reinfo: "reinfo",
   criminal_sentence: "penal",
   civil_obligation: "oblig.",
   marginal_note: "anot.",
@@ -339,9 +345,13 @@ function renderFact(f: Fact, sources: Source[] = []): string {
     const src = sources.filter((s) => f.sourceIds.includes(s.id));
     const lines = [`    • ${[f.date, safe(f.summary)].filter(Boolean).join("  ")}`];
     if (LEGAL_LABEL[f.legalStatus]) lines.push(`      ${muted("Estado:")} ${LEGAL_LABEL[f.legalStatus]}`);
-    if (f.quote) lines.push(`      ${muted(`“${safe(f.quote)}”`)}`);
+    if (f.quote) lines.push(`      ${muted(`“${safe(f.quote).replace(/\s*\n\s*/g, " · ")}”`)}`);
+    if (f.details.registro) lines.push(`      ${muted(`Registro de origen: ${safe(f.details.registro)}`)}`);
     for (const s of src) lines.push(`      ${muted(`${safe(s.publisher)}${s.title ? ` — ${safe(s.title)}` : ""}`)}\n      ${info(s.url)}`);
-    lines.push(`      ${dim(`${EVIDENCE_LABEL[f.evidence]} · revisado por ${f.reviewedBy ?? "?"} el ${(f.reviewedAt ?? "").slice(0, 10)}`)}`);
+    const when = f.reviewedBy
+      ? `revisado por ${f.reviewedBy} el ${(f.reviewedAt ?? "").slice(0, 10)}`
+      : `consultado el ${(src[0]?.accessedAt ?? "").slice(0, 10)}, sin revisión humana`;
+    lines.push(`      ${dim(`${EVIDENCE_LABEL[f.evidence]} · ${when}`)}`);
     return lines.join("\n");
   }
   const d = f.details;

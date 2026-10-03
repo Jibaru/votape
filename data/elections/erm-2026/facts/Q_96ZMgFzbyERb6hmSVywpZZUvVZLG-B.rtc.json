@@ -1,0 +1,34 @@
+{
+  "candidateId": "Q_96ZMgFzbyERb6hmSVywpZZUvVZLG-B",
+  "facts": [
+    {
+      "id": "rtc-88330-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 30 contrato(s) con el Estado por S/ 127,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "30",
+        "montoTotal": "S/ 127,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n30 contratos\nS/ 127,000\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSERVICIO DE SUPERVISION,EVALUACION Y ANALISIS DE TRABAJO DE CAMPO DEL SISTEMA DE TRANSPORTE PUBLICO-\nMonto: S/ 2,220\nCódigo: 2@39137193\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN DE PORRES\nSERVICIO DE SUPERVISION, EVALUACION Y ANALISIS DE TRABAJO DE CAMPO DEL SISTEMA DE TRANSPORTE PUBLICO\nMonto: S/ 2,220\nCódigo: 2@39135420\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN MARTIN ",
+      "sourceIds": [
+        "rtc-88330-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88330-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=8&candidato=88330",
+      "sha256": "396cad62079c0ede01c9407c3669f8412c22e42b39529ba9c7eb8d823a6d62b8",
+      "accessedAt": "2026-10-03T01:10:45.194Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

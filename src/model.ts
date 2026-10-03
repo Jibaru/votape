@@ -2,7 +2,7 @@
 // these shapes, and `votape schema` describes them to agents. Changing a field
 // here is a breaking change for anyone parsing our output: bump SCHEMA_VERSION.
 
-export const SCHEMA_VERSION = "1.0.0";
+export const SCHEMA_VERSION = "1.1.0";
 
 export type Evidence = "declarado" | "registro_oficial" | "agregador" | "prensa";
 export type LegalStatus = "sentencia" | "proceso" | "investigacion" | "denuncia" | "n/a";
@@ -15,6 +15,8 @@ export type FactCategory =
   | "state_contract"
   | "traffic"
   | "reinfo"
+  | "registered_debt"
+  | "company_link"
   | "press_report";
 
 export type Provider = {

@@ -1,0 +1,50 @@
+{
+  "candidateId": "t_vDxNKhUfcI4PxAVbo29QqXURHxtNu5",
+  "facts": [
+    {
+      "id": "rtc-92808-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 55 contrato(s) con el Estado por S/ 16,077.7.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "55",
+        "montoTotal": "S/ 16,077.7"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n55 contratos\nS/ 16,077.7\nHOSPITAL PUENTE PIEDRA - CARLOS LANFRANCO LA HOZ - CLL4\nSERVICIO DE IMPRESION DE MATERIAL COMUNICACIONAL SEGUN NO INF N°003-02/22-C-RR-PP-HCLLH\nMonto: S/ 312.7\nCódigo: 2@20546060\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIDAD EJECUTORA 036 - 001634 - FONDO SIERRA AZUL\nBAN-CAJ4: SERVICIO DE IMPRESION DE BANNER O GIGANTOGRAFIA REGION CAJAMARCA CUI 2501037\nMonto: S/ 363\nCódigo: 2@18819954\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIDAD EJECUTORA 036 - 001634 - FONDO SIERRA AZUL\nBAN-CA",
+      "sourceIds": [
+        "rtc-92808-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92808-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "MUNDO PUBLICITARIO DOLORIER S.A.C.\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20606462396\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 10,991",
+      "sourceIds": [
+        "rtc-92808-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92808-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+rosa&cargo=alcalde-distrital&organizacion=52&candidato=92808",
+      "sha256": "0eb982ac16cd6d43623a3c5a033cb5d5fcdb038c5226fba557634a8e2c7ea6a9",
+      "accessedAt": "2026-10-03T00:48:11.376Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "G8zElO94XF2ELCJBIBLu-sCV28IMYi50",
+  "facts": [
+    {
+      "id": "rtc-88333-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 17,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 17,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 17,500\nPROGRAMA NACIONAL DE EMPLEO JUVENIL JOVENES PRODUCTIVOS\nCONTRATACIÓN DEL SERVICIO PARA LAS COORDINACIONES Y COMPROMISOS CON LOS GOBIERNOS LOCALES Y REG\nMonto: S/ 7,000\nCódigo: 2@6059941\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA NACIONAL DE EMPLEO JUVENIL JOVENES PRODUCTIVOS\nREQUERIMIENTO DE SERVICIO DE COORDINADOR DE FOCALIZACIÓN - UZ LIMA CALLAO.\nMonto: S/ 10,500\nCódigo: 2@5370103\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-88333-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88333-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=19&candidato=88333",
+      "sha256": "0d131180679ea06009020e2a29f3f87f6b7168d96da9fcac193f0c20d88cedbe",
+      "accessedAt": "2026-10-03T01:10:08.212Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

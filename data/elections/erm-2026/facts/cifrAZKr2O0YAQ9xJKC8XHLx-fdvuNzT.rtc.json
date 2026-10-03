@@ -1,0 +1,50 @@
+{
+  "candidateId": "cifrAZKr2O0YAQ9xJKC8XHLx-fdvuNzT",
+  "facts": [
+    {
+      "id": "rtc-88693-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 32,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 32,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 32,000\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nPERSONAL DE APOYO CORRESPONDIENTE AL MES DE ENERO DEL 2020\nMonto: S/ 4,000\nCódigo: 2@13926109\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nPERSONAL DE APOYO - LOCADOR DE SERVICIOS CORRESPONDIENTE AL MES DE JULIO DEL 2019\nMonto: S/ 4,000\nCódigo: 2@12292454\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nPERSONAL DE APOYO - LOCADOR DE SERVICIOS PARA LA GERENCIA DE PARTICIPACION VECIN",
+      "sourceIds": [
+        "rtc-88693-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88693-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "R.S.A. INDUSTRIAL S.A.C.\nAccionista (95%)\nAdministración\nRepresentante legal\nRUC: 20492694470\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nNO HABIDO\n1 contrato con el Estado · S/ 25,355.33\nDeuda coactiva: S/ 1,584,956",
+      "sourceIds": [
+        "rtc-88693-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88693-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=1&candidato=88693",
+      "sha256": "2251c9d46eed230c02869c3e3261ddfa6782c5213e23366f3c21533110c16521",
+      "accessedAt": "2026-10-03T00:55:30.527Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

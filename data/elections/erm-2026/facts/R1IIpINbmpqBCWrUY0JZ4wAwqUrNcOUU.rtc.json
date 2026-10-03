@@ -1,0 +1,34 @@
+{
+  "candidateId": "R1IIpINbmpqBCWrUY0JZ4wAwqUrNcOUU",
+  "facts": [
+    {
+      "id": "rtc-93208-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 4,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 4,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 4,000\nMUNICIPALIDAD PROVINCIAL DE HUARAL\nSERVICIO DE ASISTENCIA TECNICA ESPECIALIZADA EN PRESUPUESTOPARTICIPATIVO BASADO EN RESULTADOS PARA EL AÑO FISCAL 2016 DE LA MUNICIPALIDAD PROVINCIAL DE HUARAL\nMonto: S/ 4,000\nCódigo: 2@12812477\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-93208-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93208-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=1&candidato=93208",
+      "sha256": "4888d014284202893e2e42f8bcc040a17c2732bddd02b58d9c94cfd13bd4b593",
+      "accessedAt": "2026-10-02T23:45:08.024Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

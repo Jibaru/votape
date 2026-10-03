@@ -1,0 +1,50 @@
+{
+  "candidateId": "DtBxssrF-hBxjuRN8U5cMuyxwiNYf2-x",
+  "facts": [
+    {
+      "id": "rtc-87062-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 27 contrato(s) con el Estado por S/ 220,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "27",
+        "montoTotal": "S/ 220,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n27 contratos\nS/ 220,200\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE SUPERVISION Y ASISTENCIA TECNICA PARA EL DESPACHO DE ALCALDIA, SEGUN TDR\nMonto: S/ 9,000\nCódigo: 2@37439288\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE SUPERVISION Y ASISTENCIA TECNICA PARA EL DESPACHO DE ALCALDIA, SEGUN TDR\nMonto: S/ 4,500\nCódigo: 2@37437301\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICION DE SUP",
+      "sourceIds": [
+        "rtc-87062-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87062-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "PETERINARIA SURCO EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA - PETERINARIA SURCO E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20602493441\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n2 contratos con el Estado · S/ 46,555\nCOMPAÑIA MIAN SOCIEDAD ANONIMA CERRADA - CIA MIAN SAC\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20491950529\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 5,136",
+      "sourceIds": [
+        "rtc-87062-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87062-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=barranco&cargo=alcalde-distrital&organizacion=4&candidato=87062",
+      "sha256": "1e55ed2468a284c8684618ea62b8b2948bfdd4c9fa246424d6578f64e3703460",
+      "accessedAt": "2026-10-03T00:52:54.733Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

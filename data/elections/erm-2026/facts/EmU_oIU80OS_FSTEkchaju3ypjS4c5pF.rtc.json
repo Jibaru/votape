@@ -1,0 +1,63 @@
+{
+  "candidateId": "EmU_oIU80OS_FSTEkchaju3ypjS4c5pF",
+  "facts": [
+    {
+      "id": "rtc-89681-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "MADUEÑO IMPORTEX E.I.R.L. - MADIMP E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20553040176\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n4 contratos con el Estado · S/ 64,426.1\nSUPERSTAR TOOLS S.A.C.\nAccionista (90%)\nRUC: 20555538741\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89681-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89681-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "2",
+        "puntosAcumulados": "20",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-89681-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89681-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=35&candidato=89681",
+      "sha256": "2a8ef8fd3b7197b6d56c9d014d72113efdf3c27300abff0ca8d8e8ec5bff9274",
+      "accessedAt": "2026-10-03T00:59:55.050Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-89681-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=35&candidato=89681",
+      "sha256": "4cb97bbc521343307de71849b84e92e91feb94fd31fef3ddd12a2e4c6a240832",
+      "accessedAt": "2026-10-03T00:59:55.050Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

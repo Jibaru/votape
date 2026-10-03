@@ -1,0 +1,50 @@
+{
+  "candidateId": "kl9sR2mC3mHtjr-mty1kA0D2ith-pHgJ",
+  "facts": [
+    {
+      "id": "rtc-93496-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 37,496.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 37,496"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 37,496\nPOLICÍA NACIONAL DEL PERÚ - DIRECCIÓN EJECUTIVA DE EDUCACIÓN Y DOCTRINA\nSERVICIO ESPECIALIZADO EN MATERIA LEGAL PARA LA UNIDAD DE ADMISION E INFORMES DE LA DIREDDOC PNP\nMonto: S/ 14,000\nCódigo: 2@39981199\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPOLICÍA NACIONAL DEL PERÚ - DIRECCIÓN EJECUTIVA DE EDUCACIÓN Y DOCTRINA\nSERVICIO ESPECIALIZADO EN MATERIA LEGAL PARA LA UNIDAD DE ADMISION E INFORMES\nMonto: S/ 14,000\nCódigo: 2@39672092\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPOLICÍA NACIONAL ",
+      "sourceIds": [
+        "rtc-93496-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-93496-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "EL FARAON S.A.C.\nAccionista (0%)\nRepresentante legal\nRUC: 20507594230\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/07/2015\nNO HABIDO\n11 contratos con el Estado · S/ 128,786.52\nDeuda coactiva: S/ 33,215",
+      "sourceIds": [
+        "rtc-93496-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93496-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+maria+del+triunfo&cargo=alcalde-distrital&organizacion=41&candidato=93496",
+      "sha256": "9a2f9c47b8e1b494d4e18a8ebdea4ca6440a3531b8a4189777f2723b925b8cfd",
+      "accessedAt": "2026-10-03T00:44:21.834Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

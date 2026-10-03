@@ -1,0 +1,34 @@
+{
+  "candidateId": "Yh20TYqNaoa8_dRrc8vyh1PNPVqWD5so",
+  "facts": [
+    {
+      "id": "rtc-88529-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 22 contrato(s) con el Estado por S/ 111,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "22",
+        "montoTotal": "S/ 111,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n22 contratos\nS/ 111,000\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nCOMO ESPECIALISTA PARA LA SGCO- AGOSTO\nMonto: S/ 5,000\nCódigo: 2@23114997\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nCOMO ANALISTA PARA LA SGCYO-JULIO\nMonto: S/ 5,000\nCódigo: 2@23118496\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO COMO ESPECIALISTA PARA SGCYO-JUNIO\nMonto: S/ 5,000\nCódigo: 2@23112625\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido",
+      "sourceIds": [
+        "rtc-88529-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88529-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=3&candidato=88529",
+      "sha256": "869a43eca1fde10c3ba09b38f787a3776ac9757da3ebca03e7a1b3e9c802c60b",
+      "accessedAt": "2026-10-03T00:30:48.749Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

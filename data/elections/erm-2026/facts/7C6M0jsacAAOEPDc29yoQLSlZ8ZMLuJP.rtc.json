@@ -1,0 +1,34 @@
+{
+  "candidateId": "7C6M0jsacAAOEPDc29yoQLSlZ8ZMLuJP",
+  "facts": [
+    {
+      "id": "rtc-88694-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 18 contrato(s) con el Estado por S/ 71,700.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "18",
+        "montoTotal": "S/ 71,700"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n18 contratos\nS/ 71,700\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nCONTRATACION DEL SERVICIO DE PRESENTADOR PARA NOTICIERO MUNICIPAL\nMonto: S/ 1,900\nCódigo: 2@33373792\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nCONTRATACION DEL SERVICIO DE PRESENTADOR PARA NOTICIERO MUNICIPAL\nMonto: S/ 1,900\nCódigo: 2@33205591\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nCONTRATACION DE UNA PERSONA NATURAL QUE BRINDE SERVICIO DE PRESENTADOR PARA NOTICIERO MU",
+      "sourceIds": [
+        "rtc-88694-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88694-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=3&candidato=88694",
+      "sha256": "9c4f8453fdfe5f171e55d95f175ccdb29245548b69f6d39b3c8e7e94ff841ae8",
+      "accessedAt": "2026-10-03T00:55:39.740Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

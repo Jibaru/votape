@@ -1,0 +1,50 @@
+{
+  "candidateId": "4XGqWMcH6fSZk0uWK5wvM0_VBdFuc357",
+  "facts": [
+    {
+      "id": "rtc-5532-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 53,086.95.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 53,086.95"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 53,086.95\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nPARA SERVICIO PRESTADO COMO ESPECIALISTA LEGAL PARA LA PPM POR EL MES DE JUNIO DEL 2019.\nMonto: S/ 5,000\nCódigo: 2@11927760\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nPARA SERVICIO PRESTADO COMO ESPECIALISTA LEGAL PARA PPM POR EL MES DE MAYO DEL 2019.\nMonto: S/ 5,000\nCódigo: 2@11927059\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nPOR EL SERVICIO DE ASESOR",
+      "sourceIds": [
+        "rtc-5532-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-5532-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CASA SUELDO SRL\nAccionista (25%)\nRUC: 20120609123\nSOC.COM.RESPONS. LTDA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 1,042,696",
+      "sourceIds": [
+        "rtc-5532-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-5532-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=52&candidato=5532",
+      "sha256": "cd17224e015e0a36fc49dbb35f9abb7b43552d5bba74a5c3f3f0dc53882f05c6",
+      "accessedAt": "2026-10-03T00:30:30.516Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

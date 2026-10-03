@@ -1,0 +1,64 @@
+{
+  "candidateId": "lg2y2wGVJURtJwv4WYsiClt8-Qo1SSn6",
+  "facts": [
+    {
+      "id": "rtc-87481-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 18,600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 18,600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 18,600\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nLOCACION DE SERVICIOS PARA SUBGERENCIA DE SERENAZGO\nMonto: S/ 7,000\nCódigo: 2@39727939\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nLOCACION DE SERVICIO PARA LA SUBGERENCIA DE SERENAZGO\nMonto: S/ 3,500\nCódigo: 2@39253258\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nLOCACION DE SERVICIO PARA LA SUBGERENCIA DE SERENAZGO\nMonto: S/ 7,000\nCódigo: 2@39196771\nSERVICIO\nEstado: Contratado\nR",
+      "sourceIds": [
+        "rtc-87481-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87481-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "2",
+        "puntosAcumulados": "10",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-87481-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87481-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=39&candidato=87481",
+      "sha256": "c0f95f1091a49511b5e0a39000f4363f4146393bece0a70d5579ae6004fa0340",
+      "accessedAt": "2026-10-03T00:34:46.125Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87481-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chaclacayo&cargo=alcalde-distrital&organizacion=39&candidato=87481",
+      "sha256": "144ef037b7d34491c5ddf73545f150675db5c0991a65e17464effabd28ef3f14",
+      "accessedAt": "2026-10-03T00:34:46.125Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

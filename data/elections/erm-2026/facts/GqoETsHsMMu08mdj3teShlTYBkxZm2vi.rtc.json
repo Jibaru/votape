@@ -1,0 +1,34 @@
+{
+  "candidateId": "GqoETsHsMMu08mdj3teShlTYBkxZm2vi",
+  "facts": [
+    {
+      "id": "rtc-414-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 9,650.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 9,650"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 9,650\nREGISTRO NACIONAL DE IDENTIFICACION Y ESTADO CIVIL\nELC-AUXILIAR PARA EL PROCESO DE ELECCIONES CONGRESALES 2020\nMonto: S/ 3,100\nCódigo: 2@12932444\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nCONTRTACION DE SERVICIO\nMonto: S/ 1,200\nCódigo: 2@21233259\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nCONTRATACION DE SERVICIO\nMonto: S/ 1,200\nCódigo: 2@21232627\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natur",
+      "sourceIds": [
+        "rtc-414-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-414-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=25&candidato=414",
+      "sha256": "f1d5b9384fbe89bfd94ccf5a0d5800a2fd6b9319624f534a17e896a442b997ae",
+      "accessedAt": "2026-10-03T00:06:37.586Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

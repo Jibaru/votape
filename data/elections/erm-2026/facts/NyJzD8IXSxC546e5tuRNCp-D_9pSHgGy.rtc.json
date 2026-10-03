@@ -1,0 +1,34 @@
+{
+  "candidateId": "NyJzD8IXSxC546e5tuRNCp-D_9pSHgGy",
+  "facts": [
+    {
+      "id": "rtc-92193-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 23 contrato(s) con el Estado por S/ 106,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "23",
+        "montoTotal": "S/ 106,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n23 contratos\nS/ 106,800\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE COORDINADOR DE SALUD\nMonto: S/ 3,000\nCódigo: 2@39782757\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE COORDINADOR DE SALUD\nMonto: S/ 3,000\nCódigo: 2@39611315\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BREÑA\nSERVICIO DE COORDINADOR DE SALUD\nMonto: S/ 3,000\nCódigo: 2@39533219\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (20 más)",
+      "sourceIds": [
+        "rtc-92193-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92193-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=39&candidato=92193",
+      "sha256": "db54cdf9e11caf41156b0c5e4bb863061093550a1e4c5f34eac25eb1f5bf2fdb",
+      "accessedAt": "2026-10-03T01:03:35.027Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

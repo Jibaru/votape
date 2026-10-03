@@ -1,0 +1,50 @@
+{
+  "candidateId": "V8eNKYD9IODQ1S71BwHDPzQ-cbryOegd",
+  "facts": [
+    {
+      "id": "rtc-90360-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 49,600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 49,600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 49,600\nUNIVERSIDAD NACIONAL DE INGENIERIA\nSERVICIO DE GESTOR DE CONTENIDOS WEB Y REDES SOCIALES\nMonto: S/ 16,800\nCódigo: 2@34937068\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DE INGENIERIA\nSERVICIO DE GESTOR DE CONTENIDOS WEB Y REDES SOCIALES\nMonto: S/ 12,000\nCódigo: 2@29308903\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DE INGENIERIA\nSERVICIO DE GESTOR DE CONTENIDOS WEB Y REDES SOCIALES\nMonto: S/ 5,000\nCódigo: 2@25792535\nSERVICIO\nEstado: Contratado\nRUC: [",
+      "sourceIds": [
+        "rtc-90360-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90360-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "REAL MARKETING S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20604045691\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 700",
+      "sourceIds": [
+        "rtc-90360-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90360-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=13&candidato=90360",
+      "sha256": "82086a8a0121f195d62f9166a8a3854e41ab50ecde2883ab8e3cf11af1605ece",
+      "accessedAt": "2026-10-03T00:22:54.067Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

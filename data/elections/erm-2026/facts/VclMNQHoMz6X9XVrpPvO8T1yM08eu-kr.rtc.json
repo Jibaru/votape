@@ -1,0 +1,34 @@
+{
+  "candidateId": "VclMNQHoMz6X9XVrpPvO8T1yM08eu-kr",
+  "facts": [
+    {
+      "id": "rtc-90254-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 6,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 6,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 6,000\nINSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCION DE LA PROPIEDAD INTELECTUAL\nSERVICIO DE TUTORIA PARA CURSO VIRTUAL SOBRE PROPIEDAD INTELECTUAL Y DERECHO DE AUTOR - TUTOR ACADÉMICO 01\nMonto: S/ 1,000\nCódigo: 2@9897614\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCION DE LA PROPIEDAD INTELECTUAL\nSERVICIO DE DISEÑO Y ELABORACION DE MATERIAL EDUCATIVO PARA CURSO VIRTUAL\nMonto: S/ 5,000\nCódigo: 2@6762094\nSERVICIO\nEstado: Contratado\nRUC: [RU",
+      "sourceIds": [
+        "rtc-90254-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90254-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=miraflores&cargo=alcalde-distrital&organizacion=35&candidato=90254",
+      "sha256": "fd64f55dc5cb550201157e45da1b4c9bcc04974e8c468d3af6abe0e267fe9a3c",
+      "accessedAt": "2026-10-03T01:18:31.874Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

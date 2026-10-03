@@ -1,0 +1,34 @@
+{
+  "candidateId": "Z2uRnWcskLdvLHYGNb4ZvLHnkjfvxd_o",
+  "facts": [
+    {
+      "id": "rtc-91783-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 9,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 9,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 9,000\nORGANISMO DE EVALUACION Y FISCALIZACION AMBIENTAL\nServicio De Apoyo En Gestion Administrativa\nMonto: S/ 9,000\nCódigo: 2@17137451\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91783-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91783-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=22&candidato=91783",
+      "sha256": "c0011c78fa9af21e26338b1891d2d8026f2614ecf26d16c3c6af64bb5ed81883",
+      "accessedAt": "2026-10-03T00:16:12.565Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

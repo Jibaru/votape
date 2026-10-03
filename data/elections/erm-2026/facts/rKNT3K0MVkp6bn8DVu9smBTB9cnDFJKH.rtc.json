@@ -1,0 +1,34 @@
+{
+  "candidateId": "rKNT3K0MVkp6bn8DVu9smBTB9cnDFJKH",
+  "facts": [
+    {
+      "id": "rtc-87140-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 2,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 2,000"
+      },
+      "quote": "RUC: 15250591664\n1 contrato\nS/ 2,000\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nPOR EL SERVICIO DE PROMOTOR DE OMAPED CORRESPONDIENTE AL MES DE ENERO SOLICITADO POR LA SUBGERENCIA DE A MUJER DEMUNA OMAPED Y ADULPO MAYOR\nMonto: S/ 2,000\nCódigo: 2@11458414\nSERVICIO\nEstado: Contratado\nRUC: 15250591664",
+      "sourceIds": [
+        "rtc-87140-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87140-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=24&candidato=87140",
+      "sha256": "9c81f7d5f861e061afbcd6985f0a8cbc3c9427e484af9284e6f22ca2601a936a",
+      "accessedAt": "2026-10-03T00:51:59.986Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

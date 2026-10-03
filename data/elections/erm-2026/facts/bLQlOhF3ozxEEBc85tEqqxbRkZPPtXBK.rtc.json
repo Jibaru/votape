@@ -1,0 +1,34 @@
+{
+  "candidateId": "bLQlOhF3ozxEEBc85tEqqxbRkZPPtXBK",
+  "facts": [
+    {
+      "id": "rtc-89807-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 10 contrato(s) con el Estado por S/ 35,400.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "10",
+        "montoTotal": "S/ 35,400"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n10 contratos\nS/ 35,400\nMUNICIPALIDAD DISTRITAL DE ASIA - CAÑETE\nSERVICIO DE ASESORIA EN SEGUIMIENTO Y REVISION DE INFORMACION Y/O DOCUMENTOS REQUERIDO POR LA SUB GERENCIA DE LOGISTICA Y ABASTECIMIENTO DE LA MDA\nMonto: S/ 3,500\nCódigo: 2@23953775\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ASIA - CAÑETE\nSERVICIO DE ASESORIA EN SEGUIMIENTO Y REVISION DE INFORMACION Y/O DOCUMENTOS\nMonto: S/ 3,500\nCódigo: 2@23593962\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ASIA",
+      "sourceIds": [
+        "rtc-89807-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89807-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurin&cargo=alcalde-distrital&organizacion=52&candidato=89807",
+      "sha256": "b3e985b9c7d2f3d3652de4df7c7eafe066b90415c5467f8c8e6df60502a4065a",
+      "accessedAt": "2026-10-03T00:49:42.855Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

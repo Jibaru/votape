@@ -1,0 +1,50 @@
+{
+  "candidateId": "E1-oWgHXyQYAI4cK0_KFFrc98seVFKPG",
+  "facts": [
+    {
+      "id": "rtc-92068-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 15 contrato(s) con el Estado por S/ 67,033.34.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "15",
+        "montoTotal": "S/ 67,033.34"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n15 contratos\nS/ 67,033.34\nMUNICIPALIDAD DISTRITAL DE EL AGUSTINO\nCONTRATACION DE UNA (1) PERSONA NATURAL, BAJO LA MODALIDAD DE LOCACION DE SERVICIOS (TERCEROS), LOCADORES DE LA PROCURADURIA PUBLICA MUNICIPAL COMO AUXILIAR ADMINISTRATIVO DE LA MUNICIPALIDAD DISTRITAL DE EL AGUSTINO, CORRESPONDIENTE AL MES DE ENERO DEL 2022.\nMonto: S/ 4,200\nCódigo: 2@20330366\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD PROVINCIAL DEL CALLAO\nESPECIALISTA LEGAL\nMonto: S/ 4,500\nCódigo: 2@18858226\nSERVICIO\nEstado: Contratado\nRUC: [RUC de perso",
+      "sourceIds": [
+        "rtc-92068-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92068-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "PAREDES TORRES ABOGADOS E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20610406573\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 31/08/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92068-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92068-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+miguel&cargo=alcalde-distrital&organizacion=17&candidato=92068",
+      "sha256": "593d7b6e6ecf3174921eea34fc9ebafd8f7f99b5b2f4a9de080560fb7ed5a672",
+      "accessedAt": "2026-10-03T00:39:11.246Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

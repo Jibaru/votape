@@ -1,0 +1,33 @@
+{
+  "candidateId": "O3mCUql20axZHq08pmWD9fENi9kOvThr",
+  "facts": [
+    {
+      "id": "rtc-93497-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "TEXTIL APOLOGYES STORE S.A.C.\nAccionista (96%)\nAdministración\nRUC: 20610632310\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-93497-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93497-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+maria+del+triunfo&cargo=alcalde-distrital&organizacion=43&candidato=93497",
+      "sha256": "c62748d226898af92e2416519b788001625662c59da47bfc5fb2acd9521ed143",
+      "accessedAt": "2026-10-03T00:44:03.653Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

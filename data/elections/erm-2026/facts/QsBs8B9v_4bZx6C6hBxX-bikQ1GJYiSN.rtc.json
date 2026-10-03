@@ -1,0 +1,32 @@
+{
+  "candidateId": "QsBs8B9v_4bZx6C6hBxX-bikQ1GJYiSN",
+  "facts": [
+    {
+      "id": "rtc-87769-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "VASQUEZ LAGUNA RICARDO SANTIAGO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 03/01/1996\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87769-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87769-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=21&candidato=87769",
+      "sha256": "65d46e60113c03f148e23e4f8557b4b43caa5a82d0c6bdbb6ff343f5f0e0a944",
+      "accessedAt": "2026-10-03T00:41:09.562Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

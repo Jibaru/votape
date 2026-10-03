@@ -1,0 +1,34 @@
+{
+  "candidateId": "M7TAcctPHmOdHxPGvSVAPcJomLDo__Pw",
+  "facts": [
+    {
+      "id": "rtc-90367-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 266,630.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 266,630"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 266,630\nINSTITUTO NACIONAL DE ESTADISTICA\nOFICIO 8263-2025-INEI-OTPP DEL SERVICIO DE COORDINACION, VERIFICACION Y CUMPLIMIENTO DE ACTIVIDADES DE CAMPO\nMonto: S/ 42,000\nCódigo: 2@36490448\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA EDUCACION BASICA PARA TODOS UE 026\nSINAD UMC2025-INT-0365919 \"SERVICIO DE ASISTENCIA TÉCNICA PARA EL DISEÑO DE ESTRATEGIAS DE COORDIN.\nMonto: S/ 12,000\nCódigo: 2@34614689\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nSUPERINTENDENCIA NACIONAL DE MIGRACIONES\nSERVICI",
+      "sourceIds": [
+        "rtc-90367-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90367-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=48&candidato=90367",
+      "sha256": "e19fbfbba480c2150d2864c1bb34929b571463d062e7c2ea5c43a474bcc34f81",
+      "accessedAt": "2026-10-03T00:23:21.450Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

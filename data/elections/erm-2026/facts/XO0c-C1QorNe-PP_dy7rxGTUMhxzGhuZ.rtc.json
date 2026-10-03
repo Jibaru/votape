@@ -1,0 +1,33 @@
+{
+  "candidateId": "XO0c-C1QorNe-PP_dy7rxGTUMhxzGhuZ",
+  "facts": [
+    {
+      "id": "rtc-91185-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "CORPORACION SLIN SAC\nAccionista (99.52%)\nAdministración\nRepresentante legal\nRUC: 20508622326\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n92 contratos con el Estado · S/ 5,038,459.78\nMUNITECNIA PERU S.A.C.\nAccionista (50%)\nRUC: 20566406064\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n12 contratos con el Estado · S/ 1,820,232",
+      "sourceIds": [
+        "rtc-91185-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91185-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+isidro&cargo=alcalde-distrital&organizacion=39&candidato=91185",
+      "sha256": "51eb02b19399c652871660c7c64642ae34d8c63c155be014b69cc3705406b07e",
+      "accessedAt": "2026-10-03T00:45:07.584Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

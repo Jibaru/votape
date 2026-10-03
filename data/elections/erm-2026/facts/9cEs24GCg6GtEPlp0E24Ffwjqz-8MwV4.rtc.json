@@ -1,0 +1,34 @@
+{
+  "candidateId": "9cEs24GCg6GtEPlp0E24Ffwjqz-8MwV4",
+  "facts": [
+    {
+      "id": "rtc-87141-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 28,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 28,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 28,000\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nSERVICIO DE LOCACIÓN, SEGUN TERMINOS DE REFERENCIA\nMonto: S/ 4,000\nCódigo: 2@29954919\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nSERVICO DE MONITOREO DE CUMPLIMIEMTO DE METASS DE INCENTIVOS Y RECONOCIEMIENTO DE EJECUCION DE\nMonto: S/ 4,000\nCódigo: 2@26213478\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nREQUERIMIENTO DE LOCACIÓN, SEGÚN TERMINOS DE REFERENCIA\nMonto: S/ 4,000\nCódigo",
+      "sourceIds": [
+        "rtc-87141-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87141-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=83&candidato=87141",
+      "sha256": "12c5d3afafcc028b603149edc53fe08512df9a0f91fa80a48c49e05c457c21c6",
+      "accessedAt": "2026-10-03T00:50:28.304Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

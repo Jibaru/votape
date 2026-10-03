@@ -1,0 +1,34 @@
+{
+  "candidateId": "TS4j99YKHvm390yf8t3qwdQt2Tpck_ty",
+  "facts": [
+    {
+      "id": "rtc-90586-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 1,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 1,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 1,500\nMUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA\nATENCION A LAS AREAS USUARIAS PARA FUNCIONAMIENTO\nMonto: S/ 1,500\nCódigo: 2@3475191\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-90586-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90586-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=puente+piedra&cargo=alcalde-distrital&organizacion=15&candidato=90586",
+      "sha256": "1b90a866f0ac2348588dc5e3df497829e1d3ed004ea17bbe4cdd47be275c8a2c",
+      "accessedAt": "2026-10-03T01:13:02.333Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

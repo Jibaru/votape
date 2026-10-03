@@ -1,0 +1,50 @@
+{
+  "candidateId": "zyQi28cdAIEF28YLV9xKAi3ZFejarR96",
+  "facts": [
+    {
+      "id": "rtc-92867-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 36 contrato(s) con el Estado por S/ 2,208,678.6.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "36",
+        "montoTotal": "S/ 2,208,678.6"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n36 contratos\nS/ 2,208,678.6\nPROYECTO ESPECIAL LEGADO\nSERVICIO DE HOUSEKEEPING DE LA VILLA BOLIVARIANA\nMonto: S/ 347,000\nCódigo: 1@2280170\nSERVICIO\nEstado: Contratado\nFin: 2024-12-30T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nPROYECTO ESPECIAL LEGADO\nSERVICIO DE ALQUILER DE PANTALLAS LED PARA LA REALIZACION DE LOS JUEGOS BOLIVARIANOS AYACUCHO 2024\nMonto: S/ 149,900\nCódigo: 1@2273861\nSERVICIO\nEstado: Contratado\nFin: 2024-12-07T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE BARRANCO\nSERVICIO DE ACONDICIONAMIENT",
+      "sourceIds": [
+        "rtc-92867-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92867-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 5 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "5"
+      },
+      "quote": "MEGACCION ANIMACION DE EVENTOS E.I.R.L\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20602227023\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n7 contratos con el Estado · S/ 90,500\nAURAZO & GONZALES CONSULTORES S.A.C.\nAccionista (50%)\nRUC: 20605208313\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\n2 contratos con el Estado · S/ 18,450\nGRUPO DE OPERACIONES ESTRATEGICAS S.A.C.\nAccionista (99%)\nAdministración\nRepresentante legal\nRUC: 20613740521\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estad",
+      "sourceIds": [
+        "rtc-92867-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92867-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=52&candidato=92867",
+      "sha256": "c70e94226704772e8be0648e20cf0443f26a34af6ffc4935cee130c8730ed338",
+      "accessedAt": "2026-10-03T00:28:41.002Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

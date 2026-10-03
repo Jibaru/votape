@@ -1,0 +1,34 @@
+{
+  "candidateId": "GXCr2RooqOORM_L0IcY8dF5sEGrNptxX",
+  "facts": [
+    {
+      "id": "rtc-86700-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 10,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 10,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 10,800\nMINISTERIO PUBLICO\nCONTRATACION DE SERVICIOS POR TERCEROS\nMonto: S/ 5,400\nCódigo: 2@9272803\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO PUBLICO\nTERCEROS\nMonto: S/ 5,400\nCódigo: 2@9272510\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-86700-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86700-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=35&candidato=86700",
+      "sha256": "44ee6274d5f37006ffb1adc9f55933aabf4026432e16be3609c9e5666d3dde23",
+      "accessedAt": "2026-10-03T01:20:22.051Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

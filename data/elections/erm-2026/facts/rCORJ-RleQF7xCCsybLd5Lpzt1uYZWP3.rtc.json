@@ -1,0 +1,33 @@
+{
+  "candidateId": "rCORJ-RleQF7xCCsybLd5Lpzt1uYZWP3",
+  "facts": [
+    {
+      "id": "rtc-91279-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "CONSTRUCTORA PILCO CONTRATISTAS GENERALES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\nAccionista (12.93%)\nRUC: 20440278524\nSOC.COM.RESPONS. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n12 contratos con el Estado · S/ 9,484,745.26\nGESTION ESTRATEGICA Y CONSULTORIA S.R.L.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20604870969\nSOC.COM.RESPONS. LTDA\nBAJA DE OFICIO Fecha de Baja: 29/05/2026\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 8,092",
+      "sourceIds": [
+        "rtc-91279-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91279-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=13&candidato=91279",
+      "sha256": "bae299decdab75dd6700a646ac17c40b97b4a961a6a020d1cd3fae7d61f5e0b4",
+      "accessedAt": "2026-10-03T00:24:15.914Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

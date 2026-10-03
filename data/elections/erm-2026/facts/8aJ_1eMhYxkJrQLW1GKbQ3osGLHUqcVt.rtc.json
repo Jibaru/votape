@@ -1,0 +1,63 @@
+{
+  "candidateId": "8aJ_1eMhYxkJrQLW1GKbQ3osGLHUqcVt",
+  "facts": [
+    {
+      "id": "rtc-88531-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "PAZ DE LA BARRA ABOGADOS SAC\nAccionista (80%)\nRUC: 20546995225\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n10 contratos con el Estado · S/ 2,616,500\nDeuda coactiva: S/ 38,103\nGESTRACORP GROUP S.A.C. - GESTRACORP\nAccionista (10%)\nRUC: 20556035611\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 28/02/2018\nCondición: HABIDO\n4 contratos con el Estado · S/ 999,068.84",
+      "sourceIds": [
+        "rtc-88531-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88531-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Suspendida.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Suspendida"
+      },
+      "quote": "licencia: Suspendida",
+      "sourceIds": [
+        "rtc-88531-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88531-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=6&candidato=88531",
+      "sha256": "1226e912ba5bbce5aba0e1d7f80e91448e4dd630ad747b9568f4600a2e13e839",
+      "accessedAt": "2026-10-03T00:30:39.633Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-88531-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+molina&cargo=alcalde-distrital&organizacion=6&candidato=88531",
+      "sha256": "bd2f4d02503748e0535fca3bc6e99dafd6d8a185bd8029814d99267c903cbec9",
+      "accessedAt": "2026-10-03T00:30:39.633Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

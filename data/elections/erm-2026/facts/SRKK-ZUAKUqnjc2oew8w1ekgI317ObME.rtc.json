@@ -1,0 +1,32 @@
+{
+  "candidateId": "SRKK-ZUAKUqnjc2oew8w1ekgI317ObME",
+  "facts": [
+    {
+      "id": "rtc-88703-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "LI LEON DANIEL RICARDO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 14/09/2012\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-88703-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88703-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=52&candidato=88703",
+      "sha256": "42d2909b7a0417a39ff790d59ddc1b61b4df63a7b4ffa7f625e49596f8284b43",
+      "accessedAt": "2026-10-03T00:54:07.996Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

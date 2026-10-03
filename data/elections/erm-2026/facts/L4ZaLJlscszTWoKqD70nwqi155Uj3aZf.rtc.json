@@ -1,0 +1,34 @@
+{
+  "candidateId": "L4ZaLJlscszTWoKqD70nwqi155Uj3aZf",
+  "facts": [
+    {
+      "id": "rtc-88699-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 9,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 9,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 9,000\nMUNICIPALIDAD DISTRITAL DE MIRAFLORES - LIMA\nSERVICIO DE ASISTENCIA PROFESIONAL PARA LA ELABORACION DE UN DIAGNOSTICO SOBRE EL ESTADO EN GESTION DE MULTAS\nMonto: S/ 9,000\nCódigo: 2@28469961\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-88699-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88699-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=21&candidato=88699",
+      "sha256": "62216259edd0104d1c58f4f76ff16742a54d2ed9767489d97135faf460e8c15f",
+      "accessedAt": "2026-10-03T00:55:03.189Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

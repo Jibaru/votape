@@ -1,0 +1,75 @@
+{
+  "candidateId": "QNoi8EyOEKs0tErESoU6_W1AXcaSvyTq",
+  "facts": [
+    {
+      "id": "rtc-90780-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 33,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 33,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 33,000\nMINISTERIO DE DESARROLLO AGRARIO Y RIEGO\nABQ-SERVICIO ASISTENCIA TECNICO-LEGAL REVISION PROPUESTAS NORMATIVAS Y GESTION - CUT 27778\nMonto: S/ 33,000\nCódigo: 2@39509404\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-90780-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90780-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSORCIO DTB GAS S.A.C.\nAccionista (40%)\nAdministración\nRepresentante legal\nRUC: 20524169658\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n3 contratos con el Estado · S/ 195,540",
+      "sourceIds": [
+        "rtc-90780-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90780-rnssc-servir-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNSSC-SERVIR (al menos una vigente).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNSSC-SERVIR"
+      },
+      "quote": "SUSPENSIÓN\nMUNICIPALIDAD DISTRITAL DE PUNTA HERMOSA\nLA NEGLIGENCIA EN EL DESEMPEÑO DE LAS FUNCIONES.\nCargo: GERENTE MUNICIPAL\nSANCIÓN DISCIPLINARIA\nDesde: 24/07/2026\nHasta: 23/08/2026\nVIGENTE",
+      "sourceIds": [
+        "rtc-90780-sanciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90780-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+negra&cargo=alcalde-distrital&organizacion=52&candidato=90780",
+      "sha256": "9faa5e068740fa18109a43fc29c4e07e691564c3c649c51249efdfbd44af193f",
+      "accessedAt": "2026-10-03T00:21:04.300Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-90780-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+negra&cargo=alcalde-distrital&organizacion=52&candidato=90780",
+      "sha256": "96e3f0b9f3ebe86c42230be41dde1867305792e9ed0d32b42e68ddc2ea52c524",
+      "accessedAt": "2026-10-03T00:21:04.300Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

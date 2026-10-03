@@ -1,0 +1,34 @@
+{
+  "candidateId": "kQqrg112RcE8o75yD8utyTm4BIgUS8TI",
+  "facts": [
+    {
+      "id": "rtc-92067-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 13,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 13,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 13,000\nPRESIDENCIA DEL CONSEJO DE MINISTROS\nCONTRATACION DE PERSONA NATURAL QUE BRINDE SERVICIOS DE APOYO PROFESIONAL PARA LA SECRETARIA DE DESCENTRALIZACION. PERIODO: DOS MESES.\nMonto: S/ 13,000\nCódigo: 1@190161\nSERVICIO EN GENERAL\nEstado: Contratado\nFin: 2007-12-03T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92067-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92067-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+miguel&cargo=alcalde-distrital&organizacion=13&candidato=92067",
+      "sha256": "4144e8548340411630e96174f1331b4a2cd54a2ca02fcd7bd136b25f9792f546",
+      "accessedAt": "2026-10-03T00:39:29.445Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

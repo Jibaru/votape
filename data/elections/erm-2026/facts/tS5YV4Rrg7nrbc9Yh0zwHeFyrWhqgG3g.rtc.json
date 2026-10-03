@@ -1,0 +1,34 @@
+{
+  "candidateId": "tS5YV4Rrg7nrbc9Yh0zwHeFyrWhqgG3g",
+  "facts": [
+    {
+      "id": "rtc-90882-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 119,716.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 119,716"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 119,716\nMUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA\nADQUISICION DE REPUESTOS PARA CAMION CISTERNA DE PLACA EAJ-976 DE LA MDPP\nMonto: S/ 7,200\nCódigo: 2@39690586\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA\nADQUISICION DE REPUESTOS DE SISTEMA DE SUSPENSION PARA VEHICULOS DE LA MDPP.\nMonto: S/ 29,180\nCódigo: 2@38967776\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA\nSERVICIO DE MANTNEIMIENTO CORRECTIVO DE SISTEMA DE DIRECCION DE UN VEH",
+      "sourceIds": [
+        "rtc-90882-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90882-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=19&candidato=90882",
+      "sha256": "1eb55e1bba6527e5cc830d201c564cb45a594eb90543ec35963694e67f37d3f5",
+      "accessedAt": "2026-10-03T01:07:42.051Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

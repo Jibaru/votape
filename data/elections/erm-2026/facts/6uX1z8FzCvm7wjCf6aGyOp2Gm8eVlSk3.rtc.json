@@ -1,0 +1,34 @@
+{
+  "candidateId": "6uX1z8FzCvm7wjCf6aGyOp2Gm8eVlSk3",
+  "facts": [
+    {
+      "id": "rtc-90356-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 77 contrato(s) con el Estado por S/ 910,130.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "77",
+        "montoTotal": "S/ 910,130"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n77 contratos\nS/ 910,130\nMINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO - ADMINISTRACIÓN GENERAL\nHT 42615 \"SERVICIO DE DEFENSA Y ASESORÍA LEGAL DE UN ABOGADO A FAVOR DEL SEÑOR RICHARD EDUARDO GARCÍA SABROSO, EN SU CONDICIÓN DE EX DIRECTOR GENERAL DE ASESORÍA JURÍDICA DEL MVCS\" DE ACUERDO A LA RSG N° 025- 2026-VIVIENDA-SG, DE CONFORMIDAD CON ELCONTRATO N° 027-2026-VIVIENDA-OGA-UE.001-CM CLAUSULAS: SEGÚN CONTRATO N°027-2026-VIVIENDA-OGA-UE.001-CM *PARA PROCEDER AL PAGO DE LA OBLIGACIÓN, EL NÚMERO DEL CÓDIGO DE LA CUENTA INTERBANCARIA DEBE ESTAR ASOCIADO A",
+      "sourceIds": [
+        "rtc-90356-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90356-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pueblo+libre&cargo=alcalde-distrital&organizacion=49&candidato=90356",
+      "sha256": "71bc9bfafa822a07e570b7d0578ca7ccef44249b340e10436be379d07cf8b42a",
+      "accessedAt": "2026-10-03T00:21:41.252Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "bLs-4LEwhrUSt0917X0TNmqU6b8nW5TV",
+  "facts": [
+    {
+      "id": "rtc-92325-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 11,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 11,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 11,500\nMUNICIPALIDAD DISTRITAL DE SAN LUIS - LIMA\nSERVICIO DE APOYO PARA EL SEGUIMIENTO DE ACTIVIDADES Y EXPEDIENTES ADMINISTRATIVOS\nMonto: S/ 9,000\nCódigo: 2@20559854\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN LUIS - LIMA\nSERVICIO DE APOYO PARA EL SEGUIMIENTO DE ACTIVIDADES Y EXPEDIENTES ADMINISTRATIVOS\nMonto: S/ 2,500\nCódigo: 2@20236495\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92325-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92325-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+anita&cargo=alcalde-distrital&organizacion=31&candidato=92325",
+      "sha256": "c20b4076db38b1a06eec1494ef8427800b924faf5487705f270f0d77a835ba88",
+      "accessedAt": "2026-10-03T01:01:54.697Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

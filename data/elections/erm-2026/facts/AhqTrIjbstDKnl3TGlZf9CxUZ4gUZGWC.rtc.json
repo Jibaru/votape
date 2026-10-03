@@ -1,0 +1,34 @@
+{
+  "candidateId": "AhqTrIjbstDKnl3TGlZf9CxUZ4gUZGWC",
+  "facts": [
+    {
+      "id": "rtc-31378-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 11,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 11,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 11,000\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nSERVICIO PERSONAL DEL RECTORADO - ENERO - 2024 OFICIO N°000079-2024-R-D/UNMSM HOJA DE RUTA 24001083\nMonto: S/ 5,000\nCódigo: 2@28262827\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nBANCO DE LA NACION\nServicio de apoyo en el seguimiento y control de la facturación generada en los procesos de selección del Banco.\nMonto: S/ 6,000\nCódigo: 1@289657\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-31378-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31378-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=17&candidato=31378",
+      "sha256": "f8f55cc9eb73ee0d0a690e77c49d3435bffa1b218393cb28db449b3a51a745dc",
+      "accessedAt": "2026-10-03T00:08:54.081Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

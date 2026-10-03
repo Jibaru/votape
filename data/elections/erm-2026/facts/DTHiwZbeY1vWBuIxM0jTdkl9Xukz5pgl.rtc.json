@@ -1,0 +1,50 @@
+{
+  "candidateId": "DTHiwZbeY1vWBuIxM0jTdkl9Xukz5pgl",
+  "facts": [
+    {
+      "id": "rtc-92861-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 8 contrato(s) con el Estado por S/ 60,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "8",
+        "montoTotal": "S/ 60,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n8 contratos\nS/ 60,000\nUNIVERSIDAD NACIONAL DE INGENIERIA\nCONTRATACIÓN DE SERVICIO PROFESIONAL\nMonto: S/ 10,000\nCódigo: 2@1650980\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DE INGENIERIA\nSERVICIOS PRESTADOS DE ASESORIA LEGAL, EN RELACION A LOS CASOS ADMINISTRATIVOS DEL PERSONAL DOCENTES, ADMINISTRATIVOS, DE LA FIEECS\nMonto: S/ 5,000\nCódigo: 2@1556070\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DE INGENIERIA\nSERVICIO DE APOYO ADMINISTRATIVO.\nMonto: S/ 7,500\nCódigo: 2@12617",
+      "sourceIds": [
+        "rtc-92861-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92861-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "INCA CONSULT S.A.C\nAccionista (51.11%)\nAdministración\nRepresentante legal\nRUC: 20553811270\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92861-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92861-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=21&candidato=92861",
+      "sha256": "d6b4526b1feb1d30b13a35e57faea9a475ccb026f8105b5664344d69417c2276",
+      "accessedAt": "2026-10-03T00:27:18.240Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

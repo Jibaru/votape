@@ -1,0 +1,32 @@
+{
+  "candidateId": "dyi_xUqGz5VCVKnLcbIJT6G2b4si9SQm",
+  "facts": [
+    {
+      "id": "rtc-8169-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "LA CRUZ GARCES VICTORIA BETZABE\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: SUSPENSION TEMPORAL\nCondición: NO HABIDO Deberá declarar el nuevo domicilio fiscal o confirmar el señalado en el RUC. Para ello, deberá acercarse a los Centros de Servicios al Contribuyente con los documentos que sustenten el nuevo domicilio.\nRegistro: 10/03/1994\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-8169-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-8169-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=23&candidato=8169",
+      "sha256": "6362aacf43b327e3647dc6f7fc2308d4df74c2b92c62424e77d69521ee0ffc7f",
+      "accessedAt": "2026-10-03T00:12:06.458Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "dR1uVMvf1hs3HF0uf3arkzuv1id0sU2g",
+  "facts": [
+    {
+      "id": "rtc-90878-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 67,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 67,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 67,000\nMUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO\nCONTRATACION DE SERVICIO DE SEGUIMIENTO A EJECUCION DE ACCIONES DE VERIFICACION DEL PROGRAMA DE INCENTIVOS DE LA GERENCIA DE PLANEAMIENTO Y PRESUPUESTO\nMonto: S/ 7,000\nCódigo: 2@17716583\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO\nCONTRATACION DE SERVICIO DE SEGUIMIENTO A EJECUCION DE ACCIONES DE VERIFICACION DEL PROGRAMA DE INCENTIVOS PARA LA GPP\nMonto: S/ 7,000\nCódigo: 2@17503098\nSERVICIO\nEstado: Contratado\nRUC: [RUC de pe",
+      "sourceIds": [
+        "rtc-90878-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90878-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=6&candidato=90878",
+      "sha256": "0940faf1c116473d3a9c341bcbe8e459cfdcb7151a887887cfa4d43ab8576f81",
+      "accessedAt": "2026-10-03T01:06:56.318Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

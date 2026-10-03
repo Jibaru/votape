@@ -1,0 +1,37 @@
+{
+  "candidateId": "hsrhgSwfl3Lq-Mzp_jL0z4yrcfZPHnzd",
+  "facts": [
+    {
+      "id": "rtc-91086-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Cancelada.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Cancelada"
+      },
+      "quote": "licencia: Cancelada",
+      "sourceIds": [
+        "rtc-91086-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91086-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=52&candidato=91086",
+      "sha256": "12b1499f7035184c5a9351ec7ff99385bf229f8feed1aa1e9c799a768ada2401",
+      "accessedAt": "2026-10-03T00:15:18.000Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

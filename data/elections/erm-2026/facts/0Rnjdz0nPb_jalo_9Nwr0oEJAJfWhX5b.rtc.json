@@ -1,0 +1,34 @@
+{
+  "candidateId": "0Rnjdz0nPb_jalo_9Nwr0oEJAJfWhX5b",
+  "facts": [
+    {
+      "id": "rtc-89066-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 107,771.04.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 107,771.04"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 107,771.04\nPROGRAMA DE DESARROLLO PRODUCTIVO AGRARIO RURAL - AGRO RURAL\nADQUISICION DE MANDILONES COMO EQUIPO DE PROTECCION PARA PERSONAL\nMonto: S/ 34,200\nCódigo: 2@16176485\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nADQUISICIÓN DE MATERIALES DE PROTECCIÓN E HIGIENE PARA EL PERSONAL DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nMonto: S/ 47,700\nCódigo: 1@1287148\nBIEN\nEstado: Contratado\nFin: 2020-07-10T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE LA PRODUCCI",
+      "sourceIds": [
+        "rtc-89066-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89066-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+victoria&cargo=alcalde-distrital&organizacion=52&candidato=89066",
+      "sha256": "868e5f8abe3df34cec93d39dddb33a4753409c7c2cb0c3b9ab306f473671e7aa",
+      "accessedAt": "2026-10-03T00:57:38.658Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

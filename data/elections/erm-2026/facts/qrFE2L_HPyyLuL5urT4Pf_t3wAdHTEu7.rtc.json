@@ -1,0 +1,65 @@
+{
+  "candidateId": "qrFE2L_HPyyLuL5urT4Pf_t3wAdHTEu7",
+  "facts": [
+    {
+      "id": "rtc-88853-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 13 contrato(s) con el Estado por S/ 155,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "13",
+        "montoTotal": "S/ 155,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n13 contratos\nS/ 155,000\nFONDO METROPOLITANO DE INVERSIONES\nGP-1123-SERVICIO DE COORDINACIÓN Y SEGUIMIENTO DE CONVENIOS QUE POSIBILITE CONCRETAR LOS TRÁMITES VINCULADOS A LA SUSCRIPCIÓN DE CONVENIOS INTERINSTITUCIONALES RELACIONADOS A LAS IOARR/ CCP SIAF N°1210-2022\nMonto: S/ 3,500\nCódigo: 2@22228259\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nFONDO METROPOLITANO DE INVERSIONES\nGP-834-SERVICIO DE COORDINACIÓN Y SEGUIMIENTO DE CONVENIOS QUE POSIBILITE CONCRETAR LOS TRÁMITES VINCULADOS A LA SUSCRIPCIÓN DE CONVENIOS INTERINSTITUCIONALES R",
+      "sourceIds": [
+        "rtc-88853-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88853-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "MULTISERVICIOS RECUPERA S.A.C. - MULTISERVIR S.A.C.\nAccionista (99%)\nAdministración\nRepresentante legal\nRUC: 20600158989\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 25/07/2023\nCondición: HABIDO\n1 contrato con el Estado · S/ 1,298,000\nSERVICIOS MULTIPLES PARKING SYSTEM S.A.C.\nAccionista (60%)\nAdministración\nRepresentante legal\nRUC: 20566426766\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2017\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88853-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88853-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "QUISPE ALVINO GREGORIO BERNARDINO\nRUC: [RUC de persona natural omitido]\nNombre comercial: MULTISERVIR G&B\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 07/05/2015\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-88853-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88853-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=independencia&cargo=alcalde-distrital&organizacion=39&candidato=88853",
+      "sha256": "37ca208b861872de6110c2829dcf73ef28f91d834871f319e0c6bbd7cfae193a",
+      "accessedAt": "2026-10-03T01:06:01.190Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

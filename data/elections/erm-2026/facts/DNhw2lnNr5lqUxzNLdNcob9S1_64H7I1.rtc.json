@@ -1,0 +1,34 @@
+{
+  "candidateId": "DNhw2lnNr5lqUxzNLdNcob9S1_64H7I1",
+  "facts": [
+    {
+      "id": "rtc-90249-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 19 contrato(s) con el Estado por S/ 243,035.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "19",
+        "montoTotal": "S/ 243,035"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n19 contratos\nS/ 243,035\nMINISTERIO DE LA PRODUCCIÓN\nCCMN 4440 (ST-2/60) SERVICIO PARA EL SEGUIMIENTO Y ASISTENCIA TÉCNICA DE LA FISCALIZACIÓN POSTERIOR ALEATORIA EN EL MINISTERIO DE LA PRODUCCIÓN\nMonto: S/ 13,000\nCódigo: 2@40279941\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE LA PRODUCCIÓN\nCCMN 2047 (ST 3/80) SERVICIO DE VERIFICACION Y FISCALIZACION POSTERIOR - SIGA N° 42CONTRATACIÓN DEL SERVICIO PARA EL CCMN 2047 (3/80)SEGUIMIENTO Y ASISTENCIA TÉCNICA DE LA FISCALIZACIÓN POSTERIOR ALEATORIA EN EL MINISTERIO DE LA PRODUCC",
+      "sourceIds": [
+        "rtc-90249-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90249-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=miraflores&cargo=alcalde-distrital&organizacion=49&candidato=90249",
+      "sha256": "0d96678872df47cb53cee0f9c2c5b4adb176681cc87befb521e3d91018aaaeb1",
+      "accessedAt": "2026-10-03T01:17:55.321Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

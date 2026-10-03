@@ -1,0 +1,34 @@
+{
+  "candidateId": "rqfyQLJ3lXOR25AQg1EECyynNW3P7R1b",
+  "facts": [
+    {
+      "id": "rtc-90524-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 16,900.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 16,900"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 16,900\nMUNICIPALIDAD DISTRITAL DE LURIN\nSERVICIO DE ASISTENCIA EN GESTION AMBIENTAL Y ADMINISTRATIVA\nMonto: S/ 2,500\nCódigo: 2@22042027\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUCUSANA\nLOCACION DE SERVICIO\nMonto: S/ 1,800\nCódigo: 2@20669038\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUCUSANA\nLOCACION DE SERVICIO\nMonto: S/ 1,800\nCódigo: 2@20788643\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nVer más (6 más)",
+      "sourceIds": [
+        "rtc-90524-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90524-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pucusana&cargo=alcalde-distrital&organizacion=31&candidato=90524",
+      "sha256": "cbc25747d355a90b8d2e8b0c4fa7803a022e24d794da666d381b5bf19be0c512",
+      "accessedAt": "2026-10-03T01:04:57.156Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

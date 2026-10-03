@@ -1,0 +1,33 @@
+{
+  "candidateId": "oxAYuQXpJpUHcmymwAYpb6F4YYmvymjp",
+  "facts": [
+    {
+      "id": "rtc-88020-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "TEXCEN S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20563598345\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88020-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88020-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=52&candidato=88020",
+      "sha256": "5326398ee3d247ad3a57d952161765c6b076076a0d7c1804aeda402c14fa9b9d",
+      "accessedAt": "2026-10-03T00:31:52.830Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

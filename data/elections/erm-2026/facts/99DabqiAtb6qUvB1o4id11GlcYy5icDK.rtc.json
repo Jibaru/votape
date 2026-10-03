@@ -1,0 +1,50 @@
+{
+  "candidateId": "99DabqiAtb6qUvB1o4id11GlcYy5icDK",
+  "facts": [
+    {
+      "id": "rtc-92184-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 11,100.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 11,100"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 11,100\nMARINA DE GUERRA DEL PERU\nSERVICIO DE MANTENIMIENTO Y PRESENTACION DE DOS MONTAJES 40/60M\nMonto: S/ 11,100\nCódigo: 2@16793\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92184-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92184-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "DHERCORP E.I.R.L.\nAccionista (100%)\nRepresentante legal\nRUC: 20602777465\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92184-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92184-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+luis&cargo=alcalde-distrital&organizacion=49&candidato=92184",
+      "sha256": "27ea98ac525cb7e1059031ccec26a1906b27010df4fc101f2f679dfa9995272e",
+      "accessedAt": "2026-10-03T01:02:40.327Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

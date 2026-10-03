@@ -1,0 +1,65 @@
+{
+  "candidateId": "GY5SGyzb1gvkfg5WvUco59be8hskeHc-",
+  "facts": [
+    {
+      "id": "rtc-89357-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 105,288.4.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 105,288.4"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 105,288.4\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nSERVICIO DE TRANSPORTE - Laboratorio de Peliculas Delgadas y Sistemas Nanoestructurados - Proyecto Multidisciplinario \"Produccio´n de membranas y nanofibras con aplicaciones en la fabricacio´n de material de proteccio´n me´dica\"\nMonto: S/ 15,288.4\nCódigo: 2@24568454\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nCONTRATO DE LOCACION DE SERVICIOS N°1239-UNMSM-2020\nMonto: S/ 15,000\nCódigo: 2@24272362\nSERVICIO\nEstado: Contratado\nRUC: [",
+      "sourceIds": [
+        "rtc-89357-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89357-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "IDI CONSULTING S.A.C.\nAccionista (80%)\nAdministración\nRepresentante legal\nRUC: 20606755768\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/03/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89357-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89357-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "ROMALDO NOBLEJAS DENNER GUILLERMO\nRUC: [RUC de persona natural omitido]\nNombre comercial: ROMALDO\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 28/10/2007\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89357-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89357-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=17&candidato=89357",
+      "sha256": "29183a4406e13c3d34249d3b5d6802b4314ceab61dcd622d418c7381c7b381f4",
+      "accessedAt": "2026-10-03T01:14:42.914Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

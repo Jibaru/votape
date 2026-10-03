@@ -1,0 +1,50 @@
+{
+  "candidateId": "EbNMht7q62YaUdnTeERKX2AV2uZixcDW",
+  "facts": [
+    {
+      "id": "rtc-1616-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 4,674.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 4,674"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 4,674\nMUNICIPALIDAD DISTRITAL DE PAUCARA\nSERVICIO DE UN PERSONAL TECNICO PARA LA OFICINA DE CONTROL Y MANTENIMIENTO DE MAQUINARIAS\nMonto: S/ 1,200\nCódigo: 2@30287477\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LOS OLIVOS (LAS PALMERAS)\nFRUGOS PERSONALES,GALLETAS DE SODA,AGUAS DESCARTABLES,VASOS DESCARTABLES,GALLETAS DE SODA,GASEOSAS DE 1/2 LITRO,AGUA MINERAL DE 1/2 LITRO\nMonto: S/ 3,474\nCódigo: 2@5959377\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-1616-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-1616-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "CONSTRUCCIONES MAJU S.A.C.\nAccionista (99.88%)\nRepresentante legal\nRUC: 20492383989\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n47 contratos con el Estado · S/ 740,205.14\nMAXIBRAKE IMPORT S.A.\nAccionista (25%)\nAdministración\nRUC: 20509326135\nSOCIEDAD ANONIMA\nEstado: ACTIVO\nCondición: HABIDO\n38 contratos con el Estado · S/ 445,613.3\nMAXI DATA IMPORT S.A.C.\nAccionista (90%)\nRepresentante legal\nRUC: 20524920337\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/07/2024\nCondición: HABIDO\n4 contratos con el Estado · S/ 34,889",
+      "sourceIds": [
+        "rtc-1616-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-1616-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=8&candidato=1616",
+      "sha256": "3b48bff571545032de4ba3f31591b32652cca8860549809366d8df45815e4959",
+      "accessedAt": "2026-10-03T01:16:14.478Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

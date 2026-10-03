@@ -1,0 +1,33 @@
+{
+  "candidateId": "SmoXmPliT4ocbxsh6_iAfvoiRfeCtSS-",
+  "facts": [
+    {
+      "id": "rtc-89959-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "BC & PC INVERSIONES S.A.C.\nAccionista (50%)\nRUC: 20566323011\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/03/2017\nCondición: HABIDO\n3 contratos con el Estado · S/ 27,940\nVPB CONSTRUCCIONES Y SERVICIOS GENERALES S.A.C.\nAccionista (30%)\nRUC: 20566496209\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n1 contrato con el Estado · S/ 60,000",
+      "sourceIds": [
+        "rtc-89959-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89959-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=pachacamac&cargo=alcalde-distrital&organizacion=21&candidato=89959",
+      "sha256": "198908c4566d27e390fb8504ef4fb725a4f06b9d8563d0d6e969a50261f85de9",
+      "accessedAt": "2026-10-03T00:12:33.723Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

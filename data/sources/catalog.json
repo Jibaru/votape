@@ -19,7 +19,7 @@
     "url": "https://revisatucandidato.pe",
     "license": "Sin licencia abierta publicada; términos en un documento de Google Drive enlazado desde el sitio.",
     "permission": "pending",
-    "notes": "Cruza candidatos con registros oficiales (sentencias, REINFO, MTC, OECE, SERVIR, REDJUM, RNAS). No se usa hasta recibir permiso."
+    "notes": "Cruza a cada candidato con registros oficiales: OECE, SUNAT, REINFO, REDAM, REDJUM, MTC, SERVIR y RNAS. votape navegó las fichas públicas con un navegador (una cada ~9 s), guardó el texto visible y capturas como evidencia privada (muestran DNI y foto) y publica los hallazgos citando a RTC y al registro de origen. El permiso del Consorcio RTC sigue pendiente; se publicó por decisión del mantenedor (PLAN.md, Q22b)."
   },
   {
     "id": "prensa",

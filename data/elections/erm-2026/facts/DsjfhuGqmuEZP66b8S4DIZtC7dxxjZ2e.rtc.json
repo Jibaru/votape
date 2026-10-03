@@ -1,0 +1,34 @@
+{
+  "candidateId": "DsjfhuGqmuEZP66b8S4DIZtC7dxxjZ2e",
+  "facts": [
+    {
+      "id": "rtc-91280-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 16,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 16,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 16,000\nMINISTERIO DE SALUD\n(ST-2/50) SERVICIO DE TERCEROS: MÉDICO PARA LA DIRECCIÓN GENERAL DE TELESALUD\nMonto: S/ 16,000\nCódigo: 2@18842083\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91280-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91280-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+borja&cargo=alcalde-distrital&organizacion=49&candidato=91280",
+      "sha256": "530a3ee31c2cd8ee37189fe65197b7a9bf5ee541dada9735a3259537d94b0014",
+      "accessedAt": "2026-10-03T00:23:30.483Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

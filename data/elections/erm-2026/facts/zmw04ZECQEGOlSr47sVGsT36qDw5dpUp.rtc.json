@@ -1,0 +1,34 @@
+{
+  "candidateId": "zmw04ZECQEGOlSr47sVGsT36qDw5dpUp",
+  "facts": [
+    {
+      "id": "rtc-87761-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 42,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 42,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 42,000\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nASESORAMIENTO TECNICO ADMINISTRATIVO\nMonto: S/ 31,500\nCódigo: 2@24434310\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nASESORAMIENTO TECNICO ADMINISTRATIVO\nMonto: S/ 10,500\nCódigo: 2@24403182\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-87761-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87761-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=3&candidato=87761",
+      "sha256": "60ea1462c16caf487d064787dbd12d1af55ad0d0d81ccaaa612ed8b1745d8b27",
+      "accessedAt": "2026-10-03T00:41:27.693Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

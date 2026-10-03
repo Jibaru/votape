@@ -1,0 +1,88 @@
+{
+  "candidateId": "THaB7V7qpzuxHf4vzGHgXDiy2I1-NDXU",
+  "facts": [
+    {
+      "id": "rtc-1088-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "RIERA LAW OFFICE SOCIEDAD ANONIMA CERRADA\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20547967900\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-1088-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-1088-rnas-sanction",
+      "category": "sanction",
+      "summary": "Según RTC: registra sanciones en el registro RNAS.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "RNAS"
+      },
+      "quote": "MULTA\nCOLEGIO DE ABOGADOS DE LIMA\nCOLEGIO DE ABOGADOS DE LIMA - N° N° 53201\nReg. 00092-2025\nDesde: 22/12/2024\nActiva",
+      "sourceIds": [
+        "rtc-1088-sanciones"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-1088-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 2 falta(s) muy grave(s), 3 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "3",
+        "faltasMuyGraves": "2",
+        "papeletas": "5",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "2 falta(s) muy grave(s) · 3 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-1088-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-1088-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=3&candidato=1088",
+      "sha256": "80c57b498a64228f4362b29e519c1824dafaa11ed5eca1ce3f3ff0be7b5a9bb6",
+      "accessedAt": "2026-10-03T00:09:30.729Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-1088-sanciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=3&candidato=1088",
+      "sha256": "86afa19977faaff8a7cacb27439cfbff7f207d7849ff5c72150a0fe4f4ab9df9",
+      "accessedAt": "2026-10-03T00:09:30.729Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Sanciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-1088-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=3&candidato=1088",
+      "sha256": "ae41e52ae3b13ffc47e7a78c4f0fda1ac626296302a264767803327ae68a4904",
+      "accessedAt": "2026-10-03T00:09:30.729Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

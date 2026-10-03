@@ -1,0 +1,32 @@
+{
+  "candidateId": "L0jh7vD4kDZGIMfAdyVYJ_Xmq_7La7w_",
+  "facts": [
+    {
+      "id": "rtc-89057-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "PEREZ NOREÑA WALTER CIRO\nRUC: [RUC de persona natural omitido]\nNombre comercial: GEMINISCONSTRUCTORA&CONSULTORA\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: SUSPENSION TEMPORAL\nCondición: HABIDO\nRegistro: 13/12/2011\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89057-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89057-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+victoria&cargo=alcalde-distrital&organizacion=5&candidato=89057",
+      "sha256": "c7369b046eef5ae3345acd15b3b69b312aa657459b3da61913a32c12382cc5f3",
+      "accessedAt": "2026-10-03T00:57:47.752Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

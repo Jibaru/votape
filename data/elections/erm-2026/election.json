@@ -63,8 +63,8 @@
     },
     {
       "providerId": "rtc",
-      "status": "pending",
-      "note": "Pendiente de permiso del Consorcio RTC (su robots.txt excluye /api/)."
+      "status": "complete",
+      "note": "RTC: 516 de 516 fichas cruzadas por DNI (2026-10-02/03). Se publican contratos con el Estado (OECE), empresas vinculadas, deudas en registros (SUNAT coactiva, REDJUM, REDAM), sanciones (SERVIR, RNAS, OECE), REINFO y tránsito (solo faltas muy graves y licencias suspendidas o canceladas). Sin revisión humana: son datos de registros, citados tal como los muestra RTC."
     },
     {
       "providerId": "prensa",

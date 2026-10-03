@@ -1,0 +1,34 @@
+{
+  "candidateId": "ALaMza88rCZT97ZZYLbLRP3S6tslsfvd",
+  "facts": [
+    {
+      "id": "rtc-93220-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 3 contrato(s) con el Estado por S/ 21,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "3",
+        "montoTotal": "S/ 21,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n3 contratos\nS/ 21,000\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nSERVICIO PRESTADO POR LOS MESES DE AGOSTO\nMonto: S/ 3,000\nCódigo: 2@19343901\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nASISTENTE CONTABLE POR LOS MESES DE MAYO, JUNIO Y JULIO 2021\nMonto: S/ 9,000\nCódigo: 2@19750420\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nASISTENTE CONTABLE-POR LOS MES DE FEBRERO, MARZO, ABRIL\nMonto: S/ 9,000\nCódigo: 2@19750086\nSERVICIO\nEstado: Contratado\nRU",
+      "sourceIds": [
+        "rtc-93220-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93220-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+el+salvador&cargo=alcalde-distrital&organizacion=34&candidato=93220",
+      "sha256": "a1e77b59c83273b85453ec1aeceaf0a18192539c9408016781d4d684c1c190cf",
+      "accessedAt": "2026-10-03T00:08:17.515Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "Pw-uMV7c9mRQAjgznhkFIIP4FdaumjP1",
+  "facts": [
+    {
+      "id": "rtc-92865-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 40 contrato(s) con el Estado por S/ 272,250.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "40",
+        "montoTotal": "S/ 272,250"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n40 contratos\nS/ 272,250\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE ASISTENCIA TECNICA ADMINISTRATIVA EN ORGANO DE CONTROL INSTITUCIONAL\nMonto: S/ 13,500\nCódigo: 2@40274483\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE ASISTENTE ADMINISTRATIVA EN CONTROL GUBERNAMENTAL PARA ORGANO DE CONTROL INSTITUCIONAL\nMonto: S/ 13,500\nCódigo: 2@40268800\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERV",
+      "sourceIds": [
+        "rtc-92865-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92865-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=39&candidato=92865",
+      "sha256": "97e1d0dbb516b8b8e679c37043ccb892b4774ca4e975447c2afe9493610776a4",
+      "accessedAt": "2026-10-03T00:29:17.616Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

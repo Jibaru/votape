@@ -1,0 +1,50 @@
+{
+  "candidateId": "RhexjCONHWUg1_btGgmggLTsHICr0Ay6",
+  "facts": [
+    {
+      "id": "rtc-87064-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 4 contrato(s) con el Estado por S/ 47,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "4",
+        "montoTotal": "S/ 47,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n4 contratos\nS/ 47,500\nMINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO - ADMINISTRACIÓN GENERAL\nHT 24714 SERVICIO PARA LA ARTICULACIÓN, MONITOREO Y COORDINACIÓN DE ACCIONES SECTORIALES EN MATERIA DE GESTIÓN DE EMERGENCIAS Y SEGURIDAD Y DEFENSA NACIONAL DEL MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO\nMonto: S/ 13,500\nCódigo: 2@38585195\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERVICIO DE COORDINACION DE ENFOQUE AMBIENTAL\nMonto: S/ 7,000\nCódigo: 2@29288836\nSERVICIO\nEstado: Contratado\nRUC",
+      "sourceIds": [
+        "rtc-87064-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87064-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "DILUM E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20604913609\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n3 contratos con el Estado · S/ 5,981,684.53\nDeuda coactiva: S/ 34,827\nOPTIMA EDUCATIVA GLOBAL S.A.C.\nAccionista (75%)\nAdministración\nRepresentante legal\nRUC: 20605111824\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2025\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 42,961",
+      "sourceIds": [
+        "rtc-87064-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87064-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=barranco&cargo=alcalde-distrital&organizacion=21&candidato=87064",
+      "sha256": "e496f58e498e7386925f71e67d678c3ef171828217254487d0182f0f44fe6182",
+      "accessedAt": "2026-10-03T00:53:13.481Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "candidateId": "DCQ3yoL8kaM5FRLWuX0VgsYxk84ggI_0",
+  "facts": [
+    {
+      "id": "rtc-93484-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 2,400.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 2,400"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 2,400\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nSERVICIOS PRESTADOS COMO CHOFER NOTIFICADOR PARA LA SUB GERENCIA DE RECAUDACION Y CONTROL, POR EL MES DE ABRIL 2017.\nMonto: S/ 1,200\nCódigo: 2@6558218\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA EL SALVADOR\nSERVICIOS PRESTADOS COMO CHOFER NOTIFICADOR PARA LA SUB GERNCIA DE RECAUDACION Y CONTROL, POR EL MES DE MARZO 2017.\nMonto: S/ 1,200\nCódigo: 2@6558072\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-93484-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93484-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=villa+maria+del+triunfo&cargo=alcalde-distrital&organizacion=7&candidato=93484",
+      "sha256": "036987d019a7af1e21383b85477a843fc96766dd58dab19798f1bbd3653f4351",
+      "accessedAt": "2026-10-03T00:42:41.040Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

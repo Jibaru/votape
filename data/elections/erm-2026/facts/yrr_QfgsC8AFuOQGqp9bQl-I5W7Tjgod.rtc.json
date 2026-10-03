@@ -1,0 +1,33 @@
+{
+  "candidateId": "yrr_QfgsC8AFuOQGqp9bQl-I5W7Tjgod",
+  "facts": [
+    {
+      "id": "rtc-3582-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSTRUCTORA SALAZAR VELASQUEZ S.A.C. - CONSAV S.A.C.\nAccionista (80%)\nAdministración\nRepresentante legal\nRUC: 20603061650\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-3582-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-3582-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=23&candidato=3582",
+      "sha256": "0d655df0edd8c850f235a4fed89491ab81462eb745bcc36b0323734b13c8ec37",
+      "accessedAt": "2026-10-03T01:20:12.819Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

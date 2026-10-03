@@ -1,0 +1,34 @@
+{
+  "candidateId": "nBrl_DmEhdQV1bJ4tY-V_bn9qSos3cQB",
+  "facts": [
+    {
+      "id": "rtc-89798-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 2,420.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 2,420"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 2,420\nMUNICIPALIDAD DISTRITAL DE PACHACAMAC\nSERVICIO DE GESTOR DE COBRANZA\nMonto: S/ 1,020\nCódigo: 2@25608050\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIN\nPOR SERVICIOS DE ALQUILER DE EQUIPO DE SONIDO TOLDOS, SILLAS Y MESAS, EL CUAL SE UTILIZARON EN EL TALLER DE LA JUVENTUD (24,09,13), REALIZADO EN LAS 4 LOSAS - VILLA ALEJANDRO\nMonto: S/ 1,400\nCódigo: 2@361389\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-89798-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89798-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurin&cargo=alcalde-distrital&organizacion=6&candidato=89798",
+      "sha256": "e022062e2a6f2ec56b129e2dd267700d2b900f4dadcede428b8cc444d318c0cc",
+      "accessedAt": "2026-10-03T00:48:57.107Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "candidateId": "cI90JOFbpAy2wQfZ1r0IAJFqK80Tdyev",
+  "facts": [
+    {
+      "id": "rtc-91782-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "JG. & E.CH. SERVICIOS GENERALES S.A.C.\nAccionista (33.33%)\nRUC: 20392882651\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n1 contrato con el Estado · S/ 700",
+      "sourceIds": [
+        "rtc-91782-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91782-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=21&candidato=91782",
+      "sha256": "1870a9a15fcddc6a44ef30c13c920dba577419c5a2a7994607453a45a66e3ff5",
+      "accessedAt": "2026-10-03T00:16:31.048Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "candidateId": "afMAG-EQV62Adg4Dna5950TD6a0VibZA",
+  "facts": [
+    {
+      "id": "rtc-87135-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "GRUPO IMPERIO FORTALEZA S.A.C.\nAccionista (90%)\nAdministración\nRepresentante legal\nRUC: 20612187917\nSOCIEDAD ANONIMA CERRADA\nBAJA PROV. POR OFICIO Fecha de Baja: 31/08/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87135-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87135-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Suspendida.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "0",
+        "puntosAcumulados": "0",
+        "licencia": "Suspendida"
+      },
+      "quote": "licencia: Suspendida",
+      "sourceIds": [
+        "rtc-87135-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87135-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=4&candidato=87135",
+      "sha256": "7f4ed3ed403d7dfe8a0586f6b719f8446f4598418a3b571560350bb20b18fc44",
+      "accessedAt": "2026-10-03T00:51:22.953Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87135-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=4&candidato=87135",
+      "sha256": "dfea02ca67bc07d62d7cd3b199c47ce29186efe309a7bb4147c57896faa99af2",
+      "accessedAt": "2026-10-03T00:51:22.953Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "candidateId": "fVVtpwxoIv9fo8hkTGR3fdpK7STlg5hq",
+  "facts": [
+    {
+      "id": "rtc-31376-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 19 contrato(s) con el Estado por S/ 819,746.3.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "19",
+        "montoTotal": "S/ 819,746.3"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n19 contratos\nS/ 819,746.3\nMUNICIPALIDAD PROVINCIAL DE CHICLAYO\nContar con el Servicio de un Especialista en Tráfico y Seguridad Vial para la Sub Gerencia de Tránsi\nMonto: S/ 4,000\nCódigo: 2@24220881\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD PROVINCIAL DE CHICLAYO\nCONTRATACION DEL SERVICIO ESPECIALIZADO EN TRÁFICO Y MICROSIMULACIÓN PARA EL ESTUDIO DE TRAFICO\nMonto: S/ 7,000\nCódigo: 2@18221591\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIDAD EJECUTORA 008:PROYECTOS ESPECIALES DEL PLIEGO 003 - MINI",
+      "sourceIds": [
+        "rtc-31376-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-31376-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 3 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "3"
+      },
+      "quote": "TRAFFIK INGENIERIA & CONSULTORIA S.A.C.\nAccionista (95%)\nAdministración\nRepresentante legal\nRUC: 20536838946\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n36 contratos con el Estado · S/ 14,509,590.15\nINGENIERIA DE TRAFICO, SL. SUCURSAL DEL PERU\nRepresentante legal\nRUC: 20553986231\nSUCURSALES O AG. DE EMP. EXTRANJ.\nBAJA DE OFICIO Fecha de Baja: 11/10/2023\nCondición: HABIDO\n6 contratos con el Estado · S/ 2,155,219.88\nTRAZAS INGENIERIA S.L\nRepresentante legal\nRUC: 99000017449\nEmpresa extranjera\n3 contratos con el Estado · S/ 10,958,697.26",
+      "sourceIds": [
+        "rtc-31376-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-31376-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=8&candidato=31376",
+      "sha256": "196e98e486a986cc51cbe77b814d0015f09f015bed02711e72d7bf3ddcb38d22",
+      "accessedAt": "2026-10-03T00:11:20.276Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

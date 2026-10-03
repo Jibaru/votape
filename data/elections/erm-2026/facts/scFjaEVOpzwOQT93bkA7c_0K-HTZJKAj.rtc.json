@@ -1,0 +1,34 @@
+{
+  "candidateId": "scFjaEVOpzwOQT93bkA7c_0K-HTZJKAj",
+  "facts": [
+    {
+      "id": "rtc-87594-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 32 contrato(s) con el Estado por S/ 268,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "32",
+        "montoTotal": "S/ 268,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n32 contratos\nS/ 268,800\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nAD. SERVICIO ESPECIALIZADO EN MATERIA LEGAL EN GESTION PUBLICA PARA LA OGAF-DOS ENTREGABLES-2026\nMonto: S/ 16,000\nCódigo: 2@40163783\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nAD.SERVICIO ESPECIALIZADO EN MATERIA LEGAL EN GESTION PUBLICA-OGAF-UNICO ENTREGABLE-2026\nMonto: S/ 8,000\nCódigo: 2@39871176\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nADM-SERVICI",
+      "sourceIds": [
+        "rtc-87594-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87594-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=bre%C3%B1a&cargo=alcalde-distrital&organizacion=52&candidato=87594",
+      "sha256": "dff1618a49b81f3455afcd33a5241337163271bcd0d8f2e4c750a3d8e8b0cd45",
+      "accessedAt": "2026-10-03T01:23:37.527Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

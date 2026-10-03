@@ -1,0 +1,50 @@
+{
+  "candidateId": "aX4IQJT8g4fNNYFS2-ToqTXEvnJAo8XM",
+  "facts": [
+    {
+      "id": "rtc-92316-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 37,465.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 37,465"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 37,465\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nSERVICIO DE COODINADOR EN EL AREA DE LOGISTICA PARA EL CENTRO PREUNIVERSITARIO HOJA DE RUTA 20011466\nMonto: S/ 3,500\nCódigo: 2@24274262\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nCONTRATO DE LOCACIÓN DE SERVICIOS N° 1088-UNMSM-2019\nMonto: S/ 3,500\nCódigo: 2@24216450\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nCONTRATACION DE UN COORDINADOR PARA EL AREA DE LOGISTICA DE L",
+      "sourceIds": [
+        "rtc-92316-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92316-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSORCIO EDUCATIVO JUAN ESPINOZA MEDRANO EL APOSTOL S.A.C.\nAccionista (6.66%)\nRUC: 20508497084\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n1 contrato con el Estado · S/ 170,500",
+      "sourceIds": [
+        "rtc-92316-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92316-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+anita&cargo=alcalde-distrital&organizacion=3&candidato=92316",
+      "sha256": "6754d51e22fa72296dd406e0f866996b25b1e4a11aa2cc4777d67231eedb98b1",
+      "accessedAt": "2026-10-03T01:00:40.932Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

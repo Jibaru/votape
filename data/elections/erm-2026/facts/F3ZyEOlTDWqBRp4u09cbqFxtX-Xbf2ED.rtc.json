@@ -1,0 +1,34 @@
+{
+  "candidateId": "F3ZyEOlTDWqBRp4u09cbqFxtX-Xbf2ED",
+  "facts": [
+    {
+      "id": "rtc-93081-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 21 contrato(s) con el Estado por S/ 33,240.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "21",
+        "montoTotal": "S/ 33,240"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n21 contratos\nS/ 33,240\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nSERVICIO DE ATENCION PARA EVENTOS DIVERSOS\nMonto: S/ 1,200\nCódigo: 2@26274252\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nSERVICIO DE ATENCION PARA EVENTOS DIVERSOS\nMonto: S/ 1,200\nCódigo: 2@26278699\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SURQUILLO\nSERVICIO DE ATENCION PARA EVENTOS DIVERSOS\nMonto: S/ 1,200\nCódigo: 2@26284087\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omiti",
+      "sourceIds": [
+        "rtc-93081-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93081-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=24&candidato=93081",
+      "sha256": "d62af1e7072889df501ac099b84825239f84c9986faaad03cf532851a76dc7c0",
+      "accessedAt": "2026-10-03T00:37:21.802Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

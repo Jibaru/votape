@@ -1,0 +1,34 @@
+{
+  "candidateId": "dIKpPO69hZqzrCngmnZZOBNqYGisDJaA",
+  "facts": [
+    {
+      "id": "rtc-90881-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 47 contrato(s) con el Estado por S/ 339,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "47",
+        "montoTotal": "S/ 339,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n47 contratos\nS/ 339,500\nMUNICIPALIDAD DISTRITAL DE LINCE\nServicio de Asesoria en Gestión Pública de la Gerencia de Gestión Ambiental\nMonto: S/ 3,000\nCódigo: 2@25776518\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MIRAFLORES - LIMA\nSERVICIO DE ABOGADO EN LA GERENCIA DE DESARROLLO HUMANO\nMonto: S/ 8,000\nCódigo: 2@25821216\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MIRAFLORES - LIMA\nSERVICIO DE ABOGADO DE LA GERENCIA\nMonto: S/ 16,000\nCódigo: 2@24912453\nSERVICIO\nE",
+      "sourceIds": [
+        "rtc-90881-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90881-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=17&candidato=90881",
+      "sha256": "aa9a6ab1925d9b3700a38a81e92b315406ed325ab1007178159e0972e858a6b6",
+      "accessedAt": "2026-10-03T01:08:55.032Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

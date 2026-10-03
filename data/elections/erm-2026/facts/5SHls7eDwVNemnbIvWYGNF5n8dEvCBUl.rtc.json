@@ -1,0 +1,33 @@
+{
+  "candidateId": "5SHls7eDwVNemnbIvWYGNF5n8dEvCBUl",
+  "facts": [
+    {
+      "id": "rtc-91411-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "SABIO ANTUNEZ DE MAYOLO E.I.R.L.\nRepresentante legal\nRUC: 20462772441\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n18 contratos con el Estado · S/ 59,063.66",
+      "sourceIds": [
+        "rtc-91411-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91411-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=39&candidato=91411",
+      "sha256": "e7428b1fcf0e9bd7220423f546b93896abf843636faaed0a43e3b6a722b7dc5e",
+      "accessedAt": "2026-10-03T00:19:33.240Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

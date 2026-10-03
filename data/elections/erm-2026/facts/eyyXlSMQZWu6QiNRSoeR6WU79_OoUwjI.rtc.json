@@ -1,0 +1,34 @@
+{
+  "candidateId": "eyyXlSMQZWu6QiNRSoeR6WU79_OoUwjI",
+  "facts": [
+    {
+      "id": "rtc-89354-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 30,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 30,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 30,000\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE UN LOCADOR DE SERVICIO ESPECIALIZADO PARA LA COORDINACION EN GESTION SOCIO AMB\nMonto: S/ 5,000\nCódigo: 2@25892652\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nREQUERIMIENTO DE UN LOCADOR DE SERVICIO ESPECIALIZADO PARA LA COORDINACIÓN EN GESTION SOCIO AMB\nMonto: S/ 5,000\nCódigo: 2@25717256\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LURIGANCHO (CHOSICA)\nRE",
+      "sourceIds": [
+        "rtc-89354-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89354-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=10&candidato=89354",
+      "sha256": "f7c33a3dc57d83de8864104270809154c7847f8d0f3b2da386b01665c75ee1f5",
+      "accessedAt": "2026-10-03T01:15:38.095Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

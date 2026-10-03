@@ -1,0 +1,50 @@
+{
+  "candidateId": "XTe1MLhMogsm4oqg8qTE7XdUsPcpbSgK",
+  "facts": [
+    {
+      "id": "rtc-90883-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 7,567.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 7,567"
+      },
+      "quote": "RUC: 15421907991\n1 contrato\nS/ 7,567\nEMPRESA MUNICIPAL INMOBILIARIA DE LIMA S.A.\nADQUISICIÓN DE MATERIALES PARA ACONDICIONAMIENTO DE INFRAESTRUCTURA DE SOPORTE EN LOS LATERALES\nMonto: S/ 7,567\nCódigo: 2@28271275\nBIEN\nEstado: Contratado\nRUC: 15421907991",
+      "sourceIds": [
+        "rtc-90883-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90883-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "SEGURIDAD MINOTAURO SRL\nAccionista (0.05%)\nAdministración\nRepresentante legal\nRUC: 20603542151\nSOC.COM.RESPONS. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n2 contratos con el Estado · S/ 20,957.6\nJAD SECURITY SERVICIOS GENERALES S.A.C\nAccionista (99.53%)\nAdministración\nRepresentante legal\nRUC: 20538373959\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nNO HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 724,652",
+      "sourceIds": [
+        "rtc-90883-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90883-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=rimac&cargo=alcalde-distrital&organizacion=21&candidato=90883",
+      "sha256": "98162bd079f28ffbbd81a1bb7a62f4b3c46c6d4d7143ff22fe4e3bb12df1f022",
+      "accessedAt": "2026-10-03T01:08:27.716Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

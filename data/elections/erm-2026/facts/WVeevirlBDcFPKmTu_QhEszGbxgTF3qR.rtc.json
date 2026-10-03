@@ -1,0 +1,50 @@
+{
+  "candidateId": "WVeevirlBDcFPKmTu_QhEszGbxgTF3qR",
+  "facts": [
+    {
+      "id": "rtc-87428-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 54 contrato(s) con el Estado por S/ 237,100.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "54",
+        "montoTotal": "S/ 237,100"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n54 contratos\nS/ 237,100\nMUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO\nCONTRATACION DEL SERVICIO DE COORDINACION DE ACTIVIDADES DE FORMALIZACION EMPRESARIAL.\nMonto: S/ 4,000\nCódigo: 2@39775070\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO\nCONTRATACION DEL SERVICIO DE COORDINACION DE ACTIVIDADES DE FORMALIZACION EMPRESARIAL.\nMonto: S/ 4,000\nCódigo: 2@39753698\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VILLA MARIA DEL TRIUNFO\nCONTRATAC",
+      "sourceIds": [
+        "rtc-87428-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87428-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CHLT INVERSIONES Y CONSULTORES E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20602772668\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n30 contratos con el Estado · S/ 1,155,603.33",
+      "sourceIds": [
+        "rtc-87428-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87428-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=cieneguilla&cargo=alcalde-distrital&organizacion=39&candidato=87428",
+      "sha256": "d7614a8f2cca68ddc265357a5ea0be2811538a1418446cfd5ad5a8bf4e9cc96d",
+      "accessedAt": "2026-10-03T01:13:57.216Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

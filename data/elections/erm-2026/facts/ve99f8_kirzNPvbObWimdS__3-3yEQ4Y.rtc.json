@@ -1,0 +1,33 @@
+{
+  "candidateId": "ve99f8_kirzNPvbObWimdS__3-3yEQ4Y",
+  "facts": [
+    {
+      "id": "rtc-91787-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSTRUCTORA QR S.A.\nAdministración\nRUC: 20126533447\nSOCIEDAD ANONIMA\nEstado: ACTIVO\nCondición: HABIDO\n60 contratos con el Estado · S/ 137,596,641.37",
+      "sourceIds": [
+        "rtc-91787-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91787-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=34&candidato=91787",
+      "sha256": "916d5be2dc5af1b04be52da5bba320139a44d2ce679ea1132eccf6a736214067",
+      "accessedAt": "2026-10-03T00:16:21.726Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

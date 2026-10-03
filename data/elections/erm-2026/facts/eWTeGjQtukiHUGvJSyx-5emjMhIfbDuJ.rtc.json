@@ -1,0 +1,50 @@
+{
+  "candidateId": "eWTeGjQtukiHUGvJSyx-5emjMhIfbDuJ",
+  "facts": [
+    {
+      "id": "rtc-91400-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 4,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 4,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 4,000\nMUNICIPALIDAD DISTRITAL DE LA VICTORIA - LIMA\nSERVICIO DE LOCADORES CORRESPONDIENTE AL MES DE NOVIEMBRE\nMonto: S/ 4,000\nCódigo: 2@27218566\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91400-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91400-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "ARMS VAISMAN S.A.C.\nAccionista (99.71%)\nAdministración\nRepresentante legal\nRUC: 20552429509\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/07/2024\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 5,759\nINVERSIONES Y SERVICIOS INTEGRALES S.A.C\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20544297385\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nNO HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-91400-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91400-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=6&candidato=91400",
+      "sha256": "fa953f9c22e30d57ca2628cbc09cf7ff243208dc028e4060394fd63a7e957989",
+      "accessedAt": "2026-10-03T00:20:27.905Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

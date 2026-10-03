@@ -1,0 +1,33 @@
+{
+  "candidateId": "XFEa-tj2NUIHeqLr1moRBOSoD8w461Lf",
+  "facts": [
+    {
+      "id": "rtc-87767-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "INVERSICIONES ALPESMOUNTAIN SOCIEDAD ANONIMA CERRADA\nAccionista (20%)\nRUC: 20568829876\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n22 contratos con el Estado · S/ 972,447.8\nSOLUCIONES MINERALES S.A.C\nAccionista (95.01%)\nAdministración\nRepresentante legal\nRUC: 20451768604\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n9 contratos con el Estado · S/ 98,438.34",
+      "sourceIds": [
+        "rtc-87767-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87767-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=13&candidato=87767",
+      "sha256": "d144433a99f0cfba8c6da7fdc3136473998b8aa8584c322e327d7bedaf21a817",
+      "accessedAt": "2026-10-03T00:39:47.646Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

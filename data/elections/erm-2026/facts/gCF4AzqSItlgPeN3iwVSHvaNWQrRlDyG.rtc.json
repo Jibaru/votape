@@ -1,0 +1,34 @@
+{
+  "candidateId": "gCF4AzqSItlgPeN3iwVSHvaNWQrRlDyG",
+  "facts": [
+    {
+      "id": "rtc-1169-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 146,200.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 146,200"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 146,200\nMINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nSERVICIO ESPECIALIZADO EN TEMAS DE DERECHO\nMonto: S/ 24,600\nCódigo: 2@22897056\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nSERVICIO ESPECIALIZADO DE DERECHO CIVIL.\nMonto: S/ 16,400\nCódigo: 2@20812822\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE JUSTICIA Y DERECHOS HUMANOS\nCCMN 1119 SERVICIO ESPECIALIZADO EN TEMAS DE DERECHO\nMonto: S/ 16,400\nCódigo: 2@20490307\nSERVICIO\nEstado: Contratado\nRUC: [RU",
+      "sourceIds": [
+        "rtc-1169-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-1169-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=4&candidato=1169",
+      "sha256": "35d7b84cd57110154c882bb337b59cf55de95b6d094c3b0a792c0d4a0db85211",
+      "accessedAt": "2026-10-03T00:35:59.204Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

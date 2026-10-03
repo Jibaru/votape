@@ -1,0 +1,50 @@
+{
+  "candidateId": "aiCRrGG0PBkpc0Iz_PjMTDmDZFQdZjBB",
+  "facts": [
+    {
+      "id": "rtc-89238-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 3 contrato(s) con el Estado por S/ 49,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "3",
+        "montoTotal": "S/ 49,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n3 contratos\nS/ 49,000\nMINISTERIO DE EDUCACION\nSINAD 23660: SERVICIO DE INFORMACIÓN Y ANÁLISIS DE CONFLICTOS MAGISTERIALES - ODI\nMonto: S/ 18,000\nCódigo: 2@16999404\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA EDUCACION BASICA PARA TODOS UE 026\nSINAD 172218 SERVICIO DE ASISTENCIA LEGAL EN PROCESOS ADMINISTRATIVOS DES\nMonto: S/ 20,000\nCódigo: 2@10420732\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nPROGRAMA EDUCACION BASICA PARA TODOS UE 026\nCONTRATACIÓN DEL SERVICIO PARA LA SISTEMATIZACION DE INFORMACION DIG",
+      "sourceIds": [
+        "rtc-89238-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89238-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "INSTITUTO REGIONAL PARA LA PAZ\nRepresentante legal\nRUC: 20489370124\nASOCIACION\nEstado: ACTIVO\nNO HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89238-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89238-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=1&candidato=89238",
+      "sha256": "10e5b98684b58010bd6cb47c41f1414803b31e3373533f436c1a59476c170371",
+      "accessedAt": "2026-10-03T00:36:36.182Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

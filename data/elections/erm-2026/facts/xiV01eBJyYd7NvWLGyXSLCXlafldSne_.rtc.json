@@ -1,0 +1,34 @@
+{
+  "candidateId": "xiV01eBJyYd7NvWLGyXSLCXlafldSne_",
+  "facts": [
+    {
+      "id": "rtc-2761-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 9 contrato(s) con el Estado por S/ 129,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "9",
+        "montoTotal": "S/ 129,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n9 contratos\nS/ 129,500\nINSTITUTO PERUANO DEL DEPORTE\nOGA 702 - SERVICIO DE SUPERVISIÓN DE SEGURIDAD Y VIGILANCIA PARA LA OFICINA GENERAL DE AMINISTRACIÓN.\nMonto: S/ 18,000\nCódigo: 2@36876138\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO PERUANO DEL DEPORTE\nOA 601 - SERVICIO DE SUPERVISIÓN DE SEGURIDAD Y VIGILANCIA PARA LA OFICINA GENERAL DE AMINISTRACIÓN.\nMonto: S/ 5,500\nCódigo: 2@36010675\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nINSTITUTO PERUANO DEL DEPORTE\nOGA 364 SERVICIO DE SUPERVISIÓN DE ACTIVIDA",
+      "sourceIds": [
+        "rtc-2761-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-2761-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+miraflores&cargo=alcalde-distrital&organizacion=39&candidato=2761",
+      "sha256": "cbe3a1b1d9e753415b0601bcc253212ac451d007733d6cf2deb0fcd8b3d25280",
+      "accessedAt": "2026-10-03T00:17:16.596Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

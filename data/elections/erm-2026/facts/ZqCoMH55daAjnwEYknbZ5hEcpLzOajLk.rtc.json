@@ -1,0 +1,34 @@
+{
+  "candidateId": "ZqCoMH55daAjnwEYknbZ5hEcpLzOajLk",
+  "facts": [
+    {
+      "id": "rtc-88692-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 33 contrato(s) con el Estado por S/ 441,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "33",
+        "montoTotal": "S/ 441,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n33 contratos\nS/ 441,000\nMUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO\nSERVICIO ESPECIALIZADO EN PLANEAMIENTO Y PRESUPUESTO\nMonto: S/ 10,000\nCódigo: 2@40150540\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO\nSERVICIO ESPECIALIZADO EN PLANEAMIENTO Y PRESUPUESTO\nMonto: S/ 10,000\nCódigo: 2@39935309\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SANTIAGO DE SURCO\nSERVICIO DE DESARROLLO DEL PRESUPUESTO PARTICIPATIVO\nMonto: S/ 10,000\nCódigo: 2@39610806\nSERV",
+      "sourceIds": [
+        "rtc-88692-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88692-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=49&candidato=88692",
+      "sha256": "d34b90bc3a7231a5462f11b65a26344be2140fb55bdb7e6ef7ab48d8149614b2",
+      "accessedAt": "2026-10-03T00:54:26.614Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

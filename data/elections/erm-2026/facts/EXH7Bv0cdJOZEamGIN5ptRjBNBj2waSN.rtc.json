@@ -1,0 +1,33 @@
+{
+  "candidateId": "EXH7Bv0cdJOZEamGIN5ptRjBNBj2waSN",
+  "facts": [
+    {
+      "id": "rtc-93083-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "IBS SUPPORT S.A.C.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20600867009\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 4,592",
+      "sourceIds": [
+        "rtc-93083-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93083-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=35&candidato=93083",
+      "sha256": "831c7ab074888a5165c6606f649f9f9d4c5b83858668df6ef141f23f7ca3af6b",
+      "accessedAt": "2026-10-03T00:38:07.300Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

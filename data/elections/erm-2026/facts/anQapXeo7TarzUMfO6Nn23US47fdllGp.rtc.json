@@ -1,0 +1,34 @@
+{
+  "candidateId": "anQapXeo7TarzUMfO6Nn23US47fdllGp",
+  "facts": [
+    {
+      "id": "rtc-89058-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 2,950.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 2,950"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 2,950\nMUNICIPALIDAD DISTRITAL DE LINCE\n[Contratación de Orquesta de genero de Salsa, según término de referencia]\nMonto: S/ 2,950\nCódigo: 2@14253296\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-89058-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89058-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+victoria&cargo=alcalde-distrital&organizacion=8&candidato=89058",
+      "sha256": "6c774f65c67097dd4e51a2acf090d69e5a0c3dc9b064efb498a7d3f228fba598",
+      "accessedAt": "2026-10-03T00:57:11.308Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

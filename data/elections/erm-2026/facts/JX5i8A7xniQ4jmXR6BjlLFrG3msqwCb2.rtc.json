@@ -1,0 +1,80 @@
+{
+  "candidateId": "JX5i8A7xniQ4jmXR6BjlLFrG3msqwCb2",
+  "facts": [
+    {
+      "id": "rtc-88014-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 8 contrato(s) con el Estado por S/ 32,512.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "8",
+        "montoTotal": "S/ 32,512"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n8 contratos\nS/ 32,512\nARCHIVO GENERAL DE LA NACION\nSERVICIO DE ASISTENCIA EN SERVICIOS GENERALES DE LA UNIDAD DE ABASTECIMIENTO DEL ARCHIVO GENERAL DE\nMonto: S/ 4,500\nCódigo: 2@31691631\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nSEGURO SOCIAL DE SALUD\nCONTRATACION DE SERVICIO DE OPERADOR DE PLANTA DE OXIGENO PARA EL CENTRO DE ATENCION Y AISLAMIENTO VILLA PANAMERICANA DE LA GERENCIA DE OFERTA FLEXIBLE. DEPENDENCIA: GERENCIA DE OFERTA FLEXIBLE. SOLPED: 11176400 SEGÚN LOS TERMINOS DE REFERENCIA. ENTREGABLES: 1ER ENTREGABLE: HASTA LOS 15",
+      "sourceIds": [
+        "rtc-88014-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88014-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "EMPRESA ARISALTEX E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20603169141\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-88014-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88014-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "2",
+        "puntosAcumulados": "85",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-88014-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88014-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=23&candidato=88014",
+      "sha256": "2321bcc2927afda3ed90503c01eeede0e5b2b1395a9a3ce522299202544e6c8f",
+      "accessedAt": "2026-10-03T00:32:01.930Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-88014-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=comas&cargo=alcalde-distrital&organizacion=23&candidato=88014",
+      "sha256": "2653b0ad48e1d0060c33aaac8988b38893c7cf9b3c2ab30d34386ac12525926a",
+      "accessedAt": "2026-10-03T00:32:01.930Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

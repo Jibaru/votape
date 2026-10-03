@@ -1,0 +1,50 @@
+{
+  "candidateId": "0jvkwiH4Wqz7n7gA1TepdgqAgA3xsoz_",
+  "facts": [
+    {
+      "id": "rtc-8046-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 4,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 4,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 4,000\nSEGURO SOCIAL DE SALUD\nSERV ELABORACIÓN DE EVALUACIONES PSICOMÉ\nMonto: S/ 4,000\nCódigo: 2@9618531\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-8046-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-8046-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ASYR SERVICIOS GENERALES S.A.C. INMOBILIARIA Y CONSTRUCTORA\nAccionista (44.27%)\nAdministración\nRepresentante legal\nRUC: 20538899641\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 1,045",
+      "sourceIds": [
+        "rtc-8046-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-8046-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=el+agustino&cargo=alcalde-distrital&organizacion=21&candidato=8046",
+      "sha256": "b1aa6ffde2a0b44eb1f320621139dc850bb8a1dcb856044afdf39cd170f99560",
+      "accessedAt": "2026-10-03T01:09:58.962Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

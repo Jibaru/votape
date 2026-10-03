@@ -1,0 +1,50 @@
+{
+  "candidateId": "N294nzV78jSGqFjbejQvwIxNPgR2RKuh",
+  "facts": [
+    {
+      "id": "rtc-92856-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 14 contrato(s) con el Estado por S/ 231,700.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "14",
+        "montoTotal": "S/ 231,700"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n14 contratos\nS/ 231,700\nPROGRAMA DE DESARROLLO PRODUCTIVO AGRARIO RURAL - AGRO RURAL\n(75/3) CONTRATACIÓN DE LOCADOR DE SERVICIO DE IMPLEMENTACIÓN DE RECOMENDACIONES ADMINISTRATIVAS PARA LA UNIDAD DE CADENA DE VALOR AGRICOLA Y GANADERA\nMonto: S/ 30,000\nCódigo: 2@33565374\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nDIRECCION REGIONAL DE EDUCACION DE LIMA METROPOLITANA\nCONTRATACIÓN DEL SERVICIO ESPECIALIZADO EN MATERIA LEGAL PARA LA OFICINA DE SUPERVISIÓN DEL SERVICIO EDUCATIVO\nMonto: S/ 28,000\nCódigo: 2@26551729\nSERVICIO\nEstado: Contrat",
+      "sourceIds": [
+        "rtc-92856-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92856-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "TABOADA & FERNANDEZ REGULATORY ADVISORS S.A.C.\nAccionista (50%)\nRepresentante legal\nRUC: 20615031357\nSOCIEDAD ANONIMA CERRADA\nBAJA PROV. POR OFICIO Fecha de Baja: 30/06/2026\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-92856-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92856-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santiago+de+surco&cargo=alcalde-distrital&organizacion=1&candidato=92856",
+      "sha256": "d4a0da457f68c36818b7fb4457073de37e4092ed6bcf8abe1c11aa06808b46e3",
+      "accessedAt": "2026-10-03T00:28:31.821Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

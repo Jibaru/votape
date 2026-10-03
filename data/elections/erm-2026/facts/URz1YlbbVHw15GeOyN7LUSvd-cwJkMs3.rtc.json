@@ -1,0 +1,34 @@
+{
+  "candidateId": "URz1YlbbVHw15GeOyN7LUSvd-cwJkMs3",
+  "facts": [
+    {
+      "id": "rtc-86613-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 11 contrato(s) con el Estado por S/ 75,446.52.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "11",
+        "montoTotal": "S/ 75,446.52"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n11 contratos\nS/ 75,446.52\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\nContratación del servicio de seguimiento y monitoreo de la flota vehicular del Área de Transpor\nMonto: S/ 12,000\nCódigo: 2@22091980\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\nContratación del servicio de seguimiento y monitoreo de la flota vehicular del Área de Transpor\nMonto: S/ 12,000\nCódigo: 2@21426304\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE TRANSPORTES Y COMUNICACIONES\nServicio de",
+      "sourceIds": [
+        "rtc-86613-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86613-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ancon&cargo=alcalde-distrital&organizacion=52&candidato=86613",
+      "sha256": "2a223cb1d78b900dae0cd68f89552b944fcedfe9b028c0519dfad1567ca3b544",
+      "accessedAt": "2026-10-03T00:58:24.104Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

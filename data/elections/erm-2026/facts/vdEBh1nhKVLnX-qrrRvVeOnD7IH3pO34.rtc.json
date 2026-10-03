@@ -1,0 +1,34 @@
+{
+  "candidateId": "vdEBh1nhKVLnX-qrrRvVeOnD7IH3pO34",
+  "facts": [
+    {
+      "id": "rtc-91079-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 1,750.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 1,750"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 1,750\nREGISTRO NACIONAL DE IDENTIFICACION Y ESTADO CIVIL\nMSM - REGISTRADOR 1 PARA EL PROCESO DE ELECCIONES CONGRESALES 2020\nMonto: S/ 1,500\nCódigo: 2@13729866\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nREGISTRO NACIONAL DE IDENTIFICACION Y ESTADO CIVIL\nMSM-REGISTRADOR 1 PARA EL PROCESO DE ELECCIONES CONGRESALES 2020\nMonto: S/ 250\nCódigo: 2@13423124\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-91079-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91079-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+hermosa&cargo=alcalde-distrital&organizacion=82&candidato=91079",
+      "sha256": "60af5b6f0e2fd2897714fcb825a86bded031f92ba6795de92ca6fd3bd578f79a",
+      "accessedAt": "2026-10-03T00:14:13.954Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

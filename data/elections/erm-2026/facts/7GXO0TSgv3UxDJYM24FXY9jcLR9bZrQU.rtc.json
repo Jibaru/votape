@@ -1,0 +1,64 @@
+{
+  "candidateId": "7GXO0TSgv3UxDJYM24FXY9jcLR9bZrQU",
+  "facts": [
+    {
+      "id": "rtc-86608-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 18 contrato(s) con el Estado por S/ 104,300.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "18",
+        "montoTotal": "S/ 104,300"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n18 contratos\nS/ 104,300\nMUNICIPALIDAD DISTRITAL DE ANCON\nSERVICIO DE COORDINACION PARA EL MONITOREO DE LAS ACTIVIDADES DE PARTICACION VECINAL\nMonto: S/ 8,000\nCódigo: 2@40229416\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ANCON\nSERVICIO DE COORDINACION PARA EL MONITOREO DE LAS ACTIVIDADES DE PARTICIPACION VECINAL\nMonto: S/ 4,000\nCódigo: 2@39812061\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ANCON\nSERVICIO DE COORDINACION PARA EL MONITOREO DE LAS ACTIVIDADES DE ",
+      "sourceIds": [
+        "rtc-86608-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-86608-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "2",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-86608-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86608-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ancon&cargo=alcalde-distrital&organizacion=8&candidato=86608",
+      "sha256": "3b14263d7806415d92691f1fe0c68d781b22c6f0329c98827936356085e49b46",
+      "accessedAt": "2026-10-03T00:58:05.986Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-86608-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ancon&cargo=alcalde-distrital&organizacion=8&candidato=86608",
+      "sha256": "e012488b0eabb874cbd449abbba255619000781b07bda6abf50a1f6c499892a7",
+      "accessedAt": "2026-10-03T00:58:05.986Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

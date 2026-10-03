@@ -1,0 +1,50 @@
+{
+  "candidateId": "RRDKFJHbG3MsXW9Pb6Ra8jyjZtJWVrls",
+  "facts": [
+    {
+      "id": "rtc-91405-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 14 contrato(s) con el Estado por S/ 27,700.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "14",
+        "montoTotal": "S/ 27,700"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n14 contratos\nS/ 27,700\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nCONTRATO DE LOCACIÓN DE SERVICIOS/ SERVICIO DE DOCENCIA PARA EL DICTADO DEL CURSO: FORMULACIÓN Y EVALUACIÓN DE PROYECTOS TURISTICOS, SECCIÓN 1 DEL IX CICLO, SEMESTRE ACADÉMICO 2026-I-EPAT.\nMonto: S/ 2,400\nCódigo: 2@39215842\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS\nCONTRATO DE LOCACIÓN DE SERVICIOS/ SERVICIO DE DOCENCIA PARA EL DICTADO DEL CURSO: GESTIÓN DE LA CALIDAD TURÍSTICA, SECCIÓN 1 DEL VII CICLO, SEMESTRE ACADÉMICO 2026-I-",
+      "sourceIds": [
+        "rtc-91405-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91405-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "BARROCO ART S.A.C.\nAccionista (29.8%)\nAdministración\nRepresentante legal\nRUC: 20608905546\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n8 contratos con el Estado · S/ 180,137\nDeuda coactiva: S/ 23,905",
+      "sourceIds": [
+        "rtc-91405-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91405-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=18&candidato=91405",
+      "sha256": "dd7d8e666ff181c42d67037eda46046f2e5f43c80a8e661246d5de63ca0881f0",
+      "accessedAt": "2026-10-03T00:20:09.688Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

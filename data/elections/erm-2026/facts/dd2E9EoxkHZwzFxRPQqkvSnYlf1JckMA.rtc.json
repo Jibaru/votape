@@ -1,0 +1,33 @@
+{
+  "candidateId": "dd2E9EoxkHZwzFxRPQqkvSnYlf1JckMA",
+  "facts": [
+    {
+      "id": "rtc-87138-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "KALIDAT CORPORACION S.A.C\nAccionista (96.65%)\nAdministración\nRepresentante legal\nRUC: 20544313844\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 21,703",
+      "sourceIds": [
+        "rtc-87138-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87138-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=13&candidato=87138",
+      "sha256": "f660640083d7f2e510aec84d72957635cdcd3b5d9077463e60fae97dde410b5d",
+      "accessedAt": "2026-10-03T00:52:09.117Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

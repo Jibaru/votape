@@ -1,0 +1,34 @@
+{
+  "candidateId": "IFMw9YTaU5A_T5AqhF7XQ2Cdo--UZoKh",
+  "facts": [
+    {
+      "id": "rtc-92318-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 600.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 600"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 600\nGOBIERNO REGIONAL DE PASCO - UNIDAD DE GESTION EDUCATIVA DE OXAPAMPA\nCOMPRA DE RECORDATORIOS PARA LAS MUESTRAS DE INICIAL, SEGUN PLAN\nMonto: S/ 600\nCódigo: 2@10212689\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-92318-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92318-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+anita&cargo=alcalde-distrital&organizacion=7&candidato=92318",
+      "sha256": "c67233de3028eb6a771d8da411c4ad85ace8b9f679f4da58f890a8e65a34317c",
+      "accessedAt": "2026-10-03T01:01:35.945Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

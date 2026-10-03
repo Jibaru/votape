@@ -1,0 +1,34 @@
+{
+  "candidateId": "vZOLGUPRhBJkmu1dCn6MSOuoDI5MYFl5",
+  "facts": [
+    {
+      "id": "rtc-90775-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 7,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 7,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 7,500\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE TERCERO\nMonto: S/ 2,500\nCódigo: 2@4021356\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE INSTRUCTOR DE DEFENSA PERSONAL PARA LA SG DE SERENAZGO\nMonto: S/ 5,000\nCódigo: 2@5015570\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-90775-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90775-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=punta+negra&cargo=alcalde-distrital&organizacion=21&candidato=90775",
+      "sha256": "ef2105d9875aae832cf3783da6a2832cd7db3f2791e8ad19bee882921fa0b05d",
+      "accessedAt": "2026-10-03T00:21:13.404Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

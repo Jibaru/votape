@@ -1,0 +1,34 @@
+{
+  "candidateId": "jUHHDCUf8uP7bnD2TcYX9ZcXmO-wZebM",
+  "facts": [
+    {
+      "id": "rtc-88697-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 37 contrato(s) con el Estado por S/ 47,353.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "37",
+        "montoTotal": "S/ 47,353"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n37 contratos\nS/ 47,353\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE ENSEÑANZA DE BALLET PARA NIÑAS PARA LA SUBGERENCIA DE EDUCACION CULTURA Y DEPORTE DE LA MDJM\nMonto: S/ 500\nCódigo: 2@39835841\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE ENSEÑANZA DE BALLET PARA NIÑAS PARA LA SUBGERENCIA DE EDUCACION CULTURA Y DEPORTE DE LA MDJM\nMonto: S/ 500\nCódigo: 2@39259240\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE JESUS MARIA\nSERVICIO DE EN",
+      "sourceIds": [
+        "rtc-88697-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88697-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=jesus+maria&cargo=alcalde-distrital&organizacion=13&candidato=88697",
+      "sha256": "02041150849972b6ef48d3660c46707c4c20b39c7abdfa51abd64ea7cc02aa91",
+      "accessedAt": "2026-10-03T00:55:21.423Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

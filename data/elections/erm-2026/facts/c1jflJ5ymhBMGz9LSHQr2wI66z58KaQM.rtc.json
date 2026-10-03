@@ -1,0 +1,34 @@
+{
+  "candidateId": "c1jflJ5ymhBMGz9LSHQr2wI66z58KaQM",
+  "facts": [
+    {
+      "id": "rtc-88851-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 14 contrato(s) con el Estado por S/ 177,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "14",
+        "montoTotal": "S/ 177,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n14 contratos\nS/ 177,000\nGOBIERNO REGIONAL DE CALLAO SEDE CENTRAL\nSERVICIO DE ASISTENCIA TÉCNICA LEGAL PARA LA REALIZACIÓN DE SEMINARIOS EN MATERIA DE NORMATIVA LABORAL GENERAL DIRIGIDO A GREMIOS EMPRESARIALES Y SINDICALES, TRABAJADORES DEL SECTOR PRIVADO Y PÚBLICO EN GENERAL\nMonto: S/ 32,500\nCódigo: 2@36380942\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nUNIVERSIDAD NACIONAL DEL CALLAO\nSERVICIO DE ASISTENCIA LEGAL EN MATERIA PENAL Y PROCESAL\nMonto: S/ 16,500\nCódigo: 2@35282484\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural om",
+      "sourceIds": [
+        "rtc-88851-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88851-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=independencia&cargo=alcalde-distrital&organizacion=31&candidato=88851",
+      "sha256": "d4c0fda49927acdd5093b45c6cdd8fb0e34b4d67abaa9f1bbcac236e156bb479",
+      "accessedAt": "2026-10-03T01:06:47.237Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

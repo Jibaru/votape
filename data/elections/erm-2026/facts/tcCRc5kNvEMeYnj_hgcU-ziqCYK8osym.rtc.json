@@ -1,0 +1,50 @@
+{
+  "candidateId": "tcCRc5kNvEMeYnj_hgcU-ziqCYK8osym",
+  "facts": [
+    {
+      "id": "rtc-88845-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 6 contrato(s) con el Estado por S/ 15,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "6",
+        "montoTotal": "S/ 15,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n6 contratos\nS/ 15,000\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nDEPENDENCIA SOLICITANTE: SUB GERENCIA DE SERVICIOS GENERALES OBJETO DEL SERVICIO: CONTRATACIN DE PERSONAL LOCADOR PARA EL SERVICIO DE UN PINTOR DE MANTENIMIENTO GENERALES DESCRIPCIN DEL SERVICIO: EL SERVICIO SE REALIZARA DE ACUERDO A LOS TRMINOS DE REFERENCIA DEL REQUERIMIE\nMonto: S/ 3,000\nCódigo: 2@16649969\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE INDEPENDENCIA - LIMA\nDEPENDENCIA SOLICITANTE: SUB GERENCIA DE SERVICIOS GENERALES OBJETO ",
+      "sourceIds": [
+        "rtc-88845-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-88845-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "TUMI ARQ S.A.C\nAccionista (68.75%)\nAdministración\nRepresentante legal\nRUC: 20536392751\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 41,063",
+      "sourceIds": [
+        "rtc-88845-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88845-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=independencia&cargo=alcalde-distrital&organizacion=10&candidato=88845",
+      "sha256": "f833d39c31908a0f4bad671f62452667bc87e196104be939a48cf60a61a690af",
+      "accessedAt": "2026-10-03T01:05:33.805Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

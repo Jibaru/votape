@@ -1,0 +1,34 @@
+{
+  "candidateId": "kX5vtZmclIcb8NMBy0S8F_86C6r-JJJh",
+  "facts": [
+    {
+      "id": "rtc-89239-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 48 contrato(s) con el Estado por S/ 176,800.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "48",
+        "montoTotal": "S/ 176,800"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n48 contratos\nS/ 176,800\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nSERVICIO DE MARKETING PARA PROMOCION Y DESARROLLO DE ACTIVIDADES INSTITUCIONALES PARA LA GERENCIA DE DEPORTES\nMonto: S/ 2,500\nCódigo: 2@40018582\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE VENTANILLA\nSERVICIO DE LOCADOR\nMonto: S/ 2,500\nCódigo: 2@39599944\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE LINCE\nSERVICIO DE COORDINACION DE DEPORTES.\nMonto: S/ 7,000\nCódigo: 2@39512143\nSERVICIO\nEstado: Contrat",
+      "sourceIds": [
+        "rtc-89239-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89239-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lince&cargo=alcalde-distrital&organizacion=52&candidato=89239",
+      "sha256": "1ae5517a113db496eecdc1b1c0f72d056811f752dbe8526d44d79d62b93c67d8",
+      "accessedAt": "2026-10-03T00:36:26.621Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

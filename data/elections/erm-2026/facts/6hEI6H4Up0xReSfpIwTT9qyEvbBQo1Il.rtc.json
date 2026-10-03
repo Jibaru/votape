@@ -1,0 +1,50 @@
+{
+  "candidateId": "6hEI6H4Up0xReSfpIwTT9qyEvbBQo1Il",
+  "facts": [
+    {
+      "id": "rtc-87145-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 3,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 3,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 3,000\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nPOR EL SERVICIO PRESTADO EN LA SUBGERENCIA DE GESTION DEL RIESGO DE DESASTRE DE LA MUNICIPALIDAD DISTRITAL DE CARABAYLLO, DURANTE EL MES DE MARZO DEL 2021. REQUERIMIENTO : 600010034\nMonto: S/ 1,500\nCódigo: 2@17170198\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CARABAYLLO\nPOR EL SERVICIO PRESTADO EN LA SUBGERENCIA DE GESTION DEL RIESGO DE DESASTRE DE LA MUNICIPALIDAD DISTRITAL DE CARABAYLLO, DURANTE EL MES DE FEBRERO DEL 2021. REQUERIMIENTO : 60001002",
+      "sourceIds": [
+        "rtc-87145-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87145-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "EUSAN S.A.C\nAccionista (90.91%)\nAdministración\nRepresentante legal\nRUC: 20550925835\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 30/06/2025\nCondición: HABIDO\n6 contratos con el Estado · S/ 106,346.09\nDeuda coactiva: S/ 6,393",
+      "sourceIds": [
+        "rtc-87145-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87145-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=37&candidato=87145",
+      "sha256": "f16341c09e1d4d5b36d8f554e524d63cfe26812faea3b0bf27b60329d1a8951c",
+      "accessedAt": "2026-10-03T00:50:46.492Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

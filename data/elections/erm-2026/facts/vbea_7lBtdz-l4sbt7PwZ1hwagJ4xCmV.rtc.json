@@ -1,0 +1,50 @@
+{
+  "candidateId": "vbea_7lBtdz-l4sbt7PwZ1hwagJ4xCmV",
+  "facts": [
+    {
+      "id": "rtc-6356-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 2 contrato(s) con el Estado por S/ 13,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "2",
+        "montoTotal": "S/ 13,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n2 contratos\nS/ 13,000\nUNIVERSIDAD NACIONAL DE INGENIERIA\nCURSO TALLER EN CONTRATACION\nMonto: S/ 2,500\nCódigo: 2@3969220\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE ANCO HUALLO\nPRESTACIÓN DE SERVICIOS\nMonto: S/ 10,500\nCódigo: 2@8052673\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-6356-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-6356-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "ASUNTOS PUBLICOS EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA - ASUNTOS PUBLICOS E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20515278959\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 1,415",
+      "sourceIds": [
+        "rtc-6356-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-6356-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&cargo=alcalde-provincial&organizacion=13&candidato=6356",
+      "sha256": "c420dc0b0354a3528bdcf1546f771e053ded5b8480561cd4ddeb8887af19a11f",
+      "accessedAt": "2026-10-03T00:10:34.742Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

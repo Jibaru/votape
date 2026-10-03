@@ -1,0 +1,65 @@
+{
+  "candidateId": "5G7nuwzjgzt3n_DWDxBjaczOsgC-RvaL",
+  "facts": [
+    {
+      "id": "rtc-87147-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 8 contrato(s) con el Estado por S/ 413,060.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "8",
+        "montoTotal": "S/ 413,060"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n8 contratos\nS/ 413,060\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO DE MANTENIMIENTO PREVENTIVO CORRECTIVO PLANCHADO Y PINTURA EN GENERAL DE LAS UNIDADES VEHICULARES DE SEGURIDAD CIUDADANA\nMonto: S/ 344,680\nCódigo: 1@976010\nSERVICIO\nEstado: Contratado\nFin: 2015-10-14T05:00:00.000+0000\nRUC: [RUC de persona natural omitido]\nConsorcio\nMUNICIPALIDAD DISTRITAL DE COMAS - LIMA\nSERVICIO DE MANTENIMIENTODE VEHICULO TOYOTA HIACE\nMonto: S/ 3,600\nCódigo: 2@7508246\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE COMAS -",
+      "sourceIds": [
+        "rtc-87147-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87147-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "DR & PE CORPORACION E INVERSIONES S.A.C\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20600972201\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\n33 contratos con el Estado · S/ 600,682.55\nVPB CONSTRUCCIONES Y SERVICIOS GENERALES S.A.C.\nAccionista (40%)\nAdministración\nRepresentante legal\nRUC: 20566496209\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n1 contrato con el Estado · S/ 60,000",
+      "sourceIds": [
+        "rtc-87147-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87147-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "VALVERDE VALVERDE WILMER ROBERTO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 14/04/2006\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87147-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87147-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=carabayllo&cargo=alcalde-distrital&organizacion=39&candidato=87147",
+      "sha256": "1381e9a2f7962ca12c1e185112274ee69e4c93d8305d4272f71715bd261c0cbe",
+      "accessedAt": "2026-10-03T00:52:36.534Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

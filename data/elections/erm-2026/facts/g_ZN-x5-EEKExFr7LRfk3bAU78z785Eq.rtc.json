@@ -1,0 +1,34 @@
+{
+  "candidateId": "g_ZN-x5-EEKExFr7LRfk3bAU78z785Eq",
+  "facts": [
+    {
+      "id": "rtc-86701-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 9,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 9,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 9,000\nAUTORIDAD AUTONOMA DEL SISTEMA ELECTRICO DE TRASPORTE MASIVO DE LIMA Y CALLAO - AATE\nServ. de revisipon de especificaciones técnicas y TDR - UGD\nMonto: S/ 9,000\nCódigo: 2@3323939\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-86701-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-86701-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=ate&cargo=alcalde-distrital&organizacion=39&candidato=86701",
+      "sha256": "1eab68f5ad99ea79176b05a3e15d6cad0d5dc2690766fa90f6ef336ed79e8b14",
+      "accessedAt": "2026-10-03T01:19:17.637Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

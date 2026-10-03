@@ -1,0 +1,49 @@
+{
+  "candidateId": "0MDj7qddMNp3-FHWHaS26aXlAy2HYj85",
+  "facts": [
+    {
+      "id": "rtc-87066-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 20 contrato(s) con el Estado por S/ 2,814,090.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "20",
+        "montoTotal": "S/ 2,814,090"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n20 contratos\nS/ 2,814,090\nINSTITUTO METROPOLITANO DE PLANIFICACION\nARQUITECTO URBANISTA PLANIFICADOR PARA LOS PLANES TERRITORIALES SUR PAMPAS DE SAN BARTOLO - MALA\nMonto: S/ 36,000\nCódigo: 2@23188327\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE CHORRILLOS\nSERVICIO DE DISEÑO DE ANTEPROYECTO ARQUITECTONICO Y ENTORNOURBANO PAISAJISTA DENOMINADO PROYECTO PARQUE CULTURAL EN ELMORRO SOLAR DE LA MUNICIPALIDAD DE CHORRILLOS\nMonto: S/ 25,600\nCódigo: 2@17275229\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural o",
+      "sourceIds": [
+        "rtc-87066-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87066-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "RUIZ DE SOMOCURCIO HIDALGO JORGE ANTONIO\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: NO HABIDO Deberá declarar el nuevo domicilio fiscal o confirmar el señalado en el RUC. Para ello, deberá acercarse a los Centros de Servicios al Contribuyente con los documentos que sustenten el nuevo domicilio.\nRegistro: 24/04/1993\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87066-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87066-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=barranco&cargo=alcalde-distrital&organizacion=35&candidato=87066",
+      "sha256": "6152941ab9eaf1e3c6e1bcce82ac5ca3b3786e6599262bce96dc3ca94cbbad01",
+      "accessedAt": "2026-10-03T00:53:22.566Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

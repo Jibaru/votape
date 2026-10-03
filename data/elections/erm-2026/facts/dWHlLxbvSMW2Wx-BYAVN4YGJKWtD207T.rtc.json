@@ -1,0 +1,48 @@
+{
+  "candidateId": "dWHlLxbvSMW2Wx-BYAVN4YGJKWtD207T",
+  "facts": [
+    {
+      "id": "rtc-89064-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "PERFIL GRAFICO SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\nAccionista (50%)\nRUC: 20503624266\nSOC.COM.RESPONS. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n8 contratos con el Estado · S/ 107,544",
+      "sourceIds": [
+        "rtc-89064-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89064-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "IBARRA NUREÑA CESAR RAFAEL\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 24/05/1999\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89064-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89064-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=la+victoria&cargo=alcalde-distrital&organizacion=35&candidato=89064",
+      "sha256": "fdd1c8b64e44ba51cf7e5950a2fcc3255f8dfa27de22620569670d00003372d6",
+      "accessedAt": "2026-10-03T00:56:16.210Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

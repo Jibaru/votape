@@ -1,0 +1,34 @@
+{
+  "candidateId": "kHKXwjMs2t1lhtLBq_XzDnjnRTsEYA33",
+  "facts": [
+    {
+      "id": "rtc-93086-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 20 contrato(s) con el Estado por S/ 120,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "20",
+        "montoTotal": "S/ 120,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n20 contratos\nS/ 120,000\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nCONTRATACIÓN DE PERSONAL BAJO LA MODALIDAD DE LOCACIÓN DE SERVICIO EN APOYO DE LA REFERIDA ÁREA POR EL MES DE AGOSTO 2018. PROVEIDO Nº 538-18-GAF-MDMM Y MEMO Nº 060-18-GDH-MDMM ADJUNTO.\nMonto: S/ 6,000\nCódigo: 2@10487373\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE MAGDALENA DEL MAR\nCONTRATACIÓN DE PERSONAL BAJO LA MODALIDAD DE LOCACIÓN DE SERVICIO EN APOYO DE LA REFERIDA ÁREA POR EL MES DE JULIO 2018. PROVEIDO Nº 0464-18-GAF Y MEMO Nº 018-2",
+      "sourceIds": [
+        "rtc-93086-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-93086-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=surquillo&cargo=alcalde-distrital&organizacion=21&candidato=93086",
+      "sha256": "13b7cca8718d879d60bde22307d11074f4c34d1ac6ac6876eba4ae15d7d37ca1",
+      "accessedAt": "2026-10-03T00:38:25.616Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

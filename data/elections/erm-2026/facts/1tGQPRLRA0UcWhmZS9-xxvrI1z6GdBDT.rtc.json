@@ -1,0 +1,65 @@
+{
+  "candidateId": "1tGQPRLRA0UcWhmZS9-xxvrI1z6GdBDT",
+  "facts": [
+    {
+      "id": "rtc-92070-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 23 contrato(s) con el Estado por S/ 199,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "23",
+        "montoTotal": "S/ 199,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n23 contratos\nS/ 199,000\nEMPRESA MUNICIPAL INMOBILIARIA DE LIMA S.A.\nSERVICIO DE COORDINACIÓN EN CONTENIDOS Y ACTIVIDADES DE PROMOCIÓN CULTURAL.\nMonto: S/ 13,000\nCódigo: 2@32965013\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nEMPRESA MUNICIPAL INMOBILIARIA DE LIMA S.A.\nSERVICIO EN GESTION DE COMUNICACIONES Y PROMOCION DE SERVICIOS\nMonto: S/ 19,500\nCódigo: 2@31479705\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nEMPRESA MUNICIPAL INMOBILIARIA DE LIMA S.A.\nSERVICIO DE GESTION DE COMUNICACIONES Y PROMOCION DE SERVICIOS\n",
+      "sourceIds": [
+        "rtc-92070-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92070-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "SERVICIOS LIACABPA GENERALES E.I.R.L.\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20605240845\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 29/05/2026\nCondición: HABIDO\nSin contratos con el Estado\nDeuda coactiva: S/ 16,914",
+      "sourceIds": [
+        "rtc-92070-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-92070-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "CABRERA PORRAS MARCOS ENRIQUE\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 03/02/2019\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-92070-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92070-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+miguel&cargo=alcalde-distrital&organizacion=52&candidato=92070",
+      "sha256": "f92829d2ac802a5081b3f41b8495bd6b5e8aa342ed0d0f390f8f0d52a5697315",
+      "accessedAt": "2026-10-03T00:39:02.116Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

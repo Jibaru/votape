@@ -1,0 +1,37 @@
+{
+  "candidateId": "IKZFSQNv3MHA0W0jtStgyyFqnO4OxXre",
+  "facts": [
+    {
+      "id": "rtc-92806-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): licencia: Suspendida.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "0",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Suspendida"
+      },
+      "quote": "licencia: Suspendida",
+      "sourceIds": [
+        "rtc-92806-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-92806-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=santa+rosa&cargo=alcalde-distrital&organizacion=49&candidato=92806",
+      "sha256": "b120ef814134392b1ac084c2c436b4a57ebbe24482804acc0263c38b9d1829e2",
+      "accessedAt": "2026-10-03T00:48:20.542Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

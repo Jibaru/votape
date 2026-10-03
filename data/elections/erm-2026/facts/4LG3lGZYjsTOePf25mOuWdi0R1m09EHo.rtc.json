@@ -1,0 +1,50 @@
+{
+  "candidateId": "4LG3lGZYjsTOePf25mOuWdi0R1m09EHo",
+  "facts": [
+    {
+      "id": "rtc-90250-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 7 contrato(s) con el Estado por S/ 120,320.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "7",
+        "montoTotal": "S/ 120,320"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n7 contratos\nS/ 120,320\nMINISTERIO DE RELACIONES EXTERIORES\nSERVICIO DE EVALUACION DE DOS TESIS ACADEMICA\nMonto: S/ 720\nCódigo: 2@5848528\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE RELACIONES EXTERIORES\nSERVICIO DE DOCENTE CURSO \" CAMBIO CLIMATICO\"\nMonto: S/ 4,800\nCódigo: 2@2752165\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMINISTERIO DE RELACIONES EXTERIORES\nContratación de un profesional docente en diferentes materias, para que brinde el servicio de e\nMonto: S/ 300\nCódigo: 2@1721361\nSERVICIO\nEsta",
+      "sourceIds": [
+        "rtc-90250-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90250-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "SOLSISTEMAS SERVICIOS GENERALES S.A.\nAdministración\nRUC: 20322091142\nSOCIEDAD ANONIMA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nNO HABIDO\n148 contratos con el Estado · S/ 1,967,655.41",
+      "sourceIds": [
+        "rtc-90250-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90250-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=miraflores&cargo=alcalde-distrital&organizacion=1&candidato=90250",
+      "sha256": "3c26459045015e1125f1802f93d9a9f8f9f2c72d5d891e755a1d7b819689cc7a",
+      "accessedAt": "2026-10-03T01:18:50.155Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

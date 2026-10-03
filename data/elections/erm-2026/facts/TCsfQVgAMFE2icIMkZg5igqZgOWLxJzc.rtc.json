@@ -1,0 +1,64 @@
+{
+  "candidateId": "TCsfQVgAMFE2icIMkZg5igqZgOWLxJzc",
+  "facts": [
+    {
+      "id": "rtc-91404-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 19 contrato(s) con el Estado por S/ 95,900.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "19",
+        "montoTotal": "S/ 95,900"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n19 contratos\nS/ 95,900\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE ASISTENCIA ADMINISTRATIVA PARA LA GESTION DE SERVICIOS Y TRAMITE DE DOCUMENTACION PARA SG DE SERVICIOS SOCIALES\nMonto: S/ 5,000\nCódigo: 2@37440558\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE ASISTENCIA ADMINISTRATIVA PARA LA GESTIÓN DE SERVICIOS Y TRÁMITE DE DOCUMENTACIÓN PARA LA SUBGERENCIA DE SERVICIOS SOCIALES\nMonto: S/ 2,500\nCódigo: 2@37437862\nSERVICIO\nEstado: Contratado\nRUC: [RUC de pe",
+      "sourceIds": [
+        "rtc-91404-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-91404-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) grave(s), licencia: Suspendida.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "0",
+        "papeletas": "3",
+        "puntosAcumulados": "0",
+        "licencia": "Suspendida"
+      },
+      "quote": "1 falta(s) grave(s) · licencia: Suspendida",
+      "sourceIds": [
+        "rtc-91404-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91404-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=17&candidato=91404",
+      "sha256": "7ae1920638f4e077e9ca730bd3bff8e5bea8d3b14d014337ce613dd68c546e87",
+      "accessedAt": "2026-10-03T00:18:47.809Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-91404-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=17&candidato=91404",
+      "sha256": "5568b2f52165186ad4d6cf6156a8e936113b6cf7c79bc30f0bde995d94bd2a33",
+      "accessedAt": "2026-10-03T00:18:47.809Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

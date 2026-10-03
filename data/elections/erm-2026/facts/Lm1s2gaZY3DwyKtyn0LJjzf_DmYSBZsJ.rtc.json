@@ -1,0 +1,33 @@
+{
+  "candidateId": "Lm1s2gaZY3DwyKtyn0LJjzf_DmYSBZsJ",
+  "facts": [
+    {
+      "id": "rtc-88846-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CORPORATIVO GHEMINISS EIRL\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20516384094\nEMPRESA INDIVIDUAL DE RESP. LTDA\nEstado: ACTIVO\nCondición: HABIDO\n93 contratos con el Estado · S/ 1,138,574.72",
+      "sourceIds": [
+        "rtc-88846-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-88846-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=independencia&cargo=alcalde-distrital&organizacion=15&candidato=88846",
+      "sha256": "9799301ce877a15e51b7d9e76403df27f4847cb213576e3dc68626d4c2a85c03",
+      "accessedAt": "2026-10-03T01:05:52.055Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

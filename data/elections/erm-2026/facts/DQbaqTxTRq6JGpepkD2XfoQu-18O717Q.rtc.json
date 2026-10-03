@@ -1,0 +1,37 @@
+{
+  "candidateId": "DQbaqTxTRq6JGpepkD2XfoQu-18O717Q",
+  "facts": [
+    {
+      "id": "rtc-90078-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s), 1 falta(s) grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "1",
+        "faltasMuyGraves": "1",
+        "papeletas": "3",
+        "puntosAcumulados": "35",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s) · 1 falta(s) grave(s)",
+      "sourceIds": [
+        "rtc-90078-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90078-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurigancho&cargo=alcalde-distrital&organizacion=39&candidato=90078",
+      "sha256": "77fa88392eb3f34708493ebdb9c5a0b316e08709c7bb30f297ac30203266a6f0",
+      "accessedAt": "2026-10-03T00:46:02.796Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

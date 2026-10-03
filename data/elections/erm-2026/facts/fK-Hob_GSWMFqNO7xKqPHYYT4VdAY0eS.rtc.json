@@ -1,0 +1,63 @@
+{
+  "candidateId": "fK-Hob_GSWMFqNO7xKqPHYYT4VdAY0eS",
+  "facts": [
+    {
+      "id": "rtc-87763-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "CONSULTANTS AND CORPORATE S.A.C\nAccionista (0.1%)\nRUC: 20544947690\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 26/07/2023\nCondición: HABIDO\nSin contratos con el Estado\nRICARDOS Y MAS S.A.C.\nAccionista (97.98%)\nAdministración\nRepresentante legal\nRUC: 20606101598\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-87763-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-87763-transito",
+      "category": "traffic",
+      "summary": "Según RTC (datos del MTC): 1 falta(s) muy grave(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "MTC (SLCP y SCPPP)",
+        "faltasGraves": "0",
+        "faltasMuyGraves": "1",
+        "papeletas": "1",
+        "puntosAcumulados": "0",
+        "licencia": "Vigente"
+      },
+      "quote": "1 falta(s) muy grave(s)",
+      "sourceIds": [
+        "rtc-87763-deudas-y-obligaciones"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87763-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=6&candidato=87763",
+      "sha256": "d449ce5ca965465029be85558352a7093d66ce5ca71b1ef9d5066e4855aada51",
+      "accessedAt": "2026-10-03T00:41:00.521Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    },
+    {
+      "id": "rtc-87763-deudas-y-obligaciones",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=6&candidato=87763",
+      "sha256": "edbaf339e392dcd8acb92f007239b74d9619e84fbcf4c5c53d3393b6a961c16a",
+      "accessedAt": "2026-10-03T00:41:00.521Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Deudas y obligaciones\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

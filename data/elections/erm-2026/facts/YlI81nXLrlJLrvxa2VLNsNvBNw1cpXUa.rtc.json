@@ -1,0 +1,32 @@
+{
+  "candidateId": "YlI81nXLrlJLrvxa2VLNsNvBNw1cpXUa",
+  "facts": [
+    {
+      "id": "rtc-87067-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "MUÑOZ ZEVALLOS NICOLE FIORELLA\nRUC: [RUC de persona natural omitido]\nTipo: PERSONA NATURAL SIN NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 16/01/2015\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-87067-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87067-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=barranco&cargo=alcalde-distrital&organizacion=41&candidato=87067",
+      "sha256": "35905a0c37e0877ee5082a594e2b08ddf8fc0f909b2f400cf967ea7a57da62ad",
+      "accessedAt": "2026-10-03T00:53:58.898Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

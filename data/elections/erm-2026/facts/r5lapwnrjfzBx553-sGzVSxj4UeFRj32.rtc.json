@@ -1,0 +1,33 @@
+{
+  "candidateId": "r5lapwnrjfzBx553-sGzVSxj4UeFRj32",
+  "facts": [
+    {
+      "id": "rtc-91398-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "ELECTRO INDUSTRIAL DIERIK EIRL\nAccionista (100%)\nAdministración\nRepresentante legal\nRUC: 20510880421\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 25/07/2023\nCondición: HABIDO\n29 contratos con el Estado · S/ 1,692,201.68\nCOMERCIAL ELECTRO LIMAGUI S.R.L.\nAccionista (50%)\nAdministración\nRepresentante legal\nRUC: 20424066606\nSOC.COM.RESPONS. LTDA\nBAJA DE OFICIO Fecha de Baja: 26/07/2023\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-91398-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-91398-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=san+juan+de+lurigancho&cargo=alcalde-distrital&organizacion=3&candidato=91398",
+      "sha256": "f932e82fb4e270704a1f3456ff4b3bc09459399d4033f91428e2a94f761884fb",
+      "accessedAt": "2026-10-03T00:19:42.389Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

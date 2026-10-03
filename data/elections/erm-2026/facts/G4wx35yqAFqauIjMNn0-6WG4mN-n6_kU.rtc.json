@@ -1,0 +1,50 @@
+{
+  "candidateId": "G4wx35yqAFqauIjMNn0-6WG4mN-n6_kU",
+  "facts": [
+    {
+      "id": "rtc-90068-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 11 contrato(s) con el Estado por S/ 56,762.67.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "11",
+        "montoTotal": "S/ 56,762.67"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n11 contratos\nS/ 56,762.67\nORGANISMO DE EVALUACION Y FISCALIZACION AMBIENTAL\nCONTRATACIÓN DEL SERVICIO DE ANALISIS DE ESCENARIOS Y GESTION DE RIESGOS PARA LA SOSTENIBILIDAD DE LA ENTIDAD\nMonto: S/ 18,000\nCódigo: 2@40253844\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE SAN JUAN DE LURIGANCHO\nSERVICIO DE AUXILIAR ADMINISTRATIVO PARA LA GERENCIA DE ADMINISTRACION TRIBUTARIA, SEGUN TERMINOS DE REFERENCIA CORRESPONDIENTE A LOS MESES DE ENERO Y FEBRERO\nMonto: S/ 6,600\nCódigo: 2@29967144\nSERVICIO\nEstado: Contratado\nRU",
+      "sourceIds": [
+        "rtc-90068-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-90068-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 1 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "1"
+      },
+      "quote": "CONSORCIO INVERSIONISTA DEL SUR E.I.R.L.\nAccionista (100%)\nRUC: 20524525209\nEMPRESA INDIVIDUAL DE RESP. LTDA\nBAJA DE OFICIO Fecha de Baja: 31/10/2024\nCondición: HABIDO\n17 contratos con el Estado · S/ 166,575.6",
+      "sourceIds": [
+        "rtc-90068-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-90068-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=lurigancho&cargo=alcalde-distrital&organizacion=49&candidato=90068",
+      "sha256": "7e1f35c49acc6dea0d8d958ab5d4b28547d5aab0da62ccfa3a0d04ddd00dec57",
+      "accessedAt": "2026-10-03T00:46:21.015Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

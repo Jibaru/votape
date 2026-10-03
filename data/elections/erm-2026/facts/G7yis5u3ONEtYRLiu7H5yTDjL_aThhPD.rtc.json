@@ -1,0 +1,34 @@
+{
+  "candidateId": "G7yis5u3ONEtYRLiu7H5yTDjL_aThhPD",
+  "facts": [
+    {
+      "id": "rtc-87770-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 21 contrato(s) con el Estado por S/ 310,500.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "21",
+        "montoTotal": "S/ 310,500"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n21 contratos\nS/ 310,500\nAUTORIDAD NACIONAL DE INFRAESTRUCTURA\nSERVICIO EN GESTIÓN DE INFORMACIÓN TÉCNICA EN TECNOLOGÍAS DE LA .INFORMACIÓN Y COMUNICACIÓN (TIC) P\nMonto: S/ 20,000\nCódigo: 2@40228810\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nAUTORIDAD NACIONAL DE INFRAESTRUCTURA\nSERVICIO DE GESTIÓN DE PROYECTOS DE TECNOLOGÍA INFORMÁTICA PARA EL PROYECTO \"MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO DE ATENCIÓN DE SALUD EN EL CENTRO DE SALUD AGALLPAMPA\" CON CUI N° 2643849 DE LA CARTERA DE LA SUBDIRECCIÓN DE ESTUDIOS DE IN\nMonto: S/ 20,000\nCó",
+      "sourceIds": [
+        "rtc-87770-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-87770-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=chorrillos&cargo=alcalde-distrital&organizacion=23&candidato=87770",
+      "sha256": "841c46df9bd192b1085640da567203975e14a906f984fc6cd9194be6ee8aef09",
+      "accessedAt": "2026-10-03T00:40:24.061Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "candidateId": "cBFGizJvVHJ2dWo7uBOrNkJGtck4KC1x",
+  "facts": [
+    {
+      "id": "rtc-89359-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 24 contrato(s) con el Estado por S/ 307,048.01.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "24",
+        "montoTotal": "S/ 307,048.01"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n24 contratos\nS/ 307,048.01\nMUNICIPALIDAD DISTRITAL DE CHACLACAYO\nADQUISICION DE POSTE PINTURA LATEX COLOR NEGRO, BLANCO, ROJO, TEMPLE BLANCO 30 KG, BROCHA 4\", LIJA PARA PARED GRAMO 180, ESPATULA 3\" CON MANGO DE MADERA, CINTA MASKING TAPE DE 2\" ANCHO, DISOLVENTE ACRILICO, ESMALTE SINTETICO, ESCOBA, BALDE DE 15L, SACOS TERREROS, DETERGENTE Y TRAPEADOR\nMonto: S/ 2,768\nCódigo: 2@24948685\nBIEN\nEstado: Contratado\nRUC: [RUC de persona natural omitido]\nMUNICIPALIDAD DISTRITAL DE PUENTE PIEDRA\nSERVICIO DE REPARACION PARA UNIDADES VEHICULARES DE LA SUBGERENCIA DE SE",
+      "sourceIds": [
+        "rtc-89359-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89359-sunat-coactiva",
+      "category": "registered_debt",
+      "summary": "Según RTC (datos de SUNAT): registra deuda en cobranza coactiva.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT"
+      },
+      "quote": "MELCHOR TORRES ERICK\nRUC: [RUC de persona natural omitido]\nNombre comercial: INVERSIONES Y MULTISERV. E&M\nTipo: PERSONA NATURAL CON NEGOCIO\nEstado: ACTIVO\nCondición: HABIDO\nRegistro: 16/02/2007\nDeuda coactiva",
+      "sourceIds": [
+        "rtc-89359-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89359-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=los+olivos&cargo=alcalde-distrital&organizacion=21&candidato=89359",
+      "sha256": "5b2e82cd74102e628b72b1fcbdaa4625f7b5be2b3f23ac9ca4189a6c605b0bd5",
+      "accessedAt": "2026-10-03T01:14:51.997Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}

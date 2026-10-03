@@ -1,0 +1,50 @@
+{
+  "candidateId": "SaZ69_IyxzapZs5Hwny0p0hxzgnfPozF",
+  "facts": [
+    {
+      "id": "rtc-89683-oece-state_contract",
+      "category": "state_contract",
+      "summary": "Según RTC (datos del OECE): 1 contrato(s) con el Estado por S/ 18,000.",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "OECE",
+        "cantidad": "1",
+        "montoTotal": "S/ 18,000"
+      },
+      "quote": "RUC: [RUC de persona natural omitido]\n1 contrato\nS/ 18,000\nMINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES- ADMINISTRACIÓN GENERAL\nSERVICIO DE SISTEMATIZACIÓN DE INFORMACIÓN DE BUENAS PRÁCTICAS O EXPERIENCIAS EXITOSAS DE LAS PERSONAS JURÍDICAS ACREEDORAS DE LAS LICENCIAS DE USO DE LA MARCA DE CERTIFICACIÓN: EMPRESA SEGURA, LIBRE DE VIOLENCIA Y DISCRIMINACIÓN CONTRA LA MUJER, ENLA IV EDICIÓN.\nMonto: S/ 18,000\nCódigo: 2@14575070\nSERVICIO\nEstado: Contratado\nRUC: [RUC de persona natural omitido]",
+      "sourceIds": [
+        "rtc-89683-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rtc-89683-sunat-y-oece-company_link",
+      "category": "company_link",
+      "summary": "Según RTC (datos de SUNAT y OECE): figura como accionista, administrador o representante de 2 empresa(s).",
+      "evidence": "agregador",
+      "legalStatus": "n/a",
+      "details": {
+        "registro": "SUNAT y OECE",
+        "cantidad": "2"
+      },
+      "quote": "SUMADCO S.A.C.\nAccionista (10%)\nRUC: 20601318009\nSOCIEDAD ANONIMA CERRADA\nBAJA DE OFICIO Fecha de Baja: 31/01/2025\nCondición: HABIDO\n3 contratos con el Estado · S/ 53,526.87\nGRUPO UMANS S.A.C. - UMANS S.A.C.\nAccionista (66.67%)\nAdministración\nRepresentante legal\nRUC: 20601112621\nSOCIEDAD ANONIMA CERRADA\nEstado: ACTIVO\nCondición: HABIDO\nSin contratos con el Estado",
+      "sourceIds": [
+        "rtc-89683-contratos-con-el-estado"
+      ],
+      "needsReview": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "rtc-89683-contratos-con-el-estado",
+      "providerId": "rtc",
+      "url": "https://revisatucandidato.pe/elecciones-regionales-municipales/lista?region=lima&provincia=lima&distrito=magdalena+del+mar&cargo=alcalde-distrital&organizacion=3&candidato=89683",
+      "sha256": "06d87932710fc11a80a564138f32a0a58f75a8fe07ecd10ede669daeeefabe57",
+      "accessedAt": "2026-10-03T00:59:27.651Z",
+      "publisher": "Revisa Tu Candidato (Consorcio RTC)",
+      "title": "Ficha del candidato · pestaña \"Contratos con el Estado\" (captura en el archivo privado de votape)",
+      "extractedBy": "scraper"
+    }
+  ]
+}
