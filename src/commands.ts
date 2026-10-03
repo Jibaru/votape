@@ -43,6 +43,7 @@ const CATEGORY_SHORT: Partial<Record<FactCategory, string>> = {
   sanction: "sanción",
   state_contract: "contratos",
   registered_debt: "deuda",
+  company_link: "empresas",
   traffic: "tránsito",
   reinfo: "reinfo",
   criminal_sentence: "penal",
@@ -167,7 +168,7 @@ function candidateTable(rows: CandidateSummary[], showJurisdiction: boolean): st
 
 const legend = () =>
   muted(
-    "  penal / oblig. = sentencia penal o por obligación DECLARADA por el candidato en su hoja de vida del JNE · anot. = anotación marginal del JNE\n  prensa / proceso / sanción = hallazgos de prensa revisados por una persona; su estado legal está en el perfil (votape candidate get)",
+    "  penal / oblig. = sentencia penal o por obligación DECLARADA por el candidato en su hoja de vida del JNE · anot. = anotación marginal del JNE\n  prensa / proceso = hallazgos de prensa revisados por una persona · contratos / empresas / deuda / sanción / tránsito = registros oficiales vía RTC · detalle y fuentes: votape candidate get",
   );
 
 // ---------------------------------------------------------------- candidate
